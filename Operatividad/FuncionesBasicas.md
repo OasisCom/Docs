@@ -1,2 +1,2 @@
-# funcionesbasicas
+# FUNCIONES BASICAS
 FUNCIONES BASICAS
