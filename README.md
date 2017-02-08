@@ -91,6 +91,9 @@ Consulte en el [índice de la guía del colaborador](contributor-guide/contribut
 
 <!--HONumber=Dec16_HO1-->
 
+### Operatividad
+
+* [Funciones Basicas](http://docs.oasiscom.com/Operatividad/FuncionesBasicas)
 
 orientación.
 
