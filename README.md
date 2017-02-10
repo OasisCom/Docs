@@ -25,7 +25,7 @@ Puede enviar actualizaciones a la [documentación de OasisCom](https://docs.oasi
 * Si realiza cambios sustanciales en un artículo existente, agrega o cambia imágenes, o colabora en un nuevo artículo, necesitará bifurcar este repositorio, instalar GIT Bash, MarkdownPad y obtener información acerca de algunos comandos de GIT.
 
 ## <a name="code-of-conduct"></a>Código de conducta
-Este proyecto ha adoptado el [oasiscom Open Source Code of Conduct](https://opensource.oasiscom.com/codeofconduct/) (Código de conducta de código abierto de oasiscom). Para más información, consulte las [preguntas más frecuentes del código de conducta](https://opensource.oasiscom.com/codeofconduct/faq/) o póngase en contacto con [opencode@oasiscom.com](mailto:opencode@oasiscom.com) si tiene cualquier otra pregunta o comentario.
+Este proyecto ha adoptado el [oasiscom Open Source Code of Conduct](https://opensource.oasiscom.com/codeofconduct/) (Código de conducta de código abierto de oasiscom). Para más información, consulte las [preguntas más frecuentes del código de conducta](https://opensource.oasiscom.com/codeofconduct/faq/) o póngase en contacto con [info@oasiscom.com](mailto:opencode@oasiscom.com) si tiene cualquier otra pregunta o comentario.
 
 ## <a name="about-your-contributions-to-OasisCom-content"></a>Acerca de su colaboración en el contenido de OasisCom
 ### <a name="minor-corrections"></a>Correcciones menores
