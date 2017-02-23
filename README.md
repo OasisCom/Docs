@@ -1,5 +1,4 @@
-# manuals
-Users Manuals
+﻿
 # <a name="OasisCom-technical-documentation-contributor-guide"></a>Guía del colaborador de documentación técnica de OasisCom
 Ha encontrado el repositorio de GitHub que contiene los archivos de origen de la documentación técnica que se publica en [http://docs.oasiscom.com](http://docs.oasiscom.com).
 
@@ -89,16 +88,10 @@ Consulte en el [índice de la guía del colaborador](contributor-guide/contribut
 
 
 
-<!--HONumber=Dec16_HO1-->
-
 ### Operatividad
 
 * [Funciones Basicas](http://docs.oasiscom.com/Operatividad/FuncionesBasicas)
 
 orientación.
-
-
-
-<!--HONumber=Dec16_HO1-->
 
 

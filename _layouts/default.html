@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<div id="headerdiv">
+{% include head.html %}
+{% include header.html %}
+</div>
+<body>
+	<div id="menudiv">
+	{% include nav.html nav=site.data.menu %}
+	</div>
+	<div id="maindiv">
+		<main>
+			{% if page.repository %}
+			<a id="forkme_banner" href="{{ site.github.repository_url }}/blob/master{{ page.repository }}.md">Ver en GitHub</a>
+			{% endif %}
+			<article>			
+				{{ content }}
+			</article>
+			{% include footer.html %}
+		</main>
+	</div>
+</body>
+</html>

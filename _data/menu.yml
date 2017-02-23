@@ -1,0 +1,68 @@
+# Important: all URLs must have a trailing slash!
+- text: Home
+  url: /
+- text: Operatividad
+  url: /Operatividad/
+  subitems:
+    - text: Funciones Basicas
+      url: /Operatividad/FuncionesBasicas/
+- text: Financiera FIN
+  url: /FinancieraFIN/
+  subitems:
+    - text: Contabilidad
+      url: /FinancieraFIN/Contabilidad/
+      subitems:
+        - text: Datos Basicos
+          url: /FinancieraFIN/Contabilidad/DatosBasicos/
+          subitems:
+            - text: Libros
+              url: /FinancieraFIN/Contabilidad/DatosBasicos/Libros/
+        - text: Saldos
+          url: /FinancieraFIN/Contabilidad/Saldos/
+          subitems:
+            - text: Saldos de Contabilidad
+              url: /FinancieraFIN/Contabilidad/Saldos/SaldosContabilidad/
+    - text: Tesoreria
+      url: /FinancieraFIN/Tesoreria/
+      subitems:
+        - text: Datos Basicos
+          url: /FinancieraFIN/Tesoreria/DatosBasicos/
+          subitems:
+            - text: Bancos
+              url: /FinancieraFIN/Tesoreria/DatosBasicos/Bancos/
+        - text: Saldos
+          url: /FinancieraFIN/Tesoreria/Saldos/
+          subitems:
+            - text: Saldos de Tesoreria
+              url: /FinancieraFIN/Tesoreria/Saldos/SaldosTesoreria/
+- text: Logistica SCM
+  url: /LogisticaSCM/
+  subitems:
+    - text: Ventas
+      url: /LogisticaSCM/Ventas/
+      subitems:
+        - text: Cotizaciones
+          url: /LogisticaSCM/Ventas/Cotizaciones/
+          subitems:
+            - text: Cotizaciones
+              url: /LogisticaSCM/Ventas/Cotizaciones/Cotizaciones/
+        - text: Pedidos
+          url: /LogisticaSCM/Ventas/Pedidos/
+          subitems:
+            - text: Pedidos
+              url: /LogisticaSCM/Ventas/Pedidos/Pedidos/
+    - text: Facturacion
+      url: /LogisticaSCM/Facturacion/
+      subitems:
+        - text: Datos Basicos
+          url: /LogisticaSCM/Facturacion/DatosBasicos/
+          subitems:
+            - text: Tipos de Precio
+              url: /LogisticaSCM/Facturacion/DatosBasicos/TiposPrecio/
+        - text: Precios
+          url: /LogisticaSCM/Facturacion/Precios/
+          subitems:
+            - text: Precios
+              url: /LogisticaSCM/Facturacion/Precios/Precios/
+- text: Sitemap
+  url: /sitemap/
