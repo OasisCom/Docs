@@ -1,3 +1,9 @@
+---
+layout: page
+title: OperatividadBasica
+permalink: /operatividadbasica/
+---
+
 # FUNCIONES BASICAS
 FUNCIONES BASICAS
 
