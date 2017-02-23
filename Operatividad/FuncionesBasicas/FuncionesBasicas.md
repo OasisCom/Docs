@@ -1,9 +1,9 @@
 ---
-layout: page
-title: OperatividadBasica
-permalink: /operatividadbasica/
+layout: default
+title: Funciones Basicas
+permalink: /Operatividad/FuncionesBasicas/
+editable: si
 ---
-
 # FUNCIONES BASICAS
 FUNCIONES BASICAS
 
