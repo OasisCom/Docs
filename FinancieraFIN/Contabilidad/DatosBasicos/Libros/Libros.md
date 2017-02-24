@@ -6,7 +6,7 @@ editable: si
 ---
 
 # LIBROS
-Documentacion de Libros Contables.
+Documentacion de Libros Contables oficiales.
 
 
 ### Ayuda
