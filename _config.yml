@@ -17,4 +17,4 @@ kramdown:
   input: GFM
 markdown: kramdown
 theme: jekyll-theme-slate
-repository: OasisCom/manuals
+repository: OasisCom/Docs
