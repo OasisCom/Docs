@@ -1,5 +1,5 @@
 ﻿
-# <a name="OasisCom-technical-documentation-contributor-guide"></a>Guía del colaborador de documentación técnica de OasisCom
+# <a name="OasisCom-technical-documentation-contributor-guide"></a>Guía del colaborador de documentación de OasisCom
 Ha encontrado el repositorio de GitHub que contiene los archivos de origen de la documentación técnica que se publica en [http://docs.oasiscom.com](http://docs.oasiscom.com).
 
 Este repositorio también incluye una guía para ayudarle a colaborar con nuestra documentación técnica. Si quiere ver la lista de artículos de la guía del colaborador, consulte [el índice](contributor-guide/contributor-guide-index.md).
@@ -18,9 +18,9 @@ Gracias por su interés en la documentación de OasisCom.
 * [Índice de todos los artículos de la guía del colaborador](contributor-guide/contributor-guide-index.md) (abre una nueva página)
 
 ## <a name="ways-to-contribute"></a>Formas de colaborar
-Puede enviar actualizaciones a la [documentación de OasisCom](https://docs.oasiscom.com/OasisCom) como se indica a continuación:
+Puede enviar actualizaciones a la [documentación de OasisCom](http://docs.oasiscom.com/Docs) como se indica a continuación:
 
-* Puede colaborar fácilmente en artículos técnicos en la interfaz de usuario de GitHub. Busque el artículo en este repositorio, o consulte al artículo en [https://docs.oasiscom.com/OasisCom](https://docs.oasiscom.com/OasisCom) y haga clic en el vínculo del artículo que abre el origen del artículo en GitHub.
+* Puede colaborar fácilmente en artículos técnicos en la interfaz de usuario de GitHub. Busque el artículo en este repositorio, o consulte al artículo en [http://docs.oasiscom.com](http://docs.oasiscom.com) y haga clic en el vínculo del artículo que abre el origen del artículo en GitHub.
 * Si realiza cambios sustanciales en un artículo existente, agrega o cambia imágenes, o colabora en un nuevo artículo, necesitará bifurcar este repositorio, instalar GIT Bash, MarkdownPad y obtener información acerca de algunos comandos de GIT.
 
 ## <a name="code-of-conduct"></a>Código de conducta
@@ -34,7 +34,7 @@ Las correcciones menores o aclaraciones que se envían para la documentación y 
 Si envía una solicitud de incorporación de cambios con cambios importantes o nuevos en la documentación y los ejemplos de código, pondremos un comentario en GitHub para solicitarle que acepte el contrato de licencia de colaboración (CLA, por sus siglas en inglés) si no es un empleado de oasiscom. Necesitamos que rellene el formulario en línea para aceptar su solicitud de incorporación de cambios.
 
 ## <a name="repository-organization"></a>Organización del repositorio
-El contenido del repositorio OasisCom-docs está organizado como la documentación de https://docs.oasiscom.com/OasisCom. Este repositorio tiene dos carpetas raíz:
+El contenido del repositorio OasisCom-docs está organizado como la documentación de https://docs.oasiscom.com. Este repositorio tiene dos carpetas raíz:
 
 ### <a name="articles"></a>\articles
 La carpeta *\articles* contiene los artículos de la documentación en formato de archivos de Markdown, con la extensión *.md*. Los artículos normalmente se agrupan por servicio de OasisCom.
