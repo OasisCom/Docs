@@ -721,6 +721,8 @@
           url: /Operacion/system/auditoria/
         - text: Reportes
           url: /Operacion/system/sreporte/
+- text: Comercializacion
+  url: /Comercializacion/
 - text: Implantacion
   url: /Implantacion/
 - text: Capacitacion
@@ -729,7 +731,5 @@
   url: /Desarrollo/
 - text: Soporte
   url: /Soporte/
-- text: Comercializacion
-  url: /Comercializacion/
 - text: Sitemap
   url: /sitemap/
