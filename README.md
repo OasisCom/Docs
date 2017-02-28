@@ -10,3 +10,5 @@ El objetivo es que se mantenga actualizada para servir como guía a los diferent
 Al ser una documentación genérica, debemos garantizar que las guías u hechos consignados aquí, apliquen para todos los mercados, países, industrias y tamaños en los cuales se puede instalar la solución. Si no es así hacer clara referencia a las condiciones para cada tipo.
 
 Igualmente al ser una documentación colaborativa, debemos velar todos los colaboradores para que tenga la información lo más exacta y precisa de tal manera que transmita el conocimiento de la forma más efectiva posible.
+
+PRUEBA
