@@ -12,6 +12,9 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/erp/contabilidad/kbasica/
+              subitems:
+              - text: Libros
+                url: /Operacion/erp/contabilidad/kbasica/klib
             - text: Saldos
               url: /Operacion/erp/contabilidad/ksaldo/
             - text: Movimientos
