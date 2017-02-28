@@ -1,68 +1,735 @@
 # Important: all URLs must have a trailing slash!
 - text: Home
   url: /
-- text: Operatividad
-  url: /Operatividad/
+- text: Operacion
+  url: /Operacion/
   subitems:
-    - text: Funciones Basicas
-      url: /Operatividad/FuncionesBasicas/
-- text: Financiera FIN
-  url: /FinancieraFIN/
-  subitems:
-    - text: Contabilidad
-      url: /FinancieraFIN/Contabilidad/
+    - text: Financiera FIN
+      url: /Operacion/erp/
       subitems:
-        - text: Datos Basicos
-          url: /FinancieraFIN/Contabilidad/DatosBasicos/
+        - text: Contabilidad
+          url: /Operacion/erp/contabilidad/
           subitems:
-            - text: Libros
-              url: /FinancieraFIN/Contabilidad/DatosBasicos/Libros/
-        - text: Saldos
-          url: /FinancieraFIN/Contabilidad/Saldos/
+            - text: Datos Basicos
+              url: /Operacion/erp/contabilidad/kbasica/
+            - text: Saldos
+              url: /Operacion/erp/contabilidad/ksaldo/
+            - text: Movimientos
+              url: /Operacion/erp/contabilidad/kmovimient/
+            - text: Comprobantes Repetitivos
+              url: /Operacion/erp/contabilidad/krepetitiv/
+            - text: Medios Magneticos
+              url: /Operacion/erp/contabilidad/kmedios/
+            - text: Formatos Contabilidad
+              url: /Operacion/erp/contabilidad/kformatos/
+            - text: Procesos Especiales
+              url: /Operacion/erp/contabilidad/kproceso/
+            - text: Reportes
+              url: /Operacion/erp/contabilidad/kreporte/
+        - text: Tesoreria
+          url: /Operacion/erp/tesoreria/
           subitems:
-            - text: Saldos de Contabilidad
-              url: /FinancieraFIN/Contabilidad/Saldos/SaldosContabilidad/
-    - text: Tesoreria
-      url: /FinancieraFIN/Tesoreria/
+            - text: Datos Basicos
+              url: /Operacion/erp/tesoreria/tbasica/
+            - text: Saldos
+              url: /Operacion/erp/tesoreria/tsaldo/
+            - text: Movimientos
+              url: /Operacion/erp/tesoreria/tmovimient/
+            - text: Conciliacion
+              url: /Operacion/erp/tesoreria/tconciliac/
+            - text: Procesos
+              url: /Operacion/erp/tesoreria/tproceso/
+            - text: Reportes
+              url: /Operacion/erp/tesoreria/treporte/
+        - text: Cartera
+          url: /Operacion/erp/cartera/
+          subitems:
+            - text: Saldos
+              url: /Operacion/erp/cartera/csaldo/
+            - text: Movimientos
+              url: /Operacion/erp/cartera/cmovimient/
+            - text: Operacion
+              url: /Operacion/erp/cartera/coperacion/
+            - text: Creditos
+              url: /Operacion/erp/cartera/ccredito/
+            - text: Procesos Especiales
+              url: /Operacion/erp/cartera/cproceso/
+            - text: Reportes
+              url: /Operacion/erp/cartera/creporte/
+        - text: Cuentas por Pagar
+          url: /Operacion/erp/cuentas/
+          subitems:
+            - text: Saldos
+              url: /Operacion/erp/cuentas/psaldo/
+            - text: Movimientos
+              url: /Operacion/erp/cuentas/pmovimient/
+            - text: Conciliacion
+              url: /Operacion/erp/cuentas/pconciliac/
+            - text: Ordenes de Pago
+              url: /Operacion/erp/cuentas/porden/
+            - text: Procesos Especiales
+              url: /Operacion/erp/cuentas/pproceso/
+            - text: Reportes
+              url: /Operacion/erp/cuentas/preporte/
+        - text: Activos Fijos
+          url: /Operacion/erp/activos/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/erp/activos/hbasica/
+            - text: Saldos
+              url: /Operacion/erp/activos/hsaldo/
+            - text: Movimientos
+              url: /Operacion/erp/activos/hmovimient/
+            - text: Contratos
+              url: /Operacion/erp/activos/hcontrato/
+            - text: Inventario Fisico
+              url: /Operacion/erp/activos/hfisico/
+            - text: Procesos Especiales
+              url: /Operacion/erp/activos/hproceso/
+            - text: Reportes
+              url: /Operacion/erp/activos/hreporte/
+        - text: Presupuesto
+          url: /Operacion/erp/presupuesto/
+          subitems:
+            - text: Presupuesto de Contabilidad
+              url: /Operacion/erp/presupuesto/qcontabili/
+            - text: Reportes Ppto Cont
+              url: /Operacion/erp/presupuesto/qcreporte/
+            - text: Presupuesto de Tesoreria
+              url: /Operacion/erp/presupuesto/qtesoreria/
+            - text: Reportes
+              url: /Operacion/erp/presupuesto/qtreporte/
+        - text: Inversiones
+          url: /Operacion/erp/inversiones/
+          subitems:
+            - text: Inversiones
+              url: /Operacion/erp/inversiones/tinversion/
+        - text: Presupuesto Oficial
+          url: /Operacion/erp/presupuestoo/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/erp/presupuestoo/qbasica/
+            - text: Movimientos
+              url: /Operacion/erp/presupuestoo/qmovimient/
+            - text: Consultas
+              url: /Operacion/erp/presupuestoo/qconsulta/
+            - text: Procesos Especiales
+              url: /Operacion/erp/presupuestoo/qproceso/
+            - text: Reportes
+              url: /Operacion/erp/presupuestoo/qreporte/
+        - text: Asociados
+          url: /Operacion/erp/asociados/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/erp/asociados/zbasica/
+            - text: Saldos
+              url: /Operacion/erp/asociados/zsaldo/
+            - text: Movimientos
+              url: /Operacion/erp/asociados/zmovimient/
+            - text: Procesos Especiales
+              url: /Operacion/erp/asociados/zproceso/
+            - text: Reportes
+              url: /Operacion/erp/asociados/zreporte/
+    - text: Logistica SCM
+      url: /Operacion/scm/
       subitems:
-        - text: Datos Basicos
-          url: /FinancieraFIN/Tesoreria/DatosBasicos/
-          subitems:
-            - text: Bancos
-              url: /FinancieraFIN/Tesoreria/DatosBasicos/Bancos/
-        - text: Saldos
-          url: /FinancieraFIN/Tesoreria/Saldos/
-          subitems:
-            - text: Saldos de Tesoreria
-              url: /FinancieraFIN/Tesoreria/Saldos/SaldosTesoreria/
-- text: Logistica SCM
-  url: /LogisticaSCM/
-  subitems:
-    - text: Ventas
-      url: /LogisticaSCM/Ventas/
-      subitems:
-        - text: Cotizaciones
-          url: /LogisticaSCM/Ventas/Cotizaciones/
+        - text: Ventas
+          url: /Operacion/scm/ventas/
           subitems:
             - text: Cotizaciones
-              url: /LogisticaSCM/Ventas/Cotizaciones/Cotizaciones/
-        - text: Pedidos
-          url: /LogisticaSCM/Ventas/Pedidos/
-          subitems:
+              url: /Operacion/scm/ventas/vcotizacio/
             - text: Pedidos
-              url: /LogisticaSCM/Ventas/Pedidos/Pedidos/
-    - text: Facturacion
-      url: /LogisticaSCM/Facturacion/
-      subitems:
-        - text: Datos Basicos
-          url: /LogisticaSCM/Facturacion/DatosBasicos/
+              url: /Operacion/scm/ventas/vpedido/
+            - text: Despachos
+              url: /Operacion/scm/ventas/vdespacho/
+            - text: Contratos
+              url: /Operacion/scm/ventas/vcontrato/
+            - text: Procesos Especiales
+              url: /Operacion/scm/ventas/vproceso/
+            - text: Reportes
+              url: /Operacion/scm/ventas/vreporte/
+        - text: Facturacion
+          url: /Operacion/scm/facturacion/
           subitems:
-            - text: Tipos de Precio
-              url: /LogisticaSCM/Facturacion/DatosBasicos/TiposPrecio/
-        - text: Precios
-          url: /LogisticaSCM/Facturacion/Precios/
+            - text: Datos Basicos
+              url: /Operacion/scm/facturacion/fbasica/
+            - text: Precios
+              url: /Operacion/scm/facturacion/fprecio/
+            - text: Facturas
+              url: /Operacion/scm/facturacion/ffactura/
+            - text: Comisiones
+              url: /Operacion/scm/facturacion/fcomision/
+            - text: Reportes
+              url: /Operacion/scm/facturacion/freporte/
+            - text: Presupuesto de Ventas
+              url: /Operacion/scm/facturacion/qventas/
+            - text: Consultas
+              url: /Operacion/scm/facturacion/qvconsulta/
+            - text: Resportes de Presupuesto
+              url: /Operacion/scm/facturacion/qvreporte/
+        - text: Punto de Venta POS
+          url: /Operacion/scm/pos/
+          subitems:
+            - text: Supervisor
+              url: /Operacion/scm/pos/jsuperv/
+            - text: Cajero
+              url: /Operacion/scm/pos/jcajero/
+            - text: Reportes
+              url: /Operacion/scm/pos/jreporte/
+        - text: Compras
+          url: /Operacion/scm/compras/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/scm/compras/obasica/
+            - text: Precios
+              url: /Operacion/scm/compras/oprecio/
+            - text: Requerimientos
+              url: /Operacion/scm/compras/orequerimi/
+            - text: Cotizaciones
+              url: /Operacion/scm/compras/ocotizacio/
+            - text: Ordenes de Compra
+              url: /Operacion/scm/compras/oorden/
+            - text: Facturas
+              url: /Operacion/scm/compras/ofactura/
+            - text: Procesos Especiales
+              url: /Operacion/scm/compras/oproceso/
+            - text: Resportes
+              url: /Operacion/scm/compras/oreporte/
+        - text: Contratos
+          url: /Operacion/scm/contratos/
+          subitems:
+            - text: Contratos
+              url: /Operacion/scm/contratos/ocontrato/
+        - text: Inventarios
+          url: /Operacion/scm/inventarios/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/scm/inventarios/ibasica/
+            - text: Saldos
+              url: /Operacion/scm/inventarios/isaldo/
+            - text: Movimientos
+              url: /Operacion/scm/inventarios/imovimient/
+            - text: Inventario Fisico 
+              url: /Operacion/scm/inventarios/ifisico/
+            - text: Niveles de Stock
+              url: /Operacion/scm/inventarios/inivel/
+            - text: Costos
+              url: /Operacion/scm/inventarios/icosto/
+            - text: Procesos Especiales
+              url: /Operacion/scm/inventarios/iproceso/
+            - text: Reportes
+              url: /Operacion/scm/inventarios/ireporte/
+        - text: Bodegas WMS
+          url: /Operacion/scm/wms/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/scm/wms/wmbasica/
+            - text: Movimientos
+              url: /Operacion/scm/wms/wmmovimient/
+            - text: Reportes
+              url: /Operacion/scm/wms/wmreporte/
+        - text: Importaciones
+          url: /Operacion/scm/importacion/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/scm/importacion/ybasica/
+            - text: Importaciones
+              url: /Operacion/scm/importacion/yimportaci/
+            - text: Liquidacion de Importaciones
+              url: /Operacion/scm/importacion/yliquidaci/
+            - text: Reportes de Importaciones
+              url: /Operacion/scm/importacion/yreporte/
+        - text: Distribucion
+          url: /Operacion/scm/distribucion/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/scm/distribucion/dbasica/
+            - text: Fletes
+              url: /Operacion/scm/distribucion/ddespacho/
+            - text: Novedades
+              url: /Operacion/scm/distribucion/dnovedad/
+            - text: Reportes
+              url: /Operacion/scm/distribucion/dreporte/
+    - text: Recursos Humanos HRM
+      url: /Operacion/hrm/
+      subitems:
+        - text: Nomina
+          url: /Operacion/hrm/nomina/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/hrm/nomina/nbasica/
+            - text: Novedades
+              url: /Operacion/hrm/nomina/nnovedad/
+            - text: Nomina
+              url: /Operacion/hrm/nomina/nnomina/
+            - text: Aportes
+              url: /Operacion/hrm/nomina/naporte/
+            - text: Provisiones
+              url: /Operacion/hrm/nomina/nprovision/
+            - text: Procesos Especiales
+              url: /Operacion/hrm/nomina/nproceso/
+            - text: Reportes
+              url: /Operacion/hrm/nomina/nreporte/
+        - text: Recursos Humanos
+          url: /Operacion/hrm/rhumanos/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/hrm/rhumanos/rbasica/
+            - text: Expediente
+              url: /Operacion/hrm/rhumanos/rexpediente/
+            - text: Estructura
+              url: /Operacion/hrm/rhumanos/restructura/
+            - text: Seleccion
+              url: /Operacion/hrm/rhumanos/rseleccion/
+            - text: Capacitacion
+              url: /Operacion/hrm/rhumanos/rcapacitacion/
+            - text: Evaluacion
+              url: /Operacion/hrm/rhumanos/revaluacion/
+            - text: Bienestar
+              url: /Operacion/hrm/rhumanos/rbienestar/
+            - text: Salud
+              url: /Operacion/hrm/rhumanos/rsalud/
+            - text: Reportes
+              url: /Operacion/hrm/rhumanos/rreporte/
+        - text: Asistencia
+          url: /Operacion/hrm/asistencia/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/hrm/asistencia/nabasica/
+            - text: Control de Asistencia
+              url: /Operacion/hrm/asistencia/nasistenci/
+            - text: Procesos Especiales
+              url: /Operacion/hrm/asistencia/naproceso/
+            - text: Reportes
+              url: /Operacion/hrm/asistencia/nareporte/
+    - text: Clientes CRM
+      url: /Operacion/crm/
+      subitems:
+        - text: Ventas
+          url: /Operacion/crm/venta/
+          subitems:
+            - text: Prospectos
+              url: /Operacion/crm/venta/aprospecto/
+            - text: Oportunidades
+              url: /Operacion/crm/venta/aoportunidad/
+            - text: Partners
+              url: /Operacion/crm/venta/apartner/
+            - text: Reportes
+              url: /Operacion/crm/venta/areporte/
+        - text: Mercadeo
+          url: /Operacion/crm/mercadeo/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/crm/mercadeo/mebasica/
+            - text: Eventos
+              url: /Operacion/crm/mercadeo/wevento/
+            - text: Comunicaciones
+              url: /Operacion/crm/mercadeo/wcomunicacion/
+            - text: Fidelizacion
+              url: /Operacion/crm/mercadeo/wfidelizacion/
+            - text: Competencia
+              url: /Operacion/crm/mercadeo/wcompetencia/
+            - text: Encuestas
+              url: /Operacion/crm/mercadeo/wencuesta/
+            - text: Reportes
+              url: /Operacion/crm/mercadeo/wreporte/
+        - text: Servicio
+          url: /Operacion/crm/servicio/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/crm/servicio/abasica/
+            - text: Agenda
+              url: /Operacion/crm/servicio/aagenda/
+            - text: Contactos
+              url: /Operacion/crm/servicio/acontacto/
+            - text: Peticiones
+              url: /Operacion/crm/servicio/apeticion/
+            - text: Actividades
+              url: /Operacion/crm/servicio/aactividad/
+        - text: Help Desk
+          url: /Operacion/crm/helpdesk/
+          subitems:
+            - text: Casos
+              url: /Operacion/crm/helpdesk/hdcaso/
+            - text: Actividades
+              url: /Operacion/crm/helpdesk/hdactividad/
+            - text: Reportes
+              url: /Operacion/crm/helpdesk/hdreporte/
+        - text: Desarrollo
+          url: /Operacion/crm/development/
+          subitems:
+            - text: Requerimientos
+              url: /Operacion/crm/development/derequerimiento/
+            - text: Cambios
+              url: /Operacion/crm/development/decambio/
+            - text: Reportes
+              url: /Operacion/crm/development/dereporte/
+        - text: Proyectos
+          url: /Operacion/crm/proyecto/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/crm/proyecto/prbasica/
+            - text: Planeacion
+              url: /Operacion/crm/proyecto/prplaneacion/
+            - text: Ejecucion
+              url: /Operacion/crm/proyecto/prejecucion/
+            - text: Consultas
+              url: /Operacion/crm/proyecto/prconsulta/
+            - text: Riesgos
+              url: /Operacion/crm/proyecto/prriesgos/
+            - text: Reportes
+              url: /Operacion/crm/proyecto/prreporte/
+        - text: Portales
+          url: /Operacion/crm/portal/
+          subitems:
+            - text: Clientes
+              url: /Operacion/crm/portal/cliente/
+            - text: Proveedores
+              url: /Operacion/crm/portal/proveedor/
+            - text: Empleados
+              url: /Operacion/crm/portal/empleado/
+            - text: Servicio
+              url: /Operacion/crm/portal/servicios/
+    - text: Manufactura MRP
+      url: /Operacion/mrp/
+      subitems:
+        - text: Produccion
+          url: /Operacion/mrp/produccion/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/mrp/produccion/lbasica/
+            - text: Estructura de Producto
+              url: /Operacion/mrp/produccion/lproducto/
+            - text: Programa de Produccion
+              url: /Operacion/mrp/produccion/lprograma/
+            - text: Requerimientos
+              url: /Operacion/mrp/produccion/lmaterial/
+            - text: Procesos Especiales
+              url: /Operacion/mrp/produccion/lproceso/
+            - text: Reportes
+              url: /Operacion/mrp/produccion/lreporte/
+        - text: Control
+          url: /Operacion/mrp/control/
+          subitems:
+            - text: Planeacion
+              url: /Operacion/mrp/control/lorden/
+            - text: Ejecucion
+              url: /Operacion/mrp/control/lcontrol/
+        - text: Costos
+          url: /Operacion/mrp/costos/
+          subitems:
+            - text: Costos Estandar
+              url: /Operacion/mrp/costos/uestandar/
+            - text: Costos Reales
+              url: /Operacion/mrp/costos/ucosto/
+            - text: Procesos Especiales
+              url: /Operacion/mrp/costos/uproceso/
+        - text: Mantenimiento
+          url: /Operacion/mrp/mantenimiento/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/mrp/mantenimiento/mbasica/
+            - text: Ordenes de Trabajo
+              url: /Operacion/mrp/mantenimiento/morden/
+            - text: Preventivo
+              url: /Operacion/mrp/mantenimiento/mpreventivo/
+            - text: Reportes
+              url: /Operacion/mrp/mantenimiento/mreporte/
+    - text: Decisiones DSS
+      url: /Operacion/dss/
+      subitems:
+        - text: BI Comercial
+          url: /Operacion/dss/bicom/
+        - text: BI Financiero
+          url: /Operacion/dss/bifin/
+        - text: BI Logistico
+          url: /Operacion/dss/biscm/
+        - text: BI Recursos Humanos
+          url: /Operacion/dss/bihrm/
+        - text: BI Clientes
+          url: /Operacion/dss/bicrm/
+        - text: BI Salud
+          url: /Operacion/dss/bieps/
+        - text: Bsc Tablero de Mando
+          url: /Operacion/dss/bsc/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/dss/bsc/wbasica/
+            - text: Consultas
+              url: /Operacion/dss/bsc/wconsulta/
+            - text: Ideas
+              url: /Operacion/dss/bsc/widea/
+            - text: Procesos Especiales
+              url: /Operacion/dss/bsc/wproceso/
+            - text: Reportes
+              url: /Operacion/dss/bsc/wreportes/
+        - text: Costos Abc
+          url: /Operacion/dss/abc/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/dss/abc/kbasica1/
+    - text: Soluciones Industria
+      url: /Operacion/is/
+      subitems:
+        - text: Transporte
+          url: /Operacion/is/transporte/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/is/transporte/dibasica/
+        - text: Salud
+          url: /Operacion/is/salud/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/is/salud/ebasica/
+            - text: Afiliaciones
+              url: /Operacion/is/salud/eafiliacion/
+              subitems:
+                - text: Consultas
+                  url: /Operacion/is/salud/eafiliacion/conafi/
+                - text: Aportantes
+                  url: /Operacion/is/salud/eafiliacion/movadm/
+                - text: Afiliaciones
+                  url: /Operacion/is/salud/eafiliacion/movafi/
+                - text: Procesos
+                  url: /Operacion/is/salud/eafiliacion/proafi/
+                - text: Reportes
+                  url: /Operacion/is/salud/eafiliacion/repafi/
+            - text: Contratos
+              url: /Operacion/is/salud/ecntpre/
+              subitems:
+                - text: Prestadores
+                  url: /Operacion/is/salud/ecntpre/conpre/
+                - text: Movimientos
+                  url: /Operacion/is/salud/ecntpre/movpre/
+                - text: Procesos
+                  url: /Operacion/is/salud/ecntpre/propre/
+                - text: Reportes
+                  url: /Operacion/is/salud/ecntpre/reppre/
+            - text: Autorizaciones
+              url: /Operacion/is/salud/eautorizacion/
+              subitems:
+                - text: Autorizaciones
+                  url: /Operacion/is/salud/eautorizacion/movaut/
+                - text: Consultas
+                  url: /Operacion/is/salud/eautorizacion/conaut/
+                - text: Alto Costo
+                  url: /Operacion/is/salud/eautorizacion/movalt/
+                - text: Comite Tecnico Cientifico
+                  url: /Operacion/is/salud/eautorizacion/movctc/
+                - text: Tutelas
+                  url: /Operacion/is/salud/eautorizacion/etutela/
+                - text: Recobros CTC - Tutelas
+                  url: /Operacion/is/salud/eautorizacion/movrec/
+                - text: Urgencias
+                  url: /Operacion/is/salud/eautorizacion/movurgencia/
+                - text: Referencia y Contrareferencia
+                  url: /Operacion/is/salud/eautorizacion/movref/
+                - text: Procesos
+                  url: /Operacion/is/salud/eautorizacion/prorec/
+                - text: Reportes
+                  url: /Operacion/is/salud/eautorizacion/repaut/
+            - text: Facturas
+              url: /Operacion/is/salud/efactura/
+              subitems:
+                - text: Consultas
+                  url: /Operacion/is/salud/efactura/confac/
+                - text: Facturas
+                  url: /Operacion/is/salud/efactura/movfac/
+                - text: Auditoria Medica
+                  url: /Operacion/is/salud/efactura/movaud/
+                - text: Procesos
+                  url: /Operacion/is/salud/efactura/profac/
+                - text: Reportes
+                  url: /Operacion/is/salud/efactura/repfac/
+            - text: Alto Costo
+              url: /Operacion/is/salud/ealtocosto/
+              subitems:
+                - text: Reportes
+                  url: /Operacion/is/salud/ealtocosto/repalt/
+            - text: Manejo de Riesgos
+              url: /Operacion/is/salud/eriesgo/
+              subitems:
+                - text: Consultas
+                  url: /Operacion/is/salud/eriesgo/conrie/
+                - text: Promocion y P.
+                  url: /Operacion/is/salud/eriesgo/conpyp/
+                - text: Calidad
+                  url: /Operacion/is/salud/eriesgo/movcal/
+                - text: Suficiencia
+                  url: /Operacion/is/salud/eriesgo/consuf/
+                - text: Nota Tecnica
+                  url: /Operacion/is/salud/eriesgo/repnot/
+                - text: Reportes Riesgos Grupales
+                  url: /Operacion/is/salud/eriesgo/repnot1/
+                - text: Procesos
+                  url: /Operacion/is/salud/eriesgo/pronot/
+                - text: Reportes
+                  url: /Operacion/is/salud/eriesgo/repsup/
+            - text: Atencion al Usuario
+              url: /Operacion/is/salud/esiau/
+              subitems:
+                - text: Encuestas
+                  url: /Operacion/is/salud/esiau/eencuesta/
+                - text: Peticiones Quejas y Reclamos
+                  url: /Operacion/is/salud/esiau/movsiau/
+                - text: Reportes
+                  url: /Operacion/is/salud/esiau/repsiau/
+        - text: Hospital
+          url: /Operacion/is/hospital/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/is/hospital/gbasica/
+            - text: Contratos
+              url: /Operacion/is/hospital/gcontrato/
+            - text: Historia Clinica
+              url: /Operacion/is/hospital/ghistoria/
+            - text: Citas
+              url: /Operacion/is/hospital/gcita/
+            - text: Servicios
+              url: /Operacion/is/hospital/gconsulta/
+            - text: Hospitalizacion
+              url: /Operacion/is/hospital/ghospital/
+            - text: Farmacia
+              url: /Operacion/is/hospital/ginventario/
+            - text: Facturacion
+              url: /Operacion/is/hospital/gfacturacion/
+            - text: Procesos Especiales
+              url: /Operacion/is/hospital/gproceso/
+            - text: Reportes
+              url: /Operacion/is/hospital/greporte/
+        - text: Combustible
+          url: /Operacion/is/combustible/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/is/combustible/cobasica/
+            - text: Ventas
+              url: /Operacion/is/combustible/cofactura/
+            - text: Inventario Fisico
+              url: /Operacion/is/combustible/cofisico/
+            - text: Reportes
+              url: /Operacion/is/combustible/coreporte/
+        - text: Restaurante
+          url: /Operacion/is/restaurante/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/is/restaurante/rebasica/
+            - text: Facturacion
+              url: /Operacion/is/restaurante/refactura/
+        - text: Hotel
+          url: /Operacion/is/hotel/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/is/hotel/hobasica/
+            - text: Reservas
+              url: /Operacion/is/hotel/horeserva/
+            - text: Recepcion
+              url: /Operacion/is/hotel/horecepcion/
+            - text: Servicios
+              url: /Operacion/is/hotel/hoservicio/
+            - text: Facturacion
+              url: /Operacion/is/hotel/hofactura/
+        - text: Cafe
+          url: /Operacion/is/cafe/
           subitems:
             - text: Precios
-              url: /LogisticaSCM/Facturacion/Precios/Precios/
+              url: /Operacion/is/cafe/caprecio/
+            - text: Ordenes
+              url: /Operacion/is/cafe/capedido/
+            - text: Facturas
+              url: /Operacion/is/cafe/cafactura/
+            - text: Reportes
+              url: /Operacion/is/cafe/careporte/
+            - text: Procesos Especiales
+              url: /Operacion/is/cafe/caproceso/
+        - text: Comercio Exterior
+          url: /Operacion/is/comex/
+          subitems:
+            - text: importaciones
+              url: /Operacion/is/comex/cimportacion/
+    - text: Factura Electronica
+      url: /Operacion/ebportal/
+      subitems:
+        - text: Proveedores
+          url: /Operacion/ebportal/ebproveedor/
+        - text: Clientes
+          url: /Operacion/ebportal/ebcliente/
+    - text: Comunes
+      url: /Operacion/common/
+      subitems:
+        - text: Documentos
+          url: /Operacion/common/bsistema/
+        - text: Organizacion
+          url: /Operacion/common/borgan/
+        - text: Financieros
+          url: /Operacion/common/bfinan/
+        - text: Cuentas Contables
+          url: /Operacion/common/bcuenta/
+        - text: Impuestos
+          url: /Operacion/common/bimpu/
+        - text: Comerciales
+          url: /Operacion/common/bcomer/
+        - text: Terceros
+          url: /Operacion/common/btercer/
+        - text: Productos
+          url: /Operacion/common/bprodu/
+        - text: Servicios
+          url: /Operacion/common/bservi/
+        - text: Novedades
+          url: /Operacion/common/bnovedad/
+        - text: Reportes
+          url: /Operacion/common/brepor/
+    - text: Utilidades
+      url: /Operacion/utility/
+      subitems:
+        - text: Gestion Documental
+          url: /Operacion/utility/docum/
+          subitems:
+            - text: Correspondencia
+              url: /Operacion/utility/docum/correspondencia/
+            - text: Gestion Documental
+              url: /Operacion/utility/docum/documental/
+        - text: Workflow
+          url: /Operacion/utility/workflow/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/utility/workflow/sbasica/
+            - text: Consultas
+              url: /Operacion/utility/workflow/sconsulta/
+        - text: Calidad
+          url: /Operacion/utility/calidad/
+          subitems:
+            - text: Datos Basicos
+              url: /Operacion/utility/calidad/bbasica/
+            - text: Registros
+              url: /Operacion/utility/calidad/bregis/
+            - text: Auditorias
+              url: /Operacion/utility/calidad/baudit/
+            - text: Mejora
+              url: /Operacion/utility/calidad/amejora/
+        - text: Interfaces
+          url: /Operacion/utility/barchi/
+        - text: Sincronizacion
+          url: /Operacion/utility/ssym/
+    - text: Sistema
+      url: /Operacion/system/
+      subitems:
+        - text: Configuracion
+          url: /Operacion/system/sconfig/
+        - text: Seguridad
+          url: /Operacion/system/sacceso/
+        - text: Logging
+          url: /Operacion/system/auditoria/
+        - text: Reportes
+          url: /Operacion/system/sreporte/
+- text: Implantacion
+  url: /Implantacion/
+- text: Capacitacion
+  url: /Capacitacion/
+- text: Desarrollo
+  url: /Desarrollo/
+- text: Soporte
+  url: /Soporte/
+- text: Comercializacion
+  url: /Comercializacion/
 - text: Sitemap
   url: /sitemap/
