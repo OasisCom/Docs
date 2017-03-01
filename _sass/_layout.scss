@@ -47,6 +47,11 @@ a.menuitem {
 #menudiv {
 	position: fixed; 
 	top: 10%; 
+	height: 90%;
+	width: 20%;
+    	overflow: auto;
+    	overflow-x: auto;
+	overflow-y: auto;
 }
 #maindiv {
 	margin-top: 5%;
@@ -69,12 +74,13 @@ header {
 }
 ul.ulmenu {
     	float: left;
-    	width: 15em;
+    	width: 20em;
     	line-height: 1.3em;
     	padding: 0;
     	margin: 0;
-    	overflow: auto;
-    	overflow-x: auto;
+    	overflow: hidden;
+    	overflow-x: hidden;
+	overflow-y: hidden;
 	list-style: none;
 	margin-left: 5px;
 }
