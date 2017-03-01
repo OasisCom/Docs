@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tutelas
-permalink: /Operacion/is/salud/eautorizacion/etutela/
+permalink: /Operacion/is/salud/eautorizacion/etutela/etut
 editable: si
 ---
 
