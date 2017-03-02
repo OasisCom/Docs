@@ -22,7 +22,7 @@ Diligenciados los campos, dar click en el botón **Guardar.**
 
 En el maestro de la aplicación quedará registrada la nueva tutela.
 
-![Registro de nueva tutela](C:\Users\OASIS-IT\Pictures\MANUALES\ETUT2.png)
+![Registro de nueva tutela](ETUT2.png)
 
 ###**Seguimiento**
 
