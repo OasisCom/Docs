@@ -522,8 +522,8 @@
                 - text: Tutelas
                   url: /Operacion/is/salud/eautorizacion/etutela/
                   subitems:
-                    - text: Tutela
-                    - url: /Operacion/is/salud/eautorizacion/etutela/etut
+                    - text: Tutelas
+                      url: /Operacion/is/salud/eautorizacion/etutela/etut
                 - text: Recobros CTC - Tutelas
                   url: /Operacion/is/salud/eautorizacion/movrec/
                 - text: Urgencias
