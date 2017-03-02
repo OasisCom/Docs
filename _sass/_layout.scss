@@ -53,9 +53,6 @@ a.menuitem {
     	overflow-x: auto;
 	overflow-y: auto;
 }
-#maindiv {
-	margin-top: 5%;
-}
 header {
 	background: $header;
 	padding: 0px 15px;
@@ -105,12 +102,21 @@ ul.ulmenu ul.ulmenu ul.ulmenu ul.ulmenu ul.ulmenu {
 	overflow-x: hidden;
 	overflow-y: hidden;
 }
+#maindiv {
+	margin-top: 5%;
+	left: 20%;
+	float: rigth;
+	position: fixed; 
+	height: 90%;
+	width: 80%;
+    	overflow: auto;
+    	overflow-x: auto;
+	overflow-y: auto;
+}
 main {
+	margin-left: 1%;
 	padding: 0 0px;
 	max-width: $content-width;
-	margin: 0 auto;
-	float: rigth;
-	width: 80%;
 }
 time {
 	color: #898989;
