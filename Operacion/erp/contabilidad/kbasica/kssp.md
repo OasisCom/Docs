@@ -9,13 +9,13 @@ editable: si
 
 En la aplicación Saldos por Periodo se puede verificar los saldos por cuenta, se pueden consultar filtrando por cuenta, periodo, año, también se verifica los movimientos débitos, créditos y saldos a la fecha.
 
-![](kssp1.png)
+![](KSSP1.png)
 
-![](kssp2.png)
+![](KSSP2.png)
 
-![](kssp3.png)
+![](KSSP3.png)
 
-![](kssp4.png)
+![](KSSP4.png)
 
 **Periodo:** Identificación numérica del mes (periodo) en la cual se quiere observar la cuenta
 **Año:** Año al cual se quiere hacer referencia.
@@ -33,9 +33,9 @@ En la aplicación Saldos por Periodo se puede verificar los saldos por cuenta, s
 
 En la pestaña **DETALLE** se puede observar a que pertenece el saldo encontrado en el maestro.
 
-![](kssp5.png)
+![](KSSP5.png)
 
-![](kssp6.png)
+![](KSSP6.png)
 
 
 
