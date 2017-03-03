@@ -19,7 +19,7 @@ En la aplicación Saldos por Periodo se puede verificar los saldos por cuenta, s
 
 **Periodo:** Identificación numérica del mes (periodo) en la cual se quiere observar la cuenta.  
 **Año:** Año al cual se quiere hacer referencia.  
-**Libro:** Número de libro según parametrización en Libros (klib)
+**Libro:** Número de libro según parametrización en Libros (klib).  
 **Plan:** En este campo se colocará el código del plan del cual se tomarán las cuentas.  
 **Cuenta:** Identificación numérica y nombre de la cuenta a consultar el saldo.  
 **Anterior:** Valor numérico de la cuenta antes de iniciar el periodo.  
