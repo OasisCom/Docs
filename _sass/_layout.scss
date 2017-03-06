@@ -53,6 +53,13 @@ a.menuitem {
     	overflow-x: auto;
 	overflow-y: auto;
 }
+#fbuscar {
+    	float: left;
+	margin-left: 5px;
+}
+#msearch-box {
+    	width: 50%;
+}
 header {
 	background: $header;
 	padding: 0px 15px;
@@ -60,14 +67,25 @@ header {
 	background-position: left center;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
-	h1 {
-		text-align: center;
-	}
 	margin: 0px 0 0;
 	height: 10vh;
 	display: flex;	
 	align-items: center;
-	justify-content: center;
+	h1 {
+		margin-left: 25%;
+		text-align: center;
+	}
+	#hmsearch-box {
+		margin-left: 40%;
+		width: 40%;
+		opacity: 0.5;
+	}
+	#hmsearch-box:hover {
+		opacity: 1;
+	}
+	#ibuscar {
+		vertical-align:middle;
+	}
 }
 ul.ulmenu {
     	float: left;
