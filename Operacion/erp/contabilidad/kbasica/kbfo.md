@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Tutelas
-permalink: /Operacion/is/salud/eautorizacion/etutela/etut
+title: Formatos
+permalink: /Operacion/erp/contabilidad/kbasica/kbfo
 editable: si
 ---
-
 # FORMATOS
 
 ## FORMATOS - KBFO

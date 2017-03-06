@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Balance Per. Aux.
-permalink: /Operacion/erp/contabilidad/ksaldos/ksau
+permalink: /Operacion/erp/contabilidad/ksaldo/ksau
 editable: si
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Saldo Per. Aux. Centroc
-permalink: /Operacion/erp/contabilidad/ksaldos/kspc
+permalink: /Operacion/erp/contabilidad/ksaldo/kspc
 editable: si
 ---
 
@@ -18,9 +18,6 @@ Esta aplicación nos permite visualizar los saldos periódicamente de los centro
 **Crédito:** Valor numérico de los movimientos créditos que se realizan durante el periodo.  
 **Saldo:** Valor que tendrá la cuenta después de terminar el periodo.  
 
-![](KSPC2.png)
-
-![](KSPC3.png)
 
 
 

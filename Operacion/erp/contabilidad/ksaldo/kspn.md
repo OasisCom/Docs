@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Saldo Per. Aux. Negocio
-permalink: /Operacion/erp/contabilidad/ksaldos/kspn
+permalink: /Operacion/erp/contabilidad/ksaldo/kspn
 editable: si
 ---
 

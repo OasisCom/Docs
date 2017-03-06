@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Saldos por periodo
-permalink: /Operacion/erp/contabilidad/ksaldos/kssp
+permalink: /Operacion/erp/contabilidad/ksaldo/kssp
 editable: si
 ---
 
@@ -33,9 +33,6 @@ En la aplicación Saldos por Periodo se puede verificar los saldos por cuenta, s
 
 En la pestaña **DETALLE** se puede observar a que pertenece el saldo encontrado en el maestro.
 
-![](KSSP5.png)
-
-![](KSSP6.png)
 
 
 
