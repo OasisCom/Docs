@@ -11,7 +11,9 @@ editable: si
 
 Genera el balance de prueba por centro de costos, que permite determinar que existe el equilibrio contable para los diferentes registros realizados.  
 
+
 ![](KRPC.png)
+
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  

@@ -11,7 +11,9 @@ editable: si
 
 Este reporte nos arroja la causación de todos los documentos que afectan al módulo de contabilidad.  
 
+
 ![](KRAX.png)
+
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  

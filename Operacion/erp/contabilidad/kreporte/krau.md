@@ -11,7 +11,9 @@ editable: si
 
 Permite generar el libro auxiliar de contabilidad, el cual se puede filtrar por los ítems cliente, libro y cuenta.  
 
+
 ![](KRAU.png)
+
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  

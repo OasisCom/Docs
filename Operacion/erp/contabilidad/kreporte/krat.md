@@ -14,6 +14,7 @@ editable: si
 
 Esta aplicación es similar a la aplicación **KRAX**, con la diferencia que el reporte que realiza muestra los movimientos por tercero y el **KRAX** genera el reporte basado en los movimientos por cuenta.  
 
+
 ![](KRAT.png)
 
 **Periodo:** Mes que se desea consultar.  

@@ -11,7 +11,9 @@ editable: si
 
 Esta aplicación genera un resumen del libro diario contable realiza el balance general contable, basándose en el centro de costo por el cual se efectué la consulta.  
 
+
 ![](KRLI.png)
+
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  
