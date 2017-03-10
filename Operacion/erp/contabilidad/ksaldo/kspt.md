@@ -26,4 +26,21 @@ El objetivo de la aplicación Saldo Per. Aux. **KSPT** es consultar los saldos d
 **Crédito:** Valor numérico de movimientos créditos realizados durante el periodo.  
 **Saldo:** Valor numérico con el que queda la cuenta después de finalizar el periodo.  
 
+**Detalle**
+
+![](KSPT3.png)
+
+**Documento:** Documentos que soportan el movimiento del maestro.  
+**Concepto:** Conceptos que se registraron para cada documento.  
+**Número:** Número de los documentos.  
+**Ubicación:** Ubicación registrada para estos documentos.  
+**Fecha:** Fecha de registro de los documentos.  
+**Débito:** Valor del documento si lo hay.  
+**Crédito:** Valor del documento si lo hay.  
+**Libro:** Libro del documento.  
+**Tercero:** Tercero asociado al documento.  
+**Centro de costo:** Centro de costo asociado al documento.  
+**Negocio:** Negocio asociado al documento.  
+**Proyecto:** Proyecto asociado al documento.  
+**Base de retención:** Base de retención del documento si aplica para la cuenta consultada en el maestro.  
 

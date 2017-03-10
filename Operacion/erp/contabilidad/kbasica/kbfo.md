@@ -8,7 +8,7 @@ editable: si
 
 ## FORMATOS - KBFO
 
-El primer paso para iniciar el proceso de generación de Medios Magnéticos en OASISCOM es parametrizar las cuentas para cada formato, esto se debe realizar en la aplicación **KBFO**. Esta se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.
+En la aplicación **KBFO** se realiza toda la parametrización para los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.
 
 La aplicación **KBFO** se parametrizará de la siguiente manera:
 

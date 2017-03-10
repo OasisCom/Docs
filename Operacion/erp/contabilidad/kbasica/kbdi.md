@@ -11,10 +11,10 @@ El primer paso para realizar el proceso de distribución de costos es hacer unas
 
 ![](kbdi.png)
 
-**Centro Costo:** Código del centro de costo desde el cual se hace la distribución.
-**Tercero:** Cédula del tercero
-**Nombre Tercero:** Nombre del tercero
-**Actualizado:** Fecha en la que se actualizo el registro
+**Centro Costo:** Código del centro de costo desde el cual se hace la distribución.  
+**Tercero:** Cédula del tercero.  
+**Nombre Tercero:** Nombre del tercero.  
+**Actualizado:** Fecha en la que se actualizo el registro.  
 
 
 
