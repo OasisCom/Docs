@@ -23,6 +23,7 @@ En esta aplicación se pueden consultar las diferentes amortizaciones que se han
 **Valor:** Valor de la cuenta.  
 **Amortizado:** Valor amortizado sobre la cuenta.  
 **Periodos Amortizar:** Periodos que se deben amortizar.  
+**Saldo:** Saldo pendiente por amortizar.  
 
 
 
