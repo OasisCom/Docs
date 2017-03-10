@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nbasica/nbfu
 editable: si
 ---
 
-# FUNCIONES
+# FUNCIONES - NBFU
 
 En esta opción se parametrizan las funciones que van a ser utilizadas para la recuperación de algunos valores insertados en **VARIABLES AÑO (NBVA)**, además se pueden llamar valores acumulados en otras tablas.
 

@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nbasica/nbva
 editable: si
 ---
 
-# VARIABLES AÑO
+# VARIABLES AÑO - NBVA
 
 En esta opción se insertan los datos alusivos a cada año, entre estos tenemos los siguientes:  
 
