@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Estado de Ganancias y Pérdidas - KRPG
+## Estado de Ganancias y Pérdidas - KRGP
 
 Este informe nos arroja el estado de ganancias y pérdidas por periodo.  
 

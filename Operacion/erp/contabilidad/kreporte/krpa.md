@@ -14,8 +14,9 @@ Permite mostrar los saldos de las cuentas comparándolos según la normativa col
 
 ![](KRPA.png)
 
-
-
+**Año:** ingresar el año de consulta.  
+**Inicial:** ingresar la fecha inicial de consulta.  
+**Final:** ingresar la fecha final de consulta.  
 
 
 
