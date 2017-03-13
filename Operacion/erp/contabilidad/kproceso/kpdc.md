@@ -11,19 +11,10 @@ En esta aplicación se lleva a cabo el proceso de diferencia en cambio, para ell
 
 ![](KPDC1.png)
 
-Para efectuar el proceso de diferencia en cambio, en primer lugar, parametrizaremos el tipo de moneda en la aplicación _BMON – Moneda_. En el maestro seleccionamos la moneda, en este caso Dólares y nos dirigimos al detalle.
+Para efectuar el proceso de diferencia en cambio, en primer lugar, parametrizaremos el tipo de moneda en la aplicación _BMON – Moneda_, para conocer la parametrización por favor dirígase a la aplicación **BMON**.
 
-![](KPDC2.png)
 
-En el detalle agregamos un nuevo renglón, diligenciamos los campos y damos click en guardar.
-
-**Moneda:** tipo de moneda seleccionada en el maestro.  
-**Fecha:** seleccionar la fecha del último día del mes.  
-**Valor:** digitar el valor en pesos en el cual se encuentra el dólar a la fecha, sin puntos y coma solo en los centavos.  
-
-![](KPDC3.png)
-
-Parametrizado el tipo de moneda en la aplicación **BMON**, ingresamos a la aplicación KPDC en donde ejecutaremos la Diferencia en Cambio.
+Parametrizado el tipo de moneda en la aplicación **BMON**, ingresamos a la aplicación **KPDC** en donde ejecutaremos la Diferencia en Cambio.
 
 ![](KPDC4.png)
 
@@ -39,15 +30,7 @@ Diligenciados los campos damos click en el botón ejecutar.
 
 ![](KPDC6.png)
 
-Ejecutado el proceso, ingresamos a la aplicación _KMOV – Movimientos_, en donde el sistema automáticamente creará un documento **NK**, verificamos que se haya generado correctamente la diferencia en cambio y que las cuentas contables del documento en el detalle estén correctas.
-
-Filtraremos por el documento **NK** (nota de contabilidad), concepto **DC** (diferencia en cambio), última fecha del mes y damos _Enter_.
-
-![](KPDC7.png)
-
-Finalmente, verificados los datos generados por el sistema, procesamos el documento en el maestro.
-
-![](KPDC8.png)
+Ejecutado el proceso, el sistema automáticamente creará un documento **NK** con concepto **DC** en la aplicación _KMOV_, allí se debe verificar que el proceso se haya generado correctamente y que las cuentas contables en el detalle del documento sean las correctas. Una vez verificado lo anterior, se debe procesar el documento.
 
 
 
