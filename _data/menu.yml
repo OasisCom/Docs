@@ -15,20 +15,165 @@
               subitems:
               - text: Libros
                 url: /Operacion/erp/contabilidad/kbasica/klib
+              - text: Formatos
+                url: /Operacion/erp/contabilidad/kbasica/kbfo
+              - text: Distribucion Costos
+                url: /Operacion/erp/contabilidad/kbasica/kbdi
             - text: Saldos
               url: /Operacion/erp/contabilidad/ksaldo/
+              subitems:
+              - text: Saldos de Contabilidad
+                url: /Operacion/erp/contabilidad/ksaldo/kssp
+              - text: Saldo Periodico Auxiliar Tercero
+                url: /Operacion/erp/contabilidad/ksaldo/kspt
+              - text: Balance Periodico Auxiliar
+                url: /Operacion/erp/contabilidad/ksaldo/ksau
+              - text: Saldos Periodico Auxiliar CentroCosto
+                url: /Operacion/erp/contabilidad/ksaldo/kspc
+              - text: Saldos Periodico Auxiliar Negocio
+                url: /Operacion/erp/contabilidad/ksaldo/kspn
+              - text: Saldos Periodico Auxiliar Proyecto
+                url: /Operacion/erp/contabilidad/ksaldo/kspp
             - text: Movimientos
               url: /Operacion/erp/contabilidad/kmovimient/
+              subitems:
+              - text: Movimientos
+                url: /Operacion/erp/contabilidad/kmovimient/kmov
+              - text: Consulta de Movimientos
+                url: /Operacion/erp/contabilidad/kmovimient/kmcm
             - text: Comprobantes Repetitivos
               url: /Operacion/erp/contabilidad/krepetitiv/
+              subitems:
+              - text: Comprobantes Repetitivos
+                url: /Operacion/erp/contabilidad/krepetitiv/krep
+              - text: Genera Comprobantes Repetitivos
+                url: /Operacion/erp/contabilidad/krepetitiv/kcgr
+              - text: Amortizaciones
+                url: /Operacion/erp/contabilidad/krepetitiv/kamo
+              - text: Genera comprobante Amortizacion
+                url: /Operacion/erp/contabilidad/krepetitiv/kgca
             - text: Medios Magneticos
               url: /Operacion/erp/contabilidad/kmedios/
+              subitems:
+              - text: Formatos Detallados
+                url: /Operacion/erp/contabilidad/kmedios/krfd
+              - text: Formatos
+                url: /Operacion/erp/contabilidad/kmedios/krfo
+              - text: Medios Magneticos
+                url: /Operacion/erp/contabilidad/kmedios/kpme
             - text: Formatos Contabilidad
               url: /Operacion/erp/contabilidad/kformatos/
+              subitems:
+              - text: Balance de Formatos
+                url: /Operacion/erp/contabilidad/kformatos/kfor
             - text: Procesos Especiales
               url: /Operacion/erp/contabilidad/kproceso/
+              subitems:
+              - text: Distribucion de Costos
+                url: /Operacion/erp/contabilidad/kproceso/kpdi
+              - text: Genera Formatos
+                url: /Operacion/erp/contabilidad/kproceso/kpgf
+              - text: Diferencia en Cambio
+                url: /Operacion/erp/contabilidad/kproceso/kpdc
+              - text: Cierre de Resultados
+                url: /Operacion/erp/contabilidad/kproceso/kpcr
+              - text: Inicio Año Contabilidad
+                url: /Operacion/erp/contabilidad/kproceso/kpia
+              - text: Recalculo Contable Mensual
+                url: /Operacion/erp/contabilidad/kproceso/kprecal
+              - text: Reserva Tecnica
+                url: /Operacion/erp/contabilidad/kproceso/kprt
             - text: Reportes
               url: /Operacion/erp/contabilidad/kreporte/
+              subitems:
+              - text: Balance de Prueba
+                url: /Operacion/erp/contabilidad/kreporte/krpr
+              - text: Libro Mayor y Balances
+                url: /Operacion/erp/contabilidad/kreporte/krlm
+              - text: Libro Mayor General
+                url: /Operacion/erp/contabilidad/kreporte/krac
+              - text: Auxiliar por Tercero
+                url: /Operacion/erp/contabilidad/kreporte/krat
+              - text: Auxiliar por Centro de Costo
+                url: /Operacion/erp/contabilidad/kreporte/krcc
+              - text: Movimientos Detallados
+                url: /Operacion/erp/contabilidad/kreporte/krmd
+              - text: Balance General
+                url: /Operacion/erp/contabilidad/kreporte/krbg
+              - text: Estado de Ganancias y Perdidas
+                url: /Operacion/erp/contabilidad/kreporte/krgp
+              - text: Ganacias y Perdidas por Centro de Costo
+                url: /Operacion/erp/contabilidad/kreporte/krgc
+              - text: Balance por Tercero
+                url: /Operacion/erp/contabilidad/kreporte/krbt
+              - text: Balance Condensado
+                url: /Operacion/erp/contabilidad/kreporte/krbl
+              - text: Balance de Prueba Ajustado
+                url: /Operacion/erp/contabilidad/kreporte/krpa
+              - text: Balance Comparativo
+                url: /Operacion/erp/contabilidad/kreporte/krbc
+              - text: Saldos por Tercero
+                url: /Operacion/erp/contabilidad/kreporte/krst
+              - text: Certificados de Retencion
+                url: /Operacion/erp/contabilidad/kreporte/krcr
+              - text: Balance de Prueba Corriente
+                url: /Operacion/erp/contabilidad/kreporte/krpr1
+              - text: Balance General por Centro de Costo
+                url: /Operacion/erp/contabilidad/kreporte/krbu
+              - text: Diferencias Saldos vs Movimientos
+                url: /Operacion/erp/contabilidad/kreporte/krcd
+              - text: Certificado de Retencion por Ciclo
+                url: /Operacion/erp/contabilidad/kreporte/krcrc
+              - text: Comparacion Saldo Tercero vs Cuotas
+                url: /Operacion/erp/contabilidad/kreporte/krcs
+              - text: Conciliacion de Ajustes
+                url: /Operacion/erp/contabilidad/kreporte/krka
+              - text: Cambios en el Patrimonio
+                url: /Operacion/erp/contabilidad/kreporte/krpt
+              - text: Diferencia Partidas Documentos
+                url: /Operacion/erp/contabilidad/kreporte/krmn
+              - text: Libro Diario
+                url: /Operacion/erp/contabilidad/kreporte/krld
+              - text: Libro Diario Resumido
+                url: /Operacion/erp/contabilidad/kreporte/krli
+              - text: Ganancias y Perdidas Comparativo
+                url: /Operacion/erp/contabilidad/kreporte/krpg
+              - text: Inventarios y Balances
+                url: /Operacion/erp/contabilidad/kreporte/krib
+              - text: Ganancias y Perdidas Comparativo por Centro de Costo
+                url: /Operacion/erp/contabilidad/kreporte/krpc
+              - text: Auxiliar de Contabilidad
+                url: /Operacion/erp/contabilidad/kreporte/krau
+              - text: Auxiliar de Contabilidad con Cheques
+                url: /Operacion/erp/contabilidad/kreporte/krpr
+              - text: Ganancias y Perdidas por Negocio
+                url: /Operacion/erp/contabilidad/kreporte/krgn
+              - text: Ganancias y Perdidas por Negocio 2
+                url: /Operacion/erp/contabilidad/kreporte/krpn
+              - text: Retenciones
+                url: /Operacion/erp/contabilidad/kreporte/krre
+              - text: Balance y Movimiento
+                url: /Operacion/erp/contabilidad/kreporte/krsm
+              - text: Saldos por Centro de Costo
+                url: /Operacion/erp/contabilidad/kreporte/krsc
+              - text: Saldos
+                url: /Operacion/erp/contabilidad/kreporte/krsa
+              - text: Libro Auxiliar Detallado
+                url: /Operacion/erp/contabilidad/kreporte/krax
+              - text: Resultados por Proyecto
+                url: /Operacion/erp/contabilidad/kreporte/krrp
+              - text: Ganancias y Perdidas  por Tercero
+                url: /Operacion/erp/contabilidad/kreporte/krgt
+              - text: Anexo de Balance por Centro de Costo
+                url: /Operacion/erp/contabilidad/kreporte/krcn
+              - text: Balance Auxiliar
+                url: /Operacion/erp/contabilidad/kreporte/krsu
+              - text: Balance General Ajustado
+                url: /Operacion/erp/contabilidad/kreporte/krba
+              - text: Analisis de Variaciones
+                url: /Operacion/erp/contabilidad/kreporte/krav
+              - text: Ganancias y Perdidas por Proyecto
+                url: /Operacion/erp/contabilidad/kreporte/krgy
         - text: Tesoreria
           url: /Operacion/erp/tesoreria/
           subitems:
