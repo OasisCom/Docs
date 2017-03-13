@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Distribución de costos
-permalink: /Operacion/erp/contabilidad/ksaldo/kbdi
+permalink: /Operacion/erp/contabilidad/kbasica/kbdi
 editable: si
 ---
 
