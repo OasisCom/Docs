@@ -7,7 +7,7 @@ editable: si
 
 # Saldos y Movimientos Diarios - TRSD
 
-Se consulta por fecha y ubicación
+Se consulta por fecha y ubicación.  
 
 ![](TRSD1.png)
 
