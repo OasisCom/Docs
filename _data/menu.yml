@@ -257,82 +257,82 @@
               url: /Operacion/erp/cartera/csaldo/
               subitems:
               - text: Saldos De Cartera
-                url: /Operacion/erp/tesoreria/csaldo/cssp
+                url: /Operacion/erp/cartera/csaldo/cssp
               - text: Saldos De Cartera
-                url: /Operacion/erp/tesoreria/csaldo/ecssp
+                url: /Operacion/erp/cartera/csaldo/ecssp
               - text: Calificaciones
-                url: /Operacion/erp/tesoreria/csaldo/cssc
+                url: /Operacion/erp/cartera/csaldo/cssc
               - text: Saldos De Creditos
-                url: /Operacion/erp/tesoreria/csaldo/ccre
+                url: /Operacion/erp/cartera/csaldo/ccre
               - text: Imprime Estados de Cuenta Clientes
-                url: /Operacion/erp/tesoreria/csaldo/csec
+                url: /Operacion/erp/cartera/csaldo/csec
             - text: Movimientos
               url: /Operacion/erp/cartera/cmovimient/
               subitems:
               - text: Movimientos
-                url: /Operacion/erp/tesoreria/cmovimient/cmov
+                url: /Operacion/erp/cartera/cmovimient/cmov
               - text: Consulta de Movimientos
-                url: /Operacion/erp/tesoreria/cmovimient/cmcm
+                url: /Operacion/erp/cartera/cmovimient/cmcm
               - text: Cruces
-                url: /Operacion/erp/tesoreria/cmovimient/cmcr
+                url: /Operacion/erp/cartera/cmovimient/cmcr
               - text: Actualiza Fechas
-                url: /Operacion/erp/tesoreria/cmovimient/cmaf
+                url: /Operacion/erp/cartera/cmovimient/cmaf
             - text: Operacion
               url: /Operacion/erp/cartera/coperacion/
               subitems:
               - text: Suspensiones
-                url: /Operacion/erp/tesoreria/coperacion/cosu
+                url: /Operacion/erp/cartera/coperacion/cosu
               - text: Pedidos Retenidos
-                url: /Operacion/erp/tesoreria/coperacion/copr
+                url: /Operacion/erp/cartera/coperacion/copr
             - text: Creditos
               url: /Operacion/erp/cartera/ccredito/
               subitems:
               - text: Solicitudes de Credito
-                url: /Operacion/erp/tesoreria/ccredito/csol
+                url: /Operacion/erp/cartera/ccredito/csol
             - text: Procesos Especiales
               url: /Operacion/erp/cartera/cproceso/
               subitems:
               - text: Inicio Año
-                url: /Operacion/erp/tesoreria/cproceso/cpia
+                url: /Operacion/erp/cartera/cproceso/cpia
               - text: Calcula Intereses
-                url: /Operacion/erp/tesoreria/cproceso/cpin
+                url: /Operacion/erp/cartera/cproceso/cpin
               - text: Reclasificacionde Cuentas por Pagar
-                url: /Operacion/erp/tesoreria/cproceso/cpre
+                url: /Operacion/erp/cartera/cproceso/cpre
               - text: Inicio de Dia
-                url: /Operacion/erp/tesoreria/cproceso/cpid
+                url: /Operacion/erp/cartera/cproceso/cpid
               - text: Carga Informacion para Datacredito
-                url: /Operacion/erp/tesoreria/cproceso/cpcd
+                url: /Operacion/erp/cartera/cproceso/cpcd
               - text: Calculo Rotacion de Cartera
-                url: /Operacion/erp/tesoreria/cproceso/cpcr
+                url: /Operacion/erp/cartera/cproceso/cpcr
             - text: Reportes
               url: /Operacion/erp/cartera/creporte/
               subitems:
               - text: Auxiliar de Cartera Vencida
-                url: /Operacion/erp/tesoreria/creporte/crac
+                url: /Operacion/erp/cartera/creporte/crac
               - text: Auxiliar de Cartera
-                url: /Operacion/erp/tesoreria/creporte/crau
+                url: /Operacion/erp/cartera/creporte/crau
               - text: Cheques Posfechados
-                url: /Operacion/erp/tesoreria/creporte/crcp
+                url: /Operacion/erp/cartera/creporte/crcp
               - text: Cruces
-                url: /Operacion/erp/tesoreria/creporte/crcr
+                url: /Operacion/erp/cartera/creporte/crcr
               - text: Comparacion Saldos
-                url: /Operacion/erp/tesoreria/creporte/crcs
+                url: /Operacion/erp/cartera/creporte/crcs
               - text: Cartera por Vendedor
-                url: /Operacion/erp/tesoreria/creporte/crcv
+                url: /Operacion/erp/cartera/creporte/crcv
               - text: Recuado por Canal
-                url: /Operacion/erp/tesoreria/creporte/crrk
+                url: /Operacion/erp/cartera/creporte/crrk
               - text: Resumen de Movimientos
-                url: /Operacion/erp/tesoreria/creporte/crrm
+                url: /Operacion/erp/cartera/creporte/crrm
               - text: Saldos y Movimientos
-                url: /Operacion/erp/tesoreria/creporte/crsm
+                url: /Operacion/erp/cartera/creporte/crsm
               - text: Cartera Vencida por Vendedor
-                url: /Operacion/erp/tesoreria/creporte/crvv
+                url: /Operacion/erp/cartera/creporte/crvv
               - text: auxiliar por Cuenta
-                url: /Operacion/erp/tesoreria/creporte/crxc
+                url: /Operacion/erp/cartera/creporte/crxc
               - text: Analisis de Cuentas por Moneda
-                url: /Operacion/erp/tesoreria/creporte/cram
+                url: /Operacion/erp/cartera/creporte/cram
               - text: Facturas vs Recuado
-                url: /Operacion/erp/tesoreria/creporte/crfr
+                url: /Operacion/erp/cartera/creporte/crfr
         - text: Cuentas por Pagar
           url: /Operacion/erp/cuentas/
           subitems:
