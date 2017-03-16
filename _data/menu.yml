@@ -213,8 +213,6 @@
             - text: Procesos
               url: /Operacion/erp/tesoreria/tproceso/
               subitems:
-              - text: Calcula Intereses 
-                url: /Operacion/erp/tesoreria/tproceso/tpin
               - text: Inicio Año 
                 url: /Operacion/erp/tesoreria/tproceso/tpia
             - text: Reportes
@@ -381,6 +379,15 @@
           subitems:
             - text: Inversiones
               url: /Operacion/erp/inversiones/tinversion/
+              subitems:
+              - text: Inversiones
+                url: /Operacion/erp/inversiones/tinversion/tinv
+              - text: Saldos De Inversiones 
+                url: /Operacion/erp/inversiones/tinversion/tsin
+              - text: Saldos de Inversiones
+                url: /Operacion/erp/inversiones/tinversion/trsi
+              - text: Calcula Intereses 
+                url: /Operacion/erp/inversiones/tinversion/tpin
         - text: Presupuesto Oficial
           url: /Operacion/erp/presupuestoo/
           subitems:
