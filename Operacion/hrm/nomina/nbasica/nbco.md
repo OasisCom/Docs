@@ -43,9 +43,9 @@ Todos los conceptos deben llevar una condición, una cantidad y una fórmula par
 ![](nbco4.png)
 
 
-**Condición:** es una agrupación de características que deben cumplirse para que el concepto sea calculado y aplicado. Si el concepto va a ser aplicado a todos los empleados se ingresa la condición 1=1, de lo contrario se tiene que ingresar la condición específica.
-**Cantidad:** Indica cuanto tiempo se va a liquidar en cada concepto, pueden ser horas, días o valores específico tomados del procedimiento de generación de nómina. En algunos casos esta cantidad solo cumple una función informativa, esta cantidad aparece en el detalle de la nómina.
-**Formula:** Indica la manera de calcular el concepto, en el caso de las novedades debe llevar un 1, para que aplique el valor de la novedad.
+**Condición:** es una agrupación de características que deben cumplirse para que el concepto sea calculado y aplicado. Si el concepto va a ser aplicado a todos los empleados se ingresa la condición 1=1, de lo contrario se tiene que ingresar la condición específica.  
+**Cantidad:** Indica cuanto tiempo se va a liquidar en cada concepto, pueden ser horas, días o valores específico tomados del procedimiento de generación de nómina. En algunos casos esta cantidad solo cumple una función informativa, esta cantidad aparece en el detalle de la nómina.  
+**Formula:** Indica la manera de calcular el concepto, en el caso de las novedades debe llevar un 1, para que aplique el valor de la novedad.  
 
 
 

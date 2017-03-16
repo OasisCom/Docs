@@ -45,10 +45,6 @@ En esta pestaña se registran los datos de las entidades donde se encuentra afil
 
 Para asignar estas entidades deben estar previamente creadas en la opción BTER - Básico de terceros, en donde se encuentran relacionados todos los datos de los terceros asociados a la organización.
 
-
-![](nbem6.png)
-
-
 Para que los empleados puedan observarse en esta aplicación deben estar creados en la opción BTER, indicando que son empleados y a que empresa pertenecen.
 
 
