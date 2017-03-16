@@ -13,7 +13,7 @@ En esta opción se parametrizan las funciones que van a ser utilizadas para la r
 ![](nbfu1.png)
 
 
-	Consta de seis columnas que se describen a continuación:
+Consta de cinco columnas que se describen a continuación:
     
 **Id Función.** Letras (tres) que identifican el concepto.  
 **Nombre.** Nombre específico del concepto.  
