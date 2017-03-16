@@ -535,18 +535,121 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/hrm/nomina/nbasica/
+              subitems:
+              - text: Variables Año
+                url: /Operacion/hrm/nomina/nbasica/nbva
+              - text: Funciones
+                url: /Operacion/hrm/nomina/nbasica/nbfu
+              - text: Conceptos
+                url: /Operacion/hrm/nomina/nbasica/nbco
+              - text: Tipos de Nomina
+                url: /Operacion/hrm/nomina/nbasica/nbtn
+              - text: Programacion
+                url: /Operacion/hrm/nomina/nbasica/npro
+              - text: Acumulados
+                url: /Operacion/hrm/nomina/nbasica/nbac
+              - text: Retencion en la Fuente
+                url: /Operacion/hrm/nomina/nbasica/nbrt
+              - text: Motivos de Liquidacion
+                url: /Operacion/hrm/nomina/nbasica/nbmo
+              - text: Empleados
+                url: /Operacion/hrm/nomina/nbasica/nbem
+              - text: Contratos de Nomina
+                url: /Operacion/hrm/nomina/nbasica/ncnt
             - text: Novedades
               url: /Operacion/hrm/nomina/nnovedad/
+              subitems:
+              - text: Novedades
+                url: /Operacion/hrm/nomina/nnovedad/nnov
+              - text: Liquidaciones
+                url: /Operacion/hrm/nomina/nnovedad/nliq
             - text: Nomina
               url: /Operacion/hrm/nomina/nnomina/
+              subitems:
+              - text: Genera Nomina
+                url: /Operacion/hrm/nomina/nnomina/ngen
+              - text: Nomina
+                url: /Operacion/hrm/nomina/nnomina/nnom
+              - text: Saldos de Nomina
+                url: /Operacion/hrm/nomina/nnomina/nssp
+              - text: Movimiento Contable
+                url: /Operacion/hrm/nomina/nnomina/nnmc
+              - text: Saldos Acumulados
+                url: /Operacion/hrm/nomina/nnomina/nnsp
+              - text: Consulta de Nomina
+                url: /Operacion/hrm/nomina/nnomina/nncp
+              - text: Consulta Detalle Detalle
+                url: /Operacion/hrm/nomina/nnomina/nncd
             - text: Aportes
               url: /Operacion/hrm/nomina/naporte/
+              subitems:
+              - text: Genera Autiliquidaciones
+                url: /Operacion/hrm/nomina/naporte/nage
+              - text: Aportes
+                url: /Operacion/hrm/nomina/naporte/naut
+              - text: Planilla Integrada
+                url: /Operacion/hrm/nomina/naporte/napi
             - text: Provisiones
               url: /Operacion/hrm/nomina/nprovision/
+              subitems:
+              - text: Vacaciones
+                url: /Operacion/hrm/nomina/nprovision/nvac
+              - text: Provisiones
+                url: /Operacion/hrm/nomina/nprovision/nprv
+              - text: Programacion de Vacaciones
+                url: /Operacion/hrm/nomina/nprovision/npva
             - text: Procesos Especiales
               url: /Operacion/hrm/nomina/nproceso/
+              subitems:
+              - text: Inicia Año Nomina
+                url: /Operacion/hrm/nomina/nproceso/npia
+              - text: Recalculo Mensual Nomina
+                url: /Operacion/hrm/nomina/nproceso/nprecal
             - text: Reportes
               url: /Operacion/hrm/nomina/nreporte/
+              subitems:
+              - text: Empleados
+                url: /Operacion/hrm/nomina/nreporte/nrem
+              - text: Entidades por Empleado
+                url: /Operacion/hrm/nomina/nreporte/nren
+              - text: Planilla de Nomina
+                url: /Operacion/hrm/nomina/nreporte/nrpl
+              - text: Resumen Mensual
+                url: /Operacion/hrm/nomina/nreporte/nrsm
+              - text: Planilla de Novedades
+                url: /Operacion/hrm/nomina/nreporte/nrpn
+              - text: Planilla de Vacaciones
+                url: /Operacion/hrm/nomina/nreporte/nrpv
+              - text: Certificados de Retencion
+                url: /Operacion/hrm/nomina/nreporte/nrcr
+              - text: Calculo Retencion Procedimiento 1
+                url: /Operacion/hrm/nomina/nreporte/nref
+              - text: Escala Salarial
+                url: /Operacion/hrm/nomina/nreporte/nres
+              - text: Comprobante Movimiento Contable
+                url: /Operacion/hrm/nomina/nreporte/nrmc
+              - text: Comprobantes de Pago Vacaciones
+                url: /Operacion/hrm/nomina/nreporte/nrvc
+              - text: Comprobantes de Pago
+                url: /Operacion/hrm/nomina/nreporte/nrco
+              - text: Cumpleaños
+                url: /Operacion/hrm/nomina/nreporte/nrcu
+              - text: Listado de Nomina
+                url: /Operacion/hrm/nomina/nreporte/nrno
+              - text: Planilla por Concepto
+                url: /Operacion/hrm/nomina/nreporte/nrpc
+              - text: Planilla Resumida
+                url: /Operacion/hrm/nomina/nreporte/nrpr
+              - text: Vacaciones
+                url: /Operacion/hrm/nomina/nreporte/nrva
+              - text: Formato de Vacaciones
+                url: /Operacion/hrm/nomina/nreporte/nrvc
+              - text: Planilla por Entidad
+                url: /Operacion/hrm/nomina/nreporte/nrpe
+              - text: Acumulados
+                url: /Operacion/hrm/nomina/nreporte/nrac
+              - text: Resumen Mensual Tercero
+                url: /Operacion/hrm/nomina/nreporte/nrst
         - text: Recursos Humanos
           url: /Operacion/hrm/rhumanos/
           subitems:
