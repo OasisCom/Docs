@@ -16,13 +16,9 @@ En el campo Documento, se ingresa el tipo de documento que se vaya a generar (_N
 ![](ngen1.png)
 
 
-Un mismo programa se puede generar cuantas veces sea necesario siempre y cuando la nómina se encuentre en estado Activo, al hacerlo el sistema reemplaza la nómina existente que cumple con esas condiciones. Cuando la nómina se revisa y es aprobada debe ser procesada. De esta manera se garantiza que no se pueda volver a generar ya que el sistema enviará un mensaje indicando que ya existe una nómina procesada.
+Una vez se genera este proceso, se crea automáticamente el documento respectivo (_NM, AP_o _PV_) en la aplicación **NNOM**, se debe tener en cuenta que un mismo programa se puede generar cuantas veces sea necesario siempre y cuando la nómina se encuentre en estado Activo, al hacerlo el sistema reemplaza la nómina existente que cumple con esas condiciones. Cuando la nómina se revisa y es aprobada debe ser procesada. De esta manera se garantiza que no se pueda volver a generar ya que el sistema enviará un mensaje indicando que ya existe una nómina procesada.  
 
 Es importante resaltar que, para poder generar una nómina el periodo respectivo debe estar abierto en la opción **BPER - Periodos**.
 
 
-![](ngen2.png)
-
-
-Una vez ingresado estos datos, el sistema enviará un mensaje de proceso terminado y generará una nómina en el **NNOM**, que es la siguiente opción que vamos a revisar.
 
