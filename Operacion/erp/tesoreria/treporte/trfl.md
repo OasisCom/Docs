@@ -7,7 +7,12 @@ editable: si
 
 # Flujo de Fondos - TRFL
 
-Permite la consulta del flujo de caja. No hay necesidad de filtrar para consultar, con solo acceder a la aplicación **TRFL - Flujo de Fondos** arroja el soporte.  
+La aplicación **TRFL** permite consultar el flujo de caja del año que se requiera.  
+
+Filtramos por año y damos click en el botón de consulta.  
+
+
+![](TRFL1.png)
 
 
 ![](TRFL.png)
@@ -18,3 +23,4 @@ Permite la consulta del flujo de caja. No hay necesidad de filtrar para consulta
 
 
 
+i

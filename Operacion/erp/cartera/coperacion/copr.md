@@ -7,7 +7,7 @@ editable: si
 
 # Pedidos Retenidos - COPR
 
-Esta aplicación se utiliza para _aprobar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.
+Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.
 
 ![](COPR.png)
 
