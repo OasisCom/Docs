@@ -9,6 +9,11 @@ editable: si
 
 Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.
 
+Los pedidos pueden ser retenidos por Cartera o por Comercial. Para liberar un pedido que se encuentre retenido por cartera se debe validar con el área de cobranza si es viable liberar dicho pedido, de ser así seleccionamos el pedido y damos click en el botón superior de la barra de herramientas _Liberar_Cartera_. 
+
+
+
+
 ![](COPR.png)
 
 **Número:** Número con el cual se generó el documento.  
