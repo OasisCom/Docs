@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/tmovimient/toge
 editable: si
 ---
 
-# Ordena Gerencia Electrónica - TOGE
+## Ordena Gerencia Electrónica - TOGE
 
 Permite definir los documentos que se utilizarán en el momento de generar la gerencia electrónica.  
 

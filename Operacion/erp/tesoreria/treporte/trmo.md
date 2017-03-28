@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/treporte/trmo
 editable: si
 ---
 
-# Movimientos - TRMO
+## Movimientos - TRMO
 
 La aplicación **TRMO** muestra los movimientos realizados en el módulo de tesorería en un periodo determinado.  
 

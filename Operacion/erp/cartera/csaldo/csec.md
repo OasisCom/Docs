@@ -5,7 +5,7 @@ permalink: /Operacion/erp/cartera/csaldo/csec
 editable: si
 ---
 
-# Imprime Estados de Cuenta Clientes - CSEC
+## Imprime Estados de Cuenta Clientes - CSEC
 
 Esta aplicación permite imprimir el estado de cuenta de nuestros clientes, para ello se debe ingresar el periodo, año e identificación del tercero y pulsar el botón consultar.  
 
