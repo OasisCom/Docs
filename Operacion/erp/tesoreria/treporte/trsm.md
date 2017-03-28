@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/treporte/trsm
 editable: si
 ---
 
-# Saldos y Movimientos - TRSM
+## Saldos y Movimientos - TRSM
 
 Reporte que muestra los movimientos realizados en el módulo, además de los saldos actualizados para las diferentes cuentas.  
 

@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/treporte/trfl
 editable: si
 ---
 
-# Flujo de Fondos - TRFL
+## Flujo de Fondos - TRFL
 
 La aplicación **TRFL** permite consultar el flujo de caja del año que se requiera.  
 

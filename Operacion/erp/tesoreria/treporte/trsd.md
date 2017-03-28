@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/treporte/trsd
 editable: si
 ---
 
-# Saldos y Movimientos Diarios - TRSD
+## Saldos y Movimientos Diarios - TRSD
 
 
 La aplicación **TRSD** permite consultar los saldos y movimientos diarios que se realicen en el módulo de tesorería, por lo tanto se filtra por la fecha indicando el día que se requiere consultar y por una ubicación específica, esta ubicación esta previamente parametrizada en la aplicación **BUBI**.  
