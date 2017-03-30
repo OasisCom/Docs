@@ -13,7 +13,7 @@ La aplicación **PRAU** permite consultar el reporte del libro auxiliar de Cuent
 ![](PRAU1.png)
 
 **Periodo:** ingresar el mes de consulta.
-**Año:** ingresar el número de cuenta contable que se requiere consultar. Se deja el campo en blanco en caso que se desee consultar todas las cuentas.  
+**Año:** ingresar el año de consulta.
 **Tercero:** ingresar el núumero de identificación del tercero del cual se desea realizar la consulta. Si se requiere consultar todos los terceros, dejar este campo en blanco.
 **Libro:** ingresar el número de libro contable del cual se desea consultar. Libro 1 - IFRS, libro 0 - LOCAL. Si se desea consultar ambos libros dejar el campo en blanco.  
 
