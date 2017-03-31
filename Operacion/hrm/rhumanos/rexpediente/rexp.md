@@ -62,10 +62,8 @@ En la pestaña _Familiares_ se registran las personas que viven con el contratad
 
 **Pestaña Dotación**
 
-Si la empresa suministra dotación, se diligencia la información de la pestaña, de lo contrario se omite este paso.
-
-Los tipos de dotación se parametrizan en la aplicación **RBTD – Tipos de Dotación**.
-
+Si la empresa suministra dotación, se diligencia la información de la pestaña, de lo contrario se omite este paso.  
+Los tipos de dotación se parametrizan en la aplicación **RBTD – Tipos de Dotación**.  
 Ingresamos el tipo de dotación, la talla, el color, la cantidad y guardamos el registro.
 
 
