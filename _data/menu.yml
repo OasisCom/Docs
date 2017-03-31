@@ -969,24 +969,76 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/is/hospital/gbasica/
+              subitems:
+                - text: Pacientes
+                  url: /Operacion/is/hospital/gbasica/gpac
+                - text: Productos
+                  url: /Operacion/is/hospital/gbasica/gpro
+                - text: Doctores
+                  url: /Operacion/is/hospital/gbasica/gdoc
+                - text: Recursos
+                  url: /Operacion/is/hospital/gbasica/grec
             - text: Contratos
               url: /Operacion/is/hospital/gcontrato/
+              subitems:
+                - text: Contratos
+                  url: /Operacion/is/hospital/gcontrato/gcnt
             - text: Historia Clinica
               url: /Operacion/is/hospital/ghistoria/
+              subitems:
+                - text: Historias
+                  url: /Operacion/is/hospital/ghistoria/ghis
             - text: Citas
               url: /Operacion/is/hospital/gcita/
+              subitems:
+                - text: Citas
+                  url: /Operacion/is/hospital/gcita/gcit
+                - text: Calendario
+                  url: /Operacion/is/hospital/gcita/gcal
             - text: Servicios
               url: /Operacion/is/hospital/gconsulta/
+              subitems:
+                - text: Consultas
+                  url: /Operacion/is/hospital/gconsulta/gcon
+                - text: Urgencias
+                  url: /Operacion/is/hospital/gconsulta/gurg
+                - text: Laboratorio
+                  url: /Operacion/is/hospital/gconsulta/glab
+                - text: Imagenes
+                  url: /Operacion/is/hospital/gconsulta/gima
+                - text: Cirugias
+                  url: /Operacion/is/hospital/gconsulta/gcir
             - text: Hospitalizacion
               url: /Operacion/is/hospital/ghospital/
+              subitems:
+                - text: Admisiones
+                  url: /Operacion/is/hospital/ghospital/gadm
+                - text: Hospitalizacion
+                  url: /Operacion/is/hospital/ghospital/ghos
+                - text: Enfermeria
+                  url: /Operacion/is/hospital/ghospital/genf
+                - text: Referencia y Contrareferencia
+                  url: /Operacion/is/hospital/ghospital/grcf
             - text: Farmacia
               url: /Operacion/is/hospital/ginventario/
+              subitems:
+                - text: Movimientos de Inventario
+                  url: /Operacion/is/hospital/ginventario/gmov
             - text: Facturacion
               url: /Operacion/is/hospital/gfacturacion/
+              subitems:
+                - text: Facturacion
+                  url: /Operacion/is/hospital/gfacturacion/gfac
             - text: Procesos Especiales
               url: /Operacion/is/hospital/gproceso/
+              subitems:
+                - text: Generar Calendario
+                  url: /Operacion/is/hospital/gproceso/gpga
             - text: Reportes
               url: /Operacion/is/hospital/greporte/
+              subitems:
+                - text: Historia Clinica
+                  url: /Operacion/is/hospital/greporte/grhi
         - text: Combustible
           url: /Operacion/is/combustible/
           subitems:
