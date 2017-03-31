@@ -11,6 +11,6 @@ En la aplicación KPME - Medios Magénticos, se valida información generada al 
 
 ![](KPME.png)
 
-Otra aplicación para validar que el proceso ejecutado en [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md) haya generado información es [**KRFD - Formatos Detallados**]()
+Otra aplicación en la cual se puede validar que el proceso ejecutado en [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md) haya generado información es [**KRFD - Formatos Detallados**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kmedios/krfd.md).
 
 

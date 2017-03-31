@@ -7,10 +7,11 @@ editable: si
 
 ## Consulta de Movimientos - KMCM
 
-El objetivo de esta aplicación es poder consultar los movimientos realizados.
+El objetivo de esta aplicación es poder consultar los movimientos realizados en el módulo de contabilidad.
 
+Se consulta por año de ejecución, concepto, número de cuenta contable y damos _Enter.  _
 
-![](KMCM1.png)
+![](KMCM2.png)
 
 
 **Documento:** Especificación del documento origen que da comienzo a un movimiento.  
