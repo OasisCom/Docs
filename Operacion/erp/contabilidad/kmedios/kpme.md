@@ -7,7 +7,9 @@ editable: si
 
 ## Medios Magnéticos - KPME
 
-En la aplicación KPME - Medios Magénticos, se valida información generada al ejecutar anteriormente el proceso en [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md), información que será cargada posteriormente en la interfaz..
+En la aplicación KPME - Medios Magénticos, se valida la información generada al ejecutar anteriormente el proceso en [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md).
+
+Consultar por año y número de formato.
 
 ![](KPME.png)
 
