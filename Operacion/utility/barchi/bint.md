@@ -9,7 +9,7 @@ editable: si
 
 Esta aplicación permite cargar o descargar información sobre diferentes escenarios del sistema OasisCom, de acuerdo a una parametrización previa.  
 
-#### **Medios Magnéticos**
+### **Medios Magnéticos**
 
 En este caso, BINT permite descargar la información necesaria para generar los Médios Magnéticos.
 
@@ -23,6 +23,6 @@ Estos dos últimos campos _Año y Id Formato_ es importe que coincidan con la in
 
 ![](BINT1.png)
 
-Ingresados los datos dar click en _Aceptar_, el sistema descargará el archivo seleccionado en un formato de Excel al cual se le deberá cambiar la extención del documento de _xlsx_ a _xls_, elimianndo la última _x_. La información quedará en el mismo formato que lo exige la DIAN, dicho formato se puede validar en la página web de la entidad.
+Ingresados los datos dar click en _Aceptar_, el sistema descargará el archivo seleccionado en un formato de Excel al cual se le deberá cambiar la extención del documento de _xlsx_ a _xls_, eliminando la última _x_. La información quedará en el mismo formato que lo exige la DIAN, dicho formato se puede validar en la página web de la entidad.
 
 Se debe tener en cuenta en el documento de Excel que se vaya a cargar a la DIAN, eliminar la columna en donde se indica el número del formato, puesto que, este número es interno del sistema OasisCom y no es necesario en la información que se vaya a enviar.  
