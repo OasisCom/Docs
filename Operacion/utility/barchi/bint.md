@@ -9,7 +9,7 @@ editable: si
 
 Esta aplicación permite cargar o descargar información sobre diferentes escenarios del sistema OasisCom, de acuerdo a una parametrización previa.  
 
-####**Medios Magnéticos**
+#### **Medios Magnéticos**
 
 En este caso, BINT permite descargar la información necesaria para generar los Médios Magnéticos.
 
