@@ -9,7 +9,7 @@ editable: si
 
 La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
 
-![](ffac1.pgn)
+![](ffac1.png)
 
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
 **Ubicación:** Número de la ubicación a la cual se va a realizar una factura.  
@@ -21,7 +21,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 **Vendedor:** Nombre de la persona que realizó la venta, se utiliza este campo para la generación de las comisiones por ventas correspondientes.  
 **Dirección:** Código de la sucursal o agencia del cliente.  
 
-![](ffac2.pgn)
+![](ffac2.png)
 
 **Tipo de Precio:** Tipo de precio con el cual se liquidó o liquidará la factura, la toma por defecto del tipo de precio definido al cliente.  
 **% Descuento:** Es el porcentaje de descuento comercial que se le va a liquidar a esta factura, que afectará todos los productos de esta factura.  
@@ -31,7 +31,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 **Número:** Número del documento asociado a la factura.  
 **Ubicación1:** Número de la ubicación asociada a la factura.  
 
-![](ffac3.pgn)
+![](ffac3.png)
 
 **Observación:** Para el manejo de aclaraciones adicionales.  
 **Bruto:** Es la sumatoria de los valores de los productos que van en la factura.  
@@ -48,7 +48,7 @@ Pestaña Detalle
 
 Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.  
 
-![](ffac4.pgn)
+![](ffac4.png)
 
 **Renglón:** Número que identifica cada fila o registro del detalle. No pueden existir dos números de renglón repetidos.  
 **Producto:** Código y nombre del producto asignado en **BPRO**.  
@@ -61,7 +61,7 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Unidad medida:** Unidad de medida del producto.  
 **Bodega:** Código de la bodega que hizo el despacho de los productos incluidos en la factura.  
 
-![](ffac5.pgn)
+![](ffac5.png)
 
 
 **Localización:** Código de la localización (sección de la bodega) donde estaban ubicados los productos.  
@@ -80,7 +80,7 @@ Pestaña Pago
 
 Registro de la forma de pago de dicha factura, en las ventas a crédito estos datos son diligenciados automáticamente. Esta pestaña es de vital importancia para facturas con pago de contado para el registro de la cantidad en efectivo y / o cheque(s) con la cual se cancela la factura, el sistema se acomoda a las últimas disposiciones legales de pago con tarjeta de crédito donde se debe indicar el monto de IVA que causan los productos facturados.
 
-![](ffac6.pgn)
+![](ffac6.png)
 
 **Ubicación:** Ubicación desde la cual se factura el producto.  
 **Renglón:** Consecutivo de formas de pago.  
@@ -93,7 +93,7 @@ Registro de la forma de pago de dicha factura, en las ventas a crédito estos da
 **Número:** Número del documento relacionado con la factura.  
 **Ubicación:** Ubicación del documento relacionado con la factura.  
 
-![](ffac7.pgn)
+![](ffac7.png)
 
 
 **Tarjeta:** Tarjeta con la cual se realizó el pago, en caso tal que haya sido con tarjeta.
@@ -118,7 +118,7 @@ Pestaña Contabilización
 
 La pestaña de Contabilización permite visualizar la contabilización que realiza el sistema automáticamente.  
 
-![](ffac8.pgn)
+![](ffac8.png)
 
 **Cuenta:** Número de cuenta contable afectada.  
 **Nombre cuenta:** Nombre de la cuenta contable afectada.  
@@ -129,7 +129,7 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Centro costo:** Centro de costo al cual afecta el movimiento.  
 **Proyecto:** Número de proyecto asociado.  
 
-![](ffac9.pgn)
+![](ffac9.png)
 
 **Negocio:** Número de negocio asociado.  
 **Base retención:** Valor base sobre el cual se realizó la retención.  

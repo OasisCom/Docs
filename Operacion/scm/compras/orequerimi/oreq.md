@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **OREQ** como todas las aplicaciones de OasisCom se encuentran dividida en dos secciones, en el maestro permite el registro del encabezado de los requerimientos hechos por la empresa.
 
-![](oreq.pgn)
+![](oreq.png)
 
 •	**Número:** Número consecutivo de requerimiento, el cual es asignado automáticamente una vez este respectivamente parametrizado en la opción **BCON**.  
 •	**Documento:** Especifica porque se efectúa el requerimiento.  
@@ -25,7 +25,7 @@ La aplicación **OREQ** como todas las aplicaciones de OasisCom se encuentran di
 
 En el detalle de los productos y cantidades que se requieren. Permite observar la cantidad recibida de cada producto.
 
-![](oreq2.pgn)
+![](oreq2.png)
 
 •	**Renglón:** Número de cada fila de pedido de productos a solicitar dentro del requerimiento.  
 •	**Producto:** Código del producto que se requiere.  

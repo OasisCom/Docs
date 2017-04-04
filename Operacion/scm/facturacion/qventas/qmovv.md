@@ -11,7 +11,7 @@ Esta aplicación permite relacionar los ingresos provenientes de las actividades
 
 La función de principal de esta aplicación es la carga de presupuesto de ventas de compañía ya sea por producto o vendedor.
 
-![](qmovv.pgn)
+![](qmovv.png)
 
 **Documento:** Tipo de documento.  
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
@@ -21,7 +21,7 @@ La función de principal de esta aplicación es la carga de presupuesto de venta
 **ConfirmDate:** Fecha de confirmación de venta.  
 **Tercero:** Proveedor evaluado.  
 
-![](qmovv2.pgn)
+![](qmovv2.png)
 
 **Dirección:** Código de la sucursal o agencia del cliente.  
 **Vendedor:** Número de identificación del vendedor.  
@@ -30,7 +30,7 @@ La función de principal de esta aplicación es la carga de presupuesto de venta
 **Observación:** Campo que registra la descripción de registro.  
 **Estado:** Estado del movimiento.  
 
-![](qmovv3.pgn)
+![](qmovv3.png)
 
 **Centro de Costo:** Este campo permite el ingreso del número identificador de los centros de costos parametrizados en el sistema.
 **Condición de Pago:** Condición de pago definida para esta factura, la toma por defecto de las condiciones definidas para el cliente o de las condiciones definidas para el pedido en caso de corresponder a un pedido. Es muy importante este campo para la generación de la CARTERA puesto que con base a esto va a generar las cuotas o vencimientos de cartera correspondientes a las ventas a crédito.
@@ -39,7 +39,7 @@ Detalle de la aplicación **QMOVV** – Movimiento de presupuestos de ventas.
 
 Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.
 
-![](qmovv4.pgn)
+![](qmovv4.png)
 
 **Renglón:** Número que identifica cada fila o registro del detalle. No pueden existir dos números de renglón repetidos.  
 **Producto:** Código y nombre del producto.  

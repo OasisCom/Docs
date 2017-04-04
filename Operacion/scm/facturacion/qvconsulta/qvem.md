@@ -7,7 +7,7 @@ editable: si
 
 # Ventas por Empresa - QVEM
 
-![](qvem.pgn)
+![](qvem.png)
 
 **Periodo:** mes de consulta.  
 **Año:** año de consulta.  

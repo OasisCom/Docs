@@ -7,7 +7,7 @@ editable: si
 
 # Contratos de Venta - VCNT
 
-![](ncnt1.png)
+![](vcnt1.png)
 
 **Documento:** doble clic y seleccionar tipo de documento CV – Contratos de venta.  
 **Número:** número generado automáticamente.  
@@ -19,7 +19,7 @@ editable: si
 **Estado:** Estado del contrato: Activo, Procesado, Anulado.  
 
 
-![](ncnt2.png)
+![](vcnt2.png)
 
 **Vendedor:** identificación numérica del vendedor.  
 **Tipo precio:** doble clic y seleccionar tipo de precio.  
@@ -30,7 +30,7 @@ editable: si
 **Moneda:** moneda en la que se acuerda el contrato.  
 
 
-![](ncnt3.png)
+![](vcnt3.png)
 
 **Tipo contrato:** tipo de contrato de venta - V.  
 **Period Type:** Tipo de periodo.  
@@ -38,7 +38,7 @@ editable: si
 **Lastinvoice:** fecha de la última factura emitida.  
 **NextInvoice:** fecha de la siguiente factura a emitir.  
 
-![](ncnt4.png)
+![](vcnt4.png)
 
 **Observación:** observación sobre el contrato si existe
 **ProjectId:** número del proyecto
@@ -51,7 +51,7 @@ editable: si
 
 La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamada Detalle en la cual se puede observar información más explícita del contrato seleccionado.
 
-![](ncnt5.png)
+![](vcnt5.png)
 
 **Renglón:** número del renglón, se genera automáticamente.  
 **Producto:** Número asignado al contrato a registrar, parametrizado previamente en BPO.  
@@ -65,7 +65,7 @@ La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamad
 **Tipo Contrato:** según tipo de contrato: Venta, arriendo.  
 
 
-![](ncnt6.png)
+![](vcnt6.png)
 
 **ProductPurchaseId:** Identificación del producto de compra.  
 **Vencimiento:** Fecha de vencimiento del producto.  

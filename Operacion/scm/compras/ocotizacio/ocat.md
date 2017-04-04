@@ -11,7 +11,7 @@ Permite aprobar la cotización más favorable para la empresa al momento de real
 
 Esta ventana permite visualizar las cotizaciones recibidas para cada uno de los productos que componen el requerimiento; de igual forma se indica la cotización más favorable para la realización de la compra basada en el precio más bajo.  
 
-![](ocat1.pgn)
+![](ocat1.png)
 
 Una vez seleccionada la cotización deseada, se procede a realizar la aprobación, devolución o rechazo de la misma y para ello se debe indicar la acción correspondiente en el recuadro inferior y posteriormente **“EJECUTAR”**, para la generación de la orden de compra o contrato correspondiente.
 

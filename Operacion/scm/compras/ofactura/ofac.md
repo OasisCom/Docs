@@ -7,7 +7,7 @@ editable: si
 
 # Facturas de Compra - OFAC
 
-![](ofac1.pgn)
+![](ofac1.png)
 
 
 Permite el registro de las facturas de compra, con todas sus características. La factura puede tener un recibo de inventario anterior, o generar el respectivo movimiento con la entrada de inventario.  
@@ -30,7 +30,7 @@ En el maestro:
 •	**Bodega:** Bodega a la cual se hace la entrada de inventario.  
 •	**Observación:** Con respecto a la factura de compra.  
 
-![](ofac2.pgn)
+![](ofac2.png)
 
 En el detalle permite llevar el registro de los siguientes campos.
 

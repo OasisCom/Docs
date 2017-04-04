@@ -9,7 +9,7 @@ editable: si
 
 En el maestro de la aplicación permite el registro, control y/o consulta de los datos básicos o encabezado del contrato.  
 
-![](ocnt1.pgn)
+![](ocnt1.png)
 
 
 

@@ -9,7 +9,7 @@ editable: si
 
 Herramienta que facilita la consulta o búsqueda de facturas que se encuentren digitadas sin importar su estado, con algún dato que se conozca; producto, fecha, monto, valor del producto, etc.
 
-![](ffcf1.pgn)
+![](ffcf1.png)
 
 **Documento:** Tipo de transacción FC Factura de Venta o DV Devolución.  
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
@@ -22,7 +22,7 @@ Herramienta que facilita la consulta o búsqueda de facturas que se encuentren d
 **Neto:** Es el total menos la retención, en el caso que el comprador de la mercancía sea un agente retenedor.  
 **Bodega:** Código de la bodega que hizo el despacho de los productos incluidos en la factura.  
 
-![](ffcf2.pgn)
+![](ffcf2.png)
 
 **Renglón:** Número que identifica cada fila o registro del detalle. No pueden existir dos números de renglón repetidos.  
 **Producto:** Código y nombre del producto.  

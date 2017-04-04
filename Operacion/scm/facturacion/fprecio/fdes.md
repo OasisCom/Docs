@@ -9,7 +9,7 @@ editable: si
 
 Permite registrar los descuentos comerciales establecidos con los clientes.
 
-![](fdes1.pgn)
+![](fdes1.png)
 
 **Id descuento:** consecutivo de la aplicación Descuentos.  
 **Ubicación:** número de la ubicación de la empresa a la cual se va a agregar el descuento.  
@@ -20,7 +20,7 @@ Permite registrar los descuentos comerciales establecidos con los clientes.
 **Nombre clasificación:** nombre de clasificación del producto.  
 **Producto:** número asignado al producto previamente en la aplicación BPRO Productos.  
 
-![](fdes2.pgn)
+![](fdes2.png)
 
 **Nombre producto:** nombre del producto al cual se realizará descuento.  
 **Fecha inicial:** fecha inicial del descuento.  

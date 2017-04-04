@@ -9,6 +9,6 @@ editable: si
 
 Permite detallar el costo en que se incurre para comercializar los productos de la empresa permitiendo consultar por periodo, año, producto, ubicación.
 
-![](frcv1.pgn)
+![](frcv1.png)
 
 

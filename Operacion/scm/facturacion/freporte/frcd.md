@@ -9,7 +9,7 @@ editable: si
 
 Esta opción consolida las ventas realizadas por día, filtrándolas y ordenándolas de mayor a menor por los montos facturados, el reporte totaliza los montos de las ventas realizadas y asigna automáticamente un porcentaje de participación en facturación respecto al total.
 
-![](frcd1.pgn)
+![](frcd1.png)
 
 
 

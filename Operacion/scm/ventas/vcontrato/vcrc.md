@@ -7,7 +7,7 @@ editable: si
 
 # Renueva Contrato - VCRC
 
-![](vcrc1.pgn)
+![](vcrc1.png)
 
 **Documento:** tipo de documento CV - Renueva Contrato.  
 **Número:** consecutivo generado automáticamente.  
@@ -19,7 +19,7 @@ editable: si
 **Fecha final:** fecha final o de vencimiento del contrato renovado.  
 **PeriodType:** doble clic y seleccionar tipo de periodo en que se acuerda la facturación (mensual, bimestral, trimestral, semestral, anual).  
 
-![](vcrc2.pgn)
+![](vcrc2.png)
 
 **Duración:** Duración numérica según tipo de periodo asignado y fechas del contrato. Si el contrato se demora dos años y el pago es mensual tendrá una duración de 24 meses.  
 **Ejecutado:** número de meses ejecutados del total de la duración del contrato.  
