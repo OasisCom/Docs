@@ -19,21 +19,21 @@ Esta opción es utilizada para realizar la gestión de los doctores que prestar�
 
 En los campos _Primer Apellido_, _Segundo Apellido_, _Primer Nombre_ y _Segundo Nombre_ se ingresan los nombres del doctor como corresponda.  
 
-
-![](gdoc2.png)
-
-
 **Dirección**: se debe ingresar la dirección de residencia del doctor.  
 **Teléfono**: se deberá ingresar el número de contacto del doctor.  
 **Ubicación Geográfica**: se debe ingresar el país donde se encuentra residiendo actualmente el doctor. Puede ser seleccionado desde el zoom como se enseña en la imagen, o bien, ingresándolo de manera manual. Las ubicaciones geográficas se parametrizan previamente en la aplicación **BUBG – Ubicaciones geográficas**.  
 **Nombre Ubicación Geográfica**: se diligencia automáticamente una vez es diligenciado el campo anteriormente descrito.  
 
 
-![](gdoc3.png)
+![](gdoc2.png)
 
 
 **Especialidad**: se debe seleccionar el campo en el cual se desempeña el doctor. Este campo puede ser diligenciado manualmente o bien, seleccionado desde el zoom como se muestra en la imagen. Las especialidades son parametrizadas en la aplicación **BBES – Especialidades**.  
 **Nombre especialidad**: indica el nombre de la especialidad, este se diligencia automáticamente una vez el registro es guardado.
+
+
+![](gdoc3.png)
+
 
 **Estado**: pueden ser seleccionado uno de los siguientes:  
 

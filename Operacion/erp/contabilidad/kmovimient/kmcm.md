@@ -7,10 +7,11 @@ editable: si
 
 ## Consulta de Movimientos - KMCM
 
-El objetivo de esta aplicación es poder consultar los movimientos realizados.
+El objetivo de esta aplicación es poder consultar los movimientos realizados en el módulo de contabilidad.
 
+Se consulta por año de ejecución, documento, número de cuenta contable y damos en _Enter_.
 
-![](KMCM1.png)
+![](KMCM2.png)
 
 
 **Documento:** Especificación del documento origen que da comienzo a un movimiento.  
@@ -32,7 +33,7 @@ El objetivo de esta aplicación es poder consultar los movimientos realizados.
 **Periodo:** Identificación numérica del mes del documento origen.  
 **Año:** Año en el que se realiza el documento origen.  
 
-
+La información arrojada por esta aplicación servirá de comparación para con la información generada en [**KPGF - Generar Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md), la cual se puede validar en diferentes aplicaciones como lo son: [**KFOR - Balance de Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kformatos/kfor.md), [**KPME - Medios Magnéticos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kmedios/kpme.md), [**KRFD - Formatos Detallados**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kmedios/krfd.md), [**KRFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kmedios/krfo.md). Comparada la información generada en KPGF con la información del módulo de Contabilidad, se deberá ingresar a la aplicación [**BINT - Interfaces**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bint.md) a descargar el archivo que se enviará a la entidad correspondiente.
 
 
 
