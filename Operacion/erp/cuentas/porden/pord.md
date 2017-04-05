@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 title: Orden de Pago
 permalink: /Operacion/erp/cuentas/porden/pord
@@ -7,11 +7,7 @@ editable: si
 
 # Orden de Pago - PORD
 
-**Entrada:** La entrada de datos a este programa proviene de la aplicación de movimientos (pmov), en donde los documentos generados son de cuentas por pagar.  
-
-**Proceso:** El proceso comienza cuando se marca el campo para dar la orden de pago y luego se confirma al oprimir el botón de orden de pago, el proceso incluye la generación de un comprobante de egreso en el módulo de tesorería en estado de activo y con la cual se actualiza las cuentas contables afectadas por el movimiento y los saldos de las cuentas que se tienen con los terceros.  
-
-**Salida:** La salida de datos de este proceso se observa en la generación del comprobante de egreso en el módulo de tesorería. Cuando se ejecuta este proceso el movimiento que estaba pendiente de pago ya no se puede consultar por la aplicación de orden de pago.  
+Aplicación que permite consultar las cuentas que están pendientes por pagar e igualmente permite confirmar la orden de pago de cada una de ellas. Contiene los siguientes campos:
 
 ![](PORD1.png)
 
