@@ -52,7 +52,7 @@ Terminada la parametrización del maestro, se procede con el detalle:
 **Tipo Datos:** seleccionar el tipo de dato del campo, si corresponde a numérico, carácter, valor, fecha, etc.  
 **Llave:** se debe activar el flag para los campos que corresponden a llaves foráneas, entre maestro y detalle, es decir, _DocumentId_, _NumberId_ y _LocationId_.  
 
-Hecho esto, se ha culminado con la parametrización en la opción BARC y se podrá continuar con la parametrización en [**BPUB - Publicaciones**](.  
+Hecho esto, se ha culminado con la parametrización en la opción BARC y se podrá continuar con la parametrización en [**BPUB - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md).  
 
 
 
