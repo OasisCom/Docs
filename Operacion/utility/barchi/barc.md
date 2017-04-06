@@ -30,7 +30,7 @@ En el maestro se agrega un nuevo registro y se diligencian los siguientes campos
 
 ![](BARC2.png)
 
-_IMPORTANTE_, cada consulta (sentencia) debe estar separada por ‘;’ (punto y coma) como se muestra en el recuadro azul.  
+_IMPORTANTE_: cada consulta (sentencia) debe estar separada por ‘;’ (punto y coma) como se muestra en el recuadro azul.  
 
 **_Detalle_**
 
