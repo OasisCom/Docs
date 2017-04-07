@@ -371,7 +371,7 @@
               url: /Operacion/erp/cuentas/preporte/
               subitems:
               - text: Saldos
-                url: /Operacion/erp/cuentas/preporte/prca
+                url: /Operacion/erp/cuentas/preporte/prsa
               - text: Movimiento Contable
                 url: /Operacion/erp/cuentas/preporte/prmc
               - text: auxiliar de Cuentas por Pagar
