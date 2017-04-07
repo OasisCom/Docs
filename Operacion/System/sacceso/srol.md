@@ -17,7 +17,15 @@ Inicialmente, en el maestro se debe consultar el rol al que hace parte como usua
 ![](SROL1.png)
 
 
-En esta pestaña del detalle, se debe agregar la publicación previamente parametrizada en la aplicación [**BPUP - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md)
+En esta pestaña del detalle, se debe agregar la publicación previamente parametrizada en la aplicación [**BPUP - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md). Agregamos un nuevo renglón y diligenciamos los campos.
 
+![](SROL2.png)
 
+**Publicación Id:** digitar el número de la publicación, si se desconoce, dar doble click y seleccionar del zoom la publicación correspondiente.  
+
+![](ZOOMBPUB.png)
+
+**Nombre Publicación:** al ingresar el número de la publicación, el sistema arrojará el nombre automáticamente.  
+
+Realizada esta parametrización se podrá proceder a realizar la descarga del archivo desde la aplicación [**BINT - Interfaces**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bint.md).  
 
