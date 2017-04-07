@@ -8,7 +8,7 @@ editable: si
 
 ## FORMATOS - KBFO
 
-En la aplicación **KBFO** se realiza toda la parametrización para los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.
+En la aplicación **KBFO** se realiza toda la parametrización correspondiente a los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN, entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.
 
 La aplicación **KBFO** se parametrizará de la siguiente manera:
 
@@ -69,3 +69,4 @@ Al adicionar un registro el sistema automáticamente colocara los datos de _Año
 
 Finalmente, diligenciados los campos correspondientes, guardamos el registro dando click en el botón _Guardar_ del detalle.
 
+Para generar los formatos parametrizados en KBFO ingresaremos a la aplicación [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md).

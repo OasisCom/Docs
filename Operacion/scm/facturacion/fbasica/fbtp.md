@@ -9,7 +9,7 @@ editable: si
 
 Los tipos de precios son las diferentes listas de precios que pueda tener vigente en un momento dado la empresa. Normalmente las empresas pueden ofrecer dos listas de precios al tiempo, que son mayorista y público. Si una empresa tiene definidas muchas listas de precios aquí se deben definir cada una de esas listas de precios.
 
-![](fbtp1.pgn)
+![](fbtp1.png)
 
 **Código:** Código que identifica los Tipos de Precio de acuerdo a las definidas por la empresa.  
 **Nombre:** Código de la cuenta contable correspondiente al concepto, es de indispensable definición ya que, de esta depende el informe consolidado de facturación para la generación del comprobante de contabilidad.  

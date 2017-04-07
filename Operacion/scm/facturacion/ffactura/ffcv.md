@@ -9,7 +9,7 @@ editable: si
 
 Resumen que permite visualizar los movimientos efectuados por la facturación y que permite efectuar consultas por algunos datos específicos mostrando los datos totales de la consulta.
 
-![](ffcv1.pgn)
+![](ffcv1.png)
 
 **Periodo:** Hace referencia al mes en que se realizó la venta.  
 **Año:** Año en el que se realizó la venta.  
@@ -20,7 +20,7 @@ Resumen que permite visualizar los movimientos efectuados por la facturación y 
 **Tercero:** Código y nombre del Cliente.  
 **Moneda:** Tipo de moneda en la cual se registró la factura y se realizó a venta.  
 
-![](ffcv2.pgn)
+![](ffcv2.png)
 
 **Descuento:** Monto de los descuentos.  
 **Impuesto:** Monto del Impuesto IVA.  

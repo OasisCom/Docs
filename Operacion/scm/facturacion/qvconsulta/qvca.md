@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **QVCA**  - Clasificación permite visualizar las clasificaciones de los productos, describiendo la cantidad de productos facturados y el valor total de facturación.
 
-![](qvca.pgn)
+![](qvca.png)
 
 **Periodo:** Mes de consulta.  
 **Año:** Año de consulta.  

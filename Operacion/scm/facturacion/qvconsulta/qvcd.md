@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **QVCD** permite visualizar la clasificación de los productos por los puntos de venta.
 
-![](qvcd.pgn)
+![](qvcd.png)
 
 **Periodo:** mes de consulta.  
 **Año:** año de consulta.  

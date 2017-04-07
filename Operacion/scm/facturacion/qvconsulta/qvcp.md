@@ -9,7 +9,7 @@ editable: si
 
 La aplicación Cliente – Producto **QVCP** permite visualizar que cliente adquirió que producto, describiendo la cantidad de productos facturados a dicho cliente y el valor total de facturación. Igualmente en caso de devolución, arroja la cantidad de productos devueltos y el valor total de devolución.
 
-![](qvcp.pgn)
+![](qvcp.png)
 
 **Periodo:** Mes de consulta.  
 **Año:** Año de consulta.  

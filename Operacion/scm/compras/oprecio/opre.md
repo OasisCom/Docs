@@ -10,7 +10,7 @@ editable: si
 Permite el registro de los precios de compra, diferenciados por fecha y proveedor. Así como también se mantiene el histórico de precios del mismo producto, para el estudio de su comportamiento o valoración, y es útil en las devoluciones de productos comprados.
 
 
-![](opre1.pgn)
+![](opre1.png)
 
 •	**Tercero:** Identificación y nombre del proveedor.
 •	**Producto:** Código y nombre del producto.

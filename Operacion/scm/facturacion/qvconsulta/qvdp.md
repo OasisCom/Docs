@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **QVDP** permite visualizar los productos facturados diariamente, facilitando su búsqueda con filtros como periodo, año, fecha, producto, entre otros.
 
-![](QVDP.pgn)
+![](QVDP.png)
 
 **Periodo:** Mes de consulta.  
 **Año:** Año de consulta.  

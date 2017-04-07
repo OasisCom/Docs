@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Cotizaciones
-permalink: /Operacion/scm/ventas/vcot
+permalink: /Operacion/scm/ventas/vcotizacio/vcot
 editable: si
 
-#Cotizaciones - VCOT
+# Cotizaciones - VCOT
 
 Pantalla maestra que sirve para adicionar, modificar y consultar las diferentes cotizaciones que ha elaborado la empresa a los clientes. Para ello el cliente debe estar creado previamente en la básica o maestro de terceros, no se pueden realizar cotizaciones a clientes que no existan o que no se le contengan sus datos básicos.
 

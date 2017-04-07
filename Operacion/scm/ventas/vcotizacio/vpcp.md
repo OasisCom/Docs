@@ -9,7 +9,7 @@ editable: si
 
 Esta aplicación permite la consulta de las cotizaciones pendientes que se encuentran por confirmar.
 
-![](vpcp1.pgn)
+![](vpcp1.png)
 
 **Documento:** Especificación de la cotización.  
 **Número:** Número consecutivo de cotización. El programa asigna automáticamente este número.  
@@ -19,7 +19,7 @@ Esta aplicación permite la consulta de las cotizaciones pendientes que se encue
 **Requerimiento:** Número consecutivo correspondiente al requerimiento.  
 
 
-![](vpcp2.pgn)
+![](vpcp2.png)
 
 En el detalle se puede visualizar los productos y cantidades que se cotizaron, desde su precio, el total, porcentaje de impuestos, porcentaje de descuento, unidad de medida, vencimiento y otros aspectos inherentes a la cotización.
 

@@ -9,7 +9,7 @@ editable: si
 
 La sección maestra de la aplicación, permite el registro del encabezado las cotizaciones de compra, desde su generación y actualización de acuerdo a las condiciones comerciales ofrecidas por cada proveedor.  
 
-![](ocot1.pgn)
+![](ocot1.png)
 
 •	**Documento:** Especificación de la cotización.  
 •	**Numero:** Número consecutivo de cotización. El programa asigna automáticamente este número.  
@@ -33,7 +33,7 @@ La sección maestra de la aplicación, permite el registro del encabezado las co
 •	**Valores:** La tabla de valores muestra los estados por los que pasa el valor del producto desde su valor inicial pasando por descuentos, aplicación de impuestos hasta su valor real o final después de todos los ajustes necesarios.  
 •	En el detalle de los productos y cantidades que se van a cotizar, desde su precio, deducciones, ajustes, número de requerimiento, presentación, vencimiento y otros aspectos inherentes a la cotización.  
 
-![](ocot2.pgn)
+![](ocot2.png)
 
 •	**Renglón:** Número de cada fila de pedido de productos a solicitar dentro del requerimiento.  
 •	**Producto:** Identificación numérica del producto cotizado.  

@@ -19,7 +19,7 @@ En el detalle de esta aplicación se observará la información discriminada por
 ![](KFOR2.png)
 
 
-Se debe validar que en la aplicación **KPME - Medios Magnéticos** también haya generado información.
+Se debe validar que en la aplicación [**KPME - Medios Magnéticos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kmedios/kpme.md) también haya generado información.
 
 
 

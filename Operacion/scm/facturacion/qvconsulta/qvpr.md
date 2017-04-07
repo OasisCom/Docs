@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **QVPR** permite visualizar la cantidad y el valor de facturación de los productos según el periodo o clasificación consultada. Además se puede observar la cantidad de productos devueltos y su valor.
 
-![](qvpr.pgn)
+![](qvpr.png)
 
 **Periodo:** Mes de consulta.  
 **Año:** Año de consulta.  

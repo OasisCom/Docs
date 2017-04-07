@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **FPSA** permite consultar los saldos y precios de los productos por ubicación.
 
-![](fpsa1.pgn)
+![](fpsa1.png)
 
 **Localización:** Identificación numérica de la empresa u organización.  
 **Producto:** Identificación numérica de los productos a consultar.  

@@ -9,7 +9,7 @@ editable: si
 
 La aplicación Facturación Resumida permite filtrar por cliente, vendedor, producto, año y periodo, arrojando un reporte que muestra el resumen de todos los productos que se le han sido facturados al cliente según la consulta por el vendedor indicado en el filtro.
 
-![](frfr.pgn)
+![](frfr.png)
 
 **Cliente:** número de identificación del cliente de consulta.  
 **Vendedor:** número de identificación del vendedor.  
@@ -19,7 +19,7 @@ La aplicación Facturación Resumida permite filtrar por cliente, vendedor, prod
 
 Reporte de la aplicación Facturación Resumida – **FRFR**
 
-![](frfr2.pgn)
+![](frfr2.png)
 
 
 

@@ -11,7 +11,7 @@ La aplicación calcula con base en lo facturado el margen de rentabilidad de los
 
 Permite filtrar por periodo, año, ubicación y producto.
 
-![](frup.pgn)
+![](frup.png)
 
 
 

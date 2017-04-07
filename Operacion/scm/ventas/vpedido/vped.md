@@ -5,7 +5,7 @@ permalink: /Operacion/scm/ventas/vpedido/vped
 editable: si
 ---
 
-#Pedidos - VPED
+# Pedidos - VPED
 
 Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa. Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.
 

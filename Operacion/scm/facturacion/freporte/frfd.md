@@ -11,9 +11,9 @@ Detalla uno a uno los productos incluidos en las respectivas facturas, permitien
 
 Filtrar por ubicación y canal y dar clic en Actualizar (Flecha azul).  
 
-![](frfd1.pgn)
+![](frfd1.png)
 
-![](frfd2.pgn)
+![](frfd2.png)
 
 
 

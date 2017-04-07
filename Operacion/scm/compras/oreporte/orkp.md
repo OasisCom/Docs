@@ -9,7 +9,7 @@ editable: si
 
 Reporte que permite visualizar el cumplimiento por proveedor, filtrando por Cliente, Fecha inicial y Fecha final.  
 
-![](orkp1.pgn)
+![](orkp1.png)
 
 **Cliente ID:** Identificación del proveedor que se desea consultar.  
 **Fecha inicial:** Fecha inicial desde donde se desea realizar la consulta.  

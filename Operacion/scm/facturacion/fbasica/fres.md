@@ -9,7 +9,7 @@ editable: si
 
 La aplicación Resoluciones – **FRES** permite registrar las resoluciones que tengan las empresas para sus facturas o demás documentos que lo requieran.
 
-![](fres1.pgn)
+![](fres1.png)
 
 **Documento:** tipo de documento a la cual aplicará la resolución.  
 **Ubicación:** número de ubicación de la empresa en el sistema.  
