@@ -336,16 +336,54 @@
           subitems:
             - text: Saldos
               url: /Operacion/erp/cuentas/psaldo/
+              subitems:
+              - text: Saldos
+                url: /Operacion/erp/cuentas/psaldo/pssp
             - text: Movimientos
               url: /Operacion/erp/cuentas/pmovimient/
+              subitems:
+              - text: Movimientos
+                url: /Operacion/erp/cuentas/pmovimient/pmov
+              - text: Consulta de Movimientos
+                url: /Operacion/erp/cuentas/pmovimient/pmcm
+              - text: Cruces
+                url: /Operacion/erp/cuentas/pmovimient/pmcr
+              - text: Comprobantes Repetitivos
+                url: /Operacion/erp/cuentas/pmovimient/prep
             - text: Conciliacion
               url: /Operacion/erp/cuentas/pconciliac/
+              subitems:
+              - text: Conciliacion con Prestadores
+                url: /Operacion/erp/cuentas/pconciliac/pcon
             - text: Ordenes de Pago
               url: /Operacion/erp/cuentas/porden/
+              subitems:
+              - text: Orden de Pago
+                url: /Operacion/erp/cuentas/porden/pord
             - text: Procesos Especiales
               url: /Operacion/erp/cuentas/pproceso/
+              subitems:
+              - text: Cambio de Fechas
+                url: /Operacion/erp/cuentas/pproceso/ipcf
+              - text: Reconstruye Cuota y Saldos CxC o CxP
+                url: /Operacion/erp/cuentas/pproceso/pppd
             - text: Reportes
               url: /Operacion/erp/cuentas/preporte/
+              subitems:
+              - text: Saldos
+                url: /Operacion/erp/cuentas/preporte/prca
+              - text: Movimiento Contable
+                url: /Operacion/erp/cuentas/preporte/prmc
+              - text: auxiliar de Cuentas por Pagar
+                url: /Operacion/erp/cuentas/preporte/prau
+              - text: Auxiliar de Cuentas Vencidas
+                url: /Operacion/erp/cuentas/preporte/prac
+              - text: Cruces
+                url: /Operacion/erp/cuentas/preporte/prcr
+              - text: Documento Equivalente
+                url: /Operacion/erp/cuentas/preporte/prde
+              - text: Comparacion de Saldos
+                url: /Operacion/erp/cuentas/preporte/prcs
         - text: Activos Fijos
           url: /Operacion/erp/activos/
           subitems:
