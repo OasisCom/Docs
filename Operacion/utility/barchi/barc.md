@@ -7,9 +7,11 @@ editable: si
 
 ## Archivos - BARC
 
+### Parametrización XML
+
 Para la generación o descarga de un archivo en formato _.XML_ a través de un formato _.XSD_ se deben realizar las siguientes parametrizaciones iniciales en BARC:  
 
-#### **Bajar Archivos**
+##### **Bajar Archivos**
 
 En la aplicación **BARC** se debe realizar la parametrización de la estructura del archivo a bajar de la siguiente manera:  
 
