@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 title: Orden de Pago
 permalink: /Operacion/erp/cuentas/porden/pord
