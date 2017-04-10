@@ -5,7 +5,7 @@ permalink: /Operacion/utility/barchi/bint
 editable: si
 ---
 
-# Interfaces - BINT
+## Interfaces - BINT
 
 Esta aplicación permite cargar o descargar información sobre diferentes escenarios del sistema OasisCom, de acuerdo a una parametrización previa.  
 

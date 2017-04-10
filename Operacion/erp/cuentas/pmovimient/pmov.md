@@ -5,7 +5,7 @@ permalink: /Operacion/erp/cuentas/pmovimient/pmov
 editable: si
 ---
 
-# Movimientos - PMOV
+## Movimientos - PMOV
 
 Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos, en esta aplicación donde se deben diligenciar unos datos obligatoriamente y otros que son opcionales.  
 
@@ -13,7 +13,7 @@ Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan
 
 **Documento:** Son los documentos que se han creado para ser utilizados en el módulo de cuentas por pagar, tan Notas Débito, Notas Crédito, Comprobantes de Egreso y Cuentas por Pagar.  
 **Número:** El sistema asigna automáticamente el consecutivo de cada documento, según las especificaciones otorgadas al documento en la opción BCNS.  
-**Ubicación:** Ubicación que efectúa el movimiento o al que se le aplica el movimiento, en caso de que la empresa tenga centralizado el manejo de la información.
+**Ubicación:** Ubicación que efectúa el movimiento o al que se le aplica el movimiento, en caso de que la empresa tenga centralizado el manejo de la información.  
 **Fecha:** Fecha en la cual se realiza el movimiento. Es importante puesto que es la misma fecha de la afectación contable.  
 **Concepto:** Código del Concepto por el cual se hace el movimiento. Este define automáticamente la afectación contable del movimiento, por tanto debe estar perfectamente definido.  
 **Motivo:** Número que identifica un documento para casos especiales a nivel contable, se puede parametrizar los documentos por conceptos en la aplicación BDOC, los motivos se parametrizan desde la aplicación BPLA.  

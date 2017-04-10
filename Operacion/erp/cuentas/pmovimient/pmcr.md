@@ -5,7 +5,7 @@ permalink: /Operacion/erp/cuentas/pmovimient/pmcr
 editable: si
 ---
 
-# Cruces - PMCR
+## Cruces - PMCR
 
 **Entrada:** La entrada de datos a esta aplicación provienen de la aplicación pmov (movimientos) que resultan de movimientos generados con documentos como: comprobantes de egreso, cuentas por pagar, notas crédito, recibos de caja entre otros.  
 
@@ -47,6 +47,8 @@ editable: si
 **Concepto:** Concepto del documento al que se realizará el cruce.  
 **Naturaleza:** Hace referencia a la naturaleza de la cuenta si es débito o crédito.  
 **Invoice Number:** Valor de la factura a la que se le realizará el cruce.  
+
+Esta aplicación cuenta con un detalle en donde se pueden identificar los documentos que se han cruzado con el documento original que se encuentra en el maestro, se especifican los siguientes campos:  
 
 ![](PMCR4.png)
 
