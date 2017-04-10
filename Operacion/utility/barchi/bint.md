@@ -45,6 +45,9 @@ En BINT - Interfaces, generaremos el archivo de la publicación parametrizada an
 
 Al seleccionar la publicación, el sistema automáticamente asignará en el campo _Operación_ la opción **Download** y habilitará el campo _Date_, recordemos que este fue el campo colocado como tipo argumento en el detalle de la aplicación [**BARC - Archivos**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/barc.md), en este campo ingresaremos la fecha desde la cual se requiere descargar el archivo.  
 
+![](BINT7.png)
+
+
 Realizado lo anterior, damos click en el botón **Aceptar**. El sistema generará un archivo en el navegador Internet Explorer mostrando los registros descargados en formato _.XML_.  
 
 
