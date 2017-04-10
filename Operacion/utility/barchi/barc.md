@@ -63,7 +63,7 @@ Terminada la parametrización del maestro, se procede con el detalle:
 **Llave:** se debe activar el flag para los campos que corresponden a llaves foráneas, entre maestro y detalle, es decir, _DocumentId_, _NumberId_ y _LocationId_.  
 
 
-Hecho esto, se ha culminado con la parametrización en la opción BARC y se podrá continuar con la parametrización en [**BPUB - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md).  
+Hecho esto, se ha culminado con la parametrización en la opción BARC y se podrá continuar con la parametrización en [**BPUB - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md) y  [**SROL - Roles**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/srol.md).  
 
 
 
@@ -108,7 +108,33 @@ Terminada la parametrización del maestro, se procede con el detalle:
 
  * **Primer registro:** 
 
- **Tipo:** corresponde a _FOREIGN KEY_, en donde nótese que en el campo Nombre’ y el campo ‘Formula’, se encuentran las tablas #OPERATION y #OPERATIONDETAIL respectivamente, en donde el símbolo ‘#’ indica que son tablas temporales, con las cuales se realiza la validación de la consistencia de la información de los campos ‘DocumentId’, ‘NumberId’, y ‘LocationId’ (descritos en la columna ‘Campo’ y sin espacios) que corresponden a las llaves entre los registros del maestro y el detalle.
+ **Tipo:** seleccionaremos la opción _FOREIGN KEY_.  
+ **Nombre:** digitar la tabla _#OPERATIONDETAIL_.  
+ **Campo:** digitar sin espacios _DocumentIdNumberIdLocationId_.  
+**Formula:** digitar la tabla #OPERATION.  
+
+  El simbolo **_#_** indica que son tablas temporales, con las cuales se realiza la validación de la consistencia de la información de los campos _DocumentId_, _NumberId_, y _LocationId_ (descritos en la columna **Campo** y sin espacios) que corresponden a las llaves entre los registros del maestro y el detalle.  
+  
+  ![](BARC7.png)
+  
+ * **Segundo Registro**
+
+ En el segundo renglón, en el campo **Tipo** se deberá seleccionar la opción _REGISTRO_, lo que significa que se realiza la misma validación de consistencia de información de los campos _DocumentId_, _NumberId_, y _LocationId_ (descritos en la columna **Campo** y sin espacios), pero esta vez es de la tabla _#OPERATION_ descrita en el campo **Nombre**, (que corresponde a una tabla temporal) contra la misma tabla _OPERATION_ descrita en el campo **Formula**, pero esta ya es la tabla definitiva que corresponderá a la subida del archivo como tal. De ahí también puede verse que el flag de la columna **Llave** se encuentra activo.  
+ 
+ ![](BARC8.png)
+ 
+ * **Tercer y Cuarto Registro**
+
+ En el tercer y cuarto renglón, en el campo **Tipo** se deberá seleccionar la opción _ACTUALIZACIÓN_, en donde la función de estos dos registros es realizar el reemplazo del campo _DocumentId_ descrito en la columna **Nombre**, es decir, aquellos registros que tengan en el campo _DocumentId_, _FC_ o _FA_, los reemplazará por _EFC_ o _EFA_ respectivamente, que son los datos descritos en el campo **Formula**. La actualización de los valores solo se realiza en las tablas temporales es decir las que tienen el símbolo de (_#_).  
+
+
+  ![](BARC9.png)
+
+
+Hecho esto, se ha culminado con la parametrización en la opción BARC y se podrá continuar, al igual que con la bajada de archivos, con la parametrización en [**BPUB - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md) y  [**SROL - Roles**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/srol.md).
+
+
+
 
 
 
