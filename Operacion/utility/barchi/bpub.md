@@ -7,7 +7,7 @@ editable: si
 
 ## Publicaciones - BPUB
 
-#### Parametrización XML
+### Parametrización XML
 
 Parametrizado anteriormente el archivo en [**BARC - Archivos**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/barc.md), en la aplicación BPUB se deberá realizar la parametrización de la publicación para que esta pueda ser visualizada en la opción [**BINT - Inferfaces**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bint.md).  
 
@@ -34,4 +34,4 @@ En el detalle de la aplicación se deberá agregar un nuevo registro y diligenci
 **Nombre Archivo:** este campo se diligencia automáticamente una vez sea seleccionado el campo _Archivo_.
 
 
-Realizado lo anterior, se culmina con la parametrización en BPUB y se procede a asignar los permisos para la visulaización y descarga de la publicación en [**SROL - Roles**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/srol.md).
+Realizado lo anterior, se culmina con la parametrización en BPUB y se procede a asignar los permisos para la visulaización y carga o descarga de la publicación en [**SROL - Roles**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/srol.md).
