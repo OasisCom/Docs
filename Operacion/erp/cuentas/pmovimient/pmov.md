@@ -29,7 +29,7 @@ Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan
 **Cuenta:** Identificación numérica de la cuenta afectada.  
 **Empleado:** Identificación numérica del empleado enacargado de generar el movimiento.  
 **ClientDestinyld:** Identificación numérica del cliente a quien se destina el movimiento.  
-**Negocio:** Identificación numérica del negocio. 
+**Negocio:** Identificación numérica del negocio.  
 **Factura:** Número de la factura o documento que se está registrando.  
 **Total1:** Valor total en la moneda que se realiza el movimiento.  
 **Saldo:** Valor total del movimiento.  
