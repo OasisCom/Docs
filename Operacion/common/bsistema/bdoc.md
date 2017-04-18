@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Códigos
+title: Documentos
 permalink: /Operacion/common/bsistema/bdoc
 editable: si
 ---
