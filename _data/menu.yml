@@ -790,7 +790,7 @@
               - text: Actualizar Calidad Entrega
                 url: /Operacion/scm/inventarios/imovimient/ipec
               - text: Consulta de Movimientos
-                url: /Operacion/scm/inventarios/imovimient/immc
+                url: /Operacion/scm/inventarios/imovimient/imcm
               - text: Movimiento Contable
                 url: /Operacion/scm/inventarios/imovimient/immc
             - text: Inventario Fisico 
