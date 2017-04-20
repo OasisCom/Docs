@@ -49,8 +49,26 @@ En el maestro, agregamos un nuevo registro y diligenciamos los siguientes campos
  * _Inactivo:_ El registro no permite la edición del registro ni ser referenciado desde otras aplicaciones.  
  * _Retirado:_ Este estado indica que el doctor ya no realiza ningún tipo de función.  
 
-**Id Recurso:** se debe ingresar el número de identificación del operario que llevará a cabo estas revisiones de rutina. Se debe tener en cuenta que el recurso puede referirse a una persona o a un grupo de personas (infraestructura o área).  Los recursos son parametrizados en la opción [**AREC - Recursos**]().
+**Id Recurso:** se debe ingresar el número de identificación del operario que llevará a cabo estas revisiones de rutina. Se debe tener en cuenta que el recurso puede referirse a una persona o a un grupo de personas (infraestructura o área).  Los recursos son parametrizados en la opción [**AREC - Recursos**](https://github.com/OasisCom/Docs/blob/master/Operacion/crm/proyecto/prbasica/arec.md).  
 
+Diligenciados los campos del maestro, damos click en el botón _Guardar_  ![](GUARDAR.png).  
+
+![](MRUT2.png)
+
+Realizado el registro en el maestro de la aplicación **MRUT – Rutinas**, nos dirigimos a diligenciar el detalle.  
+
+![](MRUT3.png)
+
+**Producto:** dar doble click y seleccionar del zoom o ingresar el código del producto el cual hace referencia al/los insumo(s) necesarios para ejecutar la revisión de rutina correspondiente.  
+
+![](PRODUCTO.png)
+
+**Nombre Producto:** se diligencia de manera automática una vez ingresado el código del producto.  
+**Cantidad:** se debe ingresar la cantidad del producto en cuestión que se requiere para ejecutar la revisión de rutina.  
+**Precio:** se debe ingresar el precio del producto adquirido.  
+**Operador:** seleccionar del zoom o digitar el número de identificación del responsable que se encargará de administrar dicho producto para la revisión.  
+
+![](OPERADOR.png)
 
 
 
