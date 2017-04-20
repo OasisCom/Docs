@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Planeacion
-permalink: /Operacion/mrp/control/lorden/Ordenes de produccion planeadas
+permalink: /Operacion/mrp/control/lorden/lorp
 editable: si
 ---
 
