@@ -5,8 +5,12 @@ permalink: /Operacion/common/borgan/bubi
 editable: si
 ---
 
-## Ubicaciones Organización - BUBI
+# Ubicaciones Organización - BUBI
 
+
+Esta aplicación permite parametrizar las bodegas donde se encuentran ubicados los productos.  
+
+## Producción
 
 Como se realiza la parametrización del producto es necesario parametrizar las bodegas correspondientes para el proceso de producción, en algunas empresas se tienen bodegas de materia prima y la planta de producción, por lo tanto, ingresaremos a la aplicación **BUBI** y diligenciamos nuestras bodegas, para esto debemos tener en cuenta lo siguiente:  
 
