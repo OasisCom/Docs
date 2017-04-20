@@ -460,35 +460,207 @@
           subitems:
             - text: Cotizaciones
               url: /Operacion/scm/ventas/vcotizacio/
+              subitems:
+              - text: Cotizaciones
+                url: /Operacion/scm/ventas/vcotizacio/vcot
+              - text: Citas Pendientes
+                url: /Operacion/scm/ventas/vcotizacio/vpcp
             - text: Pedidos
               url: /Operacion/scm/ventas/vpedido/
+              subitems:
+              - text: Pedidos
+                url: /Operacion/scm/ventas/vpedido/vped
+              - text: Pedidos Pendientes
+                url: /Operacion/scm/ventas/vpedido/vppp
+              - text: Aprovacion de Pedidos
+                url: /Operacion/scm/ventas/vpedido/vppr
+              - text: Balance y Precios por Ubicacion
+                url: /Operacion/scm/ventas/vpedido/vpsa
             - text: Despachos
               url: /Operacion/scm/ventas/vdespacho/
+              subitems:
+              - text: Asigna Recolector al Despacho
+                url: /Operacion/scm/ventas/vdespacho/vdar
+              - text: Despachos
+                url: /Operacion/scm/ventas/vdespacho/vdes
             - text: Contratos
               url: /Operacion/scm/ventas/vcontrato/
+              subitems:
+              - text: Contratos de Venta
+                url: /Operacion/scm/ventas/vcontrato/vcnt
+              - text: Ajuste a Contratos de Venta
+                url: /Operacion/scm/ventas/vcontrato/vajo
+              - text: Renueva Contrato
+                url: /Operacion/scm/ventas/vcontrato/vcrc
             - text: Procesos Especiales
               url: /Operacion/scm/ventas/vproceso/
+              subitems:
+              - text: Genera Facturacion
+                url: /Operacion/scm/ventas/vproceso/vpgf
             - text: Reportes
               url: /Operacion/scm/ventas/vreporte/
+              subitems:
+              - text: Clientes
+                url: /Operacion/scm/ventas/vreporte/vrcl
+              - text: Fijacion de Detalle de Facturacion
+                url: /Operacion/scm/ventas/vreporte/vrfd
+              - text: Fijaciones
+                url: /Operacion/scm/ventas/vreporte/vrfi
+              - text: Pedidos Pendientes por Vendedor
+                url: /Operacion/scm/ventas/vreporte/vrpp
+              - text: Pendientes por Producto
+                url: /Operacion/scm/ventas/vreporte/vrpr
+              - text: Ventas Perdidas
+                url: /Operacion/scm/ventas/vreporte/vrvp
+              - text: Separada Pedido vs Separada Inventario
+                url: /Operacion/scm/ventas/vreporte/vrps
         - text: Facturacion
           url: /Operacion/scm/facturacion/
           subitems:
             - text: Datos Basicos
               url: /Operacion/scm/facturacion/fbasica/
+              subitems:
+              - text: Tipos de Precio
+                url: /Operacion/scm/facturacion/fbasica/fctp
+              - text: Tipos de Descuento
+                url: /Operacion/scm/facturacion/fbasica/fbtd
+              - text: Tipos de Comision
+                url: /Operacion/scm/facturacion/fbasica/fbpc
+              - text: Resoluciones
+                url: /Operacion/scm/facturacion/fbasica/fres
             - text: Precios
               url: /Operacion/scm/facturacion/fprecio/
+              subitems:
+              - text: Precios
+                url: /Operacion/scm/facturacion/fprecio/fpre
+              - text: Listado de Precios
+                url: /Operacion/scm/facturacion/fprecio/fplp
+              - text: Descuentos
+                url: /Operacion/scm/facturacion/fprecio/fdes
+              - text: Saldos y Precios por Ubicacion
+                url: /Operacion/scm/facturacion/fprecio/fpsa
             - text: Facturas
               url: /Operacion/scm/facturacion/ffactura/
+              subitems:
+              - text: Facturas
+                url: /Operacion/scm/facturacion/ffactura/ffac
+              - text: Consulta de Ventas
+                url: /Operacion/scm/facturacion/ffactura/ffcv
+              - text: Consulta de Facturas
+                url: /Operacion/scm/facturacion/ffactura/ffcf
+              - text: Prefactura Genera Factura
+                url: /Operacion/scm/facturacion/ffactura/fppf
+              - text: Pre Facturacion de Validacion de Actualizacion
+                url: /Operacion/scm/facturacion/ffactura/fpvp
             - text: Comisiones
               url: /Operacion/scm/facturacion/fcomision/
+              subitems:
+              - text: Comisiones
+                url: /Operacion/scm/facturacion/fcomision/fcom
+              - text: Liquidacion de Comisiones
+                url: /Operacion/scm/facturacion/fcomision/fcli
             - text: Reportes
               url: /Operacion/scm/facturacion/freporte/
+              subitems:
+              - text: Precios Minimos y Maximos
+                url: /Operacion/scm/facturacion/freporte/frppc
+              - text: Ranking de Clientes
+                url: /Operacion/scm/facturacion/freporte/frrc
+              - text: Facturacion por Vendedor
+                url: /Operacion/scm/facturacion/freporte/frfv
+              - text: Productos Ranking
+                url: /Operacion/scm/facturacion/freporte/frpr
+              - text: Facturacion Detallada
+                url: /Operacion/scm/facturacion/freporte/frfd
+              - text: Referencias Consolidadas
+                url: /Operacion/scm/facturacion/freporte/frsc
+              - text: Ranking de Productos
+                url: /Operacion/scm/facturacion/freporte/frrp
+              - text: Facturacion Anual
+                url: /Operacion/scm/facturacion/freporte/frfa
+              - text: Facturacion Anual por Casa Matriz
+                url: /Operacion/scm/facturacion/freporte/frma
+              - text: Costo de Venta
+                url: /Operacion/scm/facturacion/freporte/frcv
+              - text: Facturacion por Producto
+                url: /Operacion/scm/facturacion/freporte/frfp
+              - text: Ventas Diarias por Clasificacion
+                url: /Operacion/scm/facturacion/freporte/frcd
+              - text: Facturacion por Ciudad
+                url: /Operacion/scm/facturacion/freporte/frci
+              - text: Ventas por Clasificacion
+                url: /Operacion/scm/facturacion/freporte/frvc
+              - text: Facturacion Detallada
+                url: /Operacion/scm/facturacion/freporte/frde
+              - text: Medicamentos Entregados
+                url: /Operacion/scm/facturacion/freporte/frse
+              - text: Facturacion Resumida
+                url: /Operacion/scm/facturacion/freporte/frar
+              - text: Facturacion de Contado
+                url: /Operacion/scm/facturacion/freporte/frco
+              - text: Facturacion Detallada por % de IVA
+                url: /Operacion/scm/facturacion/freporte/frrf
+              - text: Facturacion por Cliente
+                url: /Operacion/scm/facturacion/freporte/frfc
+              - text: Diario de Ventas
+                url: /Operacion/scm/facturacion/freporte/frdv
+              - text: Ventas por Proveedor
+                url: /Operacion/scm/facturacion/freporte/frvp
+              - text: Rentailidad por Vendedor
+                url: /Operacion/scm/facturacion/freporte/fruv
+              - text: Rentabilidad por Cliente
+                url: /Operacion/scm/facturacion/freporte/fruc
+              - text: Rentabilidad por Producto
+                url: /Operacion/scm/facturacion/freporte/frup
+              - text: Facturacion por Centro de Costo
+                url: /Operacion/scm/facturacion/freporte/frcc
+              - text: Facturacion de Credito
+                url: /Operacion/scm/facturacion/freporte/frcr
+              - text: Libro de Ventas
+                url: /Operacion/scm/facturacion/freporte/frlv
             - text: Presupuesto de Ventas
               url: /Operacion/scm/facturacion/qventas/
+              subitems:
+              - text: Movimientos de Presupuesto de Ventas
+                url: /Operacion/scm/facturacion/qventas/qmovv
+              - text: Genera Presupuesto de Ventas x Contrato
+                url: /Operacion/scm/facturacion/qventas/qpvc
             - text: Consultas
               url: /Operacion/scm/facturacion/qvconsulta/
+              subitems:
+              - text: Diarias por Producto
+                url: /Operacion/scm/facturacion/qvconsulta/qvdp
+              - text: Diarias por Punto de Venta - Clasificacion
+                url: /Operacion/scm/facturacion/qvconsulta/qvcd
+              - text: Ventas por Empresa
+                url: /Operacion/scm/facturacion/qvconsulta/qvem
+              - text: Producto
+                url: /Operacion/scm/facturacion/qvconsulta/qvpr
+              - text: Cliente
+                url: /Operacion/scm/facturacion/qvconsulta/qvcl
+              - text: Cliente - Producto
+                url: /Operacion/scm/facturacion/qvconsulta/qvcp
+              - text: Clasificacion
+                url: /Operacion/scm/facturacion/qvconsulta/qvca
+              - text: Punto de Venta
+                url: /Operacion/scm/facturacion/qvconsulta/qvpv
+              - text: Punto de Venta - Producto
+                url: /Operacion/scm/facturacion/qvconsulta/qvpp
             - text: Resportes de Presupuesto
               url: /Operacion/scm/facturacion/qvreporte/
+              subitems:
+              - text: Segmento
+                url: /Operacion/scm/facturacion/qvreporte/qrse
+              - text: Cliente por Ciclo
+                url: /Operacion/scm/facturacion/qvreporte/qrtc
+              - text: Producto por Ciclo
+                url: /Operacion/scm/facturacion/qvreporte/qrpc
+              - text: Empresa por Ciclo
+                url: /Operacion/scm/facturacion/qvreporte/qrmc
+              - text: Presupuesto Vendedor
+                url: /Operacion/scm/facturacion/qvreporte/qrve
+              - text: Ventas por Vendedor
+                url: /Operacion/scm/facturacion/qvreporte/qrvv
         - text: Punto de Venta POS
           url: /Operacion/scm/pos/
           subitems:
@@ -503,44 +675,211 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/scm/compras/obasica/
+              subitems:
+              - text: Calificacion Proveedores
+                url: /Operacion/scm/compras/obasica/obcp
             - text: Precios
               url: /Operacion/scm/compras/oprecio/
+              subitems:
+              - text: Precios
+                url: /Operacion/scm/compras/oprecio/opre
             - text: Requerimientos
               url: /Operacion/scm/compras/orequerimi/
+              subitems:
+              - text: Requerimientos
+                url: /Operacion/scm/compras/orequerimi/oreq
+              - text: Aprobacion de Requerimientos
+                url: /Operacion/scm/compras/orequerimi/orar
             - text: Cotizaciones
               url: /Operacion/scm/compras/ocotizacio/
+              subitems:
+              - text: Cotizaciones
+                url: /Operacion/scm/compras/ocotizacio/ocot
+              - text: Aprobacion de Compras
+                url: /Operacion/scm/compras/ocotizacio/ocac
             - text: Ordenes de Compra
               url: /Operacion/scm/compras/oorden/
+              subitems:
+              - text: Ordenes de Compra
+                url: /Operacion/scm/compras/oorden/oord
+              - text: Ajuste de Ordenes de Compra
+                url: /Operacion/scm/compras/oorden/oajo
             - text: Facturas
               url: /Operacion/scm/compras/ofactura/
+              subitems:
+              - text: Facturas de Compra
+                url: /Operacion/scm/compras/ofactura/ofac
+              - text: Consulta de Facturas
+                url: /Operacion/scm/compras/ofactura/ofcf
             - text: Procesos Especiales
               url: /Operacion/scm/compras/oproceso/
+              subitems:
+              - text: Ordenes Pendientes
+                url: /Operacion/scm/compras/oproceso/opop
+              - text: Legaliza Factura en Consignacion
+                url: /Operacion/scm/compras/oproceso/oplf
+              - text: Genera Factura de Compra
+                url: /Operacion/scm/compras/oproceso/opgf
             - text: Resportes
               url: /Operacion/scm/compras/oreporte/
+              subitems:
+              - text: Requerimiento vs Compra vs Venta
+                url: /Operacion/scm/compras/oreporte/orcv
+              - text: Requerimientos Pendientes
+                url: /Operacion/scm/compras/oreporte/orep
+              - text: Ranking de Proveedor
+                url: /Operacion/scm/compras/oreporte/orrp
+              - text: Compras por Producto
+                url: /Operacion/scm/compras/oreporte/orcr
+              - text: Ordenes Pendientes
+                url: /Operacion/scm/compras/oreporte/orop
+              - text: Resumen de Compras
+                url: /Operacion/scm/compras/oreporte/orrc
+              - text: Informe de Requerimientos
+                url: /Operacion/scm/compras/oreporte/orre
+              - text: Ordenes por Proveedor
+                url: /Operacion/scm/compras/oreporte/orpp
+              - text: Cumplimiento del Proveedor
+                url: /Operacion/scm/compras/oreporte/orkp
+              - text: Libro de Compras
+                url: /Operacion/scm/compras/oreporte/orlc
         - text: Contratos
           url: /Operacion/scm/contratos/
           subitems:
             - text: Contratos
               url: /Operacion/scm/contratos/ocontrato/
+              subitems:
+              - text: Contratos de Compra
+                url: /Operacion/scm/contratos/ocontrato/ocnt
+              - text: Ajustes de Contratos
+                url: /Operacion/scm/contratos/ocontrato/oajc
         - text: Inventarios
           url: /Operacion/scm/inventarios/
           subitems:
             - text: Datos Basicos
               url: /Operacion/scm/inventarios/ibasica/
+              subitems:
+              - text: Conceptos Consumo
+                url: /Operacion/scm/inventarios/ibasica/ibcc
             - text: Saldos
               url: /Operacion/scm/inventarios/isaldo/
+              subitems:
+              - text: Saldos por Bodega
+                url: /Operacion/scm/inventarios/isaldo/ispb
+              - text: Saldo Periodico por Producto
+                url: /Operacion/scm/inventarios/isaldo/ispp
+              - text: Saldos de Inventario
+                url: /Operacion/scm/inventarios/isaldo/issp
+              - text: Productos
+                url: /Operacion/scm/inventarios/isaldo/ipro
+              - text: Saldos por Localizacion
+                url: /Operacion/scm/inventarios/isaldo/ispl
+              - text: Saldos por Localizacion y Marca
+                url: /Operacion/scm/inventarios/isaldo/ispm
             - text: Movimientos
               url: /Operacion/scm/inventarios/imovimient/
+              subitems:
+              - text: Conversiones
+                url: /Operacion/scm/inventarios/imovimient/icnv
+              - text: Inventario Entregado
+                url: /Operacion/scm/inventarios/imovimient/imem
+              - text: Inventario por Entregar
+                url: /Operacion/scm/inventarios/imovimient/imme
+              - text: Movimientos de Inventario
+                url: /Operacion/scm/inventarios/imovimient/imov
+              - text: Actualizar Calidad Entrega
+                url: /Operacion/scm/inventarios/imovimient/ipec
+              - text: Consulta de Movimientos
+                url: /Operacion/scm/inventarios/imovimient/imcm
+              - text: Movimiento Contable
+                url: /Operacion/scm/inventarios/imovimient/immc
             - text: Inventario Fisico 
               url: /Operacion/scm/inventarios/ifisico/
+              subitems:
+              - text: Prepara Inventario Diario
+                url: /Operacion/scm/inventarios/ifisico/ifpi
+              - text: Prepara Inventario Diario por Ubicacion
+                url: /Operacion/scm/inventarios/ifisico/ifpu
+              - text: Planilla para Conteo Fisico
+                url: /Operacion/scm/inventarios/ifisico/irif
+              - text: Registro de Conteos
+                url: /Operacion/scm/inventarios/ifisico/ifis
+              - text: Calcula Diferencias
+                url: /Operacion/scm/inventarios/ifisico/ifcd
+              - text: Diferencias
+                url: /Operacion/scm/inventarios/ifisico/ifdi
+              - text: Genera Ajustes
+                url: /Operacion/scm/inventarios/ifisico/ifaj
             - text: Niveles de Stock
               url: /Operacion/scm/inventarios/inivel/
+              subitems:
+              - text: Calcular Niveles de Stock
+                url: /Operacion/scm/inventarios/inivel/incn
+              - text: Niveles por Bodega
+                url: /Operacion/scm/inventarios/inivel/inbo
+              - text: Niveles por Producto
+                url: /Operacion/scm/inventarios/inivel/inpr
+              - text: Disponible
+                url: /Operacion/scm/inventarios/inivel/indi
+              - text: Disponible Detallado
+                url: /Operacion/scm/inventarios/inivel/indi1
             - text: Costos
               url: /Operacion/scm/inventarios/icosto/
+              subitems:
+              - text: Costeo de Inventario
+                url: /Operacion/scm/inventarios/icosto/icci
+              - text: Kardex
+                url: /Operacion/scm/inventarios/icosto/icka
+              - text: Kardex por Localizacion
+                url: /Operacion/scm/inventarios/icosto/ickl
+              - text: Kardex por Ubicacion
+                url: /Operacion/scm/inventarios/icosto/icku
             - text: Procesos Especiales
               url: /Operacion/scm/inventarios/iproceso/
+              subitems:
+              - text: Inicio Año Inventarios
+                url: /Operacion/scm/inventarios/iproceso/ipia
             - text: Reportes
               url: /Operacion/scm/inventarios/ireporte/
+              subitems:
+              - text: Comparacion Balances
+                url: /Operacion/scm/inventarios/ireporte/ircs
+              - text: Saldos Periodicos por Ubicacion
+                url: /Operacion/scm/inventarios/ireporte/ircp
+              - text: Diferencias de Inventario
+                url: /Operacion/scm/inventarios/ireporte/irdi
+              - text: Kardex
+                url: /Operacion/scm/inventarios/ireporte/irka
+              - text: Kardex por Fecha
+                url: /Operacion/scm/inventarios/ireporte/irkf
+              - text: Coleccion por Recolector
+                url: /Operacion/scm/inventarios/ireporte/irpr2
+              - text: Distribucion de Medicamentos Controlados
+                url: /Operacion/scm/inventarios/ireporte/irmcd
+              - text: Puntos de Venta Medicamentos Controlados
+                url: /Operacion/scm/inventarios/ireporte/irmcp
+              - text: Costos Errados
+                url: /Operacion/scm/inventarios/ireporte/irce
+              - text: Saldo Actual por Marca
+                url: /Operacion/scm/inventarios/ireporte/irsaq
+              - text: Inventario Entregado
+                url: /Operacion/scm/inventarios/ireporte/irem
+              - text: Movimientos por Producto
+                url: /Operacion/scm/inventarios/ireporte/irmp
+              - text: Niveles de Stock
+                url: /Operacion/scm/inventarios/ireporte/irni
+              - text: Niveles de Stock por Ubicacion
+                url: /Operacion/scm/inventarios/ireporte/irnv
+              - text: Rotacion de Inventarios
+                url: /Operacion/scm/inventarios/ireporte/irri
+              - text: Saldos en Linea por Clasificacion
+                url: /Operacion/scm/inventarios/ireporte/irsa
+              - text: Saldos Valorizados por Clasificacion
+                url: /Operacion/scm/inventarios/ireporte/irva
+              - text: Auxiliar por Ubicacion
+                url: /Operacion/scm/inventarios/ireporte/irxu
+              - text: Rotacion Ultimo Mes
+                url: /Operacion/scm/inventarios/ireporte/irro
         - text: Bodegas WMS
           url: /Operacion/scm/wms/
           subitems:

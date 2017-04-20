@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Códigos
+title: Documentos
 permalink: /Operacion/common/bsistema/bdoc
 editable: si
 ---
 
-# CÓDIGOS - BDOC
+## Documentos - BDOC
 
 
 Esta opción permite parametrizar los códigos los cuales indicarán el concepto por el cual se debe cargar la cuenta afectada, si a un gasto administrativo, gasto por ventas, si es una cuenta por pagar, de provisión, entre otras.
