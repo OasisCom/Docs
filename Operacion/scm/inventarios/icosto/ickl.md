@@ -30,11 +30,11 @@ Detalle de la aplicación Kardex por Localización.
 ![](ickl3.png)
 
 **Documento:** Nombre de documento parametrizado con anterioridad en la aplicación **BDOC**.  
-**Número:** Número consecutivo del movimiento
+**Número:** Número consecutivo del movimiento.  
 **Ubicación:** Número de ubicación de la empresa en donde se encuentra el producto.  
 **Fecha:** Fecha del día en que se realizó el movimiento.  
 **Concepto:** Concepto del movimiento.  
-**Tercero:** Tercero asociado al movimiento.
+**Tercero:** Tercero asociado al movimiento.  
 **Ubicación de destino:** Ubicación a donde será cargado el movimiento de productos.  
 **Renglón:** Renglón de detalle asociado al movimiento.  
 **Producto:** Código asignado al producto, anteriormente parametrizado en **BPRO**.  

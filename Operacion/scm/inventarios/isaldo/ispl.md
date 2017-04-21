@@ -26,7 +26,7 @@ Aplicación que permite la consulta de saldos periódicos por localización.
 **Lote:** Lote asociado al producto.  
 **Anterior:** Saldo que viene de periodos anteriores.  
 **Entrada:** Cantidad de unidades que ingresan de un producto en un periodo.  
-**Salida:** Número de unidades que salen del inventario en un periodo.
+**Salida:** Número de unidades que salen del inventario en un periodo.  
 **Saldo cantidad:** Cantidad existente de unidades de un producto en determinado periodo.  
 
 

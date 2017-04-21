@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Facturas
-permalink: /Operacion/scm/facturacion/ffactura/ffct
+permalink: /Operacion/scm/facturacion/ffactura/ffcf
 editable: si
 ---
 
-# Consulta de Facturas - FFCT
+# Consulta de Facturas - FFCF
 
 Herramienta que facilita la consulta o búsqueda de facturas que se encuentren digitadas sin importar su estado, con algún dato que se conozca; producto, fecha, monto, valor del producto, etc.
 

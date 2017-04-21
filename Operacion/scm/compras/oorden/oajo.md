@@ -18,7 +18,6 @@ Esta aplicación permite el registro de las modificaciones y/o ajustes realizado
 **Fecha:** fecha en la que se realiza el ajuste de compra.  
 
 
-![](oajo2.png)
 
 
 

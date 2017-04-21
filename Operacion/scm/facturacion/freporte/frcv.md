@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reportes de Presupuesto de Ventas
-permalink: /Operacion/scm/facturacion/qvreporte/frcv
+permalink: /Operacion/scm/facturacion/freporte/frcv
 editable: si
 ---
 

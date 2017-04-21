@@ -7,7 +7,7 @@ editable: si
 
 # Cotizaciones Pendientes - VPCP
 
-Esta aplicación permite la consulta de las cotizaciones pendientes que se encuentran por confirmar.
+Esta aplicación permite la consulta de las cotizaciones pendientes que se encuentran por confirmar.  
 
 ![](vpcp1.png)
 

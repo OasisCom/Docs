@@ -12,9 +12,11 @@ Permite el registro de los precios de compra, diferenciados por fecha y proveedo
 
 ![](opre1.png)
 
-•	**Tercero:** Identificación y nombre del proveedor.
-•	**Producto:** Código y nombre del producto.
-•	**Fecha:** Fecha de vigencia del precio del producto.
-•	**Valor:** Precio del producto.
+•	**Tercero:** Identificación y nombre del proveedor.  
+•	**Producto:** Código y nombre del producto.  
+•	**Fecha:** Fecha de vigencia del precio del producto.  
+•	**Valor:** Precio del producto.  
+
+
 
 
