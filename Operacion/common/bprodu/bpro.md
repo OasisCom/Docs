@@ -8,7 +8,7 @@ editable: si
 # PRODUCTOS - BPRO
 
 
-Esta aplicación nos permite saber en qué parte de la cadena de producción se encuentra el producto.  
+Esta aplicación nos permite realizar la parametrización de todos los servicios y/o productos (materia prima, suministro, terminados, activos fijos) con sus respectivas características, por lo tanto, se explicara los procesos que interfieren con dicha aplicación y una explicación general.  
 
 ## Producción
 
