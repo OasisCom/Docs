@@ -17,7 +17,7 @@ Para cargar casos de soporte en el sistema OasisCom ingresaremos a la aplicació
 
 ![](ASOP2.png)
 
-Ubicados en la aplicación ASOP - Soporte, se observarán cuatro pestañas (Contrato, Problema, Contacto, Envío) correspondientes al proceso para el envío del caso de soporte las cuales se deberán diligenciar consecutivamente.  
+Ubicados en la aplicación ASOP - Soporte, se observarán cuatro pestañas (Contrato, Problema, Contacto, Envío), correspondientes al proceso para el envío del caso de soporte, las cuales se deberán diligenciar consecutivamente.  
 
 
 #### Contrato
@@ -103,7 +103,7 @@ Para envíar el caso de soporte es necesario leer y aceptar los términos y cond
 
 ![](manual.png)
 
-Finalmente, damos click en el botón ![](submit.png) y el caso será creado, el sistema arrojará el número asignado al caso con el cual se podrá realizar seguimiento en la aplicación [**ASEG - Monitoring Cases**]().
+Finalmente, damos click en el botón ![](submit.png) y el caso será creado, el sistema arrojará el número asignado al caso con el cual se podrá realizar seguimiento en la aplicación [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/aseg.md).
 
 ![](numerodecaso.png)
 
