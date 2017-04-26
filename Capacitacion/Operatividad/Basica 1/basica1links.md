@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/
+permalink: /Capacitacion/Operatividad/basica 1
 editable: si
 ---
 
@@ -16,7 +16,7 @@ editable: si
 ## PRINCIPIOS BÁSICOS 2
 
 
-[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=12019f3c7e0e7496285d3de7a390dadee&authkey=AXjov3C1Qn1hrlDEV-Z8oPY)](<iframe width="560" height="315" src="https://www.youtube.com/embed/olTkOobSuQM" frameborder="0" allowfullscreen></iframe>)
+[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=12019f3c7e0e7496285d3de7a390dadee&authkey=AXjov3C1Qn1hrlDEV-Z8oPY)](https://www.youtube.com/embed/olTkOobSuQM)
 
 
 
