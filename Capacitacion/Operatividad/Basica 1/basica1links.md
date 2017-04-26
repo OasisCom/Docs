@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/Operatividad/links operatividad basica 1
+permalink: /Capacitacion/Operatividad/basica 1
 editable: si
 ---
 
