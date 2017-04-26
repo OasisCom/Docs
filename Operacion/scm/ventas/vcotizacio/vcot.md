@@ -3,6 +3,7 @@ layout: default
 title: Cotizaciones
 permalink: /Operacion/scm/ventas/vcotizacio/vcot
 editable: si
+---
 
 # Cotizaciones - VCOT
 

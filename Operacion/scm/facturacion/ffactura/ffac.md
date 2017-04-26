@@ -96,10 +96,10 @@ Registro de la forma de pago de dicha factura, en las ventas a crédito estos da
 ![](ffac7.png)
 
 
-**Tarjeta:** Tarjeta con la cual se realizó el pago, en caso tal que haya sido con tarjeta.
-**Vencimiento:** Fecha de vencimiento del pago.
-**Banco:** Banco por el cual se realizó el pago.
-**Plaza:** Ciudad o lugar desde donde se realizó el pago.
+**Tarjeta:** Tarjeta con la cual se realizó el pago, en caso tal que haya sido con tarjeta.  
+**Vencimiento:** Fecha de vencimiento del pago.  
+**Banco:** Banco por el cual se realizó el pago.  
+**Plaza:** Ciudad o lugar desde donde se realizó el pago.  
 
 **Tarjeta de crédito (Sección)**
 

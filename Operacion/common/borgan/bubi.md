@@ -8,7 +8,7 @@ editable: si
 # Ubicaciones Organización - BUBI
 
 
-Esta aplicación permite parametrizar las bodegas donde se encuentran ubicados los productos.  
+Esta aplicación perimite realizar parametrización para diferentes procesos del sistema OasisCom, cómo lo son los bancos para el módulo de tesorería, las cajas para el módulo de punto de venta, las bodegas para el proceso de producción entre otros. Por lo tanto, se realizará una explicación de esta aplicación para los procesos que interfieran con la misma y una general de la explicación de los campos.  
 
 ## Producción
 

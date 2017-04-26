@@ -7,8 +7,7 @@ editable: si
 
 # CLASIFICACIONES - BCLA
 
-
-Esta aplicación permite hacerle una clasificación al producto de acuerdo con las necesidades del cliente.
+Esta aplicación perimite realizar parametrización para diferentes procesos del sistema OasisCom, cómo lo son clasificaciones de productos terminados, materia prima, de activos fijos entre otros. Por lo tanto, se realizará una explicación de esta aplicación para los procesos que interfieran con la misma y una general de la explicación de los campos.
 
 ## Producción
 

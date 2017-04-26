@@ -40,14 +40,14 @@ editable: si
 
 ![](vcnt4.png)
 
-**Observación:** observación sobre el contrato si existe
-**ProjectId:** número del proyecto
-**Bruto:** valor bruto del contrato
-**Descuento:** valor en cifras del descuento acordado
-**Subtotal:** resta del valor bruto menos el descuento
-**TaxSale:** valor del impuesto sobre el contrato
-**Total:** suma del subtotal más el impuesto
-**Retención:** valor de retención (si aplica)
+**Observación:** observación sobre el contrato si existe.  
+**ProjectId:** número del proyecto.  
+**Bruto:** valor bruto del contrato.  
+**Descuento:** valor en cifras del descuento acordado.  
+**Subtotal:** resta del valor bruto menos el descuento.  
+**TaxSale:** valor del impuesto sobre el contrato.  
+**Total:** suma del subtotal más el impuesto.  
+**Retención:** valor de retención (si aplica).  
 
 La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamada Detalle en la cual se puede observar información más explícita del contrato seleccionado.
 
@@ -56,7 +56,6 @@ La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamad
 **Renglón:** número del renglón, se genera automáticamente.  
 **Producto:** Número asignado al contrato a registrar, parametrizado previamente en BPO.  
 **Nombre producto:** Nombre de contrato a registrar, parametrizado previamente en **BPRO.**  
-
 **Cantidad:** cantidad de contratos del producto que se va adquirir por parte del cliente.  
 **Precio:** precio registrado en el contrato del producto adquirido por el cliente.  
 **%Imp:** porcentaje de impuesto que tiene el producto.  

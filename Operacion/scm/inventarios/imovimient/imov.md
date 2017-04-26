@@ -22,7 +22,7 @@ Esta aplicación permite la ejecución de los principales movimientos que afecta
 **Moneda:** Tipo de moneda que se utilizara en el movimiento de inventarios.  
 **Estado:** Estado en el que se encuentra el movimiento (Activo, procesado, Anulado).  
 **Vendedor:** Tercero que está registrado como vendedor.  
-**Tipo de precio:** Tipo de precio registrado con anterioridad en la aplicación **FBTP**.
+**Tipo de precio:** Tipo de precio registrado con anterioridad en la aplicación **FBTP**.  
 **Ubicación de destino:** Ubicación a donde será cargado el movimiento de productos.  
 
 En el detalle:
@@ -30,7 +30,7 @@ En el detalle:
 ![](imov2.png)
 
 **Renglón:** Renglón de detalle asociado al movimiento.  
-**Producto:** Código asignado al producto, anteriormente parametrizado en **BPRO**.
+**Producto:** Código asignado al producto, anteriormente parametrizado en **BPRO**.  
 **Nombre del Producto:** Nombre de producto.  
 **Cantidad:** Cantidad por producto.  
 **Costo unitario:** Costo por unidad de producto.  

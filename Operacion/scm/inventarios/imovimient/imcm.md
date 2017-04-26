@@ -26,7 +26,7 @@ Aplicación que permite la consulta de los movimientos realizados en el módulo 
 **Nombre del Producto:** Nombre de producto.  
 **Cantidad:** Cantidad por producto.  
 **Costo unitario:** Costo por unidad de producto.  
-**Localización:** Identificación numérica de la localización de un producto.
+**Localización:** Identificación numérica de la localización de un producto.  
 **Presentación:** Forma de presentación del producto 
 **Vencimiento:** Fecha de vencimiento del producto.  
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos.  

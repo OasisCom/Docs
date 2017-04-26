@@ -32,12 +32,12 @@ La función de principal de esta aplicación es la carga de presupuesto de venta
 
 ![](qmovv3.png)
 
-**Centro de Costo:** Este campo permite el ingreso del número identificador de los centros de costos parametrizados en el sistema.
-**Condición de Pago:** Condición de pago definida para esta factura, la toma por defecto de las condiciones definidas para el cliente o de las condiciones definidas para el pedido en caso de corresponder a un pedido. Es muy importante este campo para la generación de la CARTERA puesto que con base a esto va a generar las cuotas o vencimientos de cartera correspondientes a las ventas a crédito.
+**Centro de Costo:** Este campo permite el ingreso del número identificador de los centros de costos parametrizados en el sistema.  
+**Condición de Pago:** Condición de pago definida para esta factura, la toma por defecto de las condiciones definidas para el cliente o de las condiciones definidas para el pedido en caso de corresponder a un pedido. Es muy importante este campo para la generación de la CARTERA puesto que con base a esto va a generar las cuotas o vencimientos de cartera correspondientes a las ventas a crédito.  
 
-Detalle de la aplicación **QMOVV** – Movimiento de presupuestos de ventas.
+Detalle de la aplicación **QMOVV** – Movimiento de presupuestos de ventas.  
 
-Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.
+Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.  
 
 ![](qmovv4.png)
 
