@@ -1542,13 +1542,282 @@
           url: /Operacion/system/sreporte/
 - text: Comercializacion
   url: /Comercializacion/
+  subitems:
+    - text: Descriptivos
+      url: /Comercializacion/descriptivo/
+      subitems:
+        - text: Financiero
+          url: /Comercializacion/descriptivo/ERP/
+          subitems:
+            - text: Contabilidad
+              url: /Comercializacion/descriptivo/ERP/Contabilidad
+            - text: Tesoreria
+              url: /Comercializacion/descriptivo/ERP/Tesoreria
+            - text: Cartera
+              url: /Comercializacion/descriptivo/ERP/Cartera
+            - text: Cuentas por Pagar
+              url: /Comercializacion/descriptivo/ERP/Cuentas
+            - text: Activos Fijos
+              url: /Comercializacion/descriptivo/ERP/Activos
+        - text: Logistico
+          url: /Comercializacion/descriptivo/SCM/
+          subitems:
+            - text: Ventas
+              url: /Comercializacion/descriptivo/SCM/Ventas
+            - text: Facturacion
+              url: /Comercializacion/descriptivo/SCM/Facturacion
+            - text: Punto de Venta
+              url: /Comercializacion/descriptivo/SCM/POS
+            - text: Compras
+              url: /Comercializacion/descriptivo/SCM/Compras
+            - text: Inventarios
+              url: /Comercializacion/descriptivo/SCM/Inventarios
+            - text: Bodega WMS
+              url: /Comercializacion/descriptivo/SCM/WMS
+            - text: Importaciones
+              url: /Comercializacion/descriptivo/SCM/Importaciones
+            - text: Distribucion
+              url: /Comercializacion/descriptivo/SCM/Distribucion
+        - text: Recursos Humanos
+          url: /Comercializacion/descriptivo/HRM/
+          subitems:
+            - text: Nomina
+              url: /Comercializacion/descriptivo/HRM/Nomina
+            - text: Recursos Humanos
+              url: /Comercializacion/descriptivo/HRM/RRHH
+        - text: Clientes
+          url: /Comercializacion/descriptivo/CRM/
+          subitems:
+            - text: Ventas CRM
+              url: /Comercializacion/descriptivo/CRM/VentasCRM
+            - text: Mecadeo
+              url: /Comercializacion/descriptivo/CRM/Mecadeo
+            - text: Proyectos
+              url: /Comercializacion/descriptivo/CRM/Proyectos
+            - text: Portales
+              url: /Comercializacion/descriptivo/CRM/Portales
+        - text: Manufactura
+          url: /Comercializacion/descriptivo/MRP/
+          subitems:
+            - text: Produccion
+              url: /Comercializacion/descriptivo/MRP/Produccion
+            - text: Control
+              url: /Comercializacion/descriptivo/MRP/Control
+            - text: Costos
+              url: /Comercializacion/descriptivo/MRP/Costos
+            - text: Mantenimiento
+              url: /Comercializacion/descriptivo/MRP/Mantenimiento
+        - text: Cecisiones
+          url: /Comercializacion/descriptivo/DSS/
+          subitems:
+            - text: BI Financiero
+              url: /Comercializacion/descriptivo/DSS/Bifinanciero
+            - text: BI Comercial
+              url: /Comercializacion/descriptivo/DSS/Bicomercial
+            - text: BI Clientes
+              url: /Comercializacion/descriptivo/DSS/Biclientes
+        - text: Soluciones Industria
+          url: /Comercializacion/descriptivo/Industria/
+          subitems:
+            - text: Salud
+              url: /Comercializacion/descriptivo/Industria/Salud
+            - text: Hospital
+              url: /Comercializacion/descriptivo/Industria/Hospital
+            - text: Cafe
+              url: /Comercializacion/descriptivo/Industria/Cafe
+            - text: Transporte
+              url: /Comercializacion/descriptivo/Industria/Transporte
+    - text: Infografias
+      url: /Comercializacion/infografias/
+      subitems:
+        - text: Transporte
+          url: /Comercializacion/infografias/Transporte
+        - text: Cafe
+          url: /Comercializacion/infografias/cafe
+        - text: Combustible
+          url: /Comercializacion/infografias/combustible
 - text: Implantacion
   url: /Implantacion/
+  subitems:
+    - text: Metodologia
+      url: /Implantacion/Metodologia
+    - text: Como Configurar una Empresa en OasisCom
+      url: /Implantacion/Configempresa
 - text: Capacitacion
   url: /Capacitacion/
+  subitems:
+    - text: Operatividad
+      url: /Capacitacion/Operatividad/
+      subitems:
+        - text: Operatividad Basica 1
+          url: /Capacitacion/Operatividad/basica1/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/Operatividad/basica1/taller
+            - text: Evaluacion
+              url: /Capacitacion/Operatividad/basica1/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/Operatividad/basica1/links
+        - text: Operatividad Basica 2
+          url: /Capacitacion/Operatividad/basica2/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/Operatividad/basica2/taller
+            - text: Evaluacion
+              url: /Capacitacion/Operatividad/basica2/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/Operatividad/basica2/links
+        - text: Tips y Ayudas
+          url: /Capacitacion/Operatividad/tips/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/Operatividad/tips/taller
+            - text: Evaluacion
+              url: /Capacitacion/Operatividad/tips/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/Operatividad/tips/links
+        - text: Basicos OasisCom
+          url: /Capacitacion/Operatividad/basicos/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/Operatividad/basicos/taller
+            - text: Evaluacion
+              url: /Capacitacion/Operatividad/basicos/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/Operatividad/basicos/links
+    - text: Financiero
+      url: /Capacitacion/ERP/
+      subitems:
+        - text: Procesos Financieros
+          url: /Capacitacion/ERP/procesoserp/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/ERP/procesoserp/taller
+            - text: Evaluacion
+              url: /Capacitacion/ERP/procesoserp/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/ERP/procesoserp/links
+        - text: Activos Fijos
+          url: /Capacitacion/ERP/activos/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/ERP/activos/taller
+            - text: Evaluacion
+              url: /Capacitacion/ERP/activos/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/ERP/activos/links
+        - text: Procesos Especiales
+          url: /Capacitacion/ERP/procesosesp/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/ERP/procesosesp/taller
+            - text: Evaluacion
+              url: /Capacitacion/ERP/procesosesp/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/ERP/procesosesp/links
+    - text: Logistico
+      url: /Capacitacion/SCM/
+      subitems:
+        - text: Compras e Inventarios
+          url: /Capacitacion/SCM/compras/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/SCM/compras/taller
+            - text: Evaluacion
+              url: /Capacitacion/SCM/compras/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/SCM/compras/links
+        - text: Ventas, Facturacion y POS
+          url: /Capacitacion/SCM/ventas/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/SCM/ventas/taller
+            - text: Evaluacion
+              url: /Capacitacion/SCM/ventas/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/SCM/ventas/links
+    - text: Recursos Humanos
+      url: /Capacitacion/HRM/
+      subitems:
+        - text: Nomina
+          url: /Capacitacion/HRM/nomina/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/HRM/nomina/taller
+            - text: Evaluacion
+              url: /Capacitacion/HRM/nomina/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/HRM/nomina/links
+        - text: Seleccion
+          url: /Capacitacion/HRM/seleccion/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/HRM/seleccion/taller
+            - text: Evaluacion
+              url: /Capacitacion/HRM/seleccion/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/HRM/seleccion/links
+        - text: Capacitacion
+          url: /Capacitacion/HRM/capacitacion/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/HRM/capacitacion/taller
+            - text: Evaluacion
+              url: /Capacitacion/HRM/capacitacion/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/HRM/capacitacion/links
+    - text: Soluciones industria
+      url: /Capacitacion/industria/
+      subitems:
+        - text: Salud
+          url: /Capacitacion/industria/salud/
+          subitems:
+            - text: Formularios Externos 1
+              url: /Capacitacion/industria/salud/formuext1/
+              subitems:
+                - text: Taller
+                  url: /Operacion/industria/salud/formuext1/taller
+                - text: Evaluacion
+                  url: /Operacion/industria/salud/formuext1/evaluacion
+                - text: Links del Recurso
+                  url: /Operacion/industria/salud/formuext1/links
+            - text: Formularios Externos 2
+              url: /Capacitacion/industria/salud/formuext2/
+              subitems:
+                - text: Taller
+                  url: /Operacion/industria/salud/formuext2/taller
+                - text: Evaluacion
+                  url: /Operacion/industria/salud/formuext2/evaluacion
+                - text: Links del Recurso
+                  url: /Operacion/industria/salud/formuext2/links
+        - text: Hospital
+          url: /Capacitacion/industria/hospital/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/industria/hospital/taller
+            - text: Evaluacion
+              url: /Capacitacion/industria/hospital/evaluacion
+            - text: Links del Recurso
+              url: /Capacitacion/industria/hospital/links
 - text: Soporte
   url: /Soporte/
+  subitems:
+    - text: Accesando Cuenta
+      url: /Soporte/accescuenta
+    - text: Accesando Tercero
+      url: /Soporte/accestercero
+    - text: Accesando Consecutivo
+      url: /Soporte/accesconsec
+    - text: Balance Insuficiente
+      url: /Soporte/balanceins
+    - text: Opcion no Creada
+      url: /Soporte/opcionnocre
 - text: Desarrollo
   url: /Desarrollo/
+  subitems:
+    - text: Como crear una Interfaz
+      url: /Desarrollo/interfaz
+    - text: Como generar un reporte desde BINT
+      url: /Desarrollo/reportebint
 - text: Sitemap
   url: /sitemap/
