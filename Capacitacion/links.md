@@ -7,7 +7,7 @@ editable: si
 
 # OPERATIVIDAD BASICA 1
 
-[![links](https://goo.gl/images/kLoEH2)](https://www.youtube.com/watch?v=TFgIEBF_pqI)
+[![links](https://i.ytimg.com/vi/TFgIEBF_pqI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TFgIEBF_pqI)
 
 
 
