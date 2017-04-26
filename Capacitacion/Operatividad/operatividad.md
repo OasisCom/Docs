@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/
+permalink: /Capacitacion/Operatividad/
 editable: si
 ---
 
-# OPERATIVIDAD
+# OPERATIVIDAD BÁSICA 1  
 
 
-En esta clasificación de operatividad, usted encontrará cursos que tienen información básica que le enseñará conceptos primarios del software OasisCom para que se vaya familiarizando con el software.
+En este curso, usted encontrará información general que le servirá para aprender a ingresar al sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
+
+
 
