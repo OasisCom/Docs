@@ -7,7 +7,7 @@ editable: si
 
 # OPERATIVIDAD BASICA 1
 
-[![links](https://lh3.googleusercontent.com/uuDQJed8oUqI7SzVujAFUXKy2d1S3jlXVw9YPajWrSW2GJ8TqTU4SmntTgyqJ-46nQ=h900)](https://www.youtube.com/watch?v=TFgIEBF_pqI)
+[![links](https://oasiserp-my.sharepoint.com/personal/daniela_martinez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=181302bc863464ca19b5e036224d0e657&authkey=AdOIgZitloVtZ22GKo5-wHE)](https://www.youtube.com/watch?v=TFgIEBF_pqI)
 
 
 
