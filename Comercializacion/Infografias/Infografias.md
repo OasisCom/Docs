@@ -1,17 +1,9 @@
 ---
-
 layout: default
-
 title: Infografías
-
-permalink: /Comercializacion/Infografias/Infografias.md
-
+permalink: /Comercializacion/Infografias/
 editable: si
-
 ---
-
-
-
 
 
 # INFOGRAFÍAS
