@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comercializacion
+title: Descriptivo
 permalink: /Comercializacion/Descriptivo/
 editable: si
 ---
