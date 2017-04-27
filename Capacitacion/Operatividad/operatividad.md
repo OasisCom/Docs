@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacitacion
+title: Operatividad
 permalink: /Capacitacion/Operatividad/
 editable: si
 ---
