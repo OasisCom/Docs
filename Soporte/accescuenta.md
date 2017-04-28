@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Soporte
-permalink: /soporte/
+permalink: /soporte/accescuenta/
 editable: si
 ---
 
-# SOPORTE
+# ACCESANDO CUENTA
 

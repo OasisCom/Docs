@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Soporte
-permalink: /soporte/
+permalink: /soporte/accestercero/
 editable: si
 ---
 
-# SOPORTE
+# ACCESANDO TERCERO
 

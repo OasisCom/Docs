@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Soporte
-permalink: /soporte/
+permalink: /soporte/opcionnocre/
 editable: si
 ---
 
-# SOPORTE
+# OPCIÓN NO CREADA
 
