@@ -5,5 +5,5 @@ permalink: /Capacitacion/SCM/
 editable: si
 ---
 
-# CAPACITACION
+# SCM
 

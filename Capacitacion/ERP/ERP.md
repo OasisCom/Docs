@@ -5,5 +5,6 @@ permalink: /Capacitacion/ERP/
 editable: si
 ---
 
-# CAPACITACION
+# FINANCIERO
+
 

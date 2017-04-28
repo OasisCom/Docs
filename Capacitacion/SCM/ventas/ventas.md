@@ -5,5 +5,5 @@ permalink: /Capacitacion/SCM/ventas/
 editable: si
 ---
 
-# CAPACITACION
+# CURSO DE VENTAS
 

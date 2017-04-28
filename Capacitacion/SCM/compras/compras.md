@@ -5,5 +5,4 @@ permalink: /Capacitacion/SCM/compras/
 editable: si
 ---
 
-# CAPACITACION
-
+# CURSO DE COMPRAS

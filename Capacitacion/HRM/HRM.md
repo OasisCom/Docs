@@ -5,5 +5,4 @@ permalink: /Capacitacion/HRM/
 editable: si
 ---
 
-# CAPACITACION
-
+# RECURSOS HUMANOS
