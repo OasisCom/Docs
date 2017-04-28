@@ -1,11 +1,11 @@
 ---
 layout: default
 title: BSC Cuadro de Mando Integral
-permalink: /Comercializacion/Descriptivo/DSS/BSC
+permalink: /Comercializacion/descriptivo/DSS/BSC/
 editable: si
 ---
 
-# BSC Cuadro de Mando Integral
+# BSC CUADRO DE MANDO INTEGRAL
 
 Tablero de mando integrado a la solución integral OASIS que incluye el grupo de indicadores definidos por los usuarios tomando los datos directamente desde los procesos de la empresa, de datos externos o alimentados manualmente.  
 

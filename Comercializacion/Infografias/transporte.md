@@ -1,11 +1,22 @@
----
-layout: default
-title: Transporte
-permalink: /Comercializacion/Infografias/transporte
-editable: si
----
-
-# Transporte
-
-![](transporte.png)
-
+---
+
+layout: default
+
+title: Transporte
+
+permalink: /Comercializacion/infografias/Transporte/
+
+editable: si
+
+---
+
+
+
+# TRANSPORTE
+
+
+
+![](transporte.png)
+
+
+

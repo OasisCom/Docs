@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/ERP/
+permalink: /Comercializacion/descriptivo/SCM/Ventas/
 editable: si
 ---
 
-# FINANCIERO
+# VENTAS
 

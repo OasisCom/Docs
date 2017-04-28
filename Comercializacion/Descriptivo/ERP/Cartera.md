@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Cartera
-permalink: /Comercializacion/Descriptivo/ERP/Cartera
+permalink: /Comercializacion/descriptivo/ERP/Cartera/
 editable: si
 ---
 
-# Cartera
+# CARTERA
 
 Este módulo está diseñado para la supervisión de los créditos que soliciten los clientes y el control de las ventas a crédito de la empresa o cualquier otro tipo de préstamo o cuenta por cobrar: Clientes comerciales, préstamos a empleados o préstamos a accionistas, por ejemplo, el sistema permite el registro de las solicitudes de crédito hechas por los clientes o posibles clientes de la empresa. Estas solicitudes comprenden el crédito para las ventas y los créditos para consumo, capital de trabajo o vivienda que puede ofrecer la empresa a sus clientes. Verifica su aprobación o rechazo de acuerdo a las políticas de crédito definidas.  
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Infografías
-permalink: /Comercializacion/Infografias/
+permalink: /Comercializacion/infografias/
 editable: si
 ---
 

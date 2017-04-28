@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/Descriptivo/HRM/RecursosHumanos
+permalink: /Comercializacion/descriptivo/HRM/RRHH/
 editable: si
 ---
 
-## Recursos Humanos
+# RECURSOS HUMANOS
 
 La gestión del recurso humano de una compañía, debe ser la oportunidad para la empresa de aprovechar el talento humano con el que cuenta y no convertirse en una carga operativa adicional.  
 

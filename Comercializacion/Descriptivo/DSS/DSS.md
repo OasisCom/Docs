@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/Descriptivo/DSS/
+permalink: /Comercializacion/descriptivo/DSS/
 editable: si
 ---
 
-# DESICIONES
+# DECISIONES
 

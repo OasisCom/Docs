@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Café
-permalink: /Comercializacion/Infografias/café
+permalink: /Comercializacion/infografias/cafe
 editable: si
 ---
 
-# Café
+# CAFÉ
 
 ![](cafe.png)

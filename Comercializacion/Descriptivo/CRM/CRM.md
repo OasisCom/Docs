@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/Descriptivo/CRM/
+permalink: /Comercializacion/descriptivo/CRM/
 editable: si
 ---
 

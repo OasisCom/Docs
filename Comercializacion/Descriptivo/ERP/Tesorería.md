@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/Descriptivo/ERP/Tesorería
+permalink: /Comercializacion/Descriptivo/ERP/Tesoreria/
 editable: si
 ---
 
-# Tesorería
+# TESORERÍA
 
 El módulo de tesorería permite las operaciones de flujo de efectivo y optimizar el manejo financiero del efectivo integrados a la operación y objetivos normales de la empresa.  
 
