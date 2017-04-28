@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/ERP/
+permalink: /Capacitacion/ERP/activos/
 editable: si
 ---
 
-# FINANCIERO
+# CURSO ACTIVOS FIJOS
 
 

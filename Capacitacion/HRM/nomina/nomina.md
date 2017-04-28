@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/ERP/
+permalink: /Capacitacion/HRM/nomina/
 editable: si
 ---
 
-# FINANCIERO
-
-
+# CURSO DE NÓMINA

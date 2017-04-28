@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/SCM/ventas/
+permalink: /Capacitacion/SCM/ventas/links/
 editable: si
 ---
 

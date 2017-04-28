@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/SCM/compras/
+permalink: /Capacitacion/SCM/compras/links/
 editable: si
 ---
 

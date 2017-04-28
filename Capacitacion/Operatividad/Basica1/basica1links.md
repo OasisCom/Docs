@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/Operatividad/Operatividad Basica 1/basica1
+permalink: /Capacitacion/Operatividad/basica1/links/
 editable: si
 ---
 
-# OPERATIVIDAD BASICA 1  
+# CURSO OPERATIVIDAD BASICA 1  
 
 ## PRINCIPIOS BÁSICOS 1  
 

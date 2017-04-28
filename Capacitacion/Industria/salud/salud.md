@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/ERP/
+permalink: /Capacitacion/industria/salud
 editable: si
 ---
 
-# FINANCIERO
-
+# SALUD
 

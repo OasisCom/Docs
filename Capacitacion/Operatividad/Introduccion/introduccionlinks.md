@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/Operatividad/introduccionlinks
+permalink: /Capacitacion/Operatividad/introduccion/links/
 editable: si
 ---
 
-# INTRODUCCIÓN
+# CURSO DE INTRODUCCIÓN
 
 
 ## QUÉ ES OASISCOM

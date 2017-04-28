@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Capacitacion
-permalink: /Capacitacion/Industria/
+permalink: /Capacitacion/industria/
 editable: si
 ---
 
-# CAPACITACION
+# SOLUCIONES INDUSTRIA
 

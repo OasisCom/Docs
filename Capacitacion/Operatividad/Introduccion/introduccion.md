@@ -5,7 +5,7 @@ permalink: /Capacitacion/Operatividad/Introduccion/
 editable: si
 ---
 
-# INTRODUCCIÓN
+# CURSO DE INTRODUCCIÓN
 
 
 En este curso, usted encontrará información general que le servirá para hacer un repaso general de qué es OASISCOM, para quién es y cuáles son sus productos,
