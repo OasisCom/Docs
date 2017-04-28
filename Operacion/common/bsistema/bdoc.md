@@ -7,10 +7,45 @@ editable: si
 
 ## Documentos - BDOC
 
+Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
-Esta opción permite parametrizar los códigos los cuales indicarán el concepto por el cual se debe cargar la cuenta afectada, si a un gasto administrativo, gasto por ventas, si es una cuenta por pagar, de provisión, entre otras.
+En cuanto a los consecutivos se debe tener presente que el check box del campo _automático_ si lo prendo todos mis documentos quedan con consecutivo automático, en caso de no prenderlo o activarlo debemos entrar a diligencias los consecutivos a la hora de realizar un documento. Si el Check box del campo _ubicación_ lo dejo activo, cada ubicación me va a manejar consecutivo por ubicación.  
 
-En el maestro indicamos el documento al cual se le van a parametrizar los códigos y en el detalle, agregamos una fila por cada código que se desee relacionar con el documento. Tal como se muestra en la imagen.
+Igualmente se debe tener presente que se debe parametrizar a cada consecutivo con el módulo que va a trabajar como lo veremos en la aplicación **BCON** y su respectivo motivo como se verá en la aplicación **BMOT**.  
+
+![](bdoc2.png)
+
+**Documento:** Siglas que se le asignarán al documento a registrar, ejemplo si es una cuenta por pagar CP, una nota contable NK, un recibo de caja RC entre otros. Es importante tener en cuenta que la mayoría de estos documentos ya se encuentran parametrizados.  
+**Nombre documento:** Nombre del documento, ejemplo para CP se diligencia cuenta por pagar.  
+**Ubicación:** Se activa el Check si el documento está amarrado a la ubicación como lo mencionamos anteriormente.  
+**Mensaje 1 y 2:** Permite escribir el mensaje que se desea mostrar al momento de visualizar la vista previa del documento.  
+**Número formato:** Número del formato parametrizado para la generación del documento, formato de impresión.  
+**Programa:** Programa en el cual se generará el documento. Por ejemplo: si es un CP debe diligenciarse el módulo **PMOV** que es donde yo voy a registrar todas las CP.  
+
+En los siguientes campos, desde _contabilidad_ hasta _presupuesto oficial_ se debe parametrizar si el documento que se registra afectará algún módulo, ya sea sumando o restando, en caso de que no afecte seleccionar “Ninguno”.  
+
+![](bdoc3.png)
+
+![](bdoc4.png)
+
+Se debe verificar que el registro se encuentre en estado Activo.  
+
+En la pestaña Conceptos del detalle, se parametrizan los conceptos por los cuales se pueden generar documentos de acuerdo al registrado en el maestro. Por cada documento se pueden parametrizar varios conceptos. Tener en cuenta que para parametrizar el Concepto se puede hacer desde el detalle del BDOC o directamente desde la aplicación BCON como lo mostraremos más adelante.  
+
+![](bdoc5.png)
+
+**Documento:** siglas del documento registrado en el maestro.  
+**Concepto:** concepto por el cual se genera el documento, debidamente parametrizado en **BCON** - Conceptos.  
+**Nombre concepto:** el sistema automáticamente muestra el nombre del concepto.
+**Modulo:** módulo al que afecta el concepto.  
+**Cantidad:** Seleccionar si el concepto suma, resta o no realiza ninguna afectación al módulo relacionado.  
+**Moneda:** tipo de moneda que maneja el concepto.  
+**Grupo:** grupo al cual está relacionado el concepto.  
+**Contabilidad:** indicar la contabilidad que afectará el concepto, si afecta el libro local escribir L, si afecta la contabilidad IFRS escribir I.  
+
+Esta opción permite parametrizar los códigos los cuales indicarán el concepto por el cual se debe cargar la cuenta afectada, si a un gasto administrativo, gasto por ventas, si es una cuenta por pagar, de provisión, entre otras.  
+
+En el maestro indicamos el documento al cual se le van a parametrizar los códigos y en el detalle, agregamos una fila por cada código que se desee relacionar con el documento. Tal como se muestra en la imagen.  
 
 ![](bdoc1.png)
 
