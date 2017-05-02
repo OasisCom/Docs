@@ -7,6 +7,15 @@ editable: si
 
 # CLASIFICACIONES - BCLA
 
+En esta aplicación se clasifican los productos o servicios de acuerdo a nuestras necesidades. Por ejemplo, si es una empresa de alimentos puede ser: Lácteos, cereales, granos, frutas, entre otros.  
+
+![](bcla3.png)
+
+**Clasificación:** Consecutivo automático que arroja el sistema.  
+**Nombre clasificación:** Especificar el nombre de la clasificación definida.  
+
+Los campos de grupo y tipo de impuesto como lo hemos visto anteriormente nos definen las clasificaciones tributarias.  
+
 Esta aplicación perimite realizar parametrización para diferentes procesos del sistema OasisCom, cómo lo son clasificaciones de productos terminados, materia prima, de activos fijos entre otros. Por lo tanto, se realizará una explicación de esta aplicación para los procesos que interfieran con la misma y una general de la explicación de los campos.
 
 ## Producción

@@ -11,10 +11,10 @@ Se define el número en el cual se encuentra el consecutivo de cada uno de los d
 
 ![](bcns1.png)
 
-**Documento:** siglas del documento previamente parametrizado en **BDOC**.  
-**Nombre documento:** nombre del documento al cual se parametrizará el consecutivo, no es necesario diligenciarlo, al dar TAB en el documento este se diligencia automáticamente.  
-**Ubicación:** número de ubicación al cual está asociado el documento.  
-**Nombre ubicación:** nombre de la ubicación la cual está asociada el documento. Igualmente, ese campo no es necesario diligenciarlo, al dar TAB este campo se diligencia automáticamente.  
-**Número:** número desde el cual se desea que inicie el consecutivo para el documento. Cuando se suben archivos por plano, es decir que se importan al sistema desde un archivo en Excel y posteriormente se va a realizar un documento desde el sistema es necesario revisar el consecutivo.  
+**Documento:** Siglas del documento previamente parametrizado en **BDOC**.  
+**Nombre documento:** Nombre del documento al cual se parametrizará el consecutivo, no es necesario diligenciarlo, al dar TAB en el documento este se diligencia automáticamente.  
+**Ubicación:** Número de ubicación al cual está asociado el documento.  
+**Nombre ubicación:** Nombre de la ubicación la cual está asociada el documento. Igualmente, ese campo no es necesario diligenciarlo, al dar TAB este campo se diligencia automáticamente.  
+**Número:** Número desde el cual se desea que inicie el consecutivo para el documento. Cuando se suben archivos por plano, es decir que se importan al sistema desde un archivo en Excel y posteriormente se va a realizar un documento desde el sistema es necesario revisar el consecutivo.  
 
 
