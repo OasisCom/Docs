@@ -1536,6 +1536,17 @@
           url: /Operacion/system/sconfig/
         - text: Seguridad
           url: /Operacion/system/sacceso/
+          subitems:
+            - text: Roles
+              url: /Operacion/system/sacceso/srol
+            - text: Soporte
+              url: /Operacion/system/sacceso/asop
+            - text: Usuarios
+              url: /Operacion/system/sacceso/susu
+            - text: Monitoreo de Casos
+              url: /Operacion/system/sacceso/aseg
+            - text: Comentarios
+              url: /Operacion/system/sacceso/apqr
         - text: Logging
           url: /Operacion/system/auditoria/
         - text: Reportes
