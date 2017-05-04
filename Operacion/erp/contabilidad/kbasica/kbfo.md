@@ -18,7 +18,7 @@ En el maestro se parametrizarán cada uno de los formatos a presentar con la sig
 
 **Formato:** en este campo se colocará el código del formato.  
 **Nombre formato:** el nombre correspondiente al formato.  
-**Fuente:**En este campo se debe seleccionar fuente _contable_, ya que la información se tomará de la parte contable del sistema.  
+**Fuente:** en este campo se debe seleccionar fuente _contable_, ya que la información se tomará de la parte contable del sistema.  
 **Periodicidad:** en este caso para medios magnéticos se seleccionará _anual_.  
 **Comparativo:** pra medios magnéticos seleccionar la opción _ninguno_.  
 **Grupo:** para medios debe ir el número 0.  
