@@ -14,9 +14,9 @@ Diligenciamos los campos y damos click en botón consultar ![](actualizar.png).
 ![](KPGF1.png)
 
 
-**Año:** Ingresar el año a generar.  
-**Ciclo:** Se ingresa el ciclo a generar para el año, colocar 1.  
-**Formato:** Digitar el número de formato que se va a generar, el número de formato debe estar previamente parametrizado en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md).  
+**Año:** ingresar el año a generar.  
+**Ciclo:** se ingresa el ciclo a generar para el año, para el caso de medios magnéticos se debe colocar el número uno (1).  
+**Formato:** digitar el número de formato que se va a generar, el número de formato debe estar previamente parametrizado en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md).  
 **Grupo:** Ingresar grupo 0.  
 **Ubicación:** Ingresar la ubicación correspondiente.  
 
