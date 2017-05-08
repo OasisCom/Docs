@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Capacitacion
-permalink: /Capacitacion/Industria/hospital/taller/
+title: Hospital
+permalink: /Capacitacion/industria/hospital/taller/
 editable: si
 ---
 
