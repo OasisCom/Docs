@@ -15,9 +15,7 @@ editable: si
 # OPERACION
 
 
-
 ### Menú
-
 
 
 OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el nombre del usuario.  
