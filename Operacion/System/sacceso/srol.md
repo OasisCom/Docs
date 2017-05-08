@@ -4,7 +4,7 @@ layout: default
 
 title: Roles
 
-permalink: /Operacion/System/sacceso/srol
+permalink: /Operacion/system/sacceso/srol
 
 editable: si
 
