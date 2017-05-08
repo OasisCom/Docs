@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soporte
-permalink: /Operacion/System/sacceso/asop/
+permalink: /Operacion/System/sacceso/asop
 editable: si
 ---
 
