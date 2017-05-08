@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Seguridad
-permalink: /Operacion/system/sacceso/
+permalink: /Operacion/System/sacceso/
 editable: si
 ---
 
