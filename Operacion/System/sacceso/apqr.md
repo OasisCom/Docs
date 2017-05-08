@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coments
-permalink: /Operacion/System/sacceso/apqr
+permalink: /Operacion/system/sacceso/apqr
 editable: si
 ---
 
