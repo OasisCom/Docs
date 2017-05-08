@@ -1,9 +1,9 @@
----
-layout: default
-title: Sistema
-permalink: /Operacion/system/
-editable: si
----
-
-# SISTEMA
-
+---
+layout: default
+title: Sistema
+permalink: /Operacion/system/
+editable: si
+---
+
+# SISTEMA
+
