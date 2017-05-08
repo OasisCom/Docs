@@ -8,7 +8,7 @@ editable: si
 # CURSO OPERATIVIDAD BÁSICA 2  
 
 
-En este curso, usted encontrará información general que le servirá para aprender a ingresar al sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
+En este curso, usted encontrará información sobre: Cómo operar OasisCom (cómo realizar un registro, editarlo y eliminarlo)y también Cómo operar movimientos en OasisCom (cómo realizar un movimiento: procesarlo,reversarlo y anularlo).
 
 
 
