@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monitoring Cases
-permalink: /Operacion/System/sacceso/aseg
+permalink: /Operacion/system/sacceso/aseg
 editable: si
 ---
 
