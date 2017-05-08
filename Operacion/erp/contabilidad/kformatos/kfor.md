@@ -9,6 +9,8 @@ editable: si
 
 En esta aplicación el sistema mostrará la información generada anteriormente en la aplicación [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md) , consultamos por año, número de formato asignado en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md) y damos _Enter_.  
 
+El valor indicado en el maestro debe coincidir con el Balance de Prueba.  
+
 
 ![](KFOR1.png)
 
