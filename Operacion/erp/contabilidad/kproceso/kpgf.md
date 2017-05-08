@@ -25,6 +25,7 @@ Al dar click en el botón consultar ![](actualizar.png) , el sistema generará e
 
 ![](KPGF2.png)
 
+
 Generado el formato nos dirigimos a la aplicación [**KFOR - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kformatos/kfor.md) para validar la información.  
 
 
@@ -33,7 +34,7 @@ Generado el formato nos dirigimos a la aplicación [**KFOR - Formatos**](https:/
 Luego de realizar la debida parametrización en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md), ingresaremos al proceso especial **KPGF**, el cual nos permite generar el formato ingresando los siguientes datos y dando click en el botón _Generar_ ![](actualizar.png):  
 
 
-![](KPGF350.png)
+![](kpgf350.png)
 
 
 **Año:** año del cual se desea generar la información, ejemplo: 2017.  
@@ -49,7 +50,7 @@ Al dar click en el botón _Generar_ ![](actualizar.png) el sistema habilitará e
 
 Damos click sobre este botón y el proceso KPGF nos generará el formato en una ventana emergente adicional, en este caso es importante descargar el formato en PDF para que se pueda visualizar mejor.  
 
-![](KPGF3501.png)
+![](kpgf3501.png)
 
 
 El formato será descargado en PDF y se podrá observar así:  
