@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **KPGF** permite generar los formatos que han sido previamente parametirzados en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md).  
 
-Diligenciamos los campos y damos click en botón consultar ![](actualizar.png).
+Diligenciamos los campos y damos click en botón consultar ![](actualizar.png).  
 
 ![](KPGF1.png)
 
@@ -25,5 +25,15 @@ Al dar click en el botón consultar ![](actualizar.png) , el sistema generará e
 
 ![](KPGF2.png)
 
-Generado el formato nos dirigimos a la aplicación [**KFOR - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kformatos/kfor.md) para validar la información.
+Generado el formato nos dirigimos a la aplicación [**KFOR - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kformatos/kfor.md) para validar la información.  
+
+
+## Formato 350 - Retención en la Fuente
+
+Luego de realizar la debida parametrización en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md), ingresaremos al proceso especial **KPGF**, el cual nos permite generar el formato de la siguiente manera:  
+
+![](KPGF350.png)
+
+
+
 

@@ -4,9 +4,10 @@ title: Formatos
 permalink: /Operacion/erp/contabilidad/kbasica/kbfo
 editable: si
 ---
-# FORMATOS
 
 ## FORMATOS - KBFO
+
+### Medios Magnéticos
 
 En la aplicación **KBFO** se realiza toda la parametrización correspondiente a los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN, entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.
 
@@ -78,3 +79,83 @@ Cuando ya se han parametrizado los formatos en la aplicación KBFO, el sistema O
 
 
 Para generar los formatos parametrizados en KBFO ingresaremos a la aplicación [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md).
+
+
+### Formato 350 - Retención en la Fuente
+
+OasisCom permite generar el formato 350 de retención en la fuente para la DIAN, para ello se debe iniciar con la parametrización en la aplicación KBFO.  
+
+Ingresamos a la aplicación KBFO, agregamos un nuevo registro y diligenciamos los campos de la siguiente manera:  
+
+![](KBFO4.png)
+
+**Formato Id:** ingresar el número del formato, _350_.
+**Nombre formato:** digitar el nombre asignado al formato, _DECLARACIÓN MENSUAL RETENCIÓN DE LA FUENTE 14_.  
+**Fuente:** seleccionar de la lista la opción _CONTABLE_.  
+**Periodicidad:** seleccionar de la lista desplegable la opción _MENSUAL_.  
+**Comparativo:** seleccionar la opción _NINGUNO_.  
+**Grupo:** ingresar grupo _0_.  
+**Factor:** ingresar factor _1_.  
+**Proceso:** seleccionar de la lista desplegable la opción _DECLARACIÓN_.  
+**Id impuesto:** ingresar el número _0_.  
+
+Diligenciados los campos del maestro, damos click en el botón _Guardar_ ubicado en la barra de herramientas y nos dirigimos al detalle de la aplicación, en donde se registrarán los campos contenidos en el Formulario 350 de la Dian.  
+
+![](350.png)
+
+**Detalle KBFO**
+
+![](detalle.png)
+
+**Id Formato Detalle:** Ingresar el valor numérico de cada una de las filas contenidas en el formulario.  
+
+![](detalle350.png)
+
+
+**FormatDetailName:** Se ingresa el nombre asociado a cada número de registro, este se encuentra siempre a la izquierda de cada número.  
+
+![](detalle3501.png)
+
+**Nivel:** ingresar el nivel 0 en todos los registros.  
+**Padre:** ingresar el padre 0 en todos los registros.  
+**Imputable:** se debe prender este check en todos los registros ingresados.  
+**Origen:** digitarla letra M en todos los registros.  
+**Base:** se debe prender el check en todos los registros ingresados.  
+**TypeTime:** Ingresamos la letra F en todos los registros.  
+**DataType:** Ingresamos la letra V en todos los registros.  
+
+Los otros campos deben quedar vacíos o en 0 según corresponda (ver imagen).  
+
+![](detalle1.png)
+
+![](detalle2.png)
+
+Luego de haber realizado el ingreso de todas las filas definidas por un número en el formulario 350 de la DIAN, seleccionamos el registro al que se le parametrizarán las cuentas o rango de cuentas, en este caso seleccionamos el renglón 31.  
+
+![](KBFO5.png)
+
+Seleccionado el registro, pasamos a la pestaña _Cuentas_ en el detalle, en donde se ingresarán cada una de las cuentas que pertenecen a este registro de la siguiente manera:  
+
+![](KBFO6.png)
+
+**Formato Id:** ingresar el número de formato, en este caso el 350.  
+**Id Formato Detalle:** ingresar el número de registro seleccionado anteriormente en la pestaña _detalle_.  
+**Plan:** si se tiene un plan de cuentas diferente a 0 y se requiere seleccionar una o más cuentas de este, se debe especificar en este campo.  
+**Libro:** indicar el libro contable de donde se tomarán las cuentas, Libro 0 - LOCAL, libro 1 - IFRS.  
+**Cuenta inicial:** ingresar la primer cuenta de donde se tomarán los movimientos realizados.  
+**Cuenta Final:**  Si se desea tener un rango de cuentas se debe indicar una cuenta final, por ejemplo, ingresamos la cuenta 23652010, esto indica que traerá el total de los movimientos o saldos de las cuentas que se encuentren entre la 23652005 (Campo cuenta inicial) y 23652010, si no se desea tener un rango de cuentas y la solo se desea parametrizar una sola cuenta, esta se ingresa en el campo inicial y se repite en el campo final.  
+**Documento:** en la parametrización de este formato no aplica un documento, así que se ingresa la letra **N**, sin embargo, si se desea traer solo los movimientos o saldos con un documento específico y las cuentas parametrizadas en los campos Cuenta Inicial y Cuenta Final se debe ingresar el documento en este campo.  
+**Concepto:** en la parametrización de este formato no aplica un concepto, así que se ingresa la letra **N**, sin embargo, si se desea traer solo los movimientos o saldos con un concepto específico y las cuentas parametrizadas en los campos Cuenta Inicial y -Cuenta Final se debe ingresar el concepto en este campo.  
+**Tercero:** en la parametrización de este formato no aplica tercero, así que se ingresa la letra **N**, sin embargo, si se desea traer solo los movimientos o saldos para un tercero en específico y las cuentas parametrizadas en los campos Cuenta Inicial y Cuenta Final se debe ingresar el tercero en este campo.  
+**Aplica:** se debe activar este check para indicar que ese renglón se necesita para consultar, ya sea los movimientos de esas cuentas o los saldos, de lo contrario no realizara el recorrido.  
+**Origen:** en este campo se debe elegir de donde se desea traer la información que se generará en el formato, en la parametrización de este se selecciona _Saldos_, pero para otros casos se puede seleccionar: MOVIMIENTOS, SALDOS Y MOVIMIENTOS, DEBITOS, CREDITOS, DEBITO-CREDITO.  
+**Detallado:** para este formato, no es necesario activar este check que nos permite generar la información de manera más detallada por documento.  
+**Factor:** valor por el cual se multiplicará la información, para este formato aplica el factor 1.  
+**Destino:** hace referencia a la columna a donde se enviará la información que estamos generando, en este caso se selecciona _Valor_.  
+
+**Nota:**  Se puede ingresar cuantos renglones sean necesarios para el grupo de cuentas que sumará al valor total del renglón seleccionado en la pestaña _Detalle_.  
+
+Luego de realizar la configuración anterior ingresaremos a la aplicación [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md), en donde procederemos a generar el formato 350 de la DIAN.  
+
+
+
