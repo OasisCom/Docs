@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desarrollo
-permalink: /desarrollo/interfaz/
+permalink: /Desarrollo/interfaz/
 editable: si
 ---
 
