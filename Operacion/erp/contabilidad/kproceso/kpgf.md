@@ -30,10 +30,32 @@ Generado el formato nos dirigimos a la aplicación [**KFOR - Formatos**](https:/
 
 ## Formato 350 - Retención en la Fuente
 
-Luego de realizar la debida parametrización en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md), ingresaremos al proceso especial **KPGF**, el cual nos permite generar el formato de la siguiente manera:  
+Luego de realizar la debida parametrización en la aplicación [**KBFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md), ingresaremos al proceso especial **KPGF**, el cual nos permite generar el formato ingresando los siguientes datos y dando click en el botón _Generar_ ![](actualizar.png):  
+
 
 ![](KPGF350.png)
 
+
+**Año:** año del cual se desea generar la información, ejemplo: 2017.  
+**Ciclo:** ciclo en el que se desea correr el formato, en este caso como el formato de retención en la fuente se genera mensual, lo generaremos para el mes de febrero (2).  
+**Formato Id:** número de formato que deseamos generar, para este caso sería el 350.  
+**Grupo y Ubicación:** por lo general en estos campos se digita 0, ya que siempre se genera para todos los grupos y todas las ubicaciones.  
+
+Al dar click en el botón _Generar_ ![](actualizar.png) el sistema habilitará el botón _Imprimir Reporte_.  
+
+
+![](kpgfimprimir.png)
+
+
+Damos click sobre este botón y el proceso KPGF nos generará el formato en una ventana emergente adicional, en este caso es importante descargar el formato en PDF para que se pueda visualizar mejor.  
+
+![](KPGF3501.png)
+
+
+El formato será descargado en PDF y se podrá observar así:  
+
+
+![](pdf350.png)
 
 
 
