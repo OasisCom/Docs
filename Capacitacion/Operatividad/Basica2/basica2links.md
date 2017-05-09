@@ -9,7 +9,7 @@ editable: si
 
 ## Cómo operar el sistema
 
-[![Operatividad basica 2](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=16439b611c31e448ba4cc979bc3329b96&authkey=ASO-e-CNxsPVfhkoxr_0B-I)](https://youtu.be/O77bxRj0-yo)
+[![Operatividad basica 2](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1355275fa137944fcb3b2d39a32f97b50&authkey=Afu6X9gMjbiVUnlyWMt9MXk)](https://youtu.be/O77bxRj0-yo)
 
 
 ## Cómo operar movimientos en OasisCom

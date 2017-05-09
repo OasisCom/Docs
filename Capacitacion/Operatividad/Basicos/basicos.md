@@ -2,8 +2,7 @@
 
 layout: default
 
-title: Capacitacion
-
+title: Básicos
 permalink: /Capacitacion/Operatividad/basicos/
 
 editable: si
@@ -15,6 +14,7 @@ editable: si
 # CURSO BÁSICOS OASISCOM
 
 
+En este curso, usted encontrará información sobre: Básicos (Cómo parametrizar en BCUE, cómo crear un tercero en BTER y cómo crear un producto en BPRO)
 
 
 

@@ -10,7 +10,7 @@ editable: si
 ## PRINCIPIOS BÁSICOS 1  
 
 
-[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=107e08b0c42d44340866dc18f82a0670f&authkey=Ae87TUB6ptoSM1zEewv0KMc)](https://www.youtube.com/watch?v=TFgIEBF_pqI) 
+[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=11e951da0cbda4a169506eee27f4165be&authkey=Acf4Ba0Cs_yYITqoR33Oij8)](https://www.youtube.com/watch?v=TFgIEBF_pqI) 
 
 
 ## PRINCIPIOS BÁSICOS 2

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacitacion
+title: Operatividad básica 2
 permalink: /Capacitacion/Operatividad/basica2/evaluacion/
 editable: si
 ---

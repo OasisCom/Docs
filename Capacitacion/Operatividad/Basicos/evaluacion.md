@@ -2,7 +2,7 @@
 
 layout: default
 
-title: Capacitacion
+title: Básicos
 
 permalink: /Capacitacion/Operatividad/basicos/evaluacion/
 
