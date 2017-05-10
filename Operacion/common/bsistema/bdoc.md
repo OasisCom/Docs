@@ -50,5 +50,48 @@ En el maestro indicamos el documento al cual se le van a parametrizar los códig
 ![](bdoc1.png)
 
 
+## Inventario Periódico
+
+Para realizar el inventario periódico, es necesario parametrizar en la aplicación BDOC los documentos SA - Salidas del Inventario y EN - Entradas al Inventario. 
+
+**SA - Salidas del Inventario**
+
+Al parametrizar el documento SA, se deberá agregar en el detalle el concepto SA - Salida por Ajuste. En el maestro de la aplicación se agregará un nuevo registro y se diligenciarán los siguientes campos.  
+
+![](bdoc6.png)
+
+**Documento:** digitar SA.  
+**Nombre documento:** asignar el nombre al documento, es decir, Salidas del Inventario.  
+**Location:** activar el flag.  
+**Automático:** activar el flag.  
+**Contabilidad:** indicar en el campo _Contabilidad_ la opción **Suma**.  
+**Inventario:** indicar en el campo _Inventario_ la opción **Resta**.  
+A los demás campos se les asignará la opción **Ninguno**.   
+**Programa:** digitar el programa _imov_.  
+**Orden:** ingresar el número 2.  
+**Módulo:** ingresar la letra **I** correspondiente al módulo de inventarios.  
+
+Ingresados los datos, damos click en el botón _Guardar_ ubicado en la barra de herramientas del maestro y nos dirigimos al detalle de la aplicación.  
+
+En la pestaña _Conceptos_ del detalle, se parametrizará el concepto SA - Salida por Ajuste, se agrega un nuevo renglón y se ingresan los siguientes campos.  
+
+![](concepto.png)
+
+**Documento:** ingresar documento SA.  
+**Concepto:** ingresar concepto SA.  
+**Nombre de concepto:** el nombre del concepto será _Salida por Ajuste_.  
+**Cantidad:** seleccionar la opción _Resta_.  
+**Obligatorio:** activar el flag.  
+**Liquidación:** activar el flag.  
+**Orden:** ingresar el número 10.  
+**Grupo:** grupo A.  
+**Contabilidad:** ingresar la letra L.  
+
+Diligenciados los campos anteriores, damos click en el botón _Guardar_ ubicado en la barra de herramientas del detalle.  
+
+
+
+
+
 
 
