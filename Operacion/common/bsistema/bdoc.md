@@ -85,11 +85,45 @@ En la pestaña _Conceptos_ del detalle, se parametrizará el concepto SA - Salid
 **Liquidación:** activar el flag.  
 **Orden:** ingresar el número 10.  
 **Grupo:** grupo A.  
-**Contabilidad:** ingresar la letra L.  
+**Contabilidad:** ingresar la letra L referente al libro local.  
 
 Diligenciados los campos anteriores, damos click en el botón _Guardar_ ubicado en la barra de herramientas del detalle.  
 
+**EN - Entradas al Inventario**
 
+Al parametrizar el documento EN, se deberá agregar en el detalle el concepto EA - Salida por Ajuste. En el maestro de la aplicación se agregará un nuevo registro y se diligenciarán los siguientes campos.  
+
+![](bdoc7.png)
+
+**Documento:** digitar EN.  
+**Nombre documento:** asignar el nombre al documento, es decir, Entradas al Inventario.  
+**Location:** activar el flag.  
+**Automático:** activar el flag.  
+**Contabilidad:** indicar en el campo _Contabilidad_ la opción **Suma**.  
+**Inventario:** indicar en el campo _Inventario_ la opción **Suma**.  
+A los demás campos se les asignará la opción **Ninguno**.   
+**Programa:** digitar el programa _imov_.  
+**Orden:** ingresar el número 1.  
+**Módulo:** ingresar la letra **I** correspondiente al módulo de Inventarios.  
+
+Ingresados los datos, damos click en el botón _Guardar_ ubicado en la barra de herramientas del maestro y nos dirigimos al detalle de la aplicación.  
+
+En la pestaña _Conceptos_ del detalle, se parametrizará el concepto EA - Entrada por Ajuste, se agrega un nuevo renglón y se ingresan los siguientes campos.  
+
+![](concepto1.png)
+
+**Documento:** ingresar documento EN.  
+**Concepto:** ingresar concepto EA.  
+**Nombre de concepto:** el nombre del concepto será _Entrada por Ajuste_.  
+**Cantidad:** seleccionar la opción _Suma_.  
+**Obligatorio:** activar el flag.  
+**Orden:** ingresar el número 10.  
+**Grupo:** grupo A.  
+**Contabilidad:** ingresar la letra L referente al libro local.  
+
+Dejar los demás campos vacios o en 0 según corresponda.  
+
+Diligenciados los campos anteriores, damos click en el botón _Guardar_ ubicado en la barra de herramientas del detalle.  
 
 
 
