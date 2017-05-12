@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Movimientos
+title: Movimientos de inventario
 permalink: /Operacion/scm/inventarios/imovimient/imov
 editable: si
 ---
 
-# MOVIMIENTOS DE INVENTARIO - IMOV
+# Movimientos de Inventario - IMOV
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.  
 
@@ -48,40 +48,44 @@ En el detalle:
 
 Una vez validada la información del pedido se procesa el documento y se realiza un traslado de los insumos a la bodega requerida, para realizar este movimiento se debe ingresar a la aplicación _IMOV – movimientos de inventarios_.  
 
--	Documento: SA correspondiente a salida de inventario  
--	Ubicación: 3 correspondiente a la ubicación de donde saldrá la mercancía  
--	Concepto: TR correspondiente a traslado  
--	Tercero: Tercero correspondiente  
--	Ubicación Destino: 1 La ubicación a la que se requiere llevar la mercancía  
--	Documento1: LD Documento del pedido creado automáticamente en **LPED**  
--	Número1: 2 Número del pedido correspondiente al campo anterior  
--	Ubicación1: 1 Ubicación del pedido correspondiente al campo anterior  
-
+**Documento:** SA correspondiente a salida de inventario.  
+**Ubicación:** 3 correspondiente a la ubicación de donde saldrá la mercancía.  
+**Concepto:** TR correspondiente a traslado.  
+**Tercero:** Tercero correspondiente.  
+**Ubicación Destino:** 1 La ubicación a la que se requiere llevar la mercancía.  
+**Documento1:** LD Documento del pedido creado automáticamente en **LPED**.  
+**Número1:** 2 Número del pedido correspondiente al campo anterior.  
+**Ubicación1:** 1 Ubicación del pedido correspondiente al campo anterior.  
 
 ![](imov3.png)
 
-
 Cabe resaltar que, si al momento de realizar este registro no recordamos el número del pedido, en el campo número 1 se puede realizar doble clic y el sistema abre una ventana emergente con los pedidos relacionados a ese tercero y en esa respectiva ubicación:
 
-
 ![](imov4.png)
-
 
 Se da clic en el botón aceptar y el sistema nos arroja el 2 en el campo número1.  
 
 Al guardar el registro el sistema nos arroja automáticamente el detalle de acuerdo al pedido generado anteriormente, cabe resaltar que para que el sistema realice esto es necesario diligenciar los campos de color naranja de la imagen anterior para identificar a que pedido está asociado.
 
-
 ![](imov5.png)
 
-
 Se procesa el registro   
-
 
 ![](imov6.png)
 
 
+## Inventario Periódico
 
+
+En la aplicación **IMOV** se validarán los documentos de ajuste generados por la aplicación [**IFAJ - Genera Ajustes**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/ifisico/ifaj.md), estos deberán ser procesados con el fin de adecuar correctamente el inventario realizado.  
+
+Para consultar los documentos filtraremos por la fecha en que se realizó el inventario.  
+
+![](imov7.png)
+
+En la aplicación se generó un documento _EN - Entradas al inventario_ por concepto _EA - Entrada por ajuste_, el cual corresponde a las unidades que se encuentran físicamente pero que no estaban registradas en el sistema. Por otro lado, también se generó el documento _SA - Salidas del inventario_ por concepto _SA - Salida por ajuste_, el cual corresponde a las unidades de más que se encuentran registradas en el sistema pero que no existen físicamente. En el detalle de cada documento se podrán ver los productos a los cuales se les realizó ajuste.  
+
+Validada la información procesamos los documentos dando click en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas, esto permitirá que el inventario sea ajustado correctamente.  
 
 
 
