@@ -75,7 +75,7 @@ Finalmente, diligenciados los campos correspondientes, guardamos el registro dan
 
 Cuando ya se han parametrizado los formatos en la aplicación KBFO, el sistema OASISCOM está listo para la generación de dichos medios, teniendo en cuenta la información que reposa en contabilidad.  
 
-Para generar los formatos parametrizados en KBFO ingresaremos a la aplicación [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md).  
+Para generar los formatos parametrizados en KBFO ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf).  
 
 
 ### Formato 350 - Retención en la Fuente
@@ -152,7 +152,7 @@ Seleccionado el registro, pasamos a la pestaña _Cuentas_ en el detalle, en dond
 **Nota:**  Se puede ingresar cuantos renglones sean necesarios para el grupo de cuentas que sumará al valor total del renglón seleccionado en la pestaña _Detalle_.  
 
 
-Luego de realizar la configuración anterior ingresaremos a la aplicación [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md), en donde procederemos a generar el formato 350 de la DIAN.  
+Luego de realizar la configuración anterior ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf), en donde procederemos a generar el formato 350 de la DIAN.  
 
 
 
