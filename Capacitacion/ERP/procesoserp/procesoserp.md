@@ -8,3 +8,6 @@ editable: si
 # CURSO FINANCIERO
 
 
+En este curso, usted encontrará información relacionada con temas del curso financiero tales como: 
+
+

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacitacion
+title: Tips y Ayudas
 permalink: /Capacitacion/Operatividad/tips/evaluacion/
 editable: si
 ---

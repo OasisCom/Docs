@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacitacion
+title: Operatividad básica 1
 permalink: /Capacitacion/Operatividad/basica1/links/
 editable: si
 ---
@@ -10,13 +10,13 @@ editable: si
 ## PRINCIPIOS BÁSICOS 1  
 
 
-[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=11e951da0cbda4a169506eee27f4165be&authkey=Acf4Ba0Cs_yYITqoR33Oij8)](https://www.youtube.com/watch?v=TFgIEBF_pqI) 
+[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1355275fa137944fcb3b2d39a32f97b50&authkey=Afu6X9gMjbiVUnlyWMt9MXk)](https://youtu.be/6ohHaTvmHKA) 
 
 
 ## PRINCIPIOS BÁSICOS 2
 
 
-[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1fc8a91dec4b94de49d048946512e14d3&authkey=AQobGnk1w2typAwEXFq4tMc)](https://www.youtube.com/embed/olTkOobSuQM)
+[![Operatividad basica 1](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1dff1fa70d6c64c11a94c64f11d9221b6&authkey=ARuEBTzLwGX0FczPw9cHptY)](https://youtu.be/olTkOobSuQM)
 
 
 
