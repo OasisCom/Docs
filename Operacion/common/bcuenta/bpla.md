@@ -11,7 +11,7 @@ editable: si
 Para efectos de la contabilización de la nómina, se parametrizan las cuentas contables a donde deben apuntar cada concepto. Se debe tener en cuenta que las plantillas se dividen en los documentos _NM – Nómina, AP – Aportes, PV – Provisión_.
 
 
-![](bpla.png)
+![](bpla1.png)
 
 
 Los campos que se deben parametrizar son:

@@ -11,7 +11,7 @@ En esta aplicación se deben parametrizar todos los productos o servicios que of
 
 ![](bpro1.png)
 
-**Producto:** Consecutivo automático que arroja el sistema.
+**Producto:** Consecutivo automático que arroja el sistema.  
 **Nombre del producto:** Se debe registrar el nombre del producto de acuerdo a nuestro portafolio.  
 **Clasificación:** Se debe indicar el Id de la clasificación previamente parametrizada en BCLA, esta clasificación la define la empresa.  
 **Servicio:** Se debe activar el Check box en caso de ofrecer un servicio.  
