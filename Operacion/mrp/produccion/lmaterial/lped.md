@@ -8,7 +8,7 @@ editable: si
 # PEDIDOS DE PRODUCCIÓN - LPED
 
 
-Al dar clic en el icono ![](lped1.png), el sistema genera automáticamente un pedido de producción de la fábrica a la bodega de materia prima, esto se puede visualizar en la aplicación LPED – pedidos con los insumos que se deberían trasladar a la bodega de materia prima. 
+Al generar el **LPCP - confirma plan**, se genera automáticamente un pedido en esta aplicación que muestra los insumos que se deben trasladas a la bodega de materia prima.  
 
 
 ![](lped2.png)
@@ -34,7 +34,7 @@ Cabe resaltar que aquí es donde podemos identificar que insumos nos han entrega
 ![](lped5.png)
 
 
-De igual manera si se realizó la respectiva parametrización para separar insumos nombrada en el numeral 6.1.4 en el recuadro en verde se podrá observar la cantidad de insumos separados.
+De igual manera si se realizó la respectiva parametrización para separar insumos, en el recuadro en verde se podrá observar la cantidad de insumos separados.
 
 
 ![](lped6.png)
@@ -43,10 +43,13 @@ De igual manera si se realizó la respectiva parametrización para separar insum
 Por otro lado, en la aplicación ISPL se puede visualizar los insumos reservados en el campo _“separada”_.
 
 
-Una vez procesado el traslado en la aplicación **IMOV** se ingresa a la aplicación **LPED** validando en el detalle _“explosión”_ el campo entregado indica las unidades que han sido trasladadas y que ya se encuentran en planta.  
+Una vez validada la información del pedido, se procesa el documento y se realiza un traslado de los insumos a la bodega requerida, lo cual se realiza a través de la aplicación **IMOV**. Se ingresa a la aplicación **LPED** validando en el detalle _“explosión”_ el campo entregado indica las unidades que han sido trasladadas y que ya se encuentran en planta.  
 
 
 ![](lped7.png)
+
+
+Cuando ya se tienen los insumos correspondientes en la planta, se inicia el control de piso, lo cual son todas las operaciones respectivas para transformar al producto final. Por lo tanto, ingresamos a la aplicación **LORD – Ordenes de producción**.  
 
 
 

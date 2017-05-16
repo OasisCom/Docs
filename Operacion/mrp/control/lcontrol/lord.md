@@ -8,7 +8,7 @@ editable: si
 # ÓRDENES DE PRODUCCIÓN - LORD
 
 
-Cuando ya se tienen los insumos correspondientes en la planta se inicia el control de piso, lo cual son todas las operaciones respectivas para transformar al producto final. Por lo tanto, ingresamos a la aplicación **LORD – Ordenes de producción**, se crea un registro diligenciando los siguientes campos:  
+Con esta aplicación se inicia el control de piso para transformar los insumos en el producto final, ingresando un registro de la siguiente manera:  
 
 
 -	Documento: OE Orden de producción  

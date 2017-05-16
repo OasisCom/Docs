@@ -18,4 +18,6 @@ En esta aplicación, debems diligeciar 3 parámetros:
 ![](lpcp1.png)
 
 
+Al dar clic en el icono de la flecha, el sistema genera automáticamente un pedido de producción de la fábrica a la bodega de materia prima, esto se puede visualizar en la aplicación **LPED – pedidos**, con los insumos que se deberían trasladar a la bodega de materia prima.  
+
 
