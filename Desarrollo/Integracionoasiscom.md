@@ -4,7 +4,7 @@ layout: default
 
 title: Integración a OasisCom con API
 
-permalink: /Desarrollo/
+permalink: /Desarrollo/Integracionoasiscom
 
 editable: si
 
