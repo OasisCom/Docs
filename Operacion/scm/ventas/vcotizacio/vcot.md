@@ -11,7 +11,7 @@ Pantalla maestra que sirve para adicionar, modificar y consultar las diferentes 
 
 El maestro contiene la información básica tanto de la empresa como del cliente al cual se le cotiza, con las posibles condiciones comerciales con las que dicho cliente será vinculado como cliente de la empresa.
 
-![](vcot 1.png)
+![](vcot1.png)
 
 **Documento:** Tipo de documento que se desea registrar.  
 **Número:** Consecutivo asignado a la cotización a realizar.  

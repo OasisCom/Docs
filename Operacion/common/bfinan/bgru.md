@@ -32,7 +32,7 @@ Detalle
 
 Por ejemplo, si se crea un grupo para los productos con IVA Excluido, este grupo tendrá que afectar las cuentas contables descritas en el detalle, quedando de la siguiente manera:  
 
-![](bgru2.png)
+![](bgru3.png)
 
 
 

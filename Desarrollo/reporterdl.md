@@ -4,7 +4,7 @@ layout: default
 
 title: Creación de reportes con Microsoft SQL Report Builder
 
-permalink: /Desarrollo/Reportes .rdl
+permalink: /Desarrollo/Reportesrdl
 
 editable: si
 

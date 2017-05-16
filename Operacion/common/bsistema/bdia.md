@@ -13,6 +13,8 @@ En la aplicación **BDIA** se registran todos los días del año. Permite regist
 
 **Ubicación:** Número de ubicación de la empresa donde se desean registrar los días.  
 **Fecha:** Fecha del día a registrar.  
+**Festivo:** Se debe activar el flag para los días que son festivos y dejarlo desactivado para los días que no lo son.  
+
 
 
 
