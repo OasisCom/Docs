@@ -1162,30 +1162,76 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/mrp/produccion/lbasica/
+              subitems:
+              - text: Operaciones
+                url: /Operacion/mrp/produccion/lbasica/lbpo
+              - text: Linea de Produccion
+                url: /Operacion/mrp/produccion/lbasica/lbli
             - text: Estructura de Producto
               url: /Operacion/mrp/produccion/lproducto/
+              subitems:
+              - text: Rutas
+                url: /Operacion/mrp/produccion/lproducto/lrut
             - text: Programa de Produccion
               url: /Operacion/mrp/produccion/lprograma/
+              subitems:
+              - text: Orden Manual
+                url: /Operacion/mrp/produccion/lprograma/lorm
+              - text: Programas de Produccion
+                url: /Operacion/mrp/produccion/lprograma/lprg
+              - text: Programa Manual
+                url: /Operacion/mrp/produccion/lprograma/lprm
             - text: Requerimientos
               url: /Operacion/mrp/produccion/lmaterial/
+              subitems:
+              - text: Requerimiento de Materiales 
+                url: /Operacion/mrp/produccion/lmaterial/lexp
+              - text: Requerimiento de Capacidad 
+                url: /Operacion/mrp/produccion/lmaterial/lcap
+              - text: Pedidos de Produccion 
+                url: /Operacion/mrp/produccion/lmaterial/lped
             - text: Procesos Especiales
               url: /Operacion/mrp/produccion/lproceso/
+              subitems:
+              - text: Confirma Plan
+                url: /Operacion/mrp/produccion/lproceso/lpcp
             - text: Reportes
               url: /Operacion/mrp/produccion/lreporte/
+              subitems:
+              - text: Costos CIF mano de obra estandar vs Real
+                url: /Operacion/mrp/produccion/lreporte/lrcm
+              - text: Corte Trilla
+                url: /Operacion/mrp/produccion/lreporte/lrct
+              - text: Movimientos por Producto Produccion
+                url: /Operacion/mrp/produccion/lreporte/lrmp
         - text: Control
           url: /Operacion/mrp/control/
           subitems:
             - text: Planeacion
               url: /Operacion/mrp/control/lorden/
+              subitems:
+              - text: Ordenes de Produccion Planeadas
+                url: /Operacion/mrp/control/lorden/lorp
             - text: Ejecucion
               url: /Operacion/mrp/control/lcontrol/
+              subitems:
+              - text: Ordenes de Produccion
+                url: /Operacion/mrp/control/lcontrol/lord
         - text: Costos
           url: /Operacion/mrp/costos/
           subitems:
             - text: Costos Estandar
               url: /Operacion/mrp/costos/uestandar/
+              subitems:
+              - text: Costos Estandar
+                url: /Operacion/mrp/costos/uestandar/uest
             - text: Costos Reales
               url: /Operacion/mrp/costos/ucosto/
+              subitems:
+              - text: Costos de Produccion
+                url: /Operacion/mrp/costos/ucosto/ucos
+              - text: Producto en Proceso
+                url: /Operacion/mrp/costos/ucosto/ucpr
             - text: Procesos Especiales
               url: /Operacion/mrp/costos/uproceso/
         - text: Mantenimiento
@@ -1193,12 +1239,38 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/mrp/mantenimiento/mbasica/
+              subitems:
+              - text: Rutinas
+                url: /Operacion/mrp/mantenimiento/mbasica/mrut
+              - text: Equipos
+                url: /Operacion/mrp/mantenimiento/mbasica/mequ
             - text: Ordenes de Trabajo
               url: /Operacion/mrp/mantenimiento/morden/
+              subitems:
+              - text: Ordenes de Servicio
+                url: /Operacion/mrp/mantenimiento/morden/mord
+              - text: Consulta de Ordenes
+                url: /Operacion/mrp/mantenimiento/morden/moco
             - text: Preventivo
               url: /Operacion/mrp/mantenimiento/mpreventivo/
+              subitems:
+              - text: Generar Calendario
+                url: /Operacion/mrp/mantenimiento/mpreventivo/mpga
+              - text: Calendario
+                url: /Operacion/mrp/mantenimiento/mpreventivo/mcal
             - text: Reportes
               url: /Operacion/mrp/mantenimiento/mreporte/
+              subitems:
+              - text: Ordenes de Trabajo
+                url: /Operacion/mrp/mantenimiento/mreporte/mror
+              - text: Ordenes Pendientes
+                url: /Operacion/mrp/mantenimiento/mreporte/mrop
+              - text: Ordenes de Trabajo por Operador
+                url: /Operacion/mrp/mantenimiento/mreporte/mrot
+              - text: Movimiento de Ordenes
+                url: /Operacion/mrp/mantenimiento/mreporte/mrro
+              - text: Rutinas de Mantenimiento
+                url: /Operacion/mrp/mantenimiento/mreporte/mrru
     - text: Decisiones DSS
       url: /Operacion/dss/
       subitems:
@@ -1477,26 +1549,161 @@
       subitems:
         - text: Documentos
           url: /Operacion/common/bsistema/
+          subitems:
+            - text: Documentos
+              url: /Operacion/common/bsistema/bdoc
+            - text: Consecutivos
+              url: /Operacion/common/bsistema/bcns
+            - text: Conceptos
+              url: /Operacion/common/bsistema/bcon
+            - text: Periodos
+              url: /Operacion/common/bsistema/bper
+            - text: Motivos
+              url: /Operacion/common/bsistema/bmot
+            - text: Dias
+              url: /Operacion/common/bsistema/bdia
+            - text: Dias Festivos
+              url: /Operacion/common/bsistema/bfes
+            - text: Tipos de Adjuntos
+              url: /Operacion/common/bsistema/btad
+            - text: Ciclos
+              url: /Operacion/common/bsistema/bcic
         - text: Organizacion
           url: /Operacion/common/borgan/
+          subitems:
+            - text: Ubicaciones Geograficas
+              url: /Operacion/common/borgan/bubg
+            - text: Ubicaciones Organizacion
+              url: /Operacion/common/borgan/bubi
         - text: Financieros
           url: /Operacion/common/bfinan/
+          subitems:
+            - text: Bancos
+              url: /Operacion/common/bfinan/bban
+            - text: Descuentos Pronto Pago
+              url: /Operacion/common/bfinan/bdpp
+            - text: Monedas
+              url: /Operacion/common/bfinan/bmon
+            - text: Negocios
+              url: /Operacion/common/bfinan/bneg
+            - text: Proyectos
+              url: /Operacion/common/bfinan/bpry
+            - text: Actualiza Saldos Iniciales Año
+              url: /Operacion/common/bfinan/bpia
         - text: Cuentas Contables
           url: /Operacion/common/bcuenta/
+          subitems:
+            - text: Cuentas
+              url: /Operacion/common/bcuenta/bcue
+            - text: Codigos de Cuenta
+              url: /Operacion/common/bcuenta/bcod
+            - text: Grupos
+              url: /Operacion/common/bcuenta/bgru
+            - text: Plantillas
+              url: /Operacion/common/bcuenta/bpla
+            - text: Cuentas Validacion
+              url: /Operacion/common/bcuenta/bcub
         - text: Impuestos
           url: /Operacion/common/bimpu/
+          subitems:
+            - text: Impuestos
+              url: /Operacion/common/bimpu/bimp
+            - text: Impuesto Detalle
+              url: /Operacion/common/bimpu/bimd
+            - text: Tipos de Impuesto
+              url: /Operacion/common/bimpu/btim
         - text: Comerciales
           url: /Operacion/common/bcomer/
+          subitems:
+            - text: Tipos de Contrato
+              url: /Operacion/common/bcomer/btco
+            - text: Condiciones de Pago
+              url: /Operacion/common/bcomer/bcnd
+            - text: Formas de Pago
+              url: /Operacion/common/bcomer/bfor
+            - text: Segmentos Comerciales
+              url: /Operacion/common/bcomer/bcse
+            - text: Especialidades
+              url: /Operacion/common/bcomer/bbes
+            - text: Incoterms
+              url: /Operacion/common/bcomer/binc
+            - text: Clasificacion de Calidad
+              url: /Operacion/common/bcomer/bccl
+            - text: Caracteristicas
+              url: /Operacion/common/bcomer/bcrc
+            - text: Tipos de Descuento
+              url: /Operacion/common/bcomer/btde
         - text: Terceros
           url: /Operacion/common/btercer/
+          subitems:
+            - text: Terceros
+              url: /Operacion/common/btercer/bter
+            - text: Cargos
+              url: /Operacion/common/btercer/bcar
+            - text: Rangos
+              url: /Operacion/common/btercer/bran
+            - text: Direcciones
+              url: /Operacion/common/btercer/bdir
         - text: Productos
           url: /Operacion/common/bprodu/
+          subitems:
+            - text: Colores
+              url: /Operacion/common/bprodu/bcol
+            - text: Unidades de Medida
+              url: /Operacion/common/bprodu/bmed
+            - text: Productos Homologos
+              url: /Operacion/common/bprodu/bprh
+            - text: Productos
+              url: /Operacion/common/bprodu/bpro
+            - text: Clasificaciones
+              url: /Operacion/common/bprodu/bcla
+            - text: Linea
+              url: /Operacion/common/bprodu/blin
+            - text: Talla
+              url: /Operacion/common/bprodu/btal
+            - text: Marcas
+              url: /Operacion/common/bprodu/bmar
+            - text: Conversiones
+              url: /Operacion/common/bprodu/bcnv
+            - text: ABC
+              url: /Operacion/common/bprodu/babc
+            - text: Controles
+              url: /Operacion/common/bprodu/bcnt
         - text: Servicios
           url: /Operacion/common/bservi/
+          subitems:
+            - text: Temas
+              url: /Operacion/common/bservi/btem
+            - text: Fallas
+              url: /Operacion/common/bservi/bfal
+            - text: Causas
+              url: /Operacion/common/bservi/bcau
+            - text: Acciones
+              url: /Operacion/common/bservi/bacc
+            - text: Falla-Causa-Accion
+              url: /Operacion/common/bservi/bfca
+            - text: Fallas-Programas
+              url: /Operacion/common/bservi/bfap
         - text: Novedades
           url: /Operacion/common/bnovedad/
+          subitems:
+            - text: Novedades
+              url: /Operacion/common/bnovedad/bnov
         - text: Reportes
           url: /Operacion/common/brepor/
+          subitems:
+            - text: Colores
+              url: /Operacion/common/brepor/brco
+            - text: Terceros
+              url: /Operacion/common/brepor/brte
+            - text: Productos
+              url: /Operacion/common/brepor/brpr
+            - text: Estado Clientes
+              url: /Operacion/common/brepor/erlq
+            - text: Ingreso Asociados
+              url: /Operacion/common/brepor/zrng
+            - text: Ubicaciones
+              url: /Operacion/common/brepor/brub
     - text: Utilidades
       url: /Operacion/utility/
       subitems:
@@ -1826,9 +2033,9 @@
 - text: Desarrollo
   url: /Desarrollo/
   subitems:
-    - text: Como crear una Interfaz
-      url: /Desarrollo/interfaz
-    - text: Como generar un reporte desde BINT
-      url: /Desarrollo/reportebint
+    - text: Reportes RDL
+      url: /Desarrollo/reporterdl.md
+    - text: Integracion OasisCom
+      url: /Desarrollo/Integracionoasiscom
 - text: Sitemap
   url: /sitemap/
