@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacitacion
+title: Formularios Externos 2
 permalink: /Capacitacion/industria/salud/formuext2/links/
 editable: si
 ---

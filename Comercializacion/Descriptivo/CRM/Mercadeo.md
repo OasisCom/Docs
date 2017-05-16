@@ -25,10 +25,11 @@ Su objetivo es mantener la información referente al mercado y que es importante
 
 * Registra las empresas que son competencia, con sus correspondientes productos, precios, campañas de publicidad y plaza que atienden, con el objetivo de determinar la posición de la empresa frente a esta.  
 
+
 ![](mercadeo.jpg)
 
 
-### Datos báasicos
+### Datos básicos
 
 Permite definir una serie de datos básicos necesario para la operación del módulo de mercadeo. Estos hacen referencia a la definición de los medios de comunicación, las agencias de publicidad, los canales de comercialización, etc.  
 

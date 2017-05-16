@@ -7,7 +7,10 @@ editable: si
 
 ## Comentarios - APQR
 
-OasisCom permite a los clientes enviar comentarios a cerca del sistema, ya sean, peticiones, quejas, reclamos o felicitaciones. Estos comentarios serán leídos por técnicos de OasisCom con el fin de dar una respuesta a la situación que se presente.  
+OasisCom permite a los clientes enviar comentarios relacionados al sistema o a los servicios prestados por Oasis. Estos comentarios serán leídos por técnicos de OasisCom con el fin de dar una respuesta a la situación que se presente.  
+
+Recuerda que en esta aplicación debes diligenciar comentarios respecto al sistema o servicios ofrecidos por OasisCom, pero no incidencias para reportar, dado que estas se deben registrar desde la aplicación [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md) para dar el respectivo tratamiento.  
+
 
 Para enviar un comentario nos dirigimos al nombre de usuario ubicado en la parte superior derecha de la pantalla y damos click, se desplegará un menú en donde seleccionaremos la opción _Comentarios_.  
 
@@ -17,12 +20,10 @@ Al dar click en la opción _Comentarios_ el sistema abrirá la aplicación **APQ
 
 ![](APQR1.png)
 
-**Asunto:** Escribir concretamente la situación que se presenta.  
-**Descripción:** hacer una descripción detallada de la situación que se presenta. En caso tal que el comentario sea referente a la replicación de un caso, se deben incluir datos concretos, como: documento, número, ubicación del registro, al igual que explicar claramente en que evento sucedió (consultando, adicionando, procesando).  
-
-![](APQR3.png)
 
 Diligenciado el asunto y la descripción, enviamos el comentario dando click en el botón ![](submit.png). El sistema arrojará un mensaje indicando que el comentario ha sido enviado con éxito.  
 
 ![](APQR4.png)
+
+
 

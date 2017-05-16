@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Capacitacion
-permalink: /Capacitacion/ERP/procesoerp/links/
+title: Curso Financiero
+permalink: /Capacitacion/ERP/procesoserp/links/
 editable: si
 ---
 

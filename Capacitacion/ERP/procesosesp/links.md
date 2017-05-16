@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capacitacion
+title: Procesos Especiales de Contabilidad
 permalink: /Capacitacion/ERP/procesosesp/links/
 editable: si
 ---

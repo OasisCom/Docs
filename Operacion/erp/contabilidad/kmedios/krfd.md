@@ -7,7 +7,7 @@ editable: si
 
 ## Formatos Detallados - KRFD
 
-En la aplicación KRFD - Formatos Detallados se valida la información generada al ejecutar anteriormente el proceso en [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md), dicha información es primordial verificarla, puesto que, se cruzará con el módulo de contabilidad para comprobar que esté correcta.
+En la aplicación KRFD - Formatos Detallados se valida la información generada al ejecutar anteriormente el proceso en [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf), dicha información es primordial verificarla, puesto que, se cruzará con el módulo de contabilidad para comprobar que esté correcta.  
 
 Se consulta ingresando el año de generación, número de formato y dando click en el botón  _Generar_ ![](actualizar.png).  
 
@@ -22,6 +22,27 @@ El sistema permite descargar la información del reporte en diferentes formatos 
 ![](KRFD3.png)
 
 
-Otra aplicación para validar que el proceso ejecutado en [**KPGF - Genera Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kproceso/kpgf.md) haya generado información es [**KRFO - Formatos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kmedios/krfo.md).
+Otra aplicación para validar que el proceso ejecutado en [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf) haya generado información es [**KRFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmedios/krfo).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

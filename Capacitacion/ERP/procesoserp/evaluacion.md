@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Capacitacion
-permalink: /Capacitacion/ERP/procesoerp/evaluacion/
+title: Curso Financiero
+permalink: /Capacitacion/ERP/procesoserp/evaluacion/
 editable: si
 ---
 
