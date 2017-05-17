@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 title: Movimientos de inventario
 permalink: /Operacion/scm/inventarios/imovimient/imov
