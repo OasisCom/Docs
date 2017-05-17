@@ -7,7 +7,7 @@ editable: si
 
 # Genera Ajustes - IFAJ
 
-La aplicación **IFAJ**, permite generar los ajustes correspondientes al inventario realizado de acuerdo con las diferencias encontradas anteriormente al ejecutar la aplicación [**IFCD - Calcula Diferencias**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/ifisico/ifcd.md). Estos ajustes son generados en estado _Activo_ en la aplicación [**IMOV - Movimiento de inventarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/imovimient/imov.md), por lo cual, deben ser procesados tanto las entradas por ajuste como las salidas según corresponda.  
+La aplicación **IFAJ**, permite generar los ajustes correspondientes al inventario realizado de acuerdo con las diferencias encontradas anteriormente al ejecutar la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd). Estos ajustes son generados en estado _Activo_ en la aplicación [**IMOV - Movimiento de inventarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/imovimient/imov.md), por lo cual, deben ser procesados tanto las entradas por ajuste como las salidas según corresponda.  
 
 Para la generación de este proceso se ingresará la fecha en la cual se realizó el inventario y la ubicación donde se encuentran los artículos inventariados.  
 
