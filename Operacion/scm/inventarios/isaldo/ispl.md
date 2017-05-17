@@ -29,6 +29,18 @@ Aplicación que permite la consulta de saldos periódicos por localización.
 **Salida:** Número de unidades que salen del inventario en un periodo.  
 **Saldo cantidad:** Cantidad existente de unidades de un producto en determinado periodo.  
 
+### Inventario Periódico
+
+La aplicación **ISPL** permite validar que el inventario haya sido ajustado correctamente, esto luego de haber procesado los documentos de entradas y salidas anteriormente en la aplicación [**IMOV - Movimientos de Inventarios**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov).  
+
+Podemos filtrar por periodo, año y ubicación para que el sistema nos arroje los productos a los cuales se les realizó inventario. Igualmente, si deseamos consultar los productos a los cuales se les realizaron documentos de ajustes en la aplicación [**IMOV - Movimientos de Inventarios**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov), ingresamos el código del producto en el campo _Producto_ y de ser necesario demás características que se asocien al mismo.  
+
+En este caso, consultaremos el producto _200225_ al cual se le realizó un documento de Salida de Inventario.  
+
+![](ispl2.png)
+
+En la imagen podemos observar en el campo _Anterior_ la cantidad de existencias del producto consultado que registraba el sistema, al realizar el inventario se indicó que de dicho producto solo se encontraban dos unidades, por lo tanto el sistema realizó el documento de Salida de Inventario por una unidad.  
+
 
 
 
