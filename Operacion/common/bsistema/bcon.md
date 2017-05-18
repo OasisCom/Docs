@@ -23,10 +23,10 @@ En la pestaña Motivos en el detalle, se asignan los distintos motivos por los c
 
 ![](bcon2.png)
 
-**Documento:** Documento con el cual se relaciona el concepto y por tal el motivo.  
-**Concepto:** Concepto registrado en el maestro al cual se le definirán los motivos.  
-**Motivo:** Número del motivo que será asignado al concepto. Motivo previamente parametrizado en **BMOT**.  
-**Nombre motivo:** Nombre asignado al motivo en **BMOT**.  
+**Documento:** documento con el cual se relaciona el concepto y por tal el motivo.  
+**Concepto:** concepto registrado en el maestro al cual se le definirán los motivos.  
+**Motivo:** número del motivo que será asignado al concepto. Motivo previamente parametrizado en **BMOT**.  
+**Nombre motivo:** nombre asignado al motivo en **BMOT**.  
 
 
 
