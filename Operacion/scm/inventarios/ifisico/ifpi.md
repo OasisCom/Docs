@@ -30,3 +30,7 @@ Ingresados los datos, damos click en el botón _Generar_ ![](actualizar.png) y e
 ![](ifpi2.png)
 
 Generado el anterior proceso, procederemos a realizar el inventario periódico en la aplicación [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis), para ello, el sistema cuenta con una planilla para conteo físico, la cual se puede descargar en la aplicación [**IRIF - Plantilla Para Conteo Físico**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/irif). En dicha planilla se podrán observar los productos a los cuales se les realizará inventario de acuerdo a los filtros de consulta, igualmente, cuenta con espacios para que los usuarios ingresen las cantidades de productos por cada uno.  
+
+
+## Inventario Cíclico
+
