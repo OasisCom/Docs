@@ -2034,7 +2034,7 @@
   url: /Desarrollo/
   subitems:
     - text: Reportes RDL
-      url: /Desarrollo/reporterdl.md
+      url: /Desarrollo/reporterdl
     - text: Integracion OasisCom
       url: /Desarrollo/Integracionoasiscom
 - text: Sitemap
