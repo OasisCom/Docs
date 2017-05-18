@@ -35,6 +35,9 @@ Generado el proceso en la aplicación  [**IFCD - Calcula Diferencias**](http://d
 Validadas las diferencias ingresaremos a la aplicación [**IFAJ - Genera Ajustes**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), en donde se generará el proceso para que el sistema realice los ajustes correspondientes al inventario, de acuerdo, a las diferencias encontradas anteriormente.  
 
 
+## Inventario Cíclico
+
+
 
 
 
