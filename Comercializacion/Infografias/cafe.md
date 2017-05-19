@@ -1,10 +1,19 @@
----
-layout: default
-title: Café
-permalink: /Comercializacion/infografias/cafe
-editable: si
----
-
-# CAFÉ
-
+---
+
+layout: default
+
+title: Café
+
+permalink: /Comercializacion/Infografias/cafe
+
+editable: si
+
+---
+
+
+
+# CAFÉ
+
+
+
 ![](cafe.png)
