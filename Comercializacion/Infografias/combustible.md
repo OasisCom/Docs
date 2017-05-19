@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combustible
-permalink: /Comercializacion/infografias/combustible/
+permalink: /Comercializacion/Infografias/combustible/
 editable: si
 ---
 
