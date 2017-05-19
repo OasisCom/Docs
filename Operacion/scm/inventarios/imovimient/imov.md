@@ -74,7 +74,7 @@ Se procesa el registro
 ![](imov6.png)
 
 
-## Inventario Periódico
+## Inventario Periódico e Inventario Cíclico
 
 En la aplicación **IMOV** se validarán los documentos de ajuste generados por la aplicación [**IFAJ - Genera Ajustes**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), estos deberán ser procesados con el fin de adecuar correctamente el inventario realizado.  
 
