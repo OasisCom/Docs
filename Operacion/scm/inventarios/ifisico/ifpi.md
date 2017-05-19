@@ -40,7 +40,7 @@ Para ejecutar el proceso de preparación de inventario cíclico ingresamos los s
 
 **Fecha:** ingresar el día anterior del cual se va a realizar el inventario cíclico.  
 **Ubicación:** ingresar o seleccionar del zoom la ubicación en la cual se encuentran los productos.  
-**Proceso:** seleccionar de la lista desplegable la opción _Cíclico_.
+**Proceso:** seleccionar de la lista desplegable la opción _Cíclico_.  
 **Tipo Producto:** seleccionar de la lista desplegable la opción _Terminado_.  
 **Ciclo:** ingresar el número del rango del cual se realizará inventario. Dicho número se parametrizó en aplicación  [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran) en el campo _Id Rango_.  
 
