@@ -8,7 +8,8 @@ editable: si
 # CURSO OPERATIVIDAD BÁSICA 1  
 
 
-En este curso, usted encontrará información general que le servirá para aprender a ingresar al sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
+En este curso, usted encontrará información sobre: Principios básicos (Registro en OasisCom, cambio de idioma, cambio de empresa, cambio de contraseña, salir de OasisCom, navegación del menú, módulos, acceso rápido a las opciones).  
+
 
 
 
