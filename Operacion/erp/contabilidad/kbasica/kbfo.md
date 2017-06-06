@@ -7,7 +7,7 @@ editable: si
 
 ## FORMATOS - KBFO
 
-### Medios Magnéticos
+### [**Medios Magnéticos**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md#medios-magnéticos)
 
 En la aplicación **KBFO** se realiza toda la parametrización correspondiente a los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN, entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.  
 
