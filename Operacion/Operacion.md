@@ -72,9 +72,21 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 
 ![](DOCUMENTACION.png)
 
+###Filtro de búsqueda
 
+El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.
 
+##### **Nemotécnico**
 
+![](filtro.png)
 
+##### **Nombre de la aplicación**
 
+![](filtro1.png)
+
+##### **Palabra clave**
+
+![](filtro2.png)
+
+Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.
 

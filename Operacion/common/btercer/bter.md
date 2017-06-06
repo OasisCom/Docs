@@ -18,6 +18,8 @@ Si la persona que se va a ingresar a la opción **BTER – Terceros**, es emplea
 
 ![](bter2.png)
 
+#### Parametrización Tipos de Precio
+
 
 
 
