@@ -78,7 +78,7 @@ Cuando ya se han parametrizado los formatos en la aplicación KBFO, el sistema O
 Para generar los formatos parametrizados en KBFO ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf).  
 
 
-### Formato 350 - Retención en la Fuente
+### [**Formato 350 - Retención en la Fuente**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/contabilidad/kbasica/kbfo.md#formato-350---retención-en-la-fuente)
 
 OasisCom permite generar el formato 350 de retención en la fuente para la DIAN, para ello se debe iniciar con la parametrización en la aplicación KBFO.  
 
