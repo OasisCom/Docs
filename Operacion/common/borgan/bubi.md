@@ -59,7 +59,7 @@ Si requerimos reservar o separar insumos para un proceso de producción con el f
 
 ## Parametrización Tipo de Precio
 
-En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) y [**JFAC - Facturas**]().  
+En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) y [**JVEN - Ventas Combustible**]().  
 
 En este caso se tendrá en cuenta el campo _Ubicación_ con filtro 1.  
 
