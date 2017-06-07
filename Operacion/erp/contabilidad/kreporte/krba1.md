@@ -11,7 +11,7 @@ editable: si
 
 La aplicación **KRBA1** arroja un reporte del balance general donde se comparan los valores del _Libro local_, las _Diferencias_ y su respectivo valor en _IFRS_.  
 
-El reporte permite filtrar por periodo inicial de consulta, periodo final, año y libro.  
+El reporte permite filtrar por periodo inicial de consulta, periodo final, año y libro contable.  
 
 
 ![](KRBA1.png)
