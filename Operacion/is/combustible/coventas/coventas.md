@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ventas
-permalink: /Operacion/is/combustible/cofactura/
+permalink: /Operacion/is/combustible/coventas/
 editable: si
 ---
 
