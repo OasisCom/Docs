@@ -40,9 +40,9 @@ Esta aplicación perimite realizar parametrización para diferentes procesos del
 
 Como se realiza la parametrización del producto es necesario parametrizar las bodegas correspondientes para el proceso de producción, en algunas empresas se tienen bodegas de materia prima y la planta de producción, por lo tanto, ingresaremos a la aplicación **BUBI** y diligenciamos nuestras bodegas, para esto debemos tener en cuenta lo siguiente:  
 
--	Ubicación: Id de la ubicación
--	Nombre de la ubicación: Por ejemplo, Bodega materia prima
--	Imputable: El flag se debe activar  
+**Ubicación:** Id de la ubicación.  
+**Nombre de la ubicación:** Por ejemplo, Bodega materia prima.  
+**Imputable:** El flag se debe activar  
 
 
 ![](bubi1.png)
@@ -50,16 +50,30 @@ Como se realiza la parametrización del producto es necesario parametrizar las b
 
 Si requerimos reservar o separar insumos para un proceso de producción con el fin que no se utilicen en algún otro proceso y tengamos asegurados esos insumos cuando vayamos a realizar el proceso, debemos tener en cuenta que en el **BUBI** en las ubicaciones que hemos parametrizado anteriormente debemos diligenciar lo siguiente:
 
--	Separada: Activar el flag
--	ApprovesOrder: Activar el flag
--	WMS: Activar el flag
--	DispatchType: Se debe diligenciar la letra D  
-
+**Separada:** Activar el flag.  
+**ApprovesOrder:** Activar el flag.  
+**WMS:** Activar el flag.  
+**DispatchType:** Se debe diligenciar la letra D.  
 
 ![](bubi2.png)
 
+## Parametrización Tipo de Precio
 
+En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones GFAC, JFAC y JVEN.  
 
+En este caso se tendrá en cuenta el campo _Ubicación_ con filtro 1.  
+
+![](bubi5.png)
+
+Campos _Punto de Vebnta, Pos, TypePriceDepend_.
+
+![](bubi6.png)
+
+Seguidamente, en el campo _Tipo de Precio_ seleccionaremos de la lista desplegable la opción correspendiente según el caso.  
+
+![](bubi7.png)
+
+Definido el Tipo de Precio, continuaremos a verificar dicha parametrización en cualquiera de las aplicaciones nombradas anteriormente GFAC, JFAC y JVEN.  
 
 
 

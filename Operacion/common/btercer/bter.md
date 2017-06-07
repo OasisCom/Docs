@@ -20,6 +20,10 @@ Si la persona que se va a ingresar a la opción **BTER – Terceros**, es emplea
 
 #### Parametrización Tipos de Precio
 
+Para realizar correctamente la parametrización, se debe asignar inicialmente el tipo de precio en la aplicación **BTER** en el campo _Tipo Precio_.  
 
+Seleccionamos el tercero, ingresamos el tipo de precio y damos click en el botón _Guardar_.  
 
+![](bter3.png)
 
+Seguidamente, nos dirigimos a la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) en donde continuaremos con la parametrización de Tipo de Precio.
