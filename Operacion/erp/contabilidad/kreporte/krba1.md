@@ -24,11 +24,11 @@ El reporte permite filtrar por periodo inicial de consulta, periodo final, año 
 
 Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png) y el sistema arrojará el reporte correspondiente.  
 
-![](KRBA11.png)
+![](krba11.png)
 
 OasisCom permite descargar el reporte en formatos Excel, PDF o Word con el fin de facilitar su análisis.  
 
-![](KRBA12.png)
+![](krba12.png)
 
 
 
