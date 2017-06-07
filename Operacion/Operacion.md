@@ -72,7 +72,7 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 
 ![](DOCUMENTACION.png)
 
-###Filtro de búsqueda
+### Filtro de búsqueda
 
 El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.
 
