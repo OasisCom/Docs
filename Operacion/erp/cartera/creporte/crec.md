@@ -19,7 +19,7 @@ Se realiza el filtro por año, periodo y cliente.
 
 ![](zoom.png)
 
-Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png) y el sistema arrojará el reporte.  
+Ingresados los datos damos click en el botón _Generar_ ![](ACTUALIZAR.png) y el sistema arrojará el reporte.  
 
 ![](crec2.png)
 
