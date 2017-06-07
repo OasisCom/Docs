@@ -73,7 +73,7 @@ Seguidamente, en el campo _Tipo de Precio_ seleccionaremos de la lista desplegab
 
 ![](bubi7.png)
 
-Definido el Tipo de Precio, continuaremos a verificar dicha parametrización en cualquiera de las aplicaciones nombradas anteriormente GFAC, JFAC y JVEN.  
+Definido el Tipo de Precio, continuaremos a verificar dicha parametrización en cualquiera de las aplicaciones nombradas anteriormente GFAC, JFAC y JVEN. Para este ejemplo consultaremos la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac).  
 
 
 
