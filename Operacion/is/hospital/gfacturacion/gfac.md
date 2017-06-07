@@ -20,5 +20,3 @@ Si se cambia la ubicación por la parametrizada en la opción [**BUBI - Ubicacio
 
 ![](gfac1.png)
 
-_**Nota:**_ Si los campos  _Punto de Venta_, _Pos_ y _TypePriceDepend_  no están debidamente parametrizados como se describió anteriormente, el sistema retornará el tipo de precio parametrizado en la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
-

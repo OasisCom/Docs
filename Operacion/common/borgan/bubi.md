@@ -59,7 +59,7 @@ Si requerimos reservar o separar insumos para un proceso de producción con el f
 
 ## Parametrización Tipo de Precio
 
-En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) y [**JVEN - Ventas Combustible**]().  
+En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) y [**JVEN - Ventas Combustible**](/Operacion/is/combustible/cofactura/jven).  
 
 En este caso se tendrá en cuenta el campo _Ubicación_ con filtro 1.  
 
@@ -72,6 +72,9 @@ Campos _Punto de Vebnta, Pos, TypePriceDepend_.
 Seguidamente, en el campo _Tipo de Precio_ seleccionaremos de la lista desplegable la opción correspendiente según el caso.  
 
 ![](bubi7.png)
+
+_**Nota:**_ Si los campos  _Punto de Venta_, _Pos_ y _TypePriceDepend_  no están debidamente parametrizados como se describió anteriormente, el sistema retornará el tipo de precio parametrizado en la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
+
 
 Definido el Tipo de Precio, continuaremos a verificar dicha parametrización en cualquiera de las aplicaciones nombradas anteriormente _GFAC, JFAC_ y _JVEN_. Para este ejemplo consultaremos la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac).  
 
