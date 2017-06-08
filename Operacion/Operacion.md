@@ -97,12 +97,17 @@ El botón de _Consultas Dinámicas_ se puede observar en diferentes aplicaciones
 Este botón nos permite realizar consultas detalladas sobre el registro seleccionado, se debe seleccionar el registro y dar click en el botón de _consulta dinámica_ y el sistema arrojará un recuadro con la consulta de algunos campos. Para validar algunos ejemplos remitirse a las siguientes aplicaciones [**COPR - Pedidos Retenidos**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas), [**VPED - Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas) y [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#consultas-dinámicas).
 
 
+## [Traducción de Login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#Traducción-de-Login-de-acuerdo-al-navegador)
+
+De acuerdo al idioma que se tenga definido en el navegador de preferencia, al ingresar a OasisCom se mostrará la página de inicio con el idioma correspondiente.  
+
+Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Español_, _Inglés_ o _Portugués_, el sistema tomará por defecto el idioma _Inglés_.  
 
 
+### Mozilla Firefox
 
+![](mozilla.png)
 
+![](mozilla1.png)
 
-
-
-
-
+![](mozilla2.png)
