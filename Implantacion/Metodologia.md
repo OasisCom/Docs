@@ -17,9 +17,9 @@ OasisCom define esta metodología dado que está establecida para proyectos comp
 
 Dentro de las etapas de implementación se tienen contempladas:  
 
-* **Alcance:** Se realiza la reunión de inicio del proyecto para delimitar el alcance del mismo junto con el cliente, realizar la presentación inicial en donde se explica la metodología a utilizar, los riesgos comunes en los proyectos y un cronograma base. De igual manera se definen las variables relevantes que pueden afectar el proyecto, cómo lo son: disponibilidad de los recursos, comunicación entre el cliente y Oasis, definición de frecuencia de reuniones de seguimiento, entre otros.
+* **Alcance:** Se realiza la reunión de inicio del proyecto para delimitar el alcance del mismo junto con el cliente, realizar la presentación inicial en donde se explica la metodología a utilizar, los riesgos comunes en los proyectos y un cronograma base. De igual manera se definen las variables relevantes que pueden afectar el proyecto, cómo lo son: disponibilidad de los recursos, comunicación entre el cliente y Oasis, definición de frecuencia de reuniones de seguimiento, entre otros.  
 
- En esta etapa se realiza la planeación del proyecto, establecer equipos de trabajo,  definición de riesgos y cronograma con fechas establecidas por ambas partes.  
+	En esta etapa se realiza la planeación del proyecto, establecer equipos de trabajo,  definición de riesgos y cronograma con fechas establecidas por ambas partes.  
 
 * **Project Backlog:** El alcance definido anteriormente se desglosará en productos, módulos o procesos del sistema OasisCom, los cuales nos definirán los entregables para el cliente.  
 
