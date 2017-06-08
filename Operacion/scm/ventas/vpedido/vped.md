@@ -70,7 +70,7 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **Bodega:** Bodega de donde proviene el producto.  
 **Fecha Entrega:** Fecha de entrega del pedido.  
 
-## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped/#consultas-dinámicas)
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
 
 Realización de una consulta dinámica en la aplicación _VPED - Pedidos_.  
 
