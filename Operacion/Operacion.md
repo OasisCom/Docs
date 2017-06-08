@@ -7,7 +7,7 @@ editable: si
 
 # OPERACION
 
-### Menú
+## Menú
 
 OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el nombre del usuario.  
 
@@ -89,4 +89,6 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 ![](filtro2.png)
 
 Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
+
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/Consultasdinámicas)
 
