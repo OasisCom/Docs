@@ -106,29 +106,3 @@ Para envíar el caso de soporte es necesario leer y aceptar los términos y cond
 Finalmente, damos click en el botón ![](submit.png) y el caso será creado, el sistema arrojará el número asignado al caso con el cual se podrá realizar seguimiento en la aplicación [**ASEG - Monitoring Cases**](http://docs.oasiscom.com/Operacion/System/sacceso/aseg).
 
 ![](numerodecaso.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
