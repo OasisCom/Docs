@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implantacion
+title: Metodología
 permalink: /Implantacion/Metodologia/
 editable: si
 ---
