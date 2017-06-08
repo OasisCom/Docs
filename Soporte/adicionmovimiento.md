@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soporte
+title: Adición de Movimiento
 permalink: /soporte/adicionmovimiento
 editable: si
 ---
