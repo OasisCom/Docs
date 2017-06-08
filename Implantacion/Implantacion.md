@@ -5,5 +5,4 @@ permalink: /Implantacion/
 editable: si
 ---
 
-# IMPLANTACION
-
+# IMPLANTACIÓN
