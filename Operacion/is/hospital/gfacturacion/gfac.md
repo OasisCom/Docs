@@ -20,3 +20,8 @@ Si se cambia la ubicación por la parametrizada en la opción [**BUBI - Ubicacio
 
 ![](gfac1.png)
 
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac/#consultas-dinámicas)
+
+Realización de una consulta dinámica en la aplicación _GFAC - Facturas_.  
+
+![](gfac2.png)
