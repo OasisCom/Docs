@@ -90,5 +90,5 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 
 Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
 
-## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/Operacion.md#consultas-dinámicas)
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-dinámicas)
 
