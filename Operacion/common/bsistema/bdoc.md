@@ -127,5 +127,5 @@ Diligenciados los campos anteriores, damos click en el botón _Guardar_ ubicado 
 
 Finalmente, han sido parametrizados en BDOC los documentos SA y EN con su respetivo concepto. Para continuar con la ejecución del inventario periódico, ingresaremos a la aplicación [**IFPI - Prepara Inventario Diario**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/ifisico/ifpi.md)
 
-
+doc
 
