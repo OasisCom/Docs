@@ -28,5 +28,14 @@ Realizada esta parametrización se podrá proceder a realizar la carga o descarg
 
 ## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#Control-de-acceso-a-la-aplicación-por-turnos)
 
-Se validará unos horarios en los que un usuario puede realizar sus actividades dentro del sistema.
+Se validarán unos horarios en los que un usuario puede realizar sus actividades dentro del sistema.  
 
+Para esto se debe tener las siguientes parametrizaciones:  
+
+En la aplicación **SROL** se creó el campo _Turno_, el cual definirá si se controlará la validación de los turnos.  
+
+Como se puede observar en la siguiente imagen, el campo _Turno_ está activo, esto nos indica que para los usuarios que tengan asociado este rol se les debe realizar la validación de los horarios para que pueda usar la aplicación.  
+
+![](srol3.png)
+
+Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**]()
