@@ -58,4 +58,4 @@ En el detalle de la aplicación se encuentra el campo _TurnId_ que indica cual e
 
 ![](ncnt10.png)
 
-Para los turnos rotativos, es necesario realizar la programación que se explica en la aplicación [**NPRT - Rotación de Turnos**]()
+Para los turnos rotativos, es necesario realizar la programación que se explica en la aplicación [**NPRT - Rotación de Turnos**](http://docs.oasiscom.com//Operacion/hrm/asistencia/nasistenci/nprt)
