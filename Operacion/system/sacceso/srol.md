@@ -38,4 +38,6 @@ Como se puede observar en la siguiente imagen, el campo _Turno_ está activo, es
 
 ![](srol3.png)
 
-Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**]()
+Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu).
+
+
