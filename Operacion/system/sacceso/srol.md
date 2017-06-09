@@ -8,13 +8,13 @@ editable: si
 
 ### Parametrización XML
 
-En la aplicación SROL se deben asignar los permisos correspondientes para visualizar la publicación parametrizada anteriormente en [**BPUB - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md), esto con el fin de posteriormente descargar el formato ya parametrizado o cargarlo al sistema en caso tal que el proceso que se esté realizando sea de operación _Upload_ Subir.  
+En la aplicación SROL se deben asignar los permisos correspondientes para visualizar la publicación parametrizada anteriormente en [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub), esto con el fin de posteriormente descargar el formato ya parametrizado o cargarlo al sistema en caso tal que el proceso que se esté realizando sea de operación _Upload_ Subir.  
 
 Inicialmente, en el maestro se debe consultar el rol al que hace parte como usuario en el campo _Rol_. Una vez identificado el rol, se debe dirigir a la pestaña del detalle _Publicaciones_.
 
 ![](SROL1.png)
 
-En esta pestaña del detalle, se debe agregar la publicación previamente parametrizada en la aplicación [**BPUB - Publicaciones**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bpub.md). Agregamos un nuevo renglón y diligenciamos los campos.
+En esta pestaña del detalle, se debe agregar la publicación previamente parametrizada en la aplicación [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub). Agregamos un nuevo renglón y diligenciamos los campos.
 
 ![](SROL2.png)
 
@@ -24,7 +24,7 @@ En esta pestaña del detalle, se debe agregar la publicación previamente parame
 
 **Nombre Publicación:** al ingresar el número de la publicación, el sistema arrojará el nombre automáticamente.  
 
-Realizada esta parametrización se podrá proceder a realizar la carga o descarga del archivo desde la aplicación [**BINT - Interfaces**](https://github.com/OasisCom/Docs/blob/master/Operacion/utility/barchi/bint.md).  
+Realizada esta parametrización se podrá proceder a realizar la carga o descarga del archivo desde la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint).  
 
 ## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#Control-de-acceso-a-la-aplicación-por-turnos)
 
@@ -38,6 +38,6 @@ Como se puede observar en la siguiente imagen, el campo _Turno_ está activo, es
 
 ![](srol3.png)
 
-Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu).
+Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu#Control-de-acceso-a-la-aplicación-por-turnos).
 
 

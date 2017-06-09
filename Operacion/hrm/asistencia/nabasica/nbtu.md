@@ -15,7 +15,7 @@ En el detalle de esta opción se deben incluir los días de la semana con su res
 
 ![](nbtu.png)
 
-A continuación, ingresaremos a la aplicación [**NCNT - Contratos de Nómina**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu#Control-de-acceso-a-la-aplicación-por-turnos) en donde se definirá el turno por defecto del empleado.  
+A continuación, ingresaremos a la aplicación [**NCNT - Contratos de Nómina**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#Control-de-acceso-a-la-aplicación-por-turnos) en donde se definirá el turno por defecto del empleado.  
 
 
 
