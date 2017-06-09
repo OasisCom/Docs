@@ -26,7 +26,7 @@ En esta pestaña del detalle, se debe agregar la publicación previamente parame
 
 Realizada esta parametrización se podrá proceder a realizar la carga o descarga del archivo desde la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint).  
 
-## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#Control-de-acceso-a-la-aplicación-por-turnos)
+## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#control-de-acceso-a-la-aplicacion-por-turnos)
 
 Se validarán unos horarios en los que un usuario puede realizar sus actividades dentro del sistema.  
 
