@@ -36,7 +36,7 @@ La pestaña Cajas en el detalle, permite registrar las diferentes cajas que util
 
 Esta aplicación perimite realizar parametrización para diferentes procesos del sistema OasisCom, cómo lo son los bancos para el módulo de tesorería, las cajas para el módulo de punto de venta, las bodegas para el proceso de producción entre otros. Por lo tanto, se realizará una explicación de esta aplicación para los procesos que interfieran con la misma y una general de la explicación de los campos.  
 
-## Producción
+## [Producción](http://docs.oasiscom.com/Operacion/common/borgan/bubi#producci%C3%B3n)
 
 Como se realiza la parametrización del producto es necesario parametrizar las bodegas correspondientes para el proceso de producción, en algunas empresas se tienen bodegas de materia prima y la planta de producción, por lo tanto, ingresaremos a la aplicación **BUBI** y diligenciamos nuestras bodegas, para esto debemos tener en cuenta lo siguiente:  
 
@@ -57,7 +57,7 @@ Si requerimos reservar o separar insumos para un proceso de producción con el f
 
 ![](bubi2.png)
 
-## Parametrización Tipo de Precio
+## [Parametrización Tipo de Precio](http://docs.oasiscom.com/Operacion/common/borgan/bubi#parametrizaci%C3%B3n-tipo-de-precio)
 
 En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) y [**JVEN - Ventas Combustible**](/Operacion/is/combustible/cofactura/jven).  
 
