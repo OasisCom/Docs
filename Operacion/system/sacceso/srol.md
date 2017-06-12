@@ -4,9 +4,9 @@ title: Roles
 permalink: /Operacion/system/sacceso/srol
 editable: si
 ---
-## Roles - SROL
+# Roles - SROL
 
-### Parametrización XML
+## [Parametrización XML](http://docs.oasiscom.com/Operacion/system/sacceso/srol#parametrizaci%C3%B3n-xml)
 
 En la aplicación SROL se deben asignar los permisos correspondientes para visualizar la publicación parametrizada anteriormente en [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub), esto con el fin de posteriormente descargar el formato ya parametrizado o cargarlo al sistema en caso tal que el proceso que se esté realizando sea de operación _Upload_ Subir.  
 
@@ -26,7 +26,7 @@ En esta pestaña del detalle, se debe agregar la publicación previamente parame
 
 Realizada esta parametrización se podrá proceder a realizar la carga o descarga del archivo desde la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint).  
 
-## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#control-de-acceso-a-la-aplicacion-por-turnos)
+## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)
 
 Se validarán unos horarios en los que un usuario puede realizar sus actividades dentro del sistema.  
 
@@ -38,6 +38,6 @@ Como se puede observar en la siguiente imagen, el campo _Turno_ está activo, es
 
 ![](srol3.png)
 
-Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu#Control-de-acceso-a-la-aplicación-por-turnos).
+Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos).
 
 
