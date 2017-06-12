@@ -24,7 +24,7 @@ Guardamos los datos ingresados en el maestro. En el detalle se deben diligenciar
 
 ![](ncnt3.png)
 
-***Cargo:** dar doble clic y seleccionar del Zoom el cargo que ocupará el nuevo empleado.  
+**Cargo:** dar doble clic y seleccionar del Zoom el cargo que ocupará el nuevo empleado.  
 
 ![](ncnt4.png)
 
