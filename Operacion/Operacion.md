@@ -7,7 +7,7 @@ editable: si
 
 # OPERACION
 
-## [Menú](http://docs.oasiscom.com/Operacion/#Menú)
+## [Menú](http://docs.oasiscom.com/Operacion/#Men%C3%BA)
 
 OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el nombre del usuario.  
 
@@ -60,7 +60,7 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 
 ![](DOCUMENTACION.png)
 
-## [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-búsqueda)
+## [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-b%C3%BAsqueda)
 
 El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.  
 
@@ -78,14 +78,14 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 
 Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
 
-## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-dinámicas)
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)
 
 El botón de _Consultas Dinámicas_ se puede observar en diferentes aplicaciones, este se encuentra en la parte superior o maestro, la apariencia del botón puede variar de acuerdo a las aplicaciones, se puede visualizar así ![](boton1.png) o ![](boton2.png).  
 
 Este botón nos permite realizar consultas detalladas sobre el registro seleccionado, se debe seleccionar el registro y dar click en el botón de _consulta dinámica_ y el sistema arrojará un recuadro con la consulta de algunos campos. Para validar algunos ejemplos remitirse a las siguientes aplicaciones [**COPR - Pedidos Retenidos**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas), [**VPED - Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas) y [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#consultas-dinámicas).
 
 
-## [Traducción de Login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#Traducción-de-Login-de-acuerdo-al-navegador)
+## [Traducción de Login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#Traducci%C3%B3n-de-Login-de-acuerdo-al-navegador)
 
 De acuerdo al idioma que se tenga definido en el navegador de preferencia, al ingresar a OasisCom se mostrará la página de inicio con el idioma correspondiente.  
 
