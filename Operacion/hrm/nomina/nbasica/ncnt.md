@@ -50,7 +50,7 @@ Guardamos los datos ingresados en el maestro. En el detalle se deben diligenciar
 Se recomienda que los primeros campos sean modificados mediante novedades y no de forma manual, existen novedades de retiro que automáticamente cambian en la opción **NCNT – Contratos de nómina** el estado del empleado, el tipo de nómina y la fecha de terminación. La ubicación actual también puede ser modificada mediante una novedad de traslado al igual que el sueldo con una novedad de variación de salario.  
 
 
-## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt.md#control-de-acceso-a-la-aplicación-por-turnos)
+## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)
 
 En la aplicación _NCNT_ se definirá el turno por defecto que tendrá el empleado.  
 
