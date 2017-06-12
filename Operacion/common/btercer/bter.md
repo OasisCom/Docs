@@ -18,7 +18,7 @@ Si la persona que se va a ingresar a la opción **BTER – Terceros**, es emplea
 
 ![](bter2.png)
 
-### Parametrización Tipos de Precio
+### [Parametrización Tipos de Precio](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizacion-tipos-de-precio)
 
 Para realizar correctamente la parametrización, se debe asignar inicialmente el tipo de precio en la aplicación **BTER** en el campo _Tipo Precio_.  
 
