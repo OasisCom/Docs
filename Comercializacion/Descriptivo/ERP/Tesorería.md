@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/Descriptivo/ERP/Tesoreria/
+permalink: /Comercializacion/Descriptivo/ERP/Tesorería/
 editable: si
 ---
 
