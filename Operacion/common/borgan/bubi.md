@@ -65,7 +65,7 @@ En este caso se tendrá en cuenta el campo _Ubicación_ con filtro 1.
 
 ![](bubi5.png)
 
-Campos _Punto de Vebnta, Pos, TypePriceDepend_.
+Campos _Punto de Venta, Pos, TypePriceDepend_.
 
 ![](bubi6.png)
 
