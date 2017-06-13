@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adición de Movimiento
-permalink: /soporte/adicionmovimiento
+permalink: /Soporte/adicionmovimiento
 editable: si
 ---
 
