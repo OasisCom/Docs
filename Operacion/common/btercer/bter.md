@@ -28,7 +28,7 @@ Seleccionamos el tercero, ingresamos el tipo de precio y damos click en el botó
 
 Seguidamente, nos dirigimos a la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) en donde continuaremos con la parametrización de Tipo de Precio.  
 
-## [Parametrización de Terceros]()
+## [Parametrización de Terceros para la Liquidación de Comisiones]()
 
 Para designar un _tipo de comisión_ a un tercero o cliente, se realiza desde la aplicación **BTER - Terceros**:  
 
