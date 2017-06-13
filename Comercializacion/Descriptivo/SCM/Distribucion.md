@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/SCM/Distribucion/
+permalink: /Comercializacion/Descriptivo/SCM/Distribucion/
 editable: si
 ---
 
