@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/Industria/Salud/
+permalink: /Comercializacion/Descriptivo/Industria/Salud/
 editable: si
 ---
 
