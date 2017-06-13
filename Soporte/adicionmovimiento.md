@@ -5,9 +5,9 @@ permalink: /Soporte/adicionmovimientopord
 editable: si
 ---
 
-# PORD - Adición de Movimiento
+## PORD - Adición de Movimiento
 
-## Órdenes de Pago (PORD): Adicionando Movimiento, restricción de integridad
+### Órdenes de Pago (PORD): Adicionando Movimiento, restricción de integridad
 
 ![](pord1.png)
 
