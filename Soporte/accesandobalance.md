@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accesando Balance
-permalink: /soporte/accestercero/accesandobalance
+permalink: /Soporte/accesandobalance
 editable: si
 ---
 
