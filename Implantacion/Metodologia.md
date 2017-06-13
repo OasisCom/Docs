@@ -7,7 +7,7 @@ editable: si
 
 # METODOLOGÍA
 
-![](implementacion.png)
+![](../implementacion.png)
 
 La implementación se realiza con base a los principios básicos de la metodología SCRUM, en la cual se definen prioridades de los ítems que abarcan el alcance del proyecto establecido inicialmente y se realizan entregas tempranas y continuas de los diferentes ítems. De igual manera nos permite tener un seguimiento semanal con el cliente del cronograma y un seguimiento diario al interior de nuestra organización de cada una de las actividades planeadas por cada recurso. Es por esto, que con dicha metodología logramos el éxito del proyecto, enfocándonos en la prioridad de los procesos que beneficie al cliente.  
 
