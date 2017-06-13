@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/Industria/Cafe/
+permalink: /Comercializacion/Descriptivo/Industria/Cafe/
 editable: si
 ---
 
