@@ -18,7 +18,7 @@ Si la persona que se va a ingresar a la opción **BTER – Terceros**, es emplea
 
 ![](bter2.png)
 
-### [Parametrización Tipos de Precio](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizacion-tipos-de-precio)
+## [Parametrización Tipos de Precio](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizacion-tipos-de-precio)
 
 Para realizar correctamente la parametrización, se debe asignar inicialmente el tipo de precio en la aplicación **BTER** en el campo _Tipo Precio_.  
 
@@ -27,3 +27,22 @@ Seleccionamos el tercero, ingresamos el tipo de precio y damos click en el botó
 ![](bter3.png)
 
 Seguidamente, nos dirigimos a la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) en donde continuaremos con la parametrización de Tipo de Precio.  
+
+## [Parametrización de Terceros]()
+
+Para designar un _tipo de comisión_ a un tercero o cliente, se realiza desde la aplicación **BTER - Terceros**:  
+
+Se consulta el tercero correspondiente y se ingresa a la pestaña _Ventas_ del detalle:  
+
+![](liqcomision10.png)
+
+En el campo _**PlanComission**_, se deberá ingresar el Id del tipo de comisión correspondiente, los cuales fueron parametrizados en la opción [**FBPC - Tipos de Comisión**](http://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbpc):
+
+![](liqcomision11.png)
+
+
+
+
+
+
+
