@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metodología
-permalink: /Implantacion/Metodologia/
+permalink: /Implantacion/Metodologia
 editable: si
 ---
 
