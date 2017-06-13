@@ -40,7 +40,9 @@ En el campo _**PlanComission**_, se deberá ingresar el Id del tipo de comisión
 
 ![](liqcomision11.png)
 
-Realizada la parametrización correspondiente de los terceros y los Tipos de comisión en la aplicación [**FBPC - Tipos de Comisión**](), continuaremos a ejecutar el proceso especial en la aplicación 
+Realizada la parametrización correspondiente de los terceros y de los tipos de comisión en la aplicación [**FBPC - Tipos de Comisión**](http://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbpc), continuaremos a ejecutar el proceso especial de liquidación de comisiones en la aplicación [**FCLI - Liquidación de Comisiones**](http://docs.oasiscom.com/Operacion/scm/facturacion/fcomision/fcli).
+
+
 
 
 
