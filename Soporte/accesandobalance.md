@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Accesando Balance
-permalink: /soporte/accestercero/accesandobalance
+title: TMOV - Accesando balance
+permalink: /Soporte/accesandobalancetmov
 editable: si
 ---
 
