@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Adición de Movimiento
-permalink: /Soporte/adicionmovimiento
+title: PORD - Adición de movimiento, restricción integridad
+permalink: /Soporte/adicionmovimientopord
 editable: si
 ---
 
-# Adición de Movimiento
+# PORD - Adición de Movimiento
 
 ## Órdenes de Pago (PORD): Adicionando Movimiento, restricción de integridad
 
