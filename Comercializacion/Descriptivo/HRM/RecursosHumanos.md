@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/HRM/RRHH/
+permalink: /Comercializacion/Descriptivo/HRM/RecursosHumanos/
 editable: si
 ---
 
