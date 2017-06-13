@@ -2020,16 +2020,10 @@
 - text: Soporte
   url: /Soporte/
   subitems:
-    - text: Accesando Cuenta
-      url: /Soporte/accescuenta
-    - text: Accesando Tercero
-      url: /Soporte/accestercero
-    - text: Accesando Consecutivo
-      url: /Soporte/accesconsec
-    - text: Balance Insuficiente
-      url: /Soporte/balanceins
-    - text: Opcion no Creada
-      url: /Soporte/opcionnocre
+    - text: TMOV - Accesando balance
+      url: /Soporte/accesandobalancetmov
+    - text: PORD - Adición de movimiento, restricción integridad
+      url: /Soporte/adicionmovimientopord
 - text: Desarrollo
   url: /Desarrollo/
   subitems:
