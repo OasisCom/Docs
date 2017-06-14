@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Producción
-permalink: /Comercializacion/Descriptivo/MRP/Producción
+permalink: /Comercializacion/Descriptivo/MRP/Produccion
 editable: si
 ---
 
