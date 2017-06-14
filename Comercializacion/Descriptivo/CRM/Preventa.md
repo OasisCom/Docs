@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preventa
-permalink: /Comercializacion/Descriptivo/CRM/preventa
+permalink: /Comercializacion/Descriptivo/CRM/Preventa
 editable: si
 ---
 

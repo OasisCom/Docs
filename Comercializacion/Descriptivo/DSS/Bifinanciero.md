@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/DSS/Bifinanciero/
+permalink: /Comercializacion/Descriptivo/DSS/Bifinanciero/
 editable: si
 ---
 

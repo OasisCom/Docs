@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Servicio
-permalink: /Comercializacion/Descriptivo/CRM/servicio
+permalink: /Comercializacion/Descriptivo/CRM/Servicio
 editable: si
 ---
 

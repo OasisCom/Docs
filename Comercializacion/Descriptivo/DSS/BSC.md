@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BSC Cuadro de Mando Integral
-permalink: /Comercializacion/descriptivo/DSS/BSC/
+permalink: /Comercializacion/Descriptivo/DSS/BSC/
 editable: si
 ---
 
