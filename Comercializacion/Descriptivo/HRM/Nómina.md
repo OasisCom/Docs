@@ -83,6 +83,7 @@ Este módulo al igual que los otros, es completamente flexibles y parametrizable
 
 ![](nomina.png)
 
+
 ### Autoliquidaciones
 
 * Permite la elaboración de las autoliquidaciones a las diferentes entidades externas que tengan relación con la empresa.  
