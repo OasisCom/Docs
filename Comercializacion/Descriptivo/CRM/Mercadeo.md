@@ -1,14 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/CRM/Mercadeo/
-editable: si
----
-
-# MERCADEO
-=======
 title: Mercadeo
-permalink: /Comercializacion/Descriptivo/CRM/mercadeo
+permalink: /Comercializacion/Descriptivo/CRM/Mercadeo/
 editable: si
 ---
 
@@ -59,5 +52,4 @@ Este módulo permite registrar información estadística que se obtiene de las d
 ### Reportes
 
 Permite elaborar una serie de reportes estándar sobre la operación del módulo de mercadeo. Algunos de estos son el resumen de Campañas publicitarias, el indicador de eficiencia, la ejecución presupuestal de gastos de publicidad, la posición de la empresa con respecto a la competencia, etc.  
->>>>>>> 34d168739a71d9bbf1d9022b5a23b797460798b7
 
