@@ -51,7 +51,7 @@ Definición de prioridades de despacho, temporadas, productos por canal, product
 
 * Para las cotizaciones es posible efectuar un seguimiento mediante contactos telefónicos o visitas, lo que permite obtener una estadística de efectividad de las cotizaciones e información del mercado, siendo este procedimiento ágil y la fuente para evaluar la labor de la empresa.  
 
-![](ventas.png)
+![](ventas.jpg)
 
 ### Pedidos
 
@@ -142,7 +142,7 @@ Sus funciones clave incluyen:
 
 * Permite el control de la ejecución del presupuesto de acuerdo a los parámetros de verificación establecidos (diario, semanal, mensual).
 
-![](presupuesto.png)
+![](presupuesto.jpg)
 
 ### Consultas
 

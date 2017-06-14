@@ -95,7 +95,7 @@ El módulo cuenta con algunas características adicionales que le permitirán co
 
 * Obedece a la Ley de Pareto, la cual aconseja tener un control más estricto sobre aquellas referencias o códigos que representen el mayor valor.
 
-![](inventarios.png)
+![](inventarios.jpg)
 
 ### Niveles de Stock
 
