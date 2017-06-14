@@ -94,15 +94,119 @@ Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con fil
 
 Ventas esta completamente integrada con OASIS ERP. Esta integración significa que los datos de diversas áreas como inventarios, cartera, entre otras, quedan completamente integrados al sistema, sin tener que duplicar la información o realizar entradas duplicadas de la misma.  Esto permite el control de todas las áreas del proceso contable.  
 
+# Presupuesto de Ventas
+
+El buen empresario debe planear en forma inteligente tanto sus ingresos y gastos como sus   operaciones con el objeto de obtener utilidades, las cuales se logran de manera más eficiente si se coordinan o relacionan sistemáticamente todas las actividades de la empresa.  
+
+El sistema permite crear el presupuesto de ventas de acuerdo a datos históricos, permitiendo la definición de ingresos por ventas de contado y ventas a crédito para el flujo de caja.  
+
+Este módulo facilita no sólo el cálculo de cifras, es un sistema integral donde se presta particular atención a la fijación de unos objetivos con base en los cuales se planifican y controlan las diferentes actividades que puede realizar una administración.  Así mismo permite la planeación de la producción, asegurando una perfecta planificación de compras, la cual origina los desembolsos necesarios en el flujo de caja.  
+
+En general el sistema permite un cómputo anticipado de los costos e ingresos para una adecuada gestión de la empresa.  
+
+Sus funciones clave incluyen:
+
+* Puede crear y mantener presupuesto de venta para artículos estándar, nuevos y configurados. 
+* Los presupuestos pueden ser opcionales. 
+* Se mantiene un histórico que le ayuda a analizar su rentabilidad y tasa de éxito sobre sus competidores. 
+* Para un mejor control y seguimiento de las ofertas se pueden agrupar por tipos para su posterior análisis, pudiéndose establecer un control jerárquico de aprobación. 
 
 
+#### Presupuesto de ventas en detalle
 
+* Integración con todos los módulos de OASIS ERP
+* Manejo de consecutivo general o por oficina.
+* Filtros personalizables para consultar solo la información de interés.
+* El usuario final no necesita memorizar el Plan de Cuentas Contables.
+* Creación de ofertas a clientes o a clientes potenciales 
+* Control de las fechas de validez de la oferta 
+* Los presupuestos se pueden dirigir tanto a clientes habituales como a clientes potenciales. 
+* Exportación de datos a Excel.
 
+### Parametrización del módulo
 
+* Permite la parametrización de los conceptos que afectan el presupuesto de ventas, definiendo para cada uno la operación que se ejecutara en el presupuesto, reserva y en ejecutado (sumo o resta)
+* Definición de los porcentajes de cantidad, valor y bonificaciones por unidad de negocio. 
+* Definición de los porcentajes de cantidad y valor para cada canal por unidad de negocio.
+* Definición de los porcentajes de cantidad y valor para cada canal por unidad de negocio para cada marca por canal
+* Parametrización de el porcentaje de cantidad y valor que debe alcanzar cada empresa, en caso de que la organización sea multiempresa.
+* Definición de los porcentajes de cantidad y valor para cada colección por punto venta
+* Definición de la marca para cada producto. 
+* Definición de los porcentajes de cantidad y valor para cada colección y marca por vendedor de acuerdo al canal.
 
+### Presupuesto de ventas
 
+* Esta aplicación permite la elaboración, ejecución y control del presupuesto de ventas.  
 
+* Permite la elaboración del presupuesto partiendo de los datos históricos de ventas. Se pueden estimar las ventas por clasificaciones de productos, por productos, por cliente, por punto de venta, o de acuerdo a lo definido en la parametrización del modulo. Luego del proceso de generación, el presupuesto puede ser ajustado de acuerdo a las decisiones de la empresa.  
 
+* Permite el control de la ejecución del presupuesto de acuerdo a los parámetros de verificación establecidos (diario, semanal, mensual).
 
+![](presupuesto.png)
+
+### Consultas
+
+Ágil consulta de:
+
+* Presupuesto de Ventas Diarias por Empresa
+* Presupuesto de Ventas Diarias por Punto de Venta
+* Presupuesto de Ventas Diarias por Producto
+* Presupuesto de Ventas Diarias por Punto de Venta-Producto
+* Presupuesto de Ventas Empresa
+* Presupuesto de Ventas Producto
+* Presupuesto de Ventas Zona
+* Presupuesto de Ventas Zona - Producto
+* Presupuesto de Ventas Vendedor
+* Presupuesto de Ventas Vendedor-Producto
+* Presupuesto de Ventas Vendedor - Clasificación
+* Presupuesto de Ventas Vendedor - Marca
+* Presupuesto de Ventas Canal
+* Presupuesto de Ventas Canal - Producto
+* Presupuesto de Ventas Canal - Clasificación
+* Presupuesto de Ventas Canal - Marca
+* Presupuesto de Ventas Cliente
+* Presupuesto de Ventas Cliente - Clasificación
+* Presupuesto de Ventas Cliente - Producto
+* Presupuesto de Ventas Clasificación
+* Presupuesto de Ventas Punto de Venta
+* Presupuesto de Ventas Punto de Venta - Producto
+* Presupuesto de Ventas Dirección
+* Presupuesto de Ventas Punto Venta - Clasificación
+* Presupuesto de Ventas Vendedor - Colección
+* Presupuesto de Ventas Punto Venta – Colección
+
+Es posible personalizar el contenido de las consultas del sistema para visualizar la información que sea de mayor interés a la empresa.  
+
+### Reportes
+
+Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con filtros y ordenamiento dinámico.  
+
+* Presupuesto de Ventas por Ciudad
+* Presupuesto de Ventas por Segmento
+* Presupuesto de Ventas por Colección
+* Presupuesto de Ventas por Marca
+* Presupuesto de Ventas por Canal - Zona
+* Presupuesto de Ventas por Canal - Marca
+* Presupuesto de Ventas por Canal - Producto
+* Presupuesto de Ventas por Canal - Genérico
+* Presupuesto de Ventas por Canal - Marca - Genérico
+* Presupuesto de Ventas por Canal - Clasificación
+* Presupuesto de Ventas por Canal por Ciclo
+* Presupuesto de Ventas por Cliente por Ciclo
+* Presupuesto de Ventas por Producto por Ciclo
+* Presupuesto de Ventas por Empresa por Ciclo
+* Presupuesto de Ventas por Vendedor - Producto por Ciclo
+* Presupuesto de Ventas por Vendedor - Producto
+* Presupuesto de Ventas por Punto Venta - Producto
+* Presupuesto de Ventas por Punto Venta - Genérico
+* Presupuesto de Ventas por Genérico por Ciclo
+* Presupuesto de Ventas por Canal - Producto por Ciclo
+* Presupuesto de Ventas por Presupuesto Vendedor
+* Presupuesto de Ventas Diario
+* Presupuesto de Ventas por Marca
+* Presupuesto de Ventas Diario por Ubicación
+* Presupuesto de Ventas Diario por Canal
+
+Presupuesto de Ventas está completamente integrada con OASIS ERP. Esta integración significa que los datos de diversas áreas como ventas, facturación, entre otras, quedan completamente integrados al sistema, sin tener que duplicar la información o realizar entradas duplicadas de la misma.  Esto permite el control de todas las áreas del proceso contable.
 
 

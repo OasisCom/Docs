@@ -80,6 +80,8 @@ En cada punto de venta el sistema:
 
 * El sistema dentro de su esquema de seguridad, valida la caja asignada por medio de una palabra clave y el nombre del usuario, para establecer los datos referentes al punto de venta, caja, fecha y hora de operación.  
 
+![](POS.png)
+
 
 ### Consultas
 
