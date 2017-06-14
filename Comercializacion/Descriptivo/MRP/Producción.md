@@ -18,6 +18,12 @@ Su objetivo es el control de los procesos y recursos de las empresas dedicadas a
 
 * El módulo ha sido desarrollado siguiendo la filosofía MRP II, con algunos conceptos de Justo a Tiempo (JIT).  
 
+
+**Macroproceso**
+
+![](produccion.jpg)
+
+
 ### Datos Básicos
 
 Este módulo está orientado a definir una serie de datos básicos o parámetros necesarios antes de iniciar la operación del módulo de producción. Tales datos se relacionan con la definición de Rutas, Estaciones, Líneas de Producción, Actividades, Tipos de Pruebas, etc.  
