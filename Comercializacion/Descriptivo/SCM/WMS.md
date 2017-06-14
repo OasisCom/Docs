@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/SCM/WMS/
+permalink: /Comercializacion/Descriptivo/SCM/WMS/
 editable: si
 ---
 
