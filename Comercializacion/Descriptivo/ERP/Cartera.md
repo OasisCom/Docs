@@ -62,6 +62,8 @@ Este módulo ofrece variedad de opciones y funciones, entre ellas:
 * Muestra todos los documentos por cliente y los conceptos de movimiento incluidos en cada uno.  
 * Permite la consulta de los saldos mensuales por cliente.  
 
+![](cartera.png)
+
 
 ### Movimientos
 

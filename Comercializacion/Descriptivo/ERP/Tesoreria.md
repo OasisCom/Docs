@@ -82,6 +82,9 @@ El módulo también agiliza muchas funciones que de otra manera presentarían de
 
 * Ejecuta el cruce con cartera o con cuentas por pagar de las cuentas que se están cancelando con el movimiento.  
 
+![](tesoreria.png)
+
+
 ### Conciliación
 
 * Facilita la elaboración de la conciliación bancaria (cruce de bancos contra libros).  
