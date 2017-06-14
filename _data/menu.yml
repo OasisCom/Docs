@@ -1825,7 +1825,7 @@
               url: /Comercializacion/Descriptivo/MRP/Costos
             - text: Mantenimiento
               url: /Comercializacion/Descriptivo/MRP/Mantenimiento
-        - text: Cecisiones
+        - text: Decisiones
           url: /Comercializacion/Descriptivo/DSS/
           subitems:
             - text: BI Financiero
