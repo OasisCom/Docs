@@ -16,7 +16,8 @@ Su objetivo es mantener la información referente al mercado y que es importante
 * Mantiene la información relacionada con la publicidad que efectúa la empresa, en los diferentes medios y sus duraciones, para permitir el análisis de su efectividad.  
 
 * Registra las empresas que son competencia, con sus correspondientes productos, precios, campañas de publicidad y plaza que atienden, con el objetivo de determinar la posición de la empresa frente a esta.  
-
+  
+  
 
 ![](mercadeo.jpg)
 
