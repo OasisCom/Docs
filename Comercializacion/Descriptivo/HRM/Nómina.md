@@ -81,7 +81,7 @@ Este módulo al igual que los otros, es completamente flexibles y parametrizable
 
 * Permite observar el acumulado de retención de impuesto a la renta practicado a cada uno de los empleados y de los aportes hechos al seguro social.  
 
-![](nomina.png)
+![](nomina.jpg)
 
 
 ### Autoliquidaciones
