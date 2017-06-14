@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comercializacion
+title: Recursos Humanos
 permalink: /Comercializacion/Descriptivo/HRM/RecursosHumanos/
 editable: si
 ---
