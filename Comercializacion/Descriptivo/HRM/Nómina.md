@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Nómina
-permalink: /Comercializacion/Descriptivo/HRM/Nómina/
+permalink: /Comercializacion/Descriptivo/HRM/Nomina/
 editable: si
 ---
 
-# Nómina
+# NÓMINA
 
 Nómina es una solución que administra los pagos, bonificaciones y retenciones de la empresa o por ley que se genera a los empleados.  
 
