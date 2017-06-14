@@ -63,7 +63,7 @@ Las principales características de este módulo corresponden a:
 
 * Parametriza los precios por volumen, definiendo el tipo de precio, producto, fecha de vigencia, cantidad inicial y final y el precio.
 
-![](facturacion.png)
+![](facturacion.jpg)
 
 ### Facturas
 

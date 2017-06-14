@@ -64,7 +64,7 @@ El módulo de compras cuenta con algunas características adicionales que le per
 
 * Define los criterios de evaluación con el valor porcentual que a cada criterio le es asignado.
 
-![](compras.png)
+![](compras.jpg)
 
 ### Precios
 
