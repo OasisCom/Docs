@@ -86,3 +86,62 @@ Permite el registro y control de los precios de compra ofrecidos por cada uno de
 * El sistema automatiza la escogencia de proveedores si tiene la información necesaria  dejando un registro de la persona aprobadora y el proveedor escogido.
 
 * Permite la calificación de acuerdo a los parámetros establecidos (precios, tiempo de entrega, calidad, soporte).  Al hacer la aprobación de la compra genera la orden de compra o el contrato en el caso que el requerimiento así lo indique.
+
+### Ordenes de compra
+
+* Esta aplicación permite la generación y registro de las órdenes de compra. La orden de compra es el documento con el cual se notifica al proveedor las condiciones del  pedido, tales como descuentos, tiempos de entrega y las cantidades y precios de los productos solicitados.
+
+* Realiza la liquidación correspondiente para su posterior control con las entradas por compra.
+
+* Permite observar las órdenes de compra pendientes por recibir.
+
+### Contratos
+
+* Registra los contratos de servicios u obras que tenga la empresa. Por ejemplo: contratos de vigilancia, aseo, mantenimiento o arrendamiento. Así mismo registra los contratos por servicios profesionales, por obras de inversión, entre otros. En las empresas del estado hace interfaz directa con el módulo de presupuesto oficial para hacer los compromisos en las partidas presupuéstales, objetos del gasto y meses acordados con el contratista de fechas de pago y de control de ejecución.  
+
+* En esta opción es posible observar el contratista, objeto del contrato, la duración, los valores totales, los otro si, ejecutados, pagados, retenciones, pendientes y demás figuras del presupuesto oficial.  
+
+### Facturas
+
+* Tiene como objeto el registro de las facturas de compra. La factura es el documento con el cual se finiquita la compra. Controla las existencias recibidas en inventario, y cruza los precios con los acordados en la orden de compra.
+
+* De la misma forma permite la confirmación de los servicios recibidos por contratos hechos entra la entidad y proveedores.
+
+* Si la condición de pago es a crédito elabora la cuenta por pagar. De la misma forma si es pagada al contado, actualiza el estado de la caja o cuenta bancaria que hace el desembolso.
+
+### Consultas
+
+Ágil consulta de:
+
+* Consulta de Facturas
+* Movimiento Contable
+* Resumen de Compras
+* Ordenes Pendientes por Recibo
+* Consulta de Ordenes
+* Requerimientos Pendientes
+
+Es posible personalizar el contenido de las consultas del sistema para visualizar la información que sea de mayor interés a la empresa.
+
+### Reportes
+
+Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con filtros y ordenamiento dinámico.
+
+* Consulta de Ordenes
+* Informe de cotizaciones
+* Compras por Proveedor
+* Compras por Producto
+* Etiquetas
+* Facturación Anual de compras
+* Facturación Resumida de compras
+* Movimiento Contable
+* Ordenes  Pendientes por Genérico
+* Ordenes Pendientes
+* Ordenes  Pendientes por Producto
+* Movimiento diario de proveedores
+* Resumen de Compras
+* Informe de requerimientos
+* Tiempos de Compra
+* Tiempos de Entrega
+
+Compras esta completamente integrada con OASIS ERP. Esta integración significa que los datos de diversas áreas como contabilidad, activos fijos, inventarios, entre otras, quedan completamente integrados al sistema, sin tener que duplicar la información o realizar entradas duplicadas de la misma.  Esto permite el control de todas las áreas del proceso contable.
+
