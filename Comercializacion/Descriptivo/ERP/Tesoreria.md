@@ -149,3 +149,62 @@ Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con fil
 Tesorería está completamente integrada con OASIS ERP. Esta integración significa que los datos de diversas áreas como contabilidad, cartera y cuentas por pagar entre otras, quedan completamente integrados al sistema, sin tener que duplicar la información o realizar entradas duplicadas de la misma.  Esto permite el control de todas las áreas del proceso contable.  
 
 
+# Presupuesto de Tesorería - Flujo de Caja
+
+El presupuesto de tesorería es una herramienta flexible mediante la cual podremos ejercer control presupuestario sobre la tesorería real.  
+
+También nos servirá de soporte provisional para mantener actualizada la tesorería a medio plazo.  
+
+El módulo también agiliza muchas funciones que de otra manera presentarían demoras en todo el proceso.  Entre ellas se pueden destacar:  
+
+* Facilita la elaboración, ejecución y control del cumplimiento del presupuesto de tesorería más conocido como el flujo de fondos (cash flow).
+
+* De acuerdo a los estimativos de ventas al contado, más los estimativos de recaudo de cartera se tienen el flujo de ingresos esperado. 
+
+* De la misma forma de acuerdo a las compras y consumos se tienen parte de los egresos, los cuales son complementados con los estimativos de nómina, impuestos, administración, datos que son conocidos históricamente por el flujo de egresos de la empresa.
+
+#### Presupuesto de Tesorería en detalle
+
+* Integración con todos los módulos de OASIS ERP
+* Manejo de consecutivo general o por oficina.
+* Filtros personalizables para consultar solo la información de interés.
+* El usuario final no necesita memorizar el Plan de Cuentas Contables.
+* Control de cuentas y movimientos
+* Control de centros de costos
+* Manejo de múltiples monedas
+* Movimientos
+* Exportación de datos a Excel
+
+### Parametrización del módulo
+
+* Permite la parametrización de los conceptos que afectan el presupuesto de tesorería, definiendo para cada uno la operación que se ejecutara en el presupuesto y en el ejecutado (sumo o resta).  
+
+* Parametrización de cada cuenta contable y el porcentaje que se le atribuye a la cuenta en el presupuesto.  
+
+### Movimientos
+
+* Permite la elaboración, ejecución y control de los movimientos que afectan el presupuesto contable.  
+
+* Está integrado con el módulo de Tesorería en el cual reportan los movimientos de tesorería, base del presupuesto de tesorería.  
+  
+  
+  
+![](tesoreria2.jpg)
+
+### Consultas
+
+Ágil consulta de:
+
+* Flujo de Fondos
+* Detalle de flujo
+
+Es posible personalizar el contenido de las consultas del sistema para visualizar la información que sea de mayor interés a la empresa.  
+
+Presupuesto de Tesorería esta completamente integrada con OASIS ERP. Esta integración significa que los datos de diversas áreas como tesorería entre otras, quedan completamente integrados al sistema, sin tener que duplicar la información o realizar entradas duplicadas de la misma.  Esto permite el control de todas las áreas del proceso contable.  
+
+
+
+
+
+
+
