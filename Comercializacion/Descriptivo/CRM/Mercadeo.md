@@ -1,8 +1,10 @@
 ---
+
 layout: default
 title: Mercadeo
-permalink: /Comercializacion/Descriptivo/CRM/Mercadeo
+permalink: /Comercializacion/Descriptivo/CRM/Mecadeo
 editable: si
+
 ---
 
 # Mercadeo
