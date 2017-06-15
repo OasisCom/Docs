@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comercializacion
-permalink: /Comercializacion/descriptivo/DSS/Bicomercial/
+permalink: /Comercializacion/Descriptivo/DSS/Bicomercial/
 editable: si
 ---
 

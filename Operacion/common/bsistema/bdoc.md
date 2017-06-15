@@ -5,7 +5,7 @@ permalink: /Operacion/common/bsistema/bdoc
 editable: si
 ---
 
-## Documentos - BDOC
+## BDOC - Documentos
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
@@ -125,7 +125,4 @@ Dejar los demás campos vacios o en 0 según corresponda.
 
 Diligenciados los campos anteriores, damos click en el botón _Guardar_ ubicado en la barra de herramientas del detalle.  
 
-Finalmente, han sido parametrizados en BDOC los documentos SA y EN con su respetivo concepto. Para continuar con la ejecución del inventario periódico, ingresaremos a la aplicación [**IFPI - Prepara Inventario Diario**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/ifisico/ifpi.md)
-
-
-
+Finalmente, han sido parametrizados en BDOC los documentos SA y EN con su respetivo concepto. Para continuar con la ejecución del inventario periódico, ingresaremos a la aplicación [**IFPI - Prepara Inventario Diario**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/ifisico/ifpi.md).  

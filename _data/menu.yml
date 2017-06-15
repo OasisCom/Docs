@@ -1762,89 +1762,89 @@
   url: /Comercializacion/
   subitems:
     - text: Descriptivos
-      url: /Comercializacion/descriptivo/
+      url: /Comercializacion/Descriptivo/
       subitems:
         - text: Financiero
-          url: /Comercializacion/descriptivo/ERP/
+          url: /Comercializacion/Descriptivo/ERP/
           subitems:
             - text: Contabilidad
-              url: /Comercializacion/descriptivo/ERP/Contabilidad
+              url: /Comercializacion/Descriptivo/ERP/Contabilidad
             - text: Tesoreria
-              url: /Comercializacion/descriptivo/ERP/Tesoreria
+              url: /Comercializacion/Descriptivo/ERP/Tesoreria
             - text: Cartera
-              url: /Comercializacion/descriptivo/ERP/Cartera
+              url: /Comercializacion/Descriptivo/ERP/Cartera
             - text: Cuentas por Pagar
-              url: /Comercializacion/descriptivo/ERP/Cuentas
+              url: /Comercializacion/Descriptivo/ERP/Cuentas
             - text: Activos Fijos
-              url: /Comercializacion/descriptivo/ERP/Activos
+              url: /Comercializacion/Descriptivo/ERP/Activos
         - text: Logistico
-          url: /Comercializacion/descriptivo/SCM/
+          url: /Comercializacion/Descriptivo/SCM/
           subitems:
             - text: Ventas
-              url: /Comercializacion/descriptivo/SCM/Ventas
+              url: /Comercializacion/Descriptivo/SCM/Ventas
             - text: Facturacion
-              url: /Comercializacion/descriptivo/SCM/Facturacion
+              url: /Comercializacion/Descriptivo/SCM/Facturacion
             - text: Punto de Venta
-              url: /Comercializacion/descriptivo/SCM/POS
+              url: /Comercializacion/Descriptivo/SCM/POS
             - text: Compras
-              url: /Comercializacion/descriptivo/SCM/Compras
+              url: /Comercializacion/Descriptivo/SCM/Compras
             - text: Inventarios
-              url: /Comercializacion/descriptivo/SCM/Inventarios
+              url: /Comercializacion/Descriptivo/SCM/Inventarios
             - text: Bodega WMS
-              url: /Comercializacion/descriptivo/SCM/WMS
+              url: /Comercializacion/Descriptivo/SCM/WMS
             - text: Importaciones
-              url: /Comercializacion/descriptivo/SCM/Importaciones
+              url: /Comercializacion/Descriptivo/SCM/Importaciones
             - text: Distribucion
-              url: /Comercializacion/descriptivo/SCM/Distribucion
+              url: /Comercializacion/Descriptivo/SCM/Distribucion
         - text: Recursos Humanos
-          url: /Comercializacion/descriptivo/HRM/
+          url: /Comercializacion/Descriptivo/HRM/
           subitems:
             - text: Nomina
-              url: /Comercializacion/descriptivo/HRM/Nomina
+              url: /Comercializacion/Descriptivo/HRM/Nomina
             - text: Recursos Humanos
-              url: /Comercializacion/descriptivo/HRM/RRHH
+              url: /Comercializacion/Descriptivo/HRM/RRHH
         - text: Clientes
-          url: /Comercializacion/descriptivo/CRM/
+          url: /Comercializacion/Descriptivo/CRM/
           subitems:
             - text: Ventas CRM
-              url: /Comercializacion/descriptivo/CRM/VentasCRM
+              url: /Comercializacion/Descriptivo/CRM/VentasCRM
             - text: Mecadeo
-              url: /Comercializacion/descriptivo/CRM/Mecadeo
+              url: /Comercializacion/Descriptivo/CRM/Mecadeo
             - text: Proyectos
-              url: /Comercializacion/descriptivo/CRM/Proyectos
+              url: /Comercializacion/Descriptivo/CRM/Proyectos
             - text: Portales
-              url: /Comercializacion/descriptivo/CRM/Portales
+              url: /Comercializacion/Descriptivo/CRM/Portales
         - text: Manufactura
-          url: /Comercializacion/descriptivo/MRP/
+          url: /Comercializacion/Descriptivo/MRP/
           subitems:
             - text: Produccion
-              url: /Comercializacion/descriptivo/MRP/Produccion
+              url: /Comercializacion/Descriptivo/MRP/Produccion
             - text: Control
-              url: /Comercializacion/descriptivo/MRP/Control
+              url: /Comercializacion/Descriptivo/MRP/Control
             - text: Costos
-              url: /Comercializacion/descriptivo/MRP/Costos
+              url: /Comercializacion/Descriptivo/MRP/Costos
             - text: Mantenimiento
-              url: /Comercializacion/descriptivo/MRP/Mantenimiento
-        - text: Cecisiones
-          url: /Comercializacion/descriptivo/DSS/
+              url: /Comercializacion/Descriptivo/MRP/Mantenimiento
+        - text: Decisiones
+          url: /Comercializacion/Descriptivo/DSS/
           subitems:
             - text: BI Financiero
-              url: /Comercializacion/descriptivo/DSS/Bifinanciero
+              url: /Comercializacion/Descriptivo/DSS/Bifinanciero
             - text: BI Comercial
-              url: /Comercializacion/descriptivo/DSS/Bicomercial
+              url: /Comercializacion/Descriptivo/DSS/Bicomercial
             - text: BI Clientes
-              url: /Comercializacion/descriptivo/DSS/Biclientes
+              url: /Comercializacion/Descriptivo/DSS/Biclientes
         - text: Soluciones Industria
-          url: /Comercializacion/descriptivo/Industria/
+          url: /Comercializacion/Descriptivo/Industria/
           subitems:
             - text: Salud
-              url: /Comercializacion/descriptivo/Industria/Salud
+              url: /Comercializacion/Descriptivo/Industria/Salud
             - text: Hospital
-              url: /Comercializacion/descriptivo/Industria/Hospital
+              url: /Comercializacion/Descriptivo/Industria/Hospital
             - text: Cafe
-              url: /Comercializacion/descriptivo/Industria/Cafe
+              url: /Comercializacion/Descriptivo/Industria/Cafe
             - text: Transporte
-              url: /Comercializacion/descriptivo/Industria/Transporte
+              url: /Comercializacion/Descriptivo/Industria/Transporte
     - text: Infografias
       url: /Comercializacion/infografias/
       subitems:
@@ -2020,16 +2020,10 @@
 - text: Soporte
   url: /Soporte/
   subitems:
-    - text: Accesando Cuenta
-      url: /Soporte/accescuenta
-    - text: Accesando Tercero
-      url: /Soporte/accestercero
-    - text: Accesando Consecutivo
-      url: /Soporte/accesconsec
-    - text: Balance Insuficiente
-      url: /Soporte/balanceins
-    - text: Opcion no Creada
-      url: /Soporte/opcionnocre
+    - text: TMOV - Accesando balance
+      url: /Soporte/accesandobalancetmov
+    - text: PORD - Adición de movimiento, restricción integridad
+      url: /Soporte/adicionmovimientopord
 - text: Desarrollo
   url: /Desarrollo/
   subitems:

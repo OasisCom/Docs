@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Producción
-permalink: /Comercializacion/Descriptivo/MRP/Producción
+permalink: /Comercializacion/Descriptivo/MRP/Produccion
 editable: si
 ---
 
@@ -17,6 +17,12 @@ Su objetivo es el control de los procesos y recursos de las empresas dedicadas a
 * Produce las entregas de producto terminado hacia el módulo de inventarios, llevando un control de los productos entregados y los faltantes por orden de producción.  
 
 * El módulo ha sido desarrollado siguiendo la filosofía MRP II, con algunos conceptos de Justo a Tiempo (JIT).  
+
+
+**Macroproceso**
+
+![](produccion.jpg)
+
 
 ### Datos Básicos
 

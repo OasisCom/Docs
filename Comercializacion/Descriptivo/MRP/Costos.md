@@ -18,7 +18,12 @@ Su objetivo general es determinar los costos globales o unitarios de los product
 * Permite discriminar el costo de un producto clasificado por tipo de recurso (mano de obra directa y maquinaría y materias primas).
 
 En general el módulo de costos es el eje de la planeación y control empresarial como apoyo general para cuantificar cifras y datos de producción, así como sirve de soporte para el análisis de rentabilidad del producto.  
+  
 
+![](costos.jpg)
+
+  
+  
 ### Datos básicos
 
 Este módulo está orientado a definir una serie de datos básicos o parámetros necesarios antes de iniciar la operación de costos. Estos están relacionados con la definición de los diferentes conceptos de costos con la asociación de las cuentas contables, los niveles de distribución de costos indirectos, etc.  

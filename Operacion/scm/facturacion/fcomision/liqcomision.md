@@ -1,13 +1,8 @@
 ---
-
 layout: default
-
 title: Operacion
-
 permalink: /Operacion/scm/facturacion/fcomision/
-
 editable: si
-
 ---
 
 # LIQUIDACIÓN DE COMISIONES

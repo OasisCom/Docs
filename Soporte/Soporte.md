@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soporte
-permalink: /soporte/
+permalink: /Soporte/
 editable: si
 ---
 

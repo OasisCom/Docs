@@ -5,9 +5,9 @@ permalink: /Operacion/scm/ventas/vpedido/vped
 editable: si
 ---
 
-# Pedidos - VPED
+# VPED - Pedidos
 
-Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa. Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.
+Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa. Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
 ![](vped1.png)
@@ -70,3 +70,8 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **Bodega:** Bodega de donde proviene el producto.  
 **Fecha Entrega:** Fecha de entrega del pedido.  
 
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
+
+Realización de una consulta dinámica en la aplicación _VPED - Pedidos_.  
+
+![](vped7.png)

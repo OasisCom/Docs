@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cartera
-permalink: /Comercializacion/descriptivo/ERP/Cartera/
+permalink: /Comercializacion/Descriptivo/ERP/Cartera/
 editable: si
 ---
 
@@ -61,6 +61,9 @@ Este módulo ofrece variedad de opciones y funciones, entre ellas:
 * Muestra el detalle de los documentos pendientes por cancelar.  
 * Muestra todos los documentos por cliente y los conceptos de movimiento incluidos en cada uno.  
 * Permite la consulta de los saldos mensuales por cliente.  
+
+
+![](cartera.jpg)
 
 
 ### Movimientos

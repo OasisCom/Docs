@@ -36,13 +36,13 @@ La pestaña Cajas en el detalle, permite registrar las diferentes cajas que util
 
 Esta aplicación perimite realizar parametrización para diferentes procesos del sistema OasisCom, cómo lo son los bancos para el módulo de tesorería, las cajas para el módulo de punto de venta, las bodegas para el proceso de producción entre otros. Por lo tanto, se realizará una explicación de esta aplicación para los procesos que interfieran con la misma y una general de la explicación de los campos.  
 
-## Producción
+## [Producción](http://docs.oasiscom.com/Operacion/common/borgan/bubi#producci%C3%B3n)
 
 Como se realiza la parametrización del producto es necesario parametrizar las bodegas correspondientes para el proceso de producción, en algunas empresas se tienen bodegas de materia prima y la planta de producción, por lo tanto, ingresaremos a la aplicación **BUBI** y diligenciamos nuestras bodegas, para esto debemos tener en cuenta lo siguiente:  
 
--	Ubicación: Id de la ubicación
--	Nombre de la ubicación: Por ejemplo, Bodega materia prima
--	Imputable: El flag se debe activar  
+**Ubicación:** Id de la ubicación.  
+**Nombre de la ubicación:** Por ejemplo, Bodega materia prima.  
+**Imputable:** El flag se debe activar  
 
 
 ![](bubi1.png)
@@ -50,16 +50,33 @@ Como se realiza la parametrización del producto es necesario parametrizar las b
 
 Si requerimos reservar o separar insumos para un proceso de producción con el fin que no se utilicen en algún otro proceso y tengamos asegurados esos insumos cuando vayamos a realizar el proceso, debemos tener en cuenta que en el **BUBI** en las ubicaciones que hemos parametrizado anteriormente debemos diligenciar lo siguiente:
 
--	Separada: Activar el flag
--	ApprovesOrder: Activar el flag
--	WMS: Activar el flag
--	DispatchType: Se debe diligenciar la letra D  
-
+**Separada:** Activar el flag.  
+**ApprovesOrder:** Activar el flag.  
+**WMS:** Activar el flag.  
+**DispatchType:** Se debe diligenciar la letra D.  
 
 ![](bubi2.png)
 
+## [Parametrización Tipo de Precio](http://docs.oasiscom.com/Operacion/common/borgan/bubi#parametrizaci%C3%B3n-tipo-de-precio)
+
+En la aplicación **BUBI** se debe tener en cuenta que para la ubicación seleccionada, si los campos _Punto de Venta_ y _Pos_ estan activos y el campo _TypePriceDepend_ tiene seleccionada la opción **UBICACIÓN**, retornará el tipo de precio parametrizado en esta aplicación (BUBI) en las aplicaciones [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) y [**JVEN - Ventas Combustible**](/Operacion/is/combustible/cofactura/jven).  
+
+En este caso se tendrá en cuenta el campo _Ubicación_ con filtro 1.  
+
+![](bubi5.png)
+
+Campos _Punto de Venta, Pos, TypePriceDepend_.
+
+![](bubi6.png)
+
+Seguidamente, en el campo _Tipo de Precio_ seleccionaremos de la lista desplegable la opción correspendiente según el caso.  
+
+![](bubi7.png)
+
+_**Nota:**_ Si los campos  _Punto de Venta_, _Pos_ y _TypePriceDepend_  no están debidamente parametrizados como se describió anteriormente, el sistema retornará el tipo de precio parametrizado en la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
 
 
+Definido el Tipo de Precio, continuaremos a verificar dicha parametrización en cualquiera de las aplicaciones nombradas anteriormente _GFAC, JFAC_ y _JVEN_. Para este ejemplo consultaremos la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac).  
 
 
 
