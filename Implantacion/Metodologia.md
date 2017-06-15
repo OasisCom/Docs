@@ -5,7 +5,7 @@ permalink: /Implantacion/Metodologia
 editable: si
 ---
 
-# METODOLOGÍA 11
+# METODOLOGÍA
 
 ![](implementacion.png)
 
