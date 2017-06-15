@@ -1858,7 +1858,7 @@
   url: /Implantacion/
   subitems:
     - text: Metodologia
-      url: /Implantacion/Metodologia/
+      url: /Implantacion/Metodologia
     - text: Como Configurar una Empresa en OasisCom
       url: /Implantacion/Configempresa
 - text: Capacitacion
