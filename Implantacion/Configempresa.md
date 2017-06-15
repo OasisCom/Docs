@@ -65,7 +65,7 @@ Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requi
 	* [**Auxiliar de Cuentas por Pagar - PRAU**](http://docs.oasiscom.com/Operacion/erp/cuentas/preporte/prau)
 	* [**Saldos y Movimientos Diarios - TRSD**](http://docs.oasiscom.com/Operacion/erp/tesoreria/treporte/trsd)
 
-En caso de tener alguna duda, por favor validar la documentación que se encuentra en el siguiente link http://docs.oasiscom.com/ y los videos que se encuentran en youtube en el canal OasisCom https://www.youtube.com/channel/UCLbpSkccBSHPqXBVCOY3Seg
+En caso de tener alguna duda, por favor validar la documentación que se encuentra en el siguiente link [http://docs.oasiscom.com/](http://docs.oasiscom.com/) y los videos que se encuentran en youtube en el canal OasisCom [https://www.youtube.com/channel/UCLbpSkccBSHPqXBVCOY3Seg](https://www.youtube.com/channel/UCLbpSkccBSHPqXBVCOY3Seg).
 
 Muchas gracias por utilizar nuestro sistema!!
 
