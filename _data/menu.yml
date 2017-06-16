@@ -1846,14 +1846,14 @@
             - text: Transporte
               url: /Comercializacion/Descriptivo/Industria/Transporte
     - text: Infografias
-      url: /Comercializacion/infografias/
+      url: /Comercializacion/Infografias/
       subitems:
         - text: Transporte
-          url: /Comercializacion/infografias/Transporte
+          url: /Comercializacion/Infografias/Transporte
         - text: Cafe
-          url: /Comercializacion/infografias/cafe
+          url: /Comercializacion/Infografias/cafe
         - text: Combustible
-          url: /Comercializacion/infografias/combustible
+          url: /Comercializacion/Infografias/combustible
 - text: Implantacion
   url: /Implantacion/
   subitems:
