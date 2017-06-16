@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inventarios
-permalink: /Comercializacion/Descriptivo/SCM/Inventarios/
+permalink: /Comercializacion/Descriptivo/SCM/Inventarios
 editable: si
 ---
 
