@@ -63,7 +63,7 @@ Este módulo ofrece variedad de opciones y funciones, entre ellas:
 * Permite la consulta de los saldos mensuales por cliente.  
 
 
-![](cartera.jpg)
+![](cartera1.jpg)
 
 
 ### Movimientos
