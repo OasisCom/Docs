@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Café
-permalink: /Comercializacion/infografias/cafe
+permalink: /Comercializacion/Infografias/cafe
 editable: si
 ---
 
