@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Compras
-permalink: /Comercializacion/Descriptivo/SCM/Compras/
+permalink: /Comercializacion/Descriptivo/SCM/Compras
 editable: si
 ---
 
