@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transporte
-permalink: /Comercializacion/infografias/transporte
+permalink: /Comercializacion/Infografias/transporte
 editable: si
 ---
 
