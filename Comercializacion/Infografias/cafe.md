@@ -7,6 +7,4 @@ editable: si
 
 # CAFÉ
 
-algo
-
 ![](cafe.png)
