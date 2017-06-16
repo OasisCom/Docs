@@ -9,24 +9,24 @@ editable: si
 
 Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requieren para que usted pueda iniciar su empresa en el sistema OasisCom versión free.  
 
-1. Realizar el auto registro en OasisCom cómo se puede observar en el siguiente video: **Autoregistro - https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s**.
+1. Realizar el auto registro en OasisCom cómo se puede observar en el siguiente video: [Autoregistro - https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s](https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s).
 
 	Se debe tener en cuenta que una vez realizado el auto registro se debe enviar un correo a info@oasiscom.com especificando el nombre del usuario creado, el nit de la empresa y la razón social de la empresa. Posteriormente, recibirá un correo de bienvenida al sistema OasisCom en el cual ya queda el usuario registrado a su empresa.  
 
 	Para conocer la operación básica del sistema, cómo lo es crear un movimiento, eliminar, modificar entre otros, por favor visualizar los videos a continuación.
 
-	* **Operatividad Básica 2 - https://www.youtube.com/watch?v=olTkOobSuQM&t=6s**
+	* [Operatividad Básica 2 - https://www.youtube.com/watch?v=olTkOobSuQM&t=6s] (https://www.youtube.com/watch?v=olTkOobSuQM&t=6s)
 
 
-2. Validar el PUC en la aplicación de [**Cuentas Contables - BCUE**](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue) con el fin de homologar sus cuentas al PUC Comercial el cual se encuentra registrado en el sistema. Por favor visualizar el video a continuación en donde se explica el funcionamiento de esta aplicación. **BCUE - https://www.youtube.com/watch?v=we2Kmmrugss&t=1s**.
+2. Validar el PUC en la aplicación de [**Cuentas Contables - BCUE**](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue) con el fin de homologar sus cuentas al PUC Comercial el cual se encuentra registrado en el sistema. Por favor visualizar el video a continuación en donde se explica el funcionamiento de esta aplicación. [BCUE - https://www.youtube.com/watch?v=we2Kmmrugss&t=1s](https://www.youtube.com/watch?v=we2Kmmrugss&t=1s).
 
-3. Crear los terceros: Para realizar este paso se debe ingresar a la aplicación de [**Terceros - BTER**](http://docs.oasiscom.com/Operacion/common/btercer/bter) en donde se registran todos los terceros, ya sean clientes o proveedores con sus respectivas caracteristicas como lo son dirección, teléfono, contacto entre otros. Por favor visualizar el video a continuación en donde se explica cómo crear los terceros. **BTER - https://www.youtube.com/watch?v=BdvI6Ud6bOE&t=5s**.
+3. Crear los terceros: Para realizar este paso se debe ingresar a la aplicación de [**Terceros - BTER**](http://docs.oasiscom.com/Operacion/common/btercer/bter) en donde se registran todos los terceros, ya sean clientes o proveedores con sus respectivas caracteristicas como lo son dirección, teléfono, contacto entre otros. Por favor visualizar el video a continuación en donde se explica cómo crear los terceros. [BTER - https://www.youtube.com/watch?v=BdvI6Ud6bOE&t=5s](https://www.youtube.com/watch?v=BdvI6Ud6bOE&t=5s).
 
 4. Cargar balance inicial: Para realizar el cargue de esta información se debe ingresar a la aplicación de [**Movimientos de contabilidad - KMOV**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov) y realizar el registro del balance inicial de acuerdo a las cuentas del PUC validado en el punto 2, en caso de no tener balance inicial iniciar operación en los siguientes pasos.  
 
-	Para conocer cómo cargar el documento de balance inicial, visualice el video a continuación: **KMOV - https://www.youtube.com/watch?v=ZasdBBSRrCo&t=9s**.
+	Para conocer cómo cargar el documento de balance inicial, visualice el video a continuación: [KMOV - https://www.youtube.com/watch?v=ZasdBBSRrCo&t=9s](https://www.youtube.com/watch?v=ZasdBBSRrCo&t=9s).
 
-5. Iniciar operación en el módulo de cartera en donde se registrarán los movimientos correspondientes. A continuación se relaciona el video del módulo **CMOV - https://www.youtube.com/watch?v=SIrGeG0_3KY&t=6s**.
+5. Iniciar operación en el módulo de cartera en donde se registrarán los movimientos correspondientes. A continuación se relaciona el video del módulo [CMOV - https://www.youtube.com/watch?v=SIrGeG0_3KY&t=6s](https://www.youtube.com/watch?v=SIrGeG0_3KY&t=6s).
 
 	De igual manera puede visualizar la documentación correspondiente que le explica el funcionamiento de las diferentes opciones de cartera en los siguientes documentos: 
 
