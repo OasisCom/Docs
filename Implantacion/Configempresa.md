@@ -46,7 +46,7 @@ Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requi
 7. Iniciar operación en el módulo de tesorería para realizar los pagos o recibos de caja que se requieran, desde este módulo se realizan los cruces correspondientes ante las cuentas por cobrar o por pagar. A continuación se relaciona el video del módulo.  
 
 	* **Recibo de Caja - https://www.youtube.com/watch?v=XQxYD-iuiVA&t=7s**
-	* **Comprobante de Egreso - https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s**
+	* Comprobante de Egreso - [https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s](https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s)
 
 	De igual manera puede visualizar la documentación correspondiente que le explica el funcionamiento de las diferentes opciones de tesorería en los siguientes documentos:  
     
