@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ventas
-permalink: /Comercializacion/Descriptivo/SCM/Ventas/
+permalink: /Comercializacion/Descriptivo/SCM/Ventas
 editable: si
 ---
 
