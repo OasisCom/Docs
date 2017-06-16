@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nómina
-permalink: /Comercializacion/Descriptivo/HRM/Nomina/
+permalink: /Comercializacion/Descriptivo/HRM/Nomina
 editable: si
 ---
 
