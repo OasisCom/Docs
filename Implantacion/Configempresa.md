@@ -9,7 +9,7 @@ editable: si
 
 Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requieren para que usted pueda iniciar su empresa en el sistema OasisCom versión free.  
 
-1. Realizar el auto registro en OasisCom cómo se puede observar en el siguiente video: [**Autoregistro**](https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s).
+1. Realizar el auto registro en OasisCom cómo se puede observar en el siguiente video: [**Autoregistro - https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s**].
 
 	Se debe tener en cuenta que una vez realizado el auto registro se debe enviar un correo a info@oasiscom.com especificando el nombre del usuario creado, el nit de la empresa y la razón social de la empresa. Posteriormente, recibirá un correo de bienvenida al sistema OasisCom en el cual ya queda el usuario registrado a su empresa.  
 
