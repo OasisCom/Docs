@@ -15,7 +15,7 @@ Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requi
 
 	Para conocer la operación básica del sistema, cómo lo es crear un movimiento, eliminar, modificar entre otros, por favor visualizar los videos a continuación.
 
-	* [Operatividad Básica 2 - https://www.youtube.com/watch?v=olTkOobSuQM&t=6s] (https://www.youtube.com/watch?v=olTkOobSuQM&t=6s)
+	* [Operatividad Básica 2 - https://www.youtube.com/watch?v=olTkOobSuQM&t=6s](https://www.youtube.com/watch?v=olTkOobSuQM&t=6s)
 
 
 2. Validar el PUC en la aplicación de [**Cuentas Contables - BCUE**](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue) con el fin de homologar sus cuentas al PUC Comercial el cual se encuentra registrado en el sistema. Por favor visualizar el video a continuación en donde se explica el funcionamiento de esta aplicación. [BCUE - https://www.youtube.com/watch?v=we2Kmmrugss&t=1s](https://www.youtube.com/watch?v=we2Kmmrugss&t=1s).
@@ -35,7 +35,7 @@ Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requi
 	* [**Cruces - CMCM**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcm)
 
 
-6. Iniciar operación en el módulo de cuentas por pagar en donde se realiza la creación de los movimientos con su respectiva contabilización. A continuación se relaciona el video del módulo. **PMOV - https://www.youtube.com/watch?v=k9I5PhCrMcY&t=9s**
+6. Iniciar operación en el módulo de cuentas por pagar en donde se realiza la creación de los movimientos con su respectiva contabilización. A continuación se relaciona el video del módulo. [PMOV - https://www.youtube.com/watch?v=k9I5PhCrMcY&t=9s](https://www.youtube.com/watch?v=k9I5PhCrMcY&t=9s)
 
 	De igual manera puede visualizar la documentación correspondiente que le explica el funcionamiento de las direntes opciones de cuentas por pagar en los siguientes documentos: 
     
@@ -45,8 +45,8 @@ Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requi
 
 7. Iniciar operación en el módulo de tesorería para realizar los pagos o recibos de caja que se requieran, desde este módulo se realizan los cruces correspondientes ante las cuentas por cobrar o por pagar. A continuación se relaciona el video del módulo.  
 
-	* **Recibo de Caja - https://www.youtube.com/watch?v=XQxYD-iuiVA&t=7s**
-	* Comprobante de Egreso - [https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s](https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s)
+	* [Recibo de Caja - https://www.youtube.com/watch?v=XQxYD-iuiVA&t=7s](https://www.youtube.com/watch?v=XQxYD-iuiVA&t=7s)
+	* [Comprobante de Egreso - https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s](https://www.youtube.com/watch?v=szpcK9jiCtI&t=1s)
 
 	De igual manera puede visualizar la documentación correspondiente que le explica el funcionamiento de las diferentes opciones de tesorería en los siguientes documentos:  
     
