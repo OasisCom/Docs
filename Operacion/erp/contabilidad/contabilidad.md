@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contabilidad
-permalink: /Operacion/erp/contabilidad/
+permalink: /Operacion/erp/contabilidad
 editable: si
 ---
 
