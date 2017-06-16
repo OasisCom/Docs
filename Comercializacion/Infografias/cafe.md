@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Café
@@ -6,5 +7,7 @@ editable: si
 ---
 
 # CAFÉ
+
+algo
 
 ![](cafe.png)
