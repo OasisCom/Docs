@@ -39,3 +39,6 @@ _Barra Apilada_
 
 Cada variable permite realizar filtros de acuerdo a como se requiera hacer la consulta, junto al nombre de la varible se puede ver la cantidad de datos que contiene.  
 
+![](biven6.png)
+
+Igualmente, permite seleccionar todas las opciones de las variables dando click en el botón ![](biven7.png) o desmarcar todas con el botón ![](biven8.png)
