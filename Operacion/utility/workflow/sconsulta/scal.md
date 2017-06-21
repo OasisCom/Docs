@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Calendario
-permalink: /Operacion/utility/workflow/sconsulta/scal
+title: Seguridad
+permalink: /Operacion/system/sacceso/scal
 editable: si
 ---
 
-# SCAL - Calendario de Usuario
+# SCAL - Calendario
 
 Este calendario gráfico facilita la gestión de tareas, eventos, citas y/o reuniones de los usuarios vinculados a la aplicación de manera dinámica.  
 
