@@ -59,4 +59,6 @@ Aquí podemos visualizar el título de la actividad, la cédula y nombre del usu
 **Siguiente tarea:** Se debe asignar la siguiente tarea a ejecutar.  
 **Siguiente tarea asignar a:** Cédula de la persona a la cual se le va a asignar la actividad del campo anterior.  
 **Asignar tiempo:** Tiempo que se requiere para ejecutar la siguiente actividad, este tiempo se debe expresar en minutos.  
-**Asignar fecha:** Fecha en la cual se debe realizar la actividad.  
+**Asignar fecha:** Fecha en la cual se debe realizar la actividad. 
+
+Estas ventanas de flujo de trabajo de tareas se visualizan de acuerdo al idioma que se ha seleccionado.
