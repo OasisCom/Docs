@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dominios
-permalink: /Operacion/system/sconfig/
+permalink: /Operacion/system/sconfig/sdom
 editable: si
 ---
 
