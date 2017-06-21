@@ -123,7 +123,7 @@ Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Espa�
 
 ## [Caducidad de Contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contraseña)
 
-El sistema OASISCOM, solicitará a los usuarios realizar el cambio de sus contraseñas cada cierto tiempo de acuerdo a como se haya definido en la aplicaciones [**SDOM - Dominios**](http://docs.oasiscom.com/Operacion/system/sconfig/sdom) y [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu). Ver Caducidad de Contraseñas.
+El sistema OASISCOM, solicitará a los usuarios realizar el cambio de sus contraseñas cada cierto tiempo de acuerdo a como se haya definido en la aplicaciones [**SDOM - Dominios**](http://docs.oasiscom.com/Operacion/system/sconfig/sdom) y [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu).
 
 
 
