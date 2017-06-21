@@ -46,7 +46,7 @@ Para realizar una mejor explicación de los diferentes esquemas que se tienen, v
 Aquí podemos visualizar el título de la actividad, el usuario que la tiene planeada y la fecha. Los campos que se deben diligenciar son:
 **Tiempo real:** Tiempo en minutos que se tomó para ejecutar dicha actividad.  
 **Tarea Descripción:** Describir la actividad realizada.  
-**Adjuntar archivo:** En caso de requerir adjuntar un archivo en este campo se puede realizar
+**Adjuntar archivo:** En caso de requerir adjuntar un archivo en este campo se puede realizar.  
 
 - Planeado Avance: El flujo de trabajo se visualiza de la siguiente manera
 
@@ -55,13 +55,8 @@ Aquí podemos visualizar el título de la actividad, el usuario que la tiene pla
 Aquí podemos visualizar el título de la actividad, la cédula y nombre del usuario y la fecha actual. Los campos que se deben diligenciar son:
 **Tiempo real:** Tiempo en minutos que se tomó para ejecutar dicha actividad.  
 **Tarea Descripción:** Describir la actividad realizada.  
-**Adjuntar archivo:** En caso de requerir adjuntar un archivo en este campo se puede realizar
-**Siguiente tarea:** Se debe asignar la siguiente tarea a ejecutar
-**Siguiente tarea asignar a:** Cédula de la persona a la cual se le va a asignar la actividad del campo anterior
-**Asignar tiempo:** Tiempo que se requiere para ejecutar la siguiente actividad, este tiempo se debe expresar en minutos
-**Asignar fecha:** Fecha en la cual se debe realizar la actividad
-
-
-
-- Dinámico: Ingresamos a la aplicación para poder visualizar el esquema  
-- Planeado avance: Ingresamos a la aplicación [**Casos - ACAS**] para poder visualizar el esquema  
+**Adjuntar archivo:** En caso de requerir adjuntar un archivo en este campo se puede realizar.  
+**Siguiente tarea:** Se debe asignar la siguiente tarea a ejecutar.  
+**Siguiente tarea asignar a:** Cédula de la persona a la cual se le va a asignar la actividad del campo anterior.  
+**Asignar tiempo:** Tiempo que se requiere para ejecutar la siguiente actividad, este tiempo se debe expresar en minutos.  
+**Asignar fecha:** Fecha en la cual se debe realizar la actividad.  
