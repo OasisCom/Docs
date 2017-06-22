@@ -12,7 +12,7 @@ En esta sección encontrarán los manuales de usuario para cada una de las aplic
 A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo:
 
 
-## [Menú](http://docs.oasiscom.com/Operacion/#Menú)
+## [Menú](http://docs.oasiscom.com/Operacion/#Men%C3%BA)
 
 
 OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el nombre del usuario.  
@@ -117,7 +117,7 @@ Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Espa�
 
 ![](mozilla2.png)
 
-## [Caducidad de Contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contraseña)
+## [Caducidad de Contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contraseñas)
 
 El sistema OASISCOM, solicitará a los usuarios realizar el cambio de sus contraseñas cada cierto tiempo de acuerdo a como se haya definido en la aplicaciones [**SDOM - Dominios**](http://docs.oasiscom.com/Operacion/cloud/sbasica/sdom) y [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu).
 
