@@ -12,7 +12,7 @@ En esta sección encontrarán los manuales de usuario para cada una de las aplic
 A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo:
 
 
-## [Menú](http://docs.oasiscom.com/Operacion/#Men%C3%BA)
+## [Menú](http://docs.oasiscom.com/Operacion/#Menú)
 
 
 OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el nombre del usuario.  
