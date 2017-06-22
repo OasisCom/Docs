@@ -46,7 +46,7 @@ Ingresados los anteriores datos, damos click en el botón _Guardar_ ![](guardar.
 
 ![](ejfac12.png)
 
-##### Detalle
+### Detalle
 
 En la parte derecha de la ventana se encuentra la pestaña _Detalle_, en donde se seleccionará el producto correspondiente al documento que se realiza, ya sea que se factura o se realiza devolución.  
 
@@ -69,7 +69,7 @@ Si se desean agregar más productos, se vuelve a buscar en el campo _ProductId_ 
 Para eliminar algún producto de la lista se debe dar click sobre el mismo.  
 
 
-##### Pago
+### Pago
 
 Seguidamente se encuentra la pestaña _Pago (Payment)_, la cual permite realizar la modificación de la forma de pago de la factura, en el campo forma de pago se debe modificar la misma, puede ser efectivo, débito, crédito entre otros, esto se parametriza previamente en el sistema en la aplicación [**BFOR - Formas de Pago**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor).  
 
