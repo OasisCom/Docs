@@ -34,7 +34,7 @@ Diligenciado el formulario, damos click en el botón ![](scal4.png) y seguidamen
 
 Para visualizar la información de la cita basta con poner el curso sobre el día o dar click sobre la misma para ver en detalle la información de la reunión.  
 
-_Al poner el curso en la cita_
+_Al poner el cursor en la cita_
 
 ![](scal5.png)
 
