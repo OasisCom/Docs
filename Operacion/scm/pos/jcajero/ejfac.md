@@ -79,17 +79,17 @@ Seguidamente se encuentra la pestaña _Pago (Payment)_, la cual permite realizar
 
 ![](ejfac10.png)
 
-**ProjectId:**
+**ProjectId:**  
 **Value:** ingresar el valor total del documento.
 **BaseTax:** valor base sobre el cual se aplica el impuesto.  
 **Tax:** valor del impuesto
 **Card:** en caso de pagar con tarjeta ingresar el número.  
 **Expiration:** fecha de expiración de la tarjeta.  
 **Authorization:** número de autorización.  
-**Receipt:**
-**CheckNumber:**
-**BankId:**
-**Plaza:**
+**Receipt:**  
+**CheckNumber:**  
+**BankId:**  
+**Plaza:**  
 
 Si el desembolso se va a realizar por diferentes formas de pago, la aplicación permite adicionarlas, igualmente se verán reflejadas en la lista inferior de la ventana.  
 
