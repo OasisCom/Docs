@@ -30,14 +30,31 @@ Los campos que sean de fondo azul indican que tienen zoom, en el cual pueden con
 
 ![](ejfac2.png)
 
+**TypePriceId:** seleccionar el tipo de precio que se asignará a la factura. Los tipos de precio deben estar previamente parametrizados en la aplicación [**FBTP - Tipo de Precio**](http://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtp).
+
+![](ejfac3.png)
+
+**DiscountPercentage:** Si se desea que el total de la factura tenga un porcentaje de descuento se debe ingresar en este campo el número y este hará el descuento en el valor total de la factura.  
+**WarehouseId:** ingresar el Id del almacén que realiza el documento.  
+**Brute:** valor bruto del total del documento que se realiza.  
+**Discount:** valor del descuento.  
+**Subtotal:** valor subtotal del documento.  
+**TaxSale:** ingresar el valor por impuesto a las ventas.  
+**Total:** ingresar el valor total del documento.  
+
+En la parte derecha de la ventana se encuentra la pestaña _Detalle_, en donde se seleccionará el producto correspondiente al documento que se realiza, ya sea que se factura o se realiza devolución.  
+
+![](ejfac4.png)
+
+**ProductId:** ingresar el código del producto o seleccionarlo desde el zoom, para ingresar dar doble click sobre el campo, seleccionar el producto y cerrar la ventana del zoom.  
+
+![](ejfac5.png)
+
+Seleccionado el producto, se debe dar click en el botón ![](mas.png) para que este sea adjuntado a la lista de productos.  
+
+![](ejfac6.png)
+
+![](ejfac7.png)
 
 
-**TypePriceId:**
-**DiscountPercentage:**
-**WarehouseId:**
-**Brute:**
-**Discount:**
-**Subtotal:**
-**TaxSale:**
-**Total:**
-**Net:**
+
