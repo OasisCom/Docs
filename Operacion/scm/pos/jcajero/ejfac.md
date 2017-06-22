@@ -97,4 +97,58 @@ Por ejemplo, si una parte del documento se pagará en efectivo, se deberá selec
 
 ![](ejfac11.png)
 
+Diligenciado el formulario de la pestaña _Pago_ procedemos a procesar la factura dando click en el botón _Procesar_  ![](procesar.png).
+
+#### Botones
+
+![](botones.png)
+
+
+##### Nuevo ![](nuevo.png)
+
+Permite adicionar un formulario para crear un nuevo documento.  
+
+##### Guardar ![](guardar.png)
+
+Permite guardar los cambios que se hayan realizado en el documento.  
+
+##### Procesar ![](procesar.png)
+
+Botón que permite confirmar o procesar el documento.  
+
+##### Reversar ![](reversar.png)
+
+Cuando el documento se encuentra en estado _Procesado_, este botón permite reversarlo y poder realizar cambios.  
+
+##### Anular ![](anular.png)
+
+Este botón permite anular el documento que se generó. El documento pasará a estado _Anulado_.
+
+##### Traer Información ![](traer.png)
+
+Botón que permite traer a la aplicación todos los documentos generados en la misma.  
+
+##### Vista Preliminar ![](vista.png)
+
+Al dar click en este botón se podrá ver en vista preliminar el documento generado.  
+
+##### Imprimir ![](imprimir.png)
+
+Botón que permite convertir a formato PDF el documento generado e imprimirlo.  
+
+##### Refrescar ![](refrescar.png)
+
+Al dar click en este botón la ventana de la aplicación será refrescada y mostrará el formulario sin datos.  
+
+##### Anterior ![](devolver.png)
+
+Este botón permite devolverse al documento anterior.  
+
+##### Número de página ![](pagina.png)
+
+Indica la página en la cual se encuentra el documento.  
+
+##### Siguiente ![](pagina.png)
+
+Este botón permite pasar al documento siguiente.  
 
