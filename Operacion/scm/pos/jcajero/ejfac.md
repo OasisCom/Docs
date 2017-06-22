@@ -42,6 +42,12 @@ Los campos que sean de fondo azul indican que tienen zoom, en el cual pueden con
 **TaxSale:** ingresar el valor por impuesto a las ventas.  
 **Total:** ingresar el valor total del documento.  
 
+Ingresados los anteriores datos, damos click en el botón _Guardar_ ![](guardar.png) el cual asignará un número a la factura. 
+
+![](ejfac12.png)
+
+##### Detalle
+
 En la parte derecha de la ventana se encuentra la pestaña _Detalle_, en donde se seleccionará el producto correspondiente al documento que se realiza, ya sea que se factura o se realiza devolución.  
 
 ![](ejfac4.png)
@@ -56,5 +62,39 @@ Seleccionado el producto, se debe dar click en el botón ![](mas.png) para que e
 
 ![](ejfac7.png)
 
+Si se desean agregar más productos, se vuelve a buscar en el campo _ProductId_ y se da click en el botón ![](mas.png).
+
+![](ejfac8.png)
+
+Para eliminar algún producto de la lista se debe dar click sobre el mismo.  
+
+
+##### Pago
+
+Seguidamente se encuentra la pestaña _Pago (Payment)_, la cual permite realizar la modificación de la forma de pago de la factura, en el campo forma de pago se debe modificar la misma, puede ser efectivo, débito, crédito entre otros, esto se parametriza previamente en el sistema en la aplicación [**BFOR - Formas de Pago**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor).  
+
+![](ejfac9.png)
+
+**FormPaymentId:** seleccionar de la lista desplegable la forma de pago. Parametrización de formas de pago en la aplicación [**BFOR - Formas de Pago**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor).
+
+![](ejfac10.png)
+
+**ProjectId:**
+**Value:** ingresar el valor total del documento.
+**BaseTax:** valor base sobre el cual se aplica el impuesto.  
+**Tax:** valor del impuesto
+**Card:** en caso de pagar con tarjeta ingresar el número.  
+**Expiration:** fecha de expiración de la tarjeta.  
+**Authorization:** número de autorización.  
+**Receipt:**
+**CheckNumber:**
+**BankId:**
+**Plaza:**
+
+Si el desembolso se va a realizar por diferentes formas de pago, la aplicación permite adicionarlas, igualmente se verán reflejadas en la lista inferior de la ventana.  
+
+Por ejemplo, si una parte del documento se pagará en efectivo, se deberá seleccionar esta forma de pago de la lista desplegable y adicionarla a la lista inferior de la ventana dando click en el botón ![](mas.png), así mismo se deberá hacer con las otras formas de pago que se deseen agregar.  
+
+![](ejfac11.png)
 
 
