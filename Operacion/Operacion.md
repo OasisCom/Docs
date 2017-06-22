@@ -126,7 +126,7 @@ Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Espa�
 El sistema OASISCOM, solicitará a los usuarios realizar el cambio de sus contraseñas cada cierto tiempo de acuerdo a como se haya definido en la aplicaciones [**SDOM - Dominios**](http://docs.oasiscom.com/Operacion/cloud/sbasica/sdom) y [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu).
 
 
-## [Reconocimeinto de Voz](http://docs.oasiscom.com/Operacion/#reconocimeinto-de-voz)
+## [Reconocimiento de Voz](http://docs.oasiscom.com/Operacion/#reconocimiento-de-voz)
 
 En el filtro de búsqueda de aplicaciones se encuentra el icono ![](voz.png), el cual permite realizar la búsqueda de diferentes aplicaciones por reconocimiento de voz.  
 
