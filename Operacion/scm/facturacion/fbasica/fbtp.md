@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/fbasica/fbtp
 editable: si
 ---
 
-# Tipo de Pecios - FBTP
+# Tipo de Precios - FBTP
 
 Los tipos de precios son las diferentes listas de precios que pueda tener vigente en un momento dado la empresa. Normalmente las empresas pueden ofrecer dos listas de precios al tiempo, que son mayorista y público. Si una empresa tiene definidas muchas listas de precios aquí se deben definir cada una de esas listas de precios.
 
