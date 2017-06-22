@@ -7,7 +7,7 @@ editable: si
 
 # CÓMO CONFIGURAR UNA EMPRESA EN OASISCOM
 
-Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requieren para que usted pueda iniciar su empresa en el sistema OasisCom versión free.  
+Bienvenido a OasisCom!! En este documento le explicaremos los pasos que se requieren para que usted pueda iniciar su empresa en el sistema OasisCom.  
 
 1. Realizar el auto registro en OasisCom cómo se puede observar en el siguiente video: [Autoregistro - https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s](https://www.youtube.com/watch?v=dJBGYjlFIvw&t=49s).
 
