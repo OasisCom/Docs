@@ -2,7 +2,7 @@
 
 layout: default
 
-title: Capacitacion
+title: Básicos OasisCom
 
 permalink: /Capacitacion/Operatividad/basicos/
 
@@ -17,8 +17,7 @@ editable: si
 
 
 
-
-En este curso, usted encontrará información para reaizar una correcta parametrización de los básicos principales como lo son BCUE - Cuentas contables, BPRO - Productos y BTER - Terceros.
+En este curso, usted encontrará información para reaizar una correcta parametrización de los básicos principales como lo son: Cómo parametrizar las cuentas, BCUE - Cuentas contables;Cómo parametrizar terceros, BTER - Terceros y Cómo crear productos, BPRO - Productos.
 
 
 
