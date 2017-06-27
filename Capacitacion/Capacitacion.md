@@ -7,4 +7,6 @@ editable: si
 
 # CAPACITACION
 
-En esta sección encontrarán todos los videos de los procesos de OasisCom, estos se encuentran divididos por producto y módulos. Cada uno de ellos tiene un taller y una evaluación conceptual sobre el manejo del sistema con el objetivo de afianzar los conocimientos sobre el mismo.
+
+OasisCom cuenta con un sistema de capacitación que le servirá para aprender a realizar ciertas operaciones en el sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
+
