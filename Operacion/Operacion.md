@@ -18,9 +18,11 @@ En el explorador de internet se debe ingresar al siguiente link http://app.oasis
 ![](Registro1.png)
 
 Para ingresar a OasisCom primero debe crear una cuenta como se muestra a continuación:  
+
 **Nombre Usuario:** Correo electrónico  
 **Nombres y Apellidos:** Nombre completo de la persona que se registrará  
 **Contraseña:** Contraseña de su elección  
+
 Dar clic en registro  
 
 ![](Registro2.png)
