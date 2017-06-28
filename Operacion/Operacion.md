@@ -11,6 +11,42 @@ En esta sección encontrarán los manuales de usuario para cada una de las aplic
 
 A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo:
 
+## Registro OasisCom
+
+En el explorador de internet se debe ingresar al siguiente link http://app.oasiscom.com/ para acceder a OasisCom
+
+![](Registro1.png)
+
+Para ingresar a OasisCom primero debe crear una cuenta como se muestra a continuación:  
+•	Nombre Usuario: Correo electrónico  
+•	Nombres y Apellidos: Nombre completo de la persona que se registrará  
+•	Contraseña: Contraseña de su elección  
+•	Dar clic en registro  
+
+![](Registro2.png)
+
+Al dar clic en registro, se abre la siguiente ventana
+
+![](Registro3.png)
+
+Se revisa en la Bandeja de Entrada o Spam, el ingreso del correo de verificación enviado desde info_oasis.com.co
+
+![](Registro4.png)
+
+Se abre el correo y se da clic al link enviado
+
+![](Registro5.png)
+
+Al dar clic en el link, se abre la siguiente pantalla que informa que el registro se ha completado
+
+![](Registro6.png)
+
+En la parte superior derecha encontrarás los datos de inicio de sesión a la aplicación “Usuario y contraseña”
+
+![](Registro7.png)
+
+Al ingresar tu usuario y contraseña el sistema te enviará al menú principal del sistema de información.
+
 
 ## [Menú](http://docs.oasiscom.com/Operacion/#menú)
 
