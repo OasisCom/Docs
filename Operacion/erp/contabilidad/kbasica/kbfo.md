@@ -149,7 +149,8 @@ Seleccionado el registro, pasamos a la pestaña _Cuentas_ en el detalle, en dond
 **Detallado:** para este formato, no es necesario activar este check que nos permite generar la información de manera más detallada por documento.  
 **Factor:** valor por el cual se multiplicará la información, para este formato aplica el factor 1.  
 **Destino:** hace referencia a la columna a donde se enviará la información que estamos generando, en este caso se selecciona _Valor_.  
-**Nota:**  Se puede ingresar cuantos renglones sean necesarios para el grupo de cuentas que sumará al valor total del renglón seleccionado en la pestaña _Detalle_.  
+
+_**Nota:**_  Se puede ingresar cuantos renglones sean necesarios para el grupo de cuentas que sumará al valor total del renglón seleccionado en la pestaña _Detalle_.  
 
 
 Luego de realizar la configuración anterior ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf), en donde procederemos a generar el formato 350 de la DIAN.  
