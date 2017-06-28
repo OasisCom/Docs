@@ -39,11 +39,11 @@ Se abre el correo y se da clic al link enviado
 
 Al dar clic en el link, se abre la siguiente pantalla que informa que el registro se ha completado
 
-![](Registro6.png)
+![](Registro6.jpg)
 
 En la parte superior derecha encontrarás los datos de inicio de sesión a la aplicación “Usuario y contraseña”
 
-![](Registro7.png)
+![](Registro7.jpg)
 
 Al ingresar tu usuario y contraseña el sistema te enviará al menú principal del sistema de información.
 
