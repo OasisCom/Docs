@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kproceso/kpgf
 editable: si
 ---
 
-#Genera Formatos - KPGF
+# Genera Formatos - KPGF
 
 La aplicación **KPGF** permite generar los formatos que han sido previamente parametirzados en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo).  
 
