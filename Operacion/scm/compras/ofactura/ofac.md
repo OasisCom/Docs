@@ -62,6 +62,7 @@ De acuerdo a la normatividad vigente el rubro cancelado por concepto de IVA en l
 De acuerdo a lo anterior, OASISCOM presenta el siguiente documento que nos ayudará a entender y parametrizar el sistema para que cumpla los dos requerimientos.  
 
 ### _Escenario 1_
+
 ### Ingreso de Activo Fijo por Compras
 
 Para poder realizar los movimientos en el sistema es necesario realizar las siguientes parametrizaciones previamente:  
@@ -69,6 +70,22 @@ Para poder realizar los movimientos en el sistema es necesario realizar las sigu
 1. En la aplicación [**BCOD - Códigos de Cuentas**](http://docs.oasiscom.com/Operacion/common/bfinan/bcod), validar que se encuentre creado el código IVC o crearlo en caso que no esté. (_Ver aplicación_)  
 2. En la aplicación [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bfinan/bpla), incluir en la plantilla del documento _FP x FP_ el código IVC. (_Ver aplicación_)  
 3. En la aplicación [**BGRU - Grupos**](http://docs.oasiscom.com/Operacion/common/bfinan/bcod), incluir el código IVC a los activos fijos. (_Ver aplicación_)
+
+Realizada la parametrización continuaremos a generar el movimiento.  
+
+En este caso se realiza la compra de 2 activos fijos, uno por $1.000.000 + IVA y otro por $500.00 + IVA
+
+![](ofac3.png)
+
+El sistema causa el valor del activo separado del valor del IVA, pero llevando al módulo el valor total del activo (costo + IVA).
+
+![](ofac4.png)
+
+Podemos ver que el sistema creó automáticamente los activos 2 y 3.
+
+![](ofac5.png)
+
+Finalmente, si consultamos los activos en la aplicación [**HSSP - Saldos de Activos**]() veremos que estos se encuentran valorizados por el Costo + IVA. (_Ver aplicación_)
 
 
 
