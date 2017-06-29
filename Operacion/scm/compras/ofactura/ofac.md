@@ -67,9 +67,9 @@ De acuerdo a lo anterior, OASISCOM presenta el siguiente documento que nos ayuda
 
 Para poder realizar los movimientos en el sistema es necesario realizar las siguientes parametrizaciones previamente:  
 
-1. En la aplicación [**BCOD - Códigos de Cuentas**](http://docs.oasiscom.com/Operacion/common/bfinan/bcod), validar que se encuentre creado el código IVC o crearlo en caso que no esté. (_Ver aplicación_)  
-2. En la aplicación [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bfinan/bpla), incluir en la plantilla del documento _FP x FP_ el código IVC. (_Ver aplicación_)  
-3. En la aplicación [**BGRU - Grupos**](http://docs.oasiscom.com/Operacion/common/bfinan/bcod), incluir el código IVC a los activos fijos. (_Ver aplicación_)
+1. En la aplicación [**BCOD - Códigos de Cuentas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bcod#parametrización-ingreso-de-activo-fijo-por-compras), validar que se encuentre creado el código IVC o crearlo en caso que no esté. (_Ver aplicación_)  
+2. En la aplicación [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#parametrización-ingreso-de-activo-fijo-por-compras), incluir en la plantilla del documento _FP x FP_ el código IVC. (_Ver aplicación_)  
+3. En la aplicación [**BGRU - Grupos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#parametrización-ingreso-de-activo-fijo-por-compras), incluir el código IVC a los activos fijos. (_Ver aplicación_)
 
 Realizada la parametrización continuaremos a generar el movimiento.  
 
