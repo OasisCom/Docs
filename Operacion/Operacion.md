@@ -177,66 +177,66 @@ Una vez habilitado, el micrófono se tornará rojo indicando que está activado 
 
 
 
-##  Acceso a programas de Navegación
+##  [Acceso a programas de Navegación](http://docs.oasiscom.com/Operacion/#acceso-a-programas-de-navegación)
 
-En la parte superior de la aplicación se encuentra el cuadro de texto para ingresar o escribir el nemotécnico del programa al que se desea acceder.
+En la parte superior de la aplicación se encuentra el cuadro de texto para ingresar o escribir el nemotécnico del programa al que se desea acceder.  
 
 ![](accesoprogramas1.png)
 
-Los módulos tienen una letra que los identifica, la cual compone el nemotécnico del nombre de la aplicación.
+Los módulos tienen una letra que los identifica, la cual compone el nemotécnico del nombre de la aplicación.  
 
-Contabilidad		K		Distribución		D
-Tesorería			T		Nómina				N
-Cartera				C		Recursos Humanos	R
-Cuentas por pagar 	P		Ventas Cliente		A
-Activos fijos		H		Mercadeo			A
-Presupuesto 		Q		Producción			L
-Asociados 			Z		Costos				U
-Ventas Logística	V		Mantenimiento		M
-Facturación			F		Básicos				B
-Punto de venta		J		Inventarios			I
-Compras				O		Salud				E
-Importaciones 		Y		Seguridad			S
+Contabilidad		K  		Distribución		D  
+Tesorería			T		Nómina				N  
+Cartera				C		Recursos Humanos	R  
+Cuentas por pagar 	P		Ventas Cliente		A  
+Activos fijos		H		Mercadeo			A  
+Presupuesto 		Q		Producción			L  
+Asociados 			Z		Costos				U  
+Ventas Logística	V		Mantenimiento		M  
+Facturación			F		Básicos				B  
+Punto de venta		J		Inventarios			I  
+Compras				O		Salud				E  
+Importaciones 		Y		Seguridad			S  
 
-Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos especiales.
+Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos especiales.  
 
--	Movimiento: para un nemotécnico de una ventana tipo movimiento, inicia con la letra representativa del módulo seguido de la letra M. Ejemplo: KMOV.
+-	Movimiento: para un nemotécnico de una ventana tipo movimiento, inicia con la letra representativa del módulo seguido de la letra M. Ejemplo: KMOV.  
 
--	Básicos: para un nemotécnico de una ventana de básicos, inicia con la letra (B) de básicos, seguida del nombre de la aplicación. Ejemplo: BTER Básicos de tercero.
+-	Básicos: para un nemotécnico de una ventana de básicos, inicia con la letra (B) de básicos, seguida del nombre de la aplicación. Ejemplo: BTER Básicos de tercero.  
 
--	Reporte: para un nemotécnico de una ventana tipo reporte, inicia con la letra representativa del módulo seguida de la letra (R) y por último el nombre de la aplicación. Ejemplo: KRBG Balance General.
+-	Reporte: para un nemotécnico de una ventana tipo reporte, inicia con la letra representativa del módulo seguida de la letra (R) y por último el nombre de la aplicación. Ejemplo: KRBG Balance General.  
 
--	Procesos Especiales: para un nemotécnico de una ventana de un proceso especial, inicia con la letra representativa del módulo seguida de la letra (P) y por último el nombre de la aplicación. Ejemplo: KPCR Cierre de resultados.
+-	Procesos Especiales: para un nemotécnico de una ventana de un proceso especial, inicia con la letra representativa del módulo seguida de la letra (P) y por último el nombre de la aplicación. Ejemplo: KPCR Cierre de resultados.  
 
 
-## Maestro - Detalle de los programas
+##  [Maestro - Detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)
 
-Al ingresar a un programa se verán en la parte superior e inferior el maestro y detalle del mismo.
+Al ingresar a un programa se verán en la parte superior e inferior el maestro y detalle del mismo.  
 
 ![](maestrodetalle1.png)
 
 
-## Filtros
+## [Filtros](http://docs.oasiscom.com/Operacion/#filtros)
 
-Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.
+Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
 ![](filtros1.png)
 
-## Filtros avanzados
+## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
 
-La función de Filtros Avanzados, permite acceder a la información de manera más específica de acuerdo a la necesidad. Esta opción está representada por el botón ![](filtrosavanzados1.png)
+La función de Filtros Avanzados, permite acceder a la información de manera más específica de acuerdo a la necesidad. Esta opción está representada por el botón ![](filtrosavanzados1.png)  
 
 ![](filtrosavanzados2.png)
 
 De acuerdo en la aplicación a la cual se ingrese, la función Filtros Avanzados traerá una lista con las opciones de búsqueda, seguidamente, permitirá digitar el dato por el cual se desee filtrar la información. 
 
-En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtraremos las cuentas contables que inicien por el número 8, esto se realiza agregando el símbolo % (porcentaje) a la derecha del número.
+En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtraremos las cuentas contables que inicien por el número 8, esto se realiza agregando el símbolo % (porcentaje) a la derecha del número.  
 
 ![](filtrosavanzados3.png)
 
 ![](filtrosavanzados4.png)
 
-La función también permite filtrar por fechas, por ejemplo, de una fecha mayor a una fecha menor.
+La función también permite filtrar por fechas, por ejemplo, de una fecha mayor a una fecha menor.  
 
 ![](filtrosavanzados5.png)
 
@@ -244,60 +244,409 @@ Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un 
 
 ![](filtrosavanzados7.png)
 
-## Opciones de documentos
+## [Opciones de Documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)
 
-En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…) estas opciones también están.
+En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…) estas opciones también están.  
 
 ![](opcionesdocumentos1.png)
 
-El funcionamiento de cada botón es:
+El funcionamiento de cada botón es:  
 
 **Eliminar**
 
-Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.
+Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.  
 
 ![](eliminar1.png)
 
 ![](eliminar2.png)
 
-## Agregar
+## [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
 
-La funcionalidad permite agregar un nuevo registro en la aplicación.
+La funcionalidad permite agregar un nuevo registro en la aplicación.  
 
 ![](agregar1.png)
 
-Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la información relacionada con el documento.
+Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la información relacionada con el documento.  
 
 ![](agregar2.png)
 
 **Guardar**
 
-Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.
+Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.  
 
 ![](guardar1.png)
 
 **Cancelar**
 
-Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un documento o registro en el sistema.
+Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un documento o registro en el sistema.  
 
 ![](cancelar1.png)
 
 **Confirmar o Procesar**
 
-La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.
+La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.  
 
 ![](confirmarprocesar1.png)
 
 **Reversar**
 
-Esta opción permite la corrección de errores en la inclusión de datos, su ejecución vuelve al comprobante o movimiento a estado ACTIVO en el cual se corrigen los errores cometidos para después volver a confirmar dicho comprobante o movimiento.
+Esta opción permite la corrección de errores en la inclusión de datos, su ejecución vuelve al comprobante o movimiento a estado ACTIVO en el cual se corrigen los errores cometidos para después volver a confirmar dicho comprobante o movimiento.  
 
 ![](reversar1.png)
 
 **Anular**
 
-La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.
+La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.  
 
 ![](anular1.png)
+
+**Imprimir**
+
+Esta opción permite imprimir la información que se está consultando en el momento.  
+
+![](imprimir1.png)
+
+**Imprimir en lote**
+
+Es permitido en unas aplicaciones imprimir la información de varios registros desde el maestro de la aplicación con el fin de que se mejorar el proceso y optimizar el tiempo.  
+
+En la siguiente imagen seleccionamos 3 registros para imprimir.  
+
+![](imprimirlote1.png)
+
+A continuacion se desplegará una ventana donde confirmará si desea realizar la impresión, en esta ventana le indicará el numero de registros que se van a imprimir.  
+
+![](imprimirlote2.png)
+
+Después de dar clic en el botón aceptar, el sistema generará la impresión ya sea en un PDF o directamente seleccionando la impresora para tenerlos de forma física.  
+
+**Vista Preliminar**
+
+Esta opción permite observar el informe de forma preliminar.  
+
+![](listapreliminar1.png)
+
+**Importar**
+
+Esta opción permite importar datos generados.  
+
+![](importar1.png)
+
+**Exportar**
+
+Esta opción permite exportar datos a diferentes tipos de archivos.  
+
+![](exportar1.png)
+
+**Refrescar o Actualizar**
+
+Esta opción permite actualizar la información reflejada en la pantalla con base a lo que esté siendo actualizada y ésta cambia en el momento de la consulta.  
+
+![](refrescaractualizar1.png)
+
+**Archivo imágenes**
+
+OasisCom permite almacenar en algunas aplicaciones imágenes según la naturaleza de la aplicación y la necesidad de los registros, esta opción se encuentra en la columna imagen.  
+
+![](archivoimagenes1.png)
+
+Al dar clic en “enviar” se abrirá una ventana emergente en la cual se podrá seleccionar el archivo que se desea cargar.  
+
+![](archivoimagenes2.png)
+
+**Borrado masivo**
+
+En OasisCom podrá encontrar la opción de realizar un borrado masivo en algunas aplicaciones, esta opción varía dependiendo de la funcionalidad de cada aplicación lo cual permitirá o no realizar el borrado masivo.  
+
+Para realizar el borrado masivo de registros se debe seleccionar dos o más registros.  
+
+![](borradomasivo1.png)
+
+Si desea eliminar todos los registros del maestro o del detalle en la parte superior respectivamente, se encuentra un cuadro de Check en el cual al dar clic sobre él seleccionará todos los registros.  
+
+![](borradomasivo2.png)
+
+Una vez seleccionado los registros que se desean eliminar, se debe dar clic en el icono de eliminar situado en la barra superior de cada segmento de la aplicación, se recuerda que los iconos de la barra de herramientas del detalle son independientes a los iconos de la barra de los maestros.  
+
+Una vez se da clic en eliminar, aparece una ventana emergente en el cual se confirma la solicitud de eliminar los registros.  
+
+![](borradomasivo3.png)
+
+Después de confirmar la acción los registros se eliminaran.  
+
+**Limpiar consulta**
+
+Esta función permite limpiar los filtros realizados en las diferentes columnas de la grilla.  
+
+![](limpiarconsulta1.png)
+
+Al  utilizar la  función de limpieza de filtros en el maestro en opciones que contienen Maestro-Detalle, se limpiaran los campos de consulta de este y adicionalmente se limpiaran los registros del detalle. 
+
+**Adjuntos**
+
+Esta Función facilita el cargue de archivos para el registro seleccionado.  
+
+![](adjuntos1.png)
+
+Para realizar este proceso:  
+
+1	Se  realiza la selección de un registro y  del botón adjunto.  
+
+![](adjuntos2.png)
+
+2 	Luego se visualizará una ventana que permitirá adjuntar documentos.  
+
+![](adjuntos3.png)
+
+3	Se selecciona el botón Elegir archivos y  se escoge el archivo que se desea adjuntar.  
+
+![](adjuntos4.png)
+
+En esta etapa se puede asignar el tipo de adjunto que se desea dar al archivo. 
+
+![](adjuntos5.png)
+
+Los tipos de adjuntos se parametrizan por la aplicación BTAD.  
+
+![](adjuntos6.png)
+
+Y se procede a guardar los cambios, de esta manera el archivo queda adjunto y asociado al renglón seleccionado.  
+
+![](adjuntos7.png)
+
+![](adjuntos8.png)
+
+Nota: El archivo se almacenará con nombre de documento, número de registro y el nombre del archivo.  
+
+**Mensajes**
+
+La función Mensajes permite enviar mensajes internos entre usuarios del sistema y visualizar los mensajes no leídos con la aplicación SMEU.  
+
+![](mensajes1.png)
+
+![](mensajes2.png)
+
+Para enviar un nuevo mensaje:  
+
+1	Dar clic en Enviar un nuevo mensaje.  
+
+![](mensajes3.png)
+
+2	El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
+
+![](mensajes4.png)
+
+En el campo destinatario (To) se tienen dos opciones: escribir el correo electrónico al cual se desea enviar el mensaje o dar clic en el botón azul del signo + para seleccionar un contacto del sistema.  
+
+![](mensajes5.png)
+
+Seguido se encuentra el campo para el Asunto (Subject) y para la descripción del nuevo mensaje. Se finaliza el envío del mensaje dando clic en el botón (Send new message). 
+
+![](mensajes6.png)
+
+Para visualizar los mensajes no leídos:  
+
+1	Dar clic en mensajes no leídos (Unread messages).  
+
+![](mensajes7.png)
+
+2	El sistema trae la aplicación SMEU – Mensajes de Usuario en la cual veremos los mensajes no leídos por el usuario en sesión.  
+
+![](mensajes8.png)
+
+La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
+
+**Vista Zoom**
+
+La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
+
+Para visualizar un Zoom:  
+
+1	Dar doble clic en el campo color azul  
+
+![](vistazoom1.png)
+
+2	Seleccionar registro  
+
+![](vistazoom2.png)
+
+La función permite realizar un filtro para que la búsqueda sea más rápida.  
+
+**Multiadicionar**
+
+La función Multiadicionar muestra una segunda ventana tipo Zoom que permite seleccionar uno o más registros de manera conjunta, también permite filtrar la búsqueda. Esta función está activa en algunas aplicaciones que contengan campos color azul en el detalle.  
+
+Para visualizar la función Multiadicionar:  
+
+1	Dar doble clic en el campo color azul  
+
+![](multiadicionar1.png)
+
+2	Seleccionar los registros y dar clic en Accept.  
+
+![](multiadicionar2.png)
+
+**Vista Formulario**
+
+La vista Formulario permite agregar un nuevo registro en el maestro de las aplicaciones. Esta función facilita el ingreso de la información, puesto que, se diligencian todos los campos en una sola ventana como un formulario.  
+
+Para agregar un nuevo registro:  
+
+1	Clic en el signo + Agregar nueva fila.  
+
+![](vistaformulario1.png)
+
+2	Diligenciar la ventana tipo formulario y dar clic en Guardar.  
+
+![](vistaformulario2.png)
+
+3	Registro guardado.  
+
+![](vistaformulario3.png)
+
+**Copy-Paste**
+
+LLa función Copy – Paste permite duplicar los renglones seleccionados, asignando el consecutivo correspondiente.  
+
+![](copypaste1.png)
+
+![](copypaste2.png)
+
+**Totales en detalles por consulta general**
+
+La función total en detalles por consulta general permite visualizar la sumatoria de los campos parametrizados para dicha función.  
+
+![](totales1.png)
+
+La función se divide en dos sumatorias. La sumatoria en **Negrita** muestra el valor total por número de cuenta contable y la sumatoria del recuadro, arroja el valor total de todas las cuentas contables anteriormente marcadas con **Negrita**.  
+
+**Workflow para procesos automáticos**
+
+La funcionalidad permite realizar workflow en los procesos de forma automática. Un ejemplo es en la aplicación VPED – Pedidos, se define un flujo (por medio de status) por los cuales debe pasar el pedido según el proceso, esto permite no solo controlar los tiempos sobre cada etapa sino informar a los usuarios vía correo electrónico o por medio de tareas pendientes las acciones que requerían de su intervención.  
+
+**Impresión por lote**
+
+La función permite seleccionar varios registros e imprimirlos según la parametrización del formato pertinente. Esto también aplica para las opciones que contienen formatos asociados, especialmente para las opciones tipo movimiento (Ventana tipo C).  
+
+1	Ingresar a una aplicación con opciones tipo C (movimientos).  
+2	Seleccionar los registros que se desean imprimir y dar clic en el botón Impresión.  
+
+![](impresionlote1.png)
+
+3	Aplicar la configuración deseada para la impresión y dar clic en Imprimir.  
+
+![](impresionlote2.png)
+
+Se puede observar que el sistema adjuntó los registros seleccionados con el detalle correspondiente para realizar la impresión.  
+
+**Duplicar registro**
+
+La función duplicar registro, permite al seleccionar un registro y dar clic en el botón  , crear otro renglón exactamente igual al seleccionado, evitando volver a digitar toda la información.  
+
+![](duplicar1.png)
+
+![](duplicar2.png)
+
+El registro duplicado tendrá un número de consecutivo nuevo, al igual que actualizará la fecha al día en que se realice el duplicado. La información del detalle también será duplicada en el nuevo registro.  
+
+La función Duplicar Registro de igual manera se encuentra disponible en el detalle de las aplicaciones que lo permitan.  
+
+![](duplicar3.png)
+
+**Envío de correo electrónico OasisCom**
+
+**Parametrización**
+
+Para hacer uso del envío de correos electrónicos primero se debe realizar cierta parametrización en las siguientes aplicaciones.  
+
+**Empresas (SEMP)
+
+En la aplicación (SEMP) Empresas, se debe parametrizar el dominio del smtp de servidor de correo que utiliza la compañía y el número de puerto.  
+
+Para realizar dicha parametrización nos dirigimos a los últimos campos de la aplicación (SEMP).  
+
+![](envioemail1.png)
+
+**Smtp Server**: corresponde al smtp del servidor del correo.  
+**Puerto**: número de puerto que utiiza el servidor de correo.  
+
+**Perfil (SPER)**
+
+La aplicación (SPER) Perfil, solo arroja la información del usuario con el que se ingresó al sistema OasisCom.  
+
+En el campo _PasswordMail_ se debe diligenciar la contraseña correspondiente al correo electrónico del usuario con el cual se accedió al sistema.  
+
+![](envioemail2.png)
+
+**Envío de correos electrónicos en OasisCom**
+
+OasisCom permite enviar correos electrónicos con los procesos que se estén realizando a diferentes usuarios desde las aplicaciones que tengan habilitado el botón _Send_Email_.  
+
+Como ejemplo, enviaremos una orden de compra mediante un correo electrónico desde la aplicación (OORD) Órdenes de Compra.  
+
+En la aplicación (OORD) seleccionamos el registro que se desea enviar por correo electrónico y damos clic en el botón _Send_Email_ de la barra de herramientas.  
+
+![](envioemail3.png)
+
+El sistema arrojará una ventana en la cual se deben diligenciar todos los campos necesarios para el envío del correo, el remitente siempre será el usuario con el cual se ingresó al sistema.  
+
+![](envioemail4.png)
+
+![](envioemail5.png)
+
+**Destinatario**: Nombre del usuario destinatario, en este caso nombre del tercero al cual se le generó la orden de compra.  
+
+![](envioemail6.png)
+
+**Correo**: Correo electrónico del usuario destinatario.
+
+![](envioemail7.png)
+
+**Copia**: si es necesario enviar copia del correo electrónico a varios usuarios, cada correo electrónico debe ser separado por el signo punto y coma (;).  
+
+![](envioemail8.png)
+
+**Asunto**: Describir el asunto del mensaje que se desea enviar.  
+
+**Mensaje**: Si se requiere se puede escribir un mensaje de acuerdo al proceso que se envía, este campo es opcional.  
+
+![](envioemail9.png)
+
+**Adjuntos**: si se requiere enviar un documento anexo, damos clic en el botón elegir archivos y seleccionamos el documento que se desea adjuntar.  
+
+![](envioemail10.png)
+
+El documento seleccionado aparecerá adjunto en la lista Archivos, seguidamente debemos dar clic en el botón Aceptar, confirmando el cargue de los documentos.  
+
+![](envioemail11.png)
+
+Por último, damos clic en el botón Enviar y el sistema arrojará un mensaje de confirmación.  
+
+![](envioemail12.png)
+
+Podemos confirmar el envío de la orden de compra y del documento adjunto en el correo destinatario.  
+
+![](envioemail13.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
