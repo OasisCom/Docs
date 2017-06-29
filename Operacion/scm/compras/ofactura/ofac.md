@@ -99,7 +99,7 @@ Ahora es necesario validar la generación de medios magnéticos, para ello se de
 
 ### Ingreso de Activo Fijo por HMOV
 
-La explicación del _Escenario 2_ se puede ver en la aplicación [**HMOV - Movimientos**]()
+La explicación del _Escenario 2_ se puede ver en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)
 
 
 
