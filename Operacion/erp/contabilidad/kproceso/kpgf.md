@@ -7,7 +7,7 @@ editable: si
 
 # Genera Formatos - KPGF
 
-La aplicación **KPGF** permite generar los formatos que han sido previamente parametirzados en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo).  
+La aplicación **KPGF** permite generar los formatos que han sido previamente parametrizados en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo).  
 
 Diligenciamos los campos y damos click en botón consultar ![](actualizar.png).  
 
@@ -52,12 +52,20 @@ Damos click sobre este botón y el proceso KPGF nos generará el formato en una 
 
 ![](kpgf3501.png)
 
-
 El formato será descargado en PDF y se podrá observar así:  
-
 
 ![](pdf350.png)
 
 
 ## [Generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
+
+Realizada previamente la parametrización en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras), procedemos a generar los medios magnéticos en la aplicación KPGF (se ejecutan para el año 2017 en esta prueba, ya que la compra tiene fecha de febrero de 2017).  
+
+![](kpgf3.png)
+
+Generados los medios magnéticos validamos la información que se generó en la aplicación [**KFOR - Balance de Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor).  
+
+
+
+
 
