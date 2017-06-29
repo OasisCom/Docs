@@ -45,7 +45,7 @@ Es importante resaltar que estas cuentas solo deben ser incluidas para conceptos
 ![](bpla3.png)
 
 
-
+## [Parametrización ingreso de activo fijo por compras](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#parametrización-ingreso-de-activo-fijo-por-compras)
 
 
 
