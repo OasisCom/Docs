@@ -25,7 +25,7 @@ La aplicación **BPLA** permite parametrizar las plantillas que se podrán utili
 **Estado:** estado de la plantilla.  
 
 
-## Contabilización de Nómina
+## [Contabilización de Nómina](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#contabilización-de-nómina)
 
 Para efectos de la contabilización de la nómina, se parametrizan las cuentas contables a donde deben apuntar cada concepto. Se debe tener en cuenta que las plantillas se dividen en los documentos _NM – Nómina, AP – Aportes, PV – Provisión_.  
 
@@ -56,7 +56,7 @@ Es importante resaltar que estas cuentas solo deben ser incluidas para conceptos
 ![](bpla2.png)
 
 
-**Cuenta:** cuenta contable a la cual se debe contabilizar de acuerdo al código ingresado anteriormente. Las cuentas contables deben estar previamente parametrizadas en la opción **BCUE** y debe estar activo Check Imputable.
+**Cuenta:** cuenta contable a la cual se debe contabilizar de acuerdo al código ingresado anteriormente. Las cuentas contables deben estar previamente parametrizadas en la opción **BCUE** y debe estar activo Check Imputable.  
 **ClientDepend:** Seleccionar la opción dependiendo la necesidad del concepto.
 
 
