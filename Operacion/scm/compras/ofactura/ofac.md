@@ -73,11 +73,11 @@ Para poder realizar los movimientos en el sistema es necesario realizar las sigu
 
 Realizada la parametrización continuaremos a generar el movimiento.  
 
-En este caso se realiza la compra de 2 activos fijos, uno por $1.000.000 + IVA y otro por $500.00 + IVA
+En este caso se realiza la compra de 2 activos fijos, uno por $1.000.000 + IVA y otro por $500.000 + IVA
 
 ![](ofac3.png)
 
-El sistema causa el valor del activo separado del valor del IVA, pero llevando al módulo el valor total del activo (costo + IVA).
+El sistema causa el valor del activo separado del valor del IVA, pero llevando al módulo el valor total del activo (Costo + IVA).
 
 ![](ofac4.png)
 
