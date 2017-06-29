@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Financieros
-permalink: /Operacion/common/bfinan/bgru
+permalink: /Operacion/common/bcuenta/bgru
 editable: si
 ---
 
@@ -21,7 +21,7 @@ La aplicación **BGRU** permite crear grupos, en los cuales, según la parametri
 **Finita:** Según como se requiera se marca el Check.  
 **Método costeo:** Método de costeo razonable o costo.  
 
-Detalle  
+_Detalle_  
 
 ![](bgru2.png)
 
