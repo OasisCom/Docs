@@ -36,7 +36,7 @@ Vemos que el sistema tomó el valor de $285.000 que corresponde al IVA de los 2 
 
 ![](kfor4.png)
 
-## [Verificación de la información generada en los medios magnéticos correspondientes al Ingreso de Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-la-información-generada-en-los-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-HMOV)
+## [Verificación de la información generada en los medios magnéticos correspondientes al Ingreso de Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-la-información-generada-en-los-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-hmov)
 
 Generados los medios magnéticos previamente en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras), ingresamos a la aplicación _KFOR - Balance de Formatos_ a validar la información que se generó con las adiciones realizadas.  
 
