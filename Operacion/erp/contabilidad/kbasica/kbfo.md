@@ -167,7 +167,7 @@ Para la generación de medios magnéticos correspondientes al Ingreso de Activo 
 
 ![](kbfo8.png)
 
-
+Realizada la parametrización procedemos a generar los medios magnéticos como se explica en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf).
 
 
 

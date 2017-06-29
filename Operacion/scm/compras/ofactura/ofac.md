@@ -92,7 +92,7 @@ Con lo anterior ya se encuentra:
 * Creación del Activo Fijo
 * Ingreso del activo fijo por el valor del costo + IVA
 
-Ahora es necesario validar la generación de medios magnéticos, para ello se deberá parametrizar la aplicación [**KBFO - Formatos**]().
+Ahora es necesario validar la generación de medios magnéticos, para ello se deberá parametrizar como se explica la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras).
 
 
 

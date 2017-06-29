@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kproceso/kpgf
 editable: si
 ---
 
-## Genera Formatos - KPGF
+#Genera Formatos - KPGF
 
 La aplicación **KPGF** permite generar los formatos que han sido previamente parametirzados en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo).  
 
@@ -29,7 +29,7 @@ Al dar click en el botón consultar ![](actualizar.png) , el sistema generará e
 Generado el formato nos dirigimos a la aplicación [**KFOR - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor) para validar la información.  
 
 
-## Formato 350 - Retención en la Fuente
+## [Formato 350 - Retención en la Fuente](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#formato-350---retención-en-la-fuente)
 
 Luego de realizar la debida parametrización en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo), ingresaremos al proceso especial **KPGF**, el cual nos permite generar el formato ingresando los siguientes datos y dando click en el botón _Generar_ ![](actualizar.png):  
 
@@ -59,4 +59,5 @@ El formato será descargado en PDF y se podrá observar así:
 ![](pdf350.png)
 
 
+## [Generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
 
