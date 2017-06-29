@@ -63,7 +63,7 @@ De acuerdo a lo anterior, OASISCOM presenta el siguiente documento que nos ayuda
 
 ### _Escenario 1_
 
-### Ingreso de Activo Fijo por Compras
+### Ingreso de Activo Fijo por Compras (OFAC)
 
 Para poder realizar los movimientos en el sistema es necesario realizar las siguientes parametrizaciones previamente:  
 
@@ -95,6 +95,11 @@ Con lo anterior ya se encuentra:
 Ahora es necesario validar la generación de medios magnéticos, para ello se deberá parametrizar como se explica la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras).
 
 
+### _Escenario 2_
+
+### Ingreso de Activo Fijo por HMOV
+
+La explicación del _Escenario 2_ se puede ver en la aplicación [**HMOV - Movimientos**]()
 
 
 
