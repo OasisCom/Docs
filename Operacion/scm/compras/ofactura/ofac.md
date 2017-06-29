@@ -55,7 +55,7 @@ En el detalle permite llevar el registro de los siguientes campos.
 **Valores:** La tabla de valores muestra los estados por los que pasa el valor del producto desde su valor inicial pasando por descuentos, aplicación de impuestos hasta su valor real o final después de todos los ajustes necesarios hechos en la factura.  
 
 
-## Manejo de IVA en Activos Fijos
+## [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#Manejo-de-IVA-en-Activos-Fijos)
 
 De acuerdo a la normatividad vigente el rubro cancelado por concepto de IVA en los activos fijos hacen parte del valor del activo, pero también se debe tener presente dicho valor para la generación de medios magnéticos.  
 
