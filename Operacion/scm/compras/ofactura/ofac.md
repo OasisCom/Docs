@@ -87,6 +87,13 @@ Podemos ver que el sistema creó automáticamente los activos 2 y 3.
 
 Finalmente, si consultamos los activos en la aplicación [**HSSP - Saldos de Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#ingreso-de-activo-fijo-por-compras) veremos que estos se encuentran valorizados por el Costo + IVA. (_Ver aplicación_)
 
+Con lo anterior ya se encuentra:
+* Causación factura compra
+* Creación del Activo Fijo
+* Ingreso del activo fijo por el valor del costo + IVA
+
+Ahora es necesario validar la generación de medios magnéticos, para ello se deberá parametrizar la aplicación [**KBFO - Formatos**]().
+
 
 
 

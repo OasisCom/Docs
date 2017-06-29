@@ -5,9 +5,9 @@ permalink: /Operacion/erp/contabilidad/kbasica/kbfo
 editable: si
 ---
 
-## FORMATOS - KBFO
+# FORMATOS - KBFO
 
-### [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#medios-magnéticos)
+## [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#medios-magnéticos)
 
 En la aplicación **KBFO** se realiza toda la parametrización correspondiente a los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN, entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.  
 
@@ -78,7 +78,7 @@ Cuando ya se han parametrizado los formatos en la aplicación KBFO, el sistema O
 Para generar los formatos parametrizados en KBFO ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf).  
 
 
-### [**Formato 350 - Retención en la Fuente**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#Formato-350---Retención-en-la-Fuente)
+## [**Formato 350 - Retención en la Fuente**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#formato-350---retención-en-la-fuente)
 
 OasisCom permite generar el formato 350 de retención en la fuente para la DIAN, para ello se debe iniciar con la parametrización en la aplicación KBFO.  
 
@@ -155,7 +155,7 @@ _Nota:_  Se puede ingresar cuantos renglones sean necesarios para el grupo de cu
 
 Luego de realizar la configuración anterior ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf), en donde procederemos a generar el formato 350 de la DIAN.  
 
-
+## [Parametrización para generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras]()
 
 
 
