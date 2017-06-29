@@ -26,6 +26,8 @@ Se debe validar que en la aplicación [**KPME - Medios Magnéticos**](http://doc
 
 ## [Verificación de la información generada en los medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#verificación-de-la-información-generada-en-los-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
 
+Generados los medios magnéticos previamente en la aplicación 
+
 
 
 
