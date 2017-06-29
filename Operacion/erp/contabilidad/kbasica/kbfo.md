@@ -157,8 +157,15 @@ Luego de realizar la configuración anterior ingresaremos a la aplicación [**KP
 
 ## [Parametrización para generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
 
-Para la generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras es necesario parametrizar la aplicación _KBFO - Formatos_ de la siguiente manera.  
+Para la generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras es necesario parametrizar la aplicación _KBFO - Formatos_ de la siguiente manera en la pestaña del detalle **CUENTAS**.  
 
+![](kbfo7.png)
+
+* En el campo **Cuenta Inicial** se deberá indicar la cuenta contable donde se causó el IVA, cuenta correspondiente al Activo.  
+* En el campo **Código** se indicará el código _IVC_.  
+* Seguidamente, en el campo **Origen** seleccionar la opción _Movimientos_.
+
+![](kbfo8.png)
 
 
 
