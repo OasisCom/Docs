@@ -63,7 +63,7 @@ Realizada previamente la parametrización en la aplicación [**KBFO - Formatos**
 
 ![](kpgf3.png)
 
-Generados los medios magnéticos validamos la información que se generó en la aplicación [**KFOR - Balance de Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor).  
+Generados los medios magnéticos validamos la información que se generó en la aplicación [**KFOR - Balance de Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-la-información-generada-en-los-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras).  
 
 
 
