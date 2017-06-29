@@ -61,7 +61,7 @@ El formato será descargado en PDF y se podrá observar así:
 
 Realizada previamente la parametrización en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras), procedemos a generar los medios magnéticos en la aplicación KPGF (se ejecutan para el año 2017 en esta prueba, ya que la compra tiene fecha de febrero de 2017).  
 
-Ingresamos los datos de consulta y damos click en el botón _Imprimir Registro_.
+Ingresamos los datos de consulta y damos click en el botón _Imprimir Reporte_.
 
 
 ![](kpgf3.png)
