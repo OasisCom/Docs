@@ -175,3 +175,129 @@ Una vez habilitado, el micrófono se tornará rojo indicando que está activado 
 
 ![](voz3.png)
 
+
+
+##  Acceso a programas de Navegación
+
+En la parte superior de la aplicación se encuentra el cuadro de texto para ingresar o escribir el nemotécnico del programa al que se desea acceder.
+
+![](accesoprogramas1.png)
+
+Los módulos tienen una letra que los identifica, la cual compone el nemotécnico del nombre de la aplicación.
+
+Contabilidad		K		Distribución		D
+Tesorería			T		Nómina				N
+Cartera				C		Recursos Humanos	R
+Cuentas por pagar 	P		Ventas Cliente		A
+Activos fijos		H		Mercadeo			A
+Presupuesto 		Q		Producción			L
+Asociados 			Z		Costos				U
+Ventas Logística	V		Mantenimiento		M
+Facturación			F		Básicos				B
+Punto de venta		J		Inventarios			I
+Compras				O		Salud				E
+Importaciones 		Y		Seguridad			S
+
+Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos especiales.
+
+-	Movimiento: para un nemotécnico de una ventana tipo movimiento, inicia con la letra representativa del módulo seguido de la letra M. Ejemplo: KMOV.
+
+-	Básicos: para un nemotécnico de una ventana de básicos, inicia con la letra (B) de básicos, seguida del nombre de la aplicación. Ejemplo: BTER Básicos de tercero.
+
+-	Reporte: para un nemotécnico de una ventana tipo reporte, inicia con la letra representativa del módulo seguida de la letra (R) y por último el nombre de la aplicación. Ejemplo: KRBG Balance General.
+
+-	Procesos Especiales: para un nemotécnico de una ventana de un proceso especial, inicia con la letra representativa del módulo seguida de la letra (P) y por último el nombre de la aplicación. Ejemplo: KPCR Cierre de resultados.
+
+
+## Maestro - Detalle de los programas
+
+Al ingresar a un programa se verán en la parte superior e inferior el maestro y detalle del mismo.
+
+![](maestrodetalle1.png)
+
+
+## Filtros
+
+Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.
+
+![](filtros1.png)
+
+## Filtros avanzados
+
+La función de Filtros Avanzados, permite acceder a la información de manera más específica de acuerdo a la necesidad. Esta opción está representada por el botón ![](filtrosavanzados1.png)
+
+![](filtrosavanzados2.png)
+
+De acuerdo en la aplicación a la cual se ingrese, la función Filtros Avanzados traerá una lista con las opciones de búsqueda, seguidamente, permitirá digitar el dato por el cual se desee filtrar la información. 
+
+En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtraremos las cuentas contables que inicien por el número 8, esto se realiza agregando el símbolo % (porcentaje) a la derecha del número.
+
+![](filtrosavanzados3.png)
+
+![](filtrosavanzados4.png)
+
+La función también permite filtrar por fechas, por ejemplo, de una fecha mayor a una fecha menor.
+
+![](filtrosavanzados5.png)
+
+Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un nuevo renglón de filtro dando click en el botón ![](filtrosavanzados6.png)
+
+![](filtrosavanzados7.png)
+
+## Opciones de documentos
+
+En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…) estas opciones también están.
+
+![](opcionesdocumentos1.png)
+
+El funcionamiento de cada botón es:
+
+**Eliminar**
+
+Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.
+
+![](eliminar1.png)
+
+![](eliminar2.png)
+
+## Agregar
+
+La funcionalidad permite agregar un nuevo registro en la aplicación.
+
+![](agregar1.png)
+
+Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la información relacionada con el documento.
+
+![](agregar2.png)
+
+**Guardar**
+
+Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.
+
+![](guardar1.png)
+
+**Cancelar**
+
+Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un documento o registro en el sistema.
+
+![](cancelar1.png)
+
+**Confirmar o Procesar**
+
+La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.
+
+![](confirmarprocesar1.png)
+
+**Reversar**
+
+Esta opción permite la corrección de errores en la inclusión de datos, su ejecución vuelve al comprobante o movimiento a estado ACTIVO en el cual se corrigen los errores cometidos para después volver a confirmar dicho comprobante o movimiento.
+
+![](reversar1.png)
+
+**Anular**
+
+La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.
+
+![](anular1.png)
+
+
