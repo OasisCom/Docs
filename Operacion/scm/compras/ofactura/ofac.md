@@ -85,7 +85,7 @@ Podemos ver que el sistema creó automáticamente los activos 2 y 3.
 
 ![](ofac5.png)
 
-Finalmente, si consultamos los activos en la aplicación [**HSSP - Saldos de Activos**]() veremos que estos se encuentran valorizados por el Costo + IVA. (_Ver aplicación_)
+Finalmente, si consultamos los activos en la aplicación [**HSSP - Saldos de Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#ingreso-de-activo-fijo-por-compras) veremos que estos se encuentran valorizados por el Costo + IVA. (_Ver aplicación_)
 
 
 
