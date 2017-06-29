@@ -9,7 +9,7 @@ editable: si
 
 ## [Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#ingreso-de-activo-fijo-por-compras)
 
-Realizado anteriormente  el movimiento de ingreso de Activo Fijo por Compras en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac), consultamos los activos en la aplicación HSSP y veremos que estos se encuentran valorizados por el Costo + IVA.
+Realizado anteriormente  el movimiento de ingreso de Activo Fijo por Compras en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos), consultamos los activos en la aplicación HSSP y veremos que estos se encuentran valorizados por el Costo + IVA.
 
 ![](hssp.png)
 
