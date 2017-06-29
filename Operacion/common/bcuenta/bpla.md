@@ -65,7 +65,7 @@ Es importante resaltar que estas cuentas solo deben ser incluidas para conceptos
 
 ## [Parametrización ingreso de activo fijo por compras](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#parametrización-ingreso-de-activo-fijo-por-compras)
 
-Para el proceso de Ingreso de Activo Fijo por Compras, se debe incluir en la plantilla del documento _FP x FP_ el código IVC tal como se muestra en la imagen.  
+Para el proceso de Ingreso de Activo Fijo por Compras, en la aplicación BPLA se debe incluir en la plantilla del documento _FP x FP_ el código IVC tal como se muestra en la imagen.  
 
 ![](bpla5.png)
 
