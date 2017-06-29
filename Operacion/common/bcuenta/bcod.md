@@ -11,6 +11,12 @@ En la aplicaci처n **BCOD** se permite parametrizar los c처digos que representar�
 
 ![](bcod1.png)
 
+## [Parametrizaci처n ingreso de activo fijo por compras](http://docs.oasiscom.com/Operacion/common/bcuenta/bcod#parametrizaci처n-ingreso-de-activo-fijo-por-compras)
+
+Para el proceso de Ingreso de Activo Fijo por Compras, se debe validar en la aplicaci처n BCOD que el c처digo **IVC** se encuentre creado, de no estarlo es necesario crearlo.  
+
+![](bcod2.png)
+
 
 
 
