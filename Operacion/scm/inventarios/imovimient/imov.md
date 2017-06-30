@@ -44,7 +44,7 @@ En el detalle:
 
 
 
-## PRODUCCIÓN
+## [Producción](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)
 
 Una vez validada la información del pedido se procesa el documento y se realiza un traslado de los insumos a la bodega requerida, para realizar este movimiento se debe ingresar a la aplicación _IMOV – movimientos de inventarios_.  
 
@@ -74,7 +74,7 @@ Se procesa el registro
 ![](imov6.png)
 
 
-## Inventario Periódico e Inventario Cíclico
+## [Inventario Periódico e Inventario Cíclico](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)
 
 En la aplicación **IMOV** se validarán los documentos de ajuste generados por la aplicación [**IFAJ - Genera Ajustes**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), estos deberán ser procesados con el fin de adecuar correctamente el inventario realizado.  
 
@@ -88,7 +88,7 @@ Validada la información procesamos los documentos dando click en el botón _Pro
 
 ![](imov8.png)
 
-Para verificar que el inventario haya sido ajustado correctamente ingresaremos a la aplicación [**ISPL - Saldos por Localización**](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl).  
+Para verificar que el inventario haya sido ajustado correctamente ingresaremos a la aplicación [**ISPL - Saldos por Localización**](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl#inventario-periódico-e-inventario-cíclico).  
 
 
 

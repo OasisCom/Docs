@@ -22,6 +22,6 @@ Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png) y el
 
 ![](ifcd2.png)
 
-Generado el proceso anterior, ingresaremos a la aplicación  [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis) en donde se validarán las diferencias de inventario encontradas por el sistema OasisCom, estas se podrán ver en el campo _Diferencia_.  
+Generado el proceso anterior, ingresaremos a la aplicación  [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis#validación-de-diferencias-en-inventario) en donde se validarán las diferencias de inventario encontradas por el sistema OasisCom, estas se podrán ver en el campo _Diferencia_.  
 
 
