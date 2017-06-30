@@ -5,6 +5,6 @@ permalink: /Operacion/is/salud/eafiliacion/
 editable: si
 ---
 
-# Afiliaciones
+# Afiliación
 
 ![](afiliacion.png)
