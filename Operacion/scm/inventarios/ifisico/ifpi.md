@@ -18,7 +18,7 @@ Mediante la aplicación IFPI se genera el inventario diario a realizar. Este pro
 Para ejecutar el proceso de preparación de inventario periódico ingresamos los siguientes datos:  
 
 **Fecha:** fecha actual en la que se va a realizar el inventario.  
-**Ubicación:** ingresar o seleccionar del zoom la ubicación en la cual se encuentran los productos.  
+**Ubicación:** ingresar o seleccionar del zoom la ubicación (bodega) en la cual se encuentran los productos.  
 **Línea:** si el inventario se va a realizar por línea de producto, ingresar la línea correspondiente.  
 **Proceso:** seleccionar de la lista desplegable la opción _Periódico_.  
 **Tipo Producto:** seleccionar de la lista desplegable la opción _Terminado_.  

@@ -23,4 +23,4 @@ Agregamos un nuevo registro y diligenciamos los siguientes campos.
 **Máximo:** ingresar el valor máximo del rango que se registra. Este valor corresponde a la suma del total de productos inventariados.  
 **Días:** ingresar la cantidad de días que se deberá realizar el inventario para cada rango.  
 
-Parametrizados los rangos, ingresaremos a la aplicación [**IFPI - Prepara Inventario Diario**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi), en donde se generará el proceso para realizar el inventario cíclico.  
+Parametrizados los rangos, ingresaremos a la aplicación [**IFPI - Prepara Inventario Diario**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi#inventario-cíclico), en donde se generará el proceso para realizar el inventario cíclico.  
