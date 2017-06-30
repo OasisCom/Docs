@@ -8,5 +8,3 @@ editable: si
 # Afiliaciones
 
 ![](afiliacion.png)
-
-![](afiliacion1.png)
