@@ -9,7 +9,7 @@ editable: si
 
 Proceso que genera un inventario diario para realizar los controles correspondientes.  
 
-## [Inventario Periodico](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi#inventario-periodico)
+## [Inventario Periódico](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi#inventario-periódico)
 
 Mediante la aplicación IFPI se genera el inventario diario a realizar. Este proceso se debe ejecutar el mismo día en que se vaya a realizar el invantario.  
 
