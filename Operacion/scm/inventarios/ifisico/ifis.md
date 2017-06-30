@@ -26,15 +26,6 @@ Al ingresar un número en el campo _Cantidad 1_, es necesario dar click en el bo
 Ingresadas las cantidades de cada artículo, nos dirigiremos a la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), la cual nos ayudará a calcular las diferencias de existencias encontradas por el sistema en su base de datos con las ingresadas por el usuario.  
 
 
-## Validación de diferencias en inventario
-
-Generado el proceso en la aplicación  [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), en la aplicación IFIS - Registo de Conteos validaremos las diferencias de existencias calculadas por el sistema, estas se podrán ver en el campo _Diferencia_.  
-
-![](ifis3.png)
-
-Validadas las diferencias ingresaremos a la aplicación [**IFAJ - Genera Ajustes**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), en donde se generará el proceso para que el sistema realice los ajustes correspondientes al inventario de acuerdo a las diferencias encontradas anteriormente.  
-
-
 ## Inventario Cíclico
 
 Generado anteriormente el proceso de la aplicación [**IFPI - Prepara Inventario Diario**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi), procedemos a ingresar las cantidades de los productos inventariados en la aplicación IFIS - Registro de Conteos. Se consultará por fecha y ubicación, siendo estas, las mismas que se ingresaron en la generación del proceso en la aplicación  [**IFPI - Prepara Inventario Diario**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi).  En dicha consulta, solo aparecerán los productos que clasifican en el rango indicado anteriormente en la generación del inventario cíclico así no se encuentren existencias de los productos.  
@@ -50,3 +41,12 @@ En el campo _Real_, se muestran las cantidades por producto que existen en el si
 ![](ifis5.png)
 
 Ingresadas las cantidades de cada artículo, nos dirigiremos a la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), la cual nos ayudará a calcular las diferencias de existencias encontradas por el sistema en su base de datos con las ingresadas por el usuario.  
+
+
+## Validación de diferencias en inventario
+
+Generado el proceso en la aplicación  [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), en la aplicación IFIS - Registo de Conteos validaremos las diferencias de existencias calculadas por el sistema, estas se podrán ver en el campo _Diferencia_.  
+
+![](ifis3.png)
+
+Validadas las diferencias ingresaremos a la aplicación [**IFAJ - Genera Ajustes**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), en donde se generará el proceso para que el sistema realice los ajustes correspondientes al inventario de acuerdo a las diferencias encontradas anteriormente.  
