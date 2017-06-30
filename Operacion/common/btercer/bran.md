@@ -18,7 +18,7 @@ Agregamos un nuevo registro y diligenciamos los siguientes campos.
 **Documento:** ingresar documento EN correspondiente a _Entradas al Inventario_.  
 **Concepto:** ingresar el concepto que la empresa haya parametrizado en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para este tipo de documento. En este caso, el concepto será CI correspondiente a _Cargue Inicial por Inventario Físico_.  
 **Tipo:** ingresar la letra **T** correspondiente a _Terminado_.  
-**Renglón Id:** asignar el número de renglón para cada rango, este número es el que identifica cada rango en las demás aplicaciones que lo requieran.  
+**Id del Rango:** asignar el número de renglón para cada rango, este número es el que identifica cada rango en las demás aplicaciones que lo requieran.  
 **Mínimo:** ingresar el valor mínimo del rango que se regista.  
 **Máximo:** ingresar el valor máximo del rango que se registra. Este valor corresponde a la suma del total de productos inventariados.  
 **Días:** ingresar la cantidad de días que se deberá realizar el inventario para cada rango.  
