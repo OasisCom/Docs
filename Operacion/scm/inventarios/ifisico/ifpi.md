@@ -32,7 +32,7 @@ Generado el anterior proceso, procederemos a realizar el inventario periódico e
 
 ## [Inventario Cíclico](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi#inventario-cíclico)
 
-Por medio de la aplicación IFPI se genera el inventario cíclico que tendrá en cuenta los rangos parametrizados anteriormente en la aplicación [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran). Este proceso se deberá generar un día antes de realizar el inventario.  
+Por medio de la aplicación IFPI se genera el inventario cíclico que tendrá en cuenta los rangos parametrizados anteriormente en la aplicación [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran#inventario-cíclico). Este proceso se deberá generar un día antes de realizar el inventario.  
 
 Para ejecutar el proceso de preparación de inventario cíclico ingresamos los siguientes datos:  
 
