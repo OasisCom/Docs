@@ -60,7 +60,7 @@ A continuación, se encuentran los campos para ingresar los datos del beneficiar
 Diligenciados todos los datos del beneficiario, damos click en el botón 
 _Guardar_.
 
-A continuación, adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio de acuerdo a la parametrización realizada en la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-EEMOV) para el documento MS, concepto IN y motivo 2.  
+A continuación adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio de acuerdo a la parametrización realizada en la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov) para el documento MS, concepto IN y motivo 2.  
 
 
 
