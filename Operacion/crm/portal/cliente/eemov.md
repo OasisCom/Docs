@@ -45,7 +45,10 @@ Al dar click en _Guardar_, la aplicación arrojará un formulario, en donde inic
 
 ![](eemov8.png)
 
+
 Seguidamente se encuentran los anexos, en donde digitaremos el número 1 en el campo del documento que se haya recibido por parte del afiliado, este campo se verá con una **X** en el formulario cuando se genere, también activaremos los flag de los demás anexos recibidos por parte del afiliado según se requieran.  
+
+
 
 ![](eemov9.png)
 
@@ -60,13 +63,33 @@ A continuación, se encuentran los campos para ingresar los datos del beneficiar
 Diligenciados todos los datos del beneficiario, damos click en el botón 
 _Guardar_.
 
-A continuación adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio de acuerdo a la parametrización realizada en la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov) para el documento MS, concepto IN y motivo 2.  
+A continuación adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio de acuerdo a la parametrización realizada en la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov) para el documento MS, concepto IN y motivo 2. (_Ver aplicación_)  
+
+Damos click en el botón _Adjuntar_, elegimos la ruta donde se encuentran los soportes digitales del afiliado por norma y se proceden a cargar al sistema.  
+
+![](adjuntar.png)
 
 
+![](adjuntar1.png)
 
+Seleccionamos de la ruta los documentos a cargar y asignamos el tipo de adjunto.  
 
+![](adjuntar2.png)
 
+Para cargar los documentos adjuntos damos click en el botón _Aceptar_.
 
+![](adjuntar3.png)
 
+Finalmente, para confirmar el cargue de los soportes damos click en el botón _Save changes_ (Guardar cambios).  
 
+![](adjuntar4.png)
 
+Al quedar cargados los documentos, estos se visualizarán de la siguiente manera:  
+
+![](adjuntar5.png)
+
+Cargados correctamente los documentos digitales, procesamos el formulario dando click en el botón ![](procesar.png) y a continuación, el sistema arrojará un mensaje indicando que la transacción fue exitosa.  
+
+![](procesar1.png)
+
+Para confirmar el registro del movimiento realizado anteriormente, ingresamos a la aplicación [**EMOV – Formulario de Afiliados**]() y filtramos por documento, consecutivo, ubicación y concepto. Allí verificamos que el registro se encuentre en estado procesado.
