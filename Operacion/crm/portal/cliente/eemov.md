@@ -92,4 +92,5 @@ Cargados correctamente los documentos digitales, procesamos el formulario dando 
 
 ![](procesar1.png)
 
-Para confirmar el registro del movimiento realizado anteriormente, ingresamos a la aplicación [**EMOV – Formulario de Afiliados**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/emov#confirmar-registro-generado-en-eemov) y filtramos por documento, consecutivo, ubicación y concepto. Allí verificamos que el registro se encuentre en estado procesado.
+Para confirmar el registro del movimiento realizado anteriormente, ingresamos a la aplicación [**EMOV – Formulario de Afiliados**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/emov#confirmar-registro-generado-en-eemov) y filtramos por documento, consecutivo, ubicación y concepto. Allí verificamos que el registro se encuentre en estado procesado. (_Ver aplicación_)
+
