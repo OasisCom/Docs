@@ -16,6 +16,8 @@ La aplicación **BMOT** permite el registro de los diferentes motivos por los cu
 **Motivo:** número de identificación asignado al motivo que se registra.  
 **Nombre motivo:** nombre asignado al motivo que se registra.  
 
+## [Parametrización Anexos EEMOV]()
 
 
+![](bmot2.png)
 
