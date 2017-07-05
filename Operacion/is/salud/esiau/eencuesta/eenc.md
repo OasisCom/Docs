@@ -20,16 +20,16 @@ Al momento de agregar una nueva fila el sistema arrojará un formulario en donde
 
 ![](eenc2.png)
 
-**Ubicación:** ingresar el código correspondiente a la ubicación geográfica desde donde se está generando la encuesta o seleccionarla del zoom. Las ubicaciones se encuentran parametrizadas en la aplicación [**BUBG - Ubicaciones Geográficas**](http://docs.oasiscom.com/Operacion/common/borgan/bubg)
+**Ubicación:** ingresar el código correspondiente a la ubicación geográfica desde donde se está generando la encuesta o seleccionarla del zoom. Las ubicaciones se encuentran parametrizadas en la aplicación [**BUBG - Ubicaciones Geográficas**](http://docs.oasiscom.com/Operacion/common/borgan/bubg).  
 
 ![](eenc3.png)
 
-**Concepto:** ingresar las siglas del concepto por el cual se genera la encuesta o seleccionarlo del zoom. Los conceptos son parametrizados en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon) 
+**Concepto:** ingresar las siglas del concepto por el cual se genera la encuesta o seleccionarlo del zoom. Los conceptos son parametrizados en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
 
 ![](eenc4.png)
 
 **Estado:** el estado es asignado automáticamente por el sistema, se generará en estado _Activo_.
-**Motivo:** indicar el motivo de la encuesta o dar doble click y seleccionarlo del zoom. Los motivos son parametrizados en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).
+**Motivo:** indicar el motivo de la encuesta o dar doble click y seleccionarlo del zoom. Los motivos son parametrizados en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
 
 ![](eenc5.png)
 
@@ -46,9 +46,9 @@ Ingresados los datos del formulario damos click en el botón ![](guardar.png) y 
 
 ![](eenc7.png)
 
-En el **Detalle**, se procede a diligenciar la Encuesta de Satisfacción al Cliente, la cual contiene cinco (5) preguntas por norma (Res. 4343 de 2012 – CCE 000016 de 2013).
+En el **Detalle**, se procede a diligenciar la Encuesta de Satisfacción al Cliente, la cual contiene cinco (5) preguntas por norma (Res. 4343 de 2012 – CCE 000016 de 2013).  
 
-Para responder cada pregunta de la encuesta, editamos cada renglón ya sea dando click sobre el mismo o mediante el botón ![](editar.png) _Editar_ y seleccionamos en el campo _Campo Nuevo_ la opción que corresponda según respuesta del afiliado (SI o NO) y damos click en el botón ![](guardar1.png) _Guardar_ de la barra de herramientas del detalle con el fin de confirmar la respuesta de la pregunta editada.
+Para responder cada pregunta de la encuesta, editamos cada renglón ya sea dando click sobre el mismo o mediante el botón ![](editar.png) _Editar_ y seleccionamos en el campo _Campo Nuevo_ la opción que corresponda según respuesta del afiliado (SI o NO) y damos click en el botón ![](guardar1.png) _Guardar_ de la barra de herramientas del detalle con el fin de confirmar la respuesta de la pregunta editada.  
 
 ![](detalle.png)
 
