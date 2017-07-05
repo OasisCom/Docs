@@ -29,7 +29,7 @@ editable: si
 ##  CÓMO GENERAR UNA FACTURA Y HACER CIERRE DE TURNO
 
 
-[![Ventas](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1730bcf0679e7436098041fff8693f682&authkey=AakTQK4AcLA--fiGIJvNoUo)](https://youtu.be/IZv0XdFvXAo)
+[![Ventas](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=19fd6845afbf447219014e5fc98225237&authkey=AeuM8ogGNP_PBguCBpibNv8)](https://youtu.be/IZv0XdFvXAo)
 
 
 
