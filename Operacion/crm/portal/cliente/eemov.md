@@ -92,5 +92,7 @@ Cargados correctamente los documentos digitales, procesamos el formulario dando 
 
 ![](procesar1.png)
 
+Los Movimientos de cada registro figuran en el Sistema de información OASISCOM en estado Procesado y No Reportado, este estado le permite al Responsable de los reportes de los archivos exportar los registros grabados en el sistema para su debido proceso ante el FOSYGA
+
 Para confirmar el registro del movimiento realizado anteriormente, ingresamos a la aplicación [**EMOV – Formulario de Afiliados**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/emov#confirmar-registro-generado-en-eemov) y filtramos por documento, consecutivo, ubicación y concepto. Allí verificamos que el registro se encuentre en estado procesado. (_Ver aplicación_)
 
