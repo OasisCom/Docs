@@ -11,5 +11,10 @@ La aplicación EBAF permite consultar el registro de los afiliados por diferente
 
 Cuando un registro, previamente ingresado por la aplicación [**EEMOV - Formulario de Afiliados WEB**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov), presenta algún inconveniente en sus datos, el responsable de los reportes de los archivos puede realizar una reversión de estado para la modificación necesaria.  
 
+![](ebaf.png)
 
+Igualmente, la aplicación nos permite visualizar toda la información de un afiliado a través de la siguiente vista dando click en el botón _Ver fila seleccionada_ ![](nuevo.png)  ubicado en la barra de herramientras del maestro.  
 
+![](ver.png)
+
+![](ebaf1.png)
