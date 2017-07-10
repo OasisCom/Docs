@@ -9,7 +9,7 @@ editable: si
 
 Esta aplicación permite cargar o descargar información sobre diferentes escenarios del sistema OasisCom, de acuerdo a una parametrización previa.  
 
-## [Medios Magnéticos]()
+## [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
 
 En este caso, BINT permite descargar la información necesaria para generar los Médios Magnéticos.
 
@@ -26,7 +26,7 @@ Ingresados los datos dar click en _Aceptar_, el sistema descargará el archivo s
 
 Se debe tener en cuenta en el documento de Excel que se vaya a cargar a la DIAN, eliminar la columna en donde se indica el número del formato, puesto que, este número es interno del sistema OasisCom y no es necesario en la información que se vaya a enviar.  
 
-## [Parametrización XML]()
+## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parametrización-xml)
 
 En BINT - Interfaces, generaremos el archivo de la publicación parametrizada anteriormente en la aplicación  [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub). Para ello, seleccionaremos la publicación de la lista desplegable del campo _Publicación_.  
 
@@ -59,7 +59,7 @@ Al seleccionar el archivo se debe dar clic en _Aceptar_ y posteriormente se carg
 
 Para verificar la información cargada en el sistema por medio de BINT - Interfaces, se puede acceder a las aplicaciones **EFFAC - Facturas** o **EOFAC - Facturas de Compra**.
 
-## [Archivos planos de Salud]()
+## [Archivos planos de Salud](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud)
 
 
 
