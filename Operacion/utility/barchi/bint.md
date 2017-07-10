@@ -61,6 +61,12 @@ Para verificar la información cargada en el sistema por medio de BINT - Interfa
 
 ## [Archivos planos de Salud](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud)
 
+En la aplicación BINT se crearon los _Dynamic_ para archivos planos (Movimientos), que permiten realizar algunos ajustes previamente con los registros antes de descargar los archivos oficiales.  
+
+Al ingresar a la aplicación se debe seleccionar el archivo según su movimiento en el área de aseguramiento.  
+
+![](bintsalud.png)
+
 
 
 
