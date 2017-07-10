@@ -15,3 +15,4 @@ En esta sección podrán encontrar las aplicaciones de la generación de los dif
 - Generación de formatos
 - Inicio de año
 - Recalculo contable
+- Genera Ajustes
