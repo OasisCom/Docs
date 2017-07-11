@@ -7,5 +7,5 @@ editable: si
 
 # Actas Comité
 
-
+![](eact.png)
 
