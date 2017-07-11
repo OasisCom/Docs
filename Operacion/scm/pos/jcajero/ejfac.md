@@ -48,7 +48,7 @@ Ingresados los anteriores datos, damos click en el botón _Guardar_ ![](guardar.
 
 ### Detalle
 
-En la parte derecha de la ventana se encuentra la pestaña _Detalle_, en donde se seleccionará el producto correspondiente al documento que se realiza, ya sea que se factura o se realiza devolución.  
+En la parte inferior de la ventana se encuentra la pestaña _Detalle_, en donde se seleccionará el producto correspondiente al documento que se realiza, ya sea que se factura o se realiza devolución.  
 
 ![](ejfac4.png)
 
@@ -59,8 +59,6 @@ En la parte derecha de la ventana se encuentra la pestaña _Detalle_, en donde s
 Seleccionado el producto, se debe dar click en el botón ![](mas.png) para que este sea adjuntado a la lista de productos.  
 
 ![](ejfac6.png)
-
-![](ejfac7.png)
 
 Si se desean agregar más productos, se vuelve a buscar en el campo _ProductId_ y se da click en el botón ![](mas.png).
 
