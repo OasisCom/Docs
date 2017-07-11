@@ -11,7 +11,7 @@ editable: si
 
 La aplicación **ETUT** permite llevar a cabo el registro de tutelas, el seguimiento y las autorizaciones correspondientes al proceso. El proceso inicia cuando el ente judicial indica a la entidad prestadora de servicios de salud sobre una tutela.
 
-####**Registro**
+#### **Registro**
 
 Para registrar una tutela dar click en el botón **+** que se encuentra en la barra de herramientas, se desplegará un nuevo formulario en donde se deben diligenciar los campos correspondientes.
 
@@ -23,7 +23,7 @@ En el maestro de la aplicación quedará registrada la nueva tutela.
 
 ![Registro de nueva tutela](ETUT2.png)
 
-####**Seguimiento**
+#### **Seguimiento**
 
 Para realizar seguimiento a una tutela, se hará uso de la funcionalidad _WorkFlow_ que se encuentra en la barra de herramientas y se identifica con el botón ![](Workflow.png).
 
@@ -38,7 +38,7 @@ Las actividades por las cuales pasará la tutela son parametrizables en la aplic
 
 ![SPRC-Procesos](SPRC.png)
 
-####**Autorización**
+#### **Autorización**
 
 Cuando la tutela se encuentre en la última actividad en la cual se autorizan los productos de la misma, se deben ingresar dichos productos en el detalle de la aplicación ETUT - Tutelas teniendo en cuenta los campos _cantidad_ y _autorizado._
 
