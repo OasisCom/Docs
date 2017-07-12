@@ -41,6 +41,9 @@ En la pestaña de detalle se especifica el documento origen por el cual se está
  **ProyectId:** Número de proyecto.  
  **BaseRetencion:** Valor de retención que se le aplica a un concepto.  
 
+## Documento de Ajustes Contables
+
+Generado anteriormente el proceso de Generación
 
 
 
