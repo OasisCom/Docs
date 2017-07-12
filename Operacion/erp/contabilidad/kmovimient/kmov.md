@@ -45,7 +45,21 @@ En la pestaña de detalle se especifica el documento origen por el cual se está
 
 Realizado anteriormente el proceso de Generación de Ajustes en la aplicación [**KPGA**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpga), consultaremos los documentos generados en la aplicación _KMOV_ con los ajustes encontrados. El documento que se genera será _KA x KA_ ,es decír, documento KA por concepto KA.  
 
-Al ingresar a KMOV filtraremos por documento KA, 
+Al ingresar a KMOV filtraremos por documento KA, concepto KA y estado _Activo_.  
+
+![](kmov3.png)
+
+Se deberán validar los ajustes que se encuentran en el detalle de la fila seleccionada del maestro y posteriormente procesar el documento dando click en el botón _Procesar_.  
+
+![](kmov4.png)
+
+En las siguientes aplicaciones se pueden validar los cambios que se hayan efectuado al momento de generar los ajustes y haber procesado el documento en KMOV.  
+
+* [Balance de Prueba Ajustado - KRPA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpa)
+* [Balance de Prueba Ajustado - KRPA1](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpa1)
+* [Balance General Ajustado  - KRBA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krba)
+* [Balance General Ajustado  - KRBA1](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krba1)
+* [Estado de Ganancias y Pérdidas Ajustado - KRGA1](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krga1)
 
 
 
