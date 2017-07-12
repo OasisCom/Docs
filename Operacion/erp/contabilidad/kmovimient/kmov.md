@@ -41,9 +41,14 @@ En la pestaña de detalle se especifica el documento origen por el cual se está
  **ProyectId:** Número de proyecto.  
  **BaseRetencion:** Valor de retención que se le aplica a un concepto.  
 
-## Documento de Ajustes Contables
+## [Documento de Ajustes Contables](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov#documento-de-ajustes-contables)
 
-Generado anteriormente el proceso de Generación
+Realizado anteriormente el proceso de Generación de Ajustes en la aplicación [**KPGA**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpga), consultaremos los documentos generados en la aplicación _KMOV_ con los ajustes encontrados. El documento que se genera será _KA x KA_ ,es decír, documento KA por concepto KA.  
+
+Al ingresar a KMOV filtraremos por documento KA, 
+
+
+
 
 
 
