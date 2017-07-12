@@ -26,7 +26,7 @@ Se deberá ingresar el mes y año de generación de ajustes, seleccionar el libr
 **Libro:** seleccionar el libro DIF IFRS.  
 **Operación:** seleccionar la operación Ajustes.  
 
-Al dar click en el botón ![](actualizar.png) la aplicación generará un documento en [**KMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov) en el cual relacionará en el detalle los ajustes encontrados por el sistema. Allí se deberán validar y seguidamente procesar el documento para que dichos ajustes sean aplicados a los saldos.  
+Al dar click en el botón ![](actualizar.png) la aplicación arrojará un mensaje de control indicando que la operación fue exitosa y generará un documento en [**KMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov) en el cual relacionará en el detalle los ajustes encontrados por el sistema. Allí se deberán validar y seguidamente procesar el documento para que dichos ajustes sean aplicados a los saldos.  
 
 Los saldos ajustados puedes ser validados en diferentes aplicaciones:  
 
