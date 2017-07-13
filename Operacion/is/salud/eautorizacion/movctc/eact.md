@@ -19,3 +19,15 @@ En el detalle se encuentra el servicio o medicamento que solicitan al paciente. 
 
 El anterior campo hace refencia a la frecuencia con el que será entregado el medicamento o la frecuencia con la que se realizará el servicio, según corresponda.  
 
+
+La opción _Única Productos Duraderos_ permite hallar los días de tratamiento.  
+
+Si el Comité Técnico Científico de la EPS aprueba la solicitud, se deberá procesar el documento dando click en el botón de la barra de herramientas _Procesar_ ![](procesar.png).  
+
+Procesado el documento, el sistema mostrará un mensaje indicando que la transacción fue exitosa y el documento pasará a estado _Procesado_.
+
+![](eact2.png)
+
+
+
+
