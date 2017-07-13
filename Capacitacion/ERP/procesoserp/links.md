@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Curso Financiero
-permalink: /Capacitacion/ERP/procesoserp/
+permalink: /Capacitacion/ERP/procesoserp/links
 editable: si
 ---
 
