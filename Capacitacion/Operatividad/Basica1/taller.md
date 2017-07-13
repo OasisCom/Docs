@@ -8,8 +8,6 @@ editable: si
 # TALLER OPERATIVIDAD BÁSICA 1  
 
 
-TALLER  
-
 1) Ingrese a OasisCom, cambie el idioma del sistema a portugués y liste enfrente como le aparecen las siguientes palabras:  
 
 - Utilidades  
