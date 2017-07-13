@@ -155,7 +155,7 @@ _Nota:_  Se puede ingresar cuantos renglones sean necesarios para el grupo de cu
 
 Luego de realizar la configuración anterior ingresaremos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf), en donde procederemos a generar el formato 350 de la DIAN.  
 
-## [Parametrización para generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
+## [Parametrización de medios magnéticos para el Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
 
 Para la generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras es necesario parametrizar la aplicación _KBFO - Formatos_ de la siguiente manera en la pestaña del detalle **CUENTAS**.  
 

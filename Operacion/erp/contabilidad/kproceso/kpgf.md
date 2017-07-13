@@ -57,7 +57,7 @@ El formato será descargado en PDF y se podrá observar así:
 ![](pdf350.png)
 
 
-## [Generación de medios magnéticos correspondientes al Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
+## [Generación de medios magnéticos para el Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras)
 
 Realizada previamente la parametrización en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-para-generación-de-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras), procedemos a generar los medios magnéticos en la aplicación KPGF (se ejecutan para el año 2017 en esta prueba, ya que la compra tiene fecha de febrero de 2017).  
 
