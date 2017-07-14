@@ -68,30 +68,22 @@ Al ingresar a la aplicación se debe seleccionar el archivo según su movimiento
 ![](bintsalud.png)
 
 
+Seguidamente, seleccionamos la operación que se desea hacer con el _Dynamic_.  
 
+![](operacion.png)
 
+En la parte inferior, damos click en el botón ![](execute.png), el cual nos arrojará una vista previa de la plantilla con la información contenida en la publicación seleccionada anteriormente.  
 
+![](bint9.png)
 
+Seleccionamos de la lista desplegale _Export Format_, el formato en el cual se desea descargar y finalmente damos click en el botón _Aceptar_.  
 
+![](bint10.png)
 
+A continuación se puede observar que el archivo ha sido descargado en el formato seleccionado.  
 
+![](bint11.png)
 
+El documento se visualizará de la siguiente manera y estará listo para editar en caso que se requiera.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](bint12.png)
