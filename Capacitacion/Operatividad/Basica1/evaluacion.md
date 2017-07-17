@@ -17,25 +17,25 @@ EVALUACIÓN
 
 3)  Relacione la columna de la izquierda con la de la derecha  
 
-Tesorería						J 
+Tesorería			-			J 
 
-Activos Fijos					Y  
+Activos Fijos		-			Y  
 
-Inventarios						K  
+Inventarios			-			K  
 
-Presupuesto						P  
+Presupuesto			-			P  
 
-Cuentas por pagar				O  
+Cuentas por pagar	-			O  
 
-Asociados						Q  
+Asociados			-			Q  
 
-Compras							H  
+Compras				-			H  
 
-Contabilidad					I  
+Contabilidad		-			I  
 
-Importaciones					T  
+Importaciones		-			T  
 
-Punto de Venta					Z  
+Punto de Venta		-			Z  
 
 
 4)  ¿La aplicación HMOV a que módulo y tipo de ventana pertenece?  
