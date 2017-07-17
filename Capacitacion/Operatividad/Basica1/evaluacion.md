@@ -17,25 +17,16 @@ EVALUACIÓN
 
 3)  Relacione la columna de la izquierda con la de la derecha  
 
-Tesorería			-			J 
-
-Activos Fijos		-			Y  
-
-Inventarios			-			K  
-
-Presupuesto			-			P  
-
-Cuentas por pagar	-			O  
-
-Asociados			-			Q  
-
-Compras				-			H  
-
-Contabilidad		-			I  
-
-Importaciones		-			T  
-
-Punto de Venta		-			Z  
+- Tesorería			-		J 
+- Activos Fijos		-		Y  
+- Inventarios		-		K  
+- Presupuesto		-		P  
+- Cuentas por pagar	-		O  
+- Asociados			-		Q  
+- Compras			-		H  
+- Contabilidad		-		I  
+- Importaciones		-		T  
+- Punto de Venta	-		Z  
 
 
 4)  ¿La aplicación HMOV a que módulo y tipo de ventana pertenece?  
@@ -51,7 +42,6 @@ Falso  (  )    Verdadero (  )
 7)  Seleccione 3 idiomas en los que puede traducir el sistema OasisCom  
 
 -Español	- Inglés	- Francés	- Portugués  
-
 -Alemán		- Chino		- Italiano	- Latín  
 
 8)  Nombre los tipos de ventanas comunes que tiene OasisCom  
