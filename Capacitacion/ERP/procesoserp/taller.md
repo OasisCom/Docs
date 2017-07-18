@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Taller curso Financiero
-permalink: /Capacitacion/Operatividad/tips/taller/
+permalink: /Capacitacion/ERP/procesoserp/taller/
 editable: si
 ---
 
