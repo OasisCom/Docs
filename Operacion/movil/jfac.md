@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Registro Facturas
-permalink: /Operacion/movil/facturas/jfac
+permalink: /Operacion/movil/jfac
 editable: si
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Turnos
-permalink: /Operacion/movil/turnos/jtur
+permalink: /Operacion/movil/jtur
 editable: si
 ---
 
