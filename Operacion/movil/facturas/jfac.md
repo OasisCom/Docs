@@ -5,7 +5,7 @@ permalink: /Operacion/movil/facturas/jfac
 editable: si
 ---
 
-# Registro de Facturas
+# Registro de Facturas - JFAC
 
 En esta opción crearemos la venta del tiquete o el registro del libro del carro. En la opción _Menú_ seleccionaremos la aplicación JFAC - Facturas.  
 
