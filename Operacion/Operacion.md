@@ -74,11 +74,11 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 - Filtro con palabra clave:
 
-![](filtrocambiarempresaclave.png)
+![](filtrocambiarempresasclave.png)
 
 - Filtro con el nombre completo de la empresa
 
-![](filtrocambiarempresanombre.png)
+![](filtrocambiarempresasnombre.png)
 
 
 #### **Soporte**  
