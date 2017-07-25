@@ -101,6 +101,14 @@ Ahora es necesario validar la generación de medios magnéticos, para ello se de
 
 La explicación del _Escenario 2_ se puede ver en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)
 
+## [Contabilización de Fletes](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#contabilización-de-fletes)
 
+Configurado el concepto correctamente en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes), se procede a crear la factura de compra por el respectivo concepto diligenciando el precio del flete.  
+
+![](ofac7.png)
+
+El resultado se verá reflejado en la pestaña _Contabilización_ del detalle:
+
+![](ofac8.png)
 
 
