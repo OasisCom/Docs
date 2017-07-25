@@ -75,3 +75,5 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 Realización de una consulta dinámica en la aplicación _VPED - Pedidos_.  
 
 ![](vped7.png)
+
+# [Verificación de Pedidos](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
