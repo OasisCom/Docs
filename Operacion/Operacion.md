@@ -70,7 +70,7 @@ Al dar click en la opción _Perfil_, el sistema arrojará una ventana en donde s
 
 Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana con todas las empresas que tiene asignadas a su usuario, en dicha ventana se podrá seleccionar la empresa que requiere consultar y el sistema lo trasladará a la misma. En caso de conocer el nombre de la empresa existe un filtro avanzado en la parte superior el cual facilita al usuario la consulta de la empresa, esto se puede realizar por una palabra clave o por el nombre completo de la empresa:
 
-![](filtrocambiarempresa.png)
+![](filtrocambiarempresas.png)
 
 - Filtro con palabra clave:
 
