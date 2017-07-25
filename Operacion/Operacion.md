@@ -649,7 +649,17 @@ Podemos confirmar el envío de la orden de compra y del documento adjunto en el 
 ![](envioemail13.png)
 
 
+## [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarionota)
 
+En algunas opciones del sistema se podrán ingresar notas o comentarios a los documentos mediante el icono de chat o mensaje que se muestra a continuación, al seleccionar dicho icono se desplegará la siguiente ventana en donde permite ingresar las notas que el usuario desee:
+
+![](notas.png)
+
+![](notas1.png)
+
+De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
+
+![](notas2.png)
 
 
 
