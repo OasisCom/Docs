@@ -1795,9 +1795,9 @@
       url: /Operacion/movil/
       subitems:
         - text: Faturas
-          url: /Operacion/cloud/jfac
+          url: /Operacion/movil/jfac
         - text: Turnos
-          url: /Operacion/cloud/jtur
+          url: /Operacion/movil/jtur
 - text: Comercializacion
   url: /Comercializacion/
   subitems:
