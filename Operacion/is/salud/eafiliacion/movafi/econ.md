@@ -27,4 +27,6 @@ Con los dos archivos cargados en la aplicación ECON, procedemos a conciliar la 
 
 El sistema validará por cada renglón de la pestaña Operador y Banco que para cada aportante los valores sean iguales, de ser así activará el check tanto para la pestaña _Operador_ como para la pestaña _Banco_ si no coinciden el check no se activará.  
 
+La aplicación cuenta con una vista previa en la cual se puede ver en tipo reporte las diferencias encontradas entre Operador y Banco. Para ello, damos click en el botón ![](lupa.png) ubicado en la barra de herramientas del maestro.  
 
+![](econ4.png)
