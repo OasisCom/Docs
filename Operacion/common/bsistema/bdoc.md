@@ -126,3 +126,12 @@ Dejar los demás campos vacios o en 0 según corresponda.
 Diligenciados los campos anteriores, damos click en el botón _Guardar_ ubicado en la barra de herramientas del detalle.  
 
 Finalmente, han sido parametrizados en BDOC los documentos SA y EN con su respetivo concepto. Para continuar con la ejecución del inventario periódico, ingresaremos a la aplicación [**IFPI - Prepara Inventario Diario**](https://github.com/OasisCom/Docs/blob/master/Operacion/scm/inventarios/ifisico/ifpi.md).  
+
+## [Parametrización de Fletes](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
+
+Para calcular el flete, se debe configurar inicialmente el documento de la factura de compra desde la opción **BDOC** y en el campo _Clase_ se debe seleccionar el flete a calcular.  
+
+![](bdoc8.png)
+
+Seguidamente, ingresaremos a la aplicación [**OFAC - Facturas de Compra**]
+
