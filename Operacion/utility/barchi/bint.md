@@ -103,7 +103,7 @@ Seleccionada la interfaz correspondiente, indicamos la operación _Upload_ y bus
 
 ![](bint14.png)
 
-La información cargada se podrá ver reflejada en la aplicación [**ELIQ- Liquidaciones**](), en donde se creará un documento _PO - Planilla Operador_ para cada uno de los archivos, igualmente, se crearán los documentos _ER - Conciliación Salud_ en la aplicación [**ECON - Conciliación**]() en donde se podrá realizar la conciliación de los aportes que se realizarán.  
+La información cargada se podrá ver reflejada en la aplicación [**ELIQ- Liquidaciones**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/eliq), en donde se creará un documento _PO - Planilla Operador_ para cada uno de los archivos, igualmente, se crearán los documentos _ER - Conciliación Salud_ en la aplicación [**ECON - Conciliación**](), en donde se podrá realizar la conciliación de los aportes que se realizarán.  
 
 
 
