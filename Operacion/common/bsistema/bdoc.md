@@ -133,5 +133,5 @@ Para calcular el flete, se debe configurar inicialmente el documento de la factu
 
 ![](bdoc8.png)
 
-Seguidamente, ingresaremos a la aplicación [**OFAC - Facturas de Compra**]()
+Seguidamente, ingresaremos a la aplicación [**OFAC - Facturas de Compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#contabilización-de-fletes) para generar la factura de compra.
 
