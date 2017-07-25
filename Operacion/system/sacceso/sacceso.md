@@ -15,11 +15,14 @@ Es por esto, que OasisCom cuenta con mensajes de control en donde les indica a l
 
 ![](mensajecontrol1.png)
 
+
 - Si la opción está creada en la aplicación SPRO - Programas, pero no contiene las características correspondientes, en este caso el campo vista, se mostrará el siguiente mensake:
 
 ![](mensajecontrol2.png)
 
+
 - Si la opción está creada en la aplicación SPRO - Programas y contiene sus características correspondientes (campo vista), pero no esta asociada al rol del usuario que consulta la aplicación, se mostrará el siguiente mensaje:
 
 ![](mensajecontrol3.png)
+
 
