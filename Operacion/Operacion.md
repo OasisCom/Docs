@@ -11,7 +11,7 @@ En esta sección encontrarán los manuales de usuario para cada una de las aplic
 
 A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo:
 
-## [Registro OasisCom]((http://docs.oasiscom.com/Operacion/#registro-oasiscom)
+## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
 
 En el explorador de internet se debe ingresar al siguiente link http://app.oasiscom.com/ para acceder a OasisCom
 
