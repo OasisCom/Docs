@@ -17,7 +17,7 @@ En la pestaña **Operador** se puede ver el valor por cada aportante, el nombre 
 
 ![](econ1.png)
 
-Al hacer el cargue del archivo plano del banco por la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud), se podrá ver la información en la pestaña del detalle **Banco**. 
+Al hacer el cargue del archivo plano del banco por la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-conciliación-salud), se podrá ver la información en la pestaña del detalle **Banco**. 
 
 ![](econ2.png)
 
