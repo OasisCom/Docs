@@ -655,11 +655,17 @@ En algunas opciones del sistema se podrán ingresar notas o comentarios a los do
 
 ![](notas.png)
 
+
 ![](notas1.png)
 
 De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
 
 ![](notas2.png)
+
+
+
+
+
 
 
 
