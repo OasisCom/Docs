@@ -228,7 +228,7 @@ Al ingresar a un programa se verán en la parte superior e inferior el maestro y
 
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
-![](filtros1.png)
+![](filtro1.png)
 
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
 
@@ -251,6 +251,18 @@ La función también permite filtrar por fechas, por ejemplo, de una fecha mayor
 Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un nuevo renglón de filtro dando click en el botón ![](filtrosavanzados6.png)
 
 ![](filtrosavanzados7.png)
+
+## [Ordenamiento](http://docs.oasiscom.com/Operacion/#ordenamiento)
+
+En el sistema se puede realizar el ordenamiento en diferentes campos de forma ascendente o descendente, para esto se requiere seleccionar el nombre del campo, cabe resaltar que los campos que son calculados no se pueden ordenar:
+
+- Ascendente (menor a mayor)
+
+![](ordenascendente.png)
+
+- Descendente (mayor a menor)
+
+![](ordendescendente.png)
 
 ## [Opciones de Documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)
 
