@@ -17,7 +17,14 @@ En la pestaña **Operador** se puede ver el valor por cada aportante, el nombre 
 
 ![](econ1.png)
 
+Al hacer el cargue del archivo plano del banco por la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud), se podrá ver la información en la pestaña del detalle **Banco**. 
 
+![](econ2.png)
 
+Con los dos archivos cargados en la aplicación ECON, procedemos a conciliar la información dando click en el botón _Conciliar_ ![](boton.png) ubicado en la barra de herramientas del maestro.  
+
+![](econ3.png)
+
+El sistema validará por cada renglón de la pestaña Operador y Banco que para cada aportante los valores sean iguales, de ser así activará el check tanto para la pestaña _Operador_ como para la pestaña _Banco_ si no coinciden el check no se activará.  
 
 
