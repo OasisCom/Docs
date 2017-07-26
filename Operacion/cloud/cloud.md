@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cloud
-permalink: /Operacion/cloud
+permalink: /Operacion/cloud/
 editable: si
 ---
 
