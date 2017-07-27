@@ -112,13 +112,6 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 
 ![](DOCUMENTACION.png)
 
-## [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-b%C3%BAsqueda)
-
-El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.  
-
-#### **Nemotécnico**
-
-![](filtro.png)
 
 #### **Nombre de la aplicación**
 
@@ -185,18 +178,30 @@ En la parte superior de la aplicación se encuentra el cuadro de texto para ingr
 
 Los módulos tienen una letra que los identifica, la cual compone el nemotécnico del nombre de la aplicación.  
 
-Contabilidad		K  		Distribución		D  
-Tesorería			T		Nómina				N  
-Cartera				C		Recursos Humanos	R  
-Cuentas por pagar 	P		Ventas Cliente		A  
-Activos fijos		H		Mercadeo			A  
-Presupuesto 		Q		Producción			L  
-Asociados 			Z		Costos				U  
-Ventas Logística	V		Mantenimiento		M  
-Facturación			F		Básicos				B  
-Punto de venta		J		Inventarios			I  
-Compras				O		Salud				E  
-Importaciones 		Y		Seguridad			S  
+Contabilidad		-	K  
+Distribución		-	D  
+Tesorería			-	T  
+Nómina				-	N  
+Cartera				-	C  
+Recursos Humanos	-	R  
+Cuentas por pagar 	-	P  
+Ventas Cliente		-	A  
+Activos fijos		-	H  
+Mercadeo			-	A  
+Presupuesto 		-	Q  
+Producción			-	L  
+Asociados 			-	Z  
+Costos				-	U  
+Ventas Logística	-	V  
+Mantenimiento		-	M  
+Facturación			-	F  
+Básicos				-	B  
+Punto de venta		-	J  
+Inventarios			-	I  
+Compras				-	O  
+Salud				-	E  
+Importaciones 		-	Y  
+Seguridad			-	S
 
 Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos especiales.  
 
@@ -207,6 +212,15 @@ Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos espec
 -	Reporte: para un nemotécnico de una ventana tipo reporte, inicia con la letra representativa del módulo seguida de la letra (R) y por último el nombre de la aplicación. Ejemplo: KRBG Balance General.  
 
 -	Procesos Especiales: para un nemotécnico de una ventana de un proceso especial, inicia con la letra representativa del módulo seguida de la letra (P) y por último el nombre de la aplicación. Ejemplo: KPCR Cierre de resultados.  
+
+
+## [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-b%C3%BAsqueda)
+
+El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.  
+
+#### **Nemotécnico**
+
+![](filtro.png)
 
 
 ##  [Maestro - Detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)
@@ -220,7 +234,8 @@ Al ingresar a un programa se verán en la parte superior e inferior el maestro y
 
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
-![](filtros1.png)
+
+![](filtro1.png)
 
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
 
