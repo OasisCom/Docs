@@ -254,6 +254,8 @@ La función de Filtros Avanzados, permite acceder a la información de manera m�
 ![](filtrosavanzados2.png)
 
 
+
+
 De acuerdo en la aplicación a la cual se ingrese, la función Filtros Avanzados traerá una lista con las opciones de búsqueda, seguidamente, permitirá digitar el dato por el cual se desee filtrar la información. 
 
 En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtraremos las cuentas contables que inicien por el número 8, esto se realiza agregando el símbolo % (porcentaje) a la derecha del número.  
