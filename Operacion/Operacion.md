@@ -252,8 +252,6 @@ La función de Filtros Avanzados, permite acceder a la información de manera m�
 ![](filtrosavanzados2.png)
 
 
-
-
 De acuerdo en la aplicación a la cual se ingrese, la función Filtros Avanzados traerá una lista con las opciones de búsqueda, seguidamente, permitirá digitar el dato por el cual se desee filtrar la información. 
 
 En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtraremos las cuentas contables que inicien por el número 8, esto se realiza agregando el símbolo % (porcentaje) a la derecha del número.  
@@ -295,6 +293,7 @@ El funcionamiento de cada botón es:
 Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.  
 
 ![](eliminar1.png)
+
 
 ![](eliminar2.png)
 
@@ -362,7 +361,7 @@ Después de dar clic en el botón aceptar, el sistema generará la impresión ya
 
 Esta opción permite observar el informe de forma preliminar.  
 
-![](listapreliminar1.png)
+![](vistapreliminar1.png)
 
 **Importar**
 
