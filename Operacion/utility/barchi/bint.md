@@ -87,3 +87,26 @@ A continuación se puede observar que el archivo ha sido descargado en el format
 El documento se visualizará de la siguiente manera y estará listo para editar en caso que se requiera.  
 
 ![](bint12.png)
+
+
+# [Archivos Conciliación Salud](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-conciliación-salud)
+
+Los archivos planos utilizados para realizar la conciliación de salud deben ser cargados por la aplicación **BINT - Interfaces**. Para cargar los archivos del operador se utilizarán la interfaz **59 - Archivo Operador Pila** correspondiente a los usuarios activos y la interfaz **62 - Operador Pensionado** correspondiente a los usuarios pensionados.
+
+![](bint13.png)
+
+Para cargar el archivo plano enviado por el banco se hará uso de la interfaz **58 - Bancos Contributivos**.
+
+![](bint15.png)
+
+Seleccionada la interfaz correspondiente, indicamos la operación _Upload_ y buscamos el archivo plano ya sea del operador o del banco en el equipo local dando click en el botón **_Seleccionar archivo_**, finalmente damos click en el Botón ![](aceptar.png).
+
+![](bint14.png)
+
+La información cargada se podrá ver reflejada en la aplicación [**ELIQ- Liquidaciones**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/eliq), en donde se creará un documento _PO - Planilla Operador_ para cada uno de los archivos, igualmente, se crearán los documentos _ER - Conciliación Salud_ en la aplicación [**ECON - Conciliación**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/econ), en donde se podrá realizar la conciliación de los aportes que se realizarán.  
+
+
+
+
+
+

@@ -11,7 +11,7 @@ En esta sección encontrarán los manuales de usuario para cada una de las aplic
 
 A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo:
 
-## Registro OasisCom
+## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
 
 En el explorador de internet se debe ingresar al siguiente link http://app.oasiscom.com/ para acceder a OasisCom
 
@@ -59,21 +59,29 @@ OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empres
 
 ![](MENU.png)
 
-#### **Configuración del perfil**  
+#### [**Configuración del perfil**](http://docs.oasiscom.com/Operacion/#configuración-del-perfil)  
 
 Al dar click en la opción _Perfil_, el sistema arrojará una ventana en donde se podrá cambiar de idioma, agregar información personal, adjuntar una imagen de perfil y cambiar de contraseña. Por cada cambio realizado se debe dar click en _Guardar_, puesto que, no se permite guardar cambios de manera masiva.  
 
 ![](PERFIL.png)
 
 
-#### **Cambiar empresa**  
+#### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
 
-Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana con todas las empresas que tiene asignadas a su usuario, en dicha ventana se podrá seleccionar la empresa que requiere consultar y el sistema lo trasladará a la misma.  
+Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana con todas las empresas que tiene asignadas a su usuario, en dicha ventana se podrá seleccionar la empresa que requiere consultar y el sistema lo trasladará a la misma. En caso de conocer el nombre de la empresa existe un filtro avanzado en la parte superior el cual facilita al usuario la consulta de la empresa, esto se puede realizar por una palabra clave o por el nombre completo de la empresa:
 
-![](CAMBIAR.png)
+![](filtrocambiarempresas.png)
+
+- Filtro con palabra clave:
+
+![](filtrocambiarempresasclave.png)
+
+- Filtro con el nombre completo de la empresa
+
+![](filtrocambiarempresasnombre.png)
 
 
-#### **Soporte**  
+#### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
 
 Al dar click en la opción _Soporte_, se desplegará una pestaña con dos opciones, _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
 
@@ -81,13 +89,13 @@ Al dar click en la opción _Soporte_, se desplegará una pestaña con dos opcion
 ![](SOPORTE.png)
 
 
-#### **Comentarios**  
+#### [**Comentarios**](http://docs.oasiscom.com/Operacion/#comentarios)  
 
 Al dar click en la opción _Comentarios_ se abrirá la aplicación [**APQR - Comentarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/apqr.md), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
 
 ![](COMENTARIOS.png)
 
-#### **Ayuda**  
+#### [**Ayuda**](http://docs.oasiscom.com/Operacion/#ayuda)  
 
 
 Al dar click en la opción _Ayuda_, el sistema arrojará un buscador en el cual se puede consultar el tema de inquitud o una aplicación en específico. 
@@ -237,11 +245,14 @@ Para poder realizar filtros en la aplicación solo debes ubicarte en una de las 
 
 ![](filtro1.png)
 
+
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
 
 La función de Filtros Avanzados, permite acceder a la información de manera más específica de acuerdo a la necesidad. Esta opción está representada por el botón ![](filtrosavanzados1.png)  
 
+
 ![](filtrosavanzados2.png)
+
 
 De acuerdo en la aplicación a la cual se ingrese, la función Filtros Avanzados traerá una lista con las opciones de búsqueda, seguidamente, permitirá digitar el dato por el cual se desee filtrar la información. 
 
@@ -258,6 +269,18 @@ La función también permite filtrar por fechas, por ejemplo, de una fecha mayor
 Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un nuevo renglón de filtro dando click en el botón ![](filtrosavanzados6.png)
 
 ![](filtrosavanzados7.png)
+
+## [Ordenamiento](http://docs.oasiscom.com/Operacion/#ordenamiento)
+
+En el sistema se puede realizar el ordenamiento en diferentes campos de forma ascendente o descendente, para esto se requiere seleccionar el nombre del campo, cabe resaltar que los campos que son calculados no se pueden ordenar:
+
+- Ascendente (menor a mayor)
+
+![](ordenascendente.png)
+
+- Descendente (mayor a menor)
+
+![](ordendescendente.png)
 
 ## [Opciones de Documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)
 
@@ -642,6 +665,22 @@ Por último, damos clic en el botón Enviar y el sistema arrojará un mensaje de
 Podemos confirmar el envío de la orden de compra y del documento adjunto en el correo destinatario.  
 
 ![](envioemail13.png)
+
+
+## [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)
+
+En algunas opciones del sistema se podrán ingresar notas o comentarios a los documentos mediante el icono de chat o mensaje que se muestra a continuación, al seleccionar dicho icono se desplegará la siguiente ventana en donde permite ingresar las notas que el usuario desee:
+
+![](notas.png)
+
+
+![](notas1.png)
+
+De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
+
+![](notas2.png)
+
+
 
 
 

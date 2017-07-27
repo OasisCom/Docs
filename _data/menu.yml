@@ -1128,6 +1128,11 @@
               url: /Operacion/crm/development/decambio/
             - text: Reportes
               url: /Operacion/crm/development/dereporte/
+              subitems:
+              - text: Monitoreo de Desarrollo
+                url: /Operacion/crm/development/dereporte/arsd
+              - text: Monitoreo de Recursos
+                url: /Operacion/crm/development/dereporte/arsr
         - text: Proyectos
           url: /Operacion/crm/proyecto/
           subitems:
@@ -1276,6 +1281,11 @@
       subitems:
         - text: BI Comercial
           url: /Operacion/dss/bicom/
+          subitems:
+            - text: Ventas
+              url: /Operacion/dss/bicom/biven
+            - text: Tablero Ventas
+              url: /Operacion/dss/bicom/bivet
         - text: BI Financiero
           url: /Operacion/dss/bifin/
         - text: BI Logistico
@@ -1284,6 +1294,9 @@
           url: /Operacion/dss/bihrm/
         - text: BI Clientes
           url: /Operacion/dss/bicrm/
+          subitems:
+            - text: Servicios
+              url: /Operacion/dss/bicrm/biser
         - text: BI Salud
           url: /Operacion/dss/bieps/
         - text: Bsc Tablero de Mando
@@ -1719,8 +1732,14 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/utility/workflow/sbasica/
+              subitems:
+                - text: Procesos
+                  url: /Operacion/utility/workflow/sbasica/sprc
             - text: Consultas
               url: /Operacion/utility/workflow/sconsulta/
+              subitems:
+                - text: Calendario de Usuario
+                  url: /Operacion/utility/workflow/sconsulta/scal
         - text: Calidad
           url: /Operacion/utility/calidad/
           subitems:
@@ -1758,6 +1777,27 @@
           url: /Operacion/system/auditoria/
         - text: Reportes
           url: /Operacion/system/sreporte/
+    - text: Cloud
+      url: /Operacion/cloud/
+      subitems:
+        - text: Datos Basicos
+          url: /Operacion/cloud/sbasic/
+          subitems:
+            - text: Dominios
+              url: /Operacion/cloud/sbasic/sdom
+            - text: Modelos
+              url: /Operacion/cloud/sbasic/smdl
+            - text: Recursos
+              url: /Operacion/cloud/sbasic/srec
+            - text: Planes
+              url: /Operacion/cloud/sbasic/spla
+    - text: Movil
+      url: /Operacion/movil/
+      subitems:
+        - text: Faturas
+          url: /Operacion/movil/jfac
+        - text: Turnos
+          url: /Operacion/movil/jtur
 - text: Comercializacion
   url: /Comercializacion/
   subitems:

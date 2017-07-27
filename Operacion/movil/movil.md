@@ -17,5 +17,6 @@ Una vez ingresemos a la aplicación, en la parte superior izquierda encontramos 
 
 ![](movil1.png)
 
-Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente:  
+Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente con las aplicaciones disponibles:  
 
+![](movil2.png)
