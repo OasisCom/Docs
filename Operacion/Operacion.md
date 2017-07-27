@@ -228,8 +228,6 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 
 #### **Nemotécnico**
 
-![](filtro.png)
-
 
 ##  [Maestro - Detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)
 
@@ -243,7 +241,7 @@ Al ingresar a un programa se verán en la parte superior e inferior el maestro y
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
 
-![](filtro1.png)
+![](Filtros1.png)
 
 
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
