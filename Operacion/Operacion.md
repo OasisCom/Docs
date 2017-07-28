@@ -333,7 +333,6 @@ Esta opción permite la corrección de errores en la inclusión de datos, su eje
 
 La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.  
 
-
 ![](anular1.png)
 
 
