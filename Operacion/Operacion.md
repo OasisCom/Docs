@@ -299,7 +299,7 @@ En las ventanas de los programas hay varias opciones para los documentos como so
 
 El funcionamiento de cada botón es:  
 
-**Eliminar**
+### [Eliminar](http://docs.oasiscom.com/Operacion/#eliminar)
 
 Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.  
 
@@ -308,7 +308,7 @@ Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detall
 
 ![](eliminar2.png)
 
-## [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
+### [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
 
 La funcionalidad permite agregar un nuevo registro en la aplicación.  
 
@@ -318,43 +318,43 @@ Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la in
 
 ![](agregar2.png)
 
-**Guardar**
+### [Guardar](http://docs.oasiscom.com/Operacion/#guardar)
 
 Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.  
 
 ![](guardar1.png)
 
-**Cancelar**
+### [Cancelar](http://docs.oasiscom.com/Operacion/#cancelar)
 
 Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un documento o registro en el sistema.  
 
 ![](cancelar1.png)
 
-**Confirmar o Procesar**
+### [Confirmar o Procesar](http://docs.oasiscom.com/Operacion/#confirmar-o-procesar)
 
 La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.  
 
 ![](confirmarprocesar1.png)
 
-**Reversar**
+### [Reversar](http://docs.oasiscom.com/Operacion/#reversar)
 
 Esta opción permite la corrección de errores en la inclusión de datos, su ejecución vuelve al comprobante o movimiento a estado ACTIVO en el cual se corrigen los errores cometidos para después volver a confirmar dicho comprobante o movimiento.  
 
 ![](reversar1.png)
 
-**Anular**
+### [Anular](http://docs.oasiscom.com/Operacion/#anular)
 
 La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.  
 
 ![](anular1.png)
 
-**Imprimir**
+### [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)
 
 Esta opción permite imprimir la información que se está consultando en el momento.  
 
 ![](imprimir1.png)
 
-**Imprimir en lote**
+### [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)
 
 Es permitido en unas aplicaciones imprimir la información de varios registros desde el maestro de la aplicación con el fin de que se mejorar el proceso y optimizar el tiempo.  
 
@@ -368,31 +368,31 @@ A continuacion se desplegará una ventana donde confirmará si desea realizar la
 
 Después de dar clic en el botón aceptar, el sistema generará la impresión ya sea en un PDF o directamente seleccionando la impresora para tenerlos de forma física.  
 
-**Vista Preliminar**
+### [Vista Preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)
 
 Esta opción permite observar el informe de forma preliminar.  
 
 ![](vistapreliminar1.png)
 
-**Importar**
+### [Importar](http://docs.oasiscom.com/Operacion/#importar)
 
 Esta opción permite importar datos generados.  
 
 ![](importar1.png)
 
-**Exportar**
+### [Exportar](http://docs.oasiscom.com/Operacion/#exportar)
 
 Esta opción permite exportar datos a diferentes tipos de archivos.  
 
 ![](exportar1.png)
 
-**Refrescar o Actualizar**
+### [Refrescar o Actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)
 
 Esta opción permite actualizar la información reflejada en la pantalla con base a lo que esté siendo actualizada y ésta cambia en el momento de la consulta.  
 
 ![](refrescaractualizar1.png)
 
-**Archivo imágenes**
+### [Archivo imágenes](http://docs.oasiscom.com/Operacion/#)
 
 OasisCom permite almacenar en algunas aplicaciones imágenes según la naturaleza de la aplicación y la necesidad de los registros, esta opción se encuentra en la columna imagen.  
 
@@ -402,7 +402,7 @@ Al dar clic en “enviar” se abrirá una ventana emergente en la cual se podr�
 
 ![](archivoimagenes2.png)
 
-**Borrado masivo**
+### [Borrado masivo](http://docs.oasiscom.com/Operacion/#borrado-masivo)
 
 En OasisCom podrá encontrar la opción de realizar un borrado masivo en algunas aplicaciones, esta opción varía dependiendo de la funcionalidad de cada aplicación lo cual permitirá o no realizar el borrado masivo.  
 
@@ -422,7 +422,7 @@ Una vez se da clic en eliminar, aparece una ventana emergente en el cual se conf
 
 Después de confirmar la acción los registros se eliminaran.  
 
-**Limpiar consulta**
+### [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)
 
 Esta función permite limpiar los filtros realizados en las diferentes columnas de la grilla.  
 
@@ -430,7 +430,7 @@ Esta función permite limpiar los filtros realizados en las diferentes columnas 
 
 Al  utilizar la  función de limpieza de filtros en el maestro en opciones que contienen Maestro-Detalle, se limpiaran los campos de consulta de este y adicionalmente se limpiaran los registros del detalle. 
 
-**Adjuntos**
+### [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)
 
 Esta Función facilita el cargue de archivos para el registro seleccionado.  
 
@@ -466,7 +466,7 @@ Y se procede a guardar los cambios, de esta manera el archivo queda adjunto y as
 
 Nota: El archivo se almacenará con nombre de documento, número de registro y el nombre del archivo.  
 
-**Mensajes**
+### [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)
 
 La función Mensajes permite enviar mensajes internos entre usuarios del sistema y visualizar los mensajes no leídos con la aplicación SMEU.  
 
@@ -504,7 +504,7 @@ Para visualizar los mensajes no leídos:
 
 La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
 
-**Vista Zoom**
+### [Vista Zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
 
 La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
 
@@ -520,7 +520,7 @@ Para visualizar un Zoom:
 
 La función permite realizar un filtro para que la búsqueda sea más rápida.  
 
-**Multiadicionar**
+### [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)
 
 La función Multiadicionar muestra una segunda ventana tipo Zoom que permite seleccionar uno o más registros de manera conjunta, también permite filtrar la búsqueda. Esta función está activa en algunas aplicaciones que contengan campos color azul en el detalle.  
 
@@ -534,7 +534,7 @@ Para visualizar la función Multiadicionar:
 
 ![](multiadicionar2.png)
 
-**Vista Formulario**
+### [Vista Formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)
 
 La vista Formulario permite agregar un nuevo registro en el maestro de las aplicaciones. Esta función facilita el ingreso de la información, puesto que, se diligencian todos los campos en una sola ventana como un formulario.  
 
@@ -552,7 +552,7 @@ Para agregar un nuevo registro:
 
 ![](vistaformulario3.png)
 
-**Copy-Paste**
+### [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)
 
 LLa función Copy – Paste permite duplicar los renglones seleccionados, asignando el consecutivo correspondiente.  
 
@@ -560,7 +560,7 @@ LLa función Copy – Paste permite duplicar los renglones seleccionados, asigna
 
 ![](copypaste2.png)
 
-**Totales en detalles por consulta general**
+### [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalle-por-consulta-general)
 
 La función total en detalles por consulta general permite visualizar la sumatoria de los campos parametrizados para dicha función.  
 
@@ -568,11 +568,11 @@ La función total en detalles por consulta general permite visualizar la sumator
 
 La función se divide en dos sumatorias. La sumatoria en **Negrita** muestra el valor total por número de cuenta contable y la sumatoria del recuadro, arroja el valor total de todas las cuentas contables anteriormente marcadas con **Negrita**.  
 
-**Workflow para procesos automáticos**
+### [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-automáticos)
 
 La funcionalidad permite realizar workflow en los procesos de forma automática. Un ejemplo es en la aplicación VPED – Pedidos, se define un flujo (por medio de status) por los cuales debe pasar el pedido según el proceso, esto permite no solo controlar los tiempos sobre cada etapa sino informar a los usuarios vía correo electrónico o por medio de tareas pendientes las acciones que requerían de su intervención.  
 
-**Impresión por lote**
+### [Impresión por lote](http://docs.oasiscom.com/Operacion/#impresión-por-lote)
 
 La función permite seleccionar varios registros e imprimirlos según la parametrización del formato pertinente. Esto también aplica para las opciones que contienen formatos asociados, especialmente para las opciones tipo movimiento (Ventana tipo C).  
 
@@ -587,7 +587,7 @@ La función permite seleccionar varios registros e imprimirlos según la paramet
 
 Se puede observar que el sistema adjuntó los registros seleccionados con el detalle correspondiente para realizar la impresión.  
 
-**Duplicar registro**
+### [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)
 
 La función duplicar registro, permite al seleccionar un registro y dar clic en el botón  , crear otro renglón exactamente igual al seleccionado, evitando volver a digitar toda la información.  
 
@@ -601,13 +601,13 @@ La función Duplicar Registro de igual manera se encuentra disponible en el deta
 
 ![](duplicar3.png)
 
-**Envío de correo electrónico OasisCom**
+## [Envío de correo electrónico OasisCom](http://docs.oasiscom.com/Operacion/#envío-de-correo-electrónico-oasiscom)
 
-**Parametrización**
+#### Parametrización
 
 Para hacer uso del envío de correos electrónicos primero se debe realizar cierta parametrización en las siguientes aplicaciones.  
 
-**Empresas (SEMP)
+##### **Empresas (SEMP)**
 
 En la aplicación (SEMP) Empresas, se debe parametrizar el dominio del smtp de servidor de correo que utiliza la compañía y el número de puerto.  
 
@@ -618,7 +618,7 @@ Para realizar dicha parametrización nos dirigimos a los últimos campos de la a
 **Smtp Server**: corresponde al smtp del servidor del correo.  
 **Puerto**: número de puerto que utiiza el servidor de correo.  
 
-**Perfil (SPER)**
+##### **Perfil (SPER)**
 
 La aplicación (SPER) Perfil, solo arroja la información del usuario con el que se ingresó al sistema OasisCom.  
 
@@ -626,7 +626,7 @@ En el campo _PasswordMail_ se debe diligenciar la contraseña correspondiente al
 
 ![](envioemail2.png)
 
-**Envío de correos electrónicos en OasisCom**
+##### **Envío de correos electrónicos en OasisCom**
 
 OasisCom permite enviar correos electrónicos con los procesos que se estén realizando a diferentes usuarios desde las aplicaciones que tengan habilitado el botón _Send_Email_.  
 
