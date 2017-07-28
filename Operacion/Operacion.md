@@ -57,13 +57,13 @@ OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empres
 
 
 
-![](menu.png)
+![](MENU.png)
 
 #### [**Configuración del perfil**](http://docs.oasiscom.com/Operacion/#configuración-del-perfil)  
 
 Al dar click en la opción _Perfil_, el sistema arrojará una ventana en donde se podrá cambiar de idioma, agregar información personal, adjuntar una imagen de perfil y cambiar de contraseña. Por cada cambio realizado se debe dar click en _Guardar_, puesto que, no se permite guardar cambios de manera masiva.  
 
-![](perfil.png)
+![](PERFIL.png)
 
 
 #### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 

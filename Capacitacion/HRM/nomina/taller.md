@@ -8,29 +8,23 @@ editable: si
 # TALLER CURSO DE NÓMINA
 
 
-1  Complete la siguiente oración:  
+1) Complete la siguiente oración:  
 
-En la aplicación NBCO se parametrizan _____________ .  
+En la aplicación NBCO se parametrizan ________________________________________ .  
 
-2  Ordene las siguientes aplicaciones en el orden correcto para generar la nómina eficazmente:  
+2) Ordene las siguientes aplicaciones en el orden correcto para generar la nómina eficazmente:  
 
-NGEN                  
+-	NGEN                  
+-	NBTN                  
+-	NNOM                 
+-	NPRO        
 
-NBTN                  
+3) Relacione las siguientes aplicaciones con su respectiva categoría:  
 
-NNOM                 
-
-NPRO        
-
-3  Relacione las siguientes aplicaciones con su respectiva categoría:  
-
-NPRO		Nómina  
-
-NBTN		Nómina  
-
-NNOM		Datos básicos  
-
-NGEN		Datos básicos  
+-	NPRO	-	Nómina  
+-	NBTN	-	Nómina  
+-	NNOM	-	Datos básicos  
+-	NGEN	-	Datos básicos  
 
 
 
