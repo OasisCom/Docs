@@ -57,13 +57,13 @@ OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empres
 
 
 
-![](MENU.png)
+![](menu.png)
 
 #### [**Configuración del perfil**](http://docs.oasiscom.com/Operacion/#configuración-del-perfil)  
 
 Al dar click en la opción _Perfil_, el sistema arrojará una ventana en donde se podrá cambiar de idioma, agregar información personal, adjuntar una imagen de perfil y cambiar de contraseña. Por cada cambio realizado se debe dar click en _Guardar_, puesto que, no se permite guardar cambios de manera masiva.  
 
-![](PERFIL.png)
+![](perfil.png)
 
 
 #### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
@@ -153,6 +153,7 @@ Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Espa�
 
 
 ![](mozilla1.png)
+
 
 ![](mozilla2.png)
 
@@ -252,7 +253,7 @@ Al ingresar a un programa se verán en la parte superior e inferior el maestro y
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
 
-![](Filtros1.png)
+![](filtros1.png)
 
 
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
@@ -274,6 +275,7 @@ En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtra
 La función también permite filtrar por fechas, por ejemplo, de una fecha mayor a una fecha menor.  
 
 ![](filtrosavanzados5.png)
+
 
 Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un nuevo renglón de filtro dando click en el botón ![](filtrosavanzados6.png)
 
