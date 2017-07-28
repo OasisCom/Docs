@@ -177,7 +177,6 @@ Una vez habilitado, el micrófono se tornará rojo indicando que está activado 
 ![](voz3.png)
 
 
-
 ##  [Acceso a programas de Navegación](http://docs.oasiscom.com/Operacion/#acceso-a-programas-de-navegación)
 
 En la parte superior de la aplicación se encuentra el cuadro de texto para ingresar o escribir el nemotécnico del programa al que se desea acceder.  
@@ -227,6 +226,18 @@ Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos espec
 El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.  
 
 #### **Nemotécnico**
+
+![](filtro.png)
+
+#### **Nombre de la aplicación**
+
+![](filtro1.png)
+
+#### Palabra clave
+
+![](filtro2.png)
+
+Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
 
 
 ##  [Maestro - Detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)
