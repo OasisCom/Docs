@@ -19,11 +19,10 @@ En el explorador de internet se debe ingresar al siguiente link http://app.oasis
 
 Para ingresar a OasisCom primero debe crear una cuenta como se muestra a continuación:  
 
-**Nombre Usuario:** Correo electrónico  
-**Nombres y Apellidos:** Nombre completo de la persona que se registrará  
-**Contraseña:** Contraseña de su elección  
-
-Dar clic en registro  
+- **Nombre Usuario:** Correo electrónico  
+- **Nombres y Apellidos:** Nombre completo de la persona que se registrará  
+- **Contraseña:** Contraseña de su elección  
+- Dar clic en registro  
 
 ![](Registro2.png)
 
@@ -440,15 +439,15 @@ Esta Función facilita el cargue de archivos para el registro seleccionado.
 
 Para realizar este proceso:  
 
-1	Se  realiza la selección de un registro y  del botón adjunto.  
+1) Se  realiza la selección de un registro y  del botón adjunto.  
 
 ![](adjuntos2.png)
 
-2 	Luego se visualizará una ventana que permitirá adjuntar documentos.  
+2) Luego se visualizará una ventana que permitirá adjuntar documentos.  
 
 ![](adjuntos3.png)
 
-3	Se selecciona el botón Elegir archivos y  se escoge el archivo que se desea adjuntar.  
+3) Se selecciona el botón Elegir archivos y  se escoge el archivo que se desea adjuntar.  
 
 ![](adjuntos4.png)
 
@@ -478,11 +477,11 @@ La función Mensajes permite enviar mensajes internos entre usuarios del sistema
 
 Para enviar un nuevo mensaje:  
 
-1	Dar clic en Enviar un nuevo mensaje.  
+1) Dar clic en Enviar un nuevo mensaje.  
 
 ![](mensajes3.png)
 
-2	El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
+2) El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
 
 ![](mensajes4.png)
 
@@ -496,11 +495,11 @@ Seguido se encuentra el campo para el Asunto (Subject) y para la descripción de
 
 Para visualizar los mensajes no leídos:  
 
-1	Dar clic en mensajes no leídos (Unread messages).  
+1) Dar clic en mensajes no leídos (Unread messages).  
 
 ![](mensajes7.png)
 
-2	El sistema trae la aplicación SMEU – Mensajes de Usuario en la cual veremos los mensajes no leídos por el usuario en sesión.  
+2) El sistema trae la aplicación SMEU – Mensajes de Usuario en la cual veremos los mensajes no leídos por el usuario en sesión.  
 
 ![](mensajes8.png)
 
@@ -512,11 +511,11 @@ La función del Zoom muestra una segunda ventana que permite seleccionar un regi
 
 Para visualizar un Zoom:  
 
-1	Dar doble clic en el campo color azul  
+1) Dar doble clic en el campo color azul  
 
 ![](vistazoom1.png)
 
-2	Seleccionar registro  
+2) Seleccionar registro  
 
 ![](vistazoom2.png)
 
@@ -528,11 +527,11 @@ La función Multiadicionar muestra una segunda ventana tipo Zoom que permite sel
 
 Para visualizar la función Multiadicionar:  
 
-1	Dar doble clic en el campo color azul  
+1) Dar doble clic en el campo color azul  
 
 ![](multiadicionar1.png)
 
-2	Seleccionar los registros y dar clic en Accept.  
+2) Seleccionar los registros y dar clic en Accept.  
 
 ![](multiadicionar2.png)
 
@@ -542,21 +541,21 @@ La vista Formulario permite agregar un nuevo registro en el maestro de las aplic
 
 Para agregar un nuevo registro:  
 
-1	Clic en el signo + Agregar nueva fila.  
+1) Clic en el signo + Agregar nueva fila.  
 
 ![](vistaformulario1.png)
 
-2	Diligenciar la ventana tipo formulario y dar clic en Guardar.  
+2) Diligenciar la ventana tipo formulario y dar clic en Guardar.  
 
 ![](vistaformulario2.png)
 
-3	Registro guardado.  
+3) Registro guardado.  
 
 ![](vistaformulario3.png)
 
 **Copy-Paste**
 
-LLa función Copy – Paste permite duplicar los renglones seleccionados, asignando el consecutivo correspondiente.  
+La función Copy – Paste permite duplicar los renglones seleccionados, asignando el consecutivo correspondiente.  
 
 ![](copypaste1.png)
 
@@ -578,12 +577,12 @@ La funcionalidad permite realizar workflow en los procesos de forma automática.
 
 La función permite seleccionar varios registros e imprimirlos según la parametrización del formato pertinente. Esto también aplica para las opciones que contienen formatos asociados, especialmente para las opciones tipo movimiento (Ventana tipo C).  
 
-1	Ingresar a una aplicación con opciones tipo C (movimientos).  
-2	Seleccionar los registros que se desean imprimir y dar clic en el botón Impresión.  
+1) Ingresar a una aplicación con opciones tipo C (movimientos).  
+2) Seleccionar los registros que se desean imprimir y dar clic en el botón Impresión.  
 
 ![](impresionlote1.png)
 
-3	Aplicar la configuración deseada para la impresión y dar clic en Imprimir.  
+3) Aplicar la configuración deseada para la impresión y dar clic en Imprimir.  
 
 ![](impresionlote2.png)
 
@@ -691,28 +690,4 @@ En algunas opciones del sistema se podrán ingresar notas o comentarios a los do
 De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
 
 ![](notas2.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
