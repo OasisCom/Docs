@@ -15,7 +15,7 @@ Una vez ingresemos a la aplicación, en la parte superior izquierda damos click 
 
 ![](movil4.png)
 
-En configuración, ingresaremos a la opción _Perfil de Usuario_.  
+En configuración, ingresaremos a la opción _Editar Perfil de Usuario_.  
 
 ![](movil5.png)
 
