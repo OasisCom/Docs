@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Precios
-permalink: /Operacion/marketplace/mfpre
+permalink: /Operacion/mpportal/mpproveedor/mfpre
 editable: si
 ---
 
