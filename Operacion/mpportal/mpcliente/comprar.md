@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Compra
-permalink: /Operacion/mpportal/mpcliente/compra
+title: Comprar
+permalink: /Operacion/mpportal/mpcliente/comprar
 editable: si
 ---
 
-# Compra
+# Comprar
 
 La aplicación _Comprar_ permite realizar pedidos de productos y/o servicios por proveedor.
 
