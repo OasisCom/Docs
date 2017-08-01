@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Comprar
-permalink: /Operacion/marketplace/comprar
+title: Compra
+permalink: /Operacion/marketplace/compra
 editable: si
 ---
 
-# Comprar
+# Compra
 
 La aplicación _Comprar_ permite realizar pedidos de productos y/o servicios por proveedor.
 
