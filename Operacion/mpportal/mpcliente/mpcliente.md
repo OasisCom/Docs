@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketplace
-permalink: /Operacion/mpcliente/
+permalink: /Operacion/mpportal/mpcliente/
 editable: si
 ---
 
