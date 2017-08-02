@@ -8,4 +8,4 @@ editable: si
 # CURSO FORMULARIOS EXTERNOS 1
 
 
-En este curso, usted encontrará información más detallada sobre temas como: Solicitud de CTC (Comité Técnico Científico)- EESOL, Solicitud de autorización - EESOA, Notificación de urgencias - EENOU; los cuales le servirán para aprender a realizar ciertas operaciones en el sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
+En este curso, usted encontrará información más detallada de la vertical de Salud sobre los formularios externos que se pueden diligenciar como: Solicitud de CTC (Comité Técnico Científico), Solicitud de autorización, Notificación de urgencias; los cuales le servirán para aprender a realizar ciertas operaciones en el sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
