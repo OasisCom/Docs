@@ -1550,6 +1550,31 @@
           subitems:
             - text: importaciones
               url: /Operacion/is/comex/cimportacion/
+    - text: MarketPlace
+      url: /Operacion/mpportal/
+      subitems:
+        - text: Proveedores
+          url: /Operacion/mpportal/mpproveedor/
+          subitems:
+            - text: Terceros
+              url: /Operacion/mpportal/mpproveedor/mbter
+            - text: Productos
+              url: /Operacion/mpportal/mpproveedor/mbpro
+            - text: Precios
+              url: /Operacion/mpportal/mpproveedor/mfpre
+            - text: Pedidos
+              url: /Operacion/mpportal/mpproveedor/mvped
+            - text: Cotizaciones
+              url: /Operacion/mpportal/mpproveedor/mvcot
+        - text: Clientes
+          url: /Operacion/mpportal/mpcliente/
+          subitems:
+            - text: Comprar
+              url: /Operacion/mpportal/mpcliente/comprar
+            - text: Mi Cuenta
+              url: /Operacion/mpportal/mpcliente/mbcli
+            - text: Mis Ordenes
+              url: /Operacion/mpportal/mpcliente/moord
     - text: Factura Electronica
       url: /Operacion/ebportal/
       subitems:
@@ -1798,6 +1823,8 @@
           url: /Operacion/movil/jfac
         - text: Turnos
           url: /Operacion/movil/jtur
+        - text: Confirmacion Ubicacion Venta Tiquetes
+          url: /Operacion/movil/confirmacionubicacion
 - text: Comercializacion
   url: /Comercializacion/
   subitems:
@@ -2064,6 +2091,10 @@
       url: /Soporte/accesandobalancetmov
     - text: PORD - Adición de movimiento, restricción integridad
       url: /Soporte/adicionmovimientopord
+    - text: Accesando Tipo de Impuesto Destino
+      url: /Soporte/accesandotipoimpuesto
+    - text: NNOM - Distribucion por Tipo de Gasto
+      url: /Soporte/distribuciontipogasto
 - text: Desarrollo
   url: /Desarrollo/
   subitems:

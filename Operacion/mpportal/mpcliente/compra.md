@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comprar
-permalink: /Operacion/marketplace/comprar
+permalink: /Operacion/mpportal/mpcliente/comprar
 editable: si
 ---
 

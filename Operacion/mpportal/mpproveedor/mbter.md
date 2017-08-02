@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terceros
-permalink: /Operacion/marketplace/mbter
+permalink: /Operacion/mpportal/mpproveedor/mbter
 editable: si
 ---
 
