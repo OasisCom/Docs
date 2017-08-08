@@ -5,7 +5,7 @@ permalink: /Operacion/common/bsistema/bdoc
 editable: si
 ---
 
-## BDOC - Doc
+## BDOC - Documentos
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
