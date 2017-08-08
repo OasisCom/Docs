@@ -11,7 +11,7 @@ La aplicación EACA permite consultar las autorizaciones de salud previamente re
 
 ![](eaca.png)
 
-El último campo de la ventana _ Ubicación solicitud_ permite identificar la ubicación desde donde se solicitó la autorización.  
+El último campo de la ventana _Ubicación solicitud_ permite identificar la ubicación desde donde se solicitó la autorización.  
 
 ![](eaca1.png)
 
