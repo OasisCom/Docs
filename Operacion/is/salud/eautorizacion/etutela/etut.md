@@ -17,30 +17,36 @@ Para registrar una tutela dar click en el botón **+** que se encuentra en la ba
 
 ![Nuevo formulario ETUT - Tutelas](ETUT1.png)
 
-**Documento:** seleccionar el documento correspondiente para tutelas
-**Número:**
-**Ubicación:**
-**Fecha Notificación:**
-**Concepto:**
-**Motivo:**
-**Id Afiliado:**
-**Estado:**
-**Status:**
-**Accionante:**
-**Tipo Documento:**
-**Documento Accionante:**
-**Nombre Accionante:**
-**Pretensión:**
-**Descripción Pretensión:**
-**Juzgado:**
-**Nombre Juzgado:**
-**Descripción Fallo:**
-**Radicado:**
-**Nit del Imputable:**
-**Nombre Imputable:**
-**Diagnóstico:**
-**Nombre Diagnóstico:**
+**Documento:** seleccionar el documento correspondiente para tutelas. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**]().  
+**Número:** el número de consecutivo será asignado automáticamente por el sistema.  
+**Ubicación:** seleccionar la ubicación desde donde se registra la tutela.  
+**Fecha Notificación:** indicar la fecha en la cual se realiza la notificación de la tutela.  
+**Concepto:** seleccionar el concepto por el que se registra la tutela. Los conceptos son parametrizados en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
+**Motivo:** seleccionar del zoom el motivo de la tutela. Los motivos son parametrizados en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
+**Id Afiliado:** ingresar o seleccionar del zoom el número de identificación del afliado por el cual se realizó la tutela.  
+**Estado:** el sistema automáticamente asignará el estado del registro de la tutela.  
+**Status:** seleccionar de la lista desplegable, el status en el cual se encuentra la tutela.  
 
+![](status.png)
+
+**Accionante:** seleccionar de la lista desplegable el accionante que interpuso la tutela.  
+
+![](accionante.png)
+
+**Tipo Documento:** seleccionar el tipo de documento del accionante.  
+**Documento Accionante:** ingresar el número de identificación del accionante.  
+**Nombre Accionante:** ingresar el nombre del accionante que interpone la tutela.  
+**Pretensión:** seleccionar del zoom la razón por la cual se registra la tutela.  
+
+![](pretension.png)
+
+**Descripción Pretensión:** al seleccionar anteriormente la pretensión, automáticamente se diligenciará este campo con el nombre de dicha pretensión.  
+**Juzgado:** seleccionar del zoom el juzgado correspondiente a la tutela.  
+**Nombre Juzgado:** al guardar el registro, el sistema diligenciará el nombre del juzgado seleccionado anteriormente.  
+**Descripción Fallo:** hacer una breve descripción sobre el fallo de la tutela.  
+**Radicado:** número de radicación de la tutela.  
+**Diagnóstico:** seleccionar del zoom el diagnóstico médico por el cual se interpone la tutela.  
+**Nombre Diagnóstico:** al guardar el registro, este campo se diligencia automáticamente.  
 
 Diligenciados los campos, dar click en el botón **Guardar.**
 
