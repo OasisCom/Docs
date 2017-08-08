@@ -15,10 +15,10 @@ El último campo de la ventana _ Ubicación solicitud_ permite identificar la ub
 
 ![](eaca1.png)
 
-**U:** Urgencias
-**H:** Hospitalización
-**C:** Consulta Externo
-**D:** Domiciliario
+**U:** Urgencias  
+**H:** Hospitalización  
+**C:** Consulta Externo  
+**D:** Domiciliario  
 
 
 
