@@ -17,7 +17,7 @@ Para registrar una tutela dar click en el botón **+** que se encuentra en la ba
 
 ![Nuevo formulario ETUT - Tutelas](ETUT1.png)
 
-**Documento:** seleccionar el documento correspondiente para tutelas. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**]().  
+**Documento:** seleccionar el documento correspondiente para tutelas. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 **Número:** el número de consecutivo será asignado automáticamente por el sistema.  
 **Ubicación:** seleccionar la ubicación desde donde se registra la tutela.  
 **Fecha Notificación:** indicar la fecha en la cual se realiza la notificación de la tutela.  
