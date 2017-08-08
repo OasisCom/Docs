@@ -17,6 +17,31 @@ Para registrar una tutela dar click en el botón **+** que se encuentra en la ba
 
 ![Nuevo formulario ETUT - Tutelas](ETUT1.png)
 
+**Documento:** seleccionar el documento correspondiente para tutelas
+**Número:**
+**Ubicación:**
+**Fecha Notificación:**
+**Concepto:**
+**Motivo:**
+**Id Afiliado:**
+**Estado:**
+**Status:**
+**Accionante:**
+**Tipo Documento:**
+**Documento Accionante:**
+**Nombre Accionante:**
+**Pretensión:**
+**Descripción Pretensión:**
+**Juzgado:**
+**Nombre Juzgado:**
+**Descripción Fallo:**
+**Radicado:**
+**Nit del Imputable:**
+**Nombre Imputable:**
+**Diagnóstico:**
+**Nombre Diagnóstico:**
+
+
 Diligenciados los campos, dar click en el botón **Guardar.**
 
 En el maestro de la aplicación quedará registrada la nueva tutela.
