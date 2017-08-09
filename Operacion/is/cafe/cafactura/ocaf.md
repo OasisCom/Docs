@@ -22,7 +22,7 @@ La aplicación **OCAF** permite registrar las compras de café que se realicen y
 **Caja:** seleccionar la caja por la cual se desembolsará el dinero para el pago de la marcancía.  
 **Baba:** registrar el porcentaje de baba o mocilago que contiene el café en cereza.  
 
-##### **Detalle**
+### Detalle
 
 En el detalle se encuentran los datos relacionados al café, sus caracteristicas.  
 
