@@ -106,7 +106,19 @@ Seleccionada la interfaz correspondiente, indicamos la operación _Upload_ y bus
 La información cargada se podrá ver reflejada en la aplicación [**ELIQ- Liquidaciones**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/eliq), en donde se creará un documento _PO - Planilla Operador_ para cada uno de los archivos, igualmente, se crearán los documentos _ER - Conciliación Salud_ en la aplicación [**ECON - Conciliación**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/econ), en donde se podrá realizar la conciliación de los aportes que se realizarán.  
 
 
+# [Parámetros en Mensajes de Error](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parámetros-en-mensajes-de-error)
 
+La aplicación _BINT_ tiene la funcionalidad de arrojar en los mensajes de error los parámetros que se deben configurar correctamente para poder ejecutar una publicación.  
 
+Por ejemplo, seleccionaremos la publicación **3. Bancos** y la operación **Download** y damos click en _Aceptar_.  
 
+![](bint16.png)
+
+Al dar click en _Aceptar_ nos arrojará el siguiente error.  
+
+![](bint17.png)
+  
+  Configurando los parámetros contenidos en el mensaje de error, se podrá ejecutar correctamente la publicación seleccionada.  
+
+![](bint18.png)
 
