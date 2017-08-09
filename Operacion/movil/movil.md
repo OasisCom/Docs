@@ -7,7 +7,7 @@ editable: si
 
 # Móvil
 
-## Ingreso a la aplicación Móvil
+## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/ingreso-a-la-aplicación-móvil)
 
 Ingresar usuario y clave en la aplicación OASISCOM MOVIL.
 
@@ -20,3 +20,27 @@ Una vez ingresemos a la aplicación, en la parte superior izquierda encontramos 
 Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente con las aplicaciones disponibles:  
 
 ![](movil2.png)
+
+## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil/cambiar-empresa)
+
+OasisCom Móvil permite realizar cambio de empresa en caso de que el usuario tenga acceso a distintas organizaciones.  
+
+Para hacer el cambio de empresa se debe dar click en el botón ![](configuracion.png) y seleccionar la opción _Cambiar empresa_.  
+
+![](movil12.png)
+
+Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las empresas a las que se encuentra asociado y realizar el respectivo cambio. Se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
+
+![](movil13.png)
+
+## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/editar-perfil-de-usuario)
+
+En la opción _Editar Perfil de Usuario_, el usuario tendrá la posibilidad de cambiar su ubicación, su nombre y la contraseña, igualmente, se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
+
+Para realizar alguno de estos cambios, damos click en el botón ![](configuracion.png) y seleccionamos la opción _Editar Perfil de Usuario_.  
+
+![](movil14.png)
+
+
+
+
