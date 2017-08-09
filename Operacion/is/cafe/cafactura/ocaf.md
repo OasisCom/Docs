@@ -31,4 +31,4 @@ En el detalle se encuentran los datos relacionados al café, sus caracteristicas
 **Cantidad bruto:** cantidad en kilos.  
 **Destare:** peso del costal.  
 **Cantidad:** cantidad real de café.  
-**Producto:** el sistema sujiere el producto luego de haber diligenciado la calidad del mismo.  
+**Producto:** el sistema sugiere el producto luego de haber diligenciado la calidad del mismo.  
