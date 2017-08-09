@@ -24,7 +24,7 @@ La aplicación **OCAF** permite registrar las compras de café que se realicen y
 
 ### Detalle
 
-En el detalle se encuentran los datos relacionados al café, sus caracteristicas.  
+En el detalle se encuentran los datos relacionados con el café, sus caracteristicas.  
 
 **Muestra:** número de gramos obtenidos para la muestra.  
 **Sacos:** cantidad de sacos de café.  
