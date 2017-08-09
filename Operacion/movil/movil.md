@@ -21,7 +21,7 @@ Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente co
 
 ![](movil2.png)
 
-## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil/cambiar-empresa)
+## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil/Cambiar-Empresa)
 
 OasisCom Móvil permite realizar cambio de empresa en caso de que el usuario tenga acceso a distintas organizaciones.  
 
@@ -33,7 +33,7 @@ Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las 
 
 ![](movil13.png)
 
-## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/editar-perfil-de-usuario)
+## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/Editar-Perfil-de-Usuario)
 
 En la opción _Editar Perfil de Usuario_, el usuario tendrá la posibilidad de cambiar su ubicación, su nombre y la contraseña, igualmente, se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
 
