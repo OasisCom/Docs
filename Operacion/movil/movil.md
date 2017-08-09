@@ -45,5 +45,10 @@ A continuación, se podrá realizar los cambios de perfil que requiera el usuari
 
 ![](movil15.png)
 
+## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/Editar-Perfil-de-Usuario)
 
+La opción **Acerca de** mostrará la información referente a la aplicación móvil.  
 
+![](movil17.png)
+
+![](movil16.png)
