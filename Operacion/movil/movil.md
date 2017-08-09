@@ -41,6 +41,9 @@ Para realizar alguno de estos cambios, damos click en el botón ![](configuracio
 
 ![](movil14.png)
 
+A continuación, se podrá realizar los cambios de perfil que requiera el usuario y guardarlos dando click en el botón ![](guardar.png).  
+
+![](movil15.png)
 
 
 
