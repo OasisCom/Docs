@@ -21,4 +21,4 @@ Confirmado el pedido, el sistema arrojará un mensaje de control indicando que e
 
 ![](confirmacion.png)
 
-Los pedidos realizados podrán ser vistos en la aplicación [**VPED - Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos).
+Los pedidos realizados podrán ser vistos en la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord).
