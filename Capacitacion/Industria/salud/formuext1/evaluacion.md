@@ -10,7 +10,7 @@ editable: si
 
 1) ¿En qué producto encontramos el módulo de salud en OasisCom?  
 
-2) ¿En el campo prestador de la aplicación EENOU encontramos un número; a qué hace referencia este número?  
+2) En el campo prestador de la aplicación EENOU encontramos un número; ¿a qué hace referencia este número?  
 
 3) ¿ En qué aplicación parametrizo los diagnósticos?  
 

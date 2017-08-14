@@ -10,7 +10,7 @@ editable: si
 
 1) Complete la siguiente oración:  
 
-En la aplicación NBCO se parametrizan ________________________________________ .  
+En la aplicación NBCO se parametrizan: ____
 
 2) Ordene las siguientes aplicaciones en el orden correcto para generar la nómina eficazmente:  
 

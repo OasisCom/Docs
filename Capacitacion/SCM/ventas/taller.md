@@ -8,11 +8,11 @@ editable: si
 # TALLER CURSO VENTAS
 
 
-1  Mencione los pasos que se deben realizar para: 
+1) Mencione los pasos que se deben realizar para: 
 
-Generar una factura de venta   
-Hacer Cierre de turno    
-Consultar las facturas asociadas al turno anteriormente cerrado.   
+- Generar una factura de venta   
+- Hacer Cierre de turno    
+- Consultar las facturas asociadas al turno anteriormente cerrado.   
 
 2  ¿Qué datos debo asociar si voy a realizar un faltante a mi turno en la aplicación JTUR?  
 
@@ -30,8 +30,7 @@ Respuesta:
 5  En la aplicación JFAC al guardar el detalle se genera automáticamente un registro en la pestaña pago, en donde por defecto el sistema nos arroja una forma de pago de acuerdo a la condición registrada en el maestro.   
 
 Seleccione una:  
-Verdadero  
-Falso  
+Verdadero  	( )		Falso	( )  
 
 
 

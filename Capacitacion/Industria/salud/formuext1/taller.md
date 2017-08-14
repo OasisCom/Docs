@@ -12,11 +12,9 @@ editable: si
 
 2) Relacione cada proceso con la correspondiente aplicación:  
 
-Solicitud de autorizaciones		EESOL  
-
-Solicitud CTC					EENOU  
-
-Notificación de Urgencias		EESOA  
+ - Solicitud de autorizaciones	-	EESOL  
+ - Solicitud CTC				-	EENOU  
+ - Notificación de Urgencias	-	EESOA  
 
 3) El campo servicios en la aplicación EESOL, lo parametrizamos en la aplicación BCLA de clasificaciones:  
 

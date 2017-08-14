@@ -8,13 +8,13 @@ editable: si
 # EVALUACIÓN CURSO FORMULARIOS EXTERNOS 2
 
 
-1) A qué hace referencia el concepto ME de la aplicación EEAPO?  
+1) ¿A qué hace referencia el concepto ME de la aplicación EEAPO?  
 
-2) Qué debemos validar en la aplicación EBAF después de procesar nuestra solicitud de portabilidad?  
+2) ¿Qué debemos validar en la aplicación EBAF después de procesar nuestra solicitud de portabilidad?  
 
-3) Qué campos deben tener el estado "Activo" en el zoom del campo afiliado, aplicación EESON?  
+3) ¿Qué campos deben tener el estado "Activo" en el zoom del campo afiliado, aplicación EESON?  
 
-4) En qué aplicación escojo el documento MS movimientos de subsidiado?  
+4) ¿En qué aplicación escojo el documento MS - movimientos de subsidiado?  
 
 Seleccione una:  
 a. EESON  
