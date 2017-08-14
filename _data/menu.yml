@@ -1941,7 +1941,7 @@
               url: /Capacitacion/Operatividad/basica1/taller
             - text: Evaluacion
               url: /Capacitacion/Operatividad/basica1/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/Operatividad/basica1/links
         - text: Operatividad Basica 2
           url: /Capacitacion/Operatividad/basica2/
@@ -1950,7 +1950,7 @@
               url: /Capacitacion/Operatividad/basica2/taller
             - text: Evaluacion
               url: /Capacitacion/Operatividad/basica2/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/Operatividad/basica2/links
         - text: Tips y Ayudas
           url: /Capacitacion/Operatividad/tips/
@@ -1959,7 +1959,7 @@
               url: /Capacitacion/Operatividad/tips/taller
             - text: Evaluacion
               url: /Capacitacion/Operatividad/tips/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/Operatividad/tips/links
         - text: Basicos OasisCom
           url: /Capacitacion/Operatividad/basicos/
@@ -1968,7 +1968,7 @@
               url: /Capacitacion/Operatividad/basicos/taller
             - text: Evaluacion
               url: /Capacitacion/Operatividad/basicos/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/Operatividad/basicos/links
     - text: Financiero
       url: /Capacitacion/ERP/
@@ -1980,7 +1980,7 @@
               url: /Capacitacion/ERP/procesoserp/taller
             - text: Evaluacion
               url: /Capacitacion/ERP/procesoserp/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/ERP/procesoserp/links
         - text: Activos Fijos
           url: /Capacitacion/ERP/activos/
@@ -1989,7 +1989,7 @@
               url: /Capacitacion/ERP/activos/taller
             - text: Evaluacion
               url: /Capacitacion/ERP/activos/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/ERP/activos/links
         - text: Procesos Especiales
           url: /Capacitacion/ERP/procesosesp/
@@ -1998,7 +1998,7 @@
               url: /Capacitacion/ERP/procesosesp/taller
             - text: Evaluacion
               url: /Capacitacion/ERP/procesosesp/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/ERP/procesosesp/links
     - text: Logistico
       url: /Capacitacion/SCM/
@@ -2010,7 +2010,7 @@
               url: /Capacitacion/SCM/compras/taller
             - text: Evaluacion
               url: /Capacitacion/SCM/compras/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/SCM/compras/links
         - text: Ventas, Facturacion y POS
           url: /Capacitacion/SCM/ventas/
@@ -2019,7 +2019,7 @@
               url: /Capacitacion/SCM/ventas/taller
             - text: Evaluacion
               url: /Capacitacion/SCM/ventas/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/SCM/ventas/links
     - text: Recursos Humanos
       url: /Capacitacion/HRM/
@@ -2031,7 +2031,7 @@
               url: /Capacitacion/HRM/nomina/taller
             - text: Evaluacion
               url: /Capacitacion/HRM/nomina/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/HRM/nomina/links
         - text: Seleccion
           url: /Capacitacion/HRM/seleccion/
@@ -2040,7 +2040,7 @@
               url: /Capacitacion/HRM/seleccion/taller
             - text: Evaluacion
               url: /Capacitacion/HRM/seleccion/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/HRM/seleccion/links
         - text: Capacitacion
           url: /Capacitacion/HRM/capacitacion/
@@ -2049,7 +2049,7 @@
               url: /Capacitacion/HRM/capacitacion/taller
             - text: Evaluacion
               url: /Capacitacion/HRM/capacitacion/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/HRM/capacitacion/links
     - text: Soluciones industria
       url: /Capacitacion/industria/
@@ -2064,7 +2064,7 @@
                   url: /Capacitacion/industria/salud/formuext1/taller
                 - text: Evaluacion
                   url: /Capacitacion/industria/salud/formuext1/evaluacion
-                - text: Links del Recurso
+                - text: Links del Curso
                   url: /Capacitacion/industria/salud/formuext1/links
             - text: Formularios Externos 2
               url: /Capacitacion/industria/salud/formuext2/
@@ -2073,7 +2073,7 @@
                   url: /Capacitacion/industria/salud/formuext2/taller
                 - text: Evaluacion
                   url: /Capacitacion/industria/salud/formuext2/evaluacion
-                - text: Links del Recurso
+                - text: Links del Curso
                   url: /Capacitacion/industria/salud/formuext2/links
         - text: Hospital
           url: /Capacitacion/industria/hospital/
@@ -2082,7 +2082,7 @@
               url: /Capacitacion/industria/hospital/taller
             - text: Evaluacion
               url: /Capacitacion/industria/hospital/evaluacion
-            - text: Links del Recurso
+            - text: Links del Curso
               url: /Capacitacion/industria/hospital/links
 - text: Soporte
   url: /Soporte/
