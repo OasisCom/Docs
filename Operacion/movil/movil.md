@@ -7,7 +7,7 @@ editable: si
 
 # Móvil
 
-## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/ingreso-a-la-aplicación-móvil)
+## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/Ingreso-a-la-aplicación-Móvil)
 
 Ingresar usuario y clave en la aplicación OASISCOM MOVIL.
 
