@@ -2061,20 +2061,20 @@
               url: /Capacitacion/industria/salud/formuext1/
               subitems:
                 - text: Taller
-                  url: /Operacion/industria/salud/formuext1/taller
+                  url: /Capacitacion/industria/salud/formuext1/taller
                 - text: Evaluacion
-                  url: /Operacion/industria/salud/formuext1/evaluacion
+                  url: /Capacitacion/industria/salud/formuext1/evaluacion
                 - text: Links del Recurso
-                  url: /Operacion/industria/salud/formuext1/links
+                  url: /Capacitacion/industria/salud/formuext1/links
             - text: Formularios Externos 2
               url: /Capacitacion/industria/salud/formuext2/
               subitems:
                 - text: Taller
-                  url: /Operacion/industria/salud/formuext2/taller
+                  url: /Capacitacion/industria/salud/formuext2/taller
                 - text: Evaluacion
-                  url: /Operacion/industria/salud/formuext2/evaluacion
+                  url: /Capacitacion/industria/salud/formuext2/evaluacion
                 - text: Links del Recurso
-                  url: /Operacion/industria/salud/formuext2/links
+                  url: /Capacitacion/industria/salud/formuext2/links
         - text: Hospital
           url: /Capacitacion/industria/hospital/
           subitems:
