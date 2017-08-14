@@ -21,17 +21,6 @@ Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente co
 
 ![](movil2.png)
 
-## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil/Cambiar-Empresa)
-
-OasisCom Móvil permite realizar cambio de empresa en caso de que el usuario tenga acceso a distintas organizaciones.  
-
-Para hacer el cambio de empresa se debe dar click en el botón ![](configuracion.png) y seleccionar la opción _Cambiar empresa_.  
-
-![](movil12.png)
-
-Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las empresas a las que se encuentra asociado y realizar el respectivo cambio. Se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
-
-![](movil13.png)
 
 ## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/Editar-Perfil-de-Usuario)
 
@@ -44,6 +33,19 @@ Para realizar alguno de estos cambios, damos click en el botón ![](configuracio
 A continuación, se podrá realizar los cambios de perfil que requiera el usuario y guardarlos dando click en el botón ![](guardar.png).  
 
 ![](movil15.png)
+
+## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil/Cambiar-Empresa)
+
+OasisCom Móvil permite realizar cambio de empresa en caso de que el usuario tenga acceso a distintas organizaciones.  
+
+Para hacer el cambio de empresa se debe dar click en el botón ![](configuracion.png) y seleccionar la opción _Cambiar empresa_.  
+
+![](movil12.png)
+
+Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las empresas a las que se encuentra asociado y realizar el respectivo cambio. Se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
+
+![](movil13.png)
+
 
 ## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/Editar-Perfil-de-Usuario)
 
