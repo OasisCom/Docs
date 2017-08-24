@@ -715,3 +715,30 @@ En algunas opciones del sistema se podrán ingresar notas o comentarios a los do
 De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
 
 ![](notas2.png)
+
+
+## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
+
+La funcionalidad _Notificaciones_ permite a los usuarios de OasisCom enviar y recibir mensajes entre si.  
+
+![](notificacion.png)
+
+Para ver todos los mensajes damos click en la opción _Todos los mensajes_.
+
+![](notificacion1.png)
+
+Al dar click allí el sistema abrirá una aplicación llamada [**SMEU - Mensajes de usuario**](), en donde se podrán visualizar todos los mensajes que se han enviado y recibido con otros usuarios de la aplicación.  
+
+![](smeu.png)
+
+Para enviar un nuevo mensaje, damos click en la opción _Enviar nuevo mensaje_.  
+
+![](notificacion2.png)
+
+Se abrirá una ventana emergente donde se deberá diligenciar el correo electrónico de la persona a la cual le enviaremos el mensaje, el asunto y el contenido del mensaje.  
+
+![](notificacion3.png)
+
+Finalmente, damos click en botón  ![](enviar.png) 
+
+
