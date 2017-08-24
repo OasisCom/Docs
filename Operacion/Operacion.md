@@ -741,4 +741,9 @@ Se abrirá una ventana emergente donde se deberá diligenciar el correo electró
 
 Finalmente, damos click en botón  ![](enviar.png) 
 
+## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
+
+La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de ingresar fácilmente.  
+
+
 
