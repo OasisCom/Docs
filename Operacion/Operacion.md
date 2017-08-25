@@ -717,7 +717,7 @@ De las misma manera varios usarios podrán realizar diferentes notas sobre el mi
 ![](notas2.png)
 
 
-## [Notificaciones](http://docs.oasiscom.com/Operacion/#Notificaciones)
+## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
 
 La funcionalidad _Notificaciones_ permite a los usuarios de OasisCom enviar y recibir mensajes entre si.  
 
@@ -741,7 +741,7 @@ Se abrirá una ventana emergente donde se deberá diligenciar el correo electró
 
 Finalmente, damos click en botón  ![](enviar.png) 
 
-## [Favoritos](http://docs.oasiscom.com/Operacion/#Favoritos)
+## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
 
 La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de acceder fácilmente.  
 
@@ -759,7 +759,7 @@ Para quitar alguna aplicación de la sección de Favoritos, bastará con dar cli
 
 ![](favoritos2.png)
 
-## [Fijar Pestañas](http://docs.oasiscom.com/Operacion/#Fijar-Pestañas)
+## [Fijar Pestañas](http://docs.oasiscom.com/Operacion/#fijar-pestañas)
 
 Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio, así cuando el usuario vuelva a iniciar sesión la aplicación se abrirá automáticamente.  
 
