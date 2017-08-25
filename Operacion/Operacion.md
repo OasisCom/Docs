@@ -767,6 +767,11 @@ Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio
 
 Para quitar alguna aplicación que se haya fijado daremos click en la opción _Quitar pestaña fija_.  
 
+## [Foro](http://docs.oasiscom.com/Operacion/#foro)
 
+En este foro se encuentran diferentes temas de discusión en los cuales se podrán obtener respuesta a varios interrogantes y en caso de dar un aporte al foro también tiene la posibilidad ya sea para plantear una pregunta o dar respuesta de un tema en específico.  
 
+Para ingresar al foro, accedemos al website de OasisCom con la URL [www.oasiscom.com](www.oasiscom.com), nos dirigimos a la pestaña _Soporte_ y seleccionamos la opción **Foro**.  
+
+![](foro.png)
 
