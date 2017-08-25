@@ -717,7 +717,7 @@ De las misma manera varios usarios podrán realizar diferentes notas sobre el mi
 ![](notas2.png)
 
 
-## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
+## [Notificaciones](http://docs.oasiscom.com/Operacion/#Notificaciones)
 
 La funcionalidad _Notificaciones_ permite a los usuarios de OasisCom enviar y recibir mensajes entre si.  
 
@@ -741,9 +741,32 @@ Se abrirá una ventana emergente donde se deberá diligenciar el correo electró
 
 Finalmente, damos click en botón  ![](enviar.png) 
 
-## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
+## [Favoritos](http://docs.oasiscom.com/Operacion/#Favoritos)
 
-La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de ingresar fácilmente.  
+La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de acceder fácilmente.  
+
+Ingresamos a la aplicación que deseamos guardar como favoritos y damos click derecho sobre el nombre.  
+
+![](favoritos.png)
+
+Allí nos aparecerán cuatro opciones: Agregar a favoritos, quitar de favoritos, fijar pestaña y quitar pestaña.  
+
+Cuando agregamos una aplicación del sistema a Favoritos, esta se podrá ver en el costado derecho como se muestra en la siguiente imagen.
+
+![](favoritos1.png)
+
+Para quitar alguna aplicación de la sección de Favoritos, bastará con dar click en la opción _Quitar de Favoritos_.  
+
+![](favoritos2.png)
+
+## [Fijar Pestañas](http://docs.oasiscom.com/Operacion/#Fijar-Pestañas)
+
+Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio, así cuando el usuario vuelva a iniciar sesión la aplicación se abrirá automáticamente.  
+
+![](fijar.png)
+
+Para quitar alguna aplicación que se haya fijado daremos click en la opción _Quitar pestaña fija_.  
+
 
 
 
