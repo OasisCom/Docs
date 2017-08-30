@@ -17,6 +17,17 @@ La aplicación **OCAF** permite registrar las compras de café que se realicen y
 **Concepto:** Seleccionar del zoom el concepto por el cual se registra la compra del café. Los conceptos son parametrizados en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).   
 **Fecha:** fecha en la cual registra la compra del café.  
 **Tercero:** número de identificación del tercero a quien se le compró el café. Si el tercero seleccionado es asociado, el sistema arrojará un mensaje de control de color verde indicando que se encuentra hábil.  
+
+Si el cliente no se encuentra registrado en el sisitema al momento de realizar la orden de compra, OasisCom permite crear dicho cliente en la base de datos. En el campo tercero daremos click derecho y seleccionaremos _Crear cliente_.  
+
+![](cliente.png)
+
+Allí agregaremos una nueva fila y diligenciaremos los datos correspondientes al nuevo cliente, igualmente, en el campo _Representante_, el usuario podrá almacenar al referido, finalmente damos click en _Aceptar_ para guardar la información.  
+
+![](cliente1.png)
+
+
+
 **Estado:** Estado del registro _Activo, Procesado, Anulado_.  
 **Fuente:** seleccionar de la lista desplegable la fuente con que se adquirió la marcancía, ya sea recursos propios, línea de financiamiento, entre otros.  
 **Caja:** seleccionar la caja por la cual se desembolsará el dinero para el pago de la marcancía.  
