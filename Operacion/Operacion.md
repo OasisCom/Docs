@@ -715,3 +715,63 @@ En algunas opciones del sistema se podrán ingresar notas o comentarios a los do
 De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
 
 ![](notas2.png)
+
+
+## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
+
+La funcionalidad _Notificaciones_ permite a los usuarios de OasisCom enviar y recibir mensajes entre si.  
+
+![](notificacion.png)
+
+Para ver todos los mensajes damos click en la opción _Todos los mensajes_.
+
+![](notificacion1.png)
+
+Al dar click allí el sistema abrirá una aplicación llamada [**SMEU - Mensajes de usuario**](), en donde se podrán visualizar todos los mensajes que se han enviado y recibido con otros usuarios de la aplicación.  
+
+![](smeu.png)
+
+Para enviar un nuevo mensaje, damos click en la opción _Enviar nuevo mensaje_.  
+
+![](notificacion2.png)
+
+Se abrirá una ventana emergente donde se deberá diligenciar el correo electrónico de la persona a la cual le enviaremos el mensaje, el asunto y el contenido del mensaje.  
+
+![](notificacion3.png)
+
+Finalmente, damos click en botón  ![](enviar.png) 
+
+## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
+
+La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de acceder fácilmente.  
+
+Ingresamos a la aplicación que deseamos guardar como favoritos y damos click derecho sobre el nombre.  
+
+![](favoritos.png)
+
+Allí nos aparecerán cuatro opciones: Agregar a favoritos, quitar de favoritos, fijar pestaña y quitar pestaña.  
+
+Cuando agregamos una aplicación del sistema a Favoritos, esta se podrá ver en el costado derecho como se muestra en la siguiente imagen.
+
+![](favoritos1.png)
+
+Para quitar alguna aplicación de la sección de Favoritos, bastará con dar click en la opción _Quitar de Favoritos_.  
+
+![](favoritos2.png)
+
+## [Fijar Pestañas](http://docs.oasiscom.com/Operacion/#fijar-pestañas)
+
+Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio, así cuando el usuario vuelva a iniciar sesión la aplicación se abrirá automáticamente.  
+
+![](fijar.png)
+
+Para quitar alguna aplicación que se haya fijado daremos click en la opción _Quitar pestaña fija_.  
+
+## [Foro](http://docs.oasiscom.com/Operacion/#foro)
+
+En este foro se encuentran diferentes temas de discusión en los cuales se podrán obtener respuesta a varios interrogantes y en caso de dar un aporte al foro también tiene la posibilidad ya sea para plantear una pregunta o dar respuesta de un tema en específico.  
+
+Para ingresar al foro, accedemos al website de OasisCom con la URL [www.oasiscom.com](www.oasiscom.com), nos dirigimos a la pestaña _Soporte_ y seleccionamos la opción **Foro**.  
+
+![](foro.png)
+
