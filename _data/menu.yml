@@ -1934,6 +1934,11 @@
     - text: Operatividad
       url: /Capacitacion/Operatividad/
       subitems:
+        - text: Introducción
+          url: /Capacitacion/Operatividad/Introduccion/
+          subitems:
+            - text: Links del Curso
+              url: /Capacitacion/Operatividad/Introduccion/links
         - text: Operatividad Basica 1
           url: /Capacitacion/Operatividad/basica1/
           subitems:
@@ -2021,6 +2026,15 @@
               url: /Capacitacion/SCM/ventas/evaluacion
             - text: Links del Curso
               url: /Capacitacion/SCM/ventas/links
+        - text: Proceso de Inventarios
+          url: /Capacitacion/SCM/procesoinv/
+          subitems:
+            - text: Taller
+              url: /Capacitacion/SCM/procesoinv/taller
+            - text: Evaluacion
+              url: /Capacitacion/SCM/procesoinv/evaluacion
+            - text: Links del Curso
+              url: /Capacitacion/SCM/procesoinv/links
     - text: Recursos Humanos
       url: /Capacitacion/HRM/
       subitems:
