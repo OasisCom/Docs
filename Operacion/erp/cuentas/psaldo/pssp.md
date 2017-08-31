@@ -25,6 +25,10 @@ La aplicación contiene los siguientes campos en el maestro:
 **Crédito:** Movimientos créditos efectuados durante el periodo.  
 **Saldo:** Saldo final del periodo.  
 
+La aplicación permite ver la sumatoria total del saldo por cada cuenta administrada y el total general de todas las cuentas.  
+
+![](PSSP.png)
+
 Esta aplicación cuenta con un detalle el cual explicamos a continuación:  
 
 ![](PSSP2.png)
@@ -42,6 +46,7 @@ Esta aplicación cuenta con un detalle el cual explicamos a continuación:
 **Débito cruce:** Valores dedito aplicados de dicho documento en el periodo consultado.  
 **Crédito cruce:** Valores crédito aplicados de dicho documento en el periodo consultado.  
 
+**Nota:** La diferencia entre los Saldos de Cuentas por Pagar y Saldos Periódicos radica en que los últimos son el resultado histórico en los respectivos periodos, conteniendo saldo Inicial del periodo, movimientos tanto Débito como Crédito y el saldo al final de cada periodo histórico, por su parte los saldos de cuentas por pagar, es el saldo actualizado, que contiene los movimientos más inmediatos al momento de la consulta, lo que se conoce como  “Saldo en Línea”.  
 
-**Nota:** La diferencia entre los Saldos de Cuentas por Pagar y Saldos Periódicos radica en que los últimos son el resultado histórico en los respectivos periodos, conteniendo saldo Inicial del periodo, movimientos tanto Débito como Crédito y el saldo al final de cada periodo histórico, por su parte los saldos de cuentas por pagar, es el saldo actualizado, que contiene los movimientos más inmediatos al momento de la consulta, lo que se conoce como  “Saldo en Línea”.
+
 
