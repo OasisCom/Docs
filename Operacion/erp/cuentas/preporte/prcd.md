@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Reportes
-permalink: /Operacion/erp/cuentas/preporte/
+title: Cruces - Diferencia en Cambio
+permalink: /Operacion/erp/cuentas/preporte/prcd
 editable: si
 ---
 
