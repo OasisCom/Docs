@@ -18,10 +18,10 @@ En esta aplicación se definen los roles que harán parte de la seguridad y conf
 
 En el maestro de esta aplicación se deben diligenciar los siguientes campos:
 
-**Rol**: Id o número del rol.
-**Nombre Rol**: Nombre del rol.
-**Turno**: Activar el flag si ese rol se controlará por turnos y desactivarlo en caso que no.
-**Actualizado**: Campo automático que indica la fecha en la que se actualizó el registro.
+**Rol**: Id o número del rol. 
+**Nombre Rol**: Nombre del rol. 
+**Turno**: Activar el flag si ese rol se controlará por turnos y desactivarlo en caso que no. 
+**Actualizado**: Campo automático que indica la fecha en la que se actualizó el registro. 
 
 En la parte inferior denominada detalle al dar clic en algún rol registrado anteriormente se observan las pestañas de: Usuarios, Programas, Campos, Temas, Partidas, Documentos, Indicadores, Competencias, Funciones y publicaciones, en cada uno de ellos se encuentran unos campos para diligenciar los cuales se nombran a continuación:
 
