@@ -26,8 +26,6 @@ Allí agregaremos una nueva fila y diligenciaremos los datos correspondientes al
 
 ![](cliente1.png)
 
-
-
 **Estado:** Estado del registro _Activo, Procesado, Anulado_.  
 **Fuente:** seleccionar de la lista desplegable la fuente con que se adquirió la marcancía, ya sea recursos propios, línea de financiamiento, entre otros.  
 **Caja:** seleccionar la caja por la cual se desembolsará el dinero para el pago de la marcancía.  
