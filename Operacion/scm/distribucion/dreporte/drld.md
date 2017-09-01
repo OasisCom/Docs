@@ -13,4 +13,6 @@ La aplicación permite realizar el filtro de la consulta por año, periodo y veh
 
 ![](drld.png)
 
+Al ejecutar la consulta:
+
 ![](drld1.png)
