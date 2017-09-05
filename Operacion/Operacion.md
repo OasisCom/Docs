@@ -54,10 +54,13 @@ Al ingresar tu usuario y contraseña el sistema te enviará al menú principal d
 ## [Menú](http://docs.oasiscom.com/Operacion/#menú)
 
 
-OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el nombre del usuario.  
+OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el botón ![](menu1.png) que seencuentra junto al nombre del usuario.  
 
-![](MENU.png)
+![](menu2.png)
 
+La opción _Perfil_ y _Cerrar Sesión_ se podrán ver al dar click en el nombre de usuario.  
+
+![](menu3.png)
 
 #### [**Configuración del perfil**](http://docs.oasiscom.com/Operacion/#configuración-del-perfil)  
 
@@ -83,7 +86,7 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 #### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
 
-Al dar click en la opción _Soporte_, se desplegará una pestaña con dos opciones, _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
+Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
 
 ![](SOPORTE.png)
 
@@ -775,4 +778,15 @@ Para ingresar al foro, accedemos al website de OasisCom con la URL [www.oasiscom
 
 ![](foro.png)
 
+## [Temas](http://docs.oasiscom.com/Operacion/#temas)
+
+OasisCom cuenta con diferentes temas de personalización de color de la pantalla inicial de la aplicación.  
+
+![](temas.png)
+
+Algunos ejemplos de los temas son:
+
+![](temas1.png)
+
+![](temas2.png)
 
