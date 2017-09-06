@@ -15,10 +15,10 @@ En el maestro de la aplicación se creará un nuevo registro y se diligenciarán
 
 ![](imre1.png)
 
-**Documento:** ingresar documento ER correspondiente a Entrada de Mercancía. Los documentos son parametrizables en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+**Documento:** ingresar documento ER correspondiente a Entrada de Mercancía. Los documentos son parametrizables en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 **Número:** el sistema asignará un número de consecutivo automáticamente cuando se guarde el registro.  
 **Ubicación:** seleccionar la ubicación que recepciona la mercancía.  
-**Concepto:** ingresar el concepto ER. Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon)
+**Concepto:** ingresar el concepto ER. Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
 **Tercero:** ingresar el número de identificación del usuario que recepciona la mercancía o seleccionarlo del zoom.  
 **Vehículo:** seleccionar del zoom el vehículo que transporta la mercancía.  
 **Conductor:** ingresar el número de identificación del conductor del vehículo o seleccionarlo del zoom.  
