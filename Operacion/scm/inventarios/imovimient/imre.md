@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Movimientos de inventario
-permalink: /Operacion/scm/inventarios/imovimient/imov
+title: Recepción de Mercancía
+permalink: /Operacion/scm/inventarios/imovimient/imre
 editable: si
 ---
 
