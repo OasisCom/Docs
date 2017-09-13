@@ -22,7 +22,9 @@ Si el cliente no se encuentra registrado en el sisitema al momento de realizar l
 
 ![](cliente.png)
 
-Allí agregaremos una nueva fila y diligenciaremos los datos correspondientes al nuevo cliente, igualmente, en el campo _Representante_, el usuario podrá almacenar al referido, finalmente damos click en _Aceptar_ para guardar la información.  
+Para ver todos los terceros registrados es necesario oprimir la tecla _Enter_. Para crear el nuevo cliente, en el zoom agregaremos una nueva fila y diligenciaremos los datos correspondientes al nuevo cliente, igualmente, en el campo _Representante_, el usuario podrá almacenar al referido, finalmente damos click en _Aceptar_ para guardar la información.  
+
+Cuando el usuario registre un tercero en el zoom, este se conservará de tal manera que el usuario pueda seleccionarlo para ser agregado al documento general que se está creando.  
 
 ![](cliente1.png)
 
@@ -31,7 +33,7 @@ Allí agregaremos una nueva fila y diligenciaremos los datos correspondientes al
 **Caja:** seleccionar la caja por la cual se desembolsará el dinero para el pago de la marcancía.  
 **Baba:** registrar el porcentaje de baba o mocilago que contiene el café en cereza.  
 
-### Detalle
+#### Detalle
 
 En el detalle se encuentran los datos relacionados con el café, sus caracteristicas.  
 
@@ -41,3 +43,9 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 **Destare:** peso del costal.  
 **Cantidad:** cantidad real de café.  
 **Producto:** el sistema sugiere el producto luego de haber diligenciado la calidad del mismo.  
+
+#### Vista Previa
+
+La aplicación también cuenta con una vista previa que brinda soporte de compras de café.  
+
+![](ocaf1.png)
