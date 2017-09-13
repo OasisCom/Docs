@@ -17,3 +17,4 @@ Al procesar la factura en la aplicación JFAC, se creará el documento _MT - Mer
 
 ![](imme1.png)
 
+Seguidamente, se deberá procesar el documento dando click en el botón ![](procesar.png) _Procesar_ ubicado en la barra de herramientas del maestro.  
