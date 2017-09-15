@@ -204,11 +204,24 @@ Si un código de producto que viene en el archivo, para la organización a la qu
 
 Si un precio del producto que viene en el archivo, para el tipo de precio y fecha de vigencia ya se encuentra en el maestro de Precios [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre), el sistema actualizará el valor para dicho producto.  
 
+# [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/bint#carga-de-imágenes-al-marketplace)
 
+En la aplicación BINT se verificará la parametrización realizada previamente en [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc) y se cargará el archivo con las imágenes.  
 
+Para ello, el usuario deberá ingresar a la opción BINT y elegir la _publicación_ correspondiente a SUBIDA DE IMÁGENES DE PRODUCTOS:  
 
+![](bint26.png)
 
+Posteriormente, la opción cargará el campo _Operación_ correspondiente a Subida (Upload):  
 
+![](bint27.png)
 
+Como siguiente paso debe seleccionar el archivo a cargar:  
 
+![](bint28.png)
 
+Por último damos click en _Aceptar_ y el sistema mostrará un mensaje de operación exitosa:  
+
+![](bint29.png)
+
+Una vez ejecutada la interfaz, las imágenes de los productos podrán ser visualizadas desde la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro). _(Ver aplicaición)_  
