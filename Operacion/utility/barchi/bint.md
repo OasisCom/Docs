@@ -188,11 +188,26 @@ El usuario deberá ingresar por la aplicación **BINT**, elegir la interfaz corr
 
 ![](bint23.png)
 
-Si el archivo cumple con la estructura y los datos son validos, el sistema mostrará un mensaje de ejecución exitosa.
+Si el archivo cumple con la estructura y los datos son validos, el sistema mostrará un mensaje de ejecución exitosa.  
 
 ![](bint20.png)
 
-Una vez ejecutada la interfaz, los precios cargados desde el archivo se podrán visualizar en el maestro de precios FPRE.
+Una vez ejecutada la interfaz, los precios cargados desde el archivo se podrán visualizar en el maestro de precios [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre).  
+
+![](bint24.png)
+
+### Validaciones
+
+Si un código de producto que viene en el archivo, para la organización a la que pertenece el usuario que está haciendo la carga de datos, no se encuentra en el maestro de Productos [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro), el sistema no cargará la información y mostrará un mensaje de control.  
+
+![](bint25.png)
+
+Si un precio del producto que viene en el archivo, para el tipo de precio y fecha de vigencia ya se encuentra en el maestro de Precios [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre), el sistema actualizará el valor para dicho producto.  
+
+
+
+
+
 
 
 
