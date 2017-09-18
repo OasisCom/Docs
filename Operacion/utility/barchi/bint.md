@@ -232,5 +232,7 @@ En el caso de que no exista fórmula en la parametrización de la aplicación [*
 
 ![](bint30.png)
 
-Si existe un producto con una imagen previamente cargada y se carga otra imagen asociado a este mismo producto, la imagen se sobrescribirá dado que la lógica  utilizada maneja un _update_.  
+Si existe un producto con una imagen previamente cargada y se carga otra imagen asociada a este mismo producto, la imagen se sobrescribirá dado que la lógica  utilizada maneja un _update_.  
+
+
 

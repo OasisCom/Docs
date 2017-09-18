@@ -163,14 +163,14 @@ _**Fórmula:**_
 
 ![](barc13.png)
 
-Si el campo _Formula_ del detalle NO contiene la consulta especificada, las imágenes contenidas dentro del archivo deben estar nombradas con el **Id de Producto** creado en la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro):  
+Si el campo _Formula_ del detalle NO contiene la consulta especificada, las imágenes contenidas dentro del archivo deben estar nombradas con el **Id de Producto** creado en la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro#verificar-cargue-de-imágenes-al-marketplace):  
 
 
 * Campo _Fórmula_ en la aplicación **BARC**  
 
 ![](barc14.png)
 
-* Campo _Producto_ en la aplicación [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro)  
+* Campo _Producto_ en la aplicación [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro#verificar-cargue-de-imágenes-al-marketplace)  
 
 ![](barc15.png)
 
@@ -178,13 +178,13 @@ Si el campo _Formula_ del detalle NO contiene la consulta especificada, las imá
 
 ![](barc16.png)
 
-Si el campo _Formula_ del detalle SI contiene la consulta especificada, las imágenes contenidas dentro del archivo deben estar nombradas con el **Código antiguo** del producto creado en la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro):
+Si el campo _Formula_ del detalle SI contiene la consulta especificada, las imágenes contenidas dentro del archivo deben estar nombradas con el **Código antiguo** del producto creado en la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro#verificar-cargue-de-imágenes-al-marketplace):
 
 * Campo _Fórmula_ en la aplicación **BARC**  
 
 ![](barc17.png)
 
-* Campo _Código Antiguo_ en la aplicación [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro)  
+* Campo _Código Antiguo_ en la aplicación [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro#verificar-cargue-de-imágenes-al-marketplace)  
 
 ![](barc18.png)
 
@@ -193,3 +193,4 @@ Si el campo _Formula_ del detalle SI contiene la consulta especificada, las imá
 ![](barc19.png)
 
 Para verificar el funcionamiento de la parametrización realizada y así mismo cargar las imágenes, ingresamos a la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#carga-de-imágenes-al-marketplace). (_Ver aplicación_)  
+
