@@ -16,10 +16,14 @@ La aplicación **BMOT** permite el registro de los diferentes motivos por los cu
 **Motivo:** número de identificación asignado al motivo que se registra.  
 **Nombre motivo:** nombre asignado al motivo que se registra.  
 
+La aplicación **BMOT** cuenta con una pestaña llamada _Cuestionario_ en donde se podrán definir las preguntas relevantes a calificar en un proceso comercial.  
+
+![](bmot3.png)
+
+
 ## [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
 
 En BMOT se realiza la parametrización de los documentos que deben ir anexos al formulario de afiliación de la aplicación [**EEMOV - Formulario de Afiliados WEB**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov). A continuación, adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio para el documento MS, concepto IN y motivo 2.
-
 
 ![](bmot2.png)
 
