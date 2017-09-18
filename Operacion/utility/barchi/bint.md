@@ -224,4 +224,13 @@ Por último damos click en _Aceptar_ y el sistema mostrará un mensaje de operac
 
 ![](bint29.png)
 
-Una vez ejecutada la interfaz, las imágenes de los productos podrán ser visualizadas desde la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro). _(Ver aplicaición)_  
+Una vez ejecutada la interfaz, las imágenes de los productos podrán ser visualizadas desde la opción [**MBPRO - Productos**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro#verificar-cargue-de-imágenes-al-marketplace). _(Ver aplicaición)_  
+
+## Verificaciones  
+
+En el caso de que no exista fórmula en la parametrización de la aplicación [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace), si el usuario ingresa el Id de producto cuyos caracteres correspondan a un String, este arrojará el siguiente mensaje de control:  
+
+![](bint30.png)
+
+Si existe un producto con una imagen previamente cargada y se carga otra imagen asociado a este mismo producto, la imagen se sobrescribirá dado que la lógica  utilizada maneja un _update_.  
+

@@ -192,4 +192,4 @@ Si el campo _Formula_ del detalle SI contiene la consulta especificada, las imá
 
 ![](barc19.png)
 
-Para verificar el funcionamiento de la parametrización realizada y así mismo cargar las imágenes, ingresamos a la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint). (_Ver aplicación_)  
+Para verificar el funcionamiento de la parametrización realizada y así mismo cargar las imágenes, ingresamos a la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#carga-de-imágenes-al-marketplace). (_Ver aplicación_)  

@@ -37,6 +37,20 @@ Al guardar se visualizarán los datos del nuevo producto registrado.
 En la parte superior derecha se visualizan los íconos de editar y eliminar respectivamente ![](editar.png) en caso tal que se requiera actualizar la información del producto o se desee eliminar.  
 
 
+# [Verificar cargue de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/mbpro#verificar-cargue-de-imágenes-al-marketplace)
+
+Una vez ejecutada la interfaz previamente en la aplicación [**BINT - Interfaces**]() (_Ver aplicación_), las imágenes de los productos podrán ser visualizadas desde la aplicación **MBPRO - Productos** en la columna _Imagen_, la cual contiene las opciones _Show Image_ y _Delete_:  
+
+![](mbpro5.png)
+
+Al dar click en _Show Image_, se podrá visualizar la imagen cargada asociada al Id del producto o al código antiguo del producto, según la parametrización establecida:  
+
+![](mbpro6.png)
+
+Si se selecciona la opción _Delete_, la aplicación eliminará la imagen.  
+
+
+
 
 
 
