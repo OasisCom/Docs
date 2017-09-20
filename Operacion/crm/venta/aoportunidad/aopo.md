@@ -13,24 +13,21 @@ Para agregar un nuevo registro damos click en el botón ![](mas.png) ubicado en 
 
 ![](aopo5.png)
 
-**Documento:** ingresar el documento _OP_ correspondiente a Oportunidades.  Los documentos son parametrizables en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+**Documento:** ingresar el documento _OP_ correspondiente a Oportunidades.  Los documentos son parametrizables en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 **Ubicación:** seleccionar la ubicación desde donde se está realizando el registro.  
 **Concepto:** ingresar el concepto OP (oportunidades). Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
 **Motivo:** seleccionar el motivo del registro. Los motivos son parametrizables en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
-**Tercero:** ingresar el número de identificación del contacto correspondiente a la oportunidad que se registra.  
 **Asunto:** describir brevemente el asunto del registro.  
 **Status:** seleccionar el status en el que se encuentra el tercero registrado como una oportunidadd de negocio.  
-**Id Contacto:**
-**Organización:**
-**Tipo de Medio:**
-**Id Campaña:**
-**Empleado:**
-**Tema:**
-**Probabilidad:**
-**Calificación:**
-**Tendencia:**
-**Proyecto:**
-
+**Id Contacto:** seleccionar del zoom el número de consecutivo asignado a la oportunidad de negocio previamente en la aplicación [**APRO - Prospectos**](http://docs.oasiscom.com/Operacion/crm/venta/aprospecto/apro).  
+**Tipo de Medio:** seleccionar el tipo de medio por el cual ingresó la oportunidad.  
+**Id Campaña:** seleccionar la campaña por la cual ingresó la oportunidad.  
+**Empleado:** ingresar el número de identificación del empleado a cargo de la oportunidad que se registra.  
+**Tema:** seleccionar la solución que más se acomoda a las necesidades que tiene el cliente.  
+**Probabilidad:**  
+**Calificación:**  
+**Tendencia:**  
+**Proyecto:** seleccionar el proyecto al cual se asocia el registro de la oportunidad.  
 
 En la pestaña _Ejecución_ se pueden observar las tareas ejecutadas por los trabajadores relacionadas a la oportunidad de negocio seleccionada en el maestro. Estas actividades se ejecutan por medio de la funcionalidad de workflow ubicada en la barra superior de herramientras, representada por el botón ![](aopo1.png) .  
 
