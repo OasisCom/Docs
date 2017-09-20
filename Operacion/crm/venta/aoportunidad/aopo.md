@@ -37,6 +37,6 @@ La opción **AOPO** también cuenta con una pestaña en el detalle llamada _Cues
 
 ![](aopo3.png)
 
-Seguidamente se encuentra la pestaña _Cotizaciones_, en la cual se podrán observar las cotizaciones que están procesadas y asignadas a la oportunidad de negocio en los campos _Document1_, _NumberId1_, y LocationId1_ de la cotización.  
+Seguidamente se encuentra la pestaña _Cotizaciones_, en la cual se podrán observar las cotizaciones que están procesadas y asignadas a la oportunidad de negocio en los campos _Document1_, _NumberId1_, y _LocationId1_ de la cotización.  
 
 ![](aopo4.png)
