@@ -840,7 +840,6 @@ Se abrirá una ventana emergente donde se deberá diligenciar el correo electró
 
 Finalmente, damos click en botón  ![](enviar.png) 
 
-
 ## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
 
 
