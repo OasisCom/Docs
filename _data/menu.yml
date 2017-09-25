@@ -1177,6 +1177,15 @@
               subitems:
               - text: Rutas
                 url: /Operacion/mrp/produccion/lproducto/lrut
+            - text: Consultas
+              url: /Operacion/mrp/produccion/lconsulta/
+              subitems:
+              - text: Certificados de Produccion
+                url: /Operacion/mrp/produccion/lconsulta/lcer
+              - text: Ordenes de produccion
+                url: /Operacion/mrp/produccion/lconsulta/lctr
+              - text: Recepcion de Produccion
+                url: /Operacion/mrp/produccion/lconsulta/lsrm
             - text: Programa de Produccion
               url: /Operacion/mrp/produccion/lprograma/
               subitems:
@@ -2109,6 +2118,10 @@
       url: /Soporte/accesandotipoimpuesto
     - text: NNOM - Distribucion por Tipo de Gasto
       url: /Soporte/distribuciontipogasto
+    - text: Movimientos - Función no válida
+      url: /Soporte/funcionnovalida
+    - text: Certificado de Retencion
+      url: /Soporte/certificadoderetencion
 - text: Desarrollo
   url: /Desarrollo/
   subitems:
