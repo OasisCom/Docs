@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recepción producción
-permalink: /Operacion/mrp/produccion/lconsultas/lsrm/
+permalink: /Operacion/mrp/produccion/lconsulta/lsrm/
 editable: si
 ---
 
