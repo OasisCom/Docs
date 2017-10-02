@@ -16,13 +16,13 @@ editable: si
 
 4) En la aplicación BABC parametrizo:
 
-Seleccione una:
+Seleccione una:  
 a. Nivel de rotación de un producto.  
 b. Los conceptos de consumo.
 
 5) La aplicación IFCD calcula diferencias
 
-Seleccione una:
+Seleccione una:  
 Verdadero  ( )		Falso  ( )  
 
 
