@@ -100,15 +100,3 @@ En GFAC
 ![](gfac21.png)
 
 La factura estará lista para ser validada, procesada y pagada.  
-
-
-
-
-
-
-
-
-
-
-
-
