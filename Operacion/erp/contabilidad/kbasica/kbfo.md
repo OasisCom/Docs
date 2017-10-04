@@ -167,11 +167,11 @@ Realizada la parametrización procedemos a generar los medios magnéticos como s
 
 ## [Parametrización Estado Situación Financiera](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera)
 
-Para visualizar el reporte en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf) de la situación financiera de la empresa, primero es necesario parametrizar el formato _902 - Estado Situación Financiera_ en la opción **KBFO - Formatos**.  
+Para visualizar el reporte en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#situación-financiera) de la situación financiera de la empresa, primero es necesario parametrizar el formato _902 - Estado Situación Financiera_ en la opción **KBFO - Formatos**.  
 
 ![](kbfo9.png)
 
-Parametrizado el formato, ingresamos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf) a visualizar el reporte de Situación Financiera. (_Ver aplicación_)
+Parametrizado el formato, ingresamos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#situación-financiera) a visualizar el reporte de Situación Financiera. (_Ver aplicación_)
 
 
 
