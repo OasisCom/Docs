@@ -70,7 +70,7 @@ Generados los medios magnéticos validamos la información que se generó en la 
 
 ## [Situación Financiera](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#situación-financiera)
 
-Mediante la aplicación _KPGF - Genera Formatos_ se puede consultar el reporte de la situación financiera de la empresa, esto de acuerdo a la previa parametrización del formato en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera).  
+Mediante la aplicación _KPGF - Genera Formatos_ se puede consultar el reporte de la situación financiera de la empresa, esto de acuerdo a la previa parametrización del formato en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera). (_Ver aplicación_)  
 
 En la aplicación KPGF ingresamos los datos correspondientes a la parametrización realizada en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera) y damos click en el botón ![](consultar.png).  
 
