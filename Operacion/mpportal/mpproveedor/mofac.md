@@ -32,3 +32,18 @@ Allí se deberán diligenciar todos los campos y seguidamente dar click en el bo
 **Fecha:** seleccionar la fecha en la cual se realiza la factura de compra.  
 **Concepto:** seleccionar el concepto por el cual se realiza la factura de compra. Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
 **Motivo:** seleccionar el motivo relacionado a la factura de compra. Los motivos son parametrizables en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
+**Cliente:** ingresamos el número de identificación del proveedor a quien se le realizó la compra.  
+**Condición de pago:** seleccionar la condición de pago definida en la compra.  
+
+![](mofac5.png)
+
+Guardados los cambios dando clickc en el botón ![](guardar.png) el sistema arrojará la información del la factura de compra realizada.  
+
+![](mofac6.png)
+
+En la esquina superior derecha se encuentran los botones ![](mofac7.png) correspondiente a _Procesar_, _Anular_ o _Editar_.  
+
+Si la factura se encuentra correcta, la procesaremos con el botón ![](mofac8.png)  
+
+
+
