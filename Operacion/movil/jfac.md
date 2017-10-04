@@ -64,7 +64,7 @@ Cuando ya hemos realizado tanto el registro como el detalle, volvemos a la pesta
 
 ### [Imprimir facturas](http://docs.oasiscom.com/Operacion/movil/jfac#imprimir-facturas)
 
-La aplicación Movil de OasisCom permite la impresión de las facturas procesadas desde dispositivos Android de la versión 4.4 en adelante, esto siempre y cuando el dispositivo se encuentre conectado a una impresora por vía blluetooth.  
+La aplicación Movil de OasisCom permite la impresión de las facturas procesadas desde dispositivos Android de la versión 4.4 en adelante y dispositivos IOS, esto siempre y cuando el dispositivo se encuentre conectado a una impresora por vía blluetooth.  
 
 Para imprimir una factura procesada damos click sobre la misma.
 
