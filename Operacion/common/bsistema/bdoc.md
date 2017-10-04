@@ -141,6 +141,8 @@ Seguidamente, ingresaremos a la aplicación [**OFAC - Facturas de Compra**](http
 
 ## [Parametrización de formatos de impresión](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
 
+OasisCom cuenta con diferentes formatos para la impresión de facturas. Para asignar un tipo de formato al documento _FA - Facturas_ ingresamos a la aplicación BDOC y filtramos por el mismo.  
 
+![](bdoc9.png)
 
-
+BDOC cuenta con el campo _FormatNumber_ el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los números de formatos deben estar previamente parametrizados en la aplicación [**SPRO - Programas**]()
