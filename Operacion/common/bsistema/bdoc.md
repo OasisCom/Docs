@@ -145,4 +145,4 @@ OasisCom cuenta con diferentes formatos para la impresión de facturas. Para asi
 
 ![](bdoc9.png)
 
-BDOC cuenta con el campo _FormatNumber_ el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los números de formatos deben estar previamente parametrizados en la aplicación [**SPRO - Programas**]()
+BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los formatos y su Id deben estar previamente parametrizados en la aplicación [**SPRO - Programas**]()
