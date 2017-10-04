@@ -82,3 +82,13 @@ La factura impresa se visualizará de la siguiente manera:
 
 ![](jfac13.png)
 
+# [Impresión dinámica de facturas](http://docs.oasiscom.com/Operacion/movil/jfac#impresión--dinámica-de-facturas)
+
+El sistema permite realizar la impresión de facturas de manera dinámica de acuerdo a la parametrización de los diferentes formatos desde la versión WEB en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc). (_Ver aplicación_)  
+
+Parametrizado el formato deseado desde la versión WEB en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para el documento _FA_, al realizar la impresión de una factura en la aplicación Móvil de OasisCom, esta tomará el formato indicado anteriormente. Si se desea cambiar el formato, esto se deberá hacer de nuevo desde la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
+
+
+
+
+
