@@ -145,4 +145,8 @@ OasisCom cuenta con diferentes formatos para la impresión de facturas. Para asi
 
 ![](bdoc9.png)
 
-BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los formatos y su Id deben estar previamente parametrizados en la aplicación [**SPRO - Programas**]()
+BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los formatos y su Id deben estar previamente parametrizados en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro). (_Ver aplicación_)  
+
+El _Número de Formato_ que sea parametrizado en BDOC para el documento _FA - Facturas_ será con el que se imprimirá la factura en la versión Móvil de OasisCom.  
+
+
