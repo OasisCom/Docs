@@ -43,7 +43,11 @@ Guardados los cambios dando clickc en el botón ![](guardar.png) el sistema arro
 
 En la esquina superior derecha se encuentran los botones ![](mofac7.png) correspondiente a _Procesar_, _Anular_ o _Editar_.  
 
-Si la factura se encuentra correcta, la procesaremos con el botón ![](mofac8.png)  
+Si la factura se encuentra correcta, la procesamos con el botón ![](mofac8.png). El sistema realizará la contabilización pertinente.  
+
+Si por el contratrio la factura creada se tiene que anular por alguna razón, daremos click en el botón ![](anular.png).  
+
+Se se necesita corregir algo de la factura de compra creada, damos click en el botón ![](mofac9.png)
 
 
 
