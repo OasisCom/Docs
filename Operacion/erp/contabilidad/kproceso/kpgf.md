@@ -68,7 +68,20 @@ Ingresamos los datos de consulta y damos click en el botón _Imprimir Reporte_.
 
 Generados los medios magnéticos validamos la información que se generó en la aplicación [**KFOR - Balance de Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-la-información-generada-en-los-medios-magnéticos-correspondientes-al-ingreso-de-activo-fijo-por-compras).  
 
+## [Situación Financiera](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#situación-financiera)
 
+Mediante la aplicación _KPGF - Genera Formatos_ se puede consultar el reporte de la situación financiera de la empresa, esto de acuerdo a la previa parametrización del formato en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera).  
 
+En la aplicación KPGF ingresamos los datos correspondientes a la parametrización realizada en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera) y damos click en el botón ![](consultar.png).  
 
+![](kpgf4.png)
 
+El sistema arrojará un mensaje indicando que el proceso se ha ejecutado satisfactoriamente.  
+
+![](kpgf5.png)
+
+Igualmente, aparecerá el botón ![](imprimir.png), daremos click en este y el sistema arrojará una ventana con el reporte de la situación financiera de la organización.  
+
+Este reporte también podrá ser descargado en Excel, PDF o Word.  
+
+![](kpgf6.png)
