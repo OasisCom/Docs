@@ -234,5 +234,32 @@ En el caso de que no exista fórmula en la parametrización de la aplicación [*
 
 Si existe un producto con una imagen previamente cargada y se carga otra imagen asociada a este mismo producto, la imagen se sobrescribirá dado que la lógica  utilizada maneja un _update_.  
 
+# [**Envío de facturas a la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#envío-de-facturas-a-la-dian)
 
+Los documentos que se enviarán a la DIAN serán facturas y notas generadas a la facturación. Desde la opción **BINT** con la publicación _906_ se realizará la subida de la factura en formato XML. Con la publicación _907_ se permitirá el envío de facturas para verificación del servicio web de la DIAN.  
 
+Seleccionamos la publicación _906 - Subida efactura OasisCOm XML_, la operación _Upload_ y dando click en el botón _Seleccionar archivo_ cargamos la factura en formato XML.  
+
+![](bint31.png)
+
+Seleccionamos el archivo. Dicho archivo es el mismo que se obtiene al ejecutar la bajada de facturas desde la opción BINT.  
+
+![](bint32.png)
+
+Al seleccionarlo y dar click en el botón _Aceptar_, el sistema arrojará un mensaje de control indicando que la operación se realizó satisfactoriamente.  
+
+![](bint33.png)
+
+La subida del archivo anterior, se ejecuta para que las facturas a enviar a la DIAN estén debidamente identificadas y disponibles para el proceso de envío.  
+
+Luego de dicha subida, se ejecuta el proceso de envío a la DIAN, el cual se efectúa desde BINT mediante la publicación _907 - Send DIAN files_.  
+
+![](bint34.png)
+
+Seleccionamos la fecha de las facturas que se quieran enviar o podemos dejar en blanco el campo para que las tome todas.  
+
+![](bint35.png)
+
+Finalmente, se obtiene el mensaje del servicio de la DIAN donde se muestra que la factura fue enviada y pasará a verificación de la DIAN.  
+
+![](bint36.png)
