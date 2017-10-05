@@ -7,10 +7,13 @@ editable: si
 
 # GCON - Consultas
 
-## [Generación de producto facturado]()
+## [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
 
-Una vez la cita es pagada mediante la aplicación [**GCAL - Calendario**](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita) y la factura generada en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) ha sido procesada, ingresaremos a la aplicación **GCON** a crear la nueva consulta.  
+Creada anteriormente la consulta mediante la aplicación [**GCAL - Calendario**](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita), el sistema automáticamente abrirá la aplicación **GCON** con el registro de la consulta correspondiente.  La factura generada en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) por concepto de pago de cita (cita moredadora) se debe encontrar en estado procesado. (_Ver aplicaciones_).  
 
-Ingresamos a la aplicación GCON y creamos la nueva consulta.  
+Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un renglón con la descripción del pago de la cita.  
+
+![](gcon.png)
+
 
 

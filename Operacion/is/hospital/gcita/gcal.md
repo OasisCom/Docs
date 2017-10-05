@@ -112,7 +112,7 @@ En GCAL damos click en el botón ![](consulta.png) para crear la nueva consulta,
 
 ![](gcal21.png)
 
-El sistema arrojará un mensaje de control indicando que la consulta fue creada exitosamente.  
+El sistema arrojará un mensaje de control indicando que la consulta fue creada exitosamente. Inmediatamente, se abrirá la aplicación [**GCON - Consultas**](). (_Ver aplicación_)  
 
 ![](gcal22.png)
 
