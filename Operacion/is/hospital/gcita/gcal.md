@@ -106,7 +106,19 @@ La factura estará lista para ser validada, procesada y pagada.
 
 ## [Generación de producto facturado]()
 
-En la aplicación **GCAL** al momento de crear una nueva consulta mediante el botón ![](consulta.png), el sistema validará si dicho registro tiene una factura procesada por concepto del pago de la cita (cuota moredadora) en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac). De ser así, 
+En la aplicación **GCAL** al momento de crear una nueva consulta mediante el botón ![](consulta.png), el sistema validará si dicho registro tiene una factura procesada por concepto del pago de la cita (cuota moredadora) en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) para posteriormente, crear la consulta en la aplicación [**GCON - Consultas**]().  
+
+En GCAL damos click en el botón ![](consulta.png) para crear la nueva consulta, el registro se debe encontrar en status _Ingreso Paciente_.  
+
+![](gcal21.png)
+
+El sistema arrojará un mensaje de control indicando que la consulta fue creada exitosamente.  
+
+![](gcal22.png)
+
+
+
+
 
 
 
