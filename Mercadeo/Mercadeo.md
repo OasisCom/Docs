@@ -5,8 +5,23 @@ permalink: /Mercadeo/
 editable: si
 ---
 
-# Mercadeo
+##OasisCom Mercadeo
+###Bienvenido
+                                                                                
+Adquiere todo el material del repositorio de marketing aquí
+
+[Infografías](#)
+[Piezas estáticas](#)
+[Gif](#)
+[Emailing](#)
+[Fichas](#)
+[Whitepapers](#)
+[Vídeo](#)
+[Descarga el botón de partners aquí](#)
 
 
-OasisCom cuenta con un sistema de capacitación que le servirá para aprender a realizar ciertas operaciones en el sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
+---------------------------------------------------------------
 
+
+
+![infografías](http://docs.oasiscom.com/Mercadeo/infografias/#.png)
