@@ -11,7 +11,7 @@ editable: si
 ###### [Infografías de soluciones OasisCom](#)
 ###### [soluciones empresariales](#)
 ###### [Productos complementarios](#)
-###### [Transformación digital](http://docs.oasiscom.com/Mercadeo/Infografia/Infografia.md#transformación-digital-1)
+###### [Transformación digital](#Transformación digital)
 ###### [3 claves y 3 barreras de la transformación digital](#)
 ###### [Cambio de modelo de negocio](#)
 ###### [Transformación digital en el Sector retail](#)
