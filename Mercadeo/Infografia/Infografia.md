@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Infografia
-permalink: /Mercadeo/infografia
+permalink: /Mercadeo/Infografia
 editable: si
 ---
 
