@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Infografia
+title: infografia
 permalink: /Mercadeo/Infografia
 editable: si
 ---
