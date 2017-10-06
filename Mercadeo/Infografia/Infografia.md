@@ -29,7 +29,7 @@ editable: si
 
 
 
-## Transformación digital
+## [Transformación digital](http://docs.oasiscom.com/Mercadeo/Infografia/Infografia.md#transformación-digital-1)
 ![](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_General__Sept17_FB_Post2_Infog_Transformación_digital_concepto_infografía-02.png)
 ![](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_General_Sept17_FB_Post2_Infog_Transformación_digital_concepto_infografía-06.png)
 ![](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_General_Sept17_FB_Post2_Infog_Transformación_digital_concepto_infografía-07.png)
