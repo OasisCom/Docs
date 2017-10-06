@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Movimientos de Tesorería (TMOV): La Ubicación tiene un saldo en Rojo o su saldo es insuficiente
+title: La Ubicación tiene un saldo en Rojo
 permalink: /Soporte/saldorojo
 editable: si
 ---
