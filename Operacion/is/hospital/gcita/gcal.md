@@ -86,6 +86,8 @@ El último botón ![](gcal13.png) (Cancelar_Cita) cumple la función de reversar
 
 ![](gcal15.png)
 
+### [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
+
 El botón **Pagar Cita** ![](gcal18.png), permite que cuando el estado de un registro sea _PACIENTE EN SALA_, se pueda realizar el pago de la cita (cuota moderadora). Se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_ con el producto asociado a la cita parametrizado en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
 
 
@@ -100,3 +102,23 @@ En GFAC
 ![](gfac21.png)
 
 La factura estará lista para ser validada, procesada y pagada.  
+
+
+## [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
+
+En la aplicación **GCAL** al momento de crear una nueva consulta mediante el botón ![](consulta.png), el sistema validará si dicho registro tiene una factura procesada por concepto del pago de la cita (cuota moredadora) en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) para posteriormente, crear la consulta en la aplicación [**GCON - Consultas**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado).  
+
+En GCAL damos click en el botón ![](consulta.png) para crear la nueva consulta, el registro se debe encontrar en status _Ingreso Paciente_.  
+
+![](gcal21.png)
+
+El sistema arrojará un mensaje de control indicando que la consulta fue creada exitosamente. Inmediatamente, se abrirá la aplicación [**GCON - Consultas**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado). (_Ver aplicación_)  
+
+![](gcal22.png)
+
+
+
+
+
+
+
