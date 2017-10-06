@@ -5,8 +5,6 @@ permalink: /Soporte/carguearchivos
 editable: si
 ---
 
-# SOPORTE
-
 # Cargue de archivos al sistema OASISCOM
 
 Al momento de subir un archivo plano al sistema, este nos puede arrojar mensajes de control que informan el origen de la inconsistencia.  
