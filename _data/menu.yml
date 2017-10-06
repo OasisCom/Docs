@@ -2133,5 +2133,22 @@
       url: /Desarrollo/reporterdl
     - text: Integracion OasisCom
       url: /Desarrollo/Integracionoasiscom
+- text: Mercadeo
+  url: /Mercadeo/
+  subitems:
+    - text: Infografia
+      url: /Mercadeo/Infografia
+    - text: Emailing
+      url: /Mercadeo/emailing
+    - text: Fichas
+      url: /Mercadeo/fichas
+    - text: GIF
+      url: /Mercadeo/gif
+    - text: Piezas
+      url: /Mercadeo/piezas
+    - text: Video
+      url: /Mercadeo/video
+    - text: Whitepapers
+      url: /Mercadeo/whitepapers
 - text: Sitemap
   url: /sitemap/
