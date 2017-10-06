@@ -10,7 +10,7 @@ editable: si
 
 Adquiere todo el material del repositorio de marketing aquí:
 
-###### [Infografías](http://docs.oasiscom.com/Mercadeo/Infografia/)
+###### [Infografías](http://docs.oasiscom.com/Mercadeo/Infografia)
 ###### [Gif](http://docs.oasiscom.com/Mercadeo/gif)
 ###### [Piezas](http://docs.oasiscom.com/Mercadeo/piezas)
 ###### [Fichas](http://docs.oasiscom.com/Mercadeo/fichas)
@@ -24,4 +24,3 @@ Adquiere todo el material del repositorio de marketing aquí:
 
 
 
-![](http://docs.oasiscom.com/Mercadeo/Infografia/InfografíaFactura%20electrónica-01.png)
