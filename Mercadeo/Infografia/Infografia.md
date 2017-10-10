@@ -7,15 +7,15 @@ editable: si
 
 # Infografía
 
-##### selecciona según la categoria de tu preferencia:
-##### [Infografías de soluciones OasisCom]((http://docs.oasiscom.com/Mercadeo/Infografia/físico solución general-02.png))
+##### Selecciona según la categoria de tu preferencia:
+##### [Infografías de soluciones OasisCom]((http://docs.oasiscom.com/Mercadeo/Infografia/físico solución general-02.png)
 
 ##### [Productos complementarios](((http://docs.oasiscom.com/Mercadeo/Infografia/físico soluciones avanzadas-02.png)
-###### [Marketplace](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_MarketPlace_ Sept17_Post_ infografía1-01.png)
+>###### [Marketplace](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_MarketPlace_ Sept17_Post_ infografía1-01.png)
  
-###### [Facturación Electrónica](http://docs.oasiscom.com/Mercadeo/Infografia/InfografíaFactura electrónica-01.png)
+>###### [Facturación Electrónica](http://docs.oasiscom.com/Mercadeo/Infografia/InfografíaFactura electrónica-01.png)
 
-###### [Agendamiento electrónico](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_Agendamiento_Oct17_infog_Completa.png)
+>###### [Agendamiento electrónico](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_Agendamiento_Oct17_infog_Completa.png)
 
 
 ##### [Transformación digital](http://docs.oasiscom.com/Mercadeo/Infografia/Transformación_digital_concepto_infografía.pdf)
