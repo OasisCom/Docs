@@ -24,7 +24,7 @@ Confirmado el pedido, el sistema arrojará un mensaje de control indicando que e
 Los pedidos realizados podrán ser vistos en la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord).
 
 
-# [Pestaña _Mis Ordenes_](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/comprar#pestaña-_-mis-ordenes-_-)
+# [Pestaña _Mis Ordenes_](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/comprar#pestaña-mis-ordenes)
 
 La aplicación **Comprar** cuenta con la pestaña _Orders_ ubicada en la parte superior derecha de la ventana, la cual permite la visualización de las ordenes realizadas en la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord) del tercero que se encuentre actualmente logueado en la aplicación.  
 
