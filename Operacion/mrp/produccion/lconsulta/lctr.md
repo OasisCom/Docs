@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Consulta
-permalink: /Operacion/mrp/produccion/lconsulta/lctr/
+title: Ordenes de producción
+permalink: /Operacion/mrp/produccion/lconsulta/lctr
 editable: si
 ---
 
-# Consulta
+# LCTR - Ordenes de producción
+
+La aplicación _LCTR - Ordenes de producción_ permite consultar el resumen de cortes de trilla por tercero.  
+
+![](lctr.png)
 
