@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Consulta
-permalink: /Operacion/mrp/produccion/lconsulta/lctr/
+title: Ordenes de producción
+permalink: /Operacion/mrp/produccion/lconsulta/lctr
 editable: si
 ---
 
-# Consulta
+# LCTR - Ordenes de producción
 
