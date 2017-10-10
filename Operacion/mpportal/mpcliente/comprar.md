@@ -22,3 +22,6 @@ Confirmado el pedido, el sistema arrojará un mensaje de control indicando que e
 ![](confirmacion.png)
 
 Los pedidos realizados podrán ser vistos en la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord).
+
+
+# [Pestaña _Mis Ordenes_](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/comprar#pestaña-_-mis-ordenes-_)
