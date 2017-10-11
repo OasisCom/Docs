@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Móvil
-permalink: /Operacion/movil
+permalink: /Operacion/movil/
 editable: si
 ---
 
