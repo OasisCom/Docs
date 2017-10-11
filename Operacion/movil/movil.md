@@ -7,7 +7,7 @@ editable: si
 
 # Móvil
 
-## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/movil.md#registro-en-oasiscom-móvil)
+## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/movil#registro-en-oasiscom-móvil)
 
 Ahora los usuarios podrán realizar su proceso de registro a OasisCom desde dispositivos móviles similar a la versión web. Esta funcionalidad se encuentra disponible para Android desde la versión 4.3 e IOS para las versiones 10.3 y 11.  
 
@@ -34,7 +34,7 @@ Si el usuario ingresa información erronea o deja campos sin diligenciar, el sis
 ![](registro6.png)
 
 
-## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/movil.md#ingreso-a-la-aplicación-movil)
+## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/movil#ingreso-a-la-aplicación-movil)
 
 Ingresar usuario y clave en la aplicación OASISCOM MOVIL.
 
@@ -49,7 +49,7 @@ Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente co
 ![](movil2.png)
 
 
-## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/movil.md#editar-perfil-de-usuario)
+## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/movil#editar-perfil-de-usuario)
 
 En la opción _Editar Perfil de Usuario_, el usuario tendrá la posibilidad de cambiar su ubicación, su nombre y la contraseña, igualmente, se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
 
@@ -61,7 +61,7 @@ A continuación, se podrá realizar los cambios de perfil que requiera el usuari
 
 ![](movil15.png)
 
-## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil.md#cambiar-empresa)
+## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/movil#cambiar-empresa)
 
 OasisCom Móvil permite realizar cambio de empresa en caso de que el usuario tenga acceso a distintas organizaciones.  
 
@@ -74,7 +74,7 @@ Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las 
 ![](movil13.png)
 
 
-## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/movil.md#acerca-de)
+## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/movil#acerca-de)
 
 La opción **Acerca de** mostrará la información referente a la aplicación móvil.  
 
