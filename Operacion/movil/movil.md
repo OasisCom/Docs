@@ -7,7 +7,7 @@ editable: si
 
 # Móvil
 
-## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil#registro-en-oasiscom-móvil)
+## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil#registro-en-oasiscom-movil)
 
 Ahora los usuarios podrán realizar su proceso de registro a OasisCom desde dispositivos móviles similar a la versión web. Esta funcionalidad se encuentra disponible para Android desde la versión 4.3 e IOS para las versiones 10.3 y 11.  
 
@@ -34,7 +34,7 @@ Si el usuario ingresa información erronea o deja campos sin diligenciar, el sis
 ![](registro6.png)
 
 
-## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil#ingreso-a-la-aplicación-móvil)
+## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil#ingreso-a-la-aplicación-movil)
 
 Ingresar usuario y clave en la aplicación OASISCOM MOVIL.
 
