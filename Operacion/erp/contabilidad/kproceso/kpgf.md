@@ -50,7 +50,7 @@ El formato será descargado en PDF y se podrá observar así:
 ![](pdf350.png)
 
 
-## [Formato 300 - Declaración de IVA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#formato-300---declaración-de-IVA)
+## [Formato 300 - Declaración de IVA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#formato-300---declaración-de-iva)
 
 Luego de realizar la debida parametrización en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo), ingresaremos al proceso especial **KPGF**, el cual nos permite generar el formato ingresando los siguientes datos y dando click en el botón _Generar_ ![](actualizar.png):  
 
