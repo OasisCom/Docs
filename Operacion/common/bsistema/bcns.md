@@ -17,4 +17,18 @@ Se define el número en el cual se encuentra el consecutivo de cada uno de los d
 **Nombre ubicación:** Nombre de la ubicación la cual está asociada el documento. Igualmente, ese campo no es necesario diligenciarlo, al dar TAB este campo se diligencia automáticamente.  
 **Número:** Número desde el cual se desea que inicie el consecutivo para el documento. Cuando se suben archivos por plano, es decir que se importan al sistema desde un archivo en Excel y posteriormente se va a realizar un documento desde el sistema es necesario revisar el consecutivo.  
 
+## [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos)
+
+La funcionalidad de _Secuencia de Consecutivos_ se basa en la capacidad que tiene el sistema de asignar automáticamente, un consecutivo a aquellas aplicaciones que tengan los documento parametrizados en el opción [**BDOC - Documentos**]() y que su consecutivo este basado en el nombre de la tabla que la compone, ej. BPRO - productid, pues su tabla base es product.  
+
+Para realizar la parametrización de la funcionalidad, inicialmente ingresamos a la aplicación **BCNS** y adicionamos el documento al cual le deseamos asignar consecutivos automáticos, para este ejemplo utilizaremos el documento PR - Produtos.  
+
+![](bcns2.png)
+
+Seguidamente, debemos ingresar a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivo) a consultar el documento y activar el flag de _Automático_ para que los consecutivos sean asignados por el sistema. (_Ver aplicación_)
+
+
+
+
+
 

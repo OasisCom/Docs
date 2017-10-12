@@ -49,7 +49,7 @@ En el maestro indicamos el documento al cual se le van a parametrizar los códig
 
 ![](bdoc1.png)
 
-## Inventario Periódico
+## [Inventario Periódico](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
 
 Para realizar el inventario periódico, es necesario parametrizar en la aplicación BDOC los documentos SA - Salidas del Inventario y EN - Entradas al Inventario. 
 
@@ -149,4 +149,11 @@ BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y 
 
 El _Número de Formato_ que sea parametrizado en BDOC para el documento _FA - Facturas_ será con el que se imprimirá la factura en la versión Móvil de OasisCom.  
 
+## [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
+
+Parametrizado el documento anteriormente en la aplicación [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos), ingresamos a la opción **BDOC** a consultar el documento y activar el flag _Automático_ para que los consecutivos sean asignados por el sistema.  
+
+![](bdoc10.png)
+
+Realizada la parametrización anterior, la aplicación será capaz de asignar un consecutivo de acuerdo al definido anteriormente en la aplicación [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos), si el documento no tiene el flag _Automático_ activado, el sistema tomará el consecutivo ingresado manualmente en la aplicación.  
 
