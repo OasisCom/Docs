@@ -157,3 +157,5 @@ Parametrizado el documento anteriormente en la aplicación [**BCNS - Consecutivo
 
 Realizada la parametrización anterior, la aplicación será capaz de asignar un consecutivo de acuerdo al definido anteriormente en la aplicación [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos), si el documento no tiene el flag _Automático_ activado, el sistema tomará el consecutivo ingresado manualmente en la aplicación.  
 
+Ingresamos a la aplicación tomada como ejemplo [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#) para verificar que los consecutivos se asignan automáticamente. (_Ver aplicación_)  
+
