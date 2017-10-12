@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación parametrizamos o registramos todos los terceros que podemos tener. Para el sistema Oasis la palabra terceros se hace referencia a: empleados, clientes, proveedores, afiliados, vendedores, asociados, entre otros. Es decir, todas las personas que interactúan o se relacionan con nuestro negocio.  
 
-Buscamos la aplicación **BTER** y accedemos.  
+Buscamos la aplicación **BTER** en la aplicacipon móvil de OasisCom y accedemos.  
 
 ![](bter.png)
 
