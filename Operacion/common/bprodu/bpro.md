@@ -42,7 +42,7 @@ Continuamos con la parametrización del producto, esta se realiza en la aplicaci
 
 ## [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#secuencia-de-consecutivos)
 
-Realizada la parametrización previa en las aplicaciones [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos) y [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivo), la aplicación correspondiente al documento a generar, en este caso **BPRO** asignará automáticamente el consecutivo al registro.  
+Realizada la parametrización previa en las aplicaciones [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos) y [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos), la aplicación correspondiente al documento a generar, en este caso **BPRO** asignará automáticamente el consecutivo al registro.  
 
 ![](bpro4.png)
 
