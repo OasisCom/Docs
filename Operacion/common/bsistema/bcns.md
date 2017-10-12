@@ -19,7 +19,7 @@ Se define el número en el cual se encuentra el consecutivo de cada uno de los d
 
 ## [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos)
 
-La funcionalidad de _Secuencia de Consecutivos_ se basa en la capacidad que tiene el sistema de asignar automáticamente, un consecutivo a aquellas aplicaciones que tengan los documento parametrizados en el opción [**BDOC - Documentos**]() y que su consecutivo este basado en el nombre de la tabla que la compone, ej. BPRO - productid, pues su tabla base es product.  
+La funcionalidad de _Secuencia de Consecutivos_ se basa en la capacidad que tiene el sistema de asignar automáticamente, un consecutivo a aquellas aplicaciones que tengan los documento parametrizados en el opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivo) y que su consecutivo este basado en el nombre de la tabla que la compone, ej. BPRO - productid, pues su tabla base es product.  
 
 Para realizar la parametrización de la funcionalidad, inicialmente ingresamos a la aplicación **BCNS** y adicionamos el documento al cual le deseamos asignar consecutivos automáticos, para este ejemplo utilizaremos el documento PR - Produtos.  
 
