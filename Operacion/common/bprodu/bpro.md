@@ -32,7 +32,7 @@ En esta aplicación se deben parametrizar todos los productos o servicios que of
 
 Esta aplicación nos permite realizar la parametrización de todos los servicios y/o productos (materia prima, suministro, terminados, activos fijos) con sus respectivas características, por lo tanto, se explicara los procesos que interfieren con dicha aplicación y una explicación general.  
 
-## Producción
+## [Producción](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#producción)
 
 Continuamos con la parametrización del producto, esta se realiza en la aplicación **BPRO** en donde se indica el nombre del producto y el tipo de éste, por ejemplo, si es un producto terminado, en proceso o materia prima. Por ejemplo, si se obtiene un insumo que requerimos para obtener un producto terminado debemos indicar en el campo _inventario “Materia Prima”_. Para esto ingresamos inicialmente a **BPRO** y realizamos la parametrización correspondiente al producto terminado (camisa) y sus respectivos insumos (tela, botones, hilo), en esta aplicación se diligencian todas las características de los productos cómo lo son la unidad de medida, clasificación, marca, línea, entre otros.  
 
@@ -40,6 +40,15 @@ Continuamos con la parametrización del producto, esta se realiza en la aplicaci
 ![](bpro1.png)
 
 
+## [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#secuencia-de-consecutivos)
+
+Realizada la parametrización previa en las aplicaciones [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos) y [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos), la aplicación correspondiente al documento a generar, en este caso **BPRO** asignará automáticamente el consecutivo al registro.  
+
+![](bpro4.png)
+
+Al crear un documento y dar click en _Guardar_ el sistema asignará el consecutivo.  
+
+![](bpro5.png)
 
 
 
