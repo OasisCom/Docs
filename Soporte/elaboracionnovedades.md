@@ -5,33 +5,54 @@ permalink: /Soporte/elaboracionnovedades
 editable: si
 ---
 
+
 # Elaboración de Novedades TAA
 
-Al generar las notas técnicas se deben tener en cuenta la información que se va a ingresar para tener claridad de que se va a generar. La ventana del aplicativo es el siguiente:  
+#### Realizar Traslado a Otra Entidad por medio de una Novedad NNOV en OASISCOM  
 
-![](epgn.png)
+Para realizar el cambio de una entidad administradora como lo son las entidades de salud y pensión en OASISCOM, se lleva a cabo la creación de Novedades. El proceso a realizar es el siguiente:  
 
-**Fecha Inicial y Fecha Final:** en estos campos se deben parametrizar los rangos de fechas a tener en cuenta en la información.  
-**Fecha Población Frecuencia de Uso:** se debe ingresar la fecha en que la población intervino basado en el rango anterior.  
-**Fecha Corte  Dem Pot:** fecha final o de corte al cual se desea calcular los diferentes servicios.  
-**Tipo:** en este listBox se escoge depende la necesidad u Organización:  
+En este caso realizaremos un traslado de entidad de salud.  
 
-![](epgn1.png)
 
-* _Demográfico:_ referente a la Población esta información se genera automáticamente.  
-* _Epidemiológico:_ para la EPS este tema no aplica en la generación de la Ficha.  
-* _Frecuencia:_ se genera acorde a toda la información.  
-* _Consolidado por Municipio:_ se Consolida por municipios de Acción.  
-* _Consolidado por Departamento:_ esto se lleva a cabo cuando su campo de Acción cuenta con más de un departamento, en el caso específico de la EPS Convida no Aplicaría.  
-* _Consolidado Total:_ consolidad la información general de todos los diferentes tipos.  
+1. Basado en el Tercero al cual se le realizará el cambio de entidad, validamos en la aplicación [**NBEM - Empleados**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) la entidad que actualmente se tiene:  
 
-**Fuente:** se establece el origen en que esta recopilada la información:  
+![](nnov.png)
 
-![](epgn2.png)
+2. Seguidamente, se debe validar que los conceptos TAA y TDA para el documento NV se encuentren parametrizados, en caso de que no lo estén, se deben crear estos conceptos en la aplicación [**NBCO - Conceptos**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbco).  
 
-* _Rips:_ si la Información se ingresó masivamente por medio de archivos planos.  
-* _Autorizaciones:_ se valida los documentos o movimientos autorizados.  
+![](nnov1.png)
 
-**Ubicación:** se ingresa una ubicación particular parametrizada previamente en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) o si es general se establece el 0.  
-**Contrato Prestación:** para este caso se deja en 0.  
+3. Verificado este paso, se debe ingresar a la aplicación [**NNOV - Novedades**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov) en la cual al dar click en el botón _adicionar_ llenaremos el formulario con los siguientes campos importantes:  
+
+![](nnov2.png)
+
+**Documento:** el tipo de Documento a realizar en este caso NV (Novedad).  
+**Ubicación:** la ubicación por la cual se realizará la novedad, éstas son parametrizadas en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).  
+**Concepto:** el concepto por el cual se realizará, para este caso el concepto debe ser TAA.  
+**Fecha:** la fecha en que regirá la novedad, es importante tener en cuenta que basada en la fecha en que se llevará el conteo la novedad se debe hacer a una fecha con dos meses menos, como se puede validar en nuestro ejemplo el traslado queremos hacerlo efectivo para el 01/10/2017, por eso se realizó con fecha de 01/08/2017 (dos meses menos) esto como normativa se da un periodo de 60 días para el cambio.  
+**Tercero:** el empleado al cual se le realiza la novedad.
+**Entidad:** el Nit de la entidad a la cual será cambiada, en este caso la Nueva EPS es Famisanar. La entidad se parametriza en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
+
+4. Una vez guardado se crea el nuevo registro con nuestra novedad:  
+
+![](nnov3.png)  
+
+Como se puede evidenciar la fecha que se estableció es de 01/08/2017, esto cambiará con fecha de 2 meses de más, una vez se procese la novedad:  
+
+![](nnov4.png)
+
+5. Este cambio se ve reflejado en la aplicación [**NBEM - Empleados**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) para ese tercero:  
+
+![](nnov5.png)
+
+6. A manera de soporte a estas novedades, cada vez que se confirme un documento NV x TAA el sistema crea automáticamente un documento TDA.  
+
+![](nnov6.png)
+
+
+
+
+
+
 
