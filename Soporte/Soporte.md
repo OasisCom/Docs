@@ -18,4 +18,5 @@ En esta sección encontrarán las incidencias frecuentes que se pueden presentar
 8. Cargue de archivos a OasisCom.  
 9. Elaboración de Novedades TAA.  
 10. Inconveniente en la visualización de documentos al no tener parametrizado correctamente BPER - Periodos.  
+11. Creación de concepto y funciones.  
 
