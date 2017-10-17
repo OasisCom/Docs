@@ -15,15 +15,15 @@ Para realizar el cambio de una entidad administradora como lo son las entidades 
 En este caso realizaremos un traslado de entidad de salud.  
 
 
-1. Basado en el Tercero al cual se le realizará el cambio de entidad, validamos en la aplicación [**NBEM - Empleados**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) la entidad que actualmente se tiene:  
+Basado en el Tercero al cual se le realizará el cambio de entidad, validamos en la aplicación [**NBEM - Empleados**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) la entidad que actualmente se tiene:  
 
 ![](nnov.png)
 
-2. Seguidamente, se debe validar que los conceptos TAA y TDA para el documento NV se encuentren parametrizados, en caso de que no lo estén, se deben crear estos conceptos en la aplicación [**NBCO - Conceptos**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbco).  
+Seguidamente, se debe validar que los conceptos TAA y TDA para el documento NV se encuentren parametrizados, en caso de que no lo estén, se deben crear estos conceptos en la aplicación [**NBCO - Conceptos**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbco).  
 
 ![](nnov1.png)
 
-3. Verificado este paso, se debe ingresar a la aplicación [**NNOV - Novedades**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov) en la cual al dar click en el botón _adicionar_ llenaremos el formulario con los siguientes campos importantes:  
+Verificado este paso, se debe ingresar a la aplicación [**NNOV - Novedades**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov) en la cual al dar click en el botón _adicionar_ llenaremos el formulario con los siguientes campos importantes:  
 
 ![](nnov2.png)
 
@@ -34,7 +34,7 @@ En este caso realizaremos un traslado de entidad de salud.
 **Tercero:** el empleado al cual se le realiza la novedad.
 **Entidad:** el Nit de la entidad a la cual será cambiada, en este caso la Nueva EPS es Famisanar. La entidad se parametriza en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
 
-4. Una vez guardado se crea el nuevo registro con nuestra novedad:  
+Una vez guardado se crea el nuevo registro con nuestra novedad:  
 
 ![](nnov3.png)  
 
@@ -42,10 +42,9 @@ Como se puede evidenciar la fecha que se estableció es de 01/08/2017, esto camb
 
 ![](nnov4.png)
 
-5. Este cambio se ve reflejado en la aplicación [**NBEM - Empleados**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) para ese tercero:  
+Este cambio se ve reflejado en la aplicación [**NBEM - Empleados**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) para ese tercero:  
 
 ![](nnov5.png)
 
-6. A manera de soporte a estas novedades, cada vez que se confirme un documento NV x TAA el sistema crea automáticamente un documento TDA.  
-
+A manera de soporte a estas novedades, cada vez que se confirme un documento NV x TAA el sistema crea automáticamente un documento TDA.  
 ![](nnov6.png)
