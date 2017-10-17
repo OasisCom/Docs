@@ -49,10 +49,3 @@ Como se puede evidenciar la fecha que se estableció es de 01/08/2017, esto camb
 6. A manera de soporte a estas novedades, cada vez que se confirme un documento NV x TAA el sistema crea automáticamente un documento TDA.  
 
 ![](nnov6.png)
-
-
-
-
-
-
-
