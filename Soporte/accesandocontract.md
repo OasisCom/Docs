@@ -5,7 +5,7 @@ permalink: /Soporte/accesandocontract
 editable: si
 ---
 
-# Mensaje de Control “Accesando ContractDetail” al Procesar Novedad en el NNOV de OASISCOM
+# Mensaje de control “Accesando ContractDetail” al procesar novedad en NNOV de OASISCOM
 
 Cuando se realiza una novedad por cualquier concepto y al momento de procesar se presenta el siguiente mensaje:  
 
