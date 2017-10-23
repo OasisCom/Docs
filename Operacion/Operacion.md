@@ -84,7 +84,7 @@ En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/syste
 
 ![](perfil3.png)
 
-Si se realiza la modificación de estos campos desde la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu), el menú de perfil también se actualizará automáticamente dichos campos:  
+Si se realiza la modificación de estos campos desde la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu), el menú de perfil también actualizará automáticamente dichos campos:  
 
 En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu)  
 
