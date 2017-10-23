@@ -20,5 +20,7 @@ editable: si
 ##### [Versión 19](http://mailchi.mp/65c69eefe74f/versin-oasiscom-40317-prueba03-todos-los-links-1318077)
 ##### [Versión 20](http://mailchi.mp/65c69eefe74f/versin-oasiscom-40317-prueba03-todos-los-links-1318077)
 ##### [Versión 21](http://mailchi.mp/c76eef6e1369/versin-oasiscom-40317-prueba03-todos-los-links-1318081)
+##### [Versión 22](http://mailchi.mp/c76eef6e1369/versin-oasiscom-40317-prueba03-todos-los-links-1318081)
+
 
 
