@@ -75,7 +75,6 @@ En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/syste
 
 ![](perfil1.png)
 
-
 Al modificar desde el menú de perfil la identificación y la organización, en la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu) se actualizarán automáticamente los campos mencionados:  
 
 ![](perfil2.png)
@@ -93,8 +92,6 @@ En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/syste
 En editar perfil.  
 
 ![](perfil5.png)
-
-
 
 #### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
 
