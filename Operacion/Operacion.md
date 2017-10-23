@@ -69,32 +69,29 @@ Al dar click en la opción _Perfil_, el sistema arrojará una ventana en donde s
 
 Al ingresar la información personal del usuario en sesión, el sistema tomará automáticamente los datos de los campos _Identificación_ y _Organización_ de la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu) de los campos _Tercero_ y _Organización_.  
 
-![](PERFIL.png)
+![](perfil.png)
 
 En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu)  
 
-![](PERFIL1.png)
-
+![](perfil1.png)
 
 Al modificar desde el menú de perfil la identificación y la organización, en la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu) se actualizarán automáticamente los campos mencionados:  
 
-![](PERFIL2.png)
+![](perfil2.png)
 
 En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu)  
 
-![](PERFIL3.png)
+![](perfil3.png)
 
-Si se realiza la modificación de estos campos desde la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu), el menú de perfil también se actualizará automáticamente dichos campos:  
+Si se realiza la modificación de estos campos desde la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu), el menú de perfil también actualizará automáticamente dichos campos:  
 
 En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu)  
 
-![](PERFIL4.png)
+![](perfil4.png)
 
 En editar perfil.  
 
-![](PERFIL5.png)
-
-
+![](perfil5.png)
 
 #### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
 

@@ -1834,6 +1834,12 @@
           url: /Operacion/movil/jtur
         - text: Confirmacion Ubicacion Venta Tiquetes
           url: /Operacion/movil/confirmacionubicacion
+        - text: Precios
+          url: /Operacion/movil/fpre
+        - text: Terceros
+          url: /Operacion/movil/bter
+        - text: Productos
+          url: /Operacion/movil/bpro
 - text: Comercializacion
   url: /Comercializacion/
   subitems:
@@ -2126,6 +2132,12 @@
       url: /Soporte/saldorojo
     - text: Cargue de archivos a OasisCom 
       url: /Soporte/carguearchivos
+    - text: Elaboración de Novedades TAA
+      url: /Soporte/elaboracionnovedades
+    - text: Creación de concepto y funciones 
+      url: /Soporte/creacionconcepto
+    - text: Inconveniente BPER
+      url: /Soporte/inconvenientebper
 - text: Desarrollo
   url: /Desarrollo/
   subitems:

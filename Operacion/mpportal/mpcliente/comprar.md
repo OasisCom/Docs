@@ -21,15 +21,15 @@ Confirmado el pedido, el sistema arrojará un mensaje de control indicando que e
 
 ![](confirmacion.png)
 
-Los pedidos realizados podrán ser vistos en la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord).
+Los pedidos realizados podrán ser vistos en la aplicación **MOORD - My Orders**.
 
 
 # [Pestaña _Mis Ordenes_](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/comprar#pestaña-mis-ordenes)
 
-La aplicación **Comprar** cuenta con la pestaña _Orders_ ubicada en la parte superior derecha de la ventana, la cual permite la visualización de las ordenes realizadas en la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord) del tercero que se encuentre actualmente logueado en la aplicación.  
+La aplicación **Comprar** cuenta con la pestaña _Orders_ ubicada en la parte superior derecha de la ventana, la cual permite la visualización de las ordenes realizadas en la aplicación **MOORD - My Orders** del tercero que se encuentre actualmente logueado en la aplicación.  
 
 ![](comprar1.png)
 
-Al acceder a la pestaña _Orders_, podremos ver los pedidos que el usuario ha realizado por medio de la aplicación [**MOORD - My Orders**](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/moord) y al seleccionar un documento de la columna izquierda se verá en detalle los productos que comprenden dicho pedido.  
+Al acceder a la pestaña _Orders_, podremos ver los pedidos que el usuario ha realizado por medio de la aplicación **MOORD - My Orders** y al seleccionar un documento de la columna izquierda se verá en detalle los productos que comprenden dicho pedido.  
 
 ![](comprar2.png)
