@@ -43,6 +43,24 @@ En el detalle:
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
 
+### [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)
+
+La funcionalidad de _Vista Previa_ muestra los movimientos de inventario despachado, relacionando la información diligenciada en la aplicación.  
+
+Para acceder a la vista previa, seleccionamos un registro del maestro de la aplicación y damos click en el botón _Presentación prelimiar_ ![](lupa.png) ubicado en la barra de herramientas.  
+
+![](imov9.png)
+
+En seguida, se podrá ver el documento del movimiento de inventario seleccionado.  
+
+El documento podrá ser exportado en formato de Excel, PDF o Word.  
+
+![](imov10.png)
+
+Al exportarlo en formato PDF.  
+
+![](imov11.png)
+
 
 ## [Producción](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)
 
