@@ -2138,6 +2138,8 @@
       url: /Soporte/creacionconcepto
     - text: Inconveniente BPER
       url: /Soporte/inconvenientebper
+    - text: Mensaje "Accesando Contract Detail"
+      url: /Soporte/accesandocontract
 - text: Desarrollo
   url: /Desarrollo/
   subitems:
