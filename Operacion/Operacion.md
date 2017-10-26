@@ -989,7 +989,7 @@ Para ocultar una columna se debe desactivar el flag del campo y este automática
 
 #### [Mover columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
 
-Para mover columnas, damos click en el botón ![](+.png) y arrastramso el campo hacia arriba o hacia abajo según se desee.  
+Para mover columnas, damos click en el botón ![](+.png) y arrastramos el campo hacia arriba o hacia abajo según se desee.  
 
 ![](bter10.png)
 
