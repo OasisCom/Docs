@@ -30,3 +30,9 @@ En el detalle, veremos los productos relacionados con el pedido asociado anterio
 
 Finalmente procesamos el documento dando click en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas del maestro.  
 
+La aplicación **XEXP** cuenta con una vista previa que permite visualizar el documento de exportación y descargarlo en formato Excel, PDF o Word.  
+
+Para ver el documento damos click en el botón ![](lupa.png) de la barra de herramientas.  
+
+![](previa.png)
+
