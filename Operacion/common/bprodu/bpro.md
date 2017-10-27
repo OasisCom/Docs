@@ -50,7 +50,23 @@ Al crear un documento y dar click en _Guardar_ el sistema asignará el consecuti
 
 ![](bpro5.png)
 
+## [Parametrización Proceso Compra de Café](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-proceso-compra-de-café)
+
+Para realizar el proceso de compra de café es necesario tener en cuenta la parametrización de los campos _Fuente_ y _Factor_ ubicados en la pestaña _Características_ de la aplicación **BPRO**.  
+
+![](bpro6.png)
+
+Registrado el producto en el maestro de la aplicación, nos dirigimos al detalle en la pestaña _Caracteristicas_, allí encontraremos el campo **_Fuente_** en el cual seleccionaremos la opción por la cual se adquirirá el café, ya sea por recursos propios de la cooperativa o por una línea de financiamiento otorgado por la Federación Nacional de Cafeteros.  
+
+![](bpro7.png)
+
+En el campo **_Factor_**, indicaremos el número de factor de calidad del café definido en el momento por la Federación Nacional de Cafeteros.  
+
+![](bpro8.png)
+
+Finalmente, damos click en el botón ![](guardar.png) de la barra de herramientas del detalle para guardar la información en los campos editados.  
+
+![](bpro9.png)
 
 
-
-
+A continuación, se deberá parametrizar la aplicación [**BCCL - Calidades**]() para poder realizar el proceso de compra de café. (_Ver aplicación_) 
