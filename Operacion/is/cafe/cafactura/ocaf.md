@@ -49,3 +49,6 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 La aplicación también cuenta con una vista previa que brinda soporte de compras de café.  
 
 ![](ocaf1.png)
+
+## [Compra de Café por Factor](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor)
+
