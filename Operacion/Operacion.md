@@ -137,17 +137,6 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 * **Soporte:** Casos frecuentes.  
 * **Desarrollo:** Características técnicas, metodología a utilizar, creación de reportes.  
 
-![](DOCUMENTACION.png)
-
-#### **Nombre de la aplicación**
-
-![](filtro1.png)
-
-#### **Palabra clave**
-
-![](filtro2.png)
-
-Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
 
 ## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)
 
@@ -933,3 +922,104 @@ La segunda pestaña permite ver las actividades que ya han sido ejecutadas de la
 
 ![](task4.png)
 
+## [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)
+
+Los usuarios pueden realizar las siguientes operaciones sobre los campos que conforman las aplicaciones:
+
+ * Inmovilización de columnas
+ * Agrupamiento por campos
+ * Ocultar columnas
+ * Mover columnas
+ * Guardar ajustes de opción
+ * Restaurar ajustes de opción
+
+Estas operaciones aplican tanto para encabezados como para el detalle de las aplicaciones.  
+
+#### [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
+
+Para inmovilizar una columna, el usuario debe hacer click derecho sobre la etiqueta (nombre) de la misma y seleccionar la opción _Inmovilizar_:  
+
+![](bter.png)
+
+Al ejecutar esta acción, la columna quedará congelada y al desplazar la barrra hacia la derecha, se moverán los demás campos dejando la seleccionada inmóvil:  
+
+![](bter1.png)
+
+Si se inmoviliza más de una columna, estas se desplazarán al inicio de la tabla como veremos en el siguiente ejemplo con la aplicación **BTER**.  
+
+Se inmoviliza el campo _Tercero_ el cual es el primero de la tabla y posteriormente se inmoviliza el campo _Estado_, situándose este último junto a la columna _Tercero_.  
+
+![](bter2.png)
+
+Se debe tener en cuenta que sobre las columnas inmovilizadas no es posible ejecutar ninguna acción.  
+
+#### [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
+
+Para realizar agrupaciones por columnas se debe dar click derecho sobre la etiqueta (nombre) de la misma y seleccionar la opción _Agrupar Por_:  
+
+![](bter3.png)
+
+En este caso, al agrupar por la columna _Estado_ de la opción **BTER - Terceros**, se visualizará de la siguiente manera:  
+
+![](bter4.png)
+
+Igualmente, será posible agrupar por dos o más campos si así lo requiere el usuario. En este caso se agrupa por las columnas _Estado_, _Tipo Cliente_ y _Tipo de Precio_:  
+
+![](bter5.png)
+
+Tenga en cuenta que las columnas agrupadas no son removidas de la ventana de la aplicación, es decir, la columna agrupada también se mostrará como una columna individual.  
+
+Por ejemplo, al agrupar por la columna _Estado_, este mostrará la agrupación pero el campo seguirá mostrandose:
+
+![](bter6.png)
+
+#### [Ocultar columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
+
+Para ocultar columnas, damos click en el botón _Opciones de columna_ ![](columna.png). Este mostrará todos los campos que la componen y las opciones de mover y ocultar los mismos.  
+
+![](bter7.png)
+
+![](bter8.png)
+
+Para ocultar una columna se debe desactivar el flag del campo y este automáticamente desaparecerá de la ventana. El usuario podrá ocultar las columnas que desee.  
+
+![](bter9.png)
+
+**Limitaciones:** No es posible ocultar una columna inmovilizada.  
+
+#### [Mover columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
+
+Para mover columnas, damos click en el botón ![](+.png) y arrastramos el campo hacia arriba o hacia abajo según se desee.  
+
+![](bter10.png)
+
+![](bter11.png)
+
+**¡Importante!:** Al mover una columna que está inmovilizada hacia la derecha, el sistema tomará las columnas a la izquerda de la misma y las inmovilizará de igual manera:  
+
+En el siguiente caso el campo _Tercero_ está inmovilizado y al moverlo hacia la derecha congelará también las columnas que se encuentren a su izquierda:  
+
+![](bter12.png)
+
+![](bter13.png)
+
+Al mover la columna _Tercero_, las demás quedarán inmovilizadas.  
+
+![](bter14.png)
+
+
+#### [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opción)
+
+Para guardar los cambios anteriormente mencionandos, se debe dar click derecho en el nombre de la aplicación y seleccionar del menú la opción _Guardar ajustes de opción_:  
+
+![](bter15.png)
+
+Si se realiza alguna de las opciones anteriormente mencionadas y no se guardan dichos ajustes, al cerrar y abrir la opción o bien, la aplicación OasisCom, estas acciones no serán tenidas en cuenta y no se guardaran los cambios. Adicionalmente, para visualizar los cambios guardados se debe cerrar e ingresar nuevamente a la aplicación.  
+
+#### [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opción)
+
+Para restaurar los ajustes realizados a una opción, se debe dar click derecho en el nombre de la misma y seleccionar _Restaurar ajustes de opción_:  
+
+![](bter16.png)
+
+Se debe cerrar e ingresar nuevamente a la aplicación OasisCom para evidenciar la restauración de la opción.  
