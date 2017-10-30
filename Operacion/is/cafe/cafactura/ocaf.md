@@ -96,7 +96,7 @@ Al trasladarnos a la pestaña _**Pago**_, veremos un renglón con la condición 
 
 ![](ocaf6.png)
 
-Finalmente, procesamos la factura dando click en el botón _Procesar_![](procesar.png) ubicado en la barra de herramientas del maestro y revizamos la pestaña del detalle _Contabilización_ para ver las cuentas contables afectadas.  
+Finalmente, procesamos la factura dando click en el botón _Procesar_![](procesar.png) ubicado en la barra de herramientas del maestro y revisamos la pestaña del detalle _Contabilización_ para ver las cuentas contables afectadas.  
 
 ![](ocaf7.png)
 
