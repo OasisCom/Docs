@@ -52,3 +52,46 @@ La aplicación también cuenta con una vista previa que brinda soporte de compra
 
 ## [Compra de Café por Factor](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor)
 
+Para realizar compra de café por Factor, adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de herramientas del maestro y diligenciamos el formulario.  
+
+![](ocaf2.png)
+
+##### _Datos Básicos_
+
+**Documento:** El sistema traerá por defecto el documento CF - Compra de café.  
+**Ubicación:** seleccionar la ubicación desde donde se compra el café, el sistema por defectó traerá la ubicación que se encuentre asociada al usuario que realiza el registro de compra. Las ubicaciones son parametrizables en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) 
+**Concepto:** seleccionar el concepto por el cual se realiza la compra de café, en este caso seleccionar _Compra x Factor_. Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
+
+![](ocaf3.png)
+
+##### _Datos Tercero_
+
+**Tercero:** ingresar el número de identificación del tercero que vende el café a la cooperativa. El sistema validará automáticamente si el tercero es asociado, está hábil o inhábil, este mensaje de control sólo es de manera informativa y no interrumpe el proceso.  
+
+![](ocaf4.png)
+
+**Fuente:** seleccionar la fuente de donde provienen los recursos para comprar el café, ya sea por recursos propios o línea de financiamiento.  
+**Caja:** el sistema por defecto asignará la caja de donde se tomarán los recursos para la compra del café, si se desea cambiar, damos doble click sobre el campo y seleccionamos la caja desde el zoom.  
+**Dirección:** seleccionamos del zoom el nombre de la finca que vende el café. Las direcciones son parametrizables en la aplicación **BDIR - Direcciones**.  
+**Sello:** seleccionamos del zoom el sello de certificación de calidad de la finca del cual proviene el café a comprar en caso tal que lo tenga. El sistema valida automáticamente con el nombre de la finca los sellos que esta posee. Los sellos son parametrizables en la aplicación **BDIR - Direcciones**.  
+**Condición de pago:** seleccionar la condición de pago del café. Al seleccionar _Cheque_ el sistema activará el flag de _Cheque_ y arrojará el número de cheque.  
+
+##### _Datos Café_
+
+**Muestra:** indicar el mínimo de muestra de café en gramos que se debe tomar para analizar.  
+**Sacos:** ingresar el número de sacos que lleva el caficultor para la venta.  
+**Peso Bruto:** peso de los sacos de café en kilos.  
+**Destare:** peso promedio de los sacos vacíos en total.  
+**Cantidad:** el sistema automáticamente arroja la diferencia entre el peso bruto y el destare indicando la cantidad real de café.  
+**AlmendraSan:** cantidad en gramos de almendra (café )sana de acuerdo a la muestra.  
+**Gramos pasilla:** cantidad en gramos de la almendra (café) defectuosa de acuerdo a la muestra.  
+**Gramos broca:** cantidad en gramos de la almendra (café) brocada de acuerdo a la muestra.  
+**Producto:** al dar doble click en el campo, el sistema analizará la muestra de café ingresada y arrojará los productos que aplican de acuerdo al rango de factor.  
+
+Diligenciado el formulario, damos click en el botón _Guardar_ y la aplicación arrojará automáticamente un renglón en la pestaña _Detalle_ con los datos de la compra y el factor asignado al producto.  
+
+
+
+
+
+
