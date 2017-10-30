@@ -21,5 +21,5 @@ En la aplicación **ODES** se debe registrar diariamente el precio del café por
 **Precio:** indicar el precio del día de acuerdo a la bolsa.  
 **Estado:** seleccionar estado _Activo_.  
 
-Finalmente, realizada la debida parametrización en las aplicaciones [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-proceso-compra-de-café), [**BCCL - Calidades**](http://docs.oasiscom.com/Operacion/common/bcomer/bccl) y [**ODES - Precio de café**](http://docs.oasiscom.com/Operacion/scm/compras/oprecio/odes), podemos proceder a realizar el proceso de compra de café por factor en la aplicación [**OCAF - Compras de café**]().  
+Finalmente, realizada la debida parametrización en las aplicaciones [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-proceso-compra-de-café), [**BCCL - Calidades**](http://docs.oasiscom.com/Operacion/common/bcomer/bccl) y [**ODES - Precio de café**](http://docs.oasiscom.com/Operacion/scm/compras/oprecio/odes), podemos proceder a realizar el proceso de compra de café por factor en la aplicación [**OCAF - Compras de café**](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor).  
 
