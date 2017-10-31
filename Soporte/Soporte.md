@@ -21,3 +21,4 @@ En esta sección encontrarán las incidencias frecuentes que se pueden presentar
 11. Creación de concepto y funciones.  
 12. Mensaje de Control “Accesando ContractDetail” al Procesar Novedad en el NNOV de OASISCOM.  
 13. Consecutivo
+14. Ubicación no definida como caja
