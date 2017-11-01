@@ -56,11 +56,11 @@ Para realizar el proceso de compra de café es necesario tener en cuenta la para
 
 ![](bpro6.png)
 
-Registrado el producto en el maestro de la aplicación, nos dirigimos al detalle en la pestaña _Caracteristicas_, allí encontraremos el campo **_Fuente_** en el cual seleccionaremos la opción por la cual se adquirirá el café, ya sea por recursos propios de la cooperativa o por una línea de financiamiento otorgado por la Federación Nacional de Cafeteros.  
+Registrado el producto en el maestro de la aplicación, nos dirigimos al detalle en la pestaña _Caracteristicas_, allí encontraremos el campo **_Fuente_** en el cual seleccionaremos la opción por la cual se adquirirá el café, ya sea por recursos propios de la cooperativa o por una línea de financiamiento que puede ser otorgada por la Federación Nacional de Cafeteros.  
 
 ![](bpro7.png)
 
-En el campo **_Factor_**, indicaremos el número de factor de calidad del café definido en el momento por la Federación Nacional de Cafeteros.  
+En el campo **_Factor_**, indicaremos el número de factor de calidad establecido y vigente  en ese momento.  
 
 ![](bpro8.png)
 
