@@ -6,7 +6,9 @@ editable: si
 ---
 
 # Versiones OasisCom
+
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
+
 
 ##### [Versión 10](http://us12.campaign-archive2.com/?u=0fa6cc7f95527a2cb26f4165f&id=57e137d4f9) 
 ##### [Versión 11](http://oasis.us12.list-manage2.com/track/click?u=0fa6cc7f95527a2cb26f4165f&id=a81fcdcbaa&e=931abdac80)
