@@ -88,10 +88,22 @@ Para realizar compra de café por Factor, adicionamos un nuevo registro dando cl
 **Gramos broca:** cantidad en gramos de la almendra (café) brocada de acuerdo a la muestra.  
 **Producto:** al dar doble click en el campo, el sistema analizará la muestra de café ingresada y arrojará los productos que aplican de acuerdo al rango de factor.  
 
-Diligenciado el formulario, damos click en el botón _Guardar_ y la aplicación arrojará automáticamente un renglón en la pestaña _Detalle_ con los datos de la compra y el factor asignado al producto.  
+Diligenciado el formulario, damos click en el botón _Guardar_ y la aplicación arrojará automáticamente un renglón en la pestaña _Detalle_ con los datos de la compra, el factor asignado al producto y el precio.  
+
+![](ocaf5.png)
+
+Al trasladarnos a la pestaña _**Pago**_, veremos un renglón con la condición de pago definida en el maestro de la aplicación, se permite adicionar otra condición de pago a la misma compra siempre y cuando el documento se encuentre en estado _Activo_.  
+
+![](ocaf6.png)
+
+Finalmente, procesamos la factura dando click en el botón _Procesar_![](procesar.png) ubicado en la barra de herramientas del maestro y revisamos la pestaña del detalle _Contabilización_ para ver las cuentas contables afectadas.  
+
+![](ocaf7.png)
+
+Para acceder a la vista previa del documento, damos click en el botón _Imprimir_ ![](impresion.png) ubicado en la barra de herramientas, el cual nos permitirá ver el documento e imprimirlo.  
+
+![](ocaf8.png)  
 
 
-
-
-
+![](ocaf9.png)
 
