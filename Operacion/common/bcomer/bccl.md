@@ -27,4 +27,4 @@ Para crear un nuevo rango de factores, agregamos un renglón y diligenciamos los
 
 Seleccionamos el estado _Activo_ y damos click en el botón _Guardar_ ![](guardar.png).  
 
-Para continuar con la parametrización necesaria para realizar el proceso de compra de café, veremos al aplicación [**ODES - Precio de Café**](http://docs.oasiscom.com/Operacion/scm/compras/oprecio/odes).  
+Para continuar con la parametrización necesaria para realizar el proceso de compra de café, veremos la aplicación [**ODES - Precio de Café**](http://docs.oasiscom.com/Operacion/scm/compras/oprecio/odes).  
