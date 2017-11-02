@@ -26,6 +26,7 @@ editable: si
 ##### [Cambio de modelo de negocio](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_BPO_Sept17_link_Post_infog1.png)
 ##### [Transformación digital en el Sector retail](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_Retail_Sept17_link_infog-01.png)
 ##### [Transformación digital en el sector Salud](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom_Salud_Sept17_link_Post_%20Infog-01.png)
-##### [3 Beneficios de la Transformación digital en el sector Salud](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom-Sector-Salud-3-Beneficios-TD-Oct17-Infografìa-completa.png)
+##### [Importancia de Un ERP para la transformacion digital en el sector Salud](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom-Solucion-Salud-y-transformacion-digital_Infografìa_completa copia 2.png)
+##### [3 Beneficios de la Transformación digital en el Sector Salud](http://docs.oasiscom.com/Mercadeo/Infografia/OasisCom-Sector-Salud-3-Beneficios-TD-Oct17-Infografìa-completa.png)
 
 
