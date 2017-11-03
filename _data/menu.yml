@@ -2143,6 +2143,8 @@
 - text: Desarrollo
   url: /Desarrollo/
   subitems:
+    - text: Versiones OasisCom
+      url: /Desarrollo/Versiones
     - text: Reportes RDL
       url: /Desarrollo/reporterdl
     - text: Integracion OasisCom
@@ -2164,5 +2166,7 @@
       url: /Mercadeo/video
     - text: Whitepapers
       url: /Mercadeo/whitepapers
+- text: Partners
+  url: /Partners/
 - text: Sitemap
   url: /sitemap/
