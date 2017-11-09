@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Descriptivo
-permalink: /Mercadeo/Descriptivo/
+permalink: /Comercializacion/Descriptivo/
 editable: si
 ---
 
