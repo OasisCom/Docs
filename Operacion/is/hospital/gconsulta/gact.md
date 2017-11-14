@@ -15,12 +15,12 @@ En esta aplicación podemos registrar las diferentes actividades que se pueden e
 
 Para generar un registro de guardería se debe crear un documento con las siguientes características:
 
-**Documento:** Se debe registrar TH correspondiente a actividades
-**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio
-**Concepto:** Se debe registrar GU correspondiente a guardería
-**Fecha:** Se debe registrar la fecha de inicio del servicio prestado
-**Tercero:** Se debe registrar el nombre de la mascota 
-**Recurso:** Cédula del recurso que está atendiendo
+**Documento:** Se debe registrar TH correspondiente a actividades  
+**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio  
+**Concepto:** Se debe registrar GU correspondiente a guardería  
+**Fecha:** Se debe registrar la fecha de inicio del servicio prestado  
+**Tercero:** Se debe registrar el nombre de la mascota   
+**Recurso:** Cédula del recurso que está atendiendo  
 
 En el detalle debemos diligenciar el formulario correspondiente al servicio de guardería, este formulario se parametriza en la aplicación BMOT - Motivos de acuerdo a los campos requeridos por la veterinaria cómo lo son fecha de ingreso, fecha de entrega de la mascota, entre otros.
 
@@ -29,12 +29,12 @@ En el detalle debemos diligenciar el formulario correspondiente al servicio de g
 
 Para generar un registro de vacunación se debe crear un documento con las siguientes características:
 
-**Documento:** Se debe registrar TH correspondiente a actividades
-**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio
-**Concepto:** Se debe registrar VA correspondiente a vacunación
-**Fecha:** Se debe registrar la fecha de inicio del servicio prestado
-**Tercero:** Se debe registrar el nombre de la mascota 
-**Recurso:** Cédula del recurso que está atendiendo
+**Documento:** Se debe registrar TH correspondiente a actividades  
+**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio  
+**Concepto:** Se debe registrar VA correspondiente a vacunación  
+**Fecha:** Se debe registrar la fecha de inicio del servicio prestado  
+**Tercero:** Se debe registrar el nombre de la mascota   
+**Recurso:** Cédula del recurso que está atendiendo  
 
 En el detalle debemos diligenciar el formulario correspondiente al servicio de vacunación, este formulario se parametriza en la aplicación BMOT - Motivos de acuerdo a los campos requeridos por la veterinaria cómo lo son estado vacunal, última fecha de vacunación, estado cardiaco, temperatura, entre otros.
 
@@ -43,12 +43,12 @@ En el detalle debemos diligenciar el formulario correspondiente al servicio de v
 
 Para generar un registro de desparasitación se debe crear un documento con las siguientes características:
 
-**Documento:** Se debe registrar TH correspondiente a actividades
-**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio
-**Concepto:** Se debe registrar DE correspondiente a desparasitación
-**Fecha:** Se debe registrar la fecha de inicio del servicio prestado
-**Tercero:** Se debe registrar el nombre de la mascota 
-**Recurso:** Cédula del recurso que está atendiendo
+**Documento:** Se debe registrar TH correspondiente a actividades  
+**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio  
+**Concepto:** Se debe registrar DE correspondiente a desparasitación  
+**Fecha:** Se debe registrar la fecha de inicio del servicio prestado  
+**Tercero:** Se debe registrar el nombre de la mascota  
+**Recurso:** Cédula del recurso que está atendiendo  
 
 En el detalle debemos diligenciar el formulario correspondiente al servicio de vacunación, este formulario se parametriza en la aplicación BMOT - Motivos de acuerdo a los campos requeridos por la veterinaria cómo lo son mucosa, estado de desparasitación, última fecha de desparasitación, peso, entre otros
 
@@ -57,12 +57,12 @@ En el detalle debemos diligenciar el formulario correspondiente al servicio de v
 
 Para generar un registro de peluquería se debe crear un documento con las siguientes características:
 
-**Documento:** Se debe registrar TH correspondiente a actividades
-**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio
-**Concepto:** Se debe registrar PU correspondiente a peluquería
-**Fecha:** Se debe registrar la fecha de inicio del servicio prestado
-**Tercero:** Se debe registrar el nombre de la mascota 
-**Recurso:** Cédula del recurso que está atendiendo
+**Documento:** Se debe registrar TH correspondiente a actividades  
+**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio  
+**Concepto:** Se debe registrar PU correspondiente a peluquería  
+**Fecha:** Se debe registrar la fecha de inicio del servicio prestado  
+**Tercero:** Se debe registrar el nombre de la mascota   
+**Recurso:** Cédula del recurso que está atendiendo  
 
 En el detalle debemos diligenciar el formulario correspondiente al servicio de vacunación, este formulario se parametriza en la aplicación BMOT - Motivos de acuerdo a los campos requeridos por la veterinaria cómo lo son hora de ingreso, tipo de corte en la cara, cuerpo, patas, entre otros
 
@@ -71,13 +71,13 @@ En el detalle debemos diligenciar el formulario correspondiente al servicio de v
 
 Para generar un registro de baño medicado se debe crear un documento con las siguientes características:
 
-**Documento:** Se debe registrar TH correspondiente a actividades
-**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio
-**Concepto:** Se debe registrar PU correspondiente a peluquería
-**Motivo:** Se debe registrar el número 1 correspondiente a baño medicado
-**Fecha:** Se debe registrar la fecha de inicio del servicio prestado
-**Tercero:** Se debe registrar el nombre de la mascota 
-**Recurso:** Cédula del recurso que está atendiendo
+**Documento:** Se debe registrar TH correspondiente a actividades  
+**Ubicación:** Se debe indicar la ubicación en la cual se presta el servicio  
+**Concepto:** Se debe registrar PU correspondiente a peluquería  
+**Motivo:** Se debe registrar el número 1 correspondiente a baño medicado  
+**Fecha:** Se debe registrar la fecha de inicio del servicio prestado  
+**Tercero:** Se debe registrar el nombre de la mascota  
+**Recurso:** Cédula del recurso que está atendiendo  
 
 En el detalle debemos diligenciar el formulario correspondiente al servicio de vacunación, este formulario se parametriza en la aplicación BMOT - Motivos de acuerdo a los campos requeridos por la veterinaria cómo lo son hora de ingreso, tipo de corte en la cara, cuerpo, patas, entre otros
 
