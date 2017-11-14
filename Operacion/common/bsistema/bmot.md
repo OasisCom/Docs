@@ -29,4 +29,22 @@ En BMOT se realiza la parametrización de los documentos que deben ir anexos al 
 ![](bmot2.png)
 
 
+## [Creación formularios]
+
+En esta aplicación se puede realizar la parametrización de formularios se debe indicar a que documento se requiere realizar y en el detalle en la pestaña Form Detail registrar lo siguiente:
+
+![](formulariosbmot.png)
+
+**Renglón:** Consecutivo
+**Descripción:** Nombre del campo que se requiere ver en el formulario
+**Obligatorio:** Activar el flag en caso que el campo se deba diligenciar obligatoriamente y dejarlo inactivado en caso que sea opcional
+**Tipo de datos:** Indicar T en caso de requerir que el diligenciamiento del campo sea texto, indicar D en caso que sea fecha y A en caso que se requiere un campo grande para diligenciar
+**Visible:** Activar el flag en caso que el campo sea visible
+**Actualice Campo:** Aquí se debe diligenciar el mismo campo de la aplicación ECRC - Características que se llama Nombre del campo, esto aplica sólo para los campos que van a tener zoom, es decir, se debe seleccionar alguna de las opciones allí parametrizadas.  
+**Etiqueta:** Registrar SI en caso que el campo se comporte cómo título
+**Fila posición:** Aquí se debe registrar el número de la fila en la cual se requiere ver el campo
+**Posición Columna:** Aquí se debe registrar el número de la columna en la cual se requiere ver el campo
+**Zoom:** Se debe activar el flag en caso que el campo vaya actuar como zoom, es decir, que se seleccionen las opciones que se encuentran allí parametrizadas.
+
+![](ejemploflormulario.png)
 
