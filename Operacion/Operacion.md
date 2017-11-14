@@ -509,119 +509,61 @@ Y se procede a guardar los cambios, de esta manera el archivo queda adjunto y as
 Nota: El archivo se almacenará con nombre de documento, número de registro y el nombre del archivo.  
 
 
-
-
-
 ### [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)
-
-
 
 La función Mensajes permite enviar mensajes internos entre usuarios del sistema y visualizar los mensajes no leídos con la aplicación SMEU.  
 
-
-
 ![](mensajes1.png)
-
-
 
 ![](mensajes2.png)
 
-
-
 Para enviar un nuevo mensaje:  
-
-
 
 1) Dar clic en Enviar un nuevo mensaje.  
 
-
-
 ![](mensajes3.png)
-
-
 
 2) El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
 
-
-
 ![](mensajes4.png)
-
-
 
 En el campo destinatario (To) se tienen dos opciones: escribir el correo electrónico al cual se desea enviar el mensaje o dar clic en el botón azul del signo + para seleccionar un contacto del sistema.  
 
-
-
 ![](mensajes5.png)
-
-
 
 Seguido se encuentra el campo para el Asunto (Subject) y para la descripción del nuevo mensaje. Se finaliza el envío del mensaje dando clic en el botón (Send new message). 
 
 
-
 ![](mensajes6.png)
-
-
 
 Para visualizar los mensajes no leídos:  
 
-
-
 1) Dar clic en mensajes no leídos (Unread messages).  
-
-
 
 ![](mensajes7.png)
 
-
-
 2) El sistema trae la aplicación SMEU – Mensajes de Usuario en la cual veremos los mensajes no leídos por el usuario en sesión.  
 
-
-
 ![](mensajes8.png)
-
-
 
 La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
 
 
-
-
-
 ### [Vista Zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
-
-
 
 La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
 
-
-
 Para visualizar un Zoom:  
-
-
 
 1) Dar doble clic en el campo color azul  
 
-
-
 ![](vistazoom1.png)
-
-
 
 2) Seleccionar registro  
 
-
-
 ![](vistazoom2.png)
 
-
-
 La función permite realizar un filtro para que la búsqueda sea más rápida.  
-
-
-
 
 
 ### [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)
@@ -828,30 +770,28 @@ De las misma manera varios usarios podrán realizar diferentes notas sobre el mi
 
 ## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
 
-La funcionalidad _Notificaciones_ permite a los usuarios de OasisCom enviar y recibir mensajes entre si.  
+La funcionalidad _Notificaciones_ permite visualizar las notificaciones leídas o no leídas del usuario al igual que en el ícono se verá la cantidad de notificaciones sin leer.  
 
 ![](notificacion.png)
 
-Para ver todos los mensajes damos click en la opción _Todos los mensajes_.
-
+Al desplegar el listado de notificaciones, se podrán ver todas aquellas que hayan sido recibidas sin importar que estén leídas, estas cargarán en grupos de 10 notificaciones hasta llegar al último mensaje.  
 
 ![](notificacion1.png)
 
-
-Al dar click allí el sistema abrirá una aplicación llamada [**SMEU - Mensajes de usuario**](), en donde se podrán visualizar todos los mensajes que se han enviado y recibido con otros usuarios de la aplicación.  
-
-![](smeu.png)
-
-Para enviar un nuevo mensaje, damos click en la opción _Enviar nuevo mensaje_.  
-
+Al hacer click sobre alguna notificación, se desplegará una ventana con la información completa de la notificación. Si el mensaje contiene adjunto un hipervínculo se podrá acceder desde allí mismo.  
 
 ![](notificacion2.png)
 
-Se abrirá una ventana emergente donde se deberá diligenciar el correo electrónico de la persona a la cual le enviaremos el mensaje, el asunto y el contenido del mensaje.  
+Las notificaciones nuevas o no leídas se verán de color azul en el listado y serán desmarcadas luego de hacer click sobre la misma.  
 
 ![](notificacion3.png)
 
-Finalmente, damos click en botón  ![](enviar.png) 
+Para enviar un nuevo mensaje, damos click en la opción _Send new nofitication_, allí se desplegará una nueva ventana en donde ingresaremos el correo electrónico del destinatario y el mensaje.  
+
+![](notificacion5.png)
+
+![](notificacion4.png)
+
 
 ## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
 
