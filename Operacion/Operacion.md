@@ -1023,3 +1023,32 @@ Para restaurar los ajustes realizados a una opción, se debe dar click derecho e
 ![](bter16.png)
 
 Se debe cerrar e ingresar nuevamente a la aplicación OasisCom para evidenciar la restauración de la opción.  
+
+## [Formularios Dinámicos](http://docs.oasiscom.com/Operacion/#formularios-dinámicos)
+
+Los formularios dinámicos se encuentran en el detalle de algunas aplicaciones como por ejemplo, GCON - Consultas o AANA - Análisis de Calidad.  
+
+En el maestro de la aplicación, se creará un registro del documento a generar y posteriormente, en el detalle, se diligenciará el formulario dinámico.  
+
+![](dinamico.png)
+
+Los campos que contiene el formulario son parametrizables, según la necesidad del usuario, en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot), así mismo se debe parametrizar el botón _Guardar_.  
+
+![](dinamico1.png)
+
+Los formularios dinámicos también cuentan con un botón que permite agregar un nuevo bloque al formulario.  
+
+![](dinamico2.png)
+
+Si se desea eliminar el bloque agregado, damos click en el botón _Borrar_.  
+
+![](dinamico3.png)
+
+
+
+
+
+
+
+
+
