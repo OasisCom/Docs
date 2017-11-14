@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **LCER** permite asignar certificados de validacion de los lotes de café excelso aprobados por el exportador.  
 
-La aplicación cuenta con dos botones para _Aceptar_ o _Rechazar_ el certificado. en el campo observación se deberá justificar brevemente el porqué se aprueba o rechaza el lote.  
+La aplicación cuenta con dos botones para _Aceptar_ o _Rechazar_ el certificado. En el campo observación se deberá justificar brevemente el porqué se aprueba o rechaza el lote.  
 
 ![](lcer.png)
 
