@@ -67,7 +67,7 @@ Para generar un registro de peluquería se debe crear un documento con las sigui
 En el detalle debemos diligenciar el formulario correspondiente al servicio de vacunación, este formulario se parametriza en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios) de acuerdo a los campos requeridos por la veterinaria cómo lo son hora de ingreso, tipo de corte en la cara, cuerpo, patas, entre otros.  
 
 
-## [Peluquería - Baño Medicado](peluquería---baño-medicado)
+## [Peluquería - Baño Medicado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact.md#peluquería---baño-medicado)
 
 Para generar un registro de baño medicado se debe crear un documento con las siguientes características:  
 
