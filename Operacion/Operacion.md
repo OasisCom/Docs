@@ -1043,12 +1043,3 @@ Los formularios dinámicos también cuentan con un botón que permite agregar un
 Si se desea eliminar el bloque agregado, damos click en el botón _Borrar_.  
 
 ![](dinamico3.png)
-
-
-
-
-
-
-
-
-
