@@ -29,7 +29,7 @@ En BMOT se realiza la parametrización de los documentos que deben ir anexos al 
 ![](bmot2.png)
 
 
-## [Creación formularios]
+## [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
 
 En esta aplicación se puede realizar la parametrización de formularios se debe indicar a que documento se requiere realizar y en el detalle en la pestaña Form Detail registrar lo siguiente:
 
