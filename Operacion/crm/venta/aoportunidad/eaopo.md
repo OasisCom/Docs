@@ -13,5 +13,5 @@ Al poner el cursor sobre los campos, estos indicarán qué se debe diligenciar.
 
 ![](eaopo.png)
 
-Ingresada la información, damos click en el botón _Submit_ para que sea enviada a OasisCom.  
+Ingresada la información, damos click en el botón _Submit_ para que sea enviada a la empresa correspondiente.  
 
