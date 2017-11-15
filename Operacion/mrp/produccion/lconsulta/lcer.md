@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Certificados de producción
-permalink: /Operacion/mrp/produccion/lconsulta/lcer/
+permalink: /Operacion/mrp/produccion/lconsulta/lcer
 editable: si
 ---
 
