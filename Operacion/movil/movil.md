@@ -39,8 +39,13 @@ Los usuarios podrán iniciar sesión con faceboook a OasisCom desde cualquier di
 
 ![](movil18.png)
 
+La aplicación solicitará las credenciales de usuario correspondientes.  
 
+![](movil19.png)
 
+La sesión será iniciada.  
+
+![](movil20.png)
 
 
 ## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/#ingreso-a-la-aplicación-móvil)
