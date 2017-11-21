@@ -33,6 +33,15 @@ Si el usuario ingresa información erronea o deja campos sin diligenciar, el sis
 
 ![](registro6.png)
 
+## [Ingreso a la aplicación mediante Facebook](http://docs.oasiscom.com/Operacion/movil/#ingreso-a-la-aplicación-mediante-facebook)
+
+Los usuarios podrán iniciar sesión con faceboook a OasisCom desde cualquier dispositivo móvil. Función disponible en versiones Android desde la 4.3.1. y IOS desde la versión 9.3.  
+
+![](movil18.png)
+
+
+
+
 
 ## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/#ingreso-a-la-aplicación-móvil)
 
