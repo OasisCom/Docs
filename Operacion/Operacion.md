@@ -376,6 +376,14 @@ La opción de anulación permite la cesación de vigencia de un comprobante o mo
 
 ![](anular1.png)
 
+Cada vez que se vaya ejecutar la acción de anulación de un documento, el sistema mostrará un mensaje de confirmación para realizar dicha acción.  
+
+![](anular2.png)
+
+Este proceso también se puede ejecutar en lote, es decir, con más de un registro al tiempo.  
+
+![](anular3.png)
+
 
 ### [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)
 
