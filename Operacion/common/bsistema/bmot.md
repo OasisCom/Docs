@@ -66,7 +66,7 @@ Una vez se parametriza el documento en la opción **BMOT - Motivos**, verificamo
 
 ![](bmot7.png)
 
-Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, deberá retornar el id del producto.  
+Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, deberá retornar el Id del producto.  
 
 ![](bmot8.png)
 
