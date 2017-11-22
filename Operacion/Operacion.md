@@ -378,7 +378,6 @@ Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la in
 
 ![](agregar2.png)
 
-
 ### [Guardar](http://docs.oasiscom.com/Operacion/#guardar)
 
 Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.  
@@ -386,6 +385,9 @@ Cuando realicemos una creación o edición de documentos, con éste botón salva
 
 ![](guardar1.png)
 
+Al guardar, los documentos quedarán en estado _Activo_ sin ningún color en específico.  
+
+![](agregar3.png)
 
 ### [Cancelar](http://docs.oasiscom.com/Operacion/#cancelar)
 
@@ -399,6 +401,10 @@ Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un docum
 La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.  
 
 ![](confirmarprocesar1.png)
+
+Cuando un documento se encuentre en estado _Procesado_, este se verá de color **verde**.  
+
+![](confirmarprocesar2.png)
 
 
 ### [Reversar](http://docs.oasiscom.com/Operacion/#reversar)
@@ -421,6 +427,10 @@ Cada vez que se vaya ejecutar la acción de anulación de un documento, el siste
 Este proceso también se puede ejecutar en lote, es decir, con más de un registro al tiempo.  
 
 ![](anular3.png)
+
+Cuando un documento esté en estado _Anulado_, este se verá de color **rojo**.  
+
+![](anular4.png)
 
 
 ### [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)
@@ -1013,6 +1023,8 @@ Se debe cerrar e ingresar nuevamente a la aplicación OasisCom para evidenciar l
 ## [Formularios Dinámicos](http://docs.oasiscom.com/Operacion/#formularios-dinámicos)
 
 Los formularios dinámicos se encuentran en el detalle de algunas aplicaciones como por ejemplo, GCON - Consultas o AANA - Análisis de Calidad.  
+
+En la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos) podremos ver la parametrización de los zoom.  
 
 En el maestro de la aplicación, se creará un registro del documento a generar y posteriormente, en el detalle, se diligenciará el formulario dinámico.  
 
