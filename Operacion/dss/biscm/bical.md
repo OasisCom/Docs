@@ -7,7 +7,7 @@ editable: si
 
 # BICAL - Calidad
 
-La aplicación BICAL de calidad, permite visualizar información correspondiente al análisis de calidades por caficultor, por producto o por dirección.  
+La aplicación BICAL de calidad, permite visualizar información correspondiente al análisis de calidades por caficultor, por producto o por dirección. Esta aplicación se alimenta de la información  ingresada en [**AANA - Análisis de Calidad**]().  
 
 Al ingresar a la aplicación, seleccionamos de la lista desplegable el reporte que se desea visualizar.  
 
