@@ -71,5 +71,3 @@ Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, de
 ![](bmot8.png)
 
 ![](bmot9.png)
-
-
