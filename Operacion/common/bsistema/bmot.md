@@ -71,3 +71,9 @@ Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, de
 ![](bmot8.png)
 
 ![](bmot9.png)
+
+## [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
+
+
+
+
