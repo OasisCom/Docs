@@ -285,7 +285,7 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 ![](filtro1.png)
 
 
-#### Palabra clave
+#### **Palabra clave**
 
 ![](filtro2.png)
 
@@ -305,6 +305,12 @@ Al ingresar a un programa se verán en la parte superior e inferior el maestro y
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
 ![](filtros1.png)
+
+En el detalle de las aplicaciones, es posible filtrar la información contenida allí por fecha.  
+
+![](filtros2.png)
+
+![](filtros3.png)
 
 
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
@@ -348,8 +354,7 @@ En el sistema se puede realizar el ordenamiento en diferentes campos de forma as
 ## [Opciones de Documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)
 
 
-En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…) estas opciones también están.  
-
+En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…).  
 
 ![](opcionesdocumentos1.png)
 
