@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Registros
-permalink: /Operacion/utility/calidad/bregis/
+title: Análisis de Calidad
+permalink: /Operacion/utility/calidad/bregis/aana
 editable: si
 ---
 
-# REGISTROS
+# AANA - Análisis de Calidad
 
