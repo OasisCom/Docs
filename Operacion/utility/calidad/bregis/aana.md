@@ -13,5 +13,6 @@ En el maestro, se deben diligenciar los datos del tercero (catador) que realizar
 
 ![](aana.png)
 
-Al guardar el registro maestro, en la primera pestaña del detalle se cargará automáticamente el formulario dinámico parametrizado previamente en la aplicación [**BMOT - Motivos**]()
-dfgdfg
+Al guardar el registro maestro, en la primera pestaña del detalle se cargará automáticamente el formulario dinámico parametrizado previamente en la aplicación [**BMOT - Motivos**]().  
+
+
