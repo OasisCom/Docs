@@ -55,7 +55,7 @@ Al ingresar tu usuario y contraseña el sistema te enviará al menú principal d
 ## [Menú](http://docs.oasiscom.com/Operacion/#menú)
 
 
-OasisCom cuenta con un menú que permite configurar el perfil, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el botón ![](menu1.png) que seencuentra junto al nombre del usuario.  
+OasisCom cuenta con un menú que permite configurar el perfil, crear empresa, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el botón ![](menu1.png) que seencuentra junto al nombre del usuario.  
 
 ![](menu2.png)
 
@@ -92,6 +92,44 @@ En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/syste
 En editar perfil.  
 
 ![](perfil5.png)
+
+
+#### [**Crear empresa - Suscripción**](http://docs.oasiscom.com/Operacion/#crear-empresa---suscripción)
+
+Al dar click en la opción _Crear empresa_, se desplegará un formulario que se deberá diligenciar para crear una nueva empresa.  
+
+![](crear.png)
+
+Al diligenciar la información correspondiente y dar click en el botón _Crear_, la aplicación se cargará de nuevo e iniciará sesión automáticamente en la empresa creada.  
+
+![](crear1.png)
+
+Además de realizar la creación de la empresa, el sistema también creará la suscripción de la misma, la cual puede ser validada en la aplicación **SSUS - Suscripciones**. Esta se crea con cantidad de usuarios 1, lo cual lo podemos ver en el campo _Cantidad_.  
+
+![](crear2.png)
+
+Desde la empresa creada, al seleccionar nuevamente el botón ![](menu1.png) se habilitará la opción de _Suscripción_, la cual se muestra únicamente en la empresa creada y por ende al usuario que la crea, allí el usuario podrá actualizar la suscripción de la empresa creada diligenciando los campos del formulario.  
+
+La suscripción será creada con el **Plan OASISCOM E0** asignado en el campo _Suscripción Actual_ por defecto y con cantidad de usuarios 1.  
+
+![](crear3.png)
+
+Desde esta misma ventana se puede visualizar la pestaña de _Historial de Facturas_, la cual muestra las facturas realizadas por el usuario en esa empresa.  
+
+![](crear4.png)
+
+Si se genera un error, esta pestaña mostrará una alerta como se ve a continuación:  
+
+![](crear5.png)
+
+Cuando el servidor no encuentre datos mostrará el siguiente mensaje:  
+
+![](crear6.png)
+
+Cuando el servidor retorne datos, estos se mostrarán en una tabla como la siguiente:  
+
+![](crear7.png)
+
 
 #### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
 
