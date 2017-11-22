@@ -53,5 +53,7 @@ Finalizando este proceso, se confirma el registro.
 
 ### [Vista Previa](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana#vista-previa)
 
+Permite la visualización de un informe de resultados del análisis de calidad con base a la información ingresada por el usuario en el detalle de dicha opción. Para generarla, se debe seleccionar el registro correspondiente y posteriormente el icono ![](lupa.png). Se generará el siguiente formato, el cual mostrará por hoja las observaciones de las causas y acciones con base a cada muestra.  
 
+![](aana11.png)
 
