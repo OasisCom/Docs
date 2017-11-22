@@ -48,3 +48,28 @@ En esta aplicación se puede realizar la parametrización de formularios se debe
 
 ![](ejemploflormulario.png)
 
+## [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
+
+En el detalle de la opción **BMOT - Motivos** se agregan los campos _ZoomName_ y _ZoomRetrive_, los cuales permitirán elegir el campo o columna a retornar en un zoom de un formulario dinámico.  
+
+![](bmot4.png)
+
+Por ejemplo, para la opción **AANA - Análisis de Calidad**, cuyo documento corresponde a QA, se parametriza en el zoom _Muestra_, que el campo a retornar será _ProductId_ del zoom _ProductZoom_. Se parametriza de la siguiente manera.  
+
+![](bmot5.png)
+
+Se debe tener en cuenta el campo _Tipo Datos_ para el dato del campo a parametrizar, dado que si solo recibe datos numéricos y se parametriza un dato que retorne letras o caracteres, al guardar el formulario mostrará error de data.  
+
+![](bmot6.png)
+
+Una vez se parametriza el documento en la opción **BMOT - Motivos**, verificamos el campo en la aplicación **AANA - Análisis de Calidad**.  
+
+![](bmot7.png)
+
+Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, deberá retornar el id del producto.  
+
+![](bmot8.png)
+
+![](bmot9.png)
+
+
