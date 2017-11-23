@@ -74,6 +74,51 @@ Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, de
 
 ## [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
 
+En esta opción será parametrizado el motivo y el formulario dinámico de la primera pestaña del detalle de la opción [**AANA - Análisis de Calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana), así:  
 
+En el maestro se ingresa el documento y concepto previamente parametrizados en [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad).  
 
+![](bmot10.png)
 
+En el detalle, se debe parametrizar el formulario dinámico del detalle de la opción [**AANA - Análisis de Calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana), de la siguiente manera:  
+
+**Descripción:** ingresar el nombre del campo.  
+**Obligatorio:** se activa o desactiva el flag dependiendo de si el campo es obligatorio o no.  
+**Tipo Datos:** se ingresa el tipo de dato del campo a parametrizar. Los tipos de dato son:  
+ * N: Numérico  
+ * T: Texto  
+ * A: Área de texto  
+ * D: Fecha  
+ * H: Hora  
+ * C: CheckBox  
+
+**Visible:** se activa o desactiva el flag, dependiendo de si el campo será visible o no.  
+**Actualice campo:** se deben ingresar los nemotécnicos o Id de los campos. Para el caso de la opción [**AANA - Análisis de Calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana), los nemotécnicos son los siguientes:  
+
+* Muestra: **ControlId**  
+* Nivel de Tueste: **TUE**  
+* Seco: **SEC**  
+* Espuma: **ESP**  
+* Fragancia / Aroma: **FRA**  
+* Sabor: **SAB**  
+* S. Residual: **SAR**  
+* Acidez: **ACI**  
+* Intensidad Acidez: **IAC**  
+* Cuerpo: **CUE**  
+* Intensidad Cuerpo: **ICU**  
+* Balance: **BAL**  
+* Uniformidad: **UNI**  
+* Taza Limpia: **TLI**  
+* Dulzor: **DUL**  
+* Puntaje Catador: **PCA**  
+* Número Tazas: **NTA**  
+* Intensidad: **INT**  
+* Defecto1: **Failure**  
+* Defecto2: **Failure**  
+* Defecto3: **Failure**  
+
+![](bmot11.png)
+
+**Zoom:** se activa o desactiva el flag dependiendo de si el campo corresponde o no a un zoom.  
+
+![](bmot12.png)

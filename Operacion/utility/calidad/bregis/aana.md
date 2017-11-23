@@ -7,7 +7,14 @@ editable: si
 
 # AANA - Análisis de Calidad
 
-Para realizar el análisis de calidad, se debe crear un documento en la opción **AANA**, teniendo en cuenta las debidas parametrizaciones.  
+Para realizar el análisis de calidad, se debe crear un documento en la opción **AANA**, teniendo en cuenta las debidas parametrizaciones en las aplicaciones: 
+
+-  [**BABC - Abc**](http://docs.oasiscom.com/Operacion/common/bprodu/babc)  
+-  [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)  
+-  [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)  
+-  
+
+
 
 En el maestro, se deben diligenciar los datos del tercero (catador) que realizará la prueba, el tipo de prueba (motivo) y el objeto de análisis (concepto).  
 
