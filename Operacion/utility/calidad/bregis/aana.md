@@ -12,6 +12,8 @@ Para realizar el análisis de calidad, se debe crear un documento en la opción 
 -  [**BABC - Abc**](http://docs.oasiscom.com/Operacion/common/bprodu/babc)  
 -  [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)  
 -  [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)  
+-  [**WEST - Estrategias**](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/west)
+-  [**WIND - Indicadores**](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wind#parametrización-proceso-análisis-de-calidad)
 -  
 
 
