@@ -16,7 +16,8 @@ Para realizar el análisis de calidad, se debe crear un documento en la opción 
 -  [**WIND - Indicadores**](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wind#parametrización-proceso-análisis-de-calidad)
 -  [**BCRC - Características**](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---análisis-de-calidad)
 -  [**BFAL - Fallas**](http://docs.oasiscom.com/Operacion/common/bservi/bfal)
--  [**BCUA - Causas**](http://docs.oasiscom.com/Operacion/common/bservi/bcau)
+-  [**BCAU - Causas**](http://docs.oasiscom.com/Operacion/common/bservi/bcau)
+-  [**BACC - Acciones**](http://docs.oasiscom.com/Operacion/common/bservi/bacc)
 -  
 -  
 
