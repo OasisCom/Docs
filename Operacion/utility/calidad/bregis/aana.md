@@ -18,10 +18,7 @@ Para realizar el análisis de calidad, se debe crear un documento en la opción 
 -  [**BFAL - Fallas**](http://docs.oasiscom.com/Operacion/common/bservi/bfal)
 -  [**BCAU - Causas**](http://docs.oasiscom.com/Operacion/common/bservi/bcau)
 -  [**BACC - Acciones**](http://docs.oasiscom.com/Operacion/common/bservi/bacc)
--  
--  
-
-
+-  [**BFCA - Fallas - Causas - Acciones**](http://docs.oasiscom.com/Operacion/common/bservi/bfca)  
 
 En el maestro, se deben diligenciar los datos del tercero (catador) que realizará la prueba, el tipo de prueba (motivo) y el objeto de análisis (concepto).  
 
