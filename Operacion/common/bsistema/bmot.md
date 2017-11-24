@@ -21,13 +21,11 @@ La aplicación **BMOT** cuenta con una pestaña llamada _Cuestionario_ en donde 
 
 ![](bmot3.png)
 
-
 ## [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
 
 En BMOT se realiza la parametrización de los documentos que deben ir anexos al formulario de afiliación de la aplicación [**EEMOV - Formulario de Afiliados WEB**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov). A continuación, adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio para el documento MS, concepto IN y motivo 2.
 
 ![](bmot2.png)
-
 
 ## [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
 
@@ -85,6 +83,7 @@ En el detalle, se debe parametrizar el formulario dinámico del detalle de la op
 **Descripción:** ingresar el nombre del campo.  
 **Obligatorio:** se activa o desactiva el flag dependiendo de si el campo es obligatorio o no.  
 **Tipo Datos:** se ingresa el tipo de dato del campo a parametrizar. Los tipos de dato son:  
+
  * N: Numérico  
  * T: Texto  
  * A: Área de texto  
