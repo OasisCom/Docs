@@ -28,7 +28,7 @@ Al guardar el registro maestro, en la primera pestaña del detalle se cargará a
 
 ![](aana1.png)
 
-En esta pestaña, se deben diligenciar los campos mencionados para el análisis de calidad utilizando los zooms de ayuda. Cabe recordar que la información visualizada en estos zooms es la parametrizada en el detalle de la opción [**BCRC - Características**]().  
+En esta pestaña, se deben diligenciar los campos mencionados para el análisis de calidad utilizando los zooms de ayuda. Cabe recordar que la información visualizada en estos zooms es la parametrizada en el detalle de la opción [**BCRC - Características**](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---análisis-de-calidad).  
 
 ![](aana2.png)
 
