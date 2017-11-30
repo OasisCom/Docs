@@ -24,3 +24,4 @@ En esta sección encontrarán las incidencias frecuentes que se pueden presentar
 14. Ubicación no definida como caja.  
 15. Parametrización de alertas.  
 16. BGRU - Asignación de cuentas
+17. Al realizar un ingreso por ZNOV, los datos en BTER se ven truncados
