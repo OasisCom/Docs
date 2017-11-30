@@ -22,6 +22,6 @@ editable: si
 ##### [Versión 21](http://mailchi.mp/c76eef6e1369/versin-oasiscom-40317-prueba03-todos-los-links-1318081)
 ##### [Versión 22](http://mailchi.mp/5a1bfb9c57e8/version-oasiscom-22).
 ##### [Versión 23](http://mailchi.mp/7cf713553396/version-oasiscom-1318141)
-##### [Versión 24](http://mailchi.mp/9faeedc3e99e/version-oasiscom-1318173)
+##### [Versión 24](http://mailchi.mp/9faeedc3e99e/version-oasiscom-1318173).
 
 
