@@ -6,7 +6,7 @@ editable: si
 ---
 
 # Vídeo
-
+<iframe width="280" height="157" src="https://www.youtube.com/embed/rkQfIyozI8Q?rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### [Casos éxito OasisCom - Distribuidora Dalsan S.A](https://www.youtube.com/watch?v=joxfRfZiicY&index=1&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp)
 #### [Casos éxito OasisCom - Depiel](https://www.youtube.com/watch?v=rkQfIyozI8Q&index=2&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp)
