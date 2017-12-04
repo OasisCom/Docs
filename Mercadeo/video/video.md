@@ -8,7 +8,7 @@ editable: si
 # Vídeo
 
 
-#### [Casos éxito OasisCom - Distribuidora Dalsan S.A](Casos éxito OasisCom - Distribuidora Dalsan S.A)
+#### [Casos éxito OasisCom - Distribuidora Dalsan S.A](https://www.youtube.com/watch?v=joxfRfZiicY&index=1&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp)
 #### [Casos éxito OasisCom - Depiel](https://www.youtube.com/watch?v=rkQfIyozI8Q&index=2&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp)
 
 #### [Yo uso OasisCom - Ingra S.A.S](https://www.youtube.com/watch?v=tD86Rb-YRTY&index=3&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp)
