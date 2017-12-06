@@ -9,5 +9,6 @@ editable: si
 
 Este formato permite registrar si el usuario tiene alguno de sus datos personales mal diligenciados e indica la posible corrección.  
 
+En el detalle se mostrará el dato a corregir en el campo Antiguo y el nuevo dato se ingresará en el campo Nuevo.  
 
-
+![](eson.png)
