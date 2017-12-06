@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cálculo porcentaje de deducible
-permalink: /Operacion/erp/tesoreria/tsaldo/nrcp
+permalink: /Operacion/hrm/nomina/nreporte/nrcp
 editable: si
 ---
 
