@@ -19,7 +19,7 @@ En esta aplicación se parametrizan los acuerdos que se obtienen entre los cafic
 **Tercero:** Si se deiligencia 0 es porque el acuerdo aplica a todos los caficultores, en caso contrario se debe indicar una cédula correspondiente  
 **Producto:** Producto asociado al acuerdo  
 **Fecha inicial:** Fecha inicial del acuerdo  
-**Fecha final:** Fecha final del acuerdo
+**Fecha final:** Fecha final del acuerdo  
 **Cupo:** Cantidad en kilogramos pactada en el acuerdo
 
 Con este registro el sistema crea automáticamente el detalle de acuerdo a los descuentos que se parametrizan en la aplicación FBTD - Tipos de descuento. Posterior a su creación, se deben editar los campos de fecha inicial, fecha final y el precio correspondiente.
