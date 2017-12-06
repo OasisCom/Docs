@@ -7,7 +7,7 @@ editable: si
 
 # Móvil
 
-## [Apariencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvi)
+## [Apariencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvil)
 
 OasisCom Móvil ofrece una nueva presentación en su interfaz gráfica, mostrando en pestañas las diferentes opciones de la aplicación.  
 
