@@ -7,6 +7,19 @@ editable: si
 
 # Móvil
 
+## [Aparicencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvi)
+
+OasisCom Móvil ofrece una nueva presentación en su interfaz gráfica, mostrando en pestañas las diferentes opciones de la aplicación.  
+
+Para el sistema Android el menú se visualiza en la parte superior.  
+
+![](movil21.png)
+
+Para el sistema IOS el menú se visualiza en la parte inferior de la pantalla.  
+
+![](movil22.png)
+
+
 ## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#registro-en-oasiscom-móvil)
 
 Ahora los usuarios podrán realizar su proceso de registro a OasisCom desde dispositivos móviles similar a la versión web. Esta funcionalidad se encuentra disponible para Android desde la versión 4.3 e IOS para las versiones 10.3 y 11.  
