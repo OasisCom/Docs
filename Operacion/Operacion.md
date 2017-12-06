@@ -1847,6 +1847,6 @@ Esta funcionalidad permite la visualización de los detalles de las opciones con
 
 Ejemplo en la opción **GLAB**:  
 
-En el detalle de esta opción, los registros visualizados en color **Rojo**, indican que el campo _Resultado_ se salen de los rangos establecidos en los campos _Minimo_ y _Máximo_.  
+En el detalle de esta opción, los registros visualizados en color **Rojo**, indican que el campo _Resultado_ se salen de los rangos establecidos en los campos _Mínimo_ y _Máximo_.  
 
 ![](glab.png)
