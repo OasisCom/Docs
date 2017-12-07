@@ -15,11 +15,11 @@ En esta aplicación se pueden registrar todos los laboratorios médicos que se r
 **Concepto:** Concepto LH correspondiente a laboratorios  
 **Fecha:** Fecha de cuando se realiza el laboratorio  
 **Tercero:** Número de cédula del paciente  
-**Nombre del tercero:** Se diligencia automáticamente al dar tab en el campo anterior de Tercero  
-**Hora de cita:** Hora de la cita de laboratorio
-**Fecha de cita:** Fecha de la cita de laboratorio
-**Diagnóstico:** Se debe determinar un diagnóstico previo a la cita
-**Ambito:** Se puede elegir entre ambulatorio, hospitalario o ugrnecias
+**Nombre del tercero:** Se diligencia automáticamente al dar tab en el campo anterior de Tercero    
+**Hora de cita:** Hora de la cita de laboratorio  
+**Fecha de cita:** Fecha de la cita de laboratorio  
+**Diagnóstico:** Se debe determinar un diagnóstico previo a la cita  
+**Ambito:** Se puede elegir entre ambulatorio, hospitalario o ugrnecias  
 
 En los campos Documento1, Número 1 y Ubicación 1 se puede asociar la consulta bajo la cual se autorizaron los laboratorios.
 
