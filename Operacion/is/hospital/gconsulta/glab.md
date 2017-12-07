@@ -27,5 +27,5 @@ En los campos Documento1, Número 1 y Ubicación 1 se puede asociar la consulta 
 
 En la parte del detalle se debe registrar el resultado obtenido en cada uno de los exámenes realizados, por ejemplo, leucocitos, linfocitos, glucosa, entre otras. Esta parametrización de que exámenes se deben realizar en el laboratorio se parametrizan en la aplicación BMOT - Motivos.
 
-![](detalle laboratorios.png)
+![](detallelaboratorios.png)
 
