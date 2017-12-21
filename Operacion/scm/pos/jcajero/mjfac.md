@@ -98,4 +98,34 @@ Damos doble click y seleccionamos el documento.
 
 ![](mjfac20.png)
 
+#### Zoom para relacionar documentos
 
+La aplicación MJFAC, cuenta con una función que permite relacionar los pedidos con el documento a realizar, esto, teniendo en cuenta el tercero y el documento.  
+
+En el campo _Docu1_ ingresamos el documento a relacionar, por ejemplo PD (Pedidos) y damos doble click en el zoom _Num1_ para seleccionar de los pedidos existentes, el correspondiente al documento que se realiza.  
+
+![](mjfac21.png)
+
+![](mjfac22.png)
+
+Al seleccionar el pedido, se observará el producto en MJFAC.  
+
+![](mjfac23.png)
+
+#### Botón _Buscar_ ![](buscar1.png)  
+
+Cuando demos click en el botón _Buscar_, este nos mostrará las facturas Activas y Procesadas de la fecha actual, para así poder utilizarlas y realizar las diferentes operaciones: Procesar, Reversar.  
+
+![](buscar2.png)
+
+Como podemos ver en el resultado del Zoom tenemos varios documentos en estado _Activo_ y _Procesado_, al seleccionar alguno de ellos el ícono de "buscar" cambiará según el estado del documento seleccionado.  
+
+![](mjfac24.png)  
+
+Es decir, si el documento seleccionado se encuentra en estado _Activo_ el ícono que se reflejará será el de _Procesar_.  
+
+![](mjfac25.png)
+
+Si por el contrario, seleccionamos un documento que se encuentre en estado _Procesado_, el ícono que se reflejará será el de _Reversar_.  
+
+![](mjfac26.png)
