@@ -122,10 +122,11 @@ Como podemos ver en el resultado del Zoom tenemos varios documentos en estado _A
 
 ![](mjfac24.png)  
 
-Es decir, si el documento seleccionado se encuentra en estado _Activo_ el ícono que se reflejará será el de _Procesar_.  
+Es decir, si el documento seleccionado se encuentra en estado _Activo_ el ícono que se reflejará será el de _Procesar_. Si una factura se encuentra en estado _Activo_, pendiente de ser procesada, el fondo del detalle estará habilitado para realizar todo tipo de accciones.  
 
 ![](mjfac25.png)
 
-Si por el contrario, seleccionamos un documento que se encuentre en estado _Procesado_, el ícono que se reflejará será el de _Reversar_.  
+Si por el contrario, seleccionamos un documento que se encuentre en estado _Procesado_, el ícono que se reflejará será el de _Reversar_. Si el documento tiene estado _Procesado_ el fondo estará en color Gris y no permitirá ediciones.  
 
 ![](mjfac26.png)
+
