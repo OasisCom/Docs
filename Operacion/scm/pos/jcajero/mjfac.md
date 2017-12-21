@@ -56,7 +56,7 @@ La aplicación MJFAC permite la creación de terceros dando click en el botón s
 
 ![](mjfac11.png)
 
-Se abrirá una ventana donde ingresaremos los datos del tercero, al dar click en el botón _Guardar_, se crea el tercero en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
+Se abrirá una ventana donde ingresaremos los datos del tercero, al dar click en el botón _Guardar_, se crea el tercero en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter). Es importante diligenciar el tipo de cliente.  
 
 ![](mjfac12.png)
 
@@ -75,3 +75,27 @@ Finalmente, seleccionados los productos a comprar, las cantidades, la forma de p
 Esta factura la podremos ver en la aplicación **JFAC - Facturas** al consultar por la fecha en que se realizó.  
 
 ![](mjfac16.png)
+
+### FUNCIONALIDADES EN MJFAC
+
+#### Búsqueda de terceros
+
+El botón ![](buscar.png) permite consultar los terceros creados y ya existentes en OasisCom.  
+
+Damos click en el botón de búsqueda y el sistema nos arrojará un zoom con todos los terceros. En este zoom también podremos filtrar por número de identificación de un tercero en específico para facilitar la consulta.  
+
+![](mjfac17.png)
+
+![](mjfac18.png)
+
+#### Zoom de Documento
+
+Esta funcionalidad nos permite seleccionar el documento con el que se realizará la factura.  
+
+Damos doble click y seleccionamos el documento.  
+
+![](mjfac19.png)
+
+![](mjfac20.png)
+
+
