@@ -807,111 +807,68 @@ Después de confirmar la acción los registros se eliminaran.
 
 ### [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)
 
-
-
 Esta función permite limpiar los filtros realizados en las diferentes columnas de la grilla.  
 
-
-
 ![](limpiarconsulta1.png)
-
-
 
 Al  utilizar la  función de limpieza de filtros en el maestro en opciones que contienen Maestro-Detalle, se limpiarán los campos de consulta de este y adicionalmente se limpiaran los registros del detalle. 
 
 
-
-
-
 ### [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)
-
-
 
 Esta Función facilita el cargue de archivos para el registro seleccionado.  
 
-
-
 ![](adjuntos1.png)
-
-
 
 Para realizar este proceso:  
 
-
-
-
-
 1) Se  realiza la selección de un registro y  del botón adjunto.  
 
-
-
 ![](adjuntos2.png)
-
-
-
 
 
 2) Luego se visualizará una ventana que permitirá adjuntar documentos.  
 
 
-
-
-
 ![](adjuntos3.png)
-
-
 
 3) Se selecciona el botón Elegir archivos y  se escoge el archivo que se desea adjuntar.  
 
-
-
-
-
 ![](adjuntos4.png)
-
-
 
 En esta etapa se puede asignar el tipo de adjunto que se desea dar al archivo. 
 
-
-
 ![](adjuntos5.png)
-
-
 
 Los tipos de adjuntos se parametrizan por la aplicación BTAD.  
 
-
-
-
-
 ![](adjuntos6.png)
-
-
 
 Y se procede a guardar los cambios, de esta manera el archivo queda adjunto y asociado al renglón seleccionado.  
 
 
-
-
-
 ![](adjuntos7.png)
-
-
 
 ![](adjuntos8.png)
 
-
-
 Nota: El archivo se almacenará con nombre de documento, número de registro y el nombre del archivo.  
 
+### [Visualización de adjuntos](http://docs.oasiscom.com/Operacion/#visualización-de-adjuntos)
 
+Para visualizar un documento adjunto, ingresamos a la aplicación correspondiente y seleccionamos el registro al cual consultaremos los archivos adjuntos, seguidamente, damos click en el botón ![](adj.png) (_Adjuntos_).  
 
+![](adj1.png)
+
+Se abrirá una ventana con los documentos adjuntos al registro seleccionado. Para visualizar alguno, damos click sobre el ícono del mismo.  
+
+![](adj2.png)
+
+Finalmente, se abrirá otra página mostrando la información del archivo seleccionado.  
+
+![](adj3.png)
 
 
 ### [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)
-
-
 
 La función Mensajes permite enviar mensajes internos entre usuarios del sistema y visualizar los mensajes no leídos con la aplicación SMEU.  
 
