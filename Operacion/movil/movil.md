@@ -9,7 +9,7 @@ editable: si
 
 ## [Apariencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvil)
 
-OasisCom Móvil ofrece una nueva presentación en su interfaz gráfica, mostrando en pestañas las diferentes opciones de la aplicación.  
+OasisCom Móvil ofrece una nueva presentación en su interfaz gráfica, mostrando en pestañas las diferentes opciones de la aplicación. El logo de la empresa y el nombre del usuario serán visibles en la pestaña _Configuración_.  
 
 Para el sistema Android el menú se visualiza en la parte superior.  
 
@@ -18,6 +18,10 @@ Para el sistema Android el menú se visualiza en la parte superior.
 Para el sistema IOS el menú se visualiza en la parte inferior de la pantalla.  
 
 ![](movil22.png)
+
+Pestaña _Configuración_.  
+
+![](movil23.png)
 
 
 ## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#registro-en-oasiscom-móvil)
