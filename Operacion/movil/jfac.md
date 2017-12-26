@@ -94,6 +94,3 @@ El sistema permite realizar la impresión de facturas de manera dinámica de acu
 Parametrizado el formato deseado desde la versión WEB en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para el documento _FA_, al realizar la impresión de una factura en la aplicación Móvil de OasisCom, esta tomará el formato indicado anteriormente. Si se desea cambiar el formato, esto se deberá hacer de nuevo desde la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 
 
-
-
-
