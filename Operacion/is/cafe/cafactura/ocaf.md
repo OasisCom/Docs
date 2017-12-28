@@ -61,6 +61,7 @@ La aplicación también cuenta con una vista previa que brinda soporte de compra
 
 ![](ocaf1.png)
 
+
 ## [Compra de Café por Factor](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor)
 
 Para realizar compra de café por Factor, adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de herramientas del maestro y diligenciamos el formulario.  
