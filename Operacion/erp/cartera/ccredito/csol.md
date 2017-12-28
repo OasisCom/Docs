@@ -26,15 +26,20 @@ Para realizar una solicitud de crédito, ingresamos a la aplicación y creamos u
 **Aprobado:** ingresar el valor aprobado para el crédito solicitado. Si la aprobación se realiza de manera manual, el usuario debe activar el check _**Aprobar**_ e ingresar el valor del crédito manualmente. Si por el contrario, la aprobación se realiza automáticamente, se debe guardar el formulario del maestro en estado activo y dar click en el botón de la barra de herramientas _Calculo Cupo_, el sistema calculará el cupo disponible para asignarle al tercero que solicita el crédito.  
 
 **Check _Aprobar:_** activar el check en caso de que la aprobación del crédito se realice de manera manual.  
-**DocDocumento:** si la solicitud de crédito tiene un pedido asociado, se debe ingresar las siglas del documento (PD) realizado en VPED, en la aplicación CSOL.
+**DocDocumento:** si la solicitud de crédito tiene un pedido asociado, se debe ingresar las siglas del documento (PD) realizado en VPED, en la aplicación CSOL.  
 **DocNúmero:** ingresar el número de pedido asginado en VPED.  
 **DocUbicación:** ingresar la ubicación del pedido de acuerdo al registro en VPED.  
 
 Al realizar la facturación del pedido, se deberá asociar en el maestro la solicitud del crédito y esta traerá automáticamente en el detalle los productos.  
 
+Ingresados los datos, damos click en el botón _Guardar_ y procedemos a registrar las garantías del crédito en el detalle.  
+
+![](csol4.png)
+
+Finalmente, procesamos la solicitud del crédito dando click en el botón ![](procesar.png).  
 
 
-### [Pestaña _Graphic CRE_]()
+### [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pestaña-graphic-cre)
 
 En la pestaña _Graphic CRE_, el usuario podrá ver de manera grafica (Barras), si el tercero seleccionado en el maestro tiene saldo en mora, si el saldo en mora esta al día o si no ha tenido ningun tipo de saldo en mora.  
 
