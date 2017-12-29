@@ -23,6 +23,11 @@ Allí se abre una nueva ventana donde podemos diligenciar los datos de nuestro t
 **Ubicación:** Número de la ubicación en la cual se está realizando la factura. 
 **Fecha:** Fecha del tiquete.  
 **Cliente:** Número de identificación de la persona que realiza el tiquete.  
+**Documento1:** siglas del documento que se asocia a la factura.  
+**Ubicación1:** ubicación del documento que se asocia a la factura.  
+**Número1:** número de documento que se asocia a la factura.  
+
+![](jfac14.png)
 
 Después de diligenciar los datos, damos click o tocamos en el icono de _Guardar_  ubicado en la parte superior derecha para guardar nuestro registro.  
 
@@ -87,8 +92,5 @@ La factura impresa se visualizará de la siguiente manera:
 El sistema permite realizar la impresión de facturas de manera dinámica de acuerdo a la parametrización de los diferentes formatos desde la versión WEB en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc). (_Ver aplicación_)  
 
 Parametrizado el formato deseado desde la versión WEB en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para el documento _FA_, al realizar la impresión de una factura en la aplicación Móvil de OasisCom, esta tomará el formato indicado anteriormente. Si se desea cambiar el formato, esto se deberá hacer de nuevo desde la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
-
-
-
 
 

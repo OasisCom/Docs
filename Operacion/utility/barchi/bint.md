@@ -263,3 +263,21 @@ Seleccionamos la fecha de las facturas que se quieran enviar o podemos dejar en 
 Finalmente, se obtiene el mensaje del servicio de la DIAN donde se muestra que la factura fue enviada y pasará a verificación de la DIAN.  
 
 ![](bint36.png)
+
+# [Formatos reportes FT006 - FT010 - FT011](http://docs.oasiscom.com/Operacion/utility/barchi/bint#formatos-reportes-ft006---ft010---ft011)
+
+Archivos en formato XML los cuales muestran información correspondiente a los formatos FT006 - FT010 - FT011 de la superintendencia de salud.  
+
+Seleccionamos la publicación correspondiente a uno de los formatos.  
+
+![](bint37.png)
+
+El sistema automáticamente asignará la operación _descargar_ y mostrará los campos periodo y año, diligenciamos estos campos y damos click en _Aceptar_.  
+
+![](bint38.png)
+
+Al dar click en _Aceptar_, el sistema descargará la información del formato seleccionado.  
+
+![](bint39.png)
+
+

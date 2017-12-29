@@ -38,3 +38,41 @@ La aplicación **Comprar** cuenta con la pestaña _Orders_ ubicada en la parte s
 Al acceder a la pestaña _Orders_, podremos ver los pedidos que el usuario ha realizado por medio de la aplicación **MOORD - My Orders** y el proveedor al cual se le realizó dicho pedido, y al seleccionar un documento de la columna izquierda se verá en detalle los productos que comprenden dicho pedido.  
 
 ![](comprar6.png)
+
+# [Opción _Mi Cuenta_](http://docs.oasiscom.com/Operacion/mpportal/mpcliente/comprar#opción-mi-cuenta)
+
+La aplicación _Comprar_ del MarketPlace cuenta con la opción Mi Cuenta:  
+
+![](comprar7.png)
+
+Al seleccionar la opción, se desplegará la siguiente ventana, la cual permitirá la administración de la cuenta de esta opción (tercero):  
+
+![](comprar8.png)
+
+La información que aquí se modifique, se verá reflejada en la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter) y [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu) de la empresa 23 (MarketPlace).  
+
+![](comprar9.png)
+
+En la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter) se verán los nuevos datos ingresados en el formulario anterior.  
+
+![](comprar10.png)
+
+En la aplicación [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu) se reemplazarán los datos del usuario que estaba en sesión en el momento por los datos ingresados en el formulario.  
+
+![](comprar11.png)
+
+En el nombre del perfil también se verá reflejado el cambio, puesto que, en la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu), se tiene asociado este tercero en el usuario logueado.  
+
+![](comprar12.png)
+
+Si en la opción [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu) se tiene un usuario el cual no contiene cuenta, al abrir la opción _Mi Cuenta_, mostrará los campos en blanco para su respectiva creación:  
+
+![](comprar13.png)
+
+
+
+
+
+
+
+

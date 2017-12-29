@@ -56,7 +56,7 @@ La aplicación MJFAC permite la creación de terceros dando click en el botón s
 
 ![](mjfac11.png)
 
-Se abrirá una ventana donde ingresaremos los datos del tercero, al dar click en el botón _Guardar_, se crea el tercero en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
+Se abrirá una ventana donde ingresaremos los datos del tercero, al dar click en el botón _Guardar_, se crea el tercero en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter). Es importante diligenciar el tipo de cliente.  
 
 ![](mjfac12.png)
 
@@ -75,3 +75,58 @@ Finalmente, seleccionados los productos a comprar, las cantidades, la forma de p
 Esta factura la podremos ver en la aplicación **JFAC - Facturas** al consultar por la fecha en que se realizó.  
 
 ![](mjfac16.png)
+
+### FUNCIONALIDADES EN MJFAC
+
+#### Búsqueda de terceros
+
+El botón ![](buscar.png) permite consultar los terceros creados y ya existentes en OasisCom.  
+
+Damos click en el botón de búsqueda y el sistema nos arrojará un zoom con todos los terceros. En este zoom también podremos filtrar por número de identificación de un tercero en específico para facilitar la consulta.  
+
+![](mjfac17.png)
+
+![](mjfac18.png)
+
+#### Zoom de Documento
+
+Esta funcionalidad nos permite seleccionar el documento con el que se realizará la factura.  
+
+Damos doble click y seleccionamos el documento.  
+
+![](mjfac19.png)
+
+![](mjfac20.png)
+
+#### Zoom para relacionar documentos
+
+La aplicación MJFAC, cuenta con una función que permite relacionar los pedidos con el documento a realizar, esto, teniendo en cuenta el tercero y el documento.  
+
+En el campo _Docu1_ ingresamos el documento a relacionar, por ejemplo PD (Pedidos) y damos doble click en el zoom _Num1_ para seleccionar de los pedidos existentes, el correspondiente al documento que se realiza.  
+
+![](mjfac21.png)
+
+![](mjfac22.png)
+
+Al seleccionar el pedido, se observará el producto en MJFAC.  
+
+![](mjfac23.png)
+
+#### Botón _Buscar_ ![](buscar1.png)  
+
+Cuando demos click en el botón _Buscar_, este nos mostrará las facturas Activas y Procesadas de la fecha actual, para así poder utilizarlas y realizar las diferentes operaciones: Procesar, Reversar.  
+
+![](buscar2.png)
+
+Como podemos ver en el resultado del Zoom tenemos varios documentos en estado _Activo_ y _Procesado_, al seleccionar alguno de ellos el ícono de "buscar" cambiará según el estado del documento seleccionado.  
+
+![](mjfac24.png)  
+
+Es decir, si el documento seleccionado se encuentra en estado _Activo_ el ícono que se reflejará será el de _Procesar_. Si una factura se encuentra en estado _Activo_, pendiente de ser procesada, el fondo del detalle estará habilitado para realizar todo tipo de accciones.  
+
+![](mjfac25.png)
+
+Si por el contrario, seleccionamos un documento que se encuentre en estado _Procesado_, el ícono que se reflejará será el de _Reversar_. Si el documento tiene estado _Procesado_ el fondo estará en color Gris y no permitirá ediciones.  
+
+![](mjfac26.png)
+

@@ -1306,6 +1306,13 @@
           subitems:
             - text: Servicios
               url: /Operacion/dss/bicrm/biser
+        - text: BI Manufactura
+          url: /Operacion/dss/bimrp/
+          subitems:
+            - text: Calidad
+              url: /Operacion/dss/bimrp/bical
+            - text: Dashboard Calidad
+              url: /Operacion/dss/bimrp/bicat
         - text: BI Salud
           url: /Operacion/dss/bieps/
         - text: Bsc Tablero de Mando
@@ -2140,6 +2147,16 @@
       url: /Soporte/inconvenientebper
     - text: Mensaje "Accesando Contract Detail"
       url: /Soporte/accesandocontract
+    - text: Consecutivo
+      url: /Soporte/consecutivo
+    - text: Ubicación no definida como caja
+      url: /Soporte/ubicacioncaja
+    - text: Parametrización de alertas
+      url: /Soporte/parametrizacionalertas
+    - text: BGRU – Asignación de cuentas
+      url: /Soporte/bgru
+    - text: ZNOV, los datos en BTER se ven truncados
+      url: /Soporte/znov
 - text: Desarrollo
   url: /Desarrollo/
   subitems:

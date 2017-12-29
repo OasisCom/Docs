@@ -33,11 +33,22 @@ Cuando el usuario registre un tercero en el zoom, este se conservará de tal man
 **Caja:** seleccionar la caja por la cual se desembolsará el dinero para el pago de la marcancía.  
 **Baba:** registrar el porcentaje de baba o mocilago que contiene el café en cereza.  
 
-#### Detalle
+#### _Detalle_
 
 En el detalle se encuentran los datos relacionados con el café, sus caracteristicas.  
 
-**Muestra:** número de gramos obtenidos para la muestra.  
+**Muestra:** número de gramos obtenidos para la muestra. Este valor es traído por defecto por el sistema al momento de crear un nuevo registro.  
+
+![](ocaf10.png)
+
+ Dicho valor puede ser parametrizable en la aplicación WVAR - Variables, en esta aplicación nos ubicamos en el campo _VariableId_ y consultamos por el nombre _DefaultValueSample_ que hace referencia al campo **Muestra** de la aplicación OCAF. Ya en el registro, editamos la cantidad en el campo _Formula_ como se muestra a continuación.  
+
+![](ocaf11.png)
+
+Ahora, al momento de crear otro registro en la aplicación OCAF, el campo _Muestra_ traerá el valor que acabamos de asignar.  
+
+![](ocaf12.png)
+
 **Sacos:** cantidad de sacos de café.  
 **Cantidad bruto:** cantidad en kilos.  
 **Destare:** peso del costal.  
@@ -49,6 +60,7 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 La aplicación también cuenta con una vista previa que brinda soporte de compras de café.  
 
 ![](ocaf1.png)
+
 
 ## [Compra de Café por Factor](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor)
 
