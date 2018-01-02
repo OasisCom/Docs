@@ -7,3 +7,18 @@ editable: si
 
 # SALUD
 
+### [Actualización de datos](http://docs.oasiscom.com/Operacion/is/salud/#actualización-de-datos)
+
+Para las opciones **_ESIN - Siniestros, ESOA - Autorizaciones de Aplicación, ESOL - Solicitudes, EAUT - Autorizaciones, ERCF - Referencia y Contrareferencia_** existe un módulo que permite la actualización de los datos del afiliado con previa parametrización en la opción _**BMOT - Motivos**_, las cuales deben tener el motivo _NSI50_.  
+
+En este caso al dar click derecho sobre el campo _Afiliado_, el cual debe tener un valor, se despliega un menú contextual que define un nuevo elemento en este caso _Actualizar Afiliado_ ,al dar click sobre este elemento se despliega la siguiente figura.  
+
+![](salud1.png)
+
+A continuación, se despliega un formulario que contiene la parametrización del BMOT - Motivos. En este caso el modelo indica que requiere el documento _NS I50_.  
+
+![](salud2.png)
+
+Al guardar los datos y validar el resultado de la operación, se evidencia que se ha creado un nuevo movimiento en la aplicación EMOV que contiene la información que se ha diligenciado en el formulario.  
+
+![](salud3.png)
