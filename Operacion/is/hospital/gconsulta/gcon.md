@@ -16,4 +16,4 @@ Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un re
 ![](gcon.png)
 
 
-
+v 
