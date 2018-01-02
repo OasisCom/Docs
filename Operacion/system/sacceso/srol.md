@@ -64,6 +64,19 @@ Esta funcionalidad permitirá al usuario restringir la anulación, reversión, c
 ![](srol4.png)
 
 
+#### [Restricción de consultas](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-consultas)
+
+Esta funcionalidad permitirá al usuario restringir la consulta de aplicaciones tipo A y B cuando se elige la opción **UBICACIÓN** del campo Consulta del Tab de _Programas_ de la opción SROL. Se debe tener en cuenta que este parámetro en las aplicaciones de consulta solo aplica para las ubicaciones permitidas por el usuario en el Tab 'Ubicaciones' de la opción SUSU - Usuarios.  
+
+![](srol5.png)
+
+#### [Denegación de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#denegación-de-operaciones)
+
+Esta funcionalidad permitirá al usuario denegar las acciones de anulación, reversión, confirmación, adición y consulta de transacciones de las opciones tipo C cuando se escoge la opción **DENEGADO** en el tab de _Programas_ de la opción SROL.  
+
+![](srol6.png)
+
+
 ### [Pestaña Campos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-campos)
 
 Esta pestaña permite ocultar algunos campos o botones del sistema al rol que se tiene seleccionado en la parte superior (maestro).
