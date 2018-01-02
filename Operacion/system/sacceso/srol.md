@@ -26,7 +26,7 @@ En el maestro de esta aplicación se deben diligenciar los siguientes campos:
 En la parte inferior denominada detalle al dar clic en algún rol registrado anteriormente se observan las pestañas de: Usuarios, Programas, Campos, Temas, Partidas, Documentos, Indicadores, Competencias, Funciones y publicaciones, en cada uno de ellos se encuentran unos campos para diligenciar los cuales se nombran a continuación:
 
 
-### [Pestaña Usuarios](http://docs.oasiscom.com/Operacion/system/sacceso/srol#Pestaña-Usuarios)
+### [Pestaña Usuarios](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-usuarios)
 
 En esta pestaña se permite visualizar todos los usuarios que están asociados al rol seleccionado en la parte superior (maestro).
 
