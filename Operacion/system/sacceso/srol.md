@@ -37,7 +37,7 @@ En esta pestaña se permite visualizar todos los usuarios que están asociados a
 **Actualizado**: Campo automático que indica la fecha en la que se actualizó el registro.  
 
 
-### [Pestaña Programas](http://docs.oasiscom.com/Operacion/system/sacceso/srol/#pestaña-programas)
+### [Pestaña Programas](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-programas)
 
 En esta pestaña se permite visualizar todos los programas a los cuales tiene derecho el rol seleccionado en la parte superior (maestro). Aquí también se parametrizan los permisos para cada una de las aplicaciones.
 
@@ -57,14 +57,14 @@ En esta pestaña se permite visualizar todos los programas a los cuales tiene de
 **Reimprimir**: Permite identificar si es posible reimprimir (imprimir más de una vez el mismo documentos) registros en esa aplicación bajo el rol correspondiente.  
 **PrintActive**: Permite identificar si es posible imprimir registros en estado activo en esa aplicación bajo el rol correspondiente.  
 
-#### [Restricción de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol/#restricción-de-operaciones)
+#### [Restricción de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-operaciones)
 
 Esta funcionalidad permitirá al usuario restringir la anulación, reversión, confirmación, adición y consulta de transacciones de las aplicaciones tipo C, es decir, las conformadas por un maestro y un detalle, esto cuando se escoge la opción **RESTRINGIDO** en la pestaña _Programas_ de la opción SROL. Tener en cuenta que este valor en las transacciones de movimientos sólo aplica para las ubicaciones parametrizadas por el usuario en El Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
 
 ![](srol4.png)
 
 
-### Pestaña Campos
+### [Pestaña Campos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-campos)
 
 Esta pestaña permite ocultar algunos campos o botones del sistema al rol que se tiene seleccionado en la parte superior (maestro).
 
@@ -86,7 +86,7 @@ Para identificar el nombre de los botones se debe tener en cuenta la siguiente l
 **Tipo**: Existe una lista desplegable: Campo, Tab, botón parametrizado y botón fijo, dependiendo de la acción a realizar se selecciona el tipo para saber en dónde se realizará el efecto.  
 
 
-### Pestaña Indicadores
+### [Pestaña Indicadores](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-indicadores)
 
 Esta pestaña permite que el rol seleccionado en la parte superior (maestro) pueda visualizar los indicadores y gráficas correspondientes a los mismos en la pantalla de inicio del sistema.
 
@@ -101,7 +101,7 @@ Esta pestaña permite que el rol seleccionado en la parte superior (maestro) pue
 **Orden**: Indicar en que orden se requiere la visualización de los ejemplos, se debe iniciar desde 0 y finalizar hasta la cantidad de indicadores que se hayan parametrizado.  
 
 
-### Pestaña Competencias
+### [Pestaña Competencias](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-competencias)
 
 Esta pestaña permite que el rol seleccionado en la parte superior (maestro) tenga asociadas competencias
 
@@ -113,7 +113,7 @@ Esta pestaña permite que el rol seleccionado en la parte superior (maestro) ten
 **Observación**: Observación requerida.  
 
 
-### Pestaña Publicaciones
+### [Pestaña Publicaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-publicaciones)
 
 Esta pestaña permite asociar las publicaciones que se requieren que tenga esa usuario
 
@@ -124,73 +124,37 @@ Esta pestaña permite asociar las publicaciones que se requieren que tenga esa u
 **Consultar**: Lista desplegable con las siguientes opciones total, restringido, denegado, usuario, compañia, ubicación.  
 **Orden**: Indicar en que orden se requiere la visualización de los ejemplos, se debe iniciar desde 0 y finalizar hasta la cantidad de indicadores que se hayan parametrizado.  
 
-
-
 ### Parametrización XML
 
 En la aplicación SROL se deben asignar los permisos correspondientes para visualizar la publicación parametrizada anteriormente en [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub), esto con el fin de posteriormente descargar el formato ya parametrizado o cargarlo al sistema en caso tal que el proceso que se esté realizando sea de operación _Upload_ Subir.  
 
-
-
 Inicialmente, en el maestro se debe consultar el rol al que hace parte como usuario en el campo _Rol_. Una vez identificado el rol, se debe dirigir a la pestaña del detalle _Publicaciones_.
-
-
 
 ![](SROL1.png)
 
-
-
 En esta pestaña del detalle, se debe agregar la publicación previamente parametrizada en la aplicación [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub). Agregamos un nuevo renglón y diligenciamos los campos.
-
-
 
 ![](SROL2.png)
 
-
-
 **Publicación Id:** digitar el número de la publicación, si se desconoce, dar doble click y seleccionar del zoom la publicación correspondiente.  
-
-
 
 ![](ZOOMBPUB.png)
 
-
-
 **Nombre Publicación:** al ingresar el número de la publicación, el sistema arrojará el nombre automáticamente.  
 
-
-
 Realizada esta parametrización se podrá proceder a realizar la carga o descarga del archivo desde la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint).  
-
-
 
 ## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/system/sacceso/srol#control-de-acceso-a-la-aplicacion-por-turnos)
 
 
-
 Se validarán unos horarios en los que un usuario puede realizar sus actividades dentro del sistema.  
-
-
 
 Para esto se debe tener las siguientes parametrizaciones:  
 
-
-
 En la aplicación **SROL** se creó el campo _Turno_, el cual definirá si se controlará la validación de los turnos.  
-
-
 
 Como se puede observar en la siguiente imagen, el campo _Turno_ está activo, esto nos indica que para los usuarios que tengan asociado este rol se les debe realizar la validación de los horarios para que pueda usar la aplicación.  
 
-
-
 ![](srol3.png)
 
-
-
 Activado el campo _Turno_ continuaremos con la parametrización en la aplicación [**NBTU - Turnos**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu#Control-de-acceso-a-la-aplicación-por-turnos).
-
-
-
-
-
