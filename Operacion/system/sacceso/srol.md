@@ -64,9 +64,6 @@ Esta funcionalidad permitirá al usuario restringir la anulación, reversión, c
 ![](srol4.png)
 
 
-
-
-
 ### Pestaña Campos
 
 Esta pestaña permite ocultar algunos campos o botones del sistema al rol que se tiene seleccionado en la parte superior (maestro).
