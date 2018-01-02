@@ -57,7 +57,7 @@ En esta pestaña se permite visualizar todos los programas a los cuales tiene de
 **Reimprimir**: Permite identificar si es posible reimprimir (imprimir más de una vez el mismo documentos) registros en esa aplicación bajo el rol correspondiente.  
 **PrintActive**: Permite identificar si es posible imprimir registros en estado activo en esa aplicación bajo el rol correspondiente.  
 
-#### [Restricción de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol/#restricción-de-operaciones)
+#### [Restricción de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol/#Restricción-de-operaciones)
 
 Esta funcionalidad permitirá al usuario restringir la anulación, reversión, confirmación, adición y consulta de transacciones de las aplicaciones tipo C, es decir, las conformadas por un maestro y un detalle, esto cuando se escoge la opción **RESTRINGIDO** en la pestaña _Programas_ de la opción SROL. Tener en cuenta que este valor en las transacciones de movimientos sólo aplica para las ubicaciones parametrizadas por el usuario en El Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
 
