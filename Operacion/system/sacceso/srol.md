@@ -37,7 +37,7 @@ En esta pestaña se permite visualizar todos los usuarios que están asociados a
 **Actualizado**: Campo automático que indica la fecha en la que se actualizó el registro.  
 
 
-### Pestaña Programas
+### [Pestaña Programas](http://docs.oasiscom.com/Operacion/system/sacceso/srol/#pestaña-programas)
 
 En esta pestaña se permite visualizar todos los programas a los cuales tiene derecho el rol seleccionado en la parte superior (maestro). Aquí también se parametrizan los permisos para cada una de las aplicaciones.
 
