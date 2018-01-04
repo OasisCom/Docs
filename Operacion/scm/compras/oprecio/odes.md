@@ -16,7 +16,7 @@ En la aplicación **ODES** se debe registrar diariamente el precio del café por
 **Tercero:** si se desea aplicar un precio a un tercero en específico, se debe ingresar el número de identificación del mismo, de no ser así digitar 0.  
 **Clasificación:** si el precio se asignará por clasificación de productos, indicar el número de clasificación.  
 **Producto:** en caso que el precio sea asignado de acuerdo al producto, se debe indicar el id del producto.  
-**Tipo Descuento:** aquí se debe seleccionar el tipo de descuento o método de compra de café, por ejemplo Factor, Almendra Sana, Almendra defectuosa, entre otras.  
+**Tipo Descuento:** aquí se debe seleccionar el tipo de descuento o método de compra de café, por ejemplo Factor, |vor Húmedo, Almendra Sana, Almendra defectuosa, entre otras.  
 **Fecha inicial y Fecha final:** indicar la fecha inicial y final en la que aplicará el precio registrado.  
 **Precio:** indicar el precio del día.  
 **Estado:** seleccionar estado _Activo_.  
