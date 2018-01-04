@@ -119,3 +119,13 @@ Para acceder a la vista previa del documento, damos click en el botón _Imprimir
 
 ![](ocaf9.png)
 
+## [Compra de Café por Factor Húmedo](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor-húmedo)
+
+Para realizar compra de café por Factor Húmedo, debemos tener en cuenta la parametrización previa de las aplicaciones [**OBTA - Rango Tara y Agua**](http://docs.oasiscom.com/Operacion/is/cafe/caprecio/obta) y [**ODES - Precio de Café**](http://docs.oasiscom.com/Operacion/scm/compras/oprecio/odes). (_Ver aplicaciones_)
+
+Adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de herramientas del maestro y diligenciamos el formulario tal como se diligencia para el proceso de [**compra de café por factor**](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor). Para este esquema de compra de café por factor húmedo, debemos tener en cuenta que en el campo _Concepto_ debemos seleccionar el factor _CV - COMP X FACTOR HUM_, el cual permitirá al sistema sujerir los productos correspondientes a dicho factor para la compra.  
+
+
+![](ocaf13.png)
+
+![](ocaf14.png)
