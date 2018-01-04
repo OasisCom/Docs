@@ -123,7 +123,7 @@ Si se cambia nuevamente la parametrización en el SROL, debe mostrar informació
 
 #### [Restricción de documentos por ubicación](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-documentos-por-ubicación)
 
-El sistema permite bloquear o habilitar documentos, ubicaciones y conceptos dentro de las opciones tipo C (Movimientos) dependiendo del rol del usuario.  
+El sistema permite bloquear o habilitar documentos, ubicaciones y conceptos dentro de las opciones **tipo C** (por ejemplo: JFAC - Facturas, IMOV - Movimientos de inventarios) dependiendo del rol del usuario.  
 
 Para crear esta parametrización hay que acceder a la opción **SROL - Roles** y en la pestaña _Documentos_ crear los registros necesarios. Si para un rol no existe parametrización no se generarán restricciones al momento de consultar o crear algún movimiento.  
 
@@ -170,7 +170,7 @@ Con lo cual si intentamos buscar un documento _FA_ dentro del **JFAC - Facturas*
 
 #### [Denegación de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#denegación-de-operaciones)
 
-Esta funcionalidad permitirá al usuario denegar las acciones de anulación, reversión, confirmación, adición y consulta de transacciones de las opciones tipo C cuando se escoge la opción **DENEGADO** en el tab de _Programas_ de la opción SROL.  
+Esta funcionalidad permitirá al usuario denegar las acciones de anulación, reversión, confirmación, adición y consulta de transacciones de las opciones tipo C cuando se escoge la opción **DENEGADO** en el tab de _Programas_ de la opción SROL - Roles.  
 
 ![](srol6.png)
 
@@ -262,7 +262,7 @@ Se validarán unos horarios en los que un usuario puede realizar sus actividades
 
 Para esto se debe tener las siguientes parametrizaciones:  
 
-En la aplicación **SROL** se creó el campo _Turno_, el cual definirá si se controlará la validación de los turnos.  
+En la aplicación **SROL - Roles** se creó el campo _Turno_, el cual definirá si se controlará la validación de los turnos.  
 
 Como se puede observar en la siguiente imagen, el campo _Turno_ está activo, esto nos indica que para los usuarios que tengan asociado este rol se les debe realizar la validación de los horarios para que pueda usar la aplicación.  
 
