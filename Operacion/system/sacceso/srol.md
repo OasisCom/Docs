@@ -70,6 +70,31 @@ Esta funcionalidad permitirá al usuario restringir la consulta de aplicaciones 
 
 ![](srol5.png)
 
+#### [Restricción de consultas aplicaciones tipo TABLERO y PIVOTE](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-consultas-aplicaciones-tipo-tablero-y-pivote)
+
+Esta funcionalidad permite realizar restricción de consultas para las opciones de tipo _tablero_ y _pivote_ (BIVEN, BIVET, BISER), ya sea por usuario, compañía y/o ubicación, dependiendo de la parametrización realizada en la pestaña de _Publicaciones_ de la opción **SROL**.  
+
+Para realizar una restricción de consulta para las opciones BI, en primera instancia, se debe parametrizar el archivo de la opción [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc), parametrizando la consulta para realizar la restricción correspondiente.  
+
+![](srol7.png)
+
+En el campo _Query Sql_ se debe parametrizar la consulta dependiendo de tipo de restricción a realizar.  
+
+![](srol8.png)
+
+ * Si se desea realizar restricción por Compañía, en la sentencia se deberá colocar el campo _CompanyId_ y tomará el dato parametrizado en el campo _OrganizationId_ de la opción **SUSU**.  
+
+ * Si se desea realizar restricción por Usuario, en la sentencia se deberá colocar el campo _ClientId_ y tomará el dato parametrizado en el campo _Tercero_ de la opción **SUSU**.  
+
+ * Si desea realizar restricción por ubicación, en la sentencia se deberá colocar el campo _LocationId_ y tomará las ubicaciones parametrizadas en la pestaña _Ubicaciones_ de la opción **SUSU**.  
+
+Una vez adecuada la sentencia, en la pestaña _**Programas**_ de la opción SROL, se deberá seleccionar del campo _Consultar_ la opción correspondiente. En este caso, por ejemplo, se seleccionará consulta por **USUARIO**.  
+
+![](srol9.png)
+
+
+
+
 #### [Denegación de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#denegación-de-operaciones)
 
 Esta funcionalidad permitirá al usuario denegar las acciones de anulación, reversión, confirmación, adición y consulta de transacciones de las opciones tipo C cuando se escoge la opción **DENEGADO** en el tab de _Programas_ de la opción SROL.  
