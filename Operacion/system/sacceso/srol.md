@@ -54,14 +54,14 @@ En esta pestaña se permite visualizar todos los programas a los cuales tiene de
 
 #### [Restricción de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-operaciones)
 
-Esta funcionalidad permitirá al usuario restringir la anulación, reversión, confirmación, adición y consulta de transacciones de las aplicaciones tipo C, es decir, las conformadas por un maestro y un detalle, esto cuando se escoge la opción **RESTRINGIDO** en la pestaña _Programas_ de la opción SROL. Tener en cuenta que este valor en las transacciones de movimientos sólo aplica para las ubicaciones parametrizadas por el usuario en El Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
+Esta funcionalidad permitirá al usuario restringir la anulación, reversión, confirmación, adición y consulta de transacciones de las aplicaciones **tipo C** (por ejemplo: JFAC - Facturas, IMOV - Movimientos de inventarios), es decir, las conformadas por un maestro y un detalle, esto cuando se escoge la opción **RESTRINGIDO** en la pestaña _Programas_ de la opción SROL. Tener en cuenta que este valor en las transacciones de movimientos sólo aplica para las ubicaciones parametrizadas por el usuario en El Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
 
 ![](srol4.png)
 
 
 #### [Restricción de consultas](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-consultas)
 
-Esta funcionalidad permitirá al usuario restringir la consulta de aplicaciones tipo A y B cuando se elige la opción **UBICACIÓN** del campo Consulta del Tab de _Programas_ de la opción SROL. Se debe tener en cuenta que este parámetro en las aplicaciones de consulta solo aplica para las ubicaciones permitidas por el usuario en el Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
+Esta funcionalidad permitirá al usuario restringir la consulta de aplicaciones **tipo A** (por ejemplo: IFDI - Diferencias, IMCM - Consulta de movimientos, KMCM - Consulta de movimientos) y aplicaciones **tipo B** (por ejemplo: ICKU - Kardex por ubicación, FPSA - Saldos y precios por ubicación) cuando se elige la opción **UBICACIÓN** del campo Consulta del Tab de _Programas_ de la opción SROL. Se debe tener en cuenta que este parámetro en las aplicaciones de consulta solo aplica para las ubicaciones permitidas por el usuario en el Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
 
 ![](srol5.png)
 
@@ -93,7 +93,7 @@ Una vez iniciada la sesión en la aplicación, abrimos la opción **BIVEN - Vent
 
 ![](srol10.png)
 
-Al cargar los datos, puede observar que solamente muestra información correspondiente al usuario parametrizado en la opción **SUSU - Usuarios**:
+Al cargar los datos, puede observar que solamente muestra información correspondiente al usuario parametrizado en la opción **SUSU - Usuarios**:  
 
 ![](srol11.png)
 
@@ -114,22 +114,58 @@ Al consultar la información, se mostrará lo siguiente, lo que corresponde a un
 
 ![](srol14.png)
 
-Si se cambia nuevamente la parametrización en el SROL, debe mostrar información consistente de acuerdo a lo seleccionado en el campo _CONSULTAR_:
+Si se cambia nuevamente la parametrización en el SROL, debe mostrar información consistente de acuerdo a lo seleccionado en el campo _CONSULTAR_:  
 
 ![](srol15.png)
 
 ![](srol16.png)
 
 
+#### [Restricción de documentos por ubicación](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-documentos-por-ubicación)
 
+El sistema permite bloquear o habilitar documentos, ubicaciones y conceptos dentro de las opciones tipo C (Movimientos) dependiendo del rol del usuario.  
 
+Para crear esta parametrización hay que acceder a la opción **SROL - Roles** y en la pestaña _Documentos_ crear los registros necesarios. Si para un rol no existe parametrización no se generarán restricciones al momento de consultar o crear algún movimiento.  
 
+![](srol17.png)
 
+Para bloquear solo un concepto de un documento en específico de una ubicación específica, el registro se deberá crear de la siguiente manera en la pestaña _Documentos_ del detalle de la opción SROL - Roles:  
 
+![](srol18.png)
 
+Si vamos a la opción **JFAC - Facturas**, a la cual pertenece el Documento según la parametrización del BDOC en Desarrollo, se podrá detallar que no aparecen los movimientos FAxFA de la ubicación 11.  
 
+![](srol19.png)
 
+Si intentamos crear o modificar un documento que se encuentra bloqueado por parametrización se desplegará un mensaje que informe al usuario acerca de la restricción.  
 
+![](srol20.png)
+
+ * Cuando el campo **Granted** está activado, significa que puede visualizarse únicamente el documento, ubicación y concepto parametrizados.  
+
+ * Cuando el campo **Granted** esta desactivado, pueden verse todos los documentos, ubicaciones y conceptos a excepción del que se encuentra parametrizado.  
+
+Con esta parametrización dentro del JFAC - Facturas solo se podrá ver los movimientos _FAxFA_ de la ubicación 11.  
+
+![](srol21.png)
+
+Si se quisiera bloquear o habilitar todos los documentos (incluidos sus conceptos) de una ubicación específica, solo sería necesario activar los checkbox de los campos _AllDocument_ y _AllConcept_.  
+
+![](srol22.png)
+
+Dentro de la aplicación JFAC - Facturas se vería de la siguiente manera:  
+
+![](srol23.png)
+
+Ahora, si se quiere bloquear un Documento y todos sus Conceptos de TODAS las ubicaciones la parametrización debería quedar de la siguiente manera:  
+
+![](srol24.png)
+
+Con lo cual si intentamos buscar un documento _FA_ dentro del **JFAC - Facturas** no será posible encontrarlos o crearlos.  
+
+![](srol25.png)
+
+![](srol26.png)
 
 
 #### [Denegación de operaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#denegación-de-operaciones)
@@ -190,7 +226,7 @@ Esta pestaña permite que el rol seleccionado en la parte superior (maestro) ten
 
 ### [Pestaña Publicaciones](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-publicaciones)
 
-Esta pestaña permite asociar las publicaciones que se requieren que tenga esa usuario
+Esta pestaña permite asociar las publicaciones que se requieren que tenga ese usuario
 
 ![](srolpublicaciones.png)
 
