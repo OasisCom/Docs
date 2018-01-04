@@ -1,13 +1,8 @@
 ---
-
 layout: default
-
 title: Roles
-
 permalink: /Operacion/system/sacceso/srol
-
 editable: si
-
 ---
 
 ## Roles - SROL
@@ -66,13 +61,13 @@ Esta funcionalidad permitirá al usuario restringir la anulación, reversión, c
 
 #### [Restricción de consultas](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-consultas)
 
-Esta funcionalidad permitirá al usuario restringir la consulta de aplicaciones tipo A y B cuando se elige la opción **UBICACIÓN** del campo Consulta del Tab de _Programas_ de la opción SROL. Se debe tener en cuenta que este parámetro en las aplicaciones de consulta solo aplica para las ubicaciones permitidas por el usuario en el Tab 'Ubicaciones' de la opción SUSU - Usuarios.  
+Esta funcionalidad permitirá al usuario restringir la consulta de aplicaciones tipo A y B cuando se elige la opción **UBICACIÓN** del campo Consulta del Tab de _Programas_ de la opción SROL. Se debe tener en cuenta que este parámetro en las aplicaciones de consulta solo aplica para las ubicaciones permitidas por el usuario en el Tab _Ubicaciones_ de la opción SUSU - Usuarios.  
 
 ![](srol5.png)
 
 #### [Restricción de consultas aplicaciones tipo TABLERO y PIVOTE](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-consultas-aplicaciones-tipo-tablero-y-pivote)
 
-Esta funcionalidad permite realizar restricción de consultas para las opciones de tipo _tablero_ y _pivote_ (BIVEN, BIVET, BISER), ya sea por usuario, compañía y/o ubicación, dependiendo de la parametrización realizada en la pestaña de _Publicaciones_ de la opción **SROL**.  
+Esta funcionalidad permite realizar restricción de consultas para las opciones de tipo _tablero_ y _pivote_ (BIVEN, BIVET, BISER), ya sea por usuario, compañía y/o ubicación, dependiendo de la parametrización realizada en la pestaña de _Publicaciones_ de la opción **SROL - Roles**.  
 
 Para realizar una restricción de consulta para las opciones BI, en primera instancia, se debe parametrizar el archivo de la opción [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc), parametrizando la consulta para realizar la restricción correspondiente.  
 
@@ -82,15 +77,57 @@ En el campo _Query Sql_ se debe parametrizar la consulta dependiendo de tipo de 
 
 ![](srol8.png)
 
- * Si se desea realizar restricción por Compañía, en la sentencia se deberá colocar el campo _CompanyId_ y tomará el dato parametrizado en el campo _OrganizationId_ de la opción **SUSU**.  
+ * Si se desea realizar restricción por Compañía, en la sentencia se deberá colocar el campo _CompanyId_ y tomará el dato parametrizado en el campo _OrganizationId_ de la opción **SUSU - Usuarios**.  
 
- * Si se desea realizar restricción por Usuario, en la sentencia se deberá colocar el campo _ClientId_ y tomará el dato parametrizado en el campo _Tercero_ de la opción **SUSU**.  
+ * Si se desea realizar restricción por Usuario, en la sentencia se deberá colocar el campo _ClientId_ y tomará el dato parametrizado en el campo _Tercero_ de la opción **SUSU - Usuarios**.  
 
- * Si desea realizar restricción por ubicación, en la sentencia se deberá colocar el campo _LocationId_ y tomará las ubicaciones parametrizadas en la pestaña _Ubicaciones_ de la opción **SUSU**.  
+ * Si desea realizar restricción por ubicación, en la sentencia se deberá colocar el campo _LocationId_ y tomará las ubicaciones parametrizadas en la pestaña _Ubicaciones_ de la opción **SUSU - Usuarios**.  
 
 Una vez adecuada la sentencia, en la pestaña _**Programas**_ de la opción SROL, se deberá seleccionar del campo _Consultar_ la opción correspondiente. En este caso, por ejemplo, se seleccionará consulta por **USUARIO**.  
 
 ![](srol9.png)
+
+Se debe iniciar sesión nuevamente en la aplicación para que se vean reflejados los cambios.  
+
+Una vez iniciada la sesión en la aplicación, abrimos la opción **BIVEN - Ventas** (Previamente parametrizada en la opción SROL) y se selecciona la opción parametrizada en la opción **BARC - Archivos**:  
+
+![](srol10.png)
+
+Al cargar los datos, puede observar que solamente muestra información correspondiente al usuario parametrizado en la opción **SUSU - Usuarios**:
+
+![](srol11.png)
+
+
+#### [Restricción de consultas por usuario conectado](http://docs.oasiscom.com/Operacion/system/sacceso/srol#restricción-de-consultas-por-usuario-conectado)
+
+Es posible por medio de parametrización que los roles de los usuarios solo permitan consultar la información que se generó a nombre de ellos ya sea como clientes, vendedores o responsables.  
+
+En la pestaña _Programas_ de la opción **SROL - Roles**, en el campo _Consultar_ se puede seleccionar el tipo de consulta a realizar de acuerdo a las siguientes opciones:  
+
+![](srol12.png)
+
+De acuerdo a la opción seleccionada se mostrará la información correspondiente. Por ejemplo, parametrizando la opción _JFAC - Facturas_.  
+
+![](srol13.png)
+
+Al consultar la información, se mostrará lo siguiente, lo que corresponde a una consulta por usuario:  
+
+![](srol14.png)
+
+Si se cambia nuevamente la parametrización en el SROL, debe mostrar información consistente de acuerdo a lo seleccionado en el campo _CONSULTAR_:
+
+![](srol15.png)
+
+![](srol16.png)
+
+
+
+
+
+
+
+
+
 
 
 
