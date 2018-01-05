@@ -1512,7 +1512,7 @@ En el detalle de esta opción, los registros visualizados en color **Rojo**, ind
 ![](glab.png)
 
 
-## [Adjuntos y Comentarios](http://docs.oasiscom.com/Operacion/#Adjuntos-y-Comentarios)
+## [Adjuntos y Comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)
 
 Se permite la visualización de registros que contienen adjuntos y/o comentarios. En la botonera, cuando un registro tengan alguna de estas dos características (o ambas) los botones se verán resaltados con color azul.  
 
