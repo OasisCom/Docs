@@ -13,7 +13,7 @@ Ingresamos a la aplicación, diligenciamos los campos y seleccionamos en el camp
 
 ![](kpsd.png)
 
-Seguidamente, damos click en el botón ![](consultar.png) para que los saldos sean generados en la aplicación [**KSSD - Auxiliar por tercero dirario**](http://docs.oasiscom.com/Operacion/erp/contabilidad/ksaldo/kssd).(_Ver aplicación_)  
+Seguidamente, damos click en el botón ![](consultar.png) para que los saldos sean generados en la aplicación [**KSSD - Auxiliar por tercero diario**](http://docs.oasiscom.com/Operacion/erp/contabilidad/ksaldo/kssd).(_Ver aplicación_)  
 
 
 
