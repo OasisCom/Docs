@@ -114,111 +114,62 @@ La suscripción será creada con el **Plan OASISCOM E0** asignado en el campo _S
 
 Desde esta misma ventana se puede visualizar la pestaña de _Historial de Facturas_, la cual muestra las facturas realizadas por el usuario en esa empresa.  
 
-
-
 ![](crear4.png)
-
-
 
 Si se genera un error, esta pestaña mostrará una alerta como se ve a continuación:  
 
-
-
 ![](crear5.png)
-
-
 
 Cuando el servidor no encuentre datos mostrará el siguiente mensaje:  
 
-
-
 ![](crear6.png)
-
-
 
 Cuando el servidor retorne datos, estos se mostrarán en una tabla como la siguiente:  
 
-
-
 ![](crear7.png)
-
-
-
-
 
 #### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
 
-
-
 Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana con todas las empresas que tiene asignadas a su usuario, en dicha ventana se podrá seleccionar la empresa que requiere consultar y el sistema lo trasladará a la misma. En caso de conocer el nombre de la empresa existe un filtro avanzado en la parte superior el cual facilita al usuario la consulta de la empresa, esto se puede realizar por una palabra clave o por el nombre completo de la empresa:
 
-
-
 ![](filtrocambiarempresas.png)
-
 
 
 - Filtro con palabra clave:
 
 
-
 ![](filtrocambiarempresasclave.png)
 
 
-
 - Filtro con el nombre completo de la empresa
-
 
 
 ![](filtrocambiarempresasnombre.png)
 
 
 
-
-
 #### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
-
-
 
 Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
 
-
-
 ![](SOPORTE.png)
-
-
-
 
 
 #### [**Comentarios**](http://docs.oasiscom.com/Operacion/#comentarios)  
 
 
-
 Al dar click en la opción _Comentarios_ se abrirá la aplicación [**APQR - Comentarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/apqr.md), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
-
-
 
 ![](COMENTARIOS.png)
 
 
-
-
-
 #### [**Ayuda**](http://docs.oasiscom.com/Operacion/#ayuda)  
-
-
 
 Al dar click en la opción _Ayuda_, el sistema arrojará un buscador en el cual se puede consultar el tema de inquitud o una aplicación en específico. 
 
-
-
 ![](AYUDA.png)
 
-
-
 Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http://docs.oasiscom.com](http://docs.oasiscom.com) con los links que se relacionan a la búsqueda realizada, posteriormente, se debe seleccionar el link que requieran consultar, en caso de querer validar más información del sistema o referente a la empresa pueden navegar en el menú de este enlace, allí encontrarán lo siguiente:  
-
-
 
 * **Operación:** Manuales de las funcionalidades del sistema.  
 
@@ -232,27 +183,16 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 
 * **Desarrollo:** Características técnicas, metodología a utilizar, creación de reportes.  
 
-
-
-
-
 ## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)
 
-
-
 El botón de _Consultas Dinámicas_ se puede observar en diferentes aplicaciones, este se encuentra en la parte superior o maestro, la apariencia del botón puede variar de acuerdo a las aplicaciones, se puede visualizar así ![](boton1.png) o ![](boton2.png).  
-
-
 
 Este botón nos permite realizar consultas detalladas sobre el registro seleccionado, se debe seleccionar el registro y dar click en el botón de _consulta dinámica_ y el sistema arrojará un recuadro con la consulta de algunos campos. Para validar algunos ejemplos remitirse a las siguientes aplicaciones [**COPR - Pedidos Retenidos**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas), [**VPED - Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas) y [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#consultas-dinámicas).
 
 
-
 ## [Traducción de Login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#traducción-de-login-de-acuerdo-al-navegador)
 
-
 De acuerdo al idioma que se tenga definido en el navegador de preferencia, al ingresar a OasisCom se mostrará la página de inicio con el idioma correspondiente.  
-
 
 Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Español_, _Inglés_ o _Portugués_, el sistema tomará por defecto el idioma _Inglés_.  
 
@@ -353,456 +293,219 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 
 Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
 
-
-
 ##  [Maestro - Detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)
-
-
 
 Al ingresar a un programa se verán en la parte superior e inferior el maestro y detalle del mismo.  
 
-
-
 ![](maestrodetalle1.png)
-
-
-
-
 
 ## [Filtros](http://docs.oasiscom.com/Operacion/#filtros)
 
-
-
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
-
-
 
 ![](Filtros1.png)
 
-
-
 En el detalle de las aplicaciones, es posible filtrar la información contenida allí por fecha.  
-
-
 
 ![](filtros2.png)
 
-
-
 ![](filtros3.png)
-
-
-
-
 
 ## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
 
-
-
 La función de Filtros Avanzados, permite acceder a la información de manera más específica de acuerdo a la necesidad. Esta opción está representada por el botón ![](filtrosavanzados1.png)  
 
-
-
 ![](filtrosavanzados2.png)
-
-
 
 De acuerdo en la aplicación a la cual se ingrese, la función Filtros Avanzados traerá una lista con las opciones de búsqueda, seguidamente, permitirá digitar el dato por el cual se desee filtrar la información. 
 
 
-
 En el siguiente ejemplo, ingresaremos a la aplicación BCUE – Cuentas y filtraremos las cuentas contables que inicien por el número 8, esto se realiza agregando el símbolo % (porcentaje) a la derecha del número.  
 
-
-
 ![](filtrosavanzados3.png)
-
-
 
 ![](filtrosavanzados4.png)
 
 
-
-
-
 La función también permite filtrar por fechas, por ejemplo, de una fecha mayor a una fecha menor.  
-
-
 
 ![](filtrosavanzados5.png)
 
-
-
-
-
 Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un nuevo renglón de filtro dando click en el botón ![](filtrosavanzados6.png)
-
-
 
 ![](filtrosavanzados7.png)
 
-
-
-
-
 ## [Ordenamiento](http://docs.oasiscom.com/Operacion/#ordenamiento)
-
-
 
 En el sistema se puede realizar el ordenamiento en diferentes campos de forma ascendente o descendente, para esto se requiere seleccionar el nombre del campo, cabe resaltar que los campos que son calculados no se pueden ordenar:
 
-
-
 - Ascendente (menor a mayor)
-
-
 
 ![](ordenascendente.png)
 
-
-
 - Descendente (mayor a menor)
-
-
 
 ![](ordendescendente.png)
 
 
-
-
-
 ## [Opciones de Documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)
-
-
-
-
 
 En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…).  
 
-
-
 ![](opcionesdocumentos1.png)
-
-
 
 El funcionamiento de cada botón es:  
 
 
-
-
-
 ### [Eliminar](http://docs.oasiscom.com/Operacion/#eliminar)
-
-
-
-
-
-
 
 Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.  
 
-
-
-
-
 ![](eliminar1.png)
-
-
 
 ![](eliminar2.png)
 
 
-
-
-
 ## [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
-
-
 
 La funcionalidad permite agregar un nuevo registro en la aplicación.  
 
-
-
 ![](agregar1.png)
-
-
 
 Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la información relacionada con el documento.  
 
-
-
 ![](agregar2.png)
-
-
 
 ### [Guardar](http://docs.oasiscom.com/Operacion/#guardar)
 
-
-
 Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.  
-
-
-
-
 
 ![](guardar1.png)
 
-
-
 Al guardar, los documentos quedarán en estado _Activo_ sin ningún color en específico.  
-
-
 
 ![](agregar3.png)
 
-
-
 ### [Cancelar](http://docs.oasiscom.com/Operacion/#cancelar)
 
-
-
 Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un documento o registro en el sistema.  
-
-
 
 ![](cancelar1.png)
 
 
-
-
-
 ### [Confirmar o Procesar](http://docs.oasiscom.com/Operacion/#confirmar-o-procesar)
-
-
 
 La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.  
 
-
-
 ![](confirmarprocesar1.png)
-
-
 
 Cuando un documento se encuentre en estado _Procesado_, este se verá de color **verde**.  
 
-
-
 ![](confirmarprocesar2.png)
-
-
-
 
 
 ### [Reversar](http://docs.oasiscom.com/Operacion/#reversar)
 
 
-
 Esta opción permite la corrección de errores en la inclusión de datos, su ejecución vuelve al comprobante o movimiento a estado ACTIVO en el cual se corrigen los errores cometidos para después volver a confirmar dicho comprobante o movimiento.  
-
-
 
 ![](reversar1.png)
 
-
-
-
-
 ### [Anular](http://docs.oasiscom.com/Operacion/#anular)
-
-
 
 La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.  
 
-
-
 ![](anular1.png)
-
-
 
 Cada vez que se vaya ejecutar la acción de anulación de un documento, el sistema mostrará un mensaje de confirmación para realizar dicha acción.  
 
-
-
 ![](anular2.png)
-
-
 
 Este proceso también se puede ejecutar en lote, es decir, con más de un registro al tiempo.  
 
-
-
 ![](anular3.png)
 
-
-
 Cuando un documento esté en estado _Anulado_, este se verá de color **rojo**.  
-
-
 
 ![](anular4.png)
 
 
-
-
-
 ### [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)
 
-
-
 Esta opción permite imprimir la información que se está consultando en el momento.  
-
-
 
 ![](imprimir1.png)
 
 
-
-
-
 ### [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)
-
-
 
 Es permitido en unas aplicaciones imprimir la información de varios registros desde el maestro de la aplicación con el fin de que se mejorar el proceso y optimizar el tiempo.  
 
-
-
 En la siguiente imagen seleccionamos 3 registros para imprimir.  
-
-
-
-
 
 ![](imprimirlote1.png)
 
-
-
 A continuacion se desplegará una ventana donde confirmará si desea realizar la impresión, en esta ventana le indicará el numero de registros que se van a imprimir.  
-
-
 
 ![](imprimirlote2.png)
 
-
-
 Después de dar clic en el botón aceptar, el sistema generará la impresión ya sea en un PDF o directamente seleccionando la impresora para tenerlos de forma física.  
-
-
-
-
 
 ### [Vista Preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)
 
-
-
 Esta opción permite observar el informe de forma preliminar.  
-
-
 
 ![](vistapreliminar1.png)
 
-
-
-
-
 ### [Importar](http://docs.oasiscom.com/Operacion/#importar)
 
-
-
 Esta opción permite importar datos generados.  
-
-
 
 ![](importar1.png)
 
 
-
-
-
 ### [Exportar](http://docs.oasiscom.com/Operacion/#exportar)
-
-
 
 Esta opción permite exportar datos a diferentes tipos de archivos.  
 
-
-
 ![](exportar1.png)
-
-
 
 ### [Refrescar o Actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)
 
-
-
 Esta opción permite actualizar la información reflejada en la pantalla con base a lo que esté siendo actualizada y ésta cambia en el momento de la consulta.  
-
-
 
 ![](refrescaractualizar1.png)
 
-
-
 ### [Archivo imágenes](http://docs.oasiscom.com/Operacion/#)
-
-
 
 OasisCom permite almacenar en algunas aplicaciones imágenes según la naturaleza de la aplicación y la necesidad de los registros, esta opción se encuentra en la columna imagen.  
 
-
-
 ![](archivoimagenes1.png)
-
-
 
 Al dar clic en “enviar” se abrirá una ventana emergente en la cual se podrá seleccionar el archivo que se desea cargar.  
 
-
-
 ![](archivoimagenes2.png)
-
-
 
 ### [Borrado masivo](http://docs.oasiscom.com/Operacion/#borrado-masivo)
 
-
-
 En OasisCom podrá encontrar la opción de realizar un borrado masivo en algunas aplicaciones, esta opción varía dependiendo de la funcionalidad de cada aplicación lo cual permitirá o no realizar el borrado masivo.  
-
-
 
 Para realizar el borrado masivo de registros se debe seleccionar dos o más registros.  
 
-
-
 ![](borradomasivo1.png)
-
-
 
 Si desea eliminar todos los registros del maestro o del detalle en la parte superior respectivamente, se encuentra un cuadro de Check en el cual al dar clic sobre él seleccionará todos los registros.  
 
 
-
 ![](borradomasivo2.png)
-
-
 
 Una vez seleccionados los registros que se desean eliminar, se debe dar clic en el icono de eliminar situado en la barra superior de cada segmento de la aplicación, se recuerda que los iconos de la barra de herramientas del detalle son independientes a los iconos de la barra de los maestros.  
 
-
-
 Una vez se da clic en eliminar, aparece una ventana emergente en el cual se confirma la solicitud de eliminar los registros.  
-
-
 
 ![](borradomasivo3.png)
 
-
-
 Después de confirmar la acción los registros se eliminaran.  
-
-
-
 
 
 ### [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)
@@ -1807,3 +1510,20 @@ Ejemplo en la opción **GLAB**:
 En el detalle de esta opción, los registros visualizados en color **Rojo**, indican que el campo _Resultado_ se salen de los rangos establecidos en los campos _Mínimo_ y _Máximo_.  
 
 ![](glab.png)
+
+
+## [Adjuntos y Comentarios](http://docs.oasiscom.com/Operacion/#Adjuntos-y-Comentarios)
+
+Se permite la visualización de registros que contienen adjuntos y/o comentarios. En la botonera, cuando un registro tengan alguna de estas dos características (o ambas) los botones se verán resaltados con color azul.  
+
+##### **Comentarios**
+
+![](boton3.png)
+
+![](boton4.png)
+
+##### Adjuntos
+
+![](boton5.png)
+
+![](boton6.png)

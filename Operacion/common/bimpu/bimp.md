@@ -39,11 +39,15 @@ En la pestaña Detalle – Detalle se define la fecha inicial y final en la cual
 **Ubicación geográfica:** Número de la ubicación geográfica con la cual debe ir relacionada la tarifa del impuesto si aplica y si se definió en el maestro.  
 
 
+### [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bimpu/bimp#parametrización-para-las-transferencias-de-dinero)
 
+En la parametrización realizada en la aplicación [**BTIM - Tipos de impuestos**](http://docs.oasiscom.com/Operacion/common/bimpu/btim#parametrización-para-las-transferencias-de-dinero), se asoció un renglón correspondiente al tipo de impuesto, explicaremos como crear el renglón en un impuesto, ejemplo, el impuesto número _11 - retención en la renta_, en el detalle se asocia un renglón 99 llamado _“Porcentaje retención tarjeta”_ y se asocia el grupo 99.  
 
+![](bimp4.png)
 
+En la pestaña _Detalle Detalle_ se parametriza el porcentaje (%) definido por el gobierno asociado al grupo 99 y en la fecha que corresponda.  
 
+![](bimp5.png)
 
-
-
+El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_
 
