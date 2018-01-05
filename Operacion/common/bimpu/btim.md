@@ -40,7 +40,7 @@ En la parte del detalle se registrarán los impuestos que deberá aplicar el gru
 **Tipo:** Si el impuesto es por compras, ventas o ninguno.  
 **Renglón:** número de renglón asignado en el detalle de la aplicación BIMP a la tarifa del impuesto que se relacionará en el grupo.  
 
-### [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bimpu/btim#parametrización-para-las-transferencias-de-dinero)
+## [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bimpu/btim#parametrización-para-las-transferencias-de-dinero)
 
 En la aplicación BTIM, se debe crear un tipo de impuesto que se llame _Comisiones Tarjetas e impuestos_ y en el campo _Clase_ indicar **“C”** correspondiente a Comisiones.  
 

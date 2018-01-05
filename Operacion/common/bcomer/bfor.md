@@ -16,7 +16,7 @@ En esta aplicación se identifican las formas de pago que se pueden realizar baj
 **Tipo:** Seleccionar de acuerdo a la lista que el sistema arroja, si es bonos, tarjetas, cheque, efectivo, puntos, crédito entre otros.  
 **Código:** Se debe indicar el código previamente parametrizado en la aplicación **BCOD**.
 
-### [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bcomer/bfor#parametrización-para-las-transferencias-de-dinero)
+## [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bcomer/bfor#parametrización-para-las-transferencias-de-dinero)
 
 En la aplicación BFOR, se debe parametrizar las formas de pago: tarjetas o efectivo según corresponda, en el campo _Comission_ el porcentaje (%) acordado y en el campo _Cash_ la caja asociada.  
 
