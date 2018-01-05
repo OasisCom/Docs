@@ -40,6 +40,16 @@ En la parte del detalle se registrarán los impuestos que deberá aplicar el gru
 **Tipo:** Si el impuesto es por compras, ventas o ninguno.  
 **Renglón:** número de renglón asignado en el detalle de la aplicación BIMP a la tarifa del impuesto que se relacionará en el grupo.  
 
+### [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bimpu/btim#parametrización-para-las-transferencias-de-dinero)
+
+En la aplicación BTIM, se debe crear un tipo de impuesto que se llame _Comisiones Tarjetas e impuestos_ y en el campo _Clase_ indicar **“C”** correspondiente a Comisiones.  
+
+En el detalle de esta aplicación, debemos insertar los impuestos: 11 – Retención de renta, 12 – Retención de IVA y 13 - Retención de ICA y se deben asociar al renglón 99.  
+
+![](btim4.png)
+
+El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_
+
 
 
 
