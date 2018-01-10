@@ -13,8 +13,6 @@ Seleccionamos la opción _Tara Agua_, seguidamente la ubicación y en los campos
 
 ![](obta.png)
 
-
-En el campo _%Descuento_, indicaremos el porcentaje de Tara de Agua de acuerdo al rango de factor de rendimiento ingresado anteriormente y damos click en el botón _Guardar_.  
-
+En el campo _%Descuento_, indicaremos el porcentaje de Tara de Agua de acuerdo al rango de factor de rendimiento ingresado anteriormente, en el campo _Valor_ tenemos la posibilidad de ingresar el valor del descuento del factor de rendimiento. Finalmente, damos click en el botón _Guardar_.  
 
 
