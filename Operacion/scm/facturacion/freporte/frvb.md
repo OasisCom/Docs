@@ -18,6 +18,6 @@ El reporte **FRVB** permite consultar la facturación que ha sido realizada con 
 
 Ingresamos los datos anteriores y damos click en el botón ![](actualizar.png).
 
-La aplicación arrojará el reporte correspondiente.  
+La aplicación arrojará el reporte correspondiente. El reporte podrá ser descargado en Excel, PDF o Word.  
 
 ![](frvb1.png)
