@@ -25,7 +25,7 @@ Para realizar una solicitud de crédito, ingresamos a la aplicación y creamos u
 **Valor:** ingresar el valor por el cual fue solicitado el crédito.  
 **Aprobado:** ingresar el valor aprobado para el crédito solicitado. Si la aprobación se realiza de manera manual, el usuario debe activar el check _**Aprobar**_ e ingresar el valor del crédito manualmente. Si por el contrario, la aprobación se realiza automáticamente, se debe guardar el formulario del maestro en estado activo y dar click en el botón de la barra de herramientas _Calculo Cupo_, el sistema calculará el cupo disponible para asignarle al tercero que solicita el crédito.  
 **Fecha Aprobación:** indicar la fecha de aprobación de la solicitud del crédito.  
-**Vencimiento:** indicar la fecha de vencimiento de la solicitud del crédito.
+**Vencimiento:** indicar la fecha de vencimiento de la solicitud del crédito.  
 **Check _Aprobar:_** activar el check en caso de que la aprobación del crédito se realice de manera manual.  
 **DocDocumento:** si la solicitud de crédito tiene un pedido asociado, se debe ingresar las siglas del documento (PD) realizado en VPED, en la aplicación CSOL.  
 **DocNúmero:** ingresar el número de pedido asginado en VPED.  
