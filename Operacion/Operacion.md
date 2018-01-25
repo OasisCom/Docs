@@ -451,6 +451,30 @@ A continuacion se desplegará una ventana donde confirmará si desea realizar la
 
 Después de dar clic en el botón aceptar, el sistema generará la impresión ya sea en un PDF o directamente seleccionando la impresora para tenerlos de forma física.  
 
+### [Imprimir Reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)
+
+
+OasisCom cuenta con la función de imprimir los reportes del sistema directamente desde la aplicación mediante el botón ![](imprimir2.png) sin importar el navegador en uso. Dicho botón se encuentra restringido de acuerdo a los permisos de impresión definidos en la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol).  
+
+Inicialmente el reporte se verá de la siguiente manera:  
+
+![](imprimir3.png)
+
+Pero al parametrizar el campo _impresión_ en [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol) para la aplicación tipo _Reporte_, el botón se habilitará.  
+
+En SROL - Roles:
+
+![](imprimir4.png)
+
+En el reporte:
+
+![](imprimir5.png)
+
+Al hacer click en el botón de impresión, se desplegará una ventana con el reporte en formato PDF y las opciones de impresión.  
+
+![](imprimir6.png)
+
+
 ### [Vista Preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)
 
 Esta opción permite observar el informe de forma preliminar.  
