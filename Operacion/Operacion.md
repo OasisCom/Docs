@@ -1263,40 +1263,31 @@ Algunos ejemplos de los temas son:
 
 ## [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)
 
-
-
 La funcionalidad TaskWorkFlow permite ver las actividades pendientes por ejecutar relacionadas a una tarea y las actividades ya ejecutadas de dicha tarea.  
-
-
 
 Para acceder a la función TaskWorkflow damos click en el botón ![](task.png) ubicado en la barra de herramientas de la aplicación que la contenga.  
 
-
-
 ![](task1.png)
-
-
 
 Seguidamente, se mostrará una ventana con dos pestañas, _Pendientes_ y _Ejecutadas_. En la primera pestaña se podrán ver las actividades pendientes por ejecutar de la tarea seleccionada en el maestro de la aplicación, allí se detallará el nombre de la actividad, el usuario asignado a dicha actividad y una pequeña descripción. Igualmente, cuenta con un campo en donde se deberá ingresar el tiempo que se demoró realizando la actividad y otro para detallar lo que se realizó.  
 
-
-
 Si la actividad requiere adjuntar algún archivo, se podrá anexar por medio del botón ![](task3.png).  
-
-
-
-
 
 ![](task2.png)
 
-
-
 La segunda pestaña permite ver las actividades que ya han sido ejecutadas de la tarea seleccionada.  
-
-
 
 ![](task4.png)
 
+Para la funcionalidad de _Workflow_ existe un control mediante la aplicación _**SPRC - Procesos**_, en donde se podrá establecer cuando es obligatorio ejecutar una actividad para poder pasar a la siguiente de manera secuencial. El sistema arrojará un mensaje de control en caso de que el usuario intente ejecutar una actividad y la anterior aún no lo esté.  
+
+En _SPRC - Procesos:_ a continuación se ve un ejemplo en donde la actividad número dos no podrá ser ejecutada si la actividad número uno aún no lo está, igualmente para al actividad número tres.  
+
+![](sprc.png)
+
+Por ejemplo, en la aplicación XEXP - Exportaciones vemos que las actividades que se encuentran en color gris no podrán ser ejecutadas, puesto que, la inmediatamente anterior aún no se ha ejecutado. Al dar click en el botón ![](x.png) para ejecutar la actividad, el sistema arrojará el mensaje de control.  
+
+![](xexp.png)
 
 
 ## [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)
