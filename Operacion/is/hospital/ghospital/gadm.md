@@ -21,7 +21,7 @@ En el detalle, se deberá especificar los servicios a los cuales tendrá disponi
 
 ![](gadm2.png)
 
-Se debe tener en cuenta que si se desmarca el check de Factura, el producto no se insertará en la opción JFAC - Facturas.  
+Se debe tener en cuenta que si se desmarca el check de Factura, el producto no se insertará en la opción JFAC - Facturas y por lo tanto no se factuará.  
 
 ![](gadm3.png)
 
