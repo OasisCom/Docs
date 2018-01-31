@@ -15,3 +15,14 @@ Para imprimir un certificado, agregamos un nuevo registro en el maestro y dilige
 
 ![](gcer.png)
 
+Guardamos el registro y si el certificado a emitir requiere asociar algún producto, lo ingresamos en el detalle de la aplicación.  
+
+![](gcer1.png)
+
+Para ver y descargar el certificado damos click en el botón ![](lupa.png) ubicado en la barra de herramientas. Allí la aplicación nos dará la opción de descargar el certificado en formato de Excel, PDF o Word.  
+
+![](gcer2.png)
+
+El certificado visto en formato PDF.  
+
+![](gcer3.png)
