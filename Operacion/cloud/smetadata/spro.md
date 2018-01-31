@@ -20,18 +20,7 @@ Al filtrar podemos ver los diferentes tipos de formatos que le han sido parametr
 
 ![](spro2.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+Consultados los formatos existentes para la aplicación ingresada en el maestro,  nos dirigimos a la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión) para asignar el formato deseado a el documento correspondiente de la aplicación. _Ver aplicación_  
 
 
 ## [Parametrización de formatos de impresión para facturas](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro#parametrización-de-formatos-de-impresión-para-facturas)
@@ -44,7 +33,7 @@ Consultamos el programa **JFAC** y filtramos en el detalle por tipo _Formato_. A
 
 ![](spro.png)
 
-Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc). (_Ver aplicación_)
+Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas). (_Ver aplicación_)
 
 
 
