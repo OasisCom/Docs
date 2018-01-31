@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programas
-permalink: /Operacion/cloud/sbasic/spro
+permalink: /Operacion/cloud/smetadata/spro
 editable: si
 ---
 
