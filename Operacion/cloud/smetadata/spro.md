@@ -7,7 +7,34 @@ editable: si
 
 # SPRO - Programas
 
+
 ## [Parametrización de formatos de impresión](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro#parametrización-de-formatos-de-impresión)
+
+Para asignar un tipo de formato de impresión a un documento, primero se deben parametrizar dichos formatos asociandolos a la aplicación que los usará mediante la opción **SPRO**.  
+
+Ingresamos a la aplicación y consultamos por el programa en donde se imprimirá el formato. En el detalle seleccionamos en el campo _Tipo_ la opción _Formato_.  
+
+![](spro1.png)
+
+Al filtrar podemos ver los diferentes tipos de formatos que le han sido parametrizados a la opción relacionada en el maestro, junto con el ID correspondiente indicado en la columna _Renglón_.  
+
+![](spro2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## [Parametrización de formatos de impresión para facturas](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro#parametrización-de-formatos-de-impresión-para-facturas)
 
 Para poder asignar un tipo de formato de impresión a un documento FA - Facturas, primero se le deben parametrizar dichos formatos a la aplicación que los usará mediante la opción SPRO.  
 
