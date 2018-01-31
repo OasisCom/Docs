@@ -140,11 +140,11 @@ Seguidamente, ingresaremos a la aplicación [**OFAC - Facturas de Compra**](http
 
 ## [Parametrización de formatos de impresión](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
 
-En la aplicación **BDOC** asignamos a los documentos los formatos de impresión que han sido parametrizados previamente en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro#parametrización-de-formatos-de-impresión). Para ello, ingremos a la aplicación y consultamos por el documento al cual se le realcionará el formato de impresión.  
+En la aplicación **BDOC** asignamos a los documentos los formatos de impresión que han sido parametrizados previamente en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión). Para ello, ingremos a la aplicación y consultamos por el documento al cual se le realcionará el formato de impresión.  
 
 ![](bdoc12.png)
 
-En el maestro se encuentra el campo _FormatNumber_, en el cual se digita el ID del formato parametrizado en la opción [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro#parametrización-de-formatos-de-impresión) que se desea imprimir para el documento consultado. Damos click sobre el registro del maestro y editamos el campo, en el ejemplo asignaremos el formato número 7, seguidamente damos click en _Guardar_.  
+En el maestro se encuentra el campo _FormatNumber_, en el cual se digita el ID del formato parametrizado en la opción [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión) que se desea imprimir para el documento consultado. Damos click sobre el registro del maestro y editamos el campo, en el ejemplo asignaremos el formato número 7, seguidamente damos click en _Guardar_.  
 
 ![](bdoc13.png)
 
@@ -157,7 +157,7 @@ OasisCom cuenta con diferentes formatos para la impresión de facturas. Para asi
 
 ![](bdoc9.png)
 
-BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los formatos y su Id deben estar previamente parametrizados en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro). (_Ver aplicación_)  
+BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los formatos y su Id deben estar previamente parametrizados en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro). (_Ver aplicación_)  
 
 El _Número de Formato_ que sea parametrizado en BDOC para el documento _FA - Facturas_ será con el que se imprimirá la factura en la versión Móvil de OasisCom.  
 
