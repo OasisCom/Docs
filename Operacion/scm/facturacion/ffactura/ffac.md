@@ -9,6 +9,9 @@ editable: si
 
 La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
 
+Cuando se procesa un documento de facturación de ventas o de compras, y este tiene retención de ICA (para ventas RIC para compras ICR) el sistema deberá llevar el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta si la retención de ICA aplicará por dirección en los documentos.  
+
+
 ![](ffac1.png)
 
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
