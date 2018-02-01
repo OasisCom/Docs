@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contratos
-permalink: /Operacion/scm/contratos/ocontratos/ocnt
+permalink: /Operacion/scm/contratos/ocontrato/ocnt
 editable: si
 ---
 
