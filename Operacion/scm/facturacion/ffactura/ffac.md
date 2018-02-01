@@ -34,6 +34,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 ![](ffac3.png)
 
 **Observación:** Para el manejo de aclaraciones adicionales.  
+**Comprobante Fiscal:** para las transacciones de republica dominana, por medio de un cálculo automatico se obtiene el número de comprobante fiscal. El sistema no habilitará este campo para que sea editado manualmente.  
 **Bruto:** Es la sumatoria de los valores de los productos que van en la factura.  
 **Descuento:** Valor total del descuento a la factura actual.  
 **SubTotal:** Es el valor bruto menos el descuento.  
@@ -137,14 +138,3 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Naturaleza:** Naturaleza de la cuenta contable.  
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
-
-
-
-
-
-
-
-
-
-
-
