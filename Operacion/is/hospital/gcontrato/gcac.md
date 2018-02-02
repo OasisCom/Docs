@@ -7,7 +7,7 @@ editable: si
 
 # GCAC - Ajustes a Contratos
 
-La aplicación **GCAC** permite modificar un contrato ya existente. Puede ser que arroje un registro generado automáticamente por la opción [**GCRC - Renueva Contrato**]() o que se adicione un ajuste manualmente por el usuario.  
+La aplicación **GCAC** permite modificar un contrato ya existente. Puede ser que arroje un registro generado automáticamente por la opción [**GCRC - Renueva Contrato**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/grcr) o que se adicione un ajuste manualmente por el usuario.  
 
 Diligenciados los datos debemos procesar el documento de ajuste al contrato.  
 

@@ -13,4 +13,4 @@ Podemos renovar el contrato seleccionando la opción desde el campo _Renueva_ o 
 
 ![](gcrc.png)
 
-Al renovar el contrato, el sistema automáticamente actualizará las fechas del mismo en la aplicación **GCNT - Contratos**, al igual que creará un registro en la aplicación **GCAC - Ajustes a Contratos** correspondiente a las adecuaciones que se le hayan hecho al contrato.  
+Al renovar el contrato, el sistema automáticamente actualizará las fechas del mismo en la aplicación **GCNT - Contratos**, al igual que creará un registro en la aplicación [**GCAC - Ajustes a Contratos**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcac) correspondiente a las adecuaciones que se le hayan hecho al contrato.  
