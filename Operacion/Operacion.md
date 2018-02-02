@@ -366,7 +366,7 @@ Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detall
 ![](eliminar2.png)
 
 
-## [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
+### [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
 
 La funcionalidad permite agregar un nuevo registro en la aplicación.  
 
