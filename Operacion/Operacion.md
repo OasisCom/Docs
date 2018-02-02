@@ -682,7 +682,7 @@ Para visualizar un Zoom:
 
 La función permite realizar un filtro para que la búsqueda sea más rápida.  
 
-#### [Creación de cliente mediante un zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
+### [Creación de cliente mediante un zoom](http://docs.oasiscom.com/Operacion/#creación-de-cliente-mediante-un-zoom)
 
 El sistema permite crear un tercero en el mismo momento en que se realiza un documento sin necesidad de ingresar previamente a la opción BTER - Terceros, como por ejemplo al crear una factura.  
 
