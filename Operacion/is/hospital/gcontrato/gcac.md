@@ -1,9 +1,15 @@
 ---
 layout: default
-title: Contratos
-permalink: /Operacion/is/hospital/gcontrato/
+title: Ajustes a Contratos
+permalink: /Operacion/is/hospital/gcontrato/gcac
 editable: si
 ---
 
-# CONTRATOS
+# GCAC - Ajustes a Contratos
+
+La aplicación **GCAC** permite modificar un contrato ya existente. Puede ser que arroje un registro generado automáticamente por la opción [**GCRC - Renueva Contrato**]() o que se adicione un ajuste manualmente por el usuario.  
+
+Diligenciados los datos debemos procesar el documento de ajuste al contrato.  
+
+![](gcac.png)
 
