@@ -653,58 +653,62 @@ Para visualizar los mensajes no leídos:
 
 1) Dar clic en mensajes no leídos (Unread messages).  
 
-
-
 ![](mensajes7.png)
 
-
-
 2) El sistema trae la aplicación SMEU – Mensajes de Usuario en la cual veremos los mensajes no leídos por el usuario en sesión.  
-
-
 
 ![](mensajes8.png)
 
 
-
 La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
 
-
-
-
-
-### [Vista Zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
-
-
+### [Vista](http://docs.oasiscom.com/Operacion/#vista-zoom)
 
 La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
-
-
 
 Para visualizar un Zoom:  
 
 
-
-1) Dar doble clic en el campo color azul  
-
+1) Dar doble clic en el campo color azul.  
 
 
 ![](vistazoom1.png)
 
 
-
-2) Seleccionar registro  
-
+2) Seleccionar registro.  
 
 
 ![](vistazoom2.png)
 
-
-
 La función permite realizar un filtro para que la búsqueda sea más rápida.  
 
+#### [Creación de cliente mediante un zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
 
+El sistema permite crear un tercero en el mismo momento en que se realiza un documento sin necesidad de ingresar previamente a la opción BTER - Terceros, como por ejemplo al crear una factura.  
 
+El sistema cuenta con la función de que al crear un nuevo tercero sobre una ubicación en específico, arroje por defecto cierta información como: tipo de impuesto, grupo contable y condición de pago. Para ello, en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) se deberá establecer para la ubicación un tercero como base, que será el que tendrá parametrizado en [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter) los datos que arrojará el sistema por defecto.  
+
+Veremos un ejemplo al intentar crear una factura en la opción JFAC.  
+
+![](jfac.png)
+
+En el formulario anterior digitamos la ubicación número 1, por lo tanto, el tercero que vayamos a crear tendrá las características que esta ubicación tenga parametrizadas en la opción [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).
+
+En la opción BUBI, se deberá tener asignado un tercero como base, quien será el que tenga parametrizados los datos que traerá el sistema por defecto en la creación del documento, en este caso la creación de la factura.  
+
+En la opción BUBI para la ubicación número 1 se tiene asignado el siguiente tercero.  
+
+![](jfac1.png)
+
+En la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter) consultamos dicho tercero y deberá tener asginados los datos que deseamos que arroje por defecto el sistema al momento de crear un tercero.  
+
+Podemos ver que tiene asignada ubicación, tipo de impuesto y grupo.  
+
+![](jfac2.png)
+
+Al intentar crear el tercero en la opción JFAC, traerá automáticamente estos datos para el tercero creado en la ubicación 1.  
+
+![](jfac3.png)
 
 
 ### [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)
