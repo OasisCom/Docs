@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Contratos
-permalink: /Operacion/is/hospital/gcontrato/
+permalink: /Operacion/is/hospital/gcontrato/gcnt
 editable: si
 ---
 
-# CONTRATOS
+# GCNT - Contratos
 
