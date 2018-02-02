@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Renueva Contrato
-permalink: /Operacion/is/hospital/gcontrato/grcr
+permalink: /Operacion/is/hospital/gcontrato/gcrc
 editable: si
 ---
 
-# GRCR - Renueva Contrato
+# GCRC- Renueva Contrato
 
-La aplicación **GRCR** permite automatizar el proceso de renovación de contratos según lo requiera el cliente. Al ingresar a la aplicación y consultar todos los registros, el sistema nos arrojará los contratos que tengan fecha próxima a vencerse para que tomemos la decisión de renovarlo o terminarlo teniendo en cuenta un acuerdo previo con el cliente.  
+La aplicación **GCRC** permite automatizar el proceso de renovación de contratos según lo requiera el cliente. Al ingresar a la aplicación y consultar todos los registros, el sistema nos arrojará los contratos que tengan fecha próxima a vencerse para que tomemos la decisión de renovarlo o terminarlo teniendo en cuenta un acuerdo previo con el cliente.  
 
 Podemos renovar el contrato seleccionando la opción desde el campo _Renueva_ o dando click en el botón de la barra de herramientas _Contract_Renew_.  
 
