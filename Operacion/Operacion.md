@@ -623,33 +623,17 @@ Para enviar un nuevo mensaje:
 
 2) El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
 
-
-
 ![](mensajes4.png)
-
-
 
 En el campo destinatario (To) se tienen dos opciones: escribir el correo electrónico al cual se desea enviar el mensaje o dar clic en el botón azul del signo + para seleccionar un contacto del sistema.  
 
-
-
 ![](mensajes5.png)
-
-
 
 Seguido se encuentra el campo para el Asunto (Subject) y para la descripción del nuevo mensaje. Se finaliza el envío del mensaje dando clic en el botón (Send new message). 
 
-
-
-
-
 ![](mensajes6.png)
 
-
-
 Para visualizar los mensajes no leídos:  
-
-
 
 1) Dar clic en mensajes no leídos (Unread messages).  
 
