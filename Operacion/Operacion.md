@@ -662,7 +662,7 @@ Para visualizar los mensajes no leídos:
 
 La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
 
-### [Vista](http://docs.oasiscom.com/Operacion/#vista-zoom)
+### [Vista Zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
 
 La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
 
