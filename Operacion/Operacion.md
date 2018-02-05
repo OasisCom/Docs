@@ -366,7 +366,7 @@ Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detall
 ![](eliminar2.png)
 
 
-## [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
+### [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
 
 La funcionalidad permite agregar un nuevo registro en la aplicación.  
 
@@ -450,6 +450,30 @@ A continuacion se desplegará una ventana donde confirmará si desea realizar la
 ![](imprimirlote2.png)
 
 Después de dar clic en el botón aceptar, el sistema generará la impresión ya sea en un PDF o directamente seleccionando la impresora para tenerlos de forma física.  
+
+### [Imprimir Reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)
+
+
+OasisCom cuenta con la función de imprimir los reportes del sistema directamente desde la aplicación mediante el botón ![](imprimir2.png) sin importar el navegador en uso. Dicho botón se encuentra restringido de acuerdo a los permisos de impresión definidos en la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol).  
+
+Inicialmente el reporte se verá de la siguiente manera:  
+
+![](imprimir3.png)
+
+Pero al parametrizar el campo _impresión_ en [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol) para la aplicación tipo _Reporte_, el botón se habilitará.  
+
+En SROL - Roles:
+
+![](imprimir4.png)
+
+En el reporte:
+
+![](imprimir5.png)
+
+Al hacer click en el botón de impresión, se desplegará una ventana con el reporte en formato PDF y las opciones de impresión.  
+
+![](imprimir6.png)
+
 
 ### [Vista Preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)
 
@@ -599,88 +623,76 @@ Para enviar un nuevo mensaje:
 
 2) El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
 
-
-
 ![](mensajes4.png)
-
-
 
 En el campo destinatario (To) se tienen dos opciones: escribir el correo electrónico al cual se desea enviar el mensaje o dar clic en el botón azul del signo + para seleccionar un contacto del sistema.  
 
-
-
 ![](mensajes5.png)
-
-
 
 Seguido se encuentra el campo para el Asunto (Subject) y para la descripción del nuevo mensaje. Se finaliza el envío del mensaje dando clic en el botón (Send new message). 
 
-
-
-
-
 ![](mensajes6.png)
-
-
 
 Para visualizar los mensajes no leídos:  
 
-
-
 1) Dar clic en mensajes no leídos (Unread messages).  
-
-
 
 ![](mensajes7.png)
 
-
-
 2) El sistema trae la aplicación SMEU – Mensajes de Usuario en la cual veremos los mensajes no leídos por el usuario en sesión.  
-
-
 
 ![](mensajes8.png)
 
 
-
 La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
-
-
-
-
 
 ### [Vista Zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
 
-
-
 La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
-
-
 
 Para visualizar un Zoom:  
 
 
-
-1) Dar doble clic en el campo color azul  
-
+1) Dar doble clic en el campo color azul.  
 
 
 ![](vistazoom1.png)
 
 
-
-2) Seleccionar registro  
-
+2) Seleccionar registro.  
 
 
 ![](vistazoom2.png)
 
-
-
 La función permite realizar un filtro para que la búsqueda sea más rápida.  
 
+### [Creación de cliente mediante un zoom](http://docs.oasiscom.com/Operacion/#creación-de-cliente-mediante-un-zoom)
 
+El sistema permite crear un tercero en el mismo momento en que se realiza un documento sin necesidad de ingresar previamente a la opción BTER - Terceros, como por ejemplo al crear una factura.  
 
+El sistema cuenta con la función de que al crear un nuevo tercero sobre una ubicación en específico, arroje por defecto cierta información como: tipo de impuesto, grupo contable y condición de pago. Para ello, en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) se deberá establecer para la ubicación un tercero como base, que será el que tendrá parametrizado en [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter) los datos que arrojará el sistema por defecto.  
+
+Veremos un ejemplo al intentar crear una factura en la opción JFAC.  
+
+![](jfac.png)
+
+En el formulario anterior digitamos la ubicación número 1, por lo tanto, el tercero que vayamos a crear tendrá las características que esta ubicación tenga parametrizadas en la opción [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).
+
+En la opción BUBI, se deberá tener asignado un tercero como base, quien será el que tenga parametrizados los datos que traerá el sistema por defecto en la creación del documento, en este caso la creación de la factura.  
+
+En la opción BUBI para la ubicación número 1 se tiene asignado el siguiente tercero.  
+
+![](jfac1.png)
+
+En la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter) consultamos dicho tercero y deberá tener asginados los datos que deseamos que arroje por defecto el sistema al momento de crear un tercero.  
+
+Podemos ver que tiene asignada ubicación, tipo de impuesto y grupo.  
+
+![](jfac2.png)
+
+Al intentar crear el tercero en la opción JFAC, traerá automáticamente estos datos para el tercero creado en la ubicación 1.  
+
+![](jfac3.png)
 
 
 ### [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)
@@ -1239,40 +1251,31 @@ Algunos ejemplos de los temas son:
 
 ## [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)
 
-
-
 La funcionalidad TaskWorkFlow permite ver las actividades pendientes por ejecutar relacionadas a una tarea y las actividades ya ejecutadas de dicha tarea.  
-
-
 
 Para acceder a la función TaskWorkflow damos click en el botón ![](task.png) ubicado en la barra de herramientas de la aplicación que la contenga.  
 
-
-
 ![](task1.png)
-
-
 
 Seguidamente, se mostrará una ventana con dos pestañas, _Pendientes_ y _Ejecutadas_. En la primera pestaña se podrán ver las actividades pendientes por ejecutar de la tarea seleccionada en el maestro de la aplicación, allí se detallará el nombre de la actividad, el usuario asignado a dicha actividad y una pequeña descripción. Igualmente, cuenta con un campo en donde se deberá ingresar el tiempo que se demoró realizando la actividad y otro para detallar lo que se realizó.  
 
-
-
 Si la actividad requiere adjuntar algún archivo, se podrá anexar por medio del botón ![](task3.png).  
-
-
-
-
 
 ![](task2.png)
 
-
-
 La segunda pestaña permite ver las actividades que ya han sido ejecutadas de la tarea seleccionada.  
-
-
 
 ![](task4.png)
 
+Para la funcionalidad de _Workflow_ existe un control mediante la aplicación _**SPRC - Procesos**_, en donde se podrá establecer cuando es obligatorio ejecutar una actividad para poder pasar a la siguiente de manera secuencial. El sistema arrojará un mensaje de control en caso de que el usuario intente ejecutar una actividad y la anterior aún no lo esté.  
+
+En _SPRC - Procesos:_ a continuación se ve un ejemplo en donde la actividad número dos no podrá ser ejecutada si la actividad número uno aún no lo está, igualmente para al actividad número tres.  
+
+![](sprc.png)
+
+Por ejemplo, en la aplicación XEXP - Exportaciones vemos que las actividades que se encuentran en color gris no podrán ser ejecutadas, puesto que, la inmediatamente anterior aún no se ha ejecutado. Al dar click en el botón ![](x.png) para ejecutar la actividad, el sistema arrojará el mensaje de control.  
+
+![](xexp.png)
 
 
 ## [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)

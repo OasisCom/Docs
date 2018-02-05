@@ -1,13 +1,29 @@
 ---
 layout: default
 title: Programas
-permalink: /Operacion/cloud/sbasic/spro
+permalink: /Operacion/cloud/smetadata/spro
 editable: si
 ---
 
 # SPRO - Programas
 
-## [Parametrización de formatos de impresión](http://docs.oasiscom.com/Operacion/cloud/sbasic/spro#parametrización-de-formatos-de-impresión)
+
+## [Parametrización de formatos de impresión](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión)
+
+Para asignar un tipo de formato de impresión a un documento, primero se deben parametrizar dichos formatos asociandolos a la aplicación que los usará mediante la opción **SPRO**.  
+
+Ingresamos a la aplicación y consultamos por el programa en donde se imprimirá el formato. En el detalle seleccionamos en el campo _Tipo_ la opción _Formato_.  
+
+![](spro1.png)
+
+Al filtrar podemos ver los diferentes tipos de formatos que le han sido parametrizados a la opción relacionada en el maestro, junto con el ID correspondiente indicado en la columna _Renglón_.  
+
+![](spro2.png)
+
+Consultados los formatos existentes para la aplicación ingresada en el maestro,  nos dirigimos a la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión) para asignar el formato deseado a el documento correspondiente de la aplicación. _Ver aplicación_  
+
+
+## [Parametrización de formatos de impresión para facturas](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión-para-facturas)
 
 Para poder asignar un tipo de formato de impresión a un documento FA - Facturas, primero se le deben parametrizar dichos formatos a la aplicación que los usará mediante la opción SPRO.  
 
@@ -17,7 +33,7 @@ Consultamos el programa **JFAC** y filtramos en el detalle por tipo _Formato_. A
 
 ![](spro.png)
 
-Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc). (_Ver aplicación_)
+Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas). (_Ver aplicación_)
 
 
 

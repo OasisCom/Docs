@@ -7,10 +7,14 @@ editable: si
 
 # Facturas de Compra - OFAC
 
+
+La aplicación OFAC permite el registro de las facturas de compra, con todas sus características. La factura puede tener un recibo de inventario anterior, o generar el respectivo movimiento con la entrada de inventario.  
+
+Cuando se procesa un documento de facturación de ventas o de compras, y este tiene retención de ICA (para ventas RIC para compras ICR) el sistema deberá llevar el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta si la retención de ICA aplicará por dirección en los documentos.  
+ 
 ![](ofac1.png)
 
-
-Permite el registro de las facturas de compra, con todas sus características. La factura puede tener un recibo de inventario anterior, o generar el respectivo movimiento con la entrada de inventario.  
+ 
 
 En el maestro:
 

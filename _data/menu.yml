@@ -309,6 +309,8 @@
                 url: /Operacion/erp/cartera/creporte/crac
               - text: Auxiliar de Cartera
                 url: /Operacion/erp/cartera/creporte/crau
+              - text: Garantias
+                url: /Operacion/erp/cartera/creporte/crgr
               - text: Cheques Posfechados
                 url: /Operacion/erp/cartera/creporte/crcp
               - text: Cruces
