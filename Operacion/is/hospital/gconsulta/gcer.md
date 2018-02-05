@@ -7,7 +7,7 @@ editable: si
 
 # GCER - Certificados de Hospital
 
-La aplicación **GCER** permite imprimir certificados médicos según el concepto que se registre, cómo por ejemplo: Autorización de Anestesia, Orden de Hospitalización, Orden de cirugía, Autorización de Eutanasia, Retiro Voluntario, Remisión.  
+La aplicación **GCER** permite imprimir certificados médicos según el concepto que se registre, como por ejemplo: Autorización de Anestesia, Orden de Hospitalización, Orden de cirugía, Autorización de Eutanasia, Retiro Voluntario, Remisión.  
 
 Los diferentes tipos de formatos se deben parametrizar previamente en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión) y asignar al documento correspondiente en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión) (_Ver aplicaciones_).  
 
