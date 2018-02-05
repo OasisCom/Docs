@@ -13,6 +13,31 @@ Agregamos un nuevo registro en el maestro y diligenciamos los campos, al igual q
 
 ![](oajc.png)
 
+**Documento:** seleccionamos del zoom el documento AK correspondiente a Ajustes Contratos de Compra.  
+**Número:** el sistema asignará automáticamente el número de consecutivo.  
+**Ubicación:** seleccionar del zoom la ubicación en donde se encuentra registrado el contrato. Las ubicaciones son parametrizables en la opción [**Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) 
+****()
+****
+****
+****
+****
+****
+****
+****
+****
+
+
+
+
+
+
+
+
+
+
+
+
+
 En el detalle de la aplicación se reflejará el producto o servicio por el cual se realizó el contrato.  
 
 ![](oajc1.png)
