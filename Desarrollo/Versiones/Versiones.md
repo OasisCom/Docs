@@ -26,4 +26,6 @@ editable: si
 ##### [Versión 25](http://mailchi.mp/06c5ff4d0619/version-oasiscom-1318221)
 ##### [Versión 26](http://mailchi.mp/0c78f995a023/version-oasiscom-1318229)
 ##### [Versión 27](http://mailchi.mp/2317edd9a82b/version-oasiscom-1318241)
+##### [Versión 28](http://mailchi.mp/496293578e60/version-oasiscom-1318269)
+##### [Versión 29](http://mailchi.mp/8d2a91bc617c/version-oasiscom-1318329)
 
