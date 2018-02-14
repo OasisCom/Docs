@@ -68,9 +68,13 @@ Consultamos en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Ope
 
 ![](mjfac14.png)
 
-Finalmente, seleccionados los productos a comprar, las cantidades, la forma de pago y verificada la condición de pago, debemos procesar la factura.  
+Finalmente, seleccionados los productos a comprar, las cantidades, la forma de pago y verificada la condición de pago, debemos procesar la factura. Al dar click en el botón _Procesar_ el sistema arrojará inmediatamente una ventana para imprimir la factura.  
 
 ![](mjfac15.png)
+
+Al cerrar la anterior ventana, se visualizará la factura de la siguiente forma:  
+
+![](mjfac28.png)
 
 Esta factura la podremos ver en la aplicación **JFAC - Facturas** al consultar por la fecha en que se realizó.  
 
