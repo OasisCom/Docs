@@ -130,3 +130,6 @@ Si por el contrario, seleccionamos un documento que se encuentre en estado _Proc
 
 ![](mjfac26.png)
 
+En MJFAC se permite trabajar varias facturas por medio de Tabs al tiempo.  
+
+![](mjfac27.png)
