@@ -13,17 +13,17 @@ Para crear una factura, damos click en el botón _Agregar_.
 
 ![](mjfac.png)
 
-A continuación, seleccionamos los productos a comprar y estos se verán reflejados en la ventana del medio.  
+A continuación, seleccionamos los productos a comprar y estos se verán reflejados en la ventana izquierda.  
 
 Si deseamos filtrar la búsqueda de los productos, seleccionamos la opción deseada como se muestra a continuación y digitamos el dato correspondiente.  
 
 ![](mjfac3.png)
 
-En la parte inferior la aplicación nos mostrará el valor bruto, descuento, subtotal, total de impuesto y valor total de la factura los cuales se irán acumulando dependiendo del producto y las cantidades seleccionadas.  
+La aplicación nos mostrará el valor bruto, descuento, subtotal, total de impuesto y valor total de la factura los cuales se irán acumulando dependiendo del producto y las cantidades seleccionadas.  
 
 ![](mjfac1.png)
 
-En la parte inferior izquierda, podremos seleccionar la forma de pago de la factura.  
+En la parte inferior encontramos el botón _Pagar_, al dar click podremos seleccionar la forma de pago de la factura.  
 
 ![](mjfac4.png)
 
