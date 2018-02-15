@@ -109,4 +109,24 @@ Validada la información procesamos los documentos dando click en el botón _Pro
 Para verificar que el inventario haya sido ajustado correctamente ingresaremos a la aplicación [**ISPL - Saldos por Localización**](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl#inventario-periódico-e-inventario-cíclico).  
 
 
+## [Generación de Ajuste al Costo](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)
 
+Esta funcionalidad permite generar el ajuste de costo diferencial de la exportación, donde del valor total se debe descontar el valor de la materia prima y ese será el valor a ajustar en inventario.  
+
+El proceso consiste en generar un documento de ajuste en la aplicación **IMOV** desde la opción [**XEXP - Exportaciones**](http://docs.oasiscom.com/Operacion/scm/exportaciones/xexportaciones/xexp) por cada renglón de la exportación. El valor del ajuste se hará con el valor diferencial resultante de la resta del valor total del costo unitario calculado  menos el valor de la materia prima. Ejemplo, si el costo total es de 100 y el valor de la materia prima es de 65, el valor del ajuste será de 35.  
+
+Para identificar el concepto de materia prima en una liquidación de exportación, se colocará en la opción [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon) en el concepto elegido, la letra **I** en el campo Módulo.  
+
+![](imov12.png)
+
+Para saber el concepto por el cual se generará el ajuste en el IMOV, se parametrizará en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para el documento **EN** en la pestaña detalle, en el concepto elegido una **X** en el campo Módulo.  
+
+![](imov13.png)
+
+Con el botón _Genera ajuste_ de la opción  [**XEXP - Exportaciones**](http://docs.oasiscom.com/Operacion/scm/exportaciones/xexportaciones/xexp) se podrá crear de forma automática el documento en la aplicación IMOV. Sólo se podrá generar el documento cuando el estado del renglón sea **P**.  
+
+![](imov14.png)
+
+El documento de ajuste siempre se generará en estado _Procesado_.  
+
+![](imov15.png)
