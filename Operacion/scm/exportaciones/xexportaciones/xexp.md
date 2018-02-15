@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exportaciones
-permalink: /Operacion/scm/exportaciones/xexp
+permalink: /Operacion/scm/exportaciones/xexportaciones/xexp
 editable: si
 ---
 
