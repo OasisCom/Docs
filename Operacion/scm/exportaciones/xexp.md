@@ -40,8 +40,14 @@ Para ver el documento damos click en el botón ![](lupa.png) de la barra de herr
 
 Para hacer una liquidación de una exportación se deben tener creados los parámetros básicos de las aplicaciones: [**BADU - Aduanas**](http://docs.oasiscom.com/Operacion/common/bcomer/badu), [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones), [**BADC - Costos por aduana**](http://docs.oasiscom.com/Operacion/common/bcomer/badc) y por último  la aplicación [**BINC - Inconterms**]() en la cual se agrupan los conceptos deseados de una exportacion. _Ver aplicaciones_.  
 
+Agregamos un nuevo formulario y diligenciamos los campos. Allí relacionaremos el Incoterms correspondiente.  
 
+![](xexp3.png)
 
+En el detalle asociaremos los productos de exportación. Allí mismo encontraremos un botón con el cual se liquida la exportación. Las exportaciones para el siguiente ejemplo, se liquidan por renglón y deben calcular el costo y el precio.  
 
+![](xexp4.png)
 
+Para un mejor análisis, en la pestaña de conceptos se visualiza la liquidación de los conceptos de exportación.  
 
+![](xexp5.png)
