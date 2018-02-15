@@ -142,7 +142,7 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
 
-# [Asociar Exportación]()
+# [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 
 Este proceso permite enlazar en la opción **FFAC** el documento de exportación _XEXP_ para así poder terminar con el ciclo de la exportación.  
 
