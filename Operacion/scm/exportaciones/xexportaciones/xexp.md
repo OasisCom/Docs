@@ -51,3 +51,5 @@ En el detalle asociaremos los productos de exportación. Allí mismo encontrarem
 Para un mejor análisis, en la pestaña de conceptos se visualiza la liquidación de los conceptos de exportación.  
 
 ![](xexp5.png)
+
+m
