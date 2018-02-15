@@ -264,6 +264,11 @@ Finalmente, se obtiene el mensaje del servicio de la DIAN donde se muestra que l
 
 ![](bint36.png)
 
+Enviadas las las facturas a la DIAN, el Status de cada factura cambiará a ser _Ejecutado_.  
+
+![](effac.png)
+
+
 # [Formatos reportes FT006 - FT010 - FT011](http://docs.oasiscom.com/Operacion/utility/barchi/bint#formatos-reportes-ft006---ft010---ft011)
 
 Archivos en formato XML los cuales muestran información correspondiente a los formatos FT006 - FT010 - FT011 de la superintendencia de salud.  

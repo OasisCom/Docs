@@ -27,3 +27,9 @@ Plantilla al _Aceptar_ una factura.
 Plantilla al _Rechazar_ una factura.  
 
 ![](ebportal2.png)
+
+## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-QR)
+
+El formato de factura electrónica que se envía al adquiriente contiene un Código QR, que le permitirá ver desde un dispositivo móvil los datos de la factura.  
+
+![](codigoqr.png)
