@@ -16,3 +16,4 @@ A continuación, consultaremos por Padre 1, correspondiente a la Ubicación Cent
 Al generar el reporte, el sistema nos arrojará la información consultada. El reporte puede ser descargado en formaro Excel, PDF o Word.  
 
 ![](krgc2.png)
+
