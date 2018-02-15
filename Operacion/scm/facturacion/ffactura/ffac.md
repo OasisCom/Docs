@@ -141,3 +141,22 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Naturaleza:** Naturaleza de la cuenta contable.  
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
+
+# [Asociar Exportación]()
+
+Este proceso permite enlazar en la opción **FFAC** el documento de exportación _XEXP_ para así poder terminar con el ciclo de la exportación.  
+
+Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicaicón FFAC para así ser facturado.  
+
+Documento EX en estado Activo con renglón en el detalle Procesado.  
+
+![](xexp.png)
+
+Asociamos la exportación en la factura, ingresando el documento, el número de consecutivo y la ubicación.  
+
+![](ffac10.png)
+
+Al procesar la factura, se podrá visualizar la actualización de la exportación en el renglón del detalle facturado en el campo Entregado y Estado.  
+
+![](ffac11.png)
+
