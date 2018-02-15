@@ -13,11 +13,8 @@ A continuación, vemos un ejemplo de un kit compuesto por tela y botones represe
 
 ![](icnv.png)
 
-Para armar un kit
 
-
-
-## [Vista previa]()
+## [Vista previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#vista-previa)
 
 La aplicación ICNV cuenta con una vista previa que permite ver las entradas y salidas de la conversión de producto. Para acceder a ella, seleccionamos un registro del maestro y damos click en el botón ![](lupa.png).  
 
@@ -26,3 +23,4 @@ La aplicación ICNV cuenta con una vista previa que permite ver las entradas y s
 Es posible descargar el reporte en formato Excel, PDF o Word.  
 
 ![](icnv2.png)
+
