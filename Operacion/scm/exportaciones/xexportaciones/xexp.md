@@ -52,4 +52,3 @@ Para un mejor análisis, en la pestaña de conceptos se visualiza la liquidació
 
 ![](xexp5.png)
 
-m
