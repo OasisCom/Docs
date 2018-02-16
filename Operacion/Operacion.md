@@ -1530,3 +1530,11 @@ Se permite la visualización de registros que contienen adjuntos y/o comentarios
 ![](boton5.png)
 
 ![](boton6.png)
+
+## [Peso Dinámico](http://docs.oasiscom.com/Operacion/#peso-dinámico)
+
+El sistema OasisCom cuenta con la función de Peso Dinámico para las aplicaciones _IMOV, GMOV, QMOVV, LORD y FFAC_. La cual consiste en realizar una parametrización que permita que al insertar algún producto con varias cantidades en las aplicaciones dichas, realice automáticamente el cálculo del peso de todas las unidades y muestre allí dicho número.  
+
+
+
+
