@@ -1535,6 +1535,22 @@ Se permite la visualización de registros que contienen adjuntos y/o comentarios
 
 El sistema OasisCom cuenta con la función de Peso Dinámico para las aplicaciones _IMOV, GMOV, QMOVV, LORD y FFAC_. La cual consiste en realizar una parametrización que permita que al insertar algún producto con varias cantidades en las aplicaciones dichas, realice automáticamente el cálculo del peso de todas las unidades y muestre allí dicho número.  
 
+Para activar esta función es necesario tener activo en la aplicación **SEMP - Empresa** el check _DynamicWeight_, lo que indicará que el Peso Dinámico aplicará para todos los productos de la compañía.  
 
+![](semp.png)
 
+En la aplicación BPRO - Productos, en la pestaña _Características_, el producto debe tener parametrizado el peso para que el sistema pueda hacer el cálculo.  
 
+![](bpro.png)
+
+Al insertar el producto en el detalle de alguna de las aplicaciones (IMOV, GMOV, QMOVV, LORD y FFAC) de acuerdo al proceso que se esté realizando, y al dar Tab en el campo _Producto_ o _Cantidad_, el valor del campo _Peso_ se diligenciará automáticamente.  
+
+![](imov.png)
+
+Si por el contrario, el check _DynamicWeight_ no está activo en la aplicación **SEMP - Empresa**, al insertar varias cantidades de un producto en las aplicaciones anteriormente nombradas, el sistema mostrará por defecto el peso del producto por unidad.  
+
+![](semp1.png)
+
+Al insertar varias cantidades del producto.  
+
+![](imov1.png)
