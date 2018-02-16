@@ -160,3 +160,8 @@ Al procesar la factura, se podrá visualizar la actualización de la exportació
 
 ![](ffac11.png)
 
+# [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
+
+
+
+
