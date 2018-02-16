@@ -162,6 +162,29 @@ Al procesar la factura, se podrá visualizar la actualización de la exportació
 
 # [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
 
+Al generar una factura de venta se debe asignar una moneda con la cual se realizará la transacción. A dicha moneda, es posible parametrizarle el grupo de cuentas contables de las cuales dependerá. Las monedas se parametrizan en la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
+
+En el siguiente ejemplo crearemos una factura de venta con moneda 0 correspondiente a pesos colombianos. El campo _Moneda_ tiene un zoom que nos permite ver las monedas y seleccionar la necesaria.  
+
+![](ffac12.png)
+
+Zoom moneda  
+
+![](ffac13.png)
+
+Para consultar el grupo de cuentas contables de las cuales depende la moneda 0, ingresamos a la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon) y consultamos por moneda 0.  
+
+![](bmon.png)
+
+Podemos ver que la moneda 0 tiene asignado el grupo de cuentas 0. A continuación, para conocer las cuentas contables que tiene asociadas este grupo ingresamos a la opción [**BGRU - Grupos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru) y consultamos por el grupo 0. En el detalle, consultaremos por el código _CXC_ correspondiente a cuentas por cobrar y allí veremos la cuenta contable de la cual depende la moneda 0.  
+
+![](bgru.png)
+
+Este proceso también aplica para las facturas por compras, en donde el código de consulta será _CXP_ correspondiente a cuentas por pagar.  
+
+![](bgru1.png)
+
+
 
 
 
