@@ -9,9 +9,16 @@ editable: si
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 
-La plantilla de envío de facturas electrónicas contiene dos links que permiten _Aceptar_ o _Rechazar_ la factura. Igualmente, para cada acción se envía una plantilla de correo como respuesta.  
+La plantilla de envío de facturas electrónicas contiene tres links que permiten confirmar el recibido de la factura, _Aceptarla_ o _Rechazarla_. Igualmente, para cada acción se envía una plantilla de correo como respuesta.  
 
 ![](ebportal.png)
+
+Plantilla al confirmar el recibido de la factura.  
+
+![](ebportal3.png)
+
+![](ebportal4.png)
+
 
 Plantilla al _Aceptar_ una factura.  
 
@@ -20,3 +27,14 @@ Plantilla al _Aceptar_ una factura.
 Plantilla al _Rechazar_ una factura.  
 
 ![](ebportal2.png)
+
+## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
+
+El formato de factura electrónica que se envía al adquiriente contiene un Código QR, que le permitirá ver desde un dispositivo móvil los datos de la factura.  
+
+![](codigoqr.png)
+
+# [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)
+
+Generada la factura electrónica, el sistema enviará automáticamente un mensaje de texto al número del dispositivo móvil del cliente registrado en el sistema informando de la creación de la factura.  
+  

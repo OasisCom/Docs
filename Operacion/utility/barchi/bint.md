@@ -22,7 +22,7 @@ Estos dos últimos campos _Año y Id Formato_ es importe que coincidan con la in
 
 ![](BINT1.png)
 
-Ingresados los datos dar click en _Aceptar_, el sistema descargará el archivo seleccionado en un formato de Excel al cual se le deberá cambiar la extención del documento de _xlsx_ a _xls_, eliminando la última _x_. La información quedará en el mismo formato que lo exige la DIAN, dicho formato se puede validar en la página web de la entidad.  
+Ingresados los datos dar click en _Aceptar_, el sistema descargará el archivo seleccionado en un formato de Excel con extensión _xls_. La información quedará en el mismo formato que lo exige la DIAN, dicho formato se puede validar en la página web de la entidad.  
 
 Se debe tener en cuenta en el documento de Excel que se vaya a cargar a la DIAN, eliminar la columna en donde se indica el número del formato, puesto que, este número es interno del sistema OasisCom y no es necesario en la información que se vaya a enviar.  
 
@@ -264,6 +264,11 @@ Finalmente, se obtiene el mensaje del servicio de la DIAN donde se muestra que l
 
 ![](bint36.png)
 
+Enviadas las las facturas a la DIAN, el Status de cada factura cambiará a ser _Ejecutado_.  
+
+![](effac.png)
+
+
 # [Formatos reportes FT006 - FT010 - FT011](http://docs.oasiscom.com/Operacion/utility/barchi/bint#formatos-reportes-ft006---ft010---ft011)
 
 Archivos en formato XML los cuales muestran información correspondiente a los formatos FT006 - FT010 - FT011 de la superintendencia de salud.  
@@ -279,5 +284,23 @@ El sistema automáticamente asignará la operación _descargar_ y mostrará los 
 Al dar click en _Aceptar_, el sistema descargará la información del formato seleccionado.  
 
 ![](bint39.png)
+
+
+# [Certificado de Ingresos y Retenciones](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)
+
+Desde la aplicación BINT es posible realizar la exportación del formato **KX2276** de _Certificados de ingresos y retenciones_ de todos los empleados para su respectiva revisión y validación.  
+
+
+Ingresamos a la aplicación BINT y seleccionamos de _Publication_ el formato 2276 - KX2276. Esta lista cuenta con un campo de consulta, en donde podremos ingresar el nombre de la publicación deseada.  
+
+![](bint40.png)
+
+Seleccionada la publicación, se marcará automáticamente la operación _Download_ y seguidamente ingresaremos el año de consulta.  
+
+![](bint41.png)
+
+Damos click en el botón _Aceptar_ y el sistema automáticamente descargará un archivo xlsx con la información.
+
+![](bint42.png)
 
 

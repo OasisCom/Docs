@@ -141,3 +141,50 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Naturaleza:** Naturaleza de la cuenta contable.  
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
+
+# [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
+
+Este proceso permite enlazar en la opción **FFAC** el documento de exportación _XEXP_ para así poder terminar con el ciclo de la exportación.  
+
+Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicaicón FFAC para así ser facturado.  
+
+Documento EX en estado Activo con renglón en el detalle Procesado.  
+
+![](xexp.png)
+
+Asociamos la exportación en la factura, ingresando el documento, el número de consecutivo y la ubicación.  
+
+![](ffac10.png)
+
+Al procesar la factura, se podrá visualizar la actualización de la exportación en el renglón del detalle facturado en el campo Entregado y Estado.  
+
+![](ffac11.png)
+
+# [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
+
+Al generar una factura de venta se debe asignar una moneda con la cual se realizará la transacción. A dicha moneda, es posible parametrizarle el grupo de cuentas contables de las cuales dependerá. Las monedas se parametrizan en la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
+
+En el siguiente ejemplo crearemos una factura de venta con moneda 0 correspondiente a pesos colombianos. El campo _Moneda_ tiene un zoom que nos permite ver las monedas y seleccionar la necesaria.  
+
+![](ffac12.png)
+
+Zoom moneda  
+
+![](ffac13.png)
+
+Para consultar el grupo de cuentas contables de las cuales depende la moneda 0, ingresamos a la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon) y consultamos por moneda 0.  
+
+![](bmon.png)
+
+Podemos ver que la moneda 0 tiene asignado el grupo de cuentas 0. A continuación, para conocer las cuentas contables que tiene asociadas este grupo ingresamos a la opción [**BGRU - Grupos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru) y consultamos por el grupo 0. En el detalle, consultaremos por el código _CXC_ correspondiente a cuentas por cobrar y allí veremos la cuenta contable de la cual depende la moneda 0.  
+
+![](bgru.png)
+
+Este proceso también aplica para las facturas por compras, en donde el código de consulta será _CXP_ correspondiente a cuentas por pagar.  
+
+![](bgru1.png)
+
+
+
+
+
