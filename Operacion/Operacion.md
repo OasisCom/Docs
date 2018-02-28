@@ -494,6 +494,17 @@ Esta opción permite exportar datos a diferentes tipos de archivos.
 
 ![](exportar1.png)
 
+En la exportación de datos, cuando se desea exportar mas de 100.000 registros, por ejemplo,  el sistema mostrará la siguiente restricción:  
+
+![](exportar2.png)
+
+![](exportar3.png)
+
+Solo se permitirá la exportación en los  formatos TXT y CSV, esto con la finalidad de mejorar el rendimiento de la aplicación y optimizar los recursos en cuanto al consumo de memoria.  
+
+Se debe tener en cuenta que la restricción de la cantidad de registros a exportar dependerá del dominio, es decir, la cantidad de registros variará.  
+ 
+
 ### [Refrescar o Actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)
 
 Esta opción permite actualizar la información reflejada en la pantalla con base a lo que esté siendo actualizada y ésta cambia en el momento de la consulta.  
