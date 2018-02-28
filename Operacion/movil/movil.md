@@ -79,6 +79,44 @@ Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente co
 
 ![](movil2.png)
 
+## [Tableros de Control](http://docs.oasiscom.com/Operacion/movil/#tableros-de-control)
+
+La versión móvil de OasisCom cuenta con la funcionalidad de tableros de control para la visualización de indicadores al igual que en la versión web.  
+
+**Para sistemas operativos _Android_**
+
+Haciendo click en el menú _Home_ se podrán visualizar los tableros de control:  
+
+![](tablero.png)
+
+En el menú desplegable superior, se podrán elegir las opciones disponibles y así mismo el tablero se visualizará:  
+
+![](tablero1.png)
+
+Los tableros son dinámicos, por lo que permiten seleccionar el tipo de información de datos específicos haciendo click en ella. Esto aplica tanto para sistema operativo Android como para IOS.  
+
+![](tablero2.png)
+
+Si se desea recargar el tablero, en caso de que se haya actualizado información, el botón ![](carga.png) cumple con dicha funcionalidad.  
+
+**Para sistemas operativos _IOS_**
+
+Haciendo click en el menú _Home_ se podrán visualizar los tableros de control:  
+
+![](tablero3.png)
+
+En el menú desplegable superior, se podrán elegir las opciones disponibles y así mismo el tablero se visualizará:  
+
+![](tablero4.png)
+
+
+
+
+
+
+
+
+
 
 ## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/movil#editar-perfil-de-usuario)
 
