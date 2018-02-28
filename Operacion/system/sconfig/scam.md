@@ -43,7 +43,11 @@ El error parametrizado se mostrará al momento de guardar si no se cumple alguna
 
 ### Parametrización restricciones maestros tipo C
 
+Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
+
 ![](scam5.png)
+
+Validamos en la aplicación correspondiente, que el cambio se haya efectuado satisfactoriamente.  
 
 ![](scam6.png)
 
@@ -53,7 +57,11 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ### Parametrización detalles opciones tipo B y C
 
+Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
+
 ![](scam8.png)
+
+Validamos en la aplicación correspondiente, que el cambio se haya efectuado satisfactoriamente.  
 
 ![](scam9.png)
 
@@ -63,7 +71,11 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ### Parametrización Zoom
 
+Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
+
 ![](scam11.png)
+
+Validamos en la aplicación correspondiente, que el cambio se haya efectuado satisfactoriamente.  
 
 ![](scam12.png)
 
