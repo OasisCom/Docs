@@ -14,6 +14,4 @@ Ingresamos al reporte y filtramos por los datos de consulta deseados. En el sigu
 
 Damos click en el botón _Generar_ ![](actualizar.png).  
 
-![](irmc.png)
-
 ![](irmc1.png)
