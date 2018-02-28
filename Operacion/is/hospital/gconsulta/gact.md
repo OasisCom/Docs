@@ -9,6 +9,8 @@ editable: si
 
 En esta aplicación podemos registrar las diferentes actividades que se pueden encontrar en un hospital, veterinaria entre otros. Aqui vamos a explicar diferentes actividades que se pueden presentar en una veterinaria.  
 
+Al procesar el documento en el maestro, el sistema creará automáticamente la factura en la opción [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac)
+
 ![](MaestroGACT.png)
 
 ## [Guardería](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact#guardería)
