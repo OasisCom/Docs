@@ -18,3 +18,7 @@ Igualmente, la aplicación nos permite visualizar toda la información de un afi
 ![](ver.png)
 
 ![](ebaf1.png)
+
+En el detalle de la aplicación EBAF, la pestaña _Empleadores_ permite consultar el histórico de empleadores a los que el empleado se encontraba asociado.  
+
+![](ebaf2.png)
