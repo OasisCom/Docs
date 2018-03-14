@@ -22,3 +22,5 @@ Para parametrizar un costo por aduana, agregamos un nuevo renglón, diligenciamo
 **Concepto:** indicar el concepto de acuerdo al documento seleccionado anteriormente, al cual se le asocia el costo de aduana.  
 **Valor:** indicar el valor del costo.  
 **Moneda:** indicar la moneda en la cual se registra el costo de aduana.  
+
+Para continuar con el proceso de exportaciones, realizaremos la parametrización de fijaciones en la aplicación [**VFIJ - Fijaciones**](). (_Ver aplicación_)  

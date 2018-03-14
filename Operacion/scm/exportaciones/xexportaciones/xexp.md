@@ -9,10 +9,21 @@ editable: si
 
 La aplicación **XEXP** permite administrar las exportaciones de una compañía y realizar el respectivo seguimiento de las mismas.  
 
-Para agregar un nuevo documento de exportación, damos click en el botón _Agregar nueva fila_ ![](mas.png) y diligenciamos el formulario con los datos correspondientes a la exportación a realizar.  
+En el maestro, se debe crear un documento _EX (Exportaciones)_ con concepto _EX_. Para agregar un nuevo documento de exportación, damos click en el botón _Agregar nueva fila_ ![](mas.png) y diligenciamos el formulario con los datos correspondientes a la exportación a realizar.  
 
 
 ![](xexp.png)
+
+**Tercero:** Este campo debe ser el mismo que se ingresó en la opción VFIJ o VPED. 
+**BL:** Que corresponde al número de documento de transporte marítimo.  
+**Fecha Orden:** Corresponde a la fecha del contrato.  
+**Orden de Compra:** En este campo se debe ingresar el número de contrato u orden de compra correspondiente.
+**Forma de Pago:** Corresponde a la condición de pago. El campo es un ListBox para selección de opción. Este campo viene de la parametrización de la opción BFOR.  
+**Envío:** Corresponde a la fecha de embarque del producto .  
+
+
+
+
 
 En los campos _Documento1, Ubicación1 y Número1_ relacionaremos el pedido para exportación realizado previamente en la aplicación [**VPED - Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped).  
 
