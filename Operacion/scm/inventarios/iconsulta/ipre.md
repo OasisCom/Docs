@@ -24,7 +24,3 @@ En la tercera pestaña encontraremos la información correspondiente a las órde
 Finalmente, en la cuarta pestaña veremos los pedidos pendientes con ese producto.  
 
 ![](ipre3.png)
-
-
-
-
