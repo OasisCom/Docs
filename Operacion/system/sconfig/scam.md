@@ -11,7 +11,7 @@ La aplicación SCAM permite la configuración de reglas de negocio, control, tip
 
 ### Parametrizar nueva restricción
 
-Para parametrizar una nueva restricción, es necesario diligenciar el _programa_, el _tab_ al cual pertenece el campo (0 para el maestro y para los detalles el RowId de la parametrización del spro), el _nombre del campo_ (con la ayuda del comando Shift + F11), el _código del lenguaje_ (1 Ingles, 2 Español y 5 Portugues).  
+Para parametrizar una nueva restricción, es necesario diligenciar el _programa_, el _tab_ al cual pertenece el campo (0 para el maestro y para los detalles el RowId de la parametrización del spro), el _nombre del campo_ (con la ayuda del comando Shift + F11), el _código del lenguaje_ (1 Inglés, 2 Español y 5 Portugues).  
 
 ![](scam.png)
 
@@ -84,5 +84,53 @@ Validamos en la aplicación correspondiente, que el cambio se haya efectuado sat
 El error parametrizado se mostrará al momento de guardar en caso tal que no se cumpla alguna de las condiciones definidas.  
 
 ![](scam14.png)
+
+### [Parametrizar Valores por Defectos](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrizar-valores-por-defectos)
+
+Esta nueva funcionalidad permite declarar valores por defecto sobre campos (Listas, Fechas, Flags, etc) de aplicaciones de parametrización básica sin detalle como lo son: BBAN, BCOL. También para aplicaciones de parametrización que contengan detalle, como: BPRO, BTER, BDOC, BUBI, entre otras. Igualmente, para aplicaciones de movimientos o transacciones como lo son: CMOV, TMOV, KMOV, etc.  
+
+A continuación veámos algunos ejemplos.  
+
+* Configuración en aplicaciones de parametrización con sólo maestro y con maestro y detalle.  
+
+En el siguiente ejemplo para la aplicación BBAN - Bancos, definiremos que el campo llamado _Bank Code_ tríaga automáticamente el valor 100. Para ello, consultaremos en el campo _ProgramId_ la aplicación BBAN, seleccionamos el campo que deseamos parametrizar, en este caso _Bank Code_ e ingresamos el valor 100 en la columna _Default_. Damos click en el botón **Guardar** para salvar los cambios.  
+
+![](scam15.png)
+
+Al crear un nuevo registro en la opción BBAN, traerá el valor 100 en el campo _Bank Code_.  
+
+![](scam16.png)
+
+* Configuración en aplicaciones de movimientos.  
+
+En la aplicación GFAC - Facturas, definiremos que al crear un nuevo registro el check _QuotaCopayment_ esté activo. Para ello, igualmente consultamos la aplicación GFAC y seleccionamos el campo a parametrizar, allí en la columna _Default_ digitamos la palabra _true_.  
+
+![](scam17.png)
+
+Al crear un registro en la aplicación GFAC.  
+
+![](scam18.png)
+
+* Parametrización en el detalle de aplicaciones de movimientos.  
+
+Definiremos que al crear un renglón en el detalle de la aplicación GFAC- Facturas, el campo _Quantity_ tríga automáticamente el número 30.  
+
+![](scam19.png)
+
+Al crear un renglón en la aplicación GFAC.  
+
+![](scam20.png)
+
+* Parametrización en un Zoom.  
+
+Como ejemplo, parametrizaremos que al crear un cliente en la aplicación GFAC, el campo _ClientType_ traíga automáticamente el tipo _CÉDULA_.  
+
+Consultamos por la opción **ZGFAC** y seleccionamos el nombre del zoom a parametrizar. En el campo _Default_ ingresamos la letra **C** correspondiente a cédula.  
+
+![](scam22.png)
+
+Al crear un nuevo tercero en la aplicación GFAC.  
+
+![](scam21.png)
 
 
