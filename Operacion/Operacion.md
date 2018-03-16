@@ -520,6 +520,16 @@ Solo se permitirá la exportación en los  formatos TXT y CSV, esto con la final
 
 Se debe tener en cuenta que la restricción de la cantidad de registros a exportar dependerá del dominio, es decir, la cantidad de registros variará.  
  
+ ### [Restricción Exportación Reporte ](http://docs.oasiscom.com/Operacion/#restricción-exportación-reporte)
+
+Cuando se pretende exportar una cantidad demasiado grande de registros de un reporte, el sistema enseña el siguiente mensaje y adicionalmente, el botón de exportar no se muestra.  
+
+![](restricción.png)
+
+Cuando la cantidad de registros es pequeña, el botón de exportar si se muestra.  
+
+![](restricción1.png)
+
 
 ### [Refrescar o Actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)
 
