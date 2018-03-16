@@ -133,4 +133,6 @@ Al crear un nuevo tercero en la aplicación GFAC.
 
 ![](scam21.png)
 
+### [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
 
+Esta funcionalidad permite enseñar mensajes de error en los campos previamente parametrizados, mientras se esté editando un registro y no solamente cuando se de click en el botón _Guardar_.
