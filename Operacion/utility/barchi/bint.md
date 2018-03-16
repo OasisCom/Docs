@@ -303,7 +303,7 @@ Damos click en el botón _Aceptar_ y el sistema automáticamente descargará un 
 
 ![](bint42.png)
 
-# [Exportación de archivos .ZIP](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-.zip)
+# [Exportación de archivos .ZIP](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)
 
 Esta funcionalidad permite exportar archivos en lote desde la aplicación BINT de OasisCom en formato _.ZIP_.  
 
