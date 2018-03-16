@@ -12,3 +12,4 @@ editable: si
 ###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
 ###### [Propuesta Comercial POS](http://docs.oasiscom.com/Mercadeo/fichas/Propuesta Comercial_POS_plantilla_Version mercadeo.docx)
 ###### [Ficha-CRM](http://docs.oasiscom.com/Mercadeo/fichas/CRM-ficha.pdf)
+###### [descriptivo factura electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de Factura electrónica OasisCom.pdf)
