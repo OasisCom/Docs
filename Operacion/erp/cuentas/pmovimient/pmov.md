@@ -69,8 +69,20 @@ El detalle especifica las cuentas contables que se están afectando con el movim
 **Amortizado:** Número de veces que se amortizará el movimiento.  
 **Documento:** Tipo de documento registrado.  
 
+## [Documento equivalente](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#documento-equivalente)
 
+Este formato tiene como finalidad cumplir con las normas de ley que debe contener el documento y a su vez incluir las empresas que que asumen la retencion de ICA y fuente para el mismo.  
 
+Para definir el formato de Documento Equivalente en algún documento de la aplicación PMOV, previamente se debe realizar la parametrización en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n), en donde consultaremos el número de formato (_Ver aplicación_). Seguidamente, continuar con la parametrización correspondiente en [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n) en donde asingaremos el formato el documento (_Ver aplicación_).  
 
+Asignado el formato al documento de la aplicación PMOV, seleccionamos el registro del maestro y damos click en el botón _presentación preliminar_ de la barra de herramientas.  
 
+![](pmov6.png)
 
+![](pmov7.png)
+
+El documento equivalente puede ser extraído en formato de Excel, PDF o Word.  
+
+![](pmov8.png)
+
+![](pmov9.png)
