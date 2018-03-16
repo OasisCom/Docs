@@ -303,4 +303,24 @@ Damos click en el botón _Aceptar_ y el sistema automáticamente descargará un 
 
 ![](bint42.png)
 
+# [Exportación de archivos .ZIP](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-.zip)
 
+Esta funcionalidad permite exportar archivos en lote desde la aplicación BINT de OasisCom en formato _.ZIP_.  
+
+Para exportar los archivos en formato _.zip_, previamente se debe parametrizar la aplicación [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc) y [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub).  
+
+En la aplicación [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc) deben estar parametrizados los archivos.  
+
+![](bint43.png)
+
+En la aplicación [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub) se deben parametrizar las publicaciones, teniendo en cuenta que en  el maestro el campo **Zip** debe estar marcado y en el detalle se deben parametrizar los archivos que vendrán dentro del comprimido.  
+
+![](bint45.png)
+
+Finalmente, en la opción **BINT - Interfaces** se selecciona la publicación parametrizada en BPUB y automáticamente se diligenciará el campo _Operation_. Damos click en _Aceptar_ para que el archivo sea descargado.  
+
+![](bint46.png)
+
+Se descargará un archivo en formato _.zip_ con los archivos igualmente parametrizados en el detalle de la publicación en la opción BPUB.  
+
+![](bint47.png)
