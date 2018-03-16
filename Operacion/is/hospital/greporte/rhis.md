@@ -16,3 +16,7 @@ Para consultar, ingresamos el número de documento de identidad y damos click en
 El sistema arrojará un historíco de la información clínica del paciente. Esta información puede ser exportada en formato Excel, PDF o Word. Igualmente, está la posibilidad de imprimir directamente el reporte.  
 
 ![](rhis1.png)
+
+El reporte descargado en formato PDF.  
+
+![](rhis2.png)
