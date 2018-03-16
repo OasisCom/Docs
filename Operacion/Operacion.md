@@ -436,6 +436,22 @@ Esta opción permite imprimir la información que se está consultando en el mom
 
 ![](imprimir1.png)
 
+### [Impresión Directa](http://docs.oasiscom.com/Operacion/#impresión-directa)
+
+
+La funcionalidad de impresión directa permite la visualización de formatos de impresión una vez se procese cualquier movimiento en una ubicación específica.  
+
+Inicialmente, se debe activar en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) el check del campo **ConfirmPrinted** para la ubicación en donde se van a generar los movimientos.  
+
+
+![](imprimir7.png)
+
+Hecho esto, cada vez que se procese un movimiento que tenga asignada la ubicación en donde se parametrizó el check, se visualizarán los formatos de impresión si el usuario tiene permisos y si existen formatos parametrizados.  
+
+![](imprimir8.png)
+
+![](imprimir9.png)
+
 
 ### [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)
 
