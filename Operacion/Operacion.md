@@ -443,7 +443,6 @@ La funcionalidad de impresión directa permite la visualización de formatos de 
 
 Inicialmente, se debe activar en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) el check del campo **ConfirmPrinted** para la ubicación en donde se van a generar los movimientos.  
 
-
 ![](imprimir7.png)
 
 Hecho esto, cada vez que se procese un movimiento que tenga asignada la ubicación en donde se parametrizó el check, se visualizarán los formatos de impresión si el usuario tiene permisos y si existen formatos parametrizados.  
