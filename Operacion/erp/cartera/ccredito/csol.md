@@ -100,5 +100,6 @@ Recordemos que la característica **Tipos de garantía** debe estar previamente 
 
 ![](csol9.png)
 
+Procesada la solicitud de crédito, el siguiente paso es la _**Consolidación del crédito**_, para ello ingresamos en la aplicación [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac) (_Ver aplicaciòn_).  
 
 
