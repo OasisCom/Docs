@@ -61,5 +61,44 @@ En el eje Y:
 
 En el siguiente caso, nos indica que el tercero seleccionado tiene saldo en mora el mes de diciembre y el resto de los meses del año no ha tenido nungun tipo de movimiento.  
 
+# [Cartera Financiera]()
+
+Para realizar le proceso de cartera financiera, previamente debemos parametrizar las siguientes aplicaciones de OASISCOM.  
+
+ * [BCND - Condiciones de pago]() (_Ver aplicación_)
+ * [BPER - Periodos]() (_Ver aplicación_)
+ * [BGRU - Grupos]() (_Ver aplicación_)
+ * [BPRY - Proyectos]() (_Ver aplicación_)
+ * [WVAR - Variables]() (_Ver aplicación_)
+
+
+Parametrizadas las aplicaciones, iniciamos con la solicitud y aprobación del crédito. Toda solicitud de crédito independientemente la línea debe ser creada en la opción _CSOL_.  
+
+Ingresamos a la aplicación CSOL y creamos un nuevo crédito dando click en el botón **+**.  
+
+En la sección de _Información Básica_ ingresamos el motivo del crédito. Los demás datos son diligenciados automáticamente por el sistema.  
+
+![](csol5.png)
+
+**Tercero:** ingresar el número de identificación del solicitante.  
+**Proyecto:** dar doble click y seleccionar del zoom la línea de crédito.  
+**Valor:** ingresar el valor solicitado para el crédito.  
+
+Guardamos el formulario y dependiendo si el crédito requiere ser aprobado por el consejo, la persona autorizada debe ingresar al crédito en la aplicación CSOL y asignar el valor aprobado en el campo _**Aprobado**_, igualmente debe activar el check _**Aprobar**_. Finalmente, se debe procesar el registro dando click en el botón ![](procesar.png).  
+
+![](csol6.png)
+
+Si por el contrario, se tiene parametrizado para que el sistema calcule automáticamente el monto del crédito aprobado, al guardar el formulario debemos dar click en el botón _**Calculo Cupo**_ ubicado en la barra de herramientas, el cual calculará el línea el monto por el cual fue aprobada la solicitud dependiendo las variables asignadas a esa línea de crédito, ese valor será diligenciado automáticamente por el sistema en el campo _**Aprobado**_. Finalmente, se debe procesar el registro dando click en el botón ![](procesar.png).  
+
+![](csol7.png)
+
+En el detalle de la misma aplicación CSOL, se deben asociar los documentos que hagan parte de la garantía de crédito (hipoteca, fiador, pignoración, letra, entre otras).  
+
+![](csol8.png)
+
+Recordemos que la característica **Tipos de garantía** debe estar previamente parametrizada en la aplicación [**BCRC - Características**](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc). En donde en el detalle de la característica, asociamos los diferentes tipos de garantías.  
+
+![](csol9.png)
+
 
 
