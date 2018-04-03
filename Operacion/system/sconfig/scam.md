@@ -91,7 +91,7 @@ Esta nueva funcionalidad permite declarar valores por defecto sobre campos (List
 
 A continuación veámos algunos ejemplos.  
 
-* Configuración en aplicaciones de parametrización con sólo maestro y con maestro y detalle.  
+* _Configuración en aplicaciones de parametrización con sólo maestro y con maestro y detalle._  
 
 En el siguiente ejemplo para la aplicación BBAN - Bancos, definiremos que el campo llamado _Bank Code_ tríaga automáticamente el valor 100. Para ello, consultaremos en el campo _ProgramId_ la aplicación BBAN, seleccionamos el campo que deseamos parametrizar, en este caso _Bank Code_ e ingresamos el valor 100 en la columna _Default_. Damos click en el botón **Guardar** para salvar los cambios.  
 
@@ -101,7 +101,7 @@ Al crear un nuevo registro en la opción BBAN, traerá el valor 100 en el campo 
 
 ![](scam16.png)
 
-* Configuración en aplicaciones de movimientos.  
+* _Configuración en aplicaciones de movimientos._  
 
 En la aplicación GFAC - Facturas, definiremos que al crear un nuevo registro el check _QuotaCopayment_ esté activo. Para ello, igualmente consultamos la aplicación GFAC y seleccionamos el campo a parametrizar, allí en la columna _Default_ digitamos la palabra _true_.  
 
@@ -111,7 +111,7 @@ Al crear un registro en la aplicación GFAC.
 
 ![](scam18.png)
 
-* Parametrización en el detalle de aplicaciones de movimientos.  
+* _Parametrización en el detalle de aplicaciones de movimientos._  
 
 Definiremos que al crear un renglón en el detalle de la aplicación GFAC- Facturas, el campo _Quantity_ tríga automáticamente el número 30.  
 
@@ -121,7 +121,7 @@ Al crear un renglón en la aplicación GFAC.
 
 ![](scam20.png)
 
-* Parametrización en un Zoom.  
+* _Parametrización en un Zoom._  
 
 Como ejemplo, parametrizaremos que al crear un cliente en la aplicación GFAC, el campo _ClientType_ traíga automáticamente el tipo _CÉDULA_.  
 
@@ -132,6 +132,25 @@ Consultamos por la opción **ZGFAC** y seleccionamos el nombre del zoom a parame
 Al crear un nuevo tercero en la aplicación GFAC.  
 
 ![](scam21.png)
+
+* _Parametrización de valores "NULL" para campos tipo fecha._  
+
+Desde la opción SCAM, se permite la parametrización de  valores 'null' por defecto  en campos tipo fecha para todos los tipos de aplicaciones de OASISCOM.  
+
+Veamos un ejemplo, se parametriza en la opción SCAM un campo donde el valor por defecto sea "NULL", es decir, el campo se muestre en blanco.  
+
+![](scam23.png)
+
+Al abrir la opción donde se encuentra el campo parametrizado debe quedar el campo en blanco.  
+
+Anteriormente, la aplicación arrojaba automáticamente la fecha.  
+
+![](scam24.png)
+
+Después de realizar la parametrización, al crear un registro el campo aparecerá en blanco sin data.  
+
+![](scam25.png)
+
 
 ### [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
 
