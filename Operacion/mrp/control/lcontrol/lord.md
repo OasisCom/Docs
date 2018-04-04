@@ -28,31 +28,44 @@ Cuando ya se tienen los insumos correspondientes en la planta se inicia el contr
 ![](lord1.png)
 
 
-Al guardar el registro se visualiza que se diligencia automáticamente el detalle:
+Al guardar el registro se visualiza que se diligencia automáticamente el detalle:  
 
 
 ![](lord2.png)
 
+En la pestaña _PARADAS_ se registran los diferentes tipos de paradas existentes por orden. Los tipos de parada se parametrizan desde la opción [BCRC - Características](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc).  
 
-Posteriormente se procesa el registro
+En **BCRC** para la característica de paradas de producción se asocian en el detalle los tipos de parada que se pueden presentar en la producción y los cuales asociaremos en la aplicación LORD.  
+
+![](lord6.png)
+
+En la pestaña del detalle LORD agregamos un nuevc renglón y seleccionamos el tipo de parada presentado en la producción, la hora inicial y final y el producto al cual afectó. Guardamos el registro.  
+
+![](lord7.png)
+
+
+
+
+
+Posteriormente se procesa el registro  
 
 
 ![](lord3.png)
 
 
-Una vez procesado las pestañas de outputs se diligencia de acuerdo a los insumos con sus respectivas cantidades que se utilizaron para dicho producto:
+Una vez procesado las pestañas de outputs se diligencia de acuerdo a los insumos con sus respectivas cantidades que se utilizaron para dicho producto:  
 
 
 ![](lord4.png)
 
 
-Y la respectiva contabilización
+Y la respectiva contabilización  
 
 
 ![](lord5.png)
 
 
-Aquí finaliza el proceso de producción.
+Aquí finaliza el proceso de producción.  
 
 
 
