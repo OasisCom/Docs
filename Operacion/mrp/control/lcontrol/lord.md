@@ -33,6 +33,30 @@ Al guardar el registro se visualiza que se diligencia automáticamente el detall
 
 ![](lord2.png)
 
+En el campo _Calidad_ de la pestaña del detalle **Inputs**, se permite registrar por renglón varias fallas, causas y acciones e indicar el estado de la calidad. Estas se parametrizan en la aplicación [BCRC - Características](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc).  
+
+![](lord9.png)
+
+Parametrización en BCRC.  
+
+![](lord8.png)
+
+Para asignar la calidad al producto del renglón, damos doble click en el zoom del campo _Calidad_, en la ventana agregamos un nuevo renglón por medio del botón **+**. Seleccionamos de la lista desplegable la calidad del producto.  
+
+![](lord10.png)
+
+Seguidamente, si la calidad del producto tuvo algún defecto seleccionamos la falla, la causa y la acción que se tomó.  
+
+![](lord11.png)
+
+![](lord12.png)
+
+![](lord13.png)
+
+Finalmente, registradas las diferentes fallas que pudieron ocurrir en la producción, damos click en _Aceptar_ y guardamos el registro en el detalle. El sistema asignará la letra que representa la calidad asignada.  
+
+![](lord14.png)
+
 En la pestaña _PARADAS_ se registran los diferentes tipos de paradas existentes por orden. Los tipos de parada se parametrizan desde la opción [BCRC - Características](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc).  
 
 En **BCRC** para la característica de paradas de producción se asocian en el detalle los tipos de parada que se pueden presentar en la producción y los cuales asociaremos en la aplicación LORD.  
@@ -43,27 +67,17 @@ En la pestaña del detalle LORD agregamos un nuevc renglón y seleccionamos el t
 
 ![](lord7.png)
 
-
-
-
-
 Posteriormente se procesa el registro  
-
 
 ![](lord3.png)
 
-
 Una vez procesado las pestañas de outputs se diligencia de acuerdo a los insumos con sus respectivas cantidades que se utilizaron para dicho producto:  
-
 
 ![](lord4.png)
 
-
 Y la respectiva contabilización  
 
-
 ![](lord5.png)
-
 
 Aquí finaliza el proceso de producción.  
 
