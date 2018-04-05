@@ -89,6 +89,40 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 ![](jfac13.png)
 
+### [Cambio de campos con credenciales](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambio_de_campos_con_credenciales)
+
+Esta funcionalidad permite al usuario la modificación de los campos _Precio_, _% Descuento_ y _Descuento_ cuando dichos campos estén bloqueados, donde pedirá credenciales de usuario y permita la modificación de los mismos.  
+
+![](jfac24.png)
+
+##### Parametrización
+
+Para poder modificar dichos campos primero se debe realizar una parametrizacion en la opcion [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran), en donde por documento y por rol definimos que rangos de valores tiene permitido el usuario ingresar.   
+
+![](bran.png)
+
+El campo _Tipo_ tiene tres letras importantes con relación de los rangos permitidos en los campos, en donde consta de las siguientes caracteristicas:  
+
+**P:** Precio
+**D:** % Descuento
+**V:** Descuento (valor)
+
+Los campos de _Mínimo_ y _Máximo_ son los encargados de indicar los rangos permitidos que puede ingresar el rol asociado.  
+
+Seguidamente, en la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol), en el detalle en la pestaña _Campos_, definimos que campos no serán editables, con el fin de que cuando se abra la aplicación y se inserte o actualice algún valor de los campos parametrizados, podamos realizar el funcionamiento de cambio de valor.  
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### [Pestaña _Pago_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-pago)
 
 Permite realizar la modificación de la forma de pago de la factura, en el campo forma de pago se debe modificar la misma, puede ser efectivo, débito, crédito entre otros, esto se parametriza previamente en el sistema en la aplicación BFOR. Igualmente, en esta pestaña se puede consultar el valor de la factura y el impuesto del mismo.  
