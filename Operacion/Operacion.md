@@ -892,77 +892,57 @@ El sistema arrojará una ventana en la cual se deben diligenciar todos los campo
 
 **Destinatario**: Nombre del usuario destinatario, en este caso nombre del tercero al cual se le generó la orden de compra.  
 
-
-
-
-
 ![](envioemail6.png)
-
-
 
 **Correo**: Correo electrónico del usuario destinatario.
 
-
-
 ![](envioemail7.png)
-
-
-
-
 
 **Copia**: si es necesario enviar copia del correo electrónico a varios usuarios, cada correo electrónico debe ser separado por el signo punto y coma (;).  
 
-
-
 ![](envioemail8.png)
-
-
-
-
 
 **Asunto**: Describir el asunto del mensaje que se desea enviar.  
 
 **Mensaje**: Si se requiere se puede escribir un mensaje de acuerdo al proceso que se envía, este campo es opcional.  
 
-
-
 ![](envioemail9.png)
-
-
-
-
 
 **Adjuntos**: si se requiere enviar un documento anexo, damos clic en el botón elegir archivos y seleccionamos el documento que se desea adjuntar.  
 
-
-
 ![](envioemail10.png)
-
-
 
 El documento seleccionado aparecerá adjunto en la lista Archivos, seguidamente debemos dar clic en el botón Aceptar, confirmando el cargue de los documentos.  
 
-
-
 ![](envioemail11.png)
-
-
-
-
 
 Por último, damos clic en el botón Enviar y el sistema arrojará un mensaje de confirmación.  
 
-
-
 ![](envioemail12.png)
-
-
 
 Podemos confirmar el envío de la orden de compra y del documento adjunto en el correo destinatario.  
 
-
-
 ![](envioemail13.png)
+
+## [Envío de Reportes por Correo Electrónico](http://docs.oasiscom.com/Operacion/#envío-de-reportes-por-correo-electrónico)
+
+Esta funcionalidad permite enviar por correo electrónico un reporte exportado en formato **.txt** o **.csv** cuando la cantidad de registros excede el límite establecido.  
+
+Cuando la información del reporte no puede ser exportada directamente, el sistema mostrará el mensaje resaltado:
+
+![](correorep.png)
+
+Al seleccionar el botón ![](guardar2.png) se mostrarán las opciones de envío en los formatos definidos:  
+
+![](correorep1.png)
+
+Si el tamaño del archivo a enviar excede el límite, se mostrará el siguiente mensaje:  
+
+![](correorep2.png)
+
+Por el contrario, si el archivo cumple con las especificaciones será enviado al correo electrónico del usuario en cuestión:  
+
+![](correorep3.png)
 
 
 
@@ -973,76 +953,38 @@ Podemos confirmar el envío de la orden de compra y del documento adjunto en el 
 ## [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)
 
 
-
-
-
 En algunas opciones del sistema se podrán ingresar notas o comentarios a los documentos mediante el icono de chat o mensaje que se muestra a continuación, al seleccionar dicho icono se desplegará la siguiente ventana en donde permite ingresar las notas que el usuario desee:
-
-
 
 ![](notas.png)
 
-
-
-
-
 ![](notas1.png)
 
-
-
 De las misma manera varios usarios podrán realizar diferentes notas sobre el mismo documento y estos se lográn identificar fácilmente dado que en la parte superior de la nota se muestra el usuario.
-
-
 
 ![](notas2.png)
 
 
-
-
-
 ## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
-
-
 
 La funcionalidad _Notificaciones_ permite visualizar las notificaciones leídas o no leídas del usuario al igual que en el ícono se verá la cantidad de notificaciones sin leer.  
 
-
-
 ![](notificacion.png)
-
-
 
 Al desplegar el listado de notificaciones, se podrán ver todas aquellas que hayan sido recibidas sin importar que estén leídas, estas cargarán en grupos de 10 notificaciones hasta llegar al último mensaje.  
 
-
-
 ![](notificacion1.png)
-
-
 
 Al hacer click sobre alguna notificación, se desplegará una ventana con la información completa de la notificación. Si el mensaje contiene adjunto un hipervínculo se podrá acceder desde allí mismo.  
 
-
-
 ![](notificacion2.png)
-
-
 
 Las notificaciones nuevas o no leídas se verán de color azul en el listado y serán desmarcadas luego de hacer click sobre la misma.  
 
-
-
 ![](notificacion3.png)
-
-
 
 Para enviar un nuevo mensaje, damos click en la opción _Send new nofitication_, allí se desplegará una nueva ventana en donde ingresaremos el correo electrónico del destinatario y el mensaje.  
 
-
-
 ![](notificacion5.png)
-
-
 
 ![](notificacion4.png)
 
