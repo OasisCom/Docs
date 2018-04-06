@@ -111,17 +111,55 @@ Los campos de _Mínimo_ y _Máximo_ son los encargados de indicar los rangos per
 
 Seguidamente, en la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol), en el detalle en la pestaña _Campos_, definimos que campos no serán editables, con el fin de que cuando se abra la aplicación y se inserte o actualice algún valor de los campos parametrizados, podamos realizar el funcionamiento de cambio de valor.  
 
+![](jfac25.png)
 
+En campo renglón, indicar a que tab queremos afectar, es decir, el **Renglón 0** afectará al maestro y el **Renglon 1** al primer tab del detalle, y así con los que se deseen.  
 
+##### Proceso
 
+Una vez realizadas las parametrizaciones en las anteriores aplicaciones, vamos a verificar el funcionamiento en la opcion **JFAC - Facturas**.  
 
+En el siguiente ejemplo tomamos como referencia la factura: Documento: FA, Numero: 0, Almacen: 11.  
 
+![](jfac26.png)
 
+En el detalle que se ve editable, utilizaremos el campo de _Precio_, en donde el valor que actualmente tiene es de 123, ahora solo damos doble click sobre el campo y veremos que se muestra una modal solicitando credenciales de usuario.  
 
+La autenticación del usuario solicitará el usuario y su contraseña, el sistema lo que hará una vez demos click en el botón _Aceptar_ es validar que el usuario exista, este usuario puede ser cualquiera al que inició sesion en la aplicación.  
 
+![](jfac27.png)
 
+Haremos un ejemplo del funcionamiento, en donde ingresaremos datos erroneos.  
 
+![](jfac28.png)
 
+El mensaje de error sólo valida que el usuario exista, más no que la contraseña esté correcta, pues no es necesario realizar una serie de validaciones a fondo ya que no es un inicio de sesion normal a la aplicación.  
+
+![](jfac29.png)
+
+Si utilizamos un usuario existente y damos click en _Aceptar_, se mostrará el mensaje de **Usuario Válido**. Una vez el sistema autentica el usuario, se visualizará otra pestaña en donde podremos realizar el cambio del valor de nuestro campo.  
+
+![](jfac30.png)
+
+El valor que ingresaremos será 3.5, donde al ser el campo de _Precio_ este restará el valor digitado.  
+
+![](jfac31.png)
+
+El valor que estaba en el campo _Precio_ era de 123 y con el valor de 3.5 quedará a 119.5.  
+
+![](jfac32.png)
+
+En el campo **% Descuento**, ingresaremos un valor de 123 en donde saldrá un error indicando que el valor no se encuentra en el rango permitido y mostrará los rangos Minimos y Maximos en los que se puede modificar.  
+
+![](jfac33.png)
+
+Si ingresamos un valor entre los rangos permitidos, el sistema dejará ingresar el valor al detalle.  
+
+![](jfac34.png)
+
+![](jfac35.png)
+
+_**Nota:** En la opcion del BRAN - Rangos, se pueden parametrizar diferentes Rangos a diferentes Roles, pero si un usuario tiene más de un Rol, el sistema tomará el de menor jerarquía, es decir, si un usuario tiene el Rol 18, y el Rol 100, tomará la parametrización del Rol 18._  
 
 ### [Pestaña _Pago_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-pago)
 
