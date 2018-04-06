@@ -950,6 +950,7 @@ Por el contrario, si el archivo cumple con las especificaciones será enviado al
 
 
 
+
 ## [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)
 
 
