@@ -29,3 +29,7 @@ editable: si
 ##### [Versión 28](http://mailchi.mp/8846d360550a/version-oasiscom-1318341)
 ##### [Versión 29](http://mailchi.mp/8d2a91bc617c/version-oasiscom-1318329)
 ##### [Versión 30](http://mailchi.mp/74242c685ce9/version-oasiscom-1318377)
+##### [Versión 31](https://mailchi.mp/d6cbb72596bd/version-oasiscom-1318389)
+##### [Versión 32](https://mailchi.mp/9e895bbbe095/version-oasiscom-1318461)
+	
+
