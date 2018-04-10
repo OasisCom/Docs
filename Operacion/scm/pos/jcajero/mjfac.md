@@ -137,4 +137,5 @@ Si por el contrario, seleccionamos un documento que se encuentre en estado _Proc
 En MJFAC se permite trabajar varias facturas por medio de Tabs al tiempo.  
 
 ![](mjfac27.png)
->>>>>>> origin/master
+
+## [Modificación de Precio y Descuento]()
