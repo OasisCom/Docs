@@ -138,4 +138,12 @@ En MJFAC se permite trabajar varias facturas por medio de Tabs al tiempo.
 
 ![](mjfac27.png)
 
-## [Modificación de Precio y Descuento]()
+## [Modificación de Precio y Descuento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#modificación-de-precio-y-descuento)
+
+El usuario tiene la opción de modificar los campos _Precio_ y _Descuento_, para ello, el sistema solicitará credenciales del administrador del sistema.  
+
+
+
+Primero modificaremos el campo _Precio, en donde inicialmente este con el valore de 13.850.00, para esto necesitamos validar nuestro usuario, damos clic en el valor del precio, y mostrara la ventana donde solicitara Usuario y Contraseña
+
+
