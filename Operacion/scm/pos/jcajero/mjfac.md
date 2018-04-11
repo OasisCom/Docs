@@ -142,8 +142,27 @@ En MJFAC se permite trabajar varias facturas por medio de Tabs al tiempo.
 
 El usuario tiene la opción de modificar los campos _Precio_ y _Descuento_, para ello, el sistema solicitará credenciales del administrador del sistema.  
 
+Primero modificaremos el campo **_Precio_**, en donde inicialmente el valor es 13.850.00, para esto necesitamos validar nuestro usuario, damos click en el valor del precio y mostrará la ventana donde solicitará _Usuario_ y _Contraseña_.  
+
+![](mjfac29.png)
+
+Luego ingresamos el valor **5** y damos en _Aceptar_.  
+
+![](mjfac30.png)
+
+Y como vemos en la siguiente imagen el valor ha cambiado de acuerdo al valor que hemos ingresado, recordemos que el campo de _Precio_, al ingresar un valor es restado.  
+
+![](mjfac31.png)
+
+Ahora realizaremos el mismo proceso pero con el valor del **_Descuento_**, para ello realizamos el mismo proceso de dar click en el valor del campo y luego ingresamos nuestras credenciales, en este ejemplo digitaremos un valor de 10 referente a 10%.  
+
+![](mjfac32.png)
+
+Y como vemos el valor se ha modificado tanto en el producto como en el detalle de pago.  
+
+![](mjfac33.png)
 
 
-Primero modificaremos el campo _Precio, en donde inicialmente este con el valore de 13.850.00, para esto necesitamos validar nuestro usuario, damos clic en el valor del precio, y mostrara la ventana donde solicitara Usuario y Contraseña
+
 
 
