@@ -42,6 +42,3 @@ En el detalle de la aplicación se muestran específicamente cada uno de los mov
 **Total Débito:** Valor numérico del débito del movimiento que está afectando el saldo.  
 **Total Crédito:** Valor numérico del crédito del movimiento que está afectando el saldo.  
 **Observación:**  permite registrar información adicional a la causación.  
-
-
-
