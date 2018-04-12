@@ -18,3 +18,7 @@ En el ejemplo anterior, consultamos el periodo 4 (abril), año 2018, centro de c
 El sistema arrojará un reporte con la ejecución presupuestal del centro de costo 1 como lo indicamos en la consulta.  
 
 ![](qrce1.png)
+
+El reporte puede ser descargado en formato Word, PDF o Excel.  
+
+![](qrce2.png)
