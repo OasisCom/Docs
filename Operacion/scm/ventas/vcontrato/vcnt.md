@@ -7,6 +7,8 @@ editable: si
 
 # Contratos de Venta - VCNT
 
+La aplicación VCNT permite realizar el registro de los contratos de venta.  
+
 ![](vcnt1.png)
 
 **Documento:** doble clic y seleccionar tipo de documento CV – Contratos de venta.  
@@ -18,7 +20,6 @@ editable: si
 **Nombre Tercero:** nombre del tercero al que se le realizará el contrato.  
 **Estado:** Estado del contrato: Activo, Procesado, Anulado.  
 
-
 ![](vcnt2.png)
 
 **Vendedor:** identificación numérica del vendedor.  
@@ -28,7 +29,6 @@ editable: si
 **Initial Date:** fecha inicial del contrato.  
 **Fecha final:** fecha final del contrato.  
 **Moneda:** moneda en la que se acuerda el contrato.  
-
 
 ![](vcnt3.png)
 
@@ -49,7 +49,7 @@ editable: si
 **Total:** suma del subtotal más el impuesto.  
 **Retención:** valor de retención (si aplica).  
 
-La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamada Detalle en la cual se puede observar información más explícita del contrato seleccionado.
+La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamada _Detalle_ en la cual se puede observar información más explícita del contrato seleccionado.
 
 ![](vcnt5.png)
 
@@ -63,12 +63,20 @@ La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamad
 **Estado:** Estado del contrato: Activo, Procesado, Anulado.  
 **Tipo Contrato:** según tipo de contrato: Venta, arriendo.  
 
-
 ![](vcnt6.png)
 
 **ProductPurchaseId:** Identificación del producto de compra.  
 **Vencimiento:** Fecha de vencimiento del producto.  
 **Tipo Precio:** doble clic y seleccionar tipo de precio.  
+
+Los datos de los campos _Tipo de periodo_, _Duración_, _Ejecutado_, _Última Factura_ y _Próxima Factura_ se toman de cada renglón del detalle, ya que se puede tener un mismo contrato con renglones de productos y servicios con diferentes vigencias de facturación pero con un solo contrato (suscripción).  
+
+![](vcnt7.png)
+
+
+
+
+
 
 
 
