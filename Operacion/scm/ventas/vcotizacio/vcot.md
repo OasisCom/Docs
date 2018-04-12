@@ -67,4 +67,18 @@ La aplicación **VCOT** Cotizaciones cuenta con un detalle.
 **Observación:** Observaciones acerca del producto cotizado.  
 **Estado:** Estado Activo, Procesado o Anulado de la cotización.  
 
+## [Cálculo de precio bajo márgenes](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cálculo-de-precio-bajo-márgenes)
 
+Al realizar una cotización, la aplicación permite calcular automáticamente el precio del producto o servicio con sólo ingresar el costo base y el porcentaje de margen.  
+
+En el maestro se debe crear la cotización con documento CT e ingresar la demás información como se explica en la parte superior de este documento. En el detalle, agregamos un nuevo renglón y seleccionamos del zoom el producto o servicio a cotizar, ingresamos las cantidades, el precio base (costo) y el porcentaje de margen que aplica al producto. Seguidamente, damos click en el botón **Guardar** y con esto el sistema calculará el precio final.  
+
+![](vcot6.png)
+
+Al guardar el registro evidenciamos que el sistema asignó el precio del producto de acuerdo al costo y al porcentaje de margen ingresados.  
+
+![](vcot7.png)
+
+Finalmente, se debe procesar la cotización desde el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas del maestro.  
+
+![](vcot8.png)
