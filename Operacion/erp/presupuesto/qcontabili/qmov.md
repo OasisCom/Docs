@@ -37,12 +37,4 @@ Presupuestadas todas las cuentas contables definidas se deberá procesar el pres
 
 ![](qmov2.png)
 
-
-
-
-
-
-
-
-
-
+En la aplicación [QRCE - Ejecución presupuestal - Centro de Costo](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcreporte/qrce) se consulta la ejecución del presupuesto registrado en QMOV.  
