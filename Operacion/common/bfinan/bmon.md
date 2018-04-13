@@ -5,7 +5,7 @@ permalink: /Operacion/common/bfinan/bmon
 editable: si
 ---
 
-# Mmonedas - BMON
+# Monedas - BMON
 
 La aplicación **BMON** Monedas, permite registrar los diferentes tipos de monedas que se utilizarán en las operaciones de la empresa.  
 
