@@ -7,7 +7,7 @@ editable: si
 
 ## EASEG - Monitoreo de Casos
 
-Para hacer seguimiento a los casos de soporte reportados desde la aplicación [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/asop) en el sistema OasisCom, ingresaremos a la aplicación **ASEG - Monitoring Cases**, en donde se podrán observar las etapas en las que se encuentra el caso reportado. Para ingresar a esta aplicación hay dos opciones:  
+Para hacer seguimiento a los casos de soporte reportados desde la aplicación [**EACAS - Colocar Casos de Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/eacas) en el sistema OasisCom, ingresaremos a la aplicación **ASEG - Monitoring Cases**, en donde se podrán observar las etapas en las que se encuentra el caso reportado. Para ingresar a esta aplicación hay dos opciones:  
 
  * Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASEG.  
 
