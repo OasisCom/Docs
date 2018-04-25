@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colocar Casos de Soporte
-permalink: /Operacion/system/sacceso/eacas
+permalink: /Operacion/crm/portal/cliente/eacas
 editable: si
 ---
 
