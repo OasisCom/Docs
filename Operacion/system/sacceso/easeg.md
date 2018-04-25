@@ -7,20 +7,15 @@ editable: si
 
 ## EASEG - Monitoreo de Casos
 
-Para hacer seguimiento a los casos de soporte reportados desde la aplicación [**EACAS - Colocar Casos de Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/eacas) en el sistema OasisCom, ingresaremos a la aplicación **ASEG - Monitoring Cases**, en donde se podrán observar las etapas en las que se encuentra el caso reportado. Para ingresar a esta aplicación hay dos opciones:  
+Para hacer seguimiento a los casos de soporte reportados desde la aplicación [**EACAS - Colocar Casos de Soporte**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas) en el sistema OasisCom, ingresaremos a la aplicación **EASEG - Monitoreo de Casos**, en donde se podrán observar las etapas en las que se encuentra el caso reportado.  
 
- * Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASEG.  
+Ingresamos a la aplicación consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, EASEG.  
 
-![](ASEG1.png)
-
- * Dando click en el nombre del usuario, ubicado en la parte superior derecha de la pantalla, se desplegará una ventana con diferentes opciones, allí seleccionaremos la pestaña de _Soporte_ y seguidamente la opción _Seguimiento_.  
-
-![](ASEG2.png)
-
-Ubicados en la aplicación **ASEG** consultamos por el número de caso arrojado en la aplicación [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/asop) y damos _Enter_.  
-
-![](ASEG3.png)
-
-En el detalle, irán apareciendo las etapas en que se encuentra el caso de soporte cargado una vez sea asignado a un técnico por parte de OasisCom, igualmente, cada etapa estará acompañada de una descripción de lo que se hizo en esta. La persona delegada por el cliente como contacto con el soporte de OasisCom, recibirá correos electrónicos donde se informará del cambio de etapa.  
+![](EASEG.png)
 
 
+Ubicados en la aplicación **EASEG** consultamos por el número de caso arrojado en la aplicación [**EACAS - Colocar Casos de Soporte**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas) y damos _Enter_.  
+
+![](easeg1.png)
+
+En el detalle, irán apareciendo las etapas en que se encuentra el caso de soporte cargado una vez sea asignado a un técnico por parte de la empresa, igualmente, cada etapa estará acompañada de una descripción de lo que se hizo en esta. La persona delegada por el cliente como contacto con el soporte de la empresa, recibirá correos electrónicos donde se informará del cambio de etapa.  
