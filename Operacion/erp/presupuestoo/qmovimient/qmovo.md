@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presupuesto
-permalink: /Operacion/erp/presupuesto/
+title: Movimientos de Presupuesto Oficial
+permalink: /Operacion/erp/presupuestoo/qmovimient/qmovo
 editable: si
 ---
 

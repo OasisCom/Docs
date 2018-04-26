@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presupuesto
-permalink: /Operacion/erp/presupuesto/
+title: Presupuesto Documentos
+permalink: /Operacion/erp/presupuestoo/qconsulta/qdoc
 editable: si
 ---
 

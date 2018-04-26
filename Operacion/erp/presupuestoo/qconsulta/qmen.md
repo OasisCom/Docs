@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presupuesto
-permalink: /Operacion/erp/presupuesto/
+title: Presupuesto Mensual
+permalink: /Operacion/erp/presupuestoo/qconsulta/qmen
 editable: si
 ---
 
