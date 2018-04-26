@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presupuesto Oficial
-permalink: /Operacion/erp/presupuestoo
+permalink: /Operacion/erp/presupuestoo/
 editable: si
 ---
 
