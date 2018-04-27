@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kardex por Cliente
-permalink: /Operacion/scm/inventarios/ibasica/iconsulta/icsl
+permalink: /Operacion/scm/inventarios/iconsulta/icsl
 editable: si
 ---
 

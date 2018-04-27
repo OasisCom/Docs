@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Productos Empresas
-permalink: /Operacion/scm/inventarios/ibasica/iconsulta/ipre
+permalink: /Operacion/scm/inventarios/iconsulta/ipre
 editable: si
 ---
 

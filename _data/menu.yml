@@ -433,14 +433,67 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/erp/presupuestoo/qbasica/
+              subitems:
+              - text: Partidas Presupuestales
+                url: /Operacion/erp/presupuestoo/qbasica/qpar
+              - text: Objetos de Gasto
+                url: /Operacion/erp/presupuestoo/qbasica/bobg
+              - text: Tipos de Presupuesto
+                url: /Operacion/erp/presupuestoo/qbasica/qtip
+              - text: Fuentes
+                url: /Operacion/erp/presupuestoo/qbasica/bfon
             - text: Movimientos
               url: /Operacion/erp/presupuestoo/qmovimient/
+              subitems:
+              - text: Movimientos de Presupuesto Oficial
+                url: /Operacion/erp/presupuestoo/qmovimient/qmovo
+              - text: Consultas de Movimientos
+                url: /Operacion/erp/presupuestoo/qmovimient/qmcmo
+              - text: Solicitudes
+                url: /Operacion/erp/presupuestoo/qmovimient/qsol
+              - text: Anteproyecto Oficial
+                url: /Operacion/erp/presupuestoo/qmovimient/qant
             - text: Consultas
               url: /Operacion/erp/presupuestoo/qconsulta/
+              subitems:
+              - text: Presupuesto Anual
+                url: /Operacion/erp/presupuestoo/qconsulta/qanu
+              - text: Presupuesto Mensual
+                url: /Operacion/erp/presupuestoo/qconsulta/qmen
+              - text: Presupuesto Documentos
+                url: /Operacion/erp/presupuestoo/qconsulta/qdoc
+              - text: Plan de Compras
+                url: /Operacion/erp/presupuestoo/qconsulta/qcom
             - text: Procesos Especiales
               url: /Operacion/erp/presupuestoo/qproceso/
+              subitems:
+              - text: Presupuesto Documentos Cierre
+                url: /Operacion/erp/presupuestoo/qproceso/qdca
+              - text: Cierre Presupuestal
+                url: /Operacion/erp/presupuestoo/qproceso/qpcr
             - text: Reportes
               url: /Operacion/erp/presupuestoo/qreporte/
+              subitems:
+              - text: Apropiacion CXP
+                url: /Operacion/erp/presupuestoo/qreporte/qranc
+              - text: Apropiacion de la Vigencia
+                url: /Operacion/erp/presupuestoo/qreporte/qram
+              - text: Apropiacion de la Vigencia
+                url: /Operacion/erp/presupuestoo/qreporte/qram1
+              - text: Apropiacion Ingresos
+                url: /Operacion/erp/presupuestoo/qreporte/qrami
+              - text: Apropiacion Reservas
+                url: /Operacion/erp/presupuestoo/qreporte/qrarn
+              - text: Saldos Documentos Pto
+                url: /Operacion/erp/presupuestoo/qreporte/qrda
+              - text: Saldos Documentos Pto
+                url: /Operacion/erp/presupuestoo/qreporte/qrda1
+              - text: Ejecucion de Gastos (SCHIP)
+                url: /Operacion/erp/presupuestoo/qreporte/qrp1
+              - text: Plan de Compras
+                url: /Operacion/erp/presupuestoo/qreporte/qrpc1
+              - text: Resumen de Movimientos
+                url: /Operacion/erp/presupuestoo/qreporte/qrrm
         - text: Asociados
           url: /Operacion/erp/asociados/
           subitems:
@@ -778,6 +831,13 @@
                 url: /Operacion/scm/inventarios/isaldo/ispl
               - text: Saldos por Localizacion y Marca
                 url: /Operacion/scm/inventarios/isaldo/ispm
+            - text: Consultas
+              url: /Operacion/scm/inventarios/iconsulta/
+              subitems:
+              - text: Productos por Empresa
+                url: /Operacion/scm/inventarios/iconsulta/ipre
+              - text: Kardex por Cliente
+                url: /Operacion/scm/inventarios/iconsulta/icsl
             - text: Movimientos
               url: /Operacion/scm/inventarios/imovimient/
               subitems:
@@ -1236,6 +1296,11 @@
         - text: Costos
           url: /Operacion/mrp/costos/
           subitems:
+            - text: Datos Basicos
+              url: /Operacion/mrp/costos/ubasica/
+              subitems:
+              - text: Niveles de Costos
+                url: /Operacion/mrp/costos/ubasica/ubni
             - text: Costos Estandar
               url: /Operacion/mrp/costos/uestandar/
               subitems:
