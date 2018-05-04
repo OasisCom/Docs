@@ -14,3 +14,4 @@ editable: si
 ###### [Ficha-CRM](http://docs.oasiscom.com/Mercadeo/fichas/CRM-ficha.pdf)
 ###### [descriptivo factura electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de Factura electrónica OasisCom.pdf)
 ###### [Implementación y Soporte](http://docs.oasiscom.com/Mercadeo/fichas/Implementación y Soporte 2018.pdf)
+###### [Proveedor Tecnológico de factura electrónica- Resolución DIAN 003100 ](http://docs.oasiscom.com/Mercadeo/fichas/Resolución Dian 0031000.pdf)
