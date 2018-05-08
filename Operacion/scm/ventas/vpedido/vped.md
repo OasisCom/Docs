@@ -12,6 +12,7 @@ Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los 
 
 ![](vped1.png)
 
+
 **Documento:** PD de pedido.  
 **Número:** consecutivo generado automáticamente.  
 **Ubicación:** Número de ubicación de la empresa la cual realiza el documento.  
@@ -69,6 +70,7 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **Total:** Valor total del pedido.  
 **Bodega:** Bodega de donde proviene el producto.  
 **Fecha Entrega:** Fecha de entrega del pedido.  
+**Control:** Permite controlar el inventario por un número de control, es decir, como un identificador.
 
 ## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
 
