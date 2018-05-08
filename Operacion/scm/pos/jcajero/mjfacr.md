@@ -23,7 +23,7 @@ Otras de las caracteristicas es que permite categorizar los productos, esto basa
 
 ![](mjfacr2.png)
 
-Al seleccionar los productos del pedido, damos click en el botón _Ordenar_ y el sistema arrojará un mensaje indicado que la orden se realizó correctamente, además la factura quedará procesada. Si se desea agregar otro producto a la orden, se debe reversar la factura y agregarlo.  
+Al seleccionar los productos del pedido, damos click en el botón _Ordenar_ y el sistema arrojará un mensaje indicando que la orden se realizó correctamente, el sistema enviará la impresión al equipo correspondiente.  
 
 ![](mjfacr3.png)
 
