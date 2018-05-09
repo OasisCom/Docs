@@ -86,3 +86,30 @@ El documento equivalente puede ser extraído en formato de Excel, PDF o Word.
 ![](pmov8.png)
 
 ![](pmov9.png)
+
+
+### [Vista previa con información  presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+
+Esta vista previa permite visualizar la información de la cuenta por pagar y adicionalmente conocer la afectación presupuestal.  
+
+Para realizar la parametrización de este formato primero debemos ingresar a la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n) para consultar el Id del formato presupuestal y asignarlo al documento CP. (_Ver aplicación SPRO_).  
+
+Realizada la parametrización, al seleccionar un registro de documento **CP** en la aplicación **PMOV** y dar click en el botón _Vista preliminar_ podremos ver la afectación de la cuenta por pagar a nivel contable y en la parte inferior la afectación presupuestal.  
+
+![](pmov10.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
