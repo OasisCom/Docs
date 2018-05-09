@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calendario de Usuario
-permalink: /Operacion/is/hospital/gcita/mgcal
+permalink: /Operacion/system/sacceso/mgcal
 editable: si
 ---
 
