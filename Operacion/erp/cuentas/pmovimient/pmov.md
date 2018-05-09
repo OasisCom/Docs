@@ -88,7 +88,7 @@ El documento equivalente puede ser extraído en formato de Excel, PDF o Word.
 ![](pmov9.png)
 
 
-### [Vista previa con información  presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+### [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
 
 Esta vista previa permite visualizar la información de la cuenta por pagar y adicionalmente conocer la afectación presupuestal.  
 
