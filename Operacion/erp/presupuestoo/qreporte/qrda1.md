@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saldo Documento Pto. 
+title: Saldo Documento Pto. Anualizado
 permalink: /Operacion/erp/presupuestoo/qreporte/qrda1
 editable: si
 ---
@@ -8,16 +8,12 @@ editable: si
 # QRDA1 - Saldos Documento Pto. Anualizado
 
 
-El reporte QRCT permite ver un informe de ejecución de pagos por unidad de negocio.
+El reporte QRDA1 permite ver un informe de los saldos por documentos anualizado.
 
-Ingresamos a la aplicación, filtramos por año y seleccionamos instancia: pagado o compromiso. Damos click en el botón _Generar_.  
+Ingresamos a la aplicación, filtramos por las características necesarias y damos click en el botón _Generar_.  
 
-![](qrct.png)
+![](qrda11.png)
 
 El reporte puede ser descargado en formato Excel, PDF y Word.   
 
-![](qrct1.png)
-
-_Reporte en formato Excel_.  
-
-![](qrct2.png)
+![](qrda12.png)
