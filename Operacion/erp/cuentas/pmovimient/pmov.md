@@ -97,19 +97,3 @@ Para realizar la parametrización de este formato primero debemos ingresar a la 
 Realizada la parametrización, al seleccionar un registro de documento **CP** en la aplicación **PMOV** y dar click en el botón _Vista preliminar_ podremos ver la afectación de la cuenta por pagar a nivel contable y en la parte inferior la afectación presupuestal.  
 
 ![](pmov10.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
