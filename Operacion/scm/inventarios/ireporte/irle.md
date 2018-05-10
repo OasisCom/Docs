@@ -20,3 +20,5 @@ El reporte puede ser descargado en formato de Excel, PDF o Word.
 Reporte en formato PDF.  
 
 ![](irle4.png)
+
+
