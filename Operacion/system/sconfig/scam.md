@@ -155,3 +155,38 @@ Después de realizar la parametrización, al crear un registro el campo aparecer
 ### [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
 
 Esta funcionalidad permite enseñar mensajes de error en los campos previamente parametrizados, mientras se esté editando un registro y no solamente cuando se de click en el botón _Guardar_.
+
+
+## [Parametrización de Zoom](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrización-de-zoom)
+
+En el campo _Zoom_ de la opción SCAM se parametrizan los zoom teniendo en cuenta lo siguiente:  
+
+**1.** Existen 4 tipos de Zoom:  
+
+ * ZoomOneByOne = 'N' (Zoom Normal)  
+ * ZoomMultiAdd = 'M' (Zoom que adiciona el registro seleccionado -- Eje: Zoom DocumentId1 de la opción ACAT)  
+ * ZoomCrud     = 'C' (Zoom con el crud normal: crear, eliminar y editar -- Eje: Zoom LotId de la opción IMOV)  
+ * ZoomAdditive = 'A' (Zoom que solo crea el registro -- Eje: Zoom "Crear tercero" del GFAC al dar click derecho)  
+
+**2.**  El campo donde se parametrizan los zoom es en el campo _Zoom_ del **SCAM** y este es en leguaje JSON.  
+
+![](scam26.png)
+
+**3.** Hay que tener en cuenta las 3 variables que recibe el JSON.  
+
+ * zoomType = 'N' o 'M' o 'C' o 'A' segun el caso
+ * Caption = El Label que aparecera en la lista
+ * ModelZoom = El nombre del modelo del Zoom.
+
+**4.** El JSON se hará de la siguiente manera.  
+
+	[{zoomType:'N',Caption:'ConsultaZoomTest', ModelZoom:'DocumentZoom'}]  
+
+**5.** Si se quiere agregar otro Zoom al mismo campo, se cierra el corchete ({}) se pone la coma (,) y se vuelve abrir el corchete ({}).  
+
+	   [{zoomType:'N',Caption:'ConsultaZoomTest', ModelZoom:'DocumentZoom'},
+          {zoomType:'M',Caption:'MultiEventActivityTest',ModelZoom:'EventActivityZoom'}]  
+
+![](scam27.png)  
+
+![](scam28.png)
