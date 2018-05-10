@@ -13,5 +13,10 @@ El reporte **IRLE** muestra la lista de empaque sin valorizacion. En este report
 
 ![](irle2.png)
 
+El reporte puede ser descargado en formato de Excel, PDF o Word.  
 
 ![](irle3.png)
+
+Reporte en formato PDF.  
+
+![](irle4.png)
