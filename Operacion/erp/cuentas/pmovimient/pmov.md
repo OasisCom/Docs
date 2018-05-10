@@ -97,3 +97,42 @@ Para realizar la parametrización de este formato primero debemos ingresar a la 
 Realizada la parametrización, al seleccionar un registro de documento **CP** en la aplicación **PMOV** y dar click en el botón _Vista preliminar_ podremos ver la afectación de la cuenta por pagar a nivel contable y en la parte inferior la afectación presupuestal.  
 
 ![](pmov10.png)
+
+
+## [Causaciones con Administración, Imprevistos y Utilidad](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causaciones-con-administración-,-imprevistos-y-utilidad)
+
+El proceso de causaciones con Administración, Imprevistos y Utilidad, tiene la finalidad de realizar el cálculo de impuestos para los servicios que lo requieran.
+
+#### Parametrización
+
+Para este proceso se debe inicialmente crear un impuesto tipo AIU en la aplicación [**BIMP - Impuestos**](http://docs.oasiscom.com/Operacion/common/bimpu/bimp).  
+
+En el detalle se debe agregar un renglón por cada porcentaje de impuesto.  
+
+![](pmov11.png)
+
+Seguidamente, tendremos que relacionar el anterior impuestos a un grupo de impuesto en la opción [**BTIM - Tipos de Impuestos**](http://docs.oasiscom.com/Operacion/common/bimpu/btim).  
+
+Relacionamos el impuesto _19 Administración, imprevistos y utilidad_ al tipo de impuesto correspondiente.  
+
+![](pmov12.png)
+
+En el campo _Renglón_ del detalle debemos traer el número del renglón que corresponda al porcentaje que se requiere asociar. En el anterior ejemplo asociamos el renglón **1** equivalente a **AIU 10%**.  
+
+**_Nota:_** Se debe tener en cuenta que para movimientos del producto ERP (Financiero) el sistema tomará el impuesto de acuerdo con el tercero y para movimientos del producto SCM (Logística) el sistema tomará el impuesto de acuerdo con el producto.  
+
+#### Proceso de Causación
+
+Ahora procedemos a realizar en PMOV la causación de un servicio con impuesto _AIU Administración, Imprevistos y Utilidad_.  
+
+Como la causación se realizará a un servicio correspondiente a ERP, en la aplicación **BTER - Terceros**, el tercero debe tener asignado el tipo de impuesto.  
+
+![](pmov13.png)
+
+En PMOV, creamos la causación de la cuenta por pagar, en el siguiente ejemplo está por un valor de $800.000.  
+
+En el detalle, podemos ver que tomó como base de retención $80.000, es decir, el 10% de $800.000. Recordando que asignamos el renglón **1** correspondiente a **AIU 10%**
+
+![](pmov14.png)
+
+Finalmente procesamos el movimiento.  
