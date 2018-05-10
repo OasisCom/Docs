@@ -9,13 +9,13 @@ editable: si
 
 El objetivo del reporte es poder tener listas de empaque de los productos que pasan por el proceso de empaque de WMS.  
 
-El reporte **IRLE** muestra la lista de empaque sin valorizacion. En este reporte se podrá escoger si la busqueda de la información se hace con el documento de empaque o con el documento del pedido.  
+El reporte **IRLE** muestra la lista de empaque sin valorizacion. En este reporte se podrá escoger si la busqueda de la información se hace con el documento de empaque o con el documento del pedido, digitamos documento, número y ubicación de consulta.  
 
 ![](irle2.png)
 
 El reporte puede ser descargado en formato de Excel, PDF o Word.  
 
-![](irle3.png)
+![](irle6.png)
 
 Reporte en formato PDF.  
 
