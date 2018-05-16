@@ -17,7 +17,7 @@ Adquiere todo el material del repositorio de marketing aquí:
 ###### [Emailing](http://docs.oasiscom.com/Mercadeo/emailing)
 ###### [Whitepapers](http://docs.oasiscom.com/Mercadeo/whitepapers)
 ###### [Vídeo](http://docs.oasiscom.com/Mercadeo/video)
-###### [Webinars](http://docs.oasiscom.com/Mercadeo/webinars)
+###### [Webinars](http://docs.oasiscom.com/Mercadeo/Webinars)
 
 
 
