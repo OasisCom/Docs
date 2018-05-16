@@ -64,6 +64,7 @@ La aplicación **VCOT** Cotizaciones cuenta con un detalle.
 **UnidadMedida:** Unidad de medida del producto.  
 **Característica:** Cualidad del producto.  
 **Vencimiento:** Fecha de vencimiento de producto.  
+**Control:** Permite controlar el inventario por un número de control, es decir, como un identificador.  
 **Observación:** Observaciones acerca del producto cotizado.  
 **Estado:** Estado Activo, Procesado o Anulado de la cotización.  
 

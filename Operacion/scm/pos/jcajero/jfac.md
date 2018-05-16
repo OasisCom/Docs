@@ -207,3 +207,19 @@ A través de esta pestaña el usuario podrá asignar garantías a los productos 
 Creamos un nuevo registro y diligenciamos los datos, seguidamente
 
 ![](jfac1.png)
+
+
+## [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)
+
+Esta funcionalidad realiza la liquidación de diferentes precios de un mismo producto con base a los vencimientos que este tenga. Esto, con previa parametrización en las opciones [**WVAR - Variables**](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wvar#parametrización-liquidación-por-vencimiento) y [**FDES - Descuentos**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-liquidación-por-vencimiento). (_Ver aplicaciones_)  
+
+Al crear una factura en JFAC e ingresar al zoom para seleccionar el producto, podremos ver que según las fechas de vencimiento el sitema tomó el descuento.  
+
+![](jfac36.png)
+
+
+![](jfac37.png)
+
+
+
+

@@ -115,4 +115,27 @@ El resultado se verá reflejado en la pestaña _Contabilización_ del detalle:
 
 ![](ofac8.png)
 
+## [Control por Proveedor](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#control-por-proveedor)
 
+
+En OasisCom se permite generar un número de control por cada proveedor. El número de control será el mismo independiente de los diferentes productos que ofrezca el proveedor, si el proveedor cambia se debe asignar un número de control para el nuevo proveedor. En la aplicación [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns) filtrando con el documento CL se puede verificar el número de consecutivo en que se entra el control.   
+
+Para asignar el número de control primero se debe crear la siguiente variable en la aplicación [**WVAR - Variables**](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wvar).  
+
+![](ofac9.png)
+
+Seguidamente, el la aplicación [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro) debemos validar que los productos tengan activo el check _Control_.  
+
+![](ofac10.png)
+
+En la aplicación [**BDOC- Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) se debe verificar que el concepto del movimiento tenga asignado en el campo _Clase_ la opción _**Control X Lote**_.  
+
+![](ofac11.png)
+
+Con la parametrización anterior procedemos a generar una factura de compra. Al procesar se asignará el número de control.  
+
+![](ofac12.png)
+
+Finalmente, en la aplicación **BCNT - Controles** podemos consultar los números de controles que han sido creados y el número de identificación del proveedor al cual se encuentra asignado.  
+
+![](ofac13.png)

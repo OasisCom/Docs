@@ -18,6 +18,17 @@ Si la persona que se va a ingresar a la opción **BTER – Terceros**, es emplea
 
 ![](bter2.png)
 
+El maestro cuenta con el campo **CiiuId** el cual permite seleccionar de una lista desplegable la actividad económica del tercero. Las actividades económicas que se visualizan en la lista son parametrizables en la aplicación [**BCRC - Características**](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc).  
+
+_Parametrización en BCRC._
+
+![](bter5.png)
+
+Campo _CiiuId_
+
+![](bter6.png)
+
+
 En el detalle de la aplicación BTER, se diligenciarán automáticamente algunas pestañas de acuerdo con la información registrada en el maestro. En la pestaña _Novedad_, es posible visualizar las novedades ingresadas previamente en las aplicaciones ZNOV - Novedades Asociados y BNOV - Novedades.  
 
 ![](bter4.png)
