@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/SCM/WMS/
+title: Bodega
+permalink: /Mercadeo/Descriptivo/SCM/WMS/
 editable: si
 ---
 
