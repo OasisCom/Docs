@@ -182,7 +182,7 @@ En el campo _Zoom_ de la opción SCAM se parametrizan los zoom teniendo en cuent
 
 	[{zoomType:'N',Caption:'ConsultaZoomTest', ModelZoom:'DocumentZoom'}]  
 
-**5.** Si se quiere agregar otro Zoom al mismo campo, se cierra el corchete ({}) se pone la coma (,) y se vuelve abrir el corchete ({}).  
+**5.** Si se quiere agregar otro Zoom al mismo campo, se cierra la llave ({}) se pone la coma (,) y se vuelve abrir la llave ({}).  
 
 	   [{zoomType:'N',Caption:'ConsultaZoomTest', ModelZoom:'DocumentZoom'},
           {zoomType:'M',Caption:'MultiEventActivityTest',ModelZoom:'EventActivityZoom'}]  
