@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/MRP/Mantenimiento/
+title: Mantenimiento
+permalink: /Mercadeo/Descriptivo/MRP/Mantenimiento/
 editable: si
 ---
 

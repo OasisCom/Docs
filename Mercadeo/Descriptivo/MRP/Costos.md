@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Costos
-permalink: /Comercializacion/Descriptivo/MRP/Costos
+permalink: /Mercadeo/Descriptivo/MRP/Costos
 editable: si
 ---
 

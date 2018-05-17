@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/MRP/Control/
+title: Control
+permalink: /Mercadeo/Descriptivo/MRP/Control/
 editable: si
 ---
 
