@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Importaciones
-permalink: /Comercializacion/Descriptivo/SCM/Importaciones/
+permalink: /Mercadeo/Descriptivo/SCM/Importaciones/
 editable: si
 ---
 

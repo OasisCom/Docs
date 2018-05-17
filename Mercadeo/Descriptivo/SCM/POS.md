@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/SCM/POS
+title: Punto de Venta
+permalink: /Mercadeo/Descriptivo/SCM/POS
 editable: si
 ---
 

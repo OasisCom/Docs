@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Facturación
-permalink: /Comercializacion/Descriptivo/SCM/Facturacion
+permalink: /Mercadeo/Descriptivo/SCM/Facturacion
 editable: si
 ---
 
