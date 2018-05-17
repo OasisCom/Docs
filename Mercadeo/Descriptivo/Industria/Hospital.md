@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/Industria/Hospital/
+title: Hospital
+permalink: /Mercadeo/Descriptivo/Industria/Hospital/
 editable: si
 ---
 
