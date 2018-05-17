@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cartera
-permalink: /Comercializacion/Descriptivo/ERP/Cartera
+permalink: /Mercadeo/Descriptivo/ERP/Cartera
 editable: si
 ---
 

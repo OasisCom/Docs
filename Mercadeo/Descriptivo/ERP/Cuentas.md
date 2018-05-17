@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/ERP/Cuentas/
+title: Cuentas por Pagar
+permalink: /Mercadeo/Descriptivo/ERP/Cuentas/
 editable: si
 ---
 

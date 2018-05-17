@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/ERP/Contabilidad
+title: Contabilidad
+permalink: /Mercadeo/Descriptivo/ERP/Contabilidad
 editable: si
 ---
 

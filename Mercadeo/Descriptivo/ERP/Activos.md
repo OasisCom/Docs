@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comercializacion
-permalink: /Comercializacion/Descriptivo/ERP/Activos/
+title: Activos Fijos
+permalink: /Mercadeo/Descriptivo/ERP/Activos/
 editable: si
 ---
 
