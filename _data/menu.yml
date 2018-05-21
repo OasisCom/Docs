@@ -1914,102 +1914,6 @@
           url: /Operacion/movil/bter
         - text: Productos
           url: /Operacion/movil/bpro
-- text: Comercializacion
-  url: /Comercializacion/
-  subitems:
-    - text: Descriptivos
-      url: /Comercializacion/Descriptivo/
-      subitems:
-        - text: Financiero
-          url: /Comercializacion/Descriptivo/ERP/
-          subitems:
-            - text: Contabilidad
-              url: /Comercializacion/Descriptivo/ERP/Contabilidad
-            - text: Tesoreria
-              url: /Comercializacion/Descriptivo/ERP/Tesoreria
-            - text: Cartera
-              url: /Comercializacion/Descriptivo/ERP/Cartera
-            - text: Cuentas por Pagar
-              url: /Comercializacion/Descriptivo/ERP/Cuentas
-            - text: Activos Fijos
-              url: /Comercializacion/Descriptivo/ERP/Activos
-        - text: Logistico
-          url: /Comercializacion/Descriptivo/SCM/
-          subitems:
-            - text: Ventas
-              url: /Comercializacion/Descriptivo/SCM/Ventas
-            - text: Facturacion
-              url: /Comercializacion/Descriptivo/SCM/Facturacion
-            - text: Punto de Venta
-              url: /Comercializacion/Descriptivo/SCM/POS
-            - text: Compras
-              url: /Comercializacion/Descriptivo/SCM/Compras
-            - text: Inventarios
-              url: /Comercializacion/Descriptivo/SCM/Inventarios
-            - text: Bodega WMS
-              url: /Comercializacion/Descriptivo/SCM/WMS
-            - text: Importaciones
-              url: /Comercializacion/Descriptivo/SCM/Importaciones
-            - text: Distribucion
-              url: /Comercializacion/Descriptivo/SCM/Distribucion
-        - text: Recursos Humanos
-          url: /Comercializacion/Descriptivo/HRM/
-          subitems:
-            - text: Nomina
-              url: /Comercializacion/Descriptivo/HRM/Nomina
-            - text: Recursos Humanos
-              url: /Comercializacion/Descriptivo/HRM/RRHH
-        - text: Clientes
-          url: /Comercializacion/Descriptivo/CRM/
-          subitems:
-            - text: Ventas CRM
-              url: /Comercializacion/Descriptivo/CRM/VentasCRM
-            - text: Mecadeo
-              url: /Comercializacion/Descriptivo/CRM/Mecadeo
-            - text: Proyectos
-              url: /Comercializacion/Descriptivo/CRM/Proyectos
-            - text: Portales
-              url: /Comercializacion/Descriptivo/CRM/Portales
-        - text: Manufactura
-          url: /Comercializacion/Descriptivo/MRP/
-          subitems:
-            - text: Produccion
-              url: /Comercializacion/Descriptivo/MRP/Produccion
-            - text: Control
-              url: /Comercializacion/Descriptivo/MRP/Control
-            - text: Costos
-              url: /Comercializacion/Descriptivo/MRP/Costos
-            - text: Mantenimiento
-              url: /Comercializacion/Descriptivo/MRP/Mantenimiento
-        - text: Decisiones
-          url: /Comercializacion/Descriptivo/DSS/
-          subitems:
-            - text: BI Financiero
-              url: /Comercializacion/Descriptivo/DSS/Bifinanciero
-            - text: BI Comercial
-              url: /Comercializacion/Descriptivo/DSS/Bicomercial
-            - text: BI Clientes
-              url: /Comercializacion/Descriptivo/DSS/Biclientes
-        - text: Soluciones Industria
-          url: /Comercializacion/Descriptivo/Industria/
-          subitems:
-            - text: Salud
-              url: /Comercializacion/Descriptivo/Industria/Salud
-            - text: Hospital
-              url: /Comercializacion/Descriptivo/Industria/Hospital
-            - text: Cafe
-              url: /Comercializacion/Descriptivo/Industria/Cafe
-            - text: Transporte
-              url: /Comercializacion/Descriptivo/Industria/Transporte
-    - text: Infografias
-      url: /Comercializacion/Infografias/
-      subitems:
-        - text: Transporte
-          url: /Comercializacion/Infografias/Transporte
-        - text: Cafe
-          url: /Comercializacion/Infografias/cafe
-        - text: Combustible
-          url: /Comercializacion/Infografias/combustible
 - text: Implantacion
   url: /Implantacion/
   subitems:
@@ -2236,6 +2140,90 @@
 - text: Mercadeo
   url: /Mercadeo/
   subitems:
+    - text: Descriptivos
+      url: /Mercadeo/Descriptivo/
+      subitems:
+        - text: Financiero
+          url: /Mercadeo/Descriptivo/ERP/
+          subitems:
+            - text: Contabilidad
+              url: /Mercadeo/Descriptivo/ERP/Contabilidad
+            - text: Tesoreria
+              url: /Mercadeo/Descriptivo/ERP/Tesoreria
+            - text: Cartera
+              url: /Mercadeo/Descriptivo/ERP/Cartera
+            - text: Cuentas por Pagar
+              url: /Mercadeo/Descriptivo/ERP/Cuentas
+            - text: Activos Fijos
+              url: /Mercadeo/Descriptivo/ERP/Activos
+        - text: Logistico
+          url: /Mercadeo/Descriptivo/SCM/
+          subitems:
+            - text: Ventas
+              url: /Mercadeo/Descriptivo/SCM/Ventas
+            - text: Facturacion
+              url: /Mercadeo/Descriptivo/SCM/Facturacion
+            - text: Punto de Venta
+              url: /Mercadeo/Descriptivo/SCM/POS
+            - text: Compras
+              url: /Mercadeo/Descriptivo/SCM/Compras
+            - text: Inventarios
+              url: /Mercadeo/Descriptivo/SCM/Inventarios
+            - text: Bodega WMS
+              url: /Mercadeo/Descriptivo/SCM/WMS
+            - text: Importaciones
+              url: /Mercadeo/Descriptivo/SCM/Importaciones
+            - text: Distribucion
+              url: /Mercadeo/Descriptivo/SCM/Distribucion
+        - text: Recursos Humanos
+          url: /Mercadeo/Descriptivo/HRM/
+          subitems:
+            - text: Nomina
+              url: /Mercadeo/Descriptivo/HRM/Nomina
+            - text: Recursos Humanos
+              url: /Mercadeo/Descriptivo/HRM/RRHH
+        - text: Clientes
+          url: /Mercadeo/Descriptivo/CRM/
+          subitems:
+            - text: Ventas CRM
+              url: /Mercadeo/Descriptivo/CRM/VentasCRM
+            - text: Mecadeo
+              url: /Mercadeo/Descriptivo/CRM/Mecadeo
+            - text: Proyectos
+              url: /Mercadeo/Descriptivo/CRM/Proyectos
+            - text: Portales
+              url: /Mercadeo/Descriptivo/CRM/Portales
+        - text: Manufactura
+          url: /Mercadeo/Descriptivo/MRP/
+          subitems:
+            - text: Produccion
+              url: /Mercadeo/Descriptivo/MRP/Produccion
+            - text: Control
+              url: /Mercadeo/Descriptivo/MRP/Control
+            - text: Costos
+              url: /Mercadeo/Descriptivo/MRP/Costos
+            - text: Mantenimiento
+              url: /Mercadeo/Descriptivo/MRP/Mantenimiento
+        - text: Decisiones
+          url: /Mercadeo/Descriptivo/DSS/
+          subitems:
+            - text: BI Financiero
+              url: /Mercadeo/Descriptivo/DSS/Bifinanciero
+            - text: BI Comercial
+              url: /Mercadeo/Descriptivo/DSS/Bicomercial
+            - text: BI Clientes
+              url: /Mercadeo/Descriptivo/DSS/Biclientes
+        - text: Soluciones Industria
+          url: /Mercadeo/Descriptivo/Industria/
+          subitems:
+            - text: Salud
+              url: /Mercadeo/Descriptivo/Industria/Salud
+            - text: Hospital
+              url: /Mercadeo/Descriptivo/Industria/Hospital
+            - text: Cafe
+              url: /Mercadeo/Descriptivo/Industria/Cafe
+            - text: Transporte
+              url: /Mercadeo/Descriptivo/Industria/Transporte
     - text: Casos de Exito
       url: /Mercadeo/Casos de exito
     - text: Infografia
