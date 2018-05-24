@@ -88,7 +88,7 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 **Banco:** Identificación numérica del banco al cual pertenece el cheque.  
 **Plaza:** Ciudad en la que genera el cheque.  
 
-## [Vista Previa de Comprobantes de Egresos ](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
+## [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
 
 La aplicación TMOV permite obtener una vista previa de los comprobantes de egresos (CE), para ello, se debe parametrizar el número de formato para el documento **CE** en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). Este número de formato lo obtenemos al consultar por programa (tmov) en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). El formato se denomina _dw_i_movimiento_tes_pre_. (_Ver aplicaciones BDOC y SPRO_).  
 
