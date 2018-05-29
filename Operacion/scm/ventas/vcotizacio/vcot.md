@@ -84,7 +84,7 @@ Finalmente, se debe procesar la cotización desde el botón _Procesar_ ![](proce
 
 ![](vcot8.png)
 
-## [Itemchanged campos Precio y Porcentaje de Descuento](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#Itemchanged-campos-precio-y-porcentaje-de-descuento)
+## [Itemchanged campos Precio y Porcentaje de Descuento](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#itemchanged-campos-precio-y-porcentaje-de-descuento)
 
 El objetivo del itemchanged en el campo _Precio_ y _Porcentaje Descuento_, es que el sistema valide que al final el precio que coloque el usuario no esté por debajo del valor de referencia de la lista de precios. Este precio de referencia estará definido  en la aplicación FPRE en el campo _Valor1_.  
 
@@ -109,7 +109,3 @@ Al tratar de colocar el precio **400** y dar tab, el sistema muestra el mensaje 
 Si se trata de guardar la información sin dar tab, el sistema debe mostrar el mensaje de control.  
 
 ![](vcot11.png)
-
-
-
-
