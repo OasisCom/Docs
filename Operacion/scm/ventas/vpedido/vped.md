@@ -122,7 +122,7 @@ Si se trata de guardar la información sin dar tab, el sistema debe mostrar el m
 ![](vped12.png)
 
 
-#[**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
+## [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
 
 Este botón permite visualizar la fecha de la última compra del producto así como el precio con el que fue vendido.  
 
