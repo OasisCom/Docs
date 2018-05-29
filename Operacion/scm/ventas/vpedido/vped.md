@@ -120,3 +120,16 @@ Al intentar ingresar el precio de 390 y dar tab, el sistema muestra el mensaje d
 Si se trata de guardar la información sin dar tab, el sistema debe mostrar el mensaje de control.  
 
 ![](vped12.png)
+
+
+#[**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
+
+Este botón permite visualizar la fecha de la última compra del producto así como el precio con el que fue vendido.  
+
+El botón **info_ventas** en el detalle de la opción _VPED_, permite visualizar la fecha de la última compra del producto así como el precio con el que fue vendido.  
+
+![](vped13.png)
+
+![](vped14.png)
+
+
