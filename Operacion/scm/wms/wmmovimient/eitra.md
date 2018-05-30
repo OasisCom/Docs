@@ -9,7 +9,7 @@ editable: si
 
 La aplicación EITRA permite realizar movimientos logísticos.  
 
-## [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra)
+## [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
 
 La aplicación EITRA permite al usuario realizar el proceso de empaque de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
 
