@@ -49,11 +49,29 @@ Si deseamos crear varias cajas de despacho, damos click en el botón **+**.
 
 **Botones:** 
 
-![](boton1.png) Este botón permite agregar productos parcialmente.  
+![](boton1.png) Este botón permite agregar productos parcialmente. Al dar click, se habilitará una ventana en donde podemos ingresar la cantidad de productos que se agregarán en la caja.  
+
+![](eitra5.png)
 
 ![](boton2.png) Este botón permite agregar el total de productos disponibles.  
 
-En el siguiente ejemplo, agregaremos 3 unidades del producto 101, 5 unidades del producto 102 y una unidad del producto 102 segundo renglón.  
+En el siguiente ejemplo, agregaremos a la caja 1: 
+* 3 unidades del producto 101
+* 5 unidades del producto 102
+* 1 unidad del producto 102 segundo renglón.  
+
+El sistema irá restando y mostrando la cantidad de producto restantes de cada uno.  
+
+![](eitra6.png)
+
+Ahora, agregaremos el resto de productos a la caja 2. Para ello, podemos hacer uso del botón ![](boton2.png).  
+
+![](eitra7.png)
+
+Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrá y mostrará una nueva ventana de registro.  
+
+En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
+
 
 
 
