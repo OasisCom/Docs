@@ -13,7 +13,7 @@ Es posible filtrar por proyecto, documento y rango de fechas.
 
 ![](arse.png)
 
-Al consultar, veremos las actividades, las horas planeadas y ejecutadas de las mismas, el costo de la planeación y de la ejecución, el status en el que se encuetra la actividad y el porcentaje de avance.  
+Al consultar, veremos las actividades, las horas planeadas y ejecutadas de las mismas, el costo de la planeación y de la ejecución, el status en el que se encuentra la actividad y el porcentaje de avance.  
 
 ![](arse1.png)
 
