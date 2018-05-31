@@ -168,7 +168,7 @@ En el campo _Zoom_ de la opción SCAM se parametrizan los zoom teniendo en cuent
  * ZoomCrud     = 'C' (Zoom con el crud normal: crear, eliminar y editar -- Eje: Zoom LotId de la opción IMOV)  
  * ZoomAdditive = 'A' (Zoom que solo crea el registro -- Eje: Zoom "Crear tercero" del GFAC al dar click derecho)  
 
-**2.**  El campo donde se parametrizan los zoom es en el campo _Zoom_ del **SCAM** y este es en leguaje JSON.  
+**2.**  El campo donde se parametrizan los zoom es en el campo _Zoom_ del **SCAM** y este es en lenguaje JSON.  
 
 ![](scam26.png)
 
@@ -190,3 +190,37 @@ En el campo _Zoom_ de la opción SCAM se parametrizan los zoom teniendo en cuent
 ![](scam27.png)  
 
 ![](scam28.png)
+
+
+## [Parametrización de zoom en campos de texto](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrización-de-zoom-en-campos-de-texto)
+
+Por medio de la aplicación SCAM se permite la parametrización de zooms desde cualquier campo tipo texto de las aplicaciones.  
+
+Primero, debemos identificar en dónde necesitamos crear el zoom, la aplicación, si es en el maestro o en que pestaña del detalle y el nombre del campo.  
+
+![](scam29.png)
+
+Seguidamente, realizamos la parametrización en SCAM. Agregamos un nuevo registro y diligenciamos los siguientes campos.  
+
+![](scam30.png)
+
+**Programa:** ingresar el nombre de la aplicación en donde se agregará el zoom.  
+**Tab Id:** indicar número de la tabla en donde se agregará el zoom, es decir, si es en el maestro será la tabla **0**, en la primera pestaña del detalle será la tabla **1**, en la segunda pestaña del detalle será la tabla **2**, y así sucesivamente.  
+
+![](scam31.png)
+
+**Field Id:** Ingresamos el nombre del campo. Para conocerlo, nos dirigimos a la aplicación, nos ubicamos en el campo y oprimimos el comando _**Shift + F11**_.  
+
+![](scam32.png)
+
+**Idioma:** indicamos el id del idioma en que se visualice la aplicación.  
+**Zoom:** ingresamos el código del zoom que se desea agregar.  
+
+Finalmente guardamos los cambios. Para visualizar el nuevo zoom, es necesario cerrar sesión y volver a ingresar.  
+
+Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.  
+
+![](scam33.png)
+
+
+![](scam34.png)
