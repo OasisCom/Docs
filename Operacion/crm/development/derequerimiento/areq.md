@@ -38,3 +38,21 @@ Flujo de trabajo de tareas.
 **Fecha Actual:** fecha en que se ejecuta la tarea.  
 **Tiempo Real:** número de horas utilizadas en la ejecución de la tarea.  
 
+El registro no cambiará así tenga ejecuciones parciales, cambiará cuando se ejecute en un 100%.  
+
+![](areq3.png)
+
+En la pestaña _Ejecución_ podemos ver la tarea ejecutada anteriormente.  
+
+![](areq4.png)
+
+La actividad se termina si la ejecución fue del 100% o más.  
+
+![](areq5.png)
+
+Si la suma de las ejecuciones supera la planeación por ende queda terminada la tarea.  
+
+![](areq6.png)
+
+
+
