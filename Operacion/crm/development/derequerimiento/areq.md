@@ -54,5 +54,12 @@ Si la suma de las ejecuciones supera la planeación por ende queda terminada la 
 
 ![](areq6.png)
 
+### Terminación de tareas
 
+La tarea también puede ser tarminada manualmente, es _Status_ cambiará a T (Terminado).  
 
+![](areq7.png)
+
+Al terminar la tarea queda con tiempo de ejecución en cero.  
+
+![](areq8.png)
