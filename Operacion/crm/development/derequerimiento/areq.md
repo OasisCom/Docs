@@ -9,7 +9,7 @@ editable: si
 
 La aplicación AREQ permite registrar los requerimientos y asignarlos a los connsultores para su ejecución.  
 
-## [Esquema de Work Flow]()
+## [Esquema de Work Flow](http://docs.oasiscom.com/Operacion/crm/development/derequerimiento/areq#esquema-de-work-flow)
 
 El esquema de ejecucion de tareas permite hacer los siguiente:  
 
