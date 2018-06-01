@@ -7,7 +7,7 @@ editable: si
 
 # AREQ - Requerimientos
 
-
+La aplicación AREQ permite registrar los requerimientos y asignarlos a los ocnsultores para su ejecución.  
 
 ## [Esquema de Work Flow]()
 
