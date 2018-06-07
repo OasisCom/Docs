@@ -224,3 +224,35 @@ Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.
 
 
 ![](scam34.png)
+
+## [Templates para reportes](http://docs.oasiscom.com/Operacion/system/sconfig/scam#templates-para-reportes)
+
+Esta funcionalidad permite la parametrización de un formato de Word para que funcione como template en lugar de un archivo _RDLC_ existente para estas opciones.  
+
+En la opción SCAM se debe parametrizar el nombre del Template (Plantilla) y el Query que se va a ejecutar.  
+
+El Query debe tener los mismos parametros que tiene el reporte de tipo RDLC.  
+
+El campo al cual debe quedar asociado el template siempre debe ser el campo CompanyId.  
+
+![](scam35.png)
+
+En los campos _Plantilla_ y _QuerySql_.  
+
+![](scam36.png)
+
+**QuerySql:**  
+
+	select  Company.CompanyName, Company.CompanyCode, Company.City, getdate() today, ContractPayroll.CompanyId, ContractPayroll.ClientId, Client.ClientName, ExpeditionDocumentDate [ExpeditionDocumentDate], ContractPayroll.[Date], ContractPayroll.[State], ContractPayrollDetail.PlaceId, Place.PlaceName, TypeContract.TypeContractName, ContractPayrollDetail.LocationLaborId, ContractPayrollDetail.TypeSalary, ContractPayrollDetail.Salary, ContractPayrollDetail.Initial, ContractPayrollDetail.Final, ContractPayrollDetail.DeductibleRetention, ContractPayrollDetail.RetentionPercentage, ContractPayrollDetail.[Retention], ContractPayrollDetail.[TypeContractId], ContractPayrollDetail.UpcAdditional, ContractPayrollDetail.ScaleId, GeographicLocation.GeographicLocationName from Company inner join ContractPayroll  	on Company.CompanyId = ContractPayroll.CompanyId inner join  Client on Client.ClientId = ContractPayroll.ClientId and  Client.CompanyId =ContractPayroll.CompanyId left join GeographicLocation on GeographicLocation.CompanyId = Client.CompanyId and GeographicLocation.GeographicLocationId = Client.DocumentLocationId inner Join ContractPayrollDetail On ContractPayrollDetail.CompanyId = ContractPayroll.CompanyId  and ContractPayrollDetail.NumberId = ContractPayroll.NumberId  and ContractPayrollDetail.DocumentId = ContractPayroll.DocumentId  and ContractPayrollDetail.LocationId = ContractPayroll.LocationId  Inner Join Place On ContractPayrollDetail.CompanyId = Place.CompanyId  and ContractPayrollDetail.PlaceId = Place.PlaceId left join TypeContract on TypeContract.CompanyId = ContractPayrollDetail.CompanyId and TypeContract.TypeContractId = ContractPayrollDetail.TypeContractId WHERE ContractPayroll.ClientId=@pvUser and ContractPayroll.CompanyId=@pCompany Order By ContractPayrollDetail.Salary DESC
+
+El anterior ejemplo es de la aplicación _ERRCL - Certificado Laboral_ en donde el sistema debe completar los campos de acuerdo con el usuario que requiera el certificado laboral.  
+
+La plantilla en Word:  
+
+![](scam37.png)
+
+Al abrir la opción (en este caso la ERRCL - Certificado Laboral) la aplicación detecta que hay una plantilla parametrizada y completa la información de los marcadores presentes dentro del documento.  
+
+Para generar el reporte _ERRCL - Certificado Laboral_, se debe parametrizar en el _SPER - Perfil_ el tercero de un documento existente en la opción _NCNT - Contratos_.  
+
+![](scam38.png)
