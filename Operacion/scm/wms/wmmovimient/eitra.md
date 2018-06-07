@@ -73,5 +73,55 @@ Una vez distribuídos los productos en las cajas, el sistema deshabilitará los 
 En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
 
 
+## [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
 
+Permite registrar el almacenamiento de mercancía en las bodegas que tengan disponibilidad.  
 
+Para realizar el registro de un almacenamiento de mercancía, ingresamos a la aplicación EITRA y diligenciamos el formulario.  
+
+![](eitra8.png)
+
+El documento para los movimientos en la aplicación EITRA siempre será _TI_ y por lo tanto el sistema no lo dejará modificar.  
+
+**Ubicación Id:** seleccionamos del zoom la ubicación en la cual se está registrando el almacenamiento.  
+**Concepto:** abrimos el zoom y seleccionamos el concepto _AL - Almacenamiento_.  
+
+![](eitra9.png)
+
+**Motivo Id:** ingresamos motivo 0.  
+**Fecha:** seleccionar la fecha en la cual se realiza el registro.  
+**Número Id1:** abrimos el zoom y seleccionamos el pedido del cual realizaremos el almacenamiento de la mercancía. Al seleccionar el pedido, los campos _Cliente Id, Documento Id1_ y _Location Id1_ se diligenciarán automáticamente.  
+
+![](eitra10.png)
+
+Diligenciados los datos damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando el número de consecutivo con el cual se registró.  
+
+![](eitra11.png)
+
+A continuación, nos dirigimos a la pestaña _Detalle_ en donde realizaremos la distribución del almacenamiento de la mercancía. En esta zona se deberán trasladar los productos (que están a la izquierda) que se desean almacenar en las posiciones que tienen definidas las bodegas.  
+
+Para realizar el almacenamiento en las bodegas damos click en el botón ![](boton1.png). Se debe almacenar el total de la mercancía del pedido seleccionado.  
+
+![](eitra12.png)
+
+Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento. 
+
+* Las posiciones en color _**Verde**_ son bodegas disponibles para almacenar mercancía ya que su capacidad no he llegado al 100%.  
+
+* Las posiciones en color _**Naranja**_ son bodegas no disponibles ya que están con su capacidad al 100%.  
+
+![](eitra13.png)
+
+Una vez realizado el almacenamiento, los productos se distribuirán según la localizacion seleccionada.  
+
+Finalizado el almacenamiento, damos click en el botón _Terminar almacenamiento_.  
+
+![](eitra14.png)
+
+Al terminar el almacenamiento, se creará un registro por cada localización de las bodegas seleccionadas en el detalle de la aplicación **ITRA - Trabajos**, en donde filtraremos por el número de consecutivo del registro.  
+
+![](eitra15.png)
+
+Finalmente, procesamos el documento.  
+
+![](eitra16.png)
