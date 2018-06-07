@@ -11,3 +11,14 @@ Esta opción consolida la facturación efectuada en los respectivos periodos o m
 
 ![](frrp1.png)
 
+**Periodo:** si se requiere consultar por periodo, ingresar el mes requerido.  
+**Año:** ingresar el año de consulta.  
+**Ubicación:** ingresar la ubicación de donde se desea consultar los productos.  
+**Producto:** si la consulta es específica de un producto, ingresar o seleccionar del zoom el ID del mismo.  
+**Clasificación:** si se requiere consultar los productos por clasificación.  
+
+![](frrp2.png)
+
+Reporte exportado en PDF.  
+
+![](frrp3.png)

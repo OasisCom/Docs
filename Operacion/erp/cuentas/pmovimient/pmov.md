@@ -22,6 +22,7 @@ Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan
 **Nombre Tercero:** Nombre del tercero al cual afecta el movimiento.  
 **Estado:** Estado del documento (Activo, Procesado y Anulado).  
 **Moneda:** Campo que indica el tipo de moneda a manejar en la generación de los movimientos.  
+**Comprobante Fiscal:** ingresar el número de comprobante fiscal.  
 
 ![](PMOV2.png)
 

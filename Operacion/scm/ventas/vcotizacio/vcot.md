@@ -83,3 +83,29 @@ Al guardar el registro evidenciamos que el sistema asignó el precio del product
 Finalmente, se debe procesar la cotización desde el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas del maestro.  
 
 ![](vcot8.png)
+
+## [Itemchanged campos Precio y Porcentaje de Descuento](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#itemchanged-campos-precio-y-porcentaje-de-descuento)
+
+El objetivo del itemchanged en el campo _Precio_ y _Porcentaje Descuento_, es que el sistema valide que al final el precio que coloque el usuario no esté por debajo del valor de referencia de la lista de precios. Este precio de referencia estará definido  en la aplicación FPRE en el campo _Valor1_.  
+
+En la aplicación [**FBTP - Tipo de Precio**](http://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtp) debemos asignar al tipo de precio la característica _Variable_.  
+
+![](fbtp.png)
+
+En la aplicación [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre) se definirá el precio.  
+
+![](fpre.png)
+
+Con el nuevo precio y descuento asignado, el sistema deberá mostrar un mensaje de alerta y no se deberá poder salvar los cambios.  
+
+En vcot intentamos ingresar un precio y un descuento.  
+
+![](vcot9.png)
+
+Al tratar de colocar el precio **400** y dar tab, el sistema muestra el mensaje de control, puesto que, quedaría un precio de 360, cual está por debajo de los 380 de la lista de precios. Lo mismo debe pasar si se asigna en % de descuento que haga que el precio quede por debajo del rango mínimo.  
+
+![](vcot10.png)
+
+Si se trata de guardar la información sin dar tab, el sistema debe mostrar el mensaje de control.  
+
+![](vcot11.png)

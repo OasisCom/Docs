@@ -168,7 +168,7 @@ En el campo _Zoom_ de la opción SCAM se parametrizan los zoom teniendo en cuent
  * ZoomCrud     = 'C' (Zoom con el crud normal: crear, eliminar y editar -- Eje: Zoom LotId de la opción IMOV)  
  * ZoomAdditive = 'A' (Zoom que solo crea el registro -- Eje: Zoom "Crear tercero" del GFAC al dar click derecho)  
 
-**2.**  El campo donde se parametrizan los zoom es en el campo _Zoom_ del **SCAM** y este es en leguaje JSON.  
+**2.**  El campo donde se parametrizan los zoom es en el campo _Zoom_ del **SCAM** y este es en lenguaje JSON.  
 
 ![](scam26.png)
 
@@ -190,3 +190,69 @@ En el campo _Zoom_ de la opción SCAM se parametrizan los zoom teniendo en cuent
 ![](scam27.png)  
 
 ![](scam28.png)
+
+
+## [Parametrización de zoom en campos de texto](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrización-de-zoom-en-campos-de-texto)
+
+Por medio de la aplicación SCAM se permite la parametrización de zooms desde cualquier campo tipo texto de las aplicaciones.  
+
+Primero, debemos identificar en dónde necesitamos crear el zoom, la aplicación, si es en el maestro o en que pestaña del detalle y el nombre del campo.  
+
+![](scam29.png)
+
+Seguidamente, realizamos la parametrización en SCAM. Agregamos un nuevo registro y diligenciamos los siguientes campos.  
+
+![](scam30.png)
+
+**Programa:** ingresar el nombre de la aplicación en donde se agregará el zoom.  
+**Tab Id:** indicar número de la tabla en donde se agregará el zoom, es decir, si es en el maestro será la tabla **0**, en la primera pestaña del detalle será la tabla **1**, en la segunda pestaña del detalle será la tabla **2**, y así sucesivamente.  
+
+![](scam31.png)
+
+**Field Id:** Ingresamos el nombre del campo. Para conocerlo, nos dirigimos a la aplicación, nos ubicamos en el campo y oprimimos el comando _**Shift + F11**_.  
+
+![](scam32.png)
+
+**Idioma:** indicamos el id del idioma en que se visualice la aplicación.  
+**Zoom:** ingresamos el código del zoom que se desea agregar.  
+
+Finalmente guardamos los cambios. Para visualizar el nuevo zoom, es necesario cerrar sesión y volver a ingresar.  
+
+Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.  
+
+![](scam33.png)
+
+
+![](scam34.png)
+
+## [Templates para reportes](http://docs.oasiscom.com/Operacion/system/sconfig/scam#templates-para-reportes)
+
+Esta funcionalidad permite la parametrización de un formato de Word para que funcione como template en lugar de un archivo _RDLC_ existente para estas opciones.  
+
+En la opción SCAM se debe parametrizar el nombre del Template (Plantilla) y el Query que se va a ejecutar.  
+
+El Query debe tener los mismos parametros que tiene el reporte de tipo RDLC.  
+
+El campo al cual debe quedar asociado el template siempre debe ser el campo CompanyId.  
+
+![](scam35.png)
+
+En los campos _Plantilla_ y _QuerySql_.  
+
+![](scam36.png)
+
+_**QuerySql:**_  
+
+_select  Company.CompanyName, Company.CompanyCode, Company.City, getdate() today, ContractPayroll.CompanyId, ContractPayroll.ClientId, Client.ClientName, ExpeditionDocumentDate [ExpeditionDocumentDate], ContractPayroll.[Date], ContractPayroll.[State], ContractPayrollDetail.PlaceId, Place.PlaceName, TypeContract.TypeContractName, ContractPayrollDetail.LocationLaborId, ContractPayrollDetail.TypeSalary, ContractPayrollDetail.Salary, ContractPayrollDetail.Initial, ContractPayrollDetail.Final, ContractPayrollDetail.DeductibleRetention, ContractPayrollDetail.RetentionPercentage, ContractPayrollDetail.[Retention], ContractPayrollDetail.[TypeContractId], ContractPayrollDetail.UpcAdditional, ContractPayrollDetail.ScaleId, GeographicLocation.GeographicLocationName from Company inner join ContractPayroll on Company.CompanyId = ContractPayroll.CompanyId inner join  Client on Client.ClientId = ContractPayroll.ClientId and  Client.CompanyId =ContractPayroll.CompanyId left join GeographicLocation on GeographicLocation.CompanyId = Client.CompanyId and GeographicLocation.GeographicLocationId = Client.DocumentLocationId inner Join ContractPayrollDetail On ContractPayrollDetail.CompanyId = ContractPayroll.CompanyId  and ContractPayrollDetail.NumberId = ContractPayroll.NumberId  and ContractPayrollDetail.DocumentId = ContractPayroll.DocumentId  and ContractPayrollDetail.LocationId = ContractPayroll.LocationId  Inner Join Place On ContractPayrollDetail.CompanyId = Place.CompanyId  and ContractPayrollDetail.PlaceId = Place.PlaceId left join TypeContract on TypeContract.CompanyId = ContractPayrollDetail.CompanyId and TypeContract.TypeContractId = ContractPayrollDetail.TypeContractId WHERE ContractPayroll.ClientId=@pvUser and ContractPayroll.CompanyId=@pCompany Order By ContractPayrollDetail.Salary DESC._  
+
+El anterior ejemplo es de la aplicación _ERRCL - Certificado Laboral_ en donde el sistema debe completar los campos de acuerdo con el usuario que requiera el certificado laboral.  
+
+La plantilla en Word:  
+
+![](scam37.png)
+
+Al abrir la opción (en este caso la ERRCL - Certificado Laboral) la aplicación detecta que hay una plantilla parametrizada y completa la información de los marcadores presentes dentro del documento.  
+
+Para generar el reporte _ERRCL - Certificado Laboral_, se debe parametrizar en el _SPER - Perfil_ el tercero de un documento existente en la opción _NCNT - Contratos_.  
+
+![](scam38.png)

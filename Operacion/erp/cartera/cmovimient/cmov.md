@@ -18,6 +18,7 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Concepto:** Código del Concepto por el cual se hace el movimiento. Este define automáticamente la afectación contable del movimiento, por tanto debe estar perfectamente definido.  
 **Motivo:** número que identifica un documento para casos especiales a nivel contable, se puede parametrizar los documentos por conceptos en la aplicación BDOC, los motivos se parametrizan desde la aplicación BPLA.  
 **Total:** Valor total por el cual de genera el movimiento.  
+**Comprobante Fiscal:** ingresar el número de comprobante fiscal.  
 **Proyecto:** ingresar el número de proyecto correspondiente al movimiento de cartera.  
 **Negocio:** ingresar el número de negocio correspondiente al movimiento de cartera.  
 
