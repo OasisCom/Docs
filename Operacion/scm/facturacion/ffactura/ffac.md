@@ -48,7 +48,7 @@ Cuando se procesa un documento de facturación de ventas y este tiene retención
 **Impreso:** Check que indica si la factura ya fue impresa.  
 **Proyecto:** número de proyecto al cual va asignada la factura.  
 
-## [Pestaña Detalle]((http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-detalle)
+## [Pestaña Detalle](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-detalle)
 
 Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.  
 
@@ -80,7 +80,7 @@ Al final del detalle se totaliza las cantidades y valor bruto de los productos f
 
 La opción importar archivo facilita la digitación de los productos y cantidades que componen el detalle mediante la importación (traída) o lectura de un archivo en Excel que los contenga.
 
-## [Pestaña Pago]((http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
+## [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
 
 Registro de la forma de pago de dicha factura, en las ventas a crédito estos datos son diligenciados automáticamente. Esta pestaña es de vital importancia para facturas con pago de contado para el registro de la cantidad en efectivo y / o cheque(s) con la cual se cancela la factura, el sistema se acomoda a las últimas disposiciones legales de pago con tarjeta de crédito donde se debe indicar el monto de IVA que causan los productos facturados.
 
@@ -118,7 +118,7 @@ Registro de la forma de pago de dicha factura, en las ventas a crédito estos da
 **Banco:** Código del Banco (Número de compensación).  
 **Plaza:** Ciudad de radicación de la cuenta corriente del cheque.  
 
-## [Pestaña Contabilización]((http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)
+## [Pestaña Contabilización](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)
 
 La pestaña de Contabilización permite visualizar la contabilización que realiza el sistema automáticamente.  
 
