@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Consultas
-permalink: /Operacion/is/salud/eafiliacion/conafi/
+title: Resumen Afiliado
+permalink: /Operacion/is/salud/eafiliacion/conafi/esra
 editable: si
 ---
 
-# CONSULTAS
+# ESRA - Resumen Afiliado
+
+
+
 
