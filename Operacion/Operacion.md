@@ -1398,3 +1398,46 @@ Si por el contrario, el check _DynamicWeight_ no está activo en la aplicación 
 Al insertar varias cantidades del producto.  
 
 ![](imov1.png)
+
+## [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)
+
+Es posible agregar restricciones en los reportes por _tercero_, _compañía_ y _ubicación_ en las opciones de tipo reporte, esto con previa parametrización en la opción **SROL - Roles**.  
+
+Para obtener dicha funcionalidad debemos parametrizar lo siguiente:  
+
+* Parametrizar en la aplicación **SROL - Roles** en la pestaña **Programas**, si el reporte se quiere restringir ya sea por ubicación o usuario.  
+
+![](srol.png)
+
+* Parametrizar en la aplicación **SUSU - Usuarios** según el caso de la parametrización en el punto anterior:  
+
+**a.** Consulta por **USUARIO**: en el campo _Tercero_ agregar el ID del tercero correspondiente a consultar.  
+
+![](srol1.png)
+
+**b.** Consulta por **UBICACIÓN**: en la pestaña _Ubicaciones_ agregar la ubicación correspondiente a consultar.  
+
+![](srol2.png)
+
+* Parametrizar en la aplicación **SPRO - Programas** en el campo _SENTENCE_ la siguiente estructura JSON:  
+
+	**datasetname=** nombre del dataset del reporte donde va a agregar la condición parametrizada en el SROL.  
+
+	**table=** nombre de la tabla que contiene el campo a consultar.  
+
+	**Fields=** nombre del o los campos contra los que se va a realizar la consulta (ResponsibleId, ClientId, VendorId, LocationId etc).  
+
+![](srol3.png)
+
+* El archivo JSON se hará de la siguiente manera:  
+
+		[{datasetname:'ConjuntoDatos',table:'Operation', fields:['LocationId']}]  
+        
+* Si se quiere consultar el tercero de la aplicación _SUSU - Usuarios_ al mismo DataSet, la misma tabla pero a diferentes campos, se debe hacer de la siguiente manera:  
+
+		[{datasetname:'ConjuntoDatos',table:'Operation', fields:['ClientId', 'ResponsibleId', 'VendorId']}]  
+        
+* Si el reporte tiene varios DataSet's y se quiere realizar la restricción, se cierra la llave ({}) se pone la coma (,) y se vuelve abrir la llave ({}) parametrizando el otro DataSet.  
+
+		[{datasetname:'ConjuntoDatos1',table:'Operation', fields:['ClientId']},  
+         {datasetname:'ConjuntoDatos2',table:'Client', fields:['ClientId']}]  
