@@ -60,6 +60,10 @@ Una vez creado el maestro y el detalle, nótese que al intentar procesar el regi
 
 ![](xexp6.png)
 
+Se debe adjuntar el documento para poder así procesar el documento.  
+
+![](bmot.png)
+
 Adjunto el archivo, finalmente procesamos el documento dando click en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas del maestro.  
 
 La aplicación **XEXP** cuenta con una vista previa que permite visualizar el documento de exportación y descargarlo en formato Excel, PDF o Word.  
