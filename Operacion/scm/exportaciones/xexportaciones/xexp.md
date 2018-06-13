@@ -9,8 +9,14 @@ editable: si
 
 La aplicación **XEXP** permite administrar las exportaciones de una compañía y realizar el respectivo seguimiento de las mismas.  
 
-En el maestro, se debe crear un documento _EX (Exportaciones)_ con concepto _EX_. Para agregar un nuevo documento de exportación, damos click en el botón _Agregar nueva fila_ ![](mas.png) y diligenciamos el formulario con los datos correspondientes a la exportación a realizar.  
+Se debe tener en cuenta la parametrización previa de las siguientes aplicaciones para el proceso de exportaciones. _Ver aplicaciones._  
 
+* [**BADU - Aduanas**](http://docs.oasiscom.com/Operacion/common/bcomer/badu)  
+* [**BADC - Costos de Aduanas**](http://docs.oasiscom.com/Operacion/common/bcomer/badc)  
+* [**VFIJ - Fijaciones**](http://docs.oasiscom.com/Operacion/is/cafe/capedido/vfij)  
+* [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)  
+
+Para el registro de una exportación en la aplicación XEXP, en el maestro se debe crear un documento _EX (Exportaciones)_ con concepto _EX_. Para agregar un nuevo documento de exportación, damos click en el botón _Agregar nueva fila_ ![](mas.png) y diligenciamos el formulario con los datos correspondientes a la exportación a realizar.  
 
 ![](xexp.png)
 
@@ -73,7 +79,59 @@ Para ver el documento damos click en el botón ![](lupa.png) de la barra de herr
 ![](previa.png)
 
 
-# [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/scm/exportaciones/xexportaciones/xexp#liquidación-de-exportaciones)
+## [Procesos por Precedencia](http://docs.oasiscom.com/Operacion/scm/exportaciones/xexportaciones/xexp#procesos-por-precedencia)
+
+La aplicación **XEXP** cuenta con una serie de tareas las cuales son necesarias para cumplir con el proceso total de exportaciones. Estas se encuentran visibles en la ventana del TaskWorkFlow (![](xexp7.png)). Se debe tener en cuenta que estas tareas pueden cambiar según el tipo de empresa.  
+
+![](xexp8.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/scm/exportaciones/xexportaciones/xexp#liquidación-de-exportaciones)
 
 Para hacer una liquidación de una exportación se deben tener creados los parámetros básicos de las aplicaciones: [**BADU - Aduanas**](http://docs.oasiscom.com/Operacion/common/bcomer/badu), [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones), [**BADC - Costos por aduana**](http://docs.oasiscom.com/Operacion/common/bcomer/badc) y por último  la aplicación [**BINC - Inconterms**](http://docs.oasiscom.com/Operacion/common/bcomer/binc) en la cual se agrupan los conceptos deseados de una exportacion. _Ver aplicaciones_.  
 
