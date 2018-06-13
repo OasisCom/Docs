@@ -127,7 +127,7 @@ En el detalle, se debe parametrizar el formulario dinámico del detalle de la op
 
 En la pestaña del detalle _Types_Adjunct_ de la aplicación **BMOT**, se deben parametrizar los tipos de adjuntos por documento y motivo y si son obligatorios así:  
 
-En el maestro ingresaremos el documento al cual se le parametrizará el adjunto.  
+En el maestro ingresamos el documento al cual se le parametrizará el adjunto y en el detalle, relacionaremos los documentos que se deberán adjuntar a dicho documento.  
 
 ![](bmot13.png)
 
