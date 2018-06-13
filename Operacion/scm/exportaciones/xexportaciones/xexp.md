@@ -85,7 +85,7 @@ La aplicación **XEXP** cuenta con una serie de tareas las cuales son necesarias
 
 ![](xexp8.png)
 
-
+Estas tareas se encuentran parametrizadas por precedencia, es decir, que una tarea no puede ser ejecutada si no se ha ejecutado la anterior. Este proceso se parametriza desde la aplicación [SPRC - Procesos]().  
 
 
 
