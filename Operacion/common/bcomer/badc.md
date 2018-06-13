@@ -23,4 +23,4 @@ Para parametrizar un costo por aduana, agregamos un nuevo renglón, diligenciamo
 **Valor:** indicar el valor del costo.  
 **Moneda:** indicar la moneda en la cual se registra el costo de aduana.  
 
-Para continuar con el proceso de exportaciones, realizaremos la parametrización de fijaciones en la aplicación [**VFIJ - Fijaciones**](). (_Ver aplicación_)  
+Para continuar con el proceso de exportaciones, realizaremos la parametrización de fijaciones en la aplicación [**VFIJ - Fijaciones**](http://docs.oasiscom.com/Operacion/is/cafe/capedido/vfij). (_Ver aplicación_)  
