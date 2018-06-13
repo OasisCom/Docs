@@ -121,3 +121,25 @@ En el detalle, se debe parametrizar el formulario dinámico del detalle de la op
 **Zoom:** se activa o desactiva el flag dependiendo de si el campo corresponde o no a un zoom.  
 
 ![](bmot12.png)
+
+
+## [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
+
+En la pestaña del detalle _Types_Adjunct_ de la aplicación **BMOT**, se deben parametrizar los tipos de adjuntos por documento y motivo y si son obligatorios así:  
+
+En el maestro ingresaremos el documento al cual se le parametrizará el adjunto.  
+
+![](bmot13.png)
+
+**Tipo Adjunto** seleccionar del zoom de ayuda el tipo de archivo.  
+
+![](bmot14.png)
+
+**Obligatorio:** si el adjunto es obligatorio se debe activar el flag.  
+**Estado:** se debe seleccionar si el adjunto está activo o no.  
+
+![](bmot15.png)
+
+De esta manera, al adjuntar documentos por ejemplo para la opción **XEXP**, se mostrará un listBox para la selección del tipo de adjunto.  
+
+![](bmot16.png)
