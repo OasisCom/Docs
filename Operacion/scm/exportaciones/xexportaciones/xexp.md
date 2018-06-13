@@ -56,7 +56,7 @@ En el detalle, veremos los productos relacionados con el pedido asociado anterio
 **Cantidad Bruto:** este campo se maneja en sacos para la exportación de café, para cualquier otra empresa es la cantidad bruta del producto en cuestión.  
 **Precio:** corresponde al valor de la negociación inicial. Este precio inicial varía con la liquidación de la exportación.  
 
-Una vez creado el maestro y el detalle, nótese que al intentar procesar el registro, el sistema muestra un mensaje de control indicando que requiere adjuntar documentos, los cuales son requeridos para la realización del proceso de exportación. Los documentos que se requieran solicitar para el registro de la exportación se deben parametrizar previamente en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos) _Ver aplicación_.  
+Una vez creado el maestro y el detalle, nótese que al intentar procesar el registro, el sistema muestra un mensaje de control indicando que requiere adjuntar documentos, los cuales son requeridos para la realización del proceso de exportación. Dichos documentos se deben parametrizar previamente en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos) _Ver aplicación_.  
 
 ![](xexp6.png)
 
