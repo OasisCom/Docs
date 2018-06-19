@@ -33,8 +33,3 @@ Permite registrar los diferentes proyectos en los que trabajará la empresa.
 **Avance:** indicar el porcentaje de avance en el que se encuentra el proyecto.  
 
 
-
-
-
-
-
