@@ -20,7 +20,7 @@ Esta aplicación permite parametrizar todas las condiciones de pago posibles a l
 
 La aplicación cuenta con un detalle, en donde se diligencian los intervalos propios de cada cuota según la necesidad y comportamiento de las líneas de crédito.  
 
-![](BCND2.PNG)
+![](bcnd2.png)
 
 **Cuota:** ingresar el número de la cuota.  
 **Tipo Intervalo:** ingresar el tipo de intervalo en el cual se pagará el crédito, es decir, por días o mensual.  
