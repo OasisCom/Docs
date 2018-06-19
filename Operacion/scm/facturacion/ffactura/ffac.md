@@ -156,7 +156,8 @@ Asociamos la exportación en la factura, ingresando el documento, el número de 
 
 ![](ffac10.png)
 
-Al procesar la factura, se podrá visualizar la actualización de la exportación en el renglón del detalle facturado en el campo Entregado y Estado.  
+Al procesar la factura, se podrá visualizar la actualización de la exportación en el renglón del detalle facturado en el campo **Entregado** con la cantidad inicialmente designada al producto y debe también actualizar el estado de los mismos a terminado (letra **T**).  
+
 
 ![](ffac11.png)
 
