@@ -85,49 +85,33 @@ La aplicación **XEXP** cuenta con una serie de tareas las cuales son necesarias
 
 ![](xexp8.png)
 
-Estas tareas se encuentran parametrizadas por precedencia, es decir, que una tarea no puede ser ejecutada si no se ha ejecutado la anterior. Este proceso se parametriza desde la aplicación [SPRC - Procesos]().  
+Estas tareas se encuentran parametrizadas por precedencia, es decir, que una tarea no puede ser ejecutada si no se ha ejecutado la anterior. Este proceso se parametriza desde la aplicación [**SPRC - Procesos**](http://docs.oasiscom.com/Operacion/utility/workflow/sbasica/sprc).  
 
+En el maestro de SPRC se debe crear un registro con su respectivo Id de proceso y nombre, asociando el documento y el tipo de tarea.  
 
+![](xexp9.png)
 
+En el detalle, se crean las tareas teniendo en cuenta lo siguiente:	 
 
+* En el campo **Depende**, se define si la ejecución de dicha tarea depende de la anterior. Por ejemplo: La tarea _Asignación de Lotes_ no puede ser ejecutada, hasta que se ejecute la tarea de _Contrato_. Por lo tanto, en el campo _Depende_ se selecciona del listBox la opción _Anterior_:  
 
+![](xexp10.png)
 
+De esta manera, si se intenta ejecutar dicha tarea sin haber ejecutado la tarea de contratos, la aplicación enseñará la siguiente validación.  
 
+![](xexp11.png)
 
+Por el contrario, si ejecuta la tarea de _Contratos_, la siguiente a esta _**Asignación de Lotes**_ podrá ser ejecutada.  
 
+Ejecutando la tarea de _Contratos_:  
 
+![](xexp12.png)
 
+Ejecución de la siguiente tarea:  
 
+![](xexp13.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+La ejecución de estas tareas se hará en distintos momentos, según como avance el proceso de la exportación.  
 
 
 
@@ -139,11 +123,65 @@ Agregamos un nuevo formulario y diligenciamos los campos. Allí relacionaremos e
 
 ![](xexp3.png)
 
-En el detalle asociaremos los productos de exportación. Allí mismo encontraremos un botón con el cual se liquida la exportación. Las exportaciones para el siguiente ejemplo, se liquidan por renglón y deben calcular el costo y el precio.  
+En el detalle asociaremos los productos de exportación. Allí mismo encontraremos la siguiente serie de botones:  
+
+#### Liquida Renglón Exportación
+
+el primero es el botón con el cual se liquida la exportación. Las exportaciones para el siguiente ejemplo, se liquidan por renglón y deben calcular el costo y el precio.  
 
 ![](xexp4.png)
+
+![](xexp14.png)
 
 Para un mejor análisis, en la pestaña de conceptos se visualiza la liquidación de los conceptos de exportación.  
 
 ![](xexp5.png)
+
+#### Confirma Item
+
+Este botón realiza la confirmación de un registro cambiando el campo _Estado_ a **P** (Procesado) y no se permitirá la modificación de ninguno de sus campos.  
+
+![](xexp15.png)
+
+![](xexp16.png)
+
+#### Reversa Item
+
+Este botón realiza la reversión del registro confirmado, cambiando el campo _Estado_ a **A** (Activo), permitiendo la modificación de registros.  
+
+![](xexp17.png)
+
+![](xexp18.png)
+
+#### Genera Ajuste
+
+Este botón genera un movimiento de inventario, el cual muestra la diferencia entre el valor total de la liquidación de la exportación menos el valor de la materia prima, es decir, no afectará los conceptos que son de inventarios (Materia Prima), donde el campo Módulo corresponde a **I**:  
+
+![](xexp19.png)
+
+Realizará afectación en el documento **EN**, concepto **AX** el cual en el campo Módulo es **_X_**, es decir, que pertenece al módulo de exportaciones.  
+
+![](xexp20.png)
+
+Botón Genera Ajuste.  
+
+![](xexp21.png)
+
+![](xexp22.png)
+
+Posteriormente, en la opción **IMOV** puede verse como han sido creados estos movimientos con documento _EN - entrada de inventario_ por concepto _AX - Ajuste al Costo por Exportación_.  
+
+![](xexp23.png)
+
+A continuación, se procede a confirmar la exportación teniendo en cuenta que, solo se puede procesar si todos los registros están liquidados y confirmados.  
+
+![](xexp24.png)
+
+
+En la aplicación [**XLIQ - Liquidaciones**](http://docs.oasiscom.com/Operacion/scm/exportaciones/xliquidacion/xliq), visualizamos la información de la exportación (estimado vs. legalizado). _Ver aplicación_.  
+
+Finalmente, en la aplicación [**FFAC - Facturas**](), creamos la factura correspondiente a la exportación generada anteriormente. _Ver aplicación_  
+
+Terminado este proceso, se culmina con todo el proceso de exportaciones.  
+
 
