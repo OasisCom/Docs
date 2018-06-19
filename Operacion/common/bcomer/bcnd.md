@@ -5,7 +5,7 @@ permalink: /Operacion/common/bcomer/bcnd
 editable: si
 ---
 
-# Condición de Pago - BCND
+# BCND - Condición de Pago
 
 Esta aplicación permite parametrizar todas las condiciones de pago posibles a la hora de generar un documento, esto permite visualizar la fecha de vencimiento del documento, por ejemplo, permite distinguir las facturas que se encuentran en cartera y están vencidas por su respectiva condición de pago.  
 
