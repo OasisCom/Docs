@@ -105,10 +105,21 @@ Este reporte también podrá ser descargado en Excel, PDF o Word.
 
 ## [Proceso Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal)
 
-Para realizar el proceso de Chip Presupuestal, se debe 
+Para realizar el proceso de Chip Presupuestal, se debe previamente parametrizar los formatos de programación de gastos, ejecución de gastos, programación de ingresos y ejecución de ingresos en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrizaci%C3%B3n-formatos-chip-presupuestal) (_Ver aplicación_).  
 
+Parametrizados los formatos, en la aplicación KPGF generaremos la información que almacenará cada formato.  
 
+Consultamos por año, ciclo (periodo), Id del formato a generar (este Id es asignado en la aplicación KBFO al parametrizarlo). Damos click en el botón _Generar_.  
 
+![](kpgf11.png)
+
+Para visualizar la información generada ingresamos al formato correspondiente:  
+
+* [**Programación de Gastos - QRP1**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp1)
+* [**Ejecución de Gastos - QRP2**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp2)
+* [**Programación de Ingresos - QRP3**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp3)
+* [**Ejecución de Ingresos - QRP3**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp4)
+* [**Ejecución General - QRAG**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrag)
 
 
 

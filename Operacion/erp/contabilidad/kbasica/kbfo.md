@@ -175,5 +175,14 @@ Parametrizado el formato, ingresamos a la aplicación [**KPGF - Genera Formatos*
 
 ## [Parametrización Formatos Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-formatos-chip-presupuestal)
 
+Para realizar el proceso de Chip Presupuestal, inicialmente se deben parametrizar los formatos en la aplicación KBFO.  
 
+![](kbfo10.png)
 
+En el detalle, a cada renglón del _Id formato detalle_ se le deberá asignar una cuenta contable en la pestaña **Cuentas**.  
+
+![](kbfo11.png)
+
+Lo anterior para cada formato del maestro y detalle.  
+
+Parametrizados los formatos, se realiza el proceso de Chip Presupuestal en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal). (_Ver aplicación_).  
