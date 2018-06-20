@@ -7,13 +7,14 @@ editable: si
 
 ## Saldo Per. Aux. Negocio - KSPN
 
-Esta aplicación nos permite visualizar los saldos periódicamente filtrando por negocio el cual debe estar parametrizado en la aplicación Negocio **BNEG - Negocios**.
+Esta aplicación nos permite visualizar los saldos periódicos filtrando por negocio. Los negocios deben estar parametrizados en la aplicación [**BNEG - Negocios**](http://docs.oasiscom.com/Operacion/common/bfinan/bneg).
 
 ![](KSPN.png)
 
 **Periodo:** Valor numérico que identifica al mes.  
 **Año:** Año al cual se va a realizar la consulta.  
 **Cuenta:** Identificación numérica y nombre de la cuenta.  
+**Imputable:** permite filtrar la información de los saldos que son imputables y los que no lo son. Para filtrar por los saldos imputables consultamos con el número 1.  
 **Negocio:** Identificación numérica del negocio al cual pertenece la cuenta.  
 **Anterior:** Valor que posee la cuenta antes de iniciar el periodo.  
 **Debito:** Valor numérico de los movimientos débitos que se realizan durante el periodo.  
@@ -43,6 +44,6 @@ En el **Detalle** se encontrarán los siguientes campos:
 **Periodo:** Periodo de registro del documento.  
 **Año:** Año de registro del documento.  
 **Núm Cheque:** número de cheque.  
-**Libro:** Libro del documento.  
+**Libro:** Libro contable del documento.  
 
 
