@@ -82,6 +82,17 @@ Esta factura la podremos ver en la aplicación **JFAC - Facturas** al consultar 
 
 ### FUNCIONALIDADES EN MJFAC
 
+#### Seleccionar caracteristica del producto
+
+En la parte superior derecha, se encuentra una fila con las características de los productos, al seleccionar alguna el sistema traerá los productos que tengan asociada dicha característica.  
+
+![](mjfac34.png)
+
+La aplicación cuenta con una lista desplegable con las opciones: _Código de barras, nombre producto, código producto_ lo cual facilita la consulta del usuario.  
+
+![](mjfac35.png)
+
+
 #### Búsqueda de terceros
 
 El botón ![](buscar.png) permite consultar los terceros creados y ya existentes en OasisCom.  
@@ -91,6 +102,12 @@ Damos click en el botón de búsqueda y el sistema nos arrojará un zoom con tod
 ![](mjfac17.png)
 
 ![](mjfac18.png)
+
+También cuenta con el campo _Vendedor_ lo que permite identificar quién realizó la venta.  
+
+![](mjfac36.png)
+
+
 
 #### Zoom de Documento
 
