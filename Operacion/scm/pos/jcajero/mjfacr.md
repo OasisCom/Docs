@@ -23,10 +23,6 @@ Al crear la factura, es posible relacionar el vendedor que atendió la mesa, est
 
 ![](mjfacr20.png)
 
-Al crear la factura, es posible relacionar el vendedor que atendió la mesa, esto permite mostrar posteriormente indicadores con respecto a las ventas realizadas asociadas a cada vendedor y mesa.  
-
-![](mjfacr20.png)
-
 Otras de las caracteristicas es que permite categorizar los productos, esto basado en la clasificación que cada producto tenga.  
 
 ![](mjfacr2.png)

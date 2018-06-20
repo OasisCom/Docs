@@ -144,7 +144,7 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 
 # [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 
-Este proceso permite enlazar en la opción **FFAC** el documento de exportación _XEXP_ para así poder terminar con el ciclo de la exportación.  
+Este proceso permite enlazar en la opción **FFAC** los documentos de las exportaciones _XEXP_ para así poder terminar con el ciclo de la exportación.  
 
 Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicaicón FFAC para así ser facturado.  
 
@@ -152,11 +152,31 @@ Documento EX en estado Activo con renglón en el detalle Procesado.
 
 ![](xexp.png)
 
-Asociamos la exportación en la factura, ingresando el documento, el número de consecutivo y la ubicación.  
+Es posible asociar varias exportaciones en una sola factura, para ello inicialmente debemos asociar un documento de una exportación en el maestro y las demás las relacionaremos en el detalle.  
+
+Para asociar la exportación en el maestro de la factura, ingresamos el documento, el número de consecutivo y la ubicación.  
 
 ![](ffac10.png)
 
-Al procesar la factura, se podrá visualizar la actualización de la exportación en el renglón del detalle facturado en el campo **Entregado** con la cantidad inicialmente designada al producto y debe también actualizar el estado de los mismos a terminado (letra **T**).  
+En el detalle, agregamos un nuevo renglón e ingresamos el producto de la factura para posteriormente validar el zoom de exportaciones pendientes.  
+
+En el campo _Id Orden_ damos click derecho e ingresamos en la opción _**Exportaciones pendientes**_.  
+
+![](ffac14.png)
+
+Seleccionamos del zoom las exportaciones que deseamos relacionar en la factura.  
+
+![](ffac15.png)
+
+Las exportaciones se reflejarán en el detalle de la factura.  
+
+![](ffac16.png)
+
+En los campos Doc Documento1, se mostrará el número del documento EX asociado.  
+
+![](ffac17.png)
+
+Al procesar la factura, se podrá visualizar la actualización de las exportaciones en el renglón del detalle facturado en el campo **Entregado** con la cantidad inicialmente designada al producto y debe también actualizar el estado de los mismos a terminado (letra **T**).  
 
 
 ![](ffac11.png)
