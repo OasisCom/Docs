@@ -173,5 +173,7 @@ Para visualizar el reporte en la aplicación [**KPGF - Genera Formatos**](http:/
 
 Parametrizado el formato, ingresamos a la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#situación-financiera) a visualizar el reporte de Situación Financiera. (_Ver aplicación_)
 
+## [Parametrización Formatos Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-formatos-chip-presupuestal)
+
 
 

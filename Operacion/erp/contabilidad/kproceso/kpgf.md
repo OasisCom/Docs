@@ -101,3 +101,14 @@ Igualmente, aparecerá el botón ![](imprimir.png), daremos click en este y el s
 Este reporte también podrá ser descargado en Excel, PDF o Word.  
 
 ![](kpgf6.png)
+
+
+## [Proceso Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal)
+
+Para realizar el proceso de Chip Presupuestal, se debe 
+
+
+
+
+
+
