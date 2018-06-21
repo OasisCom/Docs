@@ -118,7 +118,7 @@ Para visualizar la información generada ingresamos al formato correspondiente:
 * [**Programación de Gastos - QRP1**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp1)
 * [**Ejecución de Gastos - QRP2**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp2)
 * [**Programación de Ingresos - QRP3**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp3)
-* [**Ejecución de Ingresos - QRP3**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp4)
+* [**Ejecución de Ingresos - QRP4**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp4)
 * [**Ejecución General - QRAG**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrag)
 
 
