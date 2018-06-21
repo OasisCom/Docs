@@ -17,4 +17,4 @@ editable: si
 ###### [Proveedor Tecnológico de factura electrónica- Resolución DIAN 003100 ](http://docs.oasiscom.com/Mercadeo/fichas/Resolución Dian 0031000.pdf)
 ###### [Proveedor Tecnológico de factura electrónica- Resolución DIAN 003100 ](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas-Frecuentes-de-factura-Electronica.pdf)
 ###### [Trayectoria del servicio asistencial y administrativo con OasisCom salud ](http://docs.oasiscom.com/Mercadeo/fichas/OasisCom_Salud_flujograma.png)
-
+###### [Preguntas frecuentes de facturación electrónica E-book](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas-Frecuentes-de-factura-Electronica.pdf)
