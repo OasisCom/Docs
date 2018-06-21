@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Datos Basicos
+title: Tipo de Descuento
 permalink: /Operacion/scm/facturacion/fbasica/fbtd
 editable: si
 ---
@@ -31,10 +31,3 @@ La aplicación **FBTD** permite parametrizar los tipos de descuentos que se util
 **_Nota:_** Se debe tener en cuenta que, si el estado del tipo de descuento es Inactivo **I**, este no será aplicado a ningún producto en caso de ser parametrizado.  
 
 Parametrizados los tipos de descuentos, ahora se deben realizar las listas de precios de los productos en la aplicación [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre). (_Ver aplicación_).  
-
-
-
-
-
-
-
