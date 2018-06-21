@@ -11,9 +11,11 @@ Reporte que muestra la programación de ingresos del proceso Chip Presupuestal g
 
 Consultamos por el periodo para el cual se generó el proceso en la aplicación KPGF, el año y el Id del Formato correspondiente a _Programación de Ingresos_ (**22**).  
 
+
 ![](qrp3.png)
 
 Al generar el reporte se visualizará la información.  
+
 
 ![](qrp33.png)
 
