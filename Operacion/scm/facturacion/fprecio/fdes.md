@@ -114,10 +114,47 @@ Agregamos un nuevo registro y diligenciamos lo siguiente:
 
 **Marca:** Se diligencia la marca del producto en cuestión para el que aplicará el descuento, teniendo en cuenta que, si se diligencia **0**, quiere decir que este descuento aplica para todas las marcas del mismo.  
 
+![](fdes11.png)
 
+**Línea:** se selecciona la línea del producto. Por ejemplo, si el producto corresponde a una camisa, este puede tener línea masculina, línea femenina, línea infantil, etc. Debe tenerse en cuenta que si la línea es **0** aplicará para todas las líneas.  
 
+![](fdes12.png)
 
+**Producto:** se debe ingresar el código del producto sobre el cual aplicará el descuento parametrizado, aquí pues se ingresa uno de los productos parametrizados anteriormente. Se debe tener en cuenta que, si el código del producto es **0**, quiere decir que aplica para todos los productos.  
 
+![](fdes13.png)
+
+En los campos **FechaIni** y **DateFinal** se debe ingresar la vigencia del descuento, es decir, de cuando a cuando esta parametrización será aplicable.  
+
+![](fdes14.png)
+
+El llenado de los campos **Precio**, **%Descuento**, y **Valor** dependen del descuento que se esté parametrizando. En este caso para el descuento por valor se diligencia el campo **Valor**.  
+
+![](fdes15.png)
+
+**Estado:** se ingresa _ACTIVO_ o _INACTIVO_ según corresponda.  
+
+![](fdes16.png)
+
+El descuento fue guardado exitosamente.  
+
+![](fdes17.png)
+
+Ahora, para verificar que efectivamente este descuento aplica para este producto, procedemos a realizar un movimiento en la aplicación **JFAC - Facturas**.  
+
+Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción **FDES**:  
+
+![](fdes18.png)
+
+Luego de guardar el registro maestro, se procede a diligenciar los datos del detalle:  
+
+**Producto:** se ingresa el código del producto sobre el cual se desea realizar el movimiento. Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **Descuento** se enseña el descuento en valor parametrizado en la opción FDES.  
+
+![](fdes19.png)
+
+Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción FDES), no se aplicará el descuento y en la opción JFAC el campo **Descuento** será 0.  
+
+![](fdes20.png)
 
 
 
