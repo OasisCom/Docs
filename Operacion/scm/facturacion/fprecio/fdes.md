@@ -57,7 +57,6 @@ Este proceso consiste en la parametrización de tipos de descuentos que pueden s
 
   Sea un producto ‘X’ con precio $50.000 se deja a la venta con un descuento del 10%, es decir $45.000.  
  
-
  
 * **Descuento por volumen en %:** este descuento consiste en la reducción porcentual del precio de un producto a los compradores que adquieren grandes cantidades del producto en cuestión. _Por ejemplo:_  
  
@@ -79,7 +78,7 @@ La parametrización de los tipos de descuento descrita se definirá a continuaci
 
 Ahora, en la aplicación **FDES - Descuentos** se realiza la parametrización de los tipos de descuentos descritos anteriormente, así:  
 
-### [Descuento en Valor](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor)
+## [Descuento en Valor](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor)
 
 Agregamos un nuevo registro y diligenciamos lo siguiente:  
 
@@ -157,7 +156,7 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 ![](fdes20.png)
 
 
-### [Descuento en Precio](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-precio)
+## [Descuento en Precio](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-precio)
 
 **Id Descuento:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
 **Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso _Descuento en Precio_.  
@@ -199,7 +198,7 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 ![](fdes27.png)
 
 
-### [Descuento en Porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-porcentaje)
+## [Descuento en Porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-porcentaje)
 
 **Id Descuento:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
 **Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso Descuento en porcentaje (%).  
@@ -237,18 +236,68 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 
 ![](fdes33.png)
 
-### [Descuento por volumen en porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-por-volumen-en-porcentaje)
+## [Descuento por volumen en porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-por-volumen-en-porcentaje)
 
 
+**Descuento Id:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso _Descuento por volumen en %_.  
 
+Se realiza la misma dinámica igual que el descuento anterior, llenando los campos correspondientes. [**Ver descuento en Valor**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor).  
 
+**Producto:** se ingresa otro de los productos parametrizados anteriormente.  
 
+![](fdes34.png)
 
+Posteriormente, se guarda el registro con estado **ACTIVO**.  
 
+![](fdes35.png)
 
+Para este tipo de descuento en volumen, en necesario diligenciar las especificaciones de este descuento en el detalle, así:  
 
+**Renglón:** se llena automáticamente al momento de guardar el registro.  
+**Producto:** se debe ingresar el código del producto sobre el cual se quiere aplicar el descuento correspondiente.  
 
+Se diligencian los demás campos de acuerdo con lo anteriormente explicado.  
 
+![](fdes36.png)
 
+En los campos **Cantidad1**, **Cantidad2** y **Discount1** se ingresa el rango de cantidades sobre el cuál será aplicable el descuento y el valor correspondiente, entonces, por ejemplo, para el producto _OSITOS DE GOMA_ si se adquiere de 1 a 10 unidades se obtendrá un descuento del 10%, de 11 a 20 unidades el 20% y de 21 a 30 unidades el 30%.  
 
+![](fdes37.png)
+
+Hecho esto, para verificar la correcta parametrización de este descuento, se procede a realizar un movimiento en la opción JFAC - Facturas:  
+
+Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción FDES:  
+
+![](fdes38.png)
+
+Luego de guardar el registro maestro, se procede a diligenciar los datos del detalle:  
+
+**Producto:** se ingresa el código del producto sobre el cual se desea realizar el movimiento.  
+
+![](fdes39.png)
+
+Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **%Descuento** se enseña el descuento en valor parametrizado en la opción FDES, de acuerdo a la cantidad de unidades adquirida, entonces:  
+
+* Si se adquiere entre 1 y 10 unidades, el descuento será del 10%:  
+
+![](fdes40.png)
+
+* Si se adquiere entre 11 y 20 unidades, el descuento será del 20%.  
+
+![](fdes41.png)
+
+* o	Si se adquiere entre 21 y 30 unidades, el descuento será de 30%.  
+
+![](fdes42.png)
+
+* Si se adquiere una cantidad fuera de los rangos parametrizados, no habrá descuento:  
+
+![](fdes43.png)
+
+Igualmente, si el estado del descuento (opción FDES) es **INACTIVO**, tampoco se aplicará ningún descuento, así esté dentro de los rangos parametrizados.  
+
+![](fdes44.png)
+
+![](fdes45.png)
 
