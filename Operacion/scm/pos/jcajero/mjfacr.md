@@ -15,9 +15,13 @@ Una de las caracteristicas del **MJFACR**, es que cuando se crean facturas el co
 
 ![](mjfacr.png)
 
-Cuando se accede a la mesa que está **Ocupada**, esta mostrará la factura correspondiente y sus productos. La aplicación tiene un filtro para consultar los productos que se relacionarán a la factura. 
+Cuando se accede a la mesa que está **Ocupada**, esta mostrará la factura correspondiente y sus productos. La aplicación tiene un filtro para consultar los productos que se relacionarán a la factura.  
 
 ![](mjfacr1.png)
+
+Al crear la factura, es posible relacionar el vendedor que atendió la mesa, esto permite mostrar posteriormente indicadores con respecto a las ventas realizadas asociadas a cada vendedor y mesa.  
+
+![](mjfacr20.png)
 
 Otras de las caracteristicas es que permite categorizar los productos, esto basado en la clasificación que cada producto tenga.  
 
@@ -27,7 +31,7 @@ Al seleccionar los productos del pedido, damos click en el botón _Ordenar_ y el
 
 ![](mjfacr3.png)
 
-Para efectuar el pago de la factura, damos click en el botón _Pagar_, seleccionamos la forma de pago, ingresamos el valor y damos click en el botón ![](guardar1.png). Este guardará la forma de pago y calculará el valor de cambio en caso de que aplique.
+Para efectuar el pago de la factura, damos click en el botón _Pagar_, seleccionamos la forma de pago, ingresamos el valor y damos click en el botón ![](guardar1.png). Este guardará la forma de pago y calculará el valor de cambio en caso de que aplique.  
 
 Damos click en _Pagar_.  
 
@@ -44,8 +48,8 @@ La funcionalidad en OasisCom consiste en imprimir facturas directamente desde cu
 
 La configuración inicial se realiza por medio de la sesión que realicemos, para ello utilizamos Google Chrome, en donde prodecemos a iniciar sesión, para ello es necesario utilizar lo siguiente:  
 
-**Correo:** info_oasis@oasis.com.co
-**Contraseña:** ventas
+**Correo:** info_oasis@oasis.com.co  
+**Contraseña:** ventas  
 
 ![](mjfacr5.png)
 

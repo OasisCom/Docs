@@ -5,7 +5,7 @@ permalink: /Operacion/common/bcomer/bcnd
 editable: si
 ---
 
-# Condición de Pago - BCND
+# BCND - Condición de Pago
 
 Esta aplicación permite parametrizar todas las condiciones de pago posibles a la hora de generar un documento, esto permite visualizar la fecha de vencimiento del documento, por ejemplo, permite distinguir las facturas que se encuentran en cartera y están vencidas por su respectiva condición de pago.  
 
@@ -18,5 +18,16 @@ Esta aplicación permite parametrizar todas las condiciones de pago posibles a l
 **Tipo intervalo:** Se debe registrar D si es diario, M si es mensual, B si es bimensual, T si es trimestral, S si es semestral, A si es anual.  
 **Intervalo:** De acuerdo al campo anterior se diligencia, ejemplo si es diario la cantidad de días que aplica, si es bimensual se debería diligenciar 1, pero si queremos indicar que son dos meses y en el campo anterior pusimos M, en este campo debemos diligenciar 2.  
 
+La aplicación cuenta con un detalle, en donde se diligencian los intervalos propios de cada cuota según la necesidad y comportamiento de las líneas de crédito.  
 
+![](bcnd11.png)
 
+<<<<<<< HEAD
+![](bcnd11.png)
+=======
+>>>>>>> origin/master
+
+**Cuota:** ingresar el número de la cuota.  
+**Tipo Intervalo:** ingresar el tipo de intervalo en el cual se pagará el crédito, es decir, por días o mensual.  
+**Intervalo:** ingresar el número de intervalos de la cuota.  
+**Porcentaje Cuota:** porcentaje asignado a la cuota.  

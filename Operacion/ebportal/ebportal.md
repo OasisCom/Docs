@@ -37,4 +37,30 @@ El formato de factura electrónica que se envía al adquiriente contiene un Cód
 # [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)
 
 Generada la factura electrónica, el sistema enviará automáticamente un mensaje de texto al número del dispositivo móvil del cliente registrado en el sistema informando de la creación de la factura.  
-  
+
+
+# [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)
+
+En el envío de la factura electrónica es posible agregar archivos adjuntos, para ello, se debe parametrizar inicialmente los campos _Ebill_ y _EbillAdjunct_ en la aplicación **SEMP - Empresas**, lo cual indicará que la empresa emite facturación electrónica y podrá adjuntar archivos en la misma.  
+
+![](ebportal5.png)
+
+Los archivos adjuntos que se visualizarán en el correo eletrónico son:  
+
+1. Documento **.pdf** con el formato fisico de la factura.  
+2. Archivo **.zip** con la factura electrónica en formato **.xml**.  
+3. Los demás archivos adjuntos que hayan sido agregados en la factura electrónica al momento de generarla.  
+
+![](ebportal6.png)
+
+
+
+
+
+
+
+
+
+
+
+

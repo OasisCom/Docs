@@ -14,4 +14,4 @@ Para registrar una aduana, ingresamos un nuevo renglón, indicamos el Id de adua
 ![](badu.png)
 
 
-
+Registradas las aduanas en la opción BADU, procedemos a registrar los costos de cada una en la aplicación [**BADC - Costos Aduanas**](http://docs.oasiscom.com/Operacion/common/bcomer/badc).  
