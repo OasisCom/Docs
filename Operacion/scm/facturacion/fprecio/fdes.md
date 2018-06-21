@@ -45,6 +45,10 @@ Con esta configuración según el rango de fechas de vencimiento el sistema toma
 
 Este proceso consiste en la parametrización de tipos de descuentos que pueden ser aplicados a productos al momento de realizar algún movimiento en OasisCom. Los tipos de descuentos son los siguientes:  
 
+* **Descuento en Valor:** es el descuento que se realiza al precio de un producto conforme a un valor determinado. _Por ejemplo:_  
+
+  Sea un producto ‘X’ con precio $50.000, se realiza un descuento por valor de $10.000 sobre el precio del mismo, es decir, este producto queda a la venta con un precio de $40.000.  
+
 * **Descuento por Precio:** consiste en el descuento que se realiza a un producto reduciendo el precio original del mismo. _Por ejemplo:_  
 
   Sea un producto ‘X’ con precio $30.000, desea dejarse para la venta a un descuento por precio de $20.000.  
@@ -53,9 +57,7 @@ Este proceso consiste en la parametrización de tipos de descuentos que pueden s
 
   Sea un producto ‘X’ con precio $50.000 se deja a la venta con un descuento del 10%, es decir $45.000.  
  
-* **Descuento en Valor:** es el descuento que se realiza al precio de un producto conforme a un valor determinado. _Por ejemplo:_  
 
-  Sea un producto ‘X’ con precio $50.000, se realiza un descuento por valor de $10.000 sobre el precio del mismo, es decir, este producto queda a la venta con un precio de $40.000.  
  
 * **Descuento por volumen en %:** este descuento consiste en la reducción porcentual del precio de un producto a los compradores que adquieren grandes cantidades del producto en cuestión. _Por ejemplo:_  
  
@@ -74,6 +76,43 @@ La parametrización de los tipos de descuento descrita se definirá a continuaci
 * Se debe realizar la creación de los tipos de descuentos en la aplicación [**FBTD - Tipos de Descuento**](http://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtd). (_Ver aplicación_) 
 * Se deben crear los productos en la aplicación [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro) y la lista de precios correspondiente en la opción [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre). (_Ver aplicación_)  
 
+
+Ahora, en la aplicación **FDES - Descuentos** se realiza la parametrización de los tipos de descuentos descritos anteriormente, así:  
+
+### [Descuento en Valor](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor)
+
+Agregamos un nuevo registro y diligenciamos lo siguiente:  
+
+**DiscountId:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**DiscountName:** se debe ingresar el nombre del descuento. En este caso _Descuento en Valor_.  
+
+![](fdes4.png)
+
+**Ubicación:** se ingresa la ubicación en donde aplicará este descuento. Se debe tener en cuenta que, si se deja en ubicación **0**, esto quiere decir que este descuento aplicará para todas las ubicaciones.  
+
+![](fdes5.png)
+
+**T. Precio:** se debe diligenciar el tipo de precio que aplicará este descuento. Estos tipos de precio son una clasificación de los precios que pueden aplicar en las empresas.  
+
+![](fdes6.png)
+
+**Tipo Descuento:** se selecciona el tipo de descuento, teniendo en cuenta que el tipo de descuento a seleccionar debe concordar con la parametrización que desea realizarse. En este caso, por ejemplo, si el descuento es _Descuento en valor_, el tipo de descuento debe ser _Descuento en Valor_.  
+
+![](fdes7.png)
+
+**Tercero:** se ingresa el usuario al que aplicará este descuento. Se debe tener en cuenta que, si el tercero es **0**, quiere decir que esta parametrización aplica para todos los terceros.  
+
+![](fdes8.png)
+
+**Segment Id:** se selecciona el segmento al que pertenece el cliente seleccionado, es decir, hace referencia a una manera de clasificación de clientes.  
+
+![](fdes9.png)
+
+**Clasificación:** se diligencia el tipo de producto seleccionado.  
+
+![](fdes10.png)
+
+**Marca:** Se diligencia la marca del producto en cuestión para el que aplicará el descuento, teniendo en cuenta que, si se diligencia **0**, quiere decir que este descuento aplica para todas las marcas del mismo.  
 
 
 
