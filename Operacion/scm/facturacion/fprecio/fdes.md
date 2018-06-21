@@ -157,22 +157,38 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 ![](fdes20.png)
 
 
+### [Descuento en Precio](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-precio)
+
+**Id Descuento:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso _Descuento en Precio_.  
+
+Se realiza la misma dinámica igual que el descuento anterior, llenando los campos correspondientes. [**Ver descuento en Valor**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor).
+
+**Producto:** se ingresa otro de los productos parametrizados anteriormente.  
+
+![](fdes21.png)
+
+Posteriormente, el valor para este tipo de descuento en precio se ingresa en el campo **Precio**, así:  
+
+![](fdes22.png)
+
+Por último, se guarda el registro con estado **ACTIVO**.  
+
+![](fdes23.png)
+
+Ahora, para verificar la correcta parametrización de este descuento, se realizará un movimiento en la opción **JFAC - Facturas**, para el producto parametrizado, así.  
 
 
+Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción FDES:  
 
+![](fdes24.png)
 
+Luego de guardar el registro maestro, se procede a diligenciar los datos del detalle:  
 
+**Producto:** se ingresa el código del producto sobre el cual se desea realizar el movimiento.  
 
+Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **Precio** se enseña el descuento en valor parametrizado en la opción **FDES**.  
 
-
-
-
-
-
-
-
-
-
-
+![](fdes25.png)
 
 
