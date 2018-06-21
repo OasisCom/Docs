@@ -22,7 +22,10 @@ La aplicación cuenta con un detalle, en donde se diligencian los intervalos pro
 
 ![](bcnd11.png)
 
+<<<<<<< HEAD
 ![](bcnd11.png)
+=======
+>>>>>>> origin/master
 
 **Cuota:** ingresar el número de la cuota.  
 **Tipo Intervalo:** ingresar el tipo de intervalo en el cual se pagará el crédito, es decir, por días o mensual.  
