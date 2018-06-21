@@ -223,6 +223,30 @@ Ahora, para verificar la correcta parametrización de este descuento, se realiza
 
 Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción **FDES**:  
 
+![](fdes31.png)
+
+Luego de guardar el registro maestro, se procede a diligenciar los datos del detalle:  
+
+**Producto:** se ingresa el código del producto sobre el cual se desea realizar el movimiento.  
+
+![](fdes32.png)
+
+Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **%Descuento** se enseña el descuento en valor parametrizado en la opción FDES.  
+
+Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción FDES), no se aplicará el descuento y en la opción JFAC - Facturas el campo **%Descuento** será 0.  
+
+![](fdes33.png)
+
+### [Descuento por volumen en porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-por-volumen-en-porcentaje)
+
+
+
+
+
+
+
+
+
 
 
 
