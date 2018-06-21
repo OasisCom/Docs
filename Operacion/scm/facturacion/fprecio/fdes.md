@@ -199,15 +199,29 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 ![](fdes27.png)
 
 
+### [Descuento en Porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-porcentaje)
+
+**Id Descuento:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso Descuento en porcentaje (%).  
+
+Se realiza la misma dinámica igual que el descuento anterior, llenando los campos correspondientes. [**Ver descuento en Valor**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor).  
 
 
+**Producto:** se ingresa otro de los productos parametrizados anteriormente.  
 
+![](fdes28.png)
 
+Posteriormente, el valor a descontar para este tipo de descuento en % se ingresa en el campo **%Descuento**, así: En este caso el descuento será del 10%.  
 
+![](fdes29.png)
 
+Por último, se guarda el registro con estado **ACTIVO**.  
 
+![](fdes30.png)
 
+Ahora, para verificar la correcta parametrización de este descuento, se realizará un movimiento en la opción **JFAC - Facturas**, para el producto parametrizado, así.  
 
+Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción **FDES**:  
 
 
 
