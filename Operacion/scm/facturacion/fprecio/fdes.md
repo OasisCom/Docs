@@ -191,4 +191,26 @@ Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dand
 
 ![](fdes25.png)
 
+Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción FDES), no se aplicará el descuento y en la opción **JFAC** el campo **Precio** será el ingresado en esta misma opción. En este caso como no se le colocó precio al producto, este será 0.  
+
+![](fdes26.png)
+  
+
+![](fdes27.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
