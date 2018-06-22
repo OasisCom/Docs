@@ -244,6 +244,7 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 
 Se realiza la misma dinámica igual que el descuento anterior, llenando los campos correspondientes. [**Ver descuento en Valor**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor).  
 
+
 **Producto:** se ingresa otro de los productos parametrizados anteriormente.  
 
 ![](fdes34.png)
@@ -301,3 +302,132 @@ Igualmente, si el estado del descuento (opción FDES) es **INACTIVO**, tampoco s
 
 ![](fdes45.png)
 
+
+## [Descuento por volumen en valor](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-por-volumen-en-valor)
+
+**Descuento Id:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso Descuento por volumen en Valor.  
+
+Se realiza la misma dinámica igual que el descuento anterior, llenando los campos correspondientes. [**Ver descuento en Valor**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor).
+
+**Producto:** se ingresa otro de los productos parametrizados anteriormente.  
+
+![](fdes46.png)
+
+Posteriormente, se guarda el registro con estado **ACTIVO**.  
+
+![](fdes47.png)
+
+Para este tipo de descuento en volumen, en necesario diligenciar las especificaciones de este descuento en el detalle, así:  
+
+**Renglón:** se llena automáticamente al momento de guardar el registro.  
+**Producto:** se debe ingresar el código del producto sobre el cual se quiere aplicar el descuento correspondiente.  
+
+Se diligencian los demás campos de acuerdo con lo anteriormente explicado.  
+
+![](fdes48.png)
+
+En los campos **Cantidad1**, **Cantidad2** y **Valor** se ingresa el rango de cantidades sobre el cuál será aplicable el descuento y el valor correspondiente, entonces, por ejemplo, para el producto _OSITOS DE GOMA_ si se adquiere de 1 a 10 unidades se obtendrá un descuento del $5.000, de 11 a 20 unidades el $10.000 y de 21 a 30 unidades el $15.000.  
+
+![](fdes49.png)
+
+Hecho esto, para verificar la correcta parametrización de este descuento, se procede a realizar un movimiento en la opción JFAC - Facturas:  
+
+Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción _FDES - Descuentos_.  
+
+![](fdes50.png)
+
+Luego de guardar el registro maestro, se procede a diligenciar los datos del detalle:  
+
+**Producto:** se ingresa el código del producto sobre el cual se desea realizar el movimiento.  
+
+![](fdes51.png)
+
+Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **Descuento**, se enseña el descuento en valor parametrizado en la opción _FDES_, de acuerdo a la cantidad de unidades adquirida, entonces:  
+
+* Si adquiere entre 1 y 10 unidades del producto, el descuento en valor será de $5.000.  
+
+![](fdes52.png)
+
+* Si adquiere entre 11 y 20 unidades, el descuento en valor será de $10.000.  
+
+![](fdes53.png)
+
+* Si adquiere entre 21 y 30 unidades, el descuento en valor será de %15.000.  
+
+![](fdes54.png)
+
+* Si se adquiere una cantidad fuera de los rangos parametrizados, no habrá descuento.  
+
+![](fdes55.png)
+
+Igualmente, si el estado del descuento en FDES es **INACTIVO**, tampoco se aplicará ningún descuento así se encuentre dentro del rango parametrizado.  
+
+![](fdes56.png)
+
+![](fdes57.png)
+
+
+## [Descuento en porcentaje con control de cantidad](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-porcentaje-con-control-de-cantidad)
+
+**Descuento Id:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso _Descuento en % con Control de Cantidad_.  
+
+Para este tipo de descuento si se requiere un tercero en específico con lo que se debe seleccionar del campo **Tercero**.  
+
+![](fdes58.png)
+
+**Producto:** se ingresa otro de los productos parametrizados anteriormente.  
+
+Posteriormente, se guarda el registro con estado **ACTIVO**.  
+
+![](fdes59.png)
+
+Para este tipo de descuento en volumen en especial, es necesario diligenciar las especificaciones de este descuento en el detalle sobre la pestaña _Productos_, así:  
+
+**Renglón:** se llena automáticamente al momento de guardar el registro.  
+**Producto:** se debe ingresar el código del producto sobre el cual se quiere aplicar el descuento correspondiente.  
+**Tope:** se debe ingresar la cantidad máxima de unidades del producto que se puede adquirir para aplicar al descuento.  
+
+![](fdes60.png)
+
+**Descuento**: se debe ingresar el descuento porcentual que se aplicará a dicho tope.  
+
+![](fdes61.png)
+
+Hecho esto, para verificar la correcta parametrización de este descuento, se procede a realizar un movimiento en la opción _JFAC - Facturas_.  
+
+Al momento de crear el registro maestro, se debe tener en cuenta que el campo **Ubicación** y **T. Precio** deben concordar con los parametrizados en el descuento en la opción FDES.  
+
+![](fdes62.png)
+
+Luego de guardar el registro maestro, se procede a diligenciar los datos del detalle:  
+
+**Producto:**  se ingresa el código del producto sobre el cual se desea realizar el movimiento.  
+**Cantidad:** se debe ingresar la cantidad de unidades a adquirir del producto, pero sin pasarse del tope parametrizado para adquirir el descuento.  
+
+![](fdes63.png)
+
+Luego de esto, ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **%Descuento**, se enseña el descuento en valor parametrizado en la opción FDES, de acuerdo a la cantidad de unidades adquirida.  
+
+![](fdes64.png)
+
+Si el estado del descuento en FDES es **INACTIVO**, tampoco se aplicará ningún descuento así se encuentre dentro del rango parametrizado.  
+
+![](fdes65.png)
+
+![](fdes66.png)
+
+Luego de esto, se procede a procesar el registro creado.  
+
+![](fdes67.png)
+
+Ahora volvemos nuevamente a la opción FDES y nótese que, en el detalle pestaña _Producto_ del descuento parametrizado, en el campo **Entregado**, se enseña la cantidad de unidades del producto adquirida al momento de realizar el movimiento en la aplicación JFAC - Facturas.  
+
+![](fdes68.png)
+
+Hay que tener en cuenta que ya se adquirió 1 unidad del tope parametrizado, con lo que, si se intenta realizar otro movimiento con la misma cantidad, el sistema enseñará un mensaje de control, indicando que se está excediendo del tope establecido, dado que este ya no es 25 sino 24, restando el producto adquirido en el movimiento procesado anteriormente.  
+
+![](fdes69.png)
+
+De esta manera se realiza el proceso de creación y parametrización de descuentos.  
