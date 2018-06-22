@@ -82,8 +82,8 @@ Ahora, en la aplicación **FDES - Descuentos** se realiza la parametrización de
 
 Agregamos un nuevo registro y diligenciamos lo siguiente:  
 
-**DiscountId:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
-**DiscountName:** se debe ingresar el nombre del descuento. En este caso _Descuento en Valor_.  
+**Descuento Id:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo para cada registro.  
+**Nombre Descuento:** se debe ingresar el nombre del descuento. En este caso _Descuento en Valor_.  
 
 ![](fdes4.png)
 
