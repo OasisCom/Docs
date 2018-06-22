@@ -36,7 +36,7 @@ El precio del producto se visualiza de acuerdo con la parametrización de la apl
 
 ![](mjfac5.png)
 
-![](mjfac7.PNG)
+![](mjfac7.png)
 
 Si por el contrario, en el campo _TypePriceDepend_ está seleccionada la opción _Ninguno_, el sistema tomará la parametrización del tipo de precio de la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
 
