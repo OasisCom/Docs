@@ -61,9 +61,9 @@ En el eje Y:
 
 En el siguiente caso, nos indica que el tercero seleccionado tiene saldo en mora el mes de diciembre y el resto de los meses del año no ha tenido nungun tipo de movimiento.  
 
-# [Cartera Financiera]()
+# [Cartera Financiera](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#cartera-financiera)
 
-Para realizar le proceso de cartera financiera, previamente debemos parametrizar las siguientes aplicaciones de OASISCOM.  
+Para realizar el proceso de cartera financiera, previamente debemos parametrizar las siguientes aplicaciones de OASISCOM.  
 
  * [BCND - Condiciones de pago]() (_Ver aplicación_)
  * [BPER - Periodos]() (_Ver aplicación_)
