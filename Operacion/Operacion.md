@@ -7,9 +7,100 @@ editable: si
 
 # OPERACIÓN
 
-En esta sección encontrarán los manuales de usuario para cada una de las aplicaciones que tiene el sistema OasisCom.
+En esta sección encontrarán los manuales de usuario para cada una de las aplicaciones que tiene el sistema OasisCom.  
 
-A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo:
+A continuación se realizará la explicación de la operatividad básica del sistema y las funcionalidades que optimizan la operación sobre el mismo  
+
+## Menú
+
+1. [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)  
+2. [Menú](http://docs.oasiscom.com/Operacion/#men%C3%BA)  
+2.1 [Configuración del perfil](http://docs.oasiscom.com/Operacion/#configuraci%C3%B3n-del-perfil)  
+2.2 [Crear empresa - Suscripción](http://docs.oasiscom.com/Operacion/#crear-empresa---suscripci%C3%B3n)  
+2.3 [Cambiar empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)  
+2.4 [Soporte](http://docs.oasiscom.com/Operacion/#soporte)  
+2.5 [Comentarios](http://docs.oasiscom.com/Operacion/#comentarios)  
+2.6 [Ayuda](http://docs.oasiscom.com/Operacion/#ayuda)  
+3. [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)  
+4. [Traducción de login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#traducci%C3%B3n-de-login-de-acuerdo-al-navegador)  
+5. [Caducidad de contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contrase%C3%B1as)  
+6. [Reconocimiento de voz](http://docs.oasiscom.com/Operacion/#reconocimiento-de-voz)
+7. [Acceso a programas de navegación](http://docs.oasiscom.com/Operacion/#acceso-a-programas-de-navegaci%C3%B3n)  
+8. [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-b%C3%BAsqueda)  
+9. [Maestro - detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)  
+10. [Filtros](http://docs.oasiscom.com/Operacion/#filtros)  
+11. [Filtros avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)  
+12. [Ordenamiento](http://docs.oasiscom.com/Operacion/#ordenamiento)  
+13. [Opciones de documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)  
+13.1 [Eliminar](http://docs.oasiscom.com/Operacion/#eliminar)  
+13.2 [Agregar](http://docs.oasiscom.com/Operacion/#agregar)  
+13.3 [Guardar](http://docs.oasiscom.com/Operacion/#guardar)  
+13.4 [Cancelar](http://docs.oasiscom.com/Operacion/#cancelar)  
+13.5 [Confirmar o Procesar](http://docs.oasiscom.com/Operacion/#confirmar-o-procesar)  
+13.6 [Reversar](http://docs.oasiscom.com/Operacion/#reversar)  
+13.7 [Anular](http://docs.oasiscom.com/Operacion/#anular)  
+13.8 [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)  
+13.9 [Impresión directa](http://docs.oasiscom.com/Operacion/#impresi%C3%B3n-directa)  
+13.10 [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)  
+13.11 [Imprimir reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)  
+13.12 [Vista preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)  
+13.13 [Importar](http://docs.oasiscom.com/Operacion/#importar)  
+13.14 [Exportar](http://docs.oasiscom.com/Operacion/#exportar)  
+14. [Restricción exportación reporte](http://docs.oasiscom.com/Operacion/#restricci%C3%B3n-exportaci%C3%B3n-reporte)  
+15. [Refrescar o actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)  
+16. [Archivo imágenes](http://docs.oasiscom.com/Operacion/#archivo-imágenes)  
+17. [Borrado masivo](http://docs.oasiscom.com/Operacion/#borrado-masivo)  
+18. [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)  
+19. [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)  
+20. [Visualización de adjuntos](http://docs.oasiscom.com/Operacion/#visualizaci%C3%B3n-de-adjuntos)  
+21. [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)  
+22. [Vista zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)  
+23. [Creación de cliente mediante zoom](http://docs.oasiscom.com/Operacion/#creaci%C3%B3n-de-cliente-mediante-un-zoom)  
+24. [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)  
+25. [Vista formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)  
+26. [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)  
+27. [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)  
+28. []()  
+29. []()  
+30. []()  
+31. []()  
+32. []()  
+33. []()  
+34. []()  
+35. []()  
+36. []()  
+37. []()  
+38. []()  
+39. []()  
+40. []()  
+41. []()  
+42. []()  
+43. []()  
+44. []()  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
 
@@ -496,14 +587,14 @@ Esta opción permite observar el informe de forma preliminar.
 
 ![](vistapreliminar1.png)
 
-## [Importar](http://docs.oasiscom.com/Operacion/#importar)
+### [Importar](http://docs.oasiscom.com/Operacion/#importar)
 
 Esta opción permite importar datos generados.  
 
 ![](importar1.png)
 
 
-## [Exportar](http://docs.oasiscom.com/Operacion/#exportar)
+### [Exportar](http://docs.oasiscom.com/Operacion/#exportar)
 
 Esta opción permite exportar datos a diferentes tipos de archivos.  
 
@@ -536,7 +627,7 @@ Esta opción permite actualizar la información reflejada en la pantalla con bas
 
 ![](refrescaractualizar1.png)
 
-## [Archivo imágenes](http://docs.oasiscom.com/Operacion/#)
+## [Archivo imágenes](http://docs.oasiscom.com/Operacion/#archivo-imágenes)
 
 OasisCom permite almacenar en algunas aplicaciones imágenes según la naturaleza de la aplicación y la necesidad de los registros, esta opción se encuentra en la columna imagen.  
 
@@ -786,7 +877,7 @@ La función Copy – Paste permite duplicar los renglones seleccionados, asignan
 ![](copypaste2.png)
 
 
-## [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalle-por-consulta-general)
+## [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)
 
 
 La función total en detalles por consulta general permite visualizar la sumatoria de los campos parametrizados para dicha función.  
