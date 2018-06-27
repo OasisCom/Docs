@@ -14,7 +14,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 ## Menú
 
 1. [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)  
-2. [Menú OasisCom](http://docs.oasiscom.com/Operacion/#men%C3%BA)  
+2. [Menú OasisCom](http://docs.oasiscom.com/Operacion/#men%C3%BA-oasiscom)  
 2.1 [Configuración del perfil](http://docs.oasiscom.com/Operacion/#configuraci%C3%B3n-del-perfil)  
 2.2 [Crear empresa - Suscripción](http://docs.oasiscom.com/Operacion/#crear-empresa---suscripci%C3%B3n)  
 2.3 [Cambiar empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)  
