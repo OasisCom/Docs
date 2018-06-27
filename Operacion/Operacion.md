@@ -73,7 +73,8 @@ A continuación se realizará la explicación de la operatividad básica del sis
 38. [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)  
 39. [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)  
 39.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
-40.
+39.2 [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)  
+39.3 [Ocultar columnas]()
 40. []()  
 41. []()  
 42. []()  
@@ -1068,108 +1069,51 @@ Para enviar un nuevo mensaje, damos click en la opción _Send new nofitication_,
 ![](notificacion4.png)
 
 
-
-
-
 ## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
-
-
-
-
 
 La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de acceder fácilmente.  
 
-
-
 Ingresamos a la aplicación que deseamos guardar como favoritos y damos click derecho sobre el nombre.  
-
-
 
 ![](favoritos.png)
 
-
-
 Allí nos aparecerán cuatro opciones: Agregar a favoritos, quitar de favoritos, fijar pestaña y quitar pestaña.  
-
-
 
 Cuando agregamos una aplicación del sistema a Favoritos, esta se podrá ver en el costado derecho como se muestra en la siguiente imagen.
 
-
-
 ![](favoritos1.png)
-
-
 
 Para quitar alguna aplicación de la sección de Favoritos, bastará con dar click en la opción _Quitar de Favoritos_.  
 
-
-
 ![](favoritos2.png)
-
-
 
 ## [Fijar Pestañas](http://docs.oasiscom.com/Operacion/#fijar-pestañas)
 
-
-
 Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio, así cuando el usuario vuelva a iniciar sesión la aplicación se abrirá automáticamente.  
-
-
 
 ![](fijar.png)
 
-
-
 Para quitar alguna aplicación que se haya fijado daremos click en la opción _Quitar pestaña fija_.  
-
-
-
-
 
 ## [Foro](http://docs.oasiscom.com/Operacion/#foro)
 
-
-
 En este foro se encuentran diferentes temas de discusión en los cuales se podrán obtener respuesta a varios interrogantes y en caso de dar un aporte al foro también tiene la posibilidad ya sea para plantear una pregunta o dar respuesta de un tema en específico.  
-
-
 
 Para ingresar al foro, accedemos al website de OasisCom con la URL [www.oasiscom.com](www.oasiscom.com), nos dirigimos a la pestaña _Soporte_ y seleccionamos la opción **Foro**.  
 
-
-
 ![](foro.png)
-
-
-
-
 
 ## [Temas](http://docs.oasiscom.com/Operacion/#temas)
 
-
-
-
-
 OasisCom cuenta con diferentes temas de personalización de color de la pantalla inicial de la aplicación.  
-
-
 
 ![](temas.png)
 
-
-
 Algunos ejemplos de los temas son:
-
-
 
 ![](temas1.png)
 
-
-
 ![](temas2.png)
-
-
 
 ## [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)
 
@@ -1199,14 +1143,9 @@ Por ejemplo, en la aplicación XEXP - Exportaciones vemos que las actividades qu
 
 ![](xexp.png)
 
-
 ## [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)
 
-
-
 Los usuarios pueden realizar las siguientes operaciones sobre los campos que conforman las aplicaciones:
-
-
 
  * Inmovilización de columnas
 
@@ -1220,188 +1159,98 @@ Los usuarios pueden realizar las siguientes operaciones sobre los campos que con
 
  * Restaurar ajustes de opción
 
-
-
 Estas operaciones aplican tanto para encabezados como para el detalle de las aplicaciones.  
-
 
 
 #### [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
 
-
-
 Para inmovilizar una columna, el usuario debe hacer click derecho sobre la etiqueta (nombre) de la misma y seleccionar la opción _Inmovilizar_:  
-
-
 
 ![](bter.png)
 
-
-
 Al ejecutar esta acción, la columna quedará congelada y al desplazar la barrra hacia la derecha, se moverán los demás campos dejando la seleccionada inmóvil:  
-
-
 
 ![](bter1.png)
 
-
-
 Si se inmoviliza más de una columna, estas se desplazarán al inicio de la tabla como veremos en el siguiente ejemplo con la aplicación **BTER**.  
-
-
 
 Se inmoviliza el campo _Tercero_ el cual es el primero de la tabla y posteriormente se inmoviliza el campo _Estado_, situándose este último junto a la columna _Tercero_.  
 
-
-
 ![](bter2.png)
-
-
 
 Se debe tener en cuenta que sobre las columnas inmovilizadas no es posible ejecutar ninguna acción.  
 
-
-
 #### [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)
-
-
 
 Para realizar agrupaciones por columnas se debe dar click derecho sobre la etiqueta (nombre) de la misma y seleccionar la opción _Agrupar Por_:  
 
-
-
 ![](bter3.png)
-
-
 
 En este caso, al agrupar por la columna _Estado_ de la opción **BTER - Terceros**, se visualizará de la siguiente manera:  
 
-
-
 ![](bter4.png)
-
-
 
 Igualmente, será posible agrupar por dos o más campos si así lo requiere el usuario. En este caso se agrupa por las columnas _Estado_, _Tipo Cliente_ y _Tipo de Precio_:  
 
-
-
 ![](bter5.png)
-
-
 
 Tenga en cuenta que las columnas agrupadas no son removidas de la ventana de la aplicación, es decir, la columna agrupada también se mostrará como una columna individual.  
 
-
-
 Por ejemplo, al agrupar por la columna _Estado_, este mostrará la agrupación pero el campo seguirá mostrandose:
-
-
 
 ![](bter6.png)
 
-
-
-#### [Ocultar columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
-
-
+#### [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)
 
 Para ocultar columnas, damos click en el botón _Opciones de columna_ ![](columna.png). Este mostrará todos los campos que la componen y las opciones de mover y ocultar los mismos.  
 
-
-
 ![](bter7.png)
-
-
 
 ![](bter8.png)
 
-
-
 Para ocultar una columna se debe desactivar el flag del campo y este automáticamente desaparecerá de la ventana. El usuario podrá ocultar las columnas que desee.  
-
-
 
 ![](bter9.png)
 
-
-
 **Limitaciones:** No es posible ocultar una columna inmovilizada.  
 
-
-
-#### [Mover columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
-
-
+#### [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)
 
 Para mover columnas, damos click en el botón ![](+.png) y arrastramos el campo hacia arriba o hacia abajo según se desee.  
 
-
-
 ![](bter10.png)
-
-
 
 ![](bter11.png)
 
-
-
 **¡Importante!:** Al mover una columna que está inmovilizada hacia la derecha, el sistema tomará las columnas a la izquerda de la misma y las inmovilizará de igual manera:  
-
-
 
 En el siguiente caso el campo _Tercero_ está inmovilizado y al moverlo hacia la derecha congelará también las columnas que se encuentren a su izquierda:  
 
-
-
 ![](bter12.png)
-
-
 
 ![](bter13.png)
 
-
-
 Al mover la columna _Tercero_, las demás quedarán inmovilizadas.  
-
-
 
 ![](bter14.png)
 
 
-
-
-
 #### [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opción)
-
-
 
 Para guardar los cambios anteriormente mencionandos, se debe dar click derecho en el nombre de la aplicación y seleccionar del menú la opción _Guardar ajustes de opción_:  
 
-
-
 ![](bter15.png)
-
-
 
 Si se realiza alguna de las opciones anteriormente mencionadas y no se guardan dichos ajustes, al cerrar y abrir la opción o bien, la aplicación OasisCom, estas acciones no serán tenidas en cuenta y no se guardaran los cambios. Adicionalmente, para visualizar los cambios guardados se debe cerrar e ingresar nuevamente a la aplicación.  
 
 
-
 #### [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opción)
-
-
 
 Para restaurar los ajustes realizados a una opción, se debe dar click derecho en el nombre de la misma y seleccionar _Restaurar ajustes de opción_:  
 
-
-
 ![](bter16.png)
 
-
-
 Se debe cerrar e ingresar nuevamente a la aplicación OasisCom para evidenciar la restauración de la opción.  
-
 
 
 ## [Formularios Dinámicos](http://docs.oasiscom.com/Operacion/#formularios-dinámicos)
