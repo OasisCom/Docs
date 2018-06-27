@@ -74,9 +74,12 @@ A continuación se realizará la explicación de la operatividad básica del sis
 39. [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)  
 39.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
 39.2 [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)  
-39.3 [Ocultar columnas]()
-40. []()  
-41. []()  
+39.3 [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)  
+39.4 [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)
+39.5 [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opci%C3%B3n)  
+39.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
+40. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
+41. [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
 42. []()  
 43. []()  
 44. []()  
@@ -1275,7 +1278,7 @@ Si se desea eliminar el bloque agregado, damos click en el botón _Borrar_.
 
 ![](dinamico3.png)
 
-## [Colores en el detalle de acuerdo a la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-a-la-condición)
+## [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condición)
 
 Esta funcionalidad permite la visualización de los detalles de las opciones con colores de acuerdo a condiciones especiales.  
 
