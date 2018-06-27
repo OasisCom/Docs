@@ -61,17 +61,19 @@ A continuación se realizará la explicación de la operatividad básica del sis
 26. [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)  
 27. [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)  
 28. [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-autom%C3%A1ticos)  
-29. [Impresión por lote](http://docs.oasiscom.com/Operacion/#impresi%C3%B3n-por-lote)  
-30. []()  
-31. []()  
-32. []()  
-33. []()  
-34. []()  
-35. []()  
-36. []()  
-37. []()  
-38. []()  
-39. []()  
+29. [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)  
+30. [Envío de correo electrónico OasisCom](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-correo-electr%C3%B3nico-oasiscom)  
+31. [Envío de reportes por correo electrónico](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-reportes-por-correo-electr%C3%B3nico)  
+32. [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)  
+33. [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)  
+34. [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)  
+35. [Fijar pestañas](http://docs.oasiscom.com/Operacion/#fijar-pesta%C3%B1as)  
+36. [Foro](http://docs.oasiscom.com/Operacion/#foro)  
+37. [Temas](http://docs.oasiscom.com/Operacion/#temas)  
+38. [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)  
+39. [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)  
+39.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
+40.
 40. []()  
 41. []()  
 42. []()  
@@ -1260,7 +1262,7 @@ Se debe tener en cuenta que sobre las columnas inmovilizadas no es posible ejecu
 
 
 
-#### [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
+#### [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)
 
 
 
