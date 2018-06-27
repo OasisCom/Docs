@@ -14,7 +14,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 ## Menú
 
 1. [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)  
-2. [Menú](http://docs.oasiscom.com/Operacion/#men%C3%BA)  
+2. [Menú OasisCom](http://docs.oasiscom.com/Operacion/#men%C3%BA)  
 2.1 [Configuración del perfil](http://docs.oasiscom.com/Operacion/#configuraci%C3%B3n-del-perfil)  
 2.2 [Crear empresa - Suscripción](http://docs.oasiscom.com/Operacion/#crear-empresa---suscripci%C3%B3n)  
 2.3 [Cambiar empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)  
@@ -60,8 +60,8 @@ A continuación se realizará la explicación de la operatividad básica del sis
 25. [Vista formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)  
 26. [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)  
 27. [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)  
-28. []()  
-29. []()  
+28. [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-autom%C3%A1ticos)  
+29. [Impresión por lote](http://docs.oasiscom.com/Operacion/#impresi%C3%B3n-por-lote)  
 30. []()  
 31. []()  
 32. []()  
@@ -141,7 +141,7 @@ En la parte superior derecha encontrarás los datos de inicio de sesión a la ap
 
 Al ingresar tu usuario y contraseña el sistema te enviará al menú principal del sistema de información.
 
-## [Menú](http://docs.oasiscom.com/Operacion/#menú)
+## [Menú OasisCom](http://docs.oasiscom.com/Operacion/#menú-oasiscom)
 
 
 OasisCom cuenta con un menú que permite configurar el perfil, crear empresa, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el botón ![](menu1.png) que seencuentra junto al nombre del usuario.  
@@ -545,17 +545,21 @@ Hecho esto, cada vez que se procese un movimiento que tenga asignada la ubicaci�
 
 ### [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)
 
-Es permitido en unas aplicaciones imprimir la información de varios registros desde el maestro de la aplicación con el fin de que se mejorar el proceso y optimizar el tiempo.  
 
-En la siguiente imagen seleccionamos 3 registros para imprimir.  
+La función permite seleccionar varios registros e imprimirlos según la parametrización del formato pertinente. Esto también aplica para las opciones que contienen formatos asociados, especialmente para las opciones tipo movimiento (Ventana tipo C).  
 
-![](imprimirlote1.png)
 
-A continuacion se desplegará una ventana donde confirmará si desea realizar la impresión, en esta ventana le indicará el numero de registros que se van a imprimir.  
+1) Ingresar a una aplicación con opciones tipo C (movimientos).  
 
-![](imprimirlote2.png)
+2) Seleccionar los registros que se desean imprimir y dar clic en el botón Impresión.  
 
-Después de dar clic en el botón aceptar, el sistema generará la impresión ya sea en un PDF o directamente seleccionando la impresora para tenerlos de forma física.  
+![](impresionlote1.png)
+
+3	Aplicar la configuración deseada para la impresión y dar clic en Imprimir.  
+
+![](impresionlote2.png)
+
+Se puede observar que el sistema adjuntó los registros seleccionados con el detalle correspondiente para realizar la impresión.  
 
 ### [Imprimir Reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)
 
@@ -894,25 +898,6 @@ La función se divide en dos sumatorias. La sumatoria en **Negrita** muestra el 
 
 La funcionalidad permite realizar workflow en los procesos de forma automática. Un ejemplo es en la aplicación VPED – Pedidos, se define un flujo (por medio de status) por los cuales debe pasar el pedido según el proceso, esto permite no solo controlar los tiempos sobre cada etapa sino informar a los usuarios vía correo electrónico o por medio de tareas pendientes las acciones que requerían de su intervención.  
 
-
-## [Impresión por lote](http://docs.oasiscom.com/Operacion/#impresión-por-lote)
-
-
-La función permite seleccionar varios registros e imprimirlos según la parametrización del formato pertinente. Esto también aplica para las opciones que contienen formatos asociados, especialmente para las opciones tipo movimiento (Ventana tipo C).  
-
-
-1) Ingresar a una aplicación con opciones tipo C (movimientos).  
-
-2) Seleccionar los registros que se desean imprimir y dar clic en el botón Impresión.  
-
-![](impresionlote1.png)
-
-3	Aplicar la configuración deseada para la impresión y dar clic en Imprimir.  
-
-![](impresionlote2.png)
-
-
-Se puede observar que el sistema adjuntó los registros seleccionados con el detalle correspondiente para realizar la impresión.  
 
 ## [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)
 
