@@ -80,32 +80,9 @@ A continuación se realizará la explicación de la operatividad básica del sis
 39.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
 40. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
 41. [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
-42. []()  
-43. []()  
-44. []()  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+42. [Ajuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
+43. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
+44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
