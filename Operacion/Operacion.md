@@ -75,7 +75,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 39.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
 39.2 [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)  
 39.3 [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)  
-39.4 [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)
+39.4 [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)  
 39.5 [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opci%C3%B3n)  
 39.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
 40. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
