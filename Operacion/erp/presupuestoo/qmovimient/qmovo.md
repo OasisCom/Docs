@@ -32,7 +32,7 @@ Documentos:
 
 
 
-# [**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
+### [**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
 
 Esta vista previa permite visualizar el estado de las cuentas del presupuesto inicial.  
 
@@ -51,7 +51,7 @@ _En PDF_
 ![](qmovo3.png)
 
 
-* [**CD - Certificado Disponibilidad Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
+### [**CD - Certificado Disponibilidad Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
 
 Esta vista previa permite visualizar el estado de los rubros presupuestales.  
 
