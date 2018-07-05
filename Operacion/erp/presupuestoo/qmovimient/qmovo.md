@@ -69,7 +69,8 @@ _En PDF_
 
 ![](qmovo6.png)
 
-### [RP - Registro Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#registro-presupuestal)
+
+### [RP - Registro Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rp---registro-presupuestal)
 
 Esta vista previa permite visualizar el estado de los rubros presupuestales de dicho documento.  
 
@@ -85,18 +86,26 @@ El documento puede ser extraíble en formato de Excel, PDF o Word.
 
 _En PDF_  
 
+![](qmovo9.png)
 
 
+### [UD - Incremento de una provisión](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ud---incremento-de-una-provisión)
 
+Esta vista previa permite visualizar el estado de las cuentas de los rubros presupuestales.  
 
+Damos click en el botón _Presentación preliminar_.  
 
+![](qmovo10.png)
 
+Al consultar veremos el documento de la siguiente manera:  
 
+![](qmovo11.png)
 
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
 
+_En PDF_  
 
-
-
+![](qmovo12.png)
 
 
 
