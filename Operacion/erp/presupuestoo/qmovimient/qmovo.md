@@ -20,7 +20,7 @@ Documentos:
 
 * [**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
 * [**CD - Certificado Disponibilidad Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
-*  
+* [**RP - Registro Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#registro-presupuestal)  
 *  
 *  
 *  
@@ -69,13 +69,21 @@ _En PDF_
 
 ![](qmovo6.png)
 
+### [RP - Registro Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#registro-presupuestal)
 
+Esta vista previa permite visualizar el estado de los rubros presupuestales de dicho documento.  
 
+Damos click en el botón _Presentación preliminar_.  
 
+![](qmovo7.png)
 
+Al consultar veremos el documento de la siguiente manera:  
 
+![](qmovo8.png)
 
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
 
+_En PDF_  
 
 
 
