@@ -32,8 +32,7 @@ Documentos:
 
 
 
-
-* [**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
+[**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
 
 Esta vista previa permite visualizar el estado de las cuentas del presupuesto inicial.  
 
