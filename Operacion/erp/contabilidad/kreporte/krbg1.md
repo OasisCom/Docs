@@ -17,12 +17,15 @@ Este reporte nos arroja el balance general de la compañía permitiendo filtrar 
 **Año:** Año que se desea consultar.  
 **Nivel:** De acuerdo con la parametrización del básico de Cuentas **BCUE**.  
 **Libro:** De acuerdo con la parametrización del básico de Libros **KLIB**.  
+**Tasa de cambio:** ingresar la tasa de cambio por la que se requiere consultar.  
 
-Click en el botón consultar.  
+Ingresados los datos damos click en el botón consultar, como filtramos por nivel 1, veremos solamente las cuentas de activo, pasivo, patrimonio y cuentas de orden deudoras y acreedoras.  
 
-![](KRBG2.png)
+![](krbg02.png)
 
+El reporte puede ser extraído en formato de Excel, PDF o Word.  
 
+![](krbg03.png)
 
 
 
