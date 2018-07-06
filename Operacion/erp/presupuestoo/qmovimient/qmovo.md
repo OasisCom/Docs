@@ -26,6 +26,7 @@ Documentos:
 * [**AR - Incremento de registro presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
 * [**C3 - Cargue inicial ejecución**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
 * [**RD - Liberación o anulación de una provisión**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rd---liberación-o-anulación-de-una-provisión)
+* [**RR - Decremento de registro presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rr---decremento-de-registro-presupuestal)
 
 
 
@@ -188,6 +189,29 @@ El documento puede ser extraíble en formato de Excel, PDF o Word.
 _En PDF_  
 
 ![](qmovo24.png)
+
+
+### [RR - Decremento de registro presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rr---decremento-de-registro-presupuestal)
+
+Esta vista previa permite visualizar el decremento de CRP de los rubros presupuestales.  
+
+Damos click en el botón _Presentación preliminar_.  
+
+![](qmovo25.png)
+
+Al consultar veremos el documento de la siguiente manera:  
+
+![](qmovo26.png)
+
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
+
+_En PDF_  
+
+![](qmovo27.png)
+
+
+
+
 
 
 
