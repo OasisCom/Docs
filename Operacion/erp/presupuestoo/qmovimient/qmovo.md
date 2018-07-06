@@ -25,7 +25,13 @@ Documentos:
 * [**TP - Traslado Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
 * [**AR - Incremento de registro presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
 * [**C3 - Cargue inicial ejecución**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
-*  
+* [**RD - Liberación o anulación de una provisión**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rd---liberación-o-anulación-de-una-provisión)
+
+
+
+
+
+
 
 
 
@@ -163,4 +169,27 @@ El documento puede ser extraíble en formato de Excel, PDF o Word.
 _En PDF_  
 
 ![](qmovo21.png)
+
+
+### [RD - Liberación o anulación de una provisión](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rd---liberación-o-anulación-de-una-provisión)
+
+Esta vista previa permite visualizar el decremento de CDP de los rubros presupuestales.  
+
+Damos click en el botón _Presentación preliminar_.  
+
+![](qmovo22.png)
+
+Al consultar veremos el documento de la siguiente manera:  
+
+![](qmovo23.png)
+
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
+
+_En PDF_  
+
+![](qmovo24.png)
+
+
+
+
 
