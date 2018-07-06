@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kreporte/krprd
 editable: si
 ---
 
-# KRPRD - Balance de prueba diario
+# KRPRD 1- Balance de prueba diario
 
 El reporte KRPRD nos muestra información del balance contable de los saldos diarios generados en la aplicación [**KPSD - Saldos diarios**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpsd).  
 
