@@ -23,7 +23,7 @@ Documentos:
 * [**RP - Registro Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rp---registro-presupuestal)  
 * [**UD - Incremento de una provisión**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ud---incremento-de-una-provisión)
 * [**TP - Traslado Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
-*  
+* [**AR - Incremento de registro presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
 *  
 *  
 
