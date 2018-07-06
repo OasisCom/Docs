@@ -24,7 +24,7 @@ Documentos:
 * [**UD - Incremento de una provisión**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ud---incremento-de-una-provisión)
 * [**TP - Traslado Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
 * [**AR - Incremento de registro presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
-*  
+* [**C3 - Cargue inicial ejecución**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
 *  
 
 
@@ -145,4 +145,22 @@ _En PDF_
 
 ![](qmovo18.png)
 
+
+### [C3 - Cargue inicial ejecución](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
+
+Esta vista previa permite visualizar el estado de las cuentas del mismo.  
+
+Damos click en el botón _Presentación preliminar_.  
+
+![](qmovo19.png)
+
+Al consultar veremos el documento de la siguiente manera:  
+
+![](qmovo20.png)
+
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
+
+_En PDF_  
+
+![](qmovo21.png)
 
