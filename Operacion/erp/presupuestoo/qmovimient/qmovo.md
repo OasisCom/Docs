@@ -20,19 +20,19 @@ Documentos:
 
 * [**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
 * [**CD - Certificado Disponibilidad Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
-* [**RP - Registro Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#registro-presupuestal)  
+* [**RP - Registro Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rp---registro-presupuestal)  
+* [**UD - Incremento de una provisión**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ud---incremento-de-una-provisión)
+* [**TP - Traslado Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
 *  
 *  
 *  
-*  
-*  
 
 
 
 
 
 
-### [**PI - Presupuesto Inicial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
+### [PI - Presupuesto Inicial](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
 
 Esta vista previa permite visualizar el estado de las cuentas del presupuesto inicial.  
 
@@ -51,7 +51,7 @@ _En PDF_
 ![](qmovo3.png)
 
 
-### [**CD - Certificado Disponibilidad Presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
+### [CD - Certificado Disponibilidad Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
 
 Esta vista previa permite visualizar el estado de los rubros presupuestales.  
 
@@ -106,6 +106,33 @@ El documento puede ser extraíble en formato de Excel, PDF o Word.
 _En PDF_  
 
 ![](qmovo12.png)
+
+
+### [TP - Traslado Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
+
+Esta vista previa permite visualizar el estado de las cuentas para traslado presupuestal.  
+
+Damos click en el botón _Presentación preliminar_.  
+
+![](qmovo13.png)
+
+Al consultar veremos el documento de la siguiente manera:  
+
+![](qmovo14.png)
+
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
+
+_En PDF_  
+
+![](qmovo15.png)
+
+
+
+
+
+
+
+
 
 
 
