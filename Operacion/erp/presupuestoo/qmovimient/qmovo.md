@@ -127,12 +127,22 @@ _En PDF_
 ![](qmovo15.png)
 
 
+### [AR - Incremento de registro presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
 
+Esta vista previa permite visualizar el estado de las cuentas para incremento presupuestal.  
 
+Damos click en el botón _Presentación preliminar_.  
 
+![](qmovo16.png)
 
+Al consultar veremos el documento de la siguiente manera:  
 
+![](qmovo17.png)
 
+El documento puede ser extraíble en formato de Excel, PDF o Word.  
 
+_En PDF_  
+
+![](qmovo18.png)
 
 
