@@ -16,10 +16,15 @@ En esta aplicación vamos a crear los programas de producción, para esto adicio
 **Tercero:** Se diligencia el número de cédula del responsable del programa de producción.  
 **Fecha inicial:** Se debe diligenciar la fecha en la que comienza el programa.  
 **Fecha final:** Se debe diligenciar la fecha en la que comienza el programa.  
+**Bodega:** seleccionar del zoom la bodega de la cual se obtendrá la materia prima.  
+**Documento 1:** indicar el documento PD correspondiente a Pedido.  
+**Ubicación 1:** ingresar la ubicación en donde se registró el pedido.  
+**Número 1:** dar doble click y seleccionar del zoom el pedido que dará origen al programa de producción.  
 
 ![](lprg1.png)
 
-Por último, damos clic en guardar.  
+
+Por último, damos clic en _Guardar_.  
 
 ![](lprg2.png)
 
