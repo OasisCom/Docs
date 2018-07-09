@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proceso de inventarios
-permalink: /Capacitacion/SCM/procesoinv/links
+permalink: /Capacitacion/SCM/procesoinv/links/
 editable: si
 ---
 
@@ -46,4 +46,4 @@ Definición:
 
 Inventario Físico o Periódico, es un conteo de todos los productos existentes en una organización para identificarlos y confrontarlos contra la existencia registrada en los libros. Se debe tener en cuenta que mientras se realiza el conteo físico de los productos se debe detener la facturación de venta de los mismos. Es por esto, que en empresas de gran cantidad de productos este inventario no se realiza frecuentemente, generalmente lo realizan de 1 a 3 veces al año.
 
-[![Procesoinv](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=18de40023d82e4c55bc82bf141f8e2a31&authkey=ARvUNrxEDlLrw3G3D8724fs)](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=18de40023d82e4c55bc82bf141f8e2a31&authkey=ARvUNrxEDlLrw3G3D8724fs)
+[![Procesoinv](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=18de40023d82e4c55bc82bf141f8e2a31&authkey=ARvUNrxEDlLrw3G3D8724fs)](https://www.youtube.com/watch?v=SB0G87BPwUI)
