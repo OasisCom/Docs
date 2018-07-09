@@ -75,3 +75,23 @@ Y la respectiva contabilización
 ![](lord5.png)
 
 Aquí finaliza el proceso de producción.  
+
+
+### [Tipo de operación Maquila](http://docs.oasiscom.com/Operacion/mrp/control/lcontrol/lord#tipo-de-operación-maquila)
+
+En el momento de confirmar el registro de la orden de producción en la opción LORD y el tipo de operación es _**Maquila**_, el sistema contabilizará el CIF según el costo del satelite que ha sido parametrizado previamente en la aplicación [**LBPP - Precio operación por producto**](http://docs.oasiscom.com/Operacion/mrp/produccion/lbasica/lbpp) para esta operación, ya que el costo CIF cuando es maquila, debe ser el valor que cobra el maquilador.  
+
+En el siguiente ejemplo, la orden de producción tiene ubicación del _SATELITE A_ y el tipo de operación es el 25 - Maquila, es decir, que el sistema tomará el valor de dicha operación por producto que se haya asignado de la aplicación LBPP.  
+
+![](lord15.png)
+
+
+En la parametrización de la aplicación [**LBPP - Precio operación por producto**](http://docs.oasiscom.com/Operacion/mrp/produccion/lbasica/lbpp) para la operación de _maquila_ el satelite A cobra un valor de $3.500 por unidad del producto _Camisa Sencilla_.  
+
+![](lord16.png)
+
+Como el pedido era de 10 camisas, el CIF calculado será de $35.000. La contabilización se verá reflejada en el momento que el documento se procese desde el maestro de la aplicación.  
+
+![](lord17.png)
+
+
