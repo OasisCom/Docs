@@ -17,5 +17,5 @@ El portal de clientes consta de 3 aplicaciones en donde el usuario que inició s
 
 ![](ecsec.png)
 
-**EVPED - Colocar Pedidos:** Allí aparece una pantalla en donde se puede seleccionar los productos/servicios que se requieren solicitar, se adicionan al carrito de compras y cuando ya está finalizado se envía para que Oasis identifique el pedido realizado y se realice todo el proceso para la venta y entrega del mismo.
+[**EVPED - Colocar Pedidos:**](http://docs.oasiscom.com/Operacion/mpportal/mpproveedor/evped) Allí aparece una pantalla en donde se puede seleccionar los productos/servicios que se requieren solicitar, se adicionan al carrito de compras y cuando ya está finalizado se envía para que Oasis identifique el pedido realizado y se realice todo el proceso para la venta y entrega del mismo.
 
