@@ -23,7 +23,6 @@ En esta aplicación vamos a crear los programas de producción, para esto adicio
 
 ![](lprg1.png)
 
-
 Por último, damos clic en _Guardar_.  
 
 ![](lprg2.png)
