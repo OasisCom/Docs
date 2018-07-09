@@ -5,7 +5,7 @@ permalink: /Operacion/mrp/control/lcontrol/lord
 editable: si
 ---
 
-# ÓRDENES DE PRODUCCIÓN - LORD
+# LORD - Órdenes de producción
 
 Cuando ya se tienen los insumos correspondientes en la planta se inicia el control de piso, lo cual son todas las operaciones respectivas para transformar al producto final. Por lo tanto, ingresamos a la aplicación **LORD – Ordenes de producción**, se crea un registro diligenciando los siguientes campos:  
 
