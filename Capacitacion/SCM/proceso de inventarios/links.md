@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proceso de inventarios
-permalink: /Capacitacion/SCM/procesoinv/links/
+permalink: /Capacitacion/SCM/procesoinv/links
 editable: si
 ---
 
