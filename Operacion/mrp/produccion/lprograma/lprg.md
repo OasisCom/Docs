@@ -36,4 +36,4 @@ Una vez registrados los productos que se asociaran a ese programa de producción
 
 ![](lprg4.png)
 
-Al procesar este movimiento se genera la explotación de materiales la cual podemos observar en la aplicación **LEXP – Requerimiento de materiales**. 
+Al procesar este movimiento se genera la explotación de materiales la cual podemos observar en la aplicación [**LEXP – Requerimiento de materiales**](http://docs.oasiscom.com/Operacion/mrp/produccion/lmaterial/lexp). 
