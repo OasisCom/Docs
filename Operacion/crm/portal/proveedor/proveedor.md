@@ -23,3 +23,7 @@ El certificado puede ser descargado en formato de Excel, PDF o Word.
 
 ![](ekrcr3.png)
 
+
+**PSSP - Saldos de cuentas:** Aquí se pueden consultar las facturas pendientes por pagar a una fecha determinada.
+
+![](pssp.png)
