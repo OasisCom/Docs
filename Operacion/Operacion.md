@@ -83,6 +83,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 42. [Ajuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
 43. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
 44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
+45. [Tipo de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -1348,3 +1349,25 @@ Para obtener dicha funcionalidad debemos parametrizar lo siguiente:
 
 		[{datasetname:'ConjuntoDatos1',table:'Operation', fields:['ClientId']},  
          {datasetname:'ConjuntoDatos2',table:'Client', fields:['ClientId']}]  
+
+
+### [Tipo de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)
+
+El sistema genera 3 tipos de alertas:
+
+* **Alerta Verde:** La alerta verde es un indicador de que el sistema proceso la información de manera correcta.  
+
+![](verde.png)
+
+
+* **Alerta Naranja:** La alerta naranja es una advertencia que no frena el proceso que esté ejecutando.  
+
+![](naranja.png)
+
+* **Alerta Roja:** La alerta roja es un indicador de que en el sistema falta alguna parametrización o existe algún error en el procesamiento de la información. Es importante leer el mensaje para poder determinar el tipo de falla o control que el sistema está validando.  
+
+![](roja.png)
+
+
+
+
