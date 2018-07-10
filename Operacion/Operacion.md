@@ -1351,7 +1351,7 @@ Para obtener dicha funcionalidad debemos parametrizar lo siguiente:
          {datasetname:'ConjuntoDatos2',table:'Client', fields:['ClientId']}]  
 
 
-### [Tipo de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)
+## [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)
 
 El sistema genera 3 tipos de alertas:
 
@@ -1367,7 +1367,3 @@ El sistema genera 3 tipos de alertas:
 * **Alerta Roja:** La alerta roja es un indicador de que en el sistema falta alguna parametrización o existe algún error en el procesamiento de la información. Es importante leer el mensaje para poder determinar el tipo de falla o control que el sistema está validando.  
 
 ![](roja.png)
-
-
-
-
