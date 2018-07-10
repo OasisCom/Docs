@@ -14,7 +14,7 @@ Definición:
 
 Inventario Cíclico, es un conteo de ciertos productos existentes en una organización para identificarlos y confrontarlos contra la existencia registrada en los libros. Este conteo no se realiza a todos los productos de una vez sino que se realiza a ciertos de acuerdo a la rotación de los mismos, esto con el fin de no detener la facturación de los mismos y que el tiempo de conteo se disminuya notoriamente con respecto al inventario físico.  
 
-[![Procesoinv](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1b75aa7ce378f4b968d2d8c581135b669&authkey=AbiJbRVkzmKeOFTnsNdA45k)](https://youtu.be/zvmST9G3b-E)
+[![](https://oasiserp-my.sharepoint.com/personal/martha_velasquez_oasiscom_com/_layouts/15/guestaccess.aspx?docid=1b75aa7ce378f4b968d2d8c581135b669&authkey=AbiJbRVkzmKeOFTnsNdA45k)](https://youtu.be/zvmST9G3b-E)
 
 
 ## COSTEO
