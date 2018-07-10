@@ -23,7 +23,8 @@ Definición:
 
 Costeo, es un proceso especial que se debe ejecutar en aquellas compañías que no llevan su información en línea, es decir, cuando se registran entradas y salidas en fechas diferentes entre la operación real y la registrada en los movimientos del sistema. Este proceso se recomienda ejecutar todos los días en horas no laborales dado que sirve para recalcular el costo con el método de promedio ponderado, en el cual el sistema ordena las transacciones por la fecha de registro y va asignando el costo del producto en las salidas tomando como base las entradas, y en general todas las transacciones que deban afectar dicho costo, con el fin de poder tener correctamente el costo asociado a cada uno de los productos, ver margen de rentabilidad en porcentaje y valores por producto respecto al precio de venta y tomar esta información como referencia en la toma de decisiones.
 
-[![Procesoinv](costeo.png)](https://youtu.be/IMlpODvLH_4)
+[![Costeo](costeo.png)](https://www.youtube.com/watch?v=EiTbeGfNvEs)
+
 
 ## Niveles de Stock
 
@@ -37,7 +38,7 @@ Con el fin de garantizar la presencia de stock suficiente para satisfacer la dem
 El stock mínimo hace referencia a la cantidad mínima que se puede mantener en stock de una existencia o referencia determinada.  
 El stock máximo es la cantidad máxima de productos que un negocio puede almacenar de forma continuada.
 
-[![Procesoinv](stock.png)](https://youtu.be/jHujfdzLP-s)
+[![Stock](stock.png)](https://www.youtube.com/watch?v=vfDSIKdahOw)
 
 
 ## Inventario Periódico
@@ -46,4 +47,4 @@ Definición:
 
 Inventario Físico o Periódico, es un conteo de todos los productos existentes en una organización para identificarlos y confrontarlos contra la existencia registrada en los libros. Se debe tener en cuenta que mientras se realiza el conteo físico de los productos se debe detener la facturación de venta de los mismos. Es por esto, que en empresas de gran cantidad de productos este inventario no se realiza frecuentemente, generalmente lo realizan de 1 a 3 veces al año.
 
-[![Procesoinv](periodico.png)](https://www.youtube.com/watch?v=SB0G87BPwUI)
+[![Periódico](periodico.png)](https://www.youtube.com/watch?v=SB0G87BPwUI&t=182s)
