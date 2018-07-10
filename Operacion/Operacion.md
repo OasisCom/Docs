@@ -83,7 +83,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 42. [Ajuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
 43. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
 44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
-45. [Tipo de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
+45. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -516,7 +516,7 @@ Esta opción permite imprimir la información que se está consultando en el mom
 
 La funcionalidad de impresión directa permite la visualización de formatos de impresión una vez se procese cualquier movimiento en una ubicación específica.  
 
-Inicialmente, se debe activar en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) el check del campo **ConfirmPrinted** para la ubicación en donde se van a generar los movimientos.  
+Inicialmente, se debe activar en la aplicación [**bubiGicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) el check del campo **ConfirmPrinted** para la ubicación en donde se van a generar los movimientos.  
 
 ![](imprimir7.png)
 
