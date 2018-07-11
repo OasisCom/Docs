@@ -296,7 +296,7 @@ En el siguiente ejemplo el cliente redimirá 100 puntos, estos son ingresados en
 
 ![](jfac45.png)
 
-Finalmente, se procesa la factura y se verifican los saldos de puntos acumulados en la aplicación [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp#saldo-al-redimir-puntos-acumulados) para el cliente correspondiente. Vale aclarar que como el cliente redimió sólo 100 puntos en el ejemplo anterior y tuvo que pagar el restante que eran $733, obtuvo 7 puntos más.  
+Finalmente, se procesa la factura y se verifican los saldos de puntos acumulados en la aplicación [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp#saldo-al-redimir-puntos-acumulados) para el cliente correspondiente. Vale aclarar que como el cliente redimió solo 100 puntos en el ejemplo anterior y tuvo que pagar el restante que eran $733, obtuvo 7 puntos más.  
 
 Verificamos el nuevo saldo de puntos acumulados en [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp#saldo-al-redimir-puntos-acumulados).  
 
