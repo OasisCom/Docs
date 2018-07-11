@@ -27,10 +27,3 @@ Realizada la factura previamente en [**JFAC - Facturas**](http://docs.oasiscom.c
 En ASSP consultamos por el número de identificación del cliente y el mes en que se realiza la factura.  
 
 ![](assp1.png)
-
-
-
-
-
-
-
