@@ -12,7 +12,7 @@ editable: si
 * [JFAC - Facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
 * [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)
 * [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
-
+* [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)
 
 
 ## [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
@@ -301,6 +301,3 @@ Finalmente, se procesa la factura y se verifican los saldos de puntos acumulados
 Verificamos el nuevo saldo de puntos acumulados en [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp#saldo-al-redimir-puntos-acumulados).  
 
 Aquí finaliza el proceso de _fidelización de clientes_.  
-
-
-
