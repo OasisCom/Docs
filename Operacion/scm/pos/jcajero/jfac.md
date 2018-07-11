@@ -223,6 +223,8 @@ Al crear una factura en JFAC e ingresar al zoom para seleccionar el producto, po
 
 ## [Fedelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
 
+El proceso de _Fidelización de Clientes_ permite que por cada compra que realice un cliente, este acumule puntos que podrá redimir en una próxima compra.  
+
 
 
 
