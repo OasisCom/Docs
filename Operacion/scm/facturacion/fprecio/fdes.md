@@ -435,7 +435,17 @@ De esta manera se realiza el proceso de creación y parametrización de descuent
 
 ## [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-fidelización-de-clientes)
 
+![](jfac39.png)
 
+En la aplicación **FDES** se deberá crear un registro correspondiente a _Tarifa Puntos_, en el cual indicaremos el rango de **fecha inicial** y **fecha final** en el cual aplicará la adquisición de puntos por compras. Por ejemplo, el cliente podrá adquirir puntos por sus compras desde el 4 de julio del 2018 hasta el 31 de julio del 2018.  
+
+![](jfac40.png)
+
+También se deberá registrar en el campo **Tarifa** el valor que definirá cada cuanto acumularán puntos los clientes y en el campo **Tariff Substraction** se indica la cantidad de puntos que adquirirá de acuerdo con la tarifa. Por ejemplo, por cada 100 pesos del valor de la compra, el cliente acumulará un punto, es decir, que si un cliente hace una compra de 1.000 pesos tendrá 10 puntos.  
+
+![](jfac41.png)
+
+_Conoce todo el proceso de Fidelización de Clientes_ [**Aquí**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelizaci%C3%B3n-de-clientes).  
 
 
 
