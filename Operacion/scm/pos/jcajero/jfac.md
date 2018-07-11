@@ -274,7 +274,7 @@ En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Pun
 
 De acuerdo con la parametrización anterior, en la aplicación **JFAC** se realizará la factura de compra del cliente registrado en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizaci%C3%B3n-fidelizaci%C3%B3n-de-clientes).  
 
-La valor de la compra fue de 1.786 pesos, es decir, que el cliente acumuló 17 puntos.  
+El valor de la compra fue de 1.786 pesos, es decir, que el cliente acumuló 17 puntos.  
 
 ![](jfac43.png)
 
