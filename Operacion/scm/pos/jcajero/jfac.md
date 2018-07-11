@@ -7,6 +7,16 @@ editable: si
 
 # Facturas - JFAC
 
+**Menú**
+
+* [JFAC - Facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
+* [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)
+* [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
+
+
+
+## [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
+
 Aplicación que permite elaborar facturas o devoluciones que se realicen en el punto de venta, estas son discriminadas por turnos para tener control sobre la cantidad de cajeros existentes.  
 
 ![](jfac2.png)
@@ -221,9 +231,15 @@ Al crear una factura en JFAC e ingresar al zoom para seleccionar el producto, po
 ![](jfac37.png)
 
 
-## [Fedelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
+## [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
 
 El proceso de _Fidelización de Clientes_ permite que por cada compra que realice un cliente, este acumule puntos que podrá redimir en una próxima compra.  
+
+#### Parametrización
+
+Inicialmente se requiere hacer la siguiente parametrización.  
+
+[**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter)  
 
 
 
