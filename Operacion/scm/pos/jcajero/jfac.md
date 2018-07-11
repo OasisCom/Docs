@@ -258,7 +258,7 @@ También se deberá registrar en el campo **Tarifa** el valor que definirá cada
 ![](jfac41.png)
 
 
-[**BFOR - Descuentos**](http://docs.oasiscom.com/Operacion/common/btercer/bter)
+[**BFOR - Descuentos**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor)
 
 En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Puntos_, la cual se asignará como forma de pago en la compra del cliente que quiera usar sus puntos acumulados.  
 

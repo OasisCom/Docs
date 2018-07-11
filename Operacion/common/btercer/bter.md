@@ -71,6 +71,3 @@ En la aplicación **BTER** se deben registrar los clientes que podrán acumular 
 ![](jfac38.png)
 
 _Conoce todo el proceso de Fidelización de Clientes_ [**Aquí**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelizaci%C3%B3n-de-clientes).  
-
-
-
