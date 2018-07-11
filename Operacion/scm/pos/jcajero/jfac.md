@@ -243,10 +243,9 @@ Inicialmente se requiere hacer la siguiente parametrización.
 
 En la aplicación **BTER** se deben registrar los clientes que podrán acumular puntos. En el momento del registro, se deberá marcar el flag _**Frecuente**_ ubicado en la pestaña del detalle llamada _Ventas_, esto permitirá al sistema identificar que por cada compra que realice dicho cliente, este acumulará puntos.  
 
+![](jfac38.png)
 
-
-
-
+[**FDES - Descuentos**](http://docs.oasiscom.com/Operacion/common/btercer/bter)
 
 
 
