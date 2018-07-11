@@ -221,5 +221,26 @@ Al crear una factura en JFAC e ingresar al zoom para seleccionar el producto, po
 ![](jfac37.png)
 
 
+## [Fedelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
