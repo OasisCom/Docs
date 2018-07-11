@@ -239,13 +239,13 @@ El proceso de _Fidelización de Clientes_ permite que por cada compra que realic
 
 Inicialmente se requiere hacer la siguiente parametrización.  
 
-[**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter)  
+[**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizaci%C3%B3n-fidelizaci%C3%B3n-de-clientes)  
 
 En la aplicación **BTER** se deben registrar los clientes que podrán acumular puntos. En el momento del registro, se deberá marcar el flag _**Frecuente**_ ubicado en la pestaña del detalle llamada _Ventas_, esto permitirá al sistema identificar que por cada compra que realice dicho cliente, este acumulará puntos.  
 
 ![](jfac38.png)
 
-[**FDES - Descuentos**](http://docs.oasiscom.com/Operacion/common/btercer/bter)
+[**FDES - Descuentos**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrizaci%C3%B3n-fidelizaci%C3%B3n-de-clientes)
 
 ![](jfac39.png)
 
@@ -258,7 +258,7 @@ También se deberá registrar en el campo **Tarifa** el valor que definirá cada
 ![](jfac41.png)
 
 
-[**BFOR - Descuentos**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor)
+[**BFOR - Descuentos**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor#parametrización-fidelización-de-clientes)
 
 En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Puntos_, la cual se asignará como forma de pago en la compra del cliente que quiera usar sus puntos acumulados.  
 
