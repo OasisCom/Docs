@@ -262,6 +262,12 @@ También se deberá registrar en el campo **Tarifa** el valor que definirá cada
 
 En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Puntos_, la cual se asignará como forma de pago en la compra del cliente que quiera usar sus puntos acumulados.  
 
+![](jfac42.png)
+
+**Forma Pago:** ingresar el consecutivo que corresponda teniendo en cuenta las formas de pago ya registradas.  
+**Nombre forma pago:** asignar el nombre _Redención Puntos_.  
+**Tipo:** seleccionar el tipo _Puntos_.  
+**Código:** ingresar el código _PUR_.  
 
 
 

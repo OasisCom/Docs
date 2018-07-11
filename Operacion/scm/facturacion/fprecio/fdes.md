@@ -431,3 +431,13 @@ Hay que tener en cuenta que ya se adquirió 1 unidad del tope parametrizado, con
 ![](fdes69.png)
 
 De esta manera se realiza el proceso de creación y parametrización de descuentos.  
+
+
+## [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-fidelización-de-clientes)
+
+
+
+
+
+
+
