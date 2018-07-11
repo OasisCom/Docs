@@ -280,19 +280,26 @@ El valor de la compra fue de 1.786 pesos, es decir, que el cliente acumuló 17 p
 
 Seguidamente, ingresamos a la aplicación [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp) a verificar los puntos acumulados.  
 
+## [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)
+
+Si un cliente desea redimir sus puntos acumulados o una parte de ellos en alguna compra, se debe crear normalmente la factura en la aplicación **JFAC** y en la pestaña del detalle _Pago_ ingresar un renglón en donde la forma de pago sea _PUNTOS_.  
+
+A continuación, veremos un ejemplo en donde la compra realizada por el cliente tiene un valor subtotal de $700.  
+
+![](jfac44.png)
+
+Ahora en la pestaña _Pago_ ingresaremos la forma de pago _PUNTOS_ en la cual se indicará la cantidad de puntos que desea redimir el cliente para esa compra. En caso de que la cantidad de puntos no cubra el total del valor de la factura, se debe ingresar la(s) otra(s) formas de pago con las cuales se completará el pago.  
+
+En el siguiente ejemplo el cliente redimirá 100 puntos, estos son ingresados en el campo **Valor**. Como la compra era por un total de $833, el sistema creó la forma de pago _EFECTIVO_ con el saldo restante teniendo en cuenta la condición de pago ingresada en el maestro la cual era _CONTADO_.  
 
 
+![](jfac45.png)
 
+Finalmente, se procesa la factura y se verifican los saldos de puntos acumulados en la aplicación [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp) para el cliente correspondiente. Vale aclarar que como el cliente redimió sólo 100 puntos en el ejemplo anterior y tuvo que pagar el restante que eran $733, obtuvo 7 puntos más.  
 
+Verificamos el nuevo saldo de puntos acumulados en [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp).  
 
-
-
-
-
-
-
-
-
+Aquí finaliza el proceso de _fidelización de clientes_.  
 
 
 
