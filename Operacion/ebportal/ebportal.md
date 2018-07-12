@@ -66,10 +66,13 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/archivo-xml)
 
+Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom o consumiendo un servicio web que provee OasisCom para que este cargue sea de forma automática.  
 
+**Estructura**
 
-
-
+![](ebportal7.png)
+![](ebportal8.png)
+![](ebportal9.png)
 
 
 
