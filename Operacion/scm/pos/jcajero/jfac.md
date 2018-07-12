@@ -272,9 +272,9 @@ En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Pun
 
 #### Proceso Fidelización de Clientes  
 
-De acuerdo con la parametrización anterior, en la aplicación **JFAC** se realizará la factura de compra del cliente registrado en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizaci%C3%B3n-fidelizaci%C3%B3n-de-clientes).  
+De acuerdo con la parametrización anterior, en la aplicación **JFAC** se realizará la factura de venta al cliente registrado en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizaci%C3%B3n-fidelizaci%C3%B3n-de-clientes).  
 
-El valor de la compra fue de 1.786 pesos, es decir, que el cliente acumuló 17 puntos.  
+El valor de la venta fue de 1.786 pesos, es decir, que el cliente acumuló 17 puntos.  
 
 ![](jfac43.png)
 
@@ -283,7 +283,7 @@ Seguidamente, ingresamos a la aplicación [**ASSP - Saldos de Clientes**](http:/
 
 ## [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)
 
-Si un cliente desea redimir sus puntos acumulados o una parte de ellos en alguna compra, se debe crear normalmente la factura en la aplicación **JFAC** y en la pestaña del detalle _Pago_ ingresar un renglón en donde la forma de pago sea _PUNTOS_.  
+Si un cliente desea redimir sus puntos acumulados o una parte de ellos en alguna compra, se debe crear normalmente la factura de venta en la aplicación **JFAC** y en la pestaña del detalle _Pago_ ingresar un renglón en donde la forma de pago sea _PUNTOS_.  
 
 A continuación, veremos un ejemplo en donde la compra realizada por el cliente tiene un valor subtotal de $700.  
 
@@ -291,7 +291,7 @@ A continuación, veremos un ejemplo en donde la compra realizada por el cliente 
 
 Ahora en la pestaña _Pago_ ingresaremos la forma de pago _PUNTOS_ en la cual se indicará la cantidad de puntos que desea redimir el cliente para esa compra. En caso de que la cantidad de puntos no cubra el total del valor de la factura, se debe ingresar la(s) otra(s) formas de pago con las cuales se completará el pago.  
 
-En el siguiente ejemplo el cliente redimirá 100 puntos, estos son ingresados en el campo **Valor**. Como la compra era por un total de $833, el sistema creó la forma de pago _EFECTIVO_ con el saldo restante teniendo en cuenta la condición de pago ingresada en el maestro la cual era _CONTADO_.  
+En el siguiente ejemplo el cliente redimirá 100 puntos, estos son ingresados en el campo **Valor**. Como la venta era por un total de $833, el sistema creó la forma de pago _EFECTIVO_ con el saldo restante teniendo en cuenta la condición de pago ingresada en el maestro la cual era _CONTADO_.  
 
 
 ![](jfac45.png)
