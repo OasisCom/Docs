@@ -83,6 +83,41 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
+![](ebportal11.png)
+
+La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento.  
+
+![](ebportal15.png)
+
+
+Ingresada toda la información en el archivo de Excel, debemos eliminar el encabezado para así proceder a convertirlo en formato _.CVS_.  
+
+![](ebportal12.png)
+
+Al eliminar el encabezado deberá quedar así:  
+
+![](ebportal13.png)
+
+Para convertir el archivo en formato **.CVS** vamos a _Archivo --> Guardar como --> Elegimos una ubicación --> Asignamos un nombre --> Tipo: CSV (delimitado por comas) --> Guardar_.  
+
+
+
+![](ebportal14.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 _**Instructivo Integración OasisCom**_
 
 [![PDF](pdf.png)](https://oasiserp.sharepoint.com/:b:/s/OasisKB/Manuales/EexmSH7NUoJDjdQ6f5cll-8BqWtyLD0ONlAKiOMvMrEB8w?e=h1w584)
