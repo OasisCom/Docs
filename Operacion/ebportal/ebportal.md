@@ -18,6 +18,7 @@ editable: si
  * [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 
 
+
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 
 La plantilla de envío de facturas electrónicas contiene tres links que permiten confirmar el recibido de la factura, _Aceptarla_ o _Rechazarla_. Igualmente, para cada acción se envía una plantilla de correo como respuesta.  
