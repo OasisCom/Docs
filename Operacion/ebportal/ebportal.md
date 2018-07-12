@@ -101,7 +101,7 @@ Al eliminar el encabezado deberá quedar así:
 
 ![](ebportal13.png)
 
-Para convertir el archivo en formato **.CVS** vamos a _Archivo --> Guardar como --> Elegimos una ubicación --> Asignamos un nombre --> Tipo: CSV (delimitado por comas) --> Guardar_.  
+Para convertir el archivo en formato **.CVS** vamos a _Archivo **-->** Guardar como **-->** Elegimos una ubicación **-->** Asignamos un nombre **-->** Tipo: CSV (delimitado por comas) **-->** Guardar_.  
 
 ![](ebportal14.png)
 
