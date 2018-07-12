@@ -13,6 +13,8 @@ editable: si
 * [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
 * [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 * [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
+* [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
+* [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
 
 
 
@@ -62,9 +64,9 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ![](ebportal6.png)
 
-## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/integración-de-documentos-electrónicos-con-oasiscom)
+## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)
 
-### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/archivo-xml)
+### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)
 
 Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom o consumiendo un servicio web que provee OasisCom para que este cargue sea de forma automática.  
 
@@ -73,7 +75,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal7.png)
 ![](ebportal8.png)
 ![](ebportal9.png)
-
+![](ebportal10.png)
 
 
 
