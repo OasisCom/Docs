@@ -9,13 +9,13 @@ editable: si
 
 **Menú**  
 
-* [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
-* [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
-* [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
-* [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
-* [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
- * [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
- * [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
+1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
+2. [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
+3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
+4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
+5. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
+5.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
+5.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 
 
 
@@ -84,6 +84,8 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
+Los datos relacionados al color amarillo son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas y los asociados al color verde en el detalle.  
+
 ![](ebportal11.png)
 
 La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento.  
@@ -103,30 +105,15 @@ Para convertir el archivo en formato **.CVS** vamos a _Archivo --> Guardar como 
 
 ![](ebportal14.png)
 
+**_IMPORTANTE:_** Convertido el archivo en formato _.CVS_, este se debe abrir y eliminar el último espacio en blanco.  
 
+![](ebportal16.png)
 
+Quedando el cursor en el último caracter del último renglón.  
 
-
-
-
-
-
-
-
-
-
+![](ebportal17.png)
 
 
 _**Instructivo Integración OasisCom**_
 
 [![PDF](pdf.png)](https://oasiserp.sharepoint.com/:b:/s/OasisKB/Manuales/EexmSH7NUoJDjdQ6f5cll-8BqWtyLD0ONlAKiOMvMrEB8w?e=h1w584)
-
-
-
-
-
-
-
-
-
-
