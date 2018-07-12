@@ -62,8 +62,9 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ![](ebportal6.png)
 
+## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/integración-de-documentos-electrónicos-con-oasiscom)
 
-
+### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/archivo-xml)
 
 
 
