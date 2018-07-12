@@ -83,7 +83,7 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
-_**Archivo Plano**_
+_**Instructivo Integración OasisCom**_
 
 [![PDF](pdf.png)](https://oasiserp.sharepoint.com/:b:/s/OasisKB/Manuales/EexmSH7NUoJDjdQ6f5cll-8BqWtyLD0ONlAKiOMvMrEB8w?e=h1w584)
 
