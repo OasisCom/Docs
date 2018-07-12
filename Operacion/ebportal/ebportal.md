@@ -14,8 +14,8 @@ editable: si
 * [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 * [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
 * [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
-* [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
-
+ * [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
+ * [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
@@ -76,6 +76,23 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal8.png)
 ![](ebportal9.png)
 ![](ebportal10.png)
+
+### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)
+
+Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
+
+**Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
+
+_**Archivo Plano**_
+
+[![PDF](pdf.png)](https://oasiserp.sharepoint.com/:b:/s/OasisKB/Manuales/EexmSH7NUoJDjdQ6f5cll-8BqWtyLD0ONlAKiOMvMrEB8w?e=h1w584)
+
+
+
+
+
+
+
 
 
 
