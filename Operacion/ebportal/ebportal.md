@@ -105,7 +105,7 @@ Para convertir el archivo en formato **.CVS** vamos a _Archivo **-->** Guardar c
 
 ![](ebportal14.png)
 
-**_IMPORTANTE:_** Convertido el archivo en formato _.CVS_, este se debe abrir y eliminar el último espacio en blanco.  
+**_IMPORTANTE:_** Convertido el archivo en formato _.CVS_, este se debe abrir en el editor de texto y eliminar el último espacio en blanco.  
 
 ![](ebportal16.png)
 
