@@ -19,3 +19,10 @@ Los siguientes son los pasos necesarios para realizar una correcta actualizació
 
 ![](ver2.png)
 
+**5.** Ingrese al sitio web y detenga la ejecución.  
+
+![](ver3.png)
+
+**6.** Verifique que se encuentre detenido.  
+
+![](ver4.png)
