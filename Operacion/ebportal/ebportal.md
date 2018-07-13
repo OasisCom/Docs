@@ -118,7 +118,7 @@ Quedando el cursor en el último caracter del último renglón.
 
 A continuación, se dará a conocer la data requerida para realizar la carga de documentos electrónicos en los formatos XLS o TXT para el proceso de facturación electrónica en OasisCom.  
 
-#### Definiciones
+#### _Definiciones_
 
 Descripción de cada una de las columnas de la malla de validación:  
 
@@ -136,7 +136,7 @@ Descripción de cada una de las columnas de la malla de validación:
 **Formato:** Ejemplo de cómo debe ser llenado cada campo.  
 
 
-#### Malla de validación
+#### _Malla de validación_
 
 A continuación, se describe la malla de validación con la información precisa para realizar la carga de documentos electrónicos.  
 
