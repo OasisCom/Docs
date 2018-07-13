@@ -113,7 +113,33 @@ Quedando el cursor en el último caracter del último renglón.
 
 ![](ebportal17.png)
 
+### [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)
 
-_**Instructivo Integración OasisCom**_
 
-[![PDF](pdf.png)](https://oasiserp.sharepoint.com/:b:/s/OasisKB/Manuales/EexmSH7NUoJDjdQ6f5cll-8BqWtyLD0ONlAKiOMvMrEB8w?e=h1w584)
+A continuación, se dará a conocer la data requerida para realizar la carga de documentos electrónicos en los formatos XLS o TXT para el proceso de facturación electrónica en OasisCom.  
+
+#### Definiciones
+
+Descripción de cada una de las columnas de la malla de validación:  
+
+**Atributo:** Corresponde al nombre del campo a definir.  
+**Tipo:** Identifica si los datos del campo son a nivel de maestro **(M)** o del detalle **(D)** de la transacción, factura o nota.  
+**Descripción:** Breve explicación de la característica del campo en cuestión.  
+**T:** Corresponde al tipo de dato del campo:  
+
+ * **D**: Campo tipo fecha.  
+ * **N:** Campo de tipo número (Entero, Decimal).  
+ * **C:** Carácter o cadena de caracteres.  
+
+**Longitud máxima:** En esta columna se describe el tamaño máximo requerido para el campo (en números).  
+**Req. Valor:** Identifica si el campo es o no es obligatorio. **S** para si, **N** para no.  
+**Formato:** Ejemplo de cómo debe ser llenado cada campo.  
+
+
+#### Malla de validación
+
+A continuación, se describe la malla de validación con la información precisa para realizar la carga de documentos electrónicos.  
+
+![](ebportal18.png)
+![](ebportal19.png)
+![](ebportal20.png)
