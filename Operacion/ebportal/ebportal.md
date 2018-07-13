@@ -93,11 +93,11 @@ La estructura enviada por OasisCom cuenta con comentarios en cada campo para fac
 ![](ebportal15.png)
 
 
-Ingresada toda la información en el archivo de Excel, debemos eliminar el encabezado para así proceder a convertirlo en formato _.CVS_.  
+Ingresada toda la información en el archivo de Excel, debemos eliminar los renglónes señalados en la siguiente imagen para así proceder a convertirlo en formato _.CVS_.  
 
 ![](ebportal12.png)
 
-Al eliminar el encabezado deberá quedar así:  
+Al eliminar los anteriores renglones deberá quedar así:  
 
 ![](ebportal13.png)
 
