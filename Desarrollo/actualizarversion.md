@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desarrollo
-permalink: /Desarrollo/actualizarversiones
+permalink: /Desarrollo/actualizarversion
 editable: si
 ---
 
