@@ -5,7 +5,23 @@ permalink: /Operacion/common/bsistema/bdoc
 editable: si
 ---
 
-## BDOC - Documentos
+# BDOC - Documentos
+
+**Menú**
+
+1. [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+2. [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
+3. [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
+4. [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
+5. [**Parametrización de formatos de impresión para facturas**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
+6. [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
+
+
+
+
+
+
+## [BDOC - Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
