@@ -66,6 +66,7 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ### Proceso de importaciones
 
+_**Orden de Compra**_
 
 Para iniciar con el proceso de importaciones debemos crear una órden de compra en la aplicación [**OORD - Ordenes de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord).  
 
@@ -81,10 +82,34 @@ Vista previa de la orden de compra. Puede ser exportada en formato de Word, PFD 
 
 ![](yimp8.png)
 
-Seguidamente, se deberá crear la preliquidación de la importación en la aplicación [**YIMP - Importaciones**]()
+_**Preliquidación de la importación**_
 
+Seguidamente, se deberá realizar la preliquidación de la importación en la aplicación [**YIMP - Importaciones**](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones).  
 
+Se creará un documento _IM_ por concepto IM y se completará el formulario con la información de la importación.  
 
+![](yimp9.png)
+
+**Documento:** seleccionar el documento _IM - Importación_.  
+**Concepto:** seleccionar el concepto _IM - Importación_.  
+**Fecha:** fecha en la cual se realiza la preliquidación.  
+**Tercero:** ingresar o seleccionar del zoom el número de identificación del proveedor.  
+**BI:** ingresar el número del documento BI.  
+**DateBI:** ingresar la fecha del documento BI.  
+**Proyecto:** seleccionar del zoom el proyecto al cual se asocia la importación.  
+**DateArrival:** fecha en la cual llegará la mercancía.  
+**Costo1, Costo2, Costo3, Costo4:** estos campos no se encuentran dentro de los conceptos parametrizados pero se suman a la liquidación. Están habilitados para que se ingresen costos que no estaban previstos.  
+**Documento1:** para asociar la orden de compra debemos primero indicar en este campo las siglas de la orden _OC_.  
+**Ubicación1:** indicamos la ubicación en la cual se realizó la orden de compra.  
+**Número1:** al dar doble click en este zoom, se habilitán todas las ordenes de compra, se debe seleccionar la relacionada con la importación a la cual se le realiza preliquidación.  
+**Tipo de Transporte:** seleccionamos del zoom el tipo de transporte en que se importa la mercancía.  
+**Transportador:** ingresar el número de identificación del proveedor que transporta la mercancía.  
+**Incoterms:** seleccionar el incoterm que aplica.  
+**Buque:** ingresar el nombre del buque que transporta la mercancía.  
+**País de origen, de compra, de envío, de destino:** ingresar el país de donde proviene la mercancía, el país que importa la mercancía, el país que se encarga de enviar la mercancía y el país destino a donde llegará la mercancía.  
+**Puerto de envío:** nombre del puerto o aeropuerto desde donde se envía la mercancía.  
+**Puerto de destino:** nombre del puerto o aeropuerto a donde llegará la mercancía.  
+**Containers:** cantidad de containers con la mercancía.  
 
 
 
