@@ -8,7 +8,7 @@ editable: si
 # YIMP - Importaciones
 
 
-# [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp)
+## [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp)
 
 A continuación, se dará a conocer el proceso de importaciones y la parametrización requerida para ejecutarlo.  
 
@@ -32,7 +32,7 @@ En la aplicación BCON se reflejan los conceptos asociados en la aplicación BDO
 ![](yimp1.png)
 
 
- * [**BINC - Incoterms**]()  
+ * [**BINC - Incoterms**](http://docs.oasiscom.com/Operacion/common/bcomer/binc#importaci%C3%B3n)  
 
 De acuerdo con el modelo de importación y de incoterms que maneje la empresa, se crean los conjuntos de conceptos en la aplicación _BINC - Incoterms_.  
 
@@ -41,11 +41,14 @@ Por cada registro que se cree en el maestro se deberá asociar el conjunto de co
 ![](yimp2.png)
 
 
+ *  [**YBMO - Modos de transporte**]()  
 
 
 
 
- * [**YBMO - Modos de transporte**]()  
+
+
+
  * [**BADU - Aduanas**]()  
  * [**BCUE - Cuentas**]()  
 
