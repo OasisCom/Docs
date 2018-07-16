@@ -63,6 +63,7 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ![](yimp5.png)
 
+
 ### Proceso de importaciones
 
 
@@ -72,15 +73,15 @@ La orden de compra se hace al proveedor en la moneda de negociación utilizando 
 
 ![](yimp6.png)
 
-
 En el detalle de la aplicación OORD asociaremos los productos de importación, las cantidades y los precios. Los precios se reflejarán en la moneda definida en el maestro.  
 
+![](yimp7.png)
 
+Vista previa de la orden de compra. Puede ser exportada en formato de Word, PFD o Excel.  
 
+![](yimp8.png)
 
-
-
-
+Seguidamente, se deberá crear la preliquidación de la importación en la aplicación [**YIMP - Importaciones**]()
 
 
 
