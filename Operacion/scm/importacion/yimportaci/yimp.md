@@ -8,7 +8,7 @@ editable: si
 # YIMP - Importaciones
 
 
-## [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp)
+## [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)
 
 A continuación, se dará a conocer el proceso de importaciones y la parametrización requerida para ejecutarlo.  
 
@@ -43,7 +43,9 @@ Por cada registro que se cree en el maestro se deberá asociar el conjunto de co
 
  *  [**YBMO - Modos de transporte**]()  
 
+En la aplicación YBMO se parametrizan los modos de transporte para la importación o exportación de mercancía.  
 
+![](yimp3.png)
 
 
 
