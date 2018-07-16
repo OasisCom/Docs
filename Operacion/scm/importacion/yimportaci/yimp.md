@@ -66,7 +66,7 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ### Proceso de importaciones
 
-_**Orden de Compra**_
+_**Orden de Compra**_  
 
 Para iniciar con el proceso de importaciones debemos crear una órden de compra en la aplicación [**OORD - Ordenes de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord).  
 
@@ -82,7 +82,7 @@ Vista previa de la orden de compra. Puede ser exportada en formato de Word, PFD 
 
 ![](yimp8.png)
 
-_**Preliquidación de la importación**_
+_**Preliquidación de la importación**_  
 
 Seguidamente, se deberá realizar la preliquidación de la importación en la aplicación [**YIMP - Importaciones**](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones).  
 
@@ -134,6 +134,19 @@ En la siguiente pestaña del detalle podremos ver el cálculo de los conceptos p
 Verificada la información tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
 
 ![](yimp14.png)
+
+
+_**Entrada a inventarios**_  
+
+Realizada la preliquidación se requiere ingresar la mercancía que se está importando al inventario. _Este proceso se recomienda hacer después de nacionalizada la mercancía._  
+
+En la aplicación [**IMOV - Movimientos de inventarios**]()
+
+
+
+
+
+
 
 
 
