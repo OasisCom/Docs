@@ -41,18 +41,28 @@ Por cada registro que se cree en el maestro se deberá asociar el conjunto de co
 ![](yimp2.png)
 
 
- *  [**YBMO - Modos de transporte**]()  
+ *  [**YBMO - Modos de transporte**](http://docs.oasiscom.com/Operacion/scm/importacion/ybasica/ybmo)  
 
 En la aplicación YBMO se parametrizan los modos de transporte para la importación o exportación de mercancía.  
 
 ![](yimp3.png)
 
 
+ * [**BADU - Aduanas**](http://docs.oasiscom.com/Operacion/common/bcomer/badu)  
+
+En la aplicación BADU se parametrizan los puertos a los que llega la mercancía.  
+
+![](yimp4.png)
 
 
+ * [**BCUE - Cuentas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue)  
 
- * [**BADU - Aduanas**]()  
- * [**BCUE - Cuentas**]()  
+En la aplicación BCUE se debe crear la cuenta contable de importaciones.  
+
+Es necesario que a la cuenta creada de importaciones se parametrice el módulo _Y_, se marque el flag como _Imputable_ y el flag _Project_ para que siempre se deba asociar un proyecto en cada importación.  
+
+
+![](yimp5.png)
 
 
 
