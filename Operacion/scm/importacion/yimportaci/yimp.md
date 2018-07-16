@@ -63,5 +63,30 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ![](yimp5.png)
 
+### Proceso de importaciones
+
+
+Para iniciar con el proceso de importaciones debemos crear una órden de compra en la aplicación [**OORD - Ordenes de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord).  
+
+La orden de compra se hace al proveedor en la moneda de negociación utilizando una tasa de cambio de referencia.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
