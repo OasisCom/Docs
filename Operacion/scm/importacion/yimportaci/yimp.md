@@ -109,7 +109,11 @@ Se creará un documento _IM_ por concepto IM y se completará el formulario con 
 **País de origen, de compra, de envío, de destino:** ingresar el país de donde proviene la mercancía, el país que importa la mercancía, el país que se encarga de enviar la mercancía y el país destino a donde llegará la mercancía.  
 **Puerto de envío:** nombre del puerto o aeropuerto desde donde se envía la mercancía.  
 **Puerto de destino:** nombre del puerto o aeropuerto a donde llegará la mercancía.  
-**Containers:** cantidad de containers con la mercancía.  
+**Containers:** cantidad de containers en los que viene la mercancía.  
+
+Diligenciado el formulario damos click en _Guardar_.  
+
+Al dar click en _Guardar_, el sistema trae el detalle con los productos de la orden de compra, cantidades y precios.  
 
 
 
