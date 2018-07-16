@@ -68,8 +68,12 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 Para iniciar con el proceso de importaciones debemos crear una órden de compra en la aplicación [**OORD - Ordenes de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord).  
 
-La orden de compra se hace al proveedor en la moneda de negociación utilizando una tasa de cambio de referencia.  
+La orden de compra se hace al proveedor en la moneda de negociación utilizando una tasa de cambio de referencia. Recordemos que las monedas se parametrizan en la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
 
+![](yimp6.png)
+
+
+En el detalle de la aplicación OORD asociaremos los productos de importación, las cantidades y los precios. Los precios se reflejarán en la moneda definida en el maestro.  
 
 
 
