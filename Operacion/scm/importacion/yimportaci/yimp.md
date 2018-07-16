@@ -115,10 +115,25 @@ Diligenciado el formulario damos click en _Guardar_.
 
 Al dar click en _Guardar_, el sistema trae el detalle con los productos de la orden de compra, cantidades y precios.  
 
+![](yimp10.png)
 
+Verificada la información traída de la orden de compra, damos click en el botón del maestro llamado _**Liquidación Importación**_ con el cual se calcularán los conceptos que serán parte del costo de la importación.  
 
+![](yimp11.png)
 
+El sistema arrojará un mensaje de confirmación y creará el renglón 0 en el detalle, este no se deberá eliminar.  
 
+![](yimp12.png)
+
+En la siguiente pestaña del detalle podremos ver el cálculo de los conceptos por producto.  
+
+![](yimp13.png)
+
+**_Nota:_** Si se requiere modificar algún dato del maestro, es necesario volver a dar click en el botón _**Liquidación Importación**_.  
+
+Verificada la información tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
+
+![](yimp14.png)
 
 
 
