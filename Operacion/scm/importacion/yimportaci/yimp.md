@@ -140,9 +140,19 @@ _**Entrada a inventarios**_
 
 Realizada la preliquidación se requiere ingresar la mercancía que se está importando al inventario. _Este proceso se recomienda hacer después de nacionalizada la mercancía._  
 
-En la aplicación [**IMOV - Movimientos de inventarios**]()
+En la aplicación [**IMOV - Movimientos de inventarios**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada) creamos un nuevo registro con documento **EN - Entradas al inventario** y concepto **EI - Entrada por importación**.  
 
+La entrada de inventarios se ingresa con moneda 0 correspondiente a pesos. Se debe asociar el documento **IM** de la importación creado previamente en la aplicación [**YIMP - Importaciones**](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones).  
 
+![](imov16.png)
+
+Diligenciado el formulario damos click en el botón _Guardar_. El sistema al guardar el maestro arrojará automáticamente el detalle de la importación con los costos por producto en pesos colombianos.  
+
+![](imov17.png)
+
+Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle **Contabilización**.  
+
+![](imov18.png)
 
 
 
