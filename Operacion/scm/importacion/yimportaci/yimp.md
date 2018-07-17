@@ -154,6 +154,14 @@ Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle
 
 ![](imov18.png)
 
+_**Validación de liquidaciones**_  
+
+Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información en la aplicación _YLIQ - Liquidaciones_.  
+
+
+
+
+
 
 
 
