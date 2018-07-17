@@ -156,17 +156,8 @@ Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle
 
 _**Validación de liquidaciones**_  
 
-Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información en la aplicación _YLIQ - Liquidaciones_.  
+Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información de la liquidación total en la aplicación _YLIQ - Liquidaciones_. Consultamos por el proyecto que esté asociado a la importación.  
 
+![](yliq.png)
 
-
-
-
-
-
-
-
-
-
-
-
+Aquí finaliza el proceso de importaciones en OasisCom.  
