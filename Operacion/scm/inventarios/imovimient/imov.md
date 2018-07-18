@@ -13,7 +13,14 @@ editable: si
 2. [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
 3. [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
 4. [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
-5. [**Ingreso de mercancía importada**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada)
+5. [**Ingreso de mercancía importada**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada)  
+6. 
+
+
+
+
+
+
 
 ## [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
 
@@ -163,7 +170,7 @@ Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle
 _Conoce el proceso completo de importaciones [**Aquí**](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)_.  
 
 
-## [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario)
+## [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
 
 Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) (_Ver aplicación_).  
 
