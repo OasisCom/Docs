@@ -6,7 +6,9 @@ editable: si
 ---
 
 
-Ordenes de Trabajo
+# Ordenes de Trabajo
+
+### **Menú**
 
 1. [**MORD - Ordenes de Trabajo**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#mord---ordenes-de-trabajo)  
 2. [**WorkFlow Task**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#workflow-task)
@@ -96,8 +98,62 @@ Una vez seleccionado se enseña la siguiente ventana emergente:
 
  * En el renglón _Solución_ ingresaremos la información así:  
 
+**Task Description:** se debe ingresar la descripción de la solución al problema en cuestión.  
+**Assign To:** no se debe diligenciar, ya que se ha llegado a la solución del problema. Este campo puede ser diligenciado si efectivamente no se encontró una solución y por consiguiente se repite el mismo proceso a partir del campo _Problema_.  
+**Time Assign:** no requiere de tiempo de ejecución dado que esta última tarea corresponde a la solución del problema en cuestión.  
 
 
+![](mord5.png)
+
+En la columna _Executed_ el icono ![](ejecutar.png)  cumple la función de ejecutar las tareas y generar un registro de las mismas el cual puede ser visualizado así:  
+
+![](mord6.png)
+
+Hecho esto, debe llegar un correo electrónico al operario responsable de realizar la tarea, para que esta sea debidamente ejecutada:  
+
+![](mord7.png)
+
+Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**]() (_Ver aplicación_).  
+
+[**Salida de inventario en IMOV**]()
+
+Creamos un nuevo registro en la aplicación IMOV y diligenciamos el formulario:  
+
+![](mord8.png)
+
+
+**Documento:** para esta opción se trabajará con el documento _SA_ que corresponde a una Salida de Inventario.  
+**Ubicación:** se debe seleccionar ya sea desde el zoom o ingresarlo manualmente, la ubicación en donde se está separando el producto necesario para efectuar la orden de servicio.  
+**Concepto:** se debe seleccionar el concepto por el cual se facturará la orden, en este caso es _OT – Cargo a Tercero_ dado que la factura será cargada al cliente propietario del equipo al cual se le realiza el mantenimiento.  
+
+ _**NOTA:**_ Se debe considerar que, de acuerdo al concepto elegido, deben estar parametrizados de la siguiente manera en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc):
+
+ * Si se eligió **OT** en el campo concepto, en el campo _Clase_ del detalle de esta opción, debe estar seleccionada la opción _Cargo a tercero_:  
+
+![](mord9.png)
+
+ * Si se eligió el concepto **GT**, en el campo _Clase_ del detalle de esta opción, debe estar seleccionada la opción _Garantía_:  
+
+![](mord10.png)
+
+ _**Fin de la nota.**_
+
+**Tercero:** se debe ingresar el número de identificación del tercero al cual se le va a cargar la factura correspondiente.  
+**Nombre Tercero:** se llena de manera automática una vez ingresado el número de identificación del tercero.  
+**Documento 1, Número 1** y **Ubicación 1:** se deben diligenciar de acuerdo con lo llenado en el registro de la opción **MORD**, de esta manera deberá ponerse _OT_, _2_ y _1_ respectivamente.  
+
+Posteriormente se guarda el registro.  
+
+
+![](mord11.png)
+
+Nótese como el registro del detalle se llena de manera automática mostrando el producto que fue ingresado en la opción **MORD** para realizar la salida de inventario correspondiente.  
+
+![](mord12.png)
+
+Posteriormente, se procesa el documento de salida de inventario en IMOV.  
+
+![](mord13.png)
 
 
 

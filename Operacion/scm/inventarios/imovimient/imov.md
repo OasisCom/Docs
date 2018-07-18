@@ -161,3 +161,11 @@ Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle
 ![](imov18.png)
 
 _Conoce el proceso completo de importaciones [**Aquí**](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)_.  
+
+
+
+
+
+
+
+
