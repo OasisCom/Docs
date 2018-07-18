@@ -113,9 +113,9 @@ Hecho esto, debe llegar un correo electrónico al operario responsable de realiz
 
 ![](mord7.png)
 
-Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) (_Ver aplicación_).  
+Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra) (_Ver aplicación_).  
 
-[**Salida de inventario en IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov)
+[**Salida de inventario en IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
 
 Creamos un nuevo registro en la aplicación IMOV y diligenciamos el formulario:  
 
