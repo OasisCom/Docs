@@ -163,6 +163,56 @@ Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle
 _Conoce el proceso completo de importaciones [**Aquí**](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)_.  
 
 
+## [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario)
+
+Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) (_Ver aplicación_).  
+
+[**Salida de inventario en IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov)
+
+Creamos un nuevo registro en la aplicación IMOV y diligenciamos el formulario:  
+
+![](mord8.png)
+
+
+**Documento:** para esta opción se trabajará con el documento _SA_ que corresponde a una Salida de Inventario.  
+**Ubicación:** se debe seleccionar ya sea desde el zoom o ingresarlo manualmente, la ubicación en donde se está separando el producto necesario para efectuar la orden de servicio.  
+**Concepto:** se debe seleccionar el concepto por el cual se facturará la orden, en este caso es _OT – Cargo a Tercero_ dado que la factura será cargada al cliente propietario del equipo al cual se le realiza el mantenimiento.  
+
+ _**NOTA:**_ Se debe considerar que, de acuerdo al concepto elegido, deben estar parametrizados de la siguiente manera en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc):
+
+ * Si se eligió **OT** en el campo concepto, en el campo _Clase_ del detalle de esta opción, debe estar seleccionada la opción _Cargo a tercero_:  
+
+![](mord9.png)
+
+ * Si se eligió el concepto **GT**, en el campo _Clase_ del detalle de esta opción, debe estar seleccionada la opción _Garantía_:  
+
+![](mord10.png)
+
+ _**Fin de la nota.**_
+
+**Tercero:** se debe ingresar el número de identificación del tercero al cual se le va a cargar la factura correspondiente.  
+**Nombre Tercero:** se llena de manera automática una vez ingresado el número de identificación del tercero.  
+**Documento 1, Número 1** y **Ubicación 1:** se deben diligenciar de acuerdo con lo llenado en el registro de la opción **MORD**, de esta manera deberá ponerse _OT_, _2_ y _1_ respectivamente.  
+
+Posteriormente se guarda el registro.  
+
+
+![](mord11.png)
+
+Nótese como el registro del detalle se llena de manera automática mostrando el producto que fue ingresado en la opción **MORD** para realizar la salida de inventario correspondiente.  
+
+![](mord12.png)
+
+Posteriormente, se procesa el documento de salida de inventario en IMOV.  
+
+![](mord13.png)
+
+
+Conoce el proceso completo de WorkFlow Task [**Aquí**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#workflow-task).  
+
+
+
+
 
 
 

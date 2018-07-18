@@ -113,9 +113,9 @@ Hecho esto, debe llegar un correo electrónico al operario responsable de realiz
 
 ![](mord7.png)
 
-Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**]() (_Ver aplicación_).  
+Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) (_Ver aplicación_).  
 
-[**Salida de inventario en IMOV**]()
+[**Salida de inventario en IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov)
 
 Creamos un nuevo registro en la aplicación IMOV y diligenciamos el formulario:  
 
@@ -155,15 +155,17 @@ Posteriormente, se procesa el documento de salida de inventario en IMOV.
 
 ![](mord13.png)
 
+Regresando a la opción **MORD** puede notarse que el campo _Entregado_ del detalle tiene el dato _1_ indicando que se realizó la entrega de ese producto para realizar la facturación correspondiente.  
 
+![](mord14.png)
 
+Luego de esto, se confirma el documnto de la orden de servicio.  
 
+![](mord15.png)
 
+Si se quiere consultar la factura generada, se puede hacer en la aplicación [**FFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac) ingresando en el campo _Fecha_ la fecha de generación de la orden.  
 
-
-
-
-
+![](mord16.png)
 
 
 
