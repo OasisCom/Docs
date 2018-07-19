@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Datos Basico
+title: Recursos
 permalink: /Operacion/crm/proyecto/prbasica/arec
 editable: si
 ---
 
-## Recursos - AREC
+## AREC - Recursos
 
 
 Esta aplicación permite la parametrización de los recursos que realizarán las revisiones de rutina dentro del módulo de mantenimiento.  
