@@ -1,25 +1,46 @@
 ---
 layout: default
-title: Generar Calendario
-permalink: /Operacion/mrp/mantenimiento/mpreventivo/mpga
+title: Calendario
+permalink: /Operacion/mrp/mantenimiento/mpreventivo/mcal
 editable: si
 ---
 
-# MPGA - Generar Calendario
+# MCAL - Calendario
 
-Luego de crear la rutina y el recurso, se procederá a la generación del calendario, el cual consiste en la planeación de las revisiones de rutina a cargo de un recurso. Esto se realiza a través de la aplicación **MPGA**.  
+La opción MCAL permite visualizar la planeación realizada desde la opción [**MPGA - Generar Calendario**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mpga).  
 
-Ingresamos los datos de consulta.  
+En el campo **Id Recurso** se debe ingresar el número de identificación de la persona a la cual se le realizó la planeación desde la opción [**MPGA**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mpga).  
 
-![](mpga.png)
+![](mcal.png)
 
-**FechaIni** y **DateFinal:** se muestran como deshabilitados dado que su diligenciamiento no aplica.  
-**Ubicación:** se debe seleccionar la ubicación asignada a cada rutina.  
-**Id recurso:** se debe ingresar el número de identificación del recurso al que se le realizará la generación de calendario.  
-**Proceso:** lleva por defecto la opción _Agenda Mantenimiento_ por ende, este está deshabilitado.
+Adicional a esto, puede notarse como los registros generados se muestran con el estado _En Agenda_, el cual hace referencia a que el recurso se encuentra agendado para ejecutar una revisión de rutina en la fecha y hora que enseña el registro en cuestión.  
 
-![](mpga1.png)
+Esta opción es estrictamente de consulta, es decir, no permite crear, editar o eliminar los registros que aquí se visualizan.  
 
-Posteriormente se debe hacer click en el botón ![](generar.png) , el cual se encargará de realizar la generación del calendario.  
+![](mcal1.png)
 
-![](mpga2.png)
+Luego de esto, si se desea generar una orden de servicio sobre este registro planeado, se debe seleccionar el botón ![](boton.png)  (_Genera_Orden_):  
+
+![](mcal2.png)
+
+El registro pasa de estar en estado _En Agenda_ a _Orden Servicio_:  
+
+![](mcal3.png)
+
+Este último estado indica que se ha creado una nueva orden de servicio a partir de este registro planeado, con lo que se puede consultar en la opción [**MORD - Ordenes de servicio**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#mord---ordenes-de-trabajo), ingresando la fecha de la creación de la orden desde el _MCAL_.  
+
+_En MORD - Ordenes de servicio_  
+
+![](mcal4.png)
+
+En esta orden de servicio se puede visualizar el número de la rutina asociada a esta, esto se puede ver en el campo _Número2_:  
+
+![](mcal5.png)
+
+Al procesar la orden de servicio, el registro en la opción _MCAL_ debe pasar de estado _Orden Servicio_ a _Orden Terminada_.  
+
+![](mcal6.png)
+
+Cambio de estado en la opción _MCAL - Calendario_.  
+
+![](mcal7.png)
