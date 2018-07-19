@@ -159,7 +159,7 @@ Regresando a la opción **MORD** puede notarse que el campo _Entregado_ del deta
 
 ![](mord14.png)
 
-Luego de esto, se confirma el documnto de la orden de servicio.  
+Luego de esto, se confirma el documento de la orden de servicio.  
 
 ![](mord15.png)
 

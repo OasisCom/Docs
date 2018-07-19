@@ -168,7 +168,7 @@ _Conoce el proceso completo de importaciones [**Aquí**](http://docs.oasiscom.co
 
 ## [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
 
-Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción [**IMOV – Movimientos de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) (_Ver aplicación_).  
+Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción **IMOV – Movimientos de Inventario**.  
 
 [**Salida de inventario en IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov)
 
@@ -212,13 +212,3 @@ Posteriormente, se procesa el documento de salida de inventario en IMOV.
 
 
 Conoce el proceso completo de WorkFlow Task [**Aquí**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#workflow-task).  
-
-
-
-
-
-
-
-
-
-
