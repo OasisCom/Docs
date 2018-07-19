@@ -13,6 +13,6 @@ A continuación, se describirán las opciones que conforman el módulo de Manten
 2. [**Ordenes de servicio**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#mord---ordenes-de-trabajo)
 3. [**Workflow Task**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#workflow-task)
 4. [**Rutinas**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mbasica/mrut)
-5. [**Recursos**]()
+5. [**Recursos**](http://docs.oasiscom.com/Operacion/crm/proyecto/prbasica/arec)
 6. [**Generar calendario**]()
 7. [**Calendario**]()
