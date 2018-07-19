@@ -24,5 +24,5 @@ Posteriormente se debe hacer click en el botón ![](generar.png) , el cual se en
 
 ![](mpga2.png)
 
-Verifique el calendario generado en la aplicación [**Calendario**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mcal).  
+Verifique el calendario generado en la aplicación [**MCAL - Calendario**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mcal).  
 
