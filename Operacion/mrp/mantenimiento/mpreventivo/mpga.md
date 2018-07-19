@@ -23,3 +23,6 @@ Ingresamos los datos de consulta.
 Posteriormente se debe hacer click en el botón ![](generar.png) , el cual se encargará de realizar la generación del calendario.  
 
 ![](mpga2.png)
+
+Verifique el calendario generado en la aplicación [**Calendario**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mcal).  
+
