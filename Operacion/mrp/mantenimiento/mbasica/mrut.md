@@ -5,7 +5,7 @@ permalink: /Operacion/mrp/mantenimiento/mbasica/mrut
 editable: si
 ---
 
-## Rutinas
+# MRUT - Rutinas
 
 
 La aplicación **MRUT – Rutinas**, permite realizar las revisiones de rutina de los equipos y determinar su periodicidad.  

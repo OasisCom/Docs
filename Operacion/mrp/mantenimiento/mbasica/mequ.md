@@ -5,7 +5,7 @@ permalink: /Operacion/mrp/mantenimiento/mbasica/mequ
 editable: si
 ---
 
-## MEQU - Equipos
+# MEQU - Equipos
 
 La aplicación **MEQU** es utilizada para realizar la administración de los equipos a los cuales se les hace mantenimiento, estos equipos pueden ser propios de la empresa (activos fijos) o de clientes externos.  
 

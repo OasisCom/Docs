@@ -5,10 +5,10 @@ permalink: /Operacion/crm/proyecto/prbasica/arec
 editable: si
 ---
 
-## AREC - Recursos
+# AREC - Recursos
 
 
-Esta aplicación permite la parametrización de los recursos que realizarán las revisiones de rutina dentro del módulo de mantenimiento.  
+Esta aplicación permite la parametrización de los recursos que realizarán las revisiones de rutina dentro del módulo de [**Mantenimiento**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/).  
 
 En el maestro creamos un nuevo registro y diligenciamos los campos.  
 
