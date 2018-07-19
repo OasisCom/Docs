@@ -17,11 +17,11 @@ En el maestro, agregamos un nuevo registro y diligenciamos los siguientes campos
 
 **Id Rutina:** se debe ingresar el número de la rutina, este número no es un consecutivo, pero este debe ser exclusivo para cada rutina creada.  
 **Nombre Rutina:** ingresar el nombre de la rutina, este campo admite tanto letras como números y caracteres.  
-**Documento:** dar doble click y seleccionar del zoom el documento OT – Orden de trabajo. Estos documentos son parametrizables en la opción [**BDOC – Documentos**](https://github.com/OasisCom/Docs/blob/master/Operacion/common/bsistema/bdoc.md).  
+**Documento:** dar doble click y seleccionar del zoom el documento OT – Orden de trabajo. Estos documentos son parametrizables en la opción [**BDOC – Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 
 ![](DOC.png)
 
-**Concepto:** dar doble click y seleccionar del zoom el concepto RU – Rutinas. Los conceptos son parametrizables en la opción [**BCON – Conceptos**](https://github.com/OasisCom/Docs/blob/master/Operacion/common/bsistema/bcon.md).  
+**Concepto:** dar doble click y seleccionar del zoom el concepto RU – Rutinas. Los conceptos son parametrizables en la opción [**BCON – Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
 
 ![](CONCEPTO.png)
 
@@ -49,7 +49,7 @@ En el maestro, agregamos un nuevo registro y diligenciamos los siguientes campos
  * _Inactivo:_ El registro no permite la edición del registro ni ser referenciado desde otras aplicaciones.  
  * _Retirado:_ Este estado indica que el doctor ya no realiza ningún tipo de función.  
 
-**Id Recurso:** se debe ingresar el número de identificación del operario que llevará a cabo estas revisiones de rutina. Se debe tener en cuenta que el recurso puede referirse a una persona o a un grupo de personas (infraestructura o área).  Los recursos son parametrizados en la opción [**AREC - Recursos**](https://github.com/OasisCom/Docs/blob/master/Operacion/crm/proyecto/prbasica/arec.md).  
+**Id Recurso:** se debe ingresar el número de identificación del operario que llevará a cabo estas revisiones de rutina. Se debe tener en cuenta que el recurso puede referirse a una persona o a un grupo de personas (infraestructura o área).  Los recursos son parametrizados en la opción **AREC - Recursos**.  
 
 Diligenciados los campos del maestro, damos click en el botón _Guardar_  ![](GUARDAR.png).  
 
@@ -68,11 +68,7 @@ Realizado el registro en el maestro de la aplicación **MRUT – Rutinas**, nos 
 **Precio:** se debe ingresar el precio del producto adquirido.  
 **Operador:** seleccionar del zoom o digitar el número de identificación del responsable que se encargará de administrar dicho producto para la revisión.  
 
-![](OPERADOR.png)
+Finalmente, guardamos los registros del detalle.  
 
-
-
-
-
-
+![](mrut4.png)
 
