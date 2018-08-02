@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Descriptivo
 permalink: /Mercadeo/Descriptivo/
@@ -18,3 +18,6 @@ editable: si
 ###### [Proveedor Tecnológico de factura electrónica- Resolución DIAN 003100 ](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas-Frecuentes-de-factura-Electronica.pdf)
 ###### [Trayectoria del servicio asistencial y administrativo con OasisCom salud ](http://docs.oasiscom.com/Mercadeo/fichas/OasisCom_Salud_flujograma.png)
 ###### [Preguntas frecuentes de facturación electrónica E-book](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas-Frecuentes-de-factura-Electronica.pdf)
+###### [Descriptivo OasisCom para Agroindustria](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-OasisCom-para-Agroindustrias.pdf)
+###### [Descriptivo OasisCom para Sistemas de Inventario](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-para-inventarios.pdf)
+###### [Descriptivo OasisCom para logística (WMS)](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-WMS-.pdf)
