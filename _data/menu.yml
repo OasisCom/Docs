@@ -721,10 +721,31 @@
           subitems:
             - text: Supervisor
               url: /Operacion/scm/pos/jsuperv/
+              subitems:
+              - text: Turnos
+                url: /Operacion/scm/pos/jsuperv/jtur
+              - text: Movimiento Contable
+                url: /Operacion/scm/pos/jsuperv/jtmc
             - text: Cajero
               url: /Operacion/scm/pos/jcajero/
+              subitems:
+              - text: Cotizaciones
+                url: /Operacion/scm/pos/jcajero/jcot
+              - text: Facturas
+                url: /Operacion/scm/pos/jcajero/jfac
             - text: Reportes
               url: /Operacion/scm/pos/jreporte/
+              subitems:
+              - text: Movimientos Detallados
+                url: /Operacion/scm/pos/jreporte/jrmd
+              - text: Facturacion Diaria
+                url: /Operacion/scm/pos/jreporte/jrda
+              - text: Comprobante de Informe Diario
+                url: /Operacion/scm/pos/jreporte/jrci
+              - text: Turno Detalle
+                url: /Operacion/scm/pos/jreporte/jrtd
+              - text: Turno Pago
+                url: /Operacion/scm/pos/jreporte/jrtp
         - text: Compras
           url: /Operacion/scm/compras/
           subitems:
@@ -956,12 +977,30 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/scm/importacion/ybasica/
+              subitems:
+              - text: Modos de Transporte
+                url: /Operacion/scm/importacion/ybasica/ybmo
             - text: Importaciones
               url: /Operacion/scm/importacion/yimportaci/
+              subitems:
+              - text: Importaciones
+                url: /Operacion/scm/importacion/yimportaci/yimp
             - text: Liquidacion de Importaciones
               url: /Operacion/scm/importacion/yliquidaci/
+              subitems:
+              - text: Liquidacion de Importaciones
+                url: /Operacion/scm/importacion/yliquidaci/yliq
             - text: Reportes de Importaciones
               url: /Operacion/scm/importacion/yreporte/
+              subitems:
+              - text: Importaciones por Contenedor
+                url: /Operacion/scm/importacion/yreporte/yric
+              - text: LResumen de Importaciones
+                url: /Operacion/scm/importacion/yreporte/yrri
+              - text: Importaciones Pendientes
+                url: /Operacion/scm/importacion/yreporte/yrip
+              - text: Certificado de Empadronamiento y Gases
+                url: /Operacion/scm/importacion/yreporte/yreg
         - text: Distribucion
           url: /Operacion/scm/distribucion/
           subitems:
