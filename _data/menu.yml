@@ -729,6 +729,16 @@
             - text: Cajero
               url: /Operacion/scm/pos/jcajero/
               subitems:
+              - text: Facturas [ejfac]
+                url: /Operacion/scm/pos/jcajero/ejfac
+              - text: Facturas [mjfac]
+                url: /Operacion/scm/pos/jcajero/mjfac
+              - text: Facturas [mjfacm]
+                url: /Operacion/scm/pos/jcajero/mjfacm
+              - text: Facturas Restaurante
+                url: /Operacion/scm/pos/jcajero/mjfacr
+              - text: Facturas [mjfact]
+                url: /Operacion/scm/pos/jcajero/mjfact
               - text: Cotizaciones
                 url: /Operacion/scm/pos/jcajero/jcot
               - text: Facturas
