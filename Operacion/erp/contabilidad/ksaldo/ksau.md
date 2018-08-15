@@ -12,13 +12,11 @@ Esta aplicación permite visualizar las cuentas auxiliares periódicamente visua
 
 ![](KSAU1.png)
 
-
-![](KSAU2.png)
-
-
 **Periodo:** Valor numérico que hace referencia al mes.  
 **Año:** Año en el cual se va a hacer la consulta.  
+**Libro:** libro contable (0 - Libro local, 1- Libro IFRS).  
 **Cuenta:** Código que identifica a la cuenta.  
+**Imputable:** este campo permite consultar las cuentas contables que sean imputables. Consultamos con el número 1, mostrará las cuentas marcadas.  
 **Entrada:** Corresponde al plan contable de acuerdo al BCUE.  
 **Projectld:** Identificación numérica del proyecto al cual pertenece la cuenta.  
 **Negocio:** Identificación numérica del negocio al cual pertenece la cuenta.  
@@ -53,8 +51,3 @@ En el **Detalle** se encontrarán los siguientes campos:
 **Año:** Año de registro del documento.  
 **Núm Cheque:** número de cheque.  
 **Libro:** Libro del documento.  
-
-
-
-
-
