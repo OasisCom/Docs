@@ -19,6 +19,7 @@ Para cargar casos de soporte en el sistema OasisCom ingresaremos a la aplicació
 
 Ubicados en la aplicación ASOP - Soporte, se observarán cuatro pestañas (Contrato, Problema, Contacto, Envío), correspondientes al proceso para el envío del caso de soporte, estas pestañas se deberán diligenciar consecutivamente.  
 
+**Nota:** Las listas desplegables están organizadas en orden alfabético, permitiendo al usuario que esté creando un caso, poder elegir fácilmente un ítem de la lista de los módulos, programas y/o categorias.  
 
 #### Contrato
 
