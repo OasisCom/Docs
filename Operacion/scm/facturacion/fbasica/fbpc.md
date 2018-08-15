@@ -45,6 +45,7 @@ Cuando la clase corresponde a _**VENTA**_:
 
 -	El campo **Nombre Producto**, se llenará conforme a lo ingresado en el campo _Producto_.  
 
+- En el campo **Ubicación**, se deberá ingresar la ubicación a la cual se asgina una clase.  
 
 Cuando la clase corresponde a _**COBRO**_:  
 
