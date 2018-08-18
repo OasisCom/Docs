@@ -9,6 +9,8 @@ editable: si
 
 La aplicación EACAS permite a los clientes de cada empresa realizar el cargue de casos de soporte al sistema OasisCom, estos casos serán administrados por cada empresa.  
 
+La información de los casos de soporte cargados por los clientes, sólo será visible para la empresa administradora y no para el proveedor tecnológico OasisCom S.A.S.
+
 Para cargar casos de soporte en el sistema OasisCom ingresaremos a la aplicación **EACAS - Colocar Casos de Soporte**.  
 
 ![](eacas.png)
