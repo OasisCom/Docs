@@ -13,5 +13,5 @@ Podemos filtrar por mes, año, fecha y punto de venta para una consulta más exa
 
 ![](qvdu.png)
 
-
+Podremos ver la cantidad de facturación realizada en el día de consulta, el valor de dicha facturación y el costo, entre otra información.  
 
