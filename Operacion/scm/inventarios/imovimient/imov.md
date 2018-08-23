@@ -74,6 +74,10 @@ Al exportarlo en formato PDF.
 
 ![](imov11.png)
 
+La información de la sección de _Talla_: cantidad, código antiguo, talla y color, el sistema la toma de los registros de la aplicación [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro).  
+
+![](imov19.png)
+
 
 ## [Producción](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)
 
