@@ -40,6 +40,9 @@ Plantilla al _Rechazar_ una factura.
 
 ![](ebportal2.png)
 
+**Nota:** las plantillas de envío de correos se visualizarán con el logo de la empresa de donde el usuario se encuentre en sesión.  
+
+
 ## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
 
 El formato de factura electrónica que se envía al adquiriente contiene un Código QR, que le permitirá ver desde un dispositivo móvil los datos de la factura.  

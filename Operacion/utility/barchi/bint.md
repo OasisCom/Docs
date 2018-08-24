@@ -7,9 +7,29 @@ editable: si
 
 # Interfaces - BINT
 
-Esta aplicación permite cargar o descargar información sobre diferentes escenarios del sistema OasisCom, de acuerdo a una parametrización previa.  
+Esta aplicación permite cargar o descargar información sobre diferentes escenarios del sistema OasisCom, de acuerdo con una parametrización previa.  
 
-## [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
+BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por medio de la opción de interfaces y realizar su debida confirmación en lote.  
+
+
+## **Menú**
+
+1. [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)  
+2. [**Parametrización XML**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parametrización-xml)  
+3. [**Archivos planos de Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud)  
+4. [**Archivos Conciliación Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-conciliación-salud)  
+5. [**Parámetros en Mensajes de Error**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parámetros-en-mensajes-de-error)  
+6. [**Subir productos al Marketplace**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subir-productos-al-marketplace)  
+7. [**Carga de imágenes al MarketPlace**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#carga-de-imágenes-al-marketplace)  
+8. [**Envío de facturas a la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#envío-de-facturas-a-la-dian)  
+9. [**Formatos reportes FT006 - FT010 - FT011**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#formatos-reportes-ft006---ft010---ft011)  
+10. [**Certificado de Ingresos y Retenciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)  
+11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
+12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
+
+
+
+# [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
 
 En este caso, BINT permite descargar la información necesaria para generar los Médios Magnéticos.
 
@@ -26,7 +46,7 @@ Ingresados los datos dar click en _Aceptar_, el sistema descargará el archivo s
 
 Se debe tener en cuenta en el documento de Excel que se vaya a cargar a la DIAN, eliminar la columna en donde se indica el número del formato, puesto que, este número es interno del sistema OasisCom y no es necesario en la información que se vaya a enviar.  
 
-## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parametrización-xml)
+# [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parametrización-xml)
 
 En BINT - Interfaces, generaremos el archivo de la publicación parametrizada anteriormente en la aplicación  [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub). Para ello, seleccionaremos la publicación de la lista desplegable del campo _Publicación_.  
 
@@ -59,7 +79,7 @@ Al seleccionar el archivo se debe dar clic en _Aceptar_ y posteriormente se carg
 
 Para verificar la información cargada en el sistema por medio de BINT - Interfaces, se puede acceder a las aplicaciones **EFFAC - Facturas** o **EOFAC - Facturas de Compra**.
 
-## [Archivos planos de Salud](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud)
+# [Archivos planos de Salud](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud)
 
 En la aplicación BINT se crearon los _Dynamic_ para archivos planos (Movimientos), que permiten realizar algunos ajustes previamente con los registros antes de descargar los archivos oficiales.  
 
@@ -324,3 +344,20 @@ Finalmente, en la opción **BINT - Interfaces** se selecciona la publicación pa
 Se descargará un archivo en formato _.zip_ con los archivos igualmente parametrizados en el detalle de la publicación en la opción BPUB.  
 
 ![](bint47.png)
+
+
+# [Consulta de Resolución de la DIAN](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)
+
+La aplicación BINT permite consultar los datos de resolución de las empresas que vayan a implementar el modelo de facturación elecrónica con OasisCom y obtener un archivo en formato XML como resultado de respuesta por parte de la DIAN.  
+
+Seleccionamos la publicación _Consulta Resolución DIAN_, la operación _Download_ y damos click en el botón **Aceptar**.  
+
+![](bint48.png)
+
+Al aceptar, se generará un archivo _xml_ con la información.  
+
+![](bint49.png)
+
+El archivo _xml_ se verá de la siguiente manera:  
+
+![](bint50.png)
