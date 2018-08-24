@@ -25,6 +25,8 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 9. [**Formatos reportes FT006 - FT010 - FT011**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#formatos-reportes-ft006---ft010---ft011)  
 10. [**Certificado de Ingresos y Retenciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)  
 11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
+12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
+
 
 
 # [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
@@ -359,7 +361,3 @@ Al aceptar, se generará un archivo _xml_ con la información.
 El archivo _xml_ se verá de la siguiente manera:  
 
 ![](bint50.png)
-
-
-
-
