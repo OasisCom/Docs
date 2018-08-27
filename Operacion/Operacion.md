@@ -53,6 +53,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 18. [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)  
 19. [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)  
 20. [Visualización de adjuntos](http://docs.oasiscom.com/Operacion/#visualizaci%C3%B3n-de-adjuntos)  
+21. [Control de Adjuntos](http://docs.oasiscom.com/Operacion/#control-de-adjuntos)  
 21. [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)  
 22. [Vista zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)  
 23. [Creación de cliente mediante zoom](http://docs.oasiscom.com/Operacion/#creaci%C3%B3n-de-cliente-mediante-un-zoom)  
@@ -80,7 +81,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 39.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
 40. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
 41. [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
-42. [Ajuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
+42. [Adjuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
 43. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
 44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
 45. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
@@ -709,32 +710,51 @@ Finalmente, se abrirá otra página mostrando la información del archivo selecc
 
 ![](adj3.png)
 
+## [Control de Adjuntos](http://docs.oasiscom.com/Operacion/#control-de-adjuntos)
+
+OasisCom tiene la funcionalidad de controlar los adjuntos relacionados a los diferentes documentos, esto por medio de la restricción de roles en donde se puede ocultar el botón _eliminar_ de la pestaña de adjuntos.  
+
+Para controlar este botón a un rol en específico, ingresamos a la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol) y consultamos el rol al cual se encuentre asociado el perfil del usuario a quien se le configurará el botón _Eliminar_ y en el detalle, en la pestaña **Usuarios** filtramos por el correo electrónico del mismo.  
+
+![](srol4.png)
+
+Después nos dirigimos a la pestaña **Campos** y filtramos por el programa al cual le configuraremos el botón _Eliminar_. En la columna _Field Id_ ingresaremos **delete_attachment** con el fin de evitar la eliminación de adjuntos, activamos el flag de _Invisible_ para que este botón no se pueda ver en la aplicación configurada y en el campo _Tipo_ seleccionamos la opción **Botón Fijo**.  
+
+![](srol5.png)
+
+Realizada la parametrización anterior, guardamos el registro de SROL y cerramos sesión para que los cambios se apliquen correctamente.  
+
+Verificamos los cambios ingresando a la aplicación en donde se realizó la parametrización y seleccionamos un registro que contenga adjunto.  
+
+![](srol6.png)
+
+Al ingresar al adjunto del registro seleccionado veremos que no se visualiza el botón _Eliminar_.  
+
+![](srol7.png)
+
+Pero si apagamos el flag _Invisible_ de la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol) volverá a verse el botón _Eliminar_.  
+
+![](srol8.png)
+
+En JFAC.  
+
+![](srol9.png)
+
+
 
 ## [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)
 
 La función Mensajes permite enviar mensajes internos entre usuarios del sistema y visualizar los mensajes no leídos con la aplicación SMEU.  
 
-
-
 ![](mensajes1.png)
-
-
 
 ![](mensajes2.png)
 
-
-
 Para enviar un nuevo mensaje:  
-
-
 
 1) Dar clic en Enviar un nuevo mensaje.  
 
-
-
 ![](mensajes3.png)
-
-
 
 2) El sistema arroja una ventana para escribir el nuevo mensaje, además muestra los campos para diligenciar la información necesaria para su envío. El remitente (From) será el correo electrónico del usuario en sesión, este es tomado por el sistema y no permite ser modificado.  
 
