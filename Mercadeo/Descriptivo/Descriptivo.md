@@ -16,6 +16,7 @@ editable: si
 ----
 ### OasisCom Puntos de Venta 
 >###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
+>###### [Preguntas Frecuentes POS](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas_frecuentes_OasisCom-_POS.pdf)
 >###### [Descriptivo OasisCom Restaurante](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-OasisCom_restaurante.pdf)
 ---
 
