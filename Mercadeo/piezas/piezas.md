@@ -7,5 +7,5 @@ editable: si
 
 # Piezas
 
-###Descarga todo el cintenido pra Redes sociales aquí:
+###Descarga todo el contenido para Redes sociales aquí:
 >#### [Septiembre](http://docs.oasiscom.com/Mercadeo/piezas/Contenido Agosto.rar) 
