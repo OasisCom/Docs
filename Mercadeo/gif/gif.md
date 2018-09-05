@@ -25,7 +25,7 @@ editable: si
 
 
 >![](http://docs.oasiscom.com/Mercadeo/gif/OasisCom_Retail_Sept17_FB_Post_meme4.gif)
->![](http://docs.oasiscom.com/Mercadeo/gif/OasisCom_Retail_Sept17_FB_Post1_MEME_Gif.gif)
+>![](http://docs.oasiscom.com/Mercadeo/gif/Gift_new100gif.gif)
 
 ### Humor de ERP 
 
