@@ -55,7 +55,7 @@ El sistema arrojará un mensaje de control informando que el tiquete está proce
 
 ![](mjfact9.png)
 
-
+**Nota:** una vez se hayan vendido la totalidad de tiquetes del vehículo
 
 
 
