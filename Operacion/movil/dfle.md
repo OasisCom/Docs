@@ -35,5 +35,5 @@ Procesado el documento, lo imprimimos dando click en el botón ![](imprimir1.png
 
 ![](dfle6.png)
 
-![](dfle7.jpg)
+![](dfle7.png)
 
