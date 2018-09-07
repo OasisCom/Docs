@@ -55,4 +55,8 @@ El sistema arrojará un mensaje de control informando que el tiquete está proce
 
 ![](mjfact9.png)
 
-**Nota:** una vez se haya vendido la totalidad de tiquetes del vehículo o se tenga que despachar el mismo, debemos ingresar a la aplicación [**DFLE - Fletes**]() (_ver aplicación_), la cual nos permitirá imprimir un resumen del total de tiquetes vendidos, el valor de cada uno y el valor total, esto será entregado al conductor para su verificación.  
+
+![](mjfact10.png)
+
+
+**Nota:** una vez se haya vendido la totalidad de tiquetes del vehículo o se tenga que despachar el mismo, debemos ingresar a la aplicación [**DFLE - Fletes**](http://docs.oasiscom.com/Operacion/movil/dfle) (_ver aplicación_), la cual nos permitirá imprimir un resumen del total de tiquetes vendidos, el valor de cada uno y el valor total, esto será entregado al conductor para su verificación.  
