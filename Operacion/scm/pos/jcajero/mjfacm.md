@@ -57,20 +57,34 @@ Seleccionado el producto, damos click en el **Precio** para modificarlo y asigna
 
 ![](mjfacm12.png)
 
-**Inventario vehículo:** para seleccionar los artículos o características con las que el cliente entrega el vehículo, damos click en el botón y marcamos los correspondientes.  
+**Inventario vehículo:** para seleccionar los artículos o características con las que el cliente entrega el vehículo, damos click en el botón marcado en la siguiente imagen y marcamos los correspondientes.  
+
+**Nota:** cada empresa de lavadero podrá definir los artículos o caracteristicas que considere se deban incluir en el inventario del vehículo, esto desde la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) consultando por documento _FA_ y concepto _FA_.  
 
 ![](mjfacm13.png)
 
+![](mjfacm14.png)
 
+**Observación:** en este campo se ingresarán las observaciones que se crean pertinentes mencionar.  
 
+![](mjfacm15.png)
 
+**Ordenar:** una vez se ingresan los servicios que se realizarán al vehículo, se da click en _Ordenar_ para generar la orden de trabajo que se entregará al cliente.  
 
+![](mjfacm16.png)
 
+En la orden de trabajo se podrá ver los datos del cliente y del vehículo, los servicios que se prestarán, el inventario del vehículo, el valor total a pagar, el operario que realizó los servicios, las observaciones en caso de que las haya y la firma del responsable de realizar la orden.  
 
+![](mjfacm17.png)
 
+Una vez el vehículo se encuentra listo para ser entregado, el cliente deberá realizar el pago. Para ello, damos click en el botón **Pagar** y allí seleccionamos la forma de pago, el cual puede ser un valor con tarjeta y el saldo en efectivo, entre otras opciones.  
 
+![](mjfacm18.png)
 
+![](mjfacm19.png)
 
+En este caso, seleccionaremos la forma de pago _Efectivo_ para todo el valor. Seguidamente, debemos guardar esta forma de pago que se verá reflejada en el _Detalle Pago_.  
 
+![](mjfacm20.png)
 
-
+Finalmente, damos click en el botón _Pagar_ e imprimiremos la factura de venta.  
