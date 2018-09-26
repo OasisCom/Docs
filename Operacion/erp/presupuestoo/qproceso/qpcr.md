@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Presupuesto Documentos Cierre
-permalink: /Operacion/erp/presupuestoo/qproceso/qdca
+title: Cierres
+permalink: /Operacion/erp/presupuestoo/qproceso/qpcr
 editable: si
 ---
 
-# QDCA - Presupuesto Documentos Cierre
+# QPCR - Cierres Presupuestales
 
 La aplicación **QDCA** permite visualizar los documentos de cierre presupuestales y seleccionar los que se requieran pasar al siguiente año.  
 
