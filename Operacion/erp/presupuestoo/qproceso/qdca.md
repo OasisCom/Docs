@@ -26,7 +26,7 @@ Para realizar este proceso:
 
 ![](qdca2.png)
 
-Realizado lo anterior, el siguiente paso será ejecutar el procedimiento que cerrará los documentos presupuestales seleccionados. Para ello, ingresaremos a la aplicación [**QPCR - Cierre**]() y lo generaremos por el año en el que se vaya a hacer el cierre y el documento.(_Ver aplicación_)  
+Realizado lo anterior, el siguiente paso será ejecutar el procedimiento que cerrará los documentos presupuestales seleccionados. Para ello, ingresaremos a la aplicación [**QPCR - Cierre**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qproceso/qpcr) y lo generaremos por el año en el que se vaya a hacer el cierre y el documento. (_Ver aplicación_)  
 
 
 
