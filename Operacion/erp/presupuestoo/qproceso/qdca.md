@@ -13,7 +13,7 @@ Para realizar este proceso:
 
 * Ingresamos a la aplicación **QDCA**
 * Filtramos por el año de consulta
-* Filtramos por el documento que se pretende seleccionar para pasar al siguiente año _(consultar con un = previo a las siglas del documento, CD)_.  
+* Filtramos por el documento que se pretende seleccionar para pasar al siguiente año _(consultar con un = previo a las siglas del documento, **=CD**)_.  
 * Seleccionamos los documentos deseados.  
 
 ![](qdca.png)
