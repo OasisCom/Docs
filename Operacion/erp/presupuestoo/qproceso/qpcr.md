@@ -11,7 +11,6 @@ La aplicación **QPCR** permite ejecutar el procedimiento que realizará el cier
 
 Ingresamos por el año al cual se va hacer el cierre y el documento.  
 
-
 ![](qpcr.png)
 
 
