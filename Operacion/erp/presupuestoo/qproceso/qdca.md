@@ -22,7 +22,7 @@ Para realizar este proceso:
 
 ![](qdca1.png)
 
-* El sistema arrojará un mensaje de operación satisfactoria y activará las casillas que hayan sido seleccionadas.  
+* El sistema arrojará un mensaje de operación satisfactoria y activará las casillas de los documentos que hayan sido seleccionadas.  
 
 ![](qdca2.png)
 
