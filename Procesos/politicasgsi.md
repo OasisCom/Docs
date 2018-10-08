@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PolíticaSGSI
-permalink: /Calidad/politicasgsi/
+permalink: /Procesos/politicasgsi/
 editable: si
 ---
 
