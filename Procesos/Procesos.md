@@ -13,4 +13,4 @@ En esta sección encontrarán temas relacionados al Sistema Integrado de Gestió
 
 2. [**Política General del Sistema de Gestión de Seguridad y Salud en el Trabajo**](http://docs.oasiscom.com/Procesos/politicasst/)
 
-3. 
+3. [**Política de Tratamiento de Datos Personales**](http://docs.oasiscom.com/Procesos/politicatratamientodedatos/)
