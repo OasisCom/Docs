@@ -81,6 +81,8 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal9.png)
 ![](ebportal10.png)
 ![](ebportal21.png)
+![](ebportal22.png)
+
 
 ### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)
 
