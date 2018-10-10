@@ -80,6 +80,9 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal8.png)
 ![](ebportal9.png)
 ![](ebportal10.png)
+![](ebportal21.png)
+![](ebportal22.png)
+
 
 ### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)
 
@@ -146,3 +149,4 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal18.png)
 ![](ebportal19.png)
 ![](ebportal20.png)
+
