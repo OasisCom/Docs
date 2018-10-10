@@ -87,5 +87,3 @@ Al ingresar un nuevo renglón, se deberá seleccionar si el caso se encuentra en
 ![](epqr9.png)
 
 Finalmente, guardamos el registro. Cuando el caso reportado se haya solventado, se debe procesar desde el maestro el documento con el fin de cerrarlo.  
-
-
