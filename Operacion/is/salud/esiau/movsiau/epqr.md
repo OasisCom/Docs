@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **EPQR** permite registrar las peticiones, quejas, reclamos, felicitaciones que puedan reportar los afiliados y a su vez registrar las actividades que se deberán hacer para solventarlas. Esta aplicación es gestionada por el gestor de PRQS de la EPS.  
 
-Ingresamos a la aplicación, creamos un nuevo registro y diigenciamos el formulario.  
+Ingresamos a la aplicación, creamos un nuevo registro y diligenciamos el formulario.  
 
 ![](epqr.png)
 
