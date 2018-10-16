@@ -16,8 +16,8 @@ editable: si
 ----
 ### OasisCom Puntos de Venta 
 >###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
->###### [Preguntas Frecuentes POS](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas_frecuentes_OasisCom-_POS.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
->###### [Descriptivo OasisCom Restaurante](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-OasisCom_restaurante.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [Preguntas Frecuentes POS](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas_frecuentes_OasisCom-_POS.pdf)
+>###### [Descriptivo OasisCom Restaurante](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-OasisCom_restaurante.pdf)
 ---
 
 ### OasisCom Factura Electrónica
@@ -31,8 +31,8 @@ editable: si
 
 
 >###### [Trayectoria del servicio asistencial y administrativo con OasisCom salud ](http://docs.oasiscom.com/Mercadeo/fichas/OasisCom_Salud_flujograma.png)
->###### [Descriptivo OasisCom Salud](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_Salud.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
->###### [Descriptivo OasisCom Veterinaria](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_veterinaria.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [Descriptivo OasisCom Salud](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_Salud.pdf)
+>###### [Descriptivo OasisCom Veterinaria](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_veterinaria.pdf)
 ---
 
 ### OasisCom para Agroindustria
