@@ -1970,6 +1970,12 @@
       url: /Implantacion/Metodologia
     - text: Como Configurar una Empresa en OasisCom
       url: /Implantacion/Configempresa
+    - text: Subir precios al Marketplace
+      url: /Implantacion/subirprecios
+    - text: Subir productos al Marketplace
+      url: /Implantacion/subirproductos
+    - text: Carga de imágenes al MarketPlace
+      url: /Implantacion/cargaimagenes
 - text: Capacitacion
   url: /Capacitacion/
   subitems:
@@ -2289,6 +2295,8 @@
       url: /Mercadeo/video
     - text: Whitepapers
       url: /Mercadeo/whitepapers
+- text: Sistema Integrado de Gestión
+  url: /Procesos/
 - text: Partners
   url: /Partners/
 - text: Sitemap
