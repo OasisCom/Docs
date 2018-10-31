@@ -17,6 +17,7 @@ editable: si
 5.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
 5.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 5.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)  
+6. [Actualización RUT Hoja #2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualizaciónhoja2)
 
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
@@ -150,3 +151,50 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal19.png)
 ![](ebportal20.png)
 
+
+
+## [Actualización RUT Hoja #2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualizaciónhoja2)
+
+El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y seleccionar al Proveedor Tecnológico (OasisCom S.A.S) en la página de la DIAN.  
+
+* Ingresar a la página web de la DIAN (https://muisca.dian.gov.co) y loguearse.  
+
+![](1.png)
+
+* En el menú izquierdo seleccionar la opción _Registro Único Tributario_.  
+
+![](2.png)
+
+* De la lista desplegable, seleccionar la opción _Actualizar RUT_.  
+
+![](3.png)
+
+* Seguidamente dar click en el botón _MUISCA_.  
+
+![](4.png)
+
+* Dar click en el botón _Continuar_.  
+
+![](5.png)
+
+* De la lista desplegable seleccionar la **Hoja 2**.  
+
+![](6.png)
+
+* Para cargar el documento damos click en el botón _MUISCA_.  
+
+![](7.png)
+
+* En el formulario de la **Hoja 2**, en el renglón 89 seleccionar la opción _74 - Información Proveedor de Servicios Tecnológicos PST_.  
+
+![](8.png)
+
+* Allí mismo, en el renlgón 90 seleccionar la fecha exacta en la que se asoció al proveedor tecnológico.  
+
+![](9.png)
+
+* Seguidamente, en el renglón 91 ingresar el número de NIT de OASISCOM S.A.S **830003840-5**.  
+
+![](10.png)
+
+* Finalmente, guardar y firmar para formalizar el documentos.  
