@@ -189,7 +189,7 @@ El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y
 
 ![](8.png)
 
-* Allí mismo, en el renlgón 90 seleccionar la fecha exacta en la que se asoció al proveedor tecnológico.  
+* Allí mismo, en el renglón 90 seleccionar la fecha exacta en la que se asoció al proveedor tecnológico.  
 
 ![](9.png)
 
@@ -197,4 +197,4 @@ El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y
 
 ![](10.png)
 
-* Finalmente, guardar y firmar para formalizar el documentos.  
+* Finalmente, guardar y firmar para formalizar el documento.  
