@@ -169,7 +169,7 @@ El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y
 
 ![](3.png)
 
-* Seguidamente dar click en el botón _MUISCA_.  
+* Seguidamente dar click en el botón _Continuar_.  
 
 ![](4.png)
 
@@ -181,7 +181,7 @@ El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y
 
 ![](6.png)
 
-* Para cargar el documento damos click en el botón _MUISCA_.  
+* Para cargar el documento damos click en el botón _Continuar_.  
 
 ![](7.png)
 
