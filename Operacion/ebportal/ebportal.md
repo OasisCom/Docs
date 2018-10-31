@@ -153,7 +153,7 @@ A continuación, se describe la malla de validación con la información precisa
 
 
 
-## [Actualización RUT Hoja #2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2-facturador-electrónico)
+## [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)
 
 El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y seleccionar al Proveedor Tecnológico (OasisCom S.A.S) en la página de la DIAN.  
 
