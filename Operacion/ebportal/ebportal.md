@@ -81,8 +81,6 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal8.png)
 ![](ebportal9.png)
 ![](ebportal10.png)
-![](ebportal21.png)
-![](ebportal22.png)
 ![](ebportal23.png)
 ![](ebportal24.png)
 ![](ebportal25.png)
