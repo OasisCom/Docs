@@ -27,7 +27,7 @@ _**IMPORTANTE**_: _Los paramétros descritos a continuación, son insumos propor
 
 Ejemplo de argumentos:  _**(1;1;S;1)**_. Donde estos deben estar separados por ; (punto y coma). _Tenga en cuenta que en este ejemplo solamente se muestra un parametro y pueden ingresarse muchos más. Cabe recordar que esto depende de la parametrización que se realice_.
 
-* **pFileBase64**: Si se requiere subir un archivo, este campo almacenará el contenido del archivo en una cadena con formato _Base64_ estandar.
+* **pFileBase64**: Si se requiere subir un archivo, este campo almacenará el archivo en forma de cadena base 64 de la siguiente forma; se carga el archivo como un arreglo de bytes (byte[]) y luego a dicho arreglo se le aplica  una conversión a base 64, la cadena resultante en base 64 es el dato asignado a dicho parametro.
 
 * **pFilename**: Corresponde al nombre del archivo a ser subido con su respectiva extensión.
 
