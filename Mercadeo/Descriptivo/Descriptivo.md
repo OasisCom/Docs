@@ -42,6 +42,7 @@ editable: si
 ### OasisCom sistema para Inventario
 >###### [Descriptivo OasisCom para Sistemas de Inventario](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-para-inventarios.pdf)
 >###### [Descriptivo OasisCom para logística (WMS)](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-WMS-.pdf)
+>###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/fichas/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 ---
 
 ### OasisCom CRM
