@@ -211,7 +211,7 @@ Para empezar, se debe realizar el registro del usuario ingresando los datos pert
 
 ![](ebportal26.png)
 
-### [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de_factura-electrónica-archivo---xml)
+### [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica-archivo---xml)
 
 Ingresamos con nuestro usuario y contraseña a la plataforma OASISCOM en el siguiente link https://app.oasiscom.com.  
 
