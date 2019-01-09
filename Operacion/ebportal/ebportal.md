@@ -283,7 +283,7 @@ Existen los campos de verificación llamados **“status”** de los cuales se d
 
 **Pendiente envío:** Aun no se ha enviado la factura.  
 **Envío Exitoso:** La factura llegó correctamente a la Dian.  
-**Error de envío:** La factura tuvo errores de envío. (para este caso OASISCOM se encargará de revisar estas facturas y realizar el reenvío).  
+**Error de envío:** La factura tuvo errores de envío. (Para este caso OASISCOM se encargará de revisar estas facturas y realizar el reenvío).  
 
 En la parte superior se puede observar el encabezado de la factura y los valores totales que corresponden, y en la parte inferior se observará el detalle de la factura, en este caso los productos que se están facturando.  
 
