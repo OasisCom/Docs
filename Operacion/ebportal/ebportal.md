@@ -18,8 +18,8 @@ editable: si
 5.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 5.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)  
 6. [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)  
-7. [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica-archivo-xml)  
-7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de_factura-electrónica-archivo-xml)  
+7. [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
+7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de_factura-electrónica---archivo-xml)  
 7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación_de_datos_adquiriente)  
 
@@ -203,7 +203,7 @@ El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y
 
 * Finalmente, guardar y firmar para formalizar el documento.  
 
-## [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica-archivo-xml)
+## [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)
 
 A continuación, se informará el paso a paso del proceso de cargue, validación y modificación de facturación electrónica en la plataforma OASISCOM. 
 
@@ -211,7 +211,7 @@ Para empezar, se debe realizar el registro del usuario ingresando los datos pert
 
 ![](ebportal26.png)
 
-###[Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de_factura-electrónica-archivo-xml)
+### [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de_factura-electrónica-archivo---xml)
 
 Ingresamos con nuestro usuario y contraseña a la plataforma OASISCOM en el siguiente link https://app.oasiscom.com.  
 
@@ -245,7 +245,7 @@ Al momento de hacer click en Aceptar, aparecerá un mensaje indicando que la ope
 
 Así sabremos que la factura quedó bien cargada en el sistema.  
 
-###[Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)
+### [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)
 
 Para realizar la verificación de las facturas, ingresaremos al nemotécnico **“EBFFAC – Facturas de Venta**. Ingresaremos esta opción en la barra de búsqueda.  
 
@@ -293,7 +293,7 @@ En la parte superior se puede observar el encabezado de la factura y los valores
 
 Se puede imprimir la factura seleccionada oprimiendo el botón **“vista preliminar”** o directamente desde el botón **"imprimir"**.  
 
-###[Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación_de_datos_adquiriente)
+### [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación_de_datos_adquiriente)
 
 Al momento de realizar nuestros registros de facturas, la plataforma OASISCOM toma los datos del adquiriente y lo crea en la base de datos solamente, si el adquiriente no está creado o es la primera vez que se le factura por OASISCOM. Esto lo podemos verificar por la aplicación **BTER - Terceros**.  
 
