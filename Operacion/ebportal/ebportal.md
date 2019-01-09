@@ -316,11 +316,14 @@ En el caso de que algún cliente cambie algún dato en específico como: direcci
 
 Para realizar el cambio de datos de los clientes, primero debemos ir al aplicativo **BTER**, podemos filtrar específicamente por el usuario que necesitamos o podemos filtrar todos los clientes.  
 
+![](ebportal44.png)
 
+Hacemos click en el campo que se requiere hacer el cambio y se ingresa el nuevo dato.  
 
+![](ebportal45.png)
 
+Luego podemos presionar la tecla “Enter” o con el puntero del mouse dar click en el botón **Guardar**.  
 
+![](ebportal46.png)
 
-
-
-
+Y la información que esté guardada será la que se muestre en la factura.  
