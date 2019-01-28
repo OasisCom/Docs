@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reportes
+title: Producción por operación
 permalink: /Operacion/mrp/produccion/lreporte/lrpo
 editable: si
 ---
