@@ -16,3 +16,4 @@ Ingresamos a la aplicación y diligenciamos los campos correspondientes. Periodo
 El reporte también podrá ser exportado en formato de Excel, PFD o Word.  
 
 ![](crgr2.png)
+
