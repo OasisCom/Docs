@@ -29,39 +29,20 @@ Para el ejemplo utilizaremos el producto 2002624 el cual tiene en el campo EAN 2
 
 ![](comprar15.png)
 
-* el sistema no necesita indicarle la clasificación, pues el producto es único y por ello el código EAN también debe ser único.  
+* El sistema no necesita indicarle la clasificación, pues el producto es único y por ello el código EAN también debe ser único.  
 
 ![](comprar16.png)
 
-* En el botón de Menú, en la opción de Orders, donde la consulta muestra únicamente los que sean de la opción VPED, y que no estén Anulados.  
+* En el botón de Menú, en la opción de Orders, donde la consulta muestra únicamente los que sean de la opción VPED y que no estén Anulados.  
 
 ![](comprar17.png)
 
-* las Ordenes se detallaran con: Documento, Numero, Fecha y se descripcion en el Detalle: producto, precio, cantidad.  
+*Las Ordenes se detallarán con: Documento, Numero, Fecha y se descripción en el Detalle: producto, precio, cantidad.  
 
 ![](comprar18.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Para realizar un pedido  
 
 Para realizar un pedido, seleccionamos los productos dando click en el botón ![](carro.png) y estos se irán agregando al carrito de compras que se encuentra a la derecha de la ventana.  
 
