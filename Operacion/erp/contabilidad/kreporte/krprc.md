@@ -12,7 +12,7 @@ En esta opción el sistema permite generar una consulta por pantalla o un inform
 
 ![](KRPRC2.png)
 
-
+## Balance de Prueba
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año el cual deseo consultar.  
