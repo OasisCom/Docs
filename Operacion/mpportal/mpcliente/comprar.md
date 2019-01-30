@@ -37,7 +37,7 @@ Para el ejemplo utilizaremos el producto 2002624 el cual tiene en el campo EAN 2
 
 ![](comprar17.png)
 
-*Las Ordenes se detallarán con: Documento, Numero, Fecha y se descripción en el Detalle: producto, precio, cantidad.  
+* Las Ordenes se detallarán con: Documento, Número, Fecha y se descripción en el Detalle: producto, precio, cantidad.  
 
 ![](comprar18.png)
 
