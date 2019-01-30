@@ -4,7 +4,7 @@
 
 layout: default
 
-title: Balance por Tercero
+title: Balance de Prueba por Proyecto
 
 permalink: /Operacion/erp/contabilidad/kreporte/krprp
 
