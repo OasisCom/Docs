@@ -22,7 +22,7 @@ En esta opción el sistema permite generar una consulta por pantalla o un inform
 **Libro:** Número de libro asignado según parametrización de KLIB.  
 **Proyecto:** Número del Proyecto, segun BPRY.  
 
-![](krprp.png)
+![](krprp1.png)
 
 
 
