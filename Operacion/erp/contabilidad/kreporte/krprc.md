@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Balance de Prueba
+title: Balance de Prueba por Centro Costo
 permalink: /Operacion/erp/contabilidad/kreporte/krprc
 editable: si
 ---
@@ -15,7 +15,7 @@ En esta opción el sistema permite generar una consulta por pantalla o un inform
 **Libro:** Número de libro asignado según parametrización de KLIB.  
 **Centro Costo:** Número del centro de costo, segun BUBI.  
 
-![](KRPRC2.png)
+![](krprc2.png)
 
 ## Balance de Prueba por Proyecto - KRPRP
 
@@ -29,17 +29,6 @@ En esta opción el sistema permite generar una consulta por pantalla o un inform
 
 ![](KRPRP.png)
 
-
-## Balance de Prueba
-
-**Periodo:** Mes que se desea consultar.  
-**Año:** Año el cual deseo consultar.  
-**Nivel:** Número del nivel asignado según la parametrización del BCUE.  
-**Libro:** Número de libro asignado según parametrización de KLIB.  
-
-
-
-![](KRPR2.png)
 
 
 
