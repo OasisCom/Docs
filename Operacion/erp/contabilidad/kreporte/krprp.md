@@ -10,8 +10,6 @@ permalink: /Operacion/erp/contabilidad/kreporte/krprp
 
 editable: si
 
-
-
 ---
 
 ## Balance de Prueba por Proyecto - KRPRP
