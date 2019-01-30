@@ -12,6 +12,12 @@ Incluye un amplio conjunto de informes donde se pueden comparar los saldos ejecu
 
 ![](qvcp2.png)
 
+Este reporte puede ser exportado en los formatos de PDF, Word y Excel.  
 
+![](qvcp4.png)
+
+_Formato Excel_
+
+![](qvcp3.png)
 
 
