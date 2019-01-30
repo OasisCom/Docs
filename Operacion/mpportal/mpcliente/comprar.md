@@ -25,7 +25,7 @@ Para el ejemplo utilizaremos el producto 2002624 el cual tiene en el campo EAN 2
 
 ![](comprar14.png)
 
-* Se agrega en la lista de filtros de productos, el filtro por Código de Barras (CodeBar), el cual seleccionamos y nos posicionamos en el campo, de ProductName, donde con la pistola detecta este código y realizara la respectiva búsqueda.  
+* Se agrega en la lista de filtros de productos, el filtro por Código de Barras (CodeBar), el cual seleccionamos y nos posicionamos en el campo, de ProductName, donde con la pistola detecta este código y realizará la respectiva búsqueda.  
 
 ![](comprar15.png)
 
@@ -37,7 +37,7 @@ Para el ejemplo utilizaremos el producto 2002624 el cual tiene en el campo EAN 2
 
 ![](comprar17.png)
 
-*Las Ordenes se detallarán con: Documento, Numero, Fecha y se descripción en el Detalle: producto, precio, cantidad.  
+* Las Ordenes se detallarán con: documento, número, echa y su descripción en el Detalle: producto, precio, cantidad.  
 
 ![](comprar18.png)
 
