@@ -71,3 +71,22 @@ En la aplicación **BTER** se deben registrar los clientes que podrán acumular 
 ![](jfac38.png)
 
 _Conoce todo el proceso de Fidelización de Clientes_ [**Aquí**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelizaci%C3%B3n-de-clientes).  
+
+En la aplicación **BTER** Básico de Terceros, en la pestaña Cuentas parte inferior (detalle) podrá parametrizar  el numero de la tarjeta de crédito para legalizacion de Viaticos a dicho tercero;  insertando un nuevo renglón como se ilustra.
+
+![](bter7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
