@@ -10,9 +10,7 @@ editable: si
 Reporte en el cual se totaliza los saldos de Cartera agrupado por Vendedor; indica los tiempos de morosidad en edades de 1-30 días; 31-60; 61-90; 91-180; 181-360; y superior a un año.
 Este reporte nos muestra la cuenta afectada, el tercero que se encuentra en mora, el documento que soporta esa mora con su respectivo número y ubicación, la fecha de registro del documento, los días de vencimiento de ese documento (si los números están en positivo es que ya se ha vencido el documento y si se encuentran en negativo, es porque aún está vigente y faltan esos días para vencerse), este reporte también nos permite visualizar las edades de cartera, es decir, en que rango de días se encuentra vencido dicho documento, si está vigente, o esta entre 1 a 30 días, o entre 31 a 60 días. Esto permite realizar un mejor análisis de la cartera vencida y poder visualizar los documentos con mayor morosidad.  
 
-
 ![](crac2.png)
-
 
 **Periodo:** mes del cual se desea realizar la consulta.  
 **Año:** año de consulta.
