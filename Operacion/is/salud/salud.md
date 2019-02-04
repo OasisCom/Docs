@@ -22,3 +22,22 @@ A continuación, se despliega un formulario que contiene la parametrización del
 Al guardar los datos y validar el resultado de la operación, se evidencia que se ha creado un nuevo movimiento en la aplicación EMOV que contiene la información que se ha diligenciado en el formulario.  
 
 ![](salud3.png)
+
+En la aplicación **ERCF, EERCCF**  Referencia y Contrareferencia del paciente podrá exportar, valida campos como:
+ peso 
+ talla 
+ f. cardiaca 
+ f. respiratoria
+ presion arterial 
+ temperatura
+ saturacion 02 
+ resumen de examen diagnostico 
+ complicaciones 
+ tratamientos aplicados.  
+ 
+ ![](ercf.png)
+ 
+ Al exportar a PDF se visulizara:
+ 
+  ![](eercf.png)
+
