@@ -20,7 +20,6 @@ Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**
 
 ![](inbo3.png)
 
-![](inbo1.png)
 
 
 
