@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resumen de Compensación
+title: Formulario de Empleadores  
 permalink: /Operacion/is/salud/eafiliacion/conafi/eapo
 editable: si
 ---
