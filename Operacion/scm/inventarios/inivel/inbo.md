@@ -13,10 +13,10 @@ También se puede observar la cantidad pendiente por despachar (reservada o comp
 
 Adicional esta aplicación permite filtrar por la clasificación del producto, según parametrización **BCLA** Básico de Clasificaciones.
 Los niveles de Bodega se determinan de la siguiente manera:
-Azul - indica que el nivel de la bodega esta arriba del nivel máximo.
+**Azul - indica que el nivel de la bodega esta arriba del nivel máximo.
 Verde - el nivel esta entre el reorden y el nivel máximo de la bodega.
 Amarillo – su nivel está en el mínimo de reorden.
-Rojo – el nivel de la bodega esta por debajo del nivel mínimo.
+Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**
 
 ![](inbo3.png)
 
