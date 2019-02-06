@@ -12,3 +12,4 @@ Esta opción mostrará los registros de la opción LPED, que se encuentren en es
 
 ![](lppp1.png)
 
+
