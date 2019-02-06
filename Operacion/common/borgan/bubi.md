@@ -23,7 +23,7 @@ Representa la división completa de las áreas o ubicaciones que conforman la em
 **Responsable:** Número de identificación del responsable de la ubicación organizacional.  
 **Grupo:** Si la ubicación organizacional pertenece a algún grupo que se haya parametrizado previamente en **BGRU**.  
 
-**Characteristic** caracteristica previa parametrizacion del basico de caracteristicas **BCRC**.  
+**Characteristic:** caracteristica previa parametrizacion del basico de caracteristicas **BCRC**.  
 
 La pestaña Cajas en el detalle, permite registrar las diferentes cajas que utiliza la ubicación organizacional registrada en el maestro.  
 
