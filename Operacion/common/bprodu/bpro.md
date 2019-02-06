@@ -38,7 +38,7 @@ La pestaña _Empaque_ en la aplicación BPRO permite tener el registro de cada c
 
 ![](bpro11.png)
 
-###Pestaña Presupuesto  
+##Pestaña Presupuesto  
 Se crea esta pestaña la cual permitirá relacionar a cada producto, en la compra la afectación presupuestal.  
 Debe de documentar los campos: Partida, Objeto Gasto, Centro de Costo, Fuente.
 
