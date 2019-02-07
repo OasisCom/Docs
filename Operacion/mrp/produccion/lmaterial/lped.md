@@ -8,7 +8,8 @@ editable: si
 # PEDIDOS DE PRODUCCIÓN - LPED
 
 
-Al dar clic en el icono ![](lped1.png), el sistema genera automáticamente un pedido de producción de la fábrica a la bodega de materia prima, esto se puede visualizar en la aplicación LPED – pedidos con los insumos que se deberían trasladar a la bodega de materia prima. 
+Al dar clic en el icono ![](lped1.png), el sistema genera automáticamente un pedido de producción de la fábrica a la bodega de materia prima, esto se puede visualizar en la aplicación LPED – pedidos con los insumos que se deberían trasladar a la bodega de materia prima.  
+Este proceso valida la separación de mercancía para un pedido de producción según la fecha de vencimiento, **más próxima a vencer**.  
 
 
 ![](lped2.png)
