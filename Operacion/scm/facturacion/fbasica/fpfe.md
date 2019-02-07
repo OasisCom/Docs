@@ -14,10 +14,10 @@ Esta funcionabilidad se ejecuta al realizar las siguientes parametrizaciones en:
 Los datos se reflejan en [FPFE].  
 
 
-![](fpfe1.png)
+![](fpfe1.png)  
 
 Parametrización que realizar:  
-* Desde la publicación [BPUB] debe de estar prendido el check del campo: Publication según publicación que desea ser aplicada. Como se ilustra.  
+* Desde la publicación [BPUB] debe de estar prendido el check del campo: **Publication** según publicación que desea ser aplicada. Como se ilustra.  
 
 ![](fpfe2.png)  
 
