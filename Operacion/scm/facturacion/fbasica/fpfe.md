@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/fbasica/fpfe
 editable: si
 ---
 
-# Log Bint - FPFE
+# Log Bint - FPFE  
 
 Esta funcionabilidad se ejecuta al realizar las siguientes parametrizaciones en:
 * [BPUB] publicaciones.  
