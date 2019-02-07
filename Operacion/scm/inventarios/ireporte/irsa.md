@@ -15,7 +15,7 @@ Adicional en el reporte **IRSA** puede verificar los costos promedio anteriores 
 **Periodo:** mes que se desea consultar.  
 **Año:** año que desea filtrar.  
 **Clasificación:** codigo del BCLA donde se parametrizo el producto.  
-**Producto:** Producto *[BPRO]* por el cual se desea consultar, puede utilizar el zoom de busqueda (doble click).  
-**Localización:** Locación por la que se desea filtrar segun BUBI, puede utilizar el zoom de busqueda (doble click).  
+**Producto:** producto *[BPRO]* por el cual se desea consultar, puede utilizar el zoom de busqueda (doble click).  
+**Ubicación:** ubicación por la que se desea filtrar segun BUBI, puede utilizar el zoom de busqueda (doble click).  
 
 
