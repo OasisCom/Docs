@@ -8,10 +8,10 @@ editable: si
 # Log Bint - FPFE
 
 Esta funcionabilidad se ejecuta al realizar las siguientes parametrizaciones en:
-* [BPUB] publicaciones.
-* [FFAC] facturas.
-• [BINT] interfaces
-Los datos se reflejan en [FPFE].
+* [BPUB] publicaciones.  
+* [FFAC] facturas.  
+• [BINT] interfaces.  
+Los datos se reflejan en [FPFE].  
 
 
 ![](fpfe1.png)
