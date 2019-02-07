@@ -16,13 +16,13 @@ Los datos se reflejan en [FPFE].
 
 ![](fpfe1.png)  
 
-Parametrización que realizar:  
+Parametrización a realizar:  
 * Desde la publicación [BPUB] debe de estar prendido el check del campo: **Publication** según publicación que desea ser aplicada. Como se ilustra.  
 
 ![](fpfe2.png)  
 
 * Desde [FFAC] debe de validar que estas facturas existan si va a utilizar el rango de fecha.  
-* Ejecutar la interface [BINT] 912 .  
+* Ejecutar la interface [BINT] 912.  
 
 ![](fpfe3.png)  
 Después de ejecutar la interface se produce el cambio, como se ilustra.  
