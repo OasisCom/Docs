@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pedidos de produccion
-permalink: /Operacion/mrp/produccion/lproceso/lmaterial/lped
+permalink: /Operacion/mrp/produccion/lmaterial/lped
 editable: si
 ---
 
