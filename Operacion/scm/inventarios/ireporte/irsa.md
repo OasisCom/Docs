@@ -7,7 +7,7 @@ editable: si
 
 # Saldo en Línea por Clasificación - IRSA
 
-Reporte que permite verificar los saldos en linea por su clasificación, este a su vez permite el filtro de sus datos por: periodo, año, clasificación, ubicacion y Producto.  
+Reporte que permite verificar los saldos en linea por su clasificación, este a su vez permite el filtro de sus datos por: periodo, año, clasificación, ubicacion y producto.  
 Adicional en el reporte **IRSA** puede verificar los costos promedio anteriores y el costo promedio actual; de cada uno de los productos con saldo.
 
 ![](irsa2.png)
