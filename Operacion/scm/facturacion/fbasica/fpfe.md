@@ -22,7 +22,20 @@ Parametrización que realizar:
 ![](fpfe2.png)
 
 •	Desde [FFAC] debe de validar que estas facturas existan si va a utilizar el rango de fecha.
-•	Ejecutar la interface [BINT] 912
+•	Ejecutar la interface [BINT] 912 .  
+
+![](fpfe3.png)
+Después de ejecutar la interface se produce el cambio, como se ilustra.  
+![](fpfe4.png)
+
+Los datos se reflejan en [FPFE].  
+
+![](fpfe5.png)
+
+
+
+
+
 
 
 
