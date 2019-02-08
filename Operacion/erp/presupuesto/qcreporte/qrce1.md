@@ -16,12 +16,12 @@ EL parametro PADRE es obligatorio, si no se ingresa el reporte no consulta infor
 
 ![](qrce5.png)
 
-En el ejemplo anterior, consultamos el periodo 4 (abril), año 2018, centro de costo 1, libro contable **0** Local, Tipo _Resultado_ (esta lista desplegable permite seleccionar el tipo de información que deseamos consultar de una forma más óptima y precisa) y moneda local (peso). Ingresada la información damos click en el botón ![](generar.png).  
+La realizar el filtro en padre 1, extrae la información que contenga en el BUBI donde existan centros de costos solo con padre 1.  
+Ingresada la información damos click en el botón ![](generar.png).  
 
-El sistema arrojará un reporte con la ejecución presupuestal del centro de costo 1 como lo indicamos en la consulta.  
 
-![](qrce1.png)
+![](qrce5.png)
 
 El reporte puede ser descargado en formato Word, PDF o Excel.  
 
-![](qrce2.png)
+![](qrce7.png)
