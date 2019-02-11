@@ -25,7 +25,7 @@ Cuando ya se tienen los insumos correspondientes en la planta se inicia el contr
 
 ![](lord1.png)
 
-* En la aplicacion **[LORD]** puede realizar la explosion del producto de salida por medio del siguiente botón, cuando aplique este proceso segun su empresa.  
+* En la aplicacion **[LORD]** puede realizar la explosion del producto de salida por medio del siguiente botón, cuando aplique este proceso, segun su empresa.  
 
 
 ![](lord18.png)  
