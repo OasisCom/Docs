@@ -11,16 +11,17 @@ editable: si
 
 * [Parametrización Tipos de Precio](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizacion-tipos-de-precio)  
 * [Parametrización de Terceros para la Liquidación de Comisiones](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizacion-de-terceros-para-la-liquidación-de-comisiones)  
-* [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrización-fidelización-de-clientes)
+* [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrización-fidelización-de-clientes)  
+* [Parametrización tipo de Impuesto ICA - Tercero para compras](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrización-tipo-de-impuesto-ica---tercero-para-compras)  
 
 
-En esta aplicación parametrizamos o registramos todos los terceros que podemos tener, para el sistema Oasis la palabra terceros se hace referencia a: empleados, clientes, proveedores, afiliados, vendedores, asociados, entre otros. Es decir, todas las personas que interactúan o se relacionan con nuestro negocio.
+En esta aplicación parametrizamos o registramos todos los terceros que podemos tener, para el sistema Oasis la palabra terceros se hace referencia a: empleados, clientes, proveedores, afiliados, vendedores, asociados, entre otros. Es decir, todas las personas que interactúan o se relacionan con nuestro negocio.  
 
 
 ![](bter1.png)
 
 
-Si la persona que se va a ingresar a la opción **BTER – Terceros**, es empleado de la compañía es importante diligenciar la fecha exacta de ingreso a la empresa y activar el Check _Empleado_, de esta manera al ingresar a la siguiente opción **NBEM – Empleados** solo se debe consultar por número de cédula y editar los campos del maestro que hagan falta.
+Si la persona que se va a ingresar a la opción **BTER – Terceros**, es empleado de la compañía es importante diligenciar la fecha exacta de ingreso a la empresa y activar el Check _Empleado_, de esta manera al ingresar a la siguiente opción **NBEM – Empleados** solo se debe consultar por número de cédula y editar los campos del maestro que hagan falta.  
 
 ![](bter2.png)
 
@@ -76,7 +77,7 @@ En la aplicación **BTER** Básico de Terceros, en la pestaña Cuentas parte inf
 
 ![](bter7.png)
 
-## **Parametrización tipo de Impuesto ICA - Tercero para compras.**
+## [**Parametrización tipo de Impuesto ICA - Tercero para compras**](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrización-tipo-de-impuesto-ica---tercero-para-compras)
 
 Desde el BTER en la pestaña “Direcciones” puede parametrizar el tipo de Impuesto en la aplicación BTIM, para asignar porcentaje de ICA por cada una de las referencias relacionadas en el detalle de una factura de compra _OFAC- Compras_.  
 
@@ -132,38 +133,3 @@ Al procesar el OFAC refleja esta cuenta.
 Se valida la Contabilización OFAC=4  
 
 ![](bter14.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
