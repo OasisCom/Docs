@@ -110,8 +110,9 @@ Al procesar el OFAC refleja esta cuenta.
 
 ![](bter13.png)
 
+Se valida la Contabilización OFAC=4
 
-
+![](bter14.png)
 
 
 
