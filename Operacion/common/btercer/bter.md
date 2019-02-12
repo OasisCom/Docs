@@ -76,41 +76,60 @@ En la aplicación **BTER** Básico de Terceros, en la pestaña Cuentas parte inf
 
 ![](bter7.png)
 
-## [**Parametrización tipo de Impuesto ICA - Tercero para compras.**
+## **Parametrización tipo de Impuesto ICA - Tercero para compras.**
 
-Desde el BTER en la pestaña “Direcciones” puede parametrizar el tipo de Impuesto [BTIM], para asignar porcentaje de ICA por cada una de las referencias relacionadas en el detalle de una factura de compra [OFAC].
-Para tal efecto realizaremos el ejemplo con el tercero: 900056464 - ITAH INSTALACIONES LTDA. Donde la factura de compra [OFAC], debe de aplicar el tipo de impuesto [BTIM]=200; 
-DIRECCION 1= RTE ICA BOGOTÁ 11.04 X 1000  
+Desde el BTER en la pestaña “Direcciones” puede parametrizar el tipo de Impuesto en la aplicación BTIM, para asignar porcentaje de ICA por cada una de las referencias relacionadas en el detalle de una factura de compra _OFAC- Compras_.  
+
+Para tal efecto realizaremos el ejemplo con el tercero: 900056464 - ITAH INSTALACIONES LTDA. Donde la factura de compra _OFAC - Compras_, debe de aplicar el tipo de impuesto _BTIM - Tipo de Impuestos_ =200;  
+DIRECCION 1= RTE ICA BOGOTÁ 11.04 X 1000.  
 
 ![](bter8.png)
-Realizamos el [OFAC]= 4 con el tercero: ITAH INSTALACIONES LTDA
-Insertamos la dirección 1 en el detalle del OFAC.
+
+Consultamos la factura de compra No. 4 con el tercero: ITAH INSTALACIONES LTDA.  
+
+En el campo _Dirección_ ingresamos al zoom  en donde seleccionaremos la dirección del tercero a quien se le está generando la factura de compra, en este caso seleccionamos la dirección No. 1.  
+
+Recuerde que las direcciones de los terceros se parametrizan en la pestaña _Direcciones_ de la aplicación BTER - Básico de Terceros.
 
 ![](bter9.png)
-Parametrizamos en BPLA la plantilla.
-Donde el documento FP por concepto FP y el código ICR=ICA RETENIDO; se le aplique % Depende = DIRECCIONES. Como se ilustra.  
+
+![](bter15.png)
+
+
+Parametrizamos en la aplicación **BPLA** la plantilla.  
+
+Agregamos un nuevo registro en donde ingresaremos la siguiente parametrización:  
+
+**Documento:** FP  
+**Conepto:** FP  
+**Código:** ICR - ICA RETENIDO.  
+**% Depende:** seleccionar la opción DIRECCIÓN.  
+
+Damos clic en el botón _Guardar_.  
 
 ![](bter10.png)
 
-El tercero del **[OFAC]**=4 posee el tipo de impuesto 200= REGIMEN COMUN RFT 11
-El impuesto que aplica es el número=13 RETENCION DE ICA.
-Ubicación geográfica [BUBG]=11001 Bogotá.
+El tercero utilizado anteriormente para la factura de compra No. 4 posee el tipo de impuesto 200 = REGIMEN COMUN RFT 11.  
+El impuesto que aplica es el número = 13 RETENCION DE ICA.  
+Ubicación geográfica [BUBG]=11001 Bogotá.  
 Ingresa por el renglón 11 para el tipo: Compras.  
 
 ![](bter11.png)
 
-Ahora ingresamos a el impuesto [BIMP]=13 RETENCION DE ICA.
-Renglón 11  
+Ahora ingresamos a la aplicación BIMP al impuesto _13 RETENCION DE ICA_.  
+Consultamos en el campo **Ubicación Geográfica** por el código de la ubicación y en campo **Renglón** por el número 11.  
 
 ![](bter12.png)
 
 Y en la pestaña: "detalle detalle".
 Validamos la vigencia, que las fechas estén entre el rango del OFAC=4 donde el valor es 11.04 que debe de ser aplicado en la contabilización del OFAC.
-Al procesar el OFAC refleja esta cuenta.  
+
 
 ![](bter13.png)
 
-Se valida la Contabilización OFAC=4
+Al procesar el OFAC refleja esta cuenta.  
+
+Se valida la Contabilización OFAC=4  
 
 ![](bter14.png)
 
