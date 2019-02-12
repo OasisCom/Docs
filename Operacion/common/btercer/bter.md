@@ -110,7 +110,7 @@ Damos clic en el botón _Guardar_.
 
 ![](bter10.png)
 
-El tercero utilizado anteriormente para la factura de compra No. 4 posee el tipo de impuesto 200 = REGIMEN COMUN RFT 11.  
+Ahora consultando la aplicación **BTIM**, el tercero utilizado anteriormente para la factura de compra No. 4 posee el tipo de impuesto 200 = REGIMEN COMUN RFT 11.  
 El impuesto que aplica es el número = 13 RETENCION DE ICA.  
 Ubicación geográfica [BUBG]=11001 Bogotá.  
 Ingresa por el renglón 11 para el tipo: Compras.  
