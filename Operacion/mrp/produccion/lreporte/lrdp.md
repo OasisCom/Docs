@@ -12,12 +12,18 @@ Reporte que permite la visualización y diferencias en cantidad según **LORD** 
 
 ![](lrdp1.png)
 
-**Documento:** filtro del tipo de documento de la orden de producción, LORD.
-**Numero:** código del documento.
-**Ubicación:** parametrización del básico de documentos.
-**fecha inicial y final:** Rangos de fechas a consultar.
-**Tipo:** filtros a realizar Diferencia, Igual, Todos. 
-**Inventarios:** materia prima, proceso, terminado, *todos*. Esta parametrización se realiza en BPRO.
+**Documento:** filtro del tipo de documento de la orden de producción, LORD.  
+
+**Numero:** código del documento.  
+
+**Ubicación:** parametrización del básico de documentos.  
+
+**fecha inicial y final:** Rangos de fechas a consultar.  
+
+**Tipo:** filtros a realizar Diferencia, Igual, Todos.  
+
+**Inventarios:** materia prima, proceso, terminado, *todos*. Esta parametrización se realiza en BPRO.  
+
 
 
 
