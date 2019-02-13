@@ -18,7 +18,7 @@ Reporte que permite la visualización y diferencias en cantidad según **LORD** 
 
 **Ubicación:** parametrización del básico de documentos.  
 
-**fecha inicial y final:** Rangos de fechas a consultar.  
+**Fecha inicial y final:** Rangos de fechas a consultar.  
 
 **Tipo:** filtros a realizar Diferencia, Igual, Todos.  
 
