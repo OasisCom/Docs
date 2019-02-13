@@ -9,7 +9,6 @@ editable: si
 
 Reporte que permite la visualización y diferencias en cantidad según **LORD** Orden de produccion; estableciendo: costo unitario, costo total real, costo total plan y diferencias en costos. Campos resaltados en verde.
 
-
 ![](lrdp1.png)
 
 **Documento:** filtro del tipo de documento de la orden de producción, LORD.  
