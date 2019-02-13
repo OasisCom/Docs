@@ -35,6 +35,7 @@ Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan
 **Total1:** Valor total en la moneda que se realiza el movimiento.  
 **Saldo:** Valor total del movimiento.  
 **Impreso:** Se selecciona cuando el documento ya ha sido impreso.  
+**Centro de costo:** Ingresar el centro de costo correspondiente al documento que se registra. Los centros de costo se parametrizan en la aplicación [**BUBI - Básico de ubicaciones**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).  
 
 El detalle especifica las cuentas contables que se están afectando con el movimiento u operación, su naturaleza, valor, centro de costo, base de retención, etc.  
 

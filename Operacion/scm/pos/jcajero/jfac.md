@@ -99,6 +99,10 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 ![](jfac13.png)
 
+Existe una funcionabilidad al digitar Enter sobre uno de estos campos: Price (Precio), Quantity (Cantidad), Discount (Descuento), ProductId (Producto), Expiration (Vencimiento), DiscountPercentage (Porcentaje de Descuento) el sistema automáticamente habilitará el siguiente renglón del detalle, para proseguir insertando productos en el detalle de la factura.  
+
+![](jfacc13.png)
+
 ### [Cambio de campos con credenciales](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambio-de-campos-con-credenciales)
 
 Esta funcionalidad permite al usuario la modificación de los campos _Precio_, _% Descuento_ y _Descuento_ cuando dichos campos estén bloqueados, donde pedirá credenciales de usuario y permita la modificación de los mismos.  
@@ -108,6 +112,7 @@ Esta funcionalidad permite al usuario la modificación de los campos _Precio_, _
 ##### Parametrización
 
 Para poder modificar dichos campos primero se debe realizar una parametrizacion en la opcion [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran), en donde por documento y por rol definimos que rangos de valores tiene permitido el usuario ingresar.   
+
 
 ![](bran.png)
 

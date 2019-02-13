@@ -28,6 +28,17 @@ Seguidamente, en el campo _puntos_, diligenciamos el resultado de las evaluacion
 
 ![](rsel3.png)
 
+* En el detalle del **[RSEL]** puede ingresar los antecedentes del tercero en el campo Registro; previa parametrización en características **[BCRC]**.  
+
+![](rsel4.png)
+
+* Parametrización en características **[BCRC]**  
+
+![](rsel5.png)
+
+
+
+
 
 Diligenciada la información anterior en la aplicación **RSEL – Selección**, finaliza el proceso de selección en OasisCom.
 

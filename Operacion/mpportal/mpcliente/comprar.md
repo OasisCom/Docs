@@ -15,7 +15,36 @@ Es posible filtrar por la categoría de productos deseada.
 
 ![](comprar4.png)
 
-Para realizar un perido, seleccionamos los productos dando click en el botón ![](carro.png) y estos se irán agregando al carrito de compras que se encuentra a la derecha de la ventana.  
+#### Filtro por código de barras
+
+Oasiscom permite al usuario realizar la búsqueda de productos por medio de lectura de código de barras, esto con previa parametrización de la opción [**BPRO - Básico Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro) en los campos _'Ean'_, _'EanChar'_ y _'OldCode'_.  
+
+Para el ejemplo utilizaremos el producto 2002624 el cual tiene en el campo EAN 22222.  
+
+**BPRO - Básico de Productos**
+
+![](comprar14.png)
+
+* Se agrega en la lista de filtros de productos, el filtro por Código de Barras (CodeBar), el cual seleccionamos y nos posicionamos en el campo, de ProductName, donde con la pistola detecta este código y realizará la respectiva búsqueda.  
+
+![](comprar15.png)
+
+* El sistema no necesita indicarle la clasificación, pues el producto es único y por ello el código EAN también debe ser único.  
+
+![](comprar16.png)
+
+* En el botón de Menú, en la opción de Orders, donde la consulta muestra únicamente los que sean de la opción VPED y que no estén Anulados.  
+
+![](comprar17.png)
+
+* Las Ordenes se detallarán con: documento, número, echa y su descripción en el Detalle: producto, precio, cantidad.  
+
+![](comprar18.png)
+
+
+#### Para realizar un pedido  
+
+Para realizar un pedido, seleccionamos los productos dando click en el botón ![](carro.png) y estos se irán agregando al carrito de compras que se encuentra a la derecha de la ventana.  
 
 ![](comprar.png)
 

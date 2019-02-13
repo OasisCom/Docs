@@ -22,7 +22,13 @@ Cuando ya se tienen los insumos correspondientes en la planta se inicia el contr
 **Número1:** Número del programa de producción asociado.  
 **Tipo de operación:** La operación a realizar en este caso cortado, se debe poner el ID de la operación.  
 
+
 ![](lord1.png)
+
+* En la aplicacion **[LORD]** puede realizar la explosion del producto de salida por medio del siguiente botón, cuando aplique este proceso, segun su empresa.  
+
+
+![](lord18.png)  
 
 Al guardar el registro se visualiza que se diligencia automáticamente el detalle:  
 

@@ -16,3 +16,5 @@ Ingresamos a la aplicación y diligenciamos los campos correspondientes. Periodo
 El reporte también podrá ser exportado en formato de Excel, PFD o Word.  
 
 ![](crgr2.png)
+
+Desde **CRGR - Garantias**, visualizara la información de la solicitud del crédito y el documento del desembolso de la solicitud.  

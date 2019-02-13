@@ -21,6 +21,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 2.4 [Soporte](http://docs.oasiscom.com/Operacion/#soporte)  
 2.5 [Comentarios](http://docs.oasiscom.com/Operacion/#comentarios)  
 2.6 [Ayuda](http://docs.oasiscom.com/Operacion/#ayuda)  
+2.7 [Facturas](http://docs.oasiscom.com/Operacion/#facturas)  
 3. [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)  
 4. [Traducción de login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#traducci%C3%B3n-de-login-de-acuerdo-al-navegador)  
 5. [Caducidad de contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contrase%C3%B1as)  
@@ -258,6 +259,20 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 * **Soporte:** Casos frecuentes.  
 
 * **Desarrollo:** Características técnicas, metodología a utilizar, creación de reportes.  
+
+
+#### [**Facturas**](http://docs.oasiscom.com/Operacion/#facturas)  
+
+El sistema permite realizar los pagos de las facturas pendientes por cancelar a OasisCom.  
+
+En el botón de _Configuración_ se despliega el menú, en donde seleccionaremos en la sección **Suscripción** la opción Facturas.  
+
+![](facturas.png)
+
+Al dar click nos arrojará una ventana con las facturas pendientes de pago. Seleccionamos la factura a cancelar y damos click en el botón **Pagar Factura**.  
+
+![](facturas1.png)
+
 
 ## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)
 
