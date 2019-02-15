@@ -40,5 +40,4 @@ editable: si
 ##### [Versión 39](https://mailchi.mp/ca6384fc7db9/version-oasiscom-1691481)
 ##### [Versión 40-42](https://mailchi.mp/97bb23e7a41b/version-oasiscom-1709773)
 ##### [Versiones OasisCom  4.03.43 - 4.03.49](https://mailchi.mp/f41a0ac2c7e8/version-oasiscom-1765001) 
-##### [Versiones OasisCom  4.03.74](https://mailchi.mp/ddf71371c34d/plan-empower-versin-400374-oasiscom-265351)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 
 
