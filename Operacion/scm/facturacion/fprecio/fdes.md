@@ -29,6 +29,9 @@ Permite registrar los descuentos comerciales establecidos con los clientes.
 **Precio:** precio del producto.  
 **% descuento:** porcentaje de descuento que se va aplicar al producto.  
 
+Desde **FDES** se parametrizan tipos de descuentos, aplica ingresando en el maestro el producto, rango de fecha inicial y final donde en el detalle inserta el tope en cantidad y el precio que debe de aplicar para facturas en: JFAC, FFAC y VPED.
+
+
 
 ## [Parametrización liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-liquidación-por-vencimiento)
 
@@ -431,6 +434,25 @@ Hay que tener en cuenta que ya se adquirió 1 unidad del tope parametrizado, con
 ![](fdes69.png)
 
 De esta manera se realiza el proceso de creación y parametrización de descuentos.  
+
+* Descuentos en valor con control de cantidad, Desde **FDES** se parametrizan este tipo de descuento, aplica ingresando en el maestro el producto, rango de fecha inicial y final donde en el detalle inserta el tope en cantidad y el precio que debe de aplicar para facturas en: JFAC, FFAC y VPED.  
+
+![](fdes101.png)
+Desde el detalle establece el tope, para este caso al producto 101 donde aplica precio de 100.000  
+
+![](fdes102.png)
+
+En **FBTP** 
+Tipo de precio que vamos a aplicar el descuento.
+
+![](fdes103.png)
+
+Se realiza la factura la podemos realiza desde **FFAC, JFAC** o pedidos **VPED,** para este caso realizamos un JFAC.
+en ella se refleja el descuento aplicado al producto 101  
+
+![](fdes104.png)
+
+
 
 
 ## [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-fidelización-de-clientes)
