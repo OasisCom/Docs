@@ -31,6 +31,7 @@ Se deben diligenciar los datos de la tarjeta de credito y luego dar clic en el b
 Indicamos que se va a finalizar la transacción.  
 
 ![](ecssp5.png)
+
 La pasarela muestra que la transacción quedo pendiente para que el sistema la resuelva después.  
 
 ![](ecssp6.png)
