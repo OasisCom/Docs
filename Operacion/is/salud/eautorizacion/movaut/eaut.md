@@ -27,7 +27,7 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Fecha Acta Tutela:** si aplica.  
 **Doc Medico:** documento del galeno tratante.  
 **Medico:**  nombres.  
-**Especialidad:**  segun su estudios profesionales.  
+**Especialidad:**  del servicio.  
 **Cuenta:**  
 **Fuente:**  
 
