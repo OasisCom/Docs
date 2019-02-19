@@ -33,6 +33,13 @@ Para registrar una tutela dar click en el botón **+** que se encuentra en la ba
 
 ![](accionante.png)
 
+* En el formulario de las tutelas  **ETUT** se incluye el campo.  
+MIPRES: código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.
+
+![](etut3.png)
+
+
+
 **Tipo Documento:** seleccionar el tipo de documento del accionante.  
 **Documento Accionante:** ingresar el número de identificación del accionante.  
 **Nombre Accionante:** ingresar el nombre del accionante que interpone la tutela.  
