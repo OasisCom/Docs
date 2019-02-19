@@ -30,6 +30,33 @@ Se deben diligenciar los datos de la tarjeta de credito y luego dar clic en el b
 
 Indicamos que se va a finalizar la transacción.  
 
+![](ecssp5.png)
+La pasarela muestra que la transacción quedo pendiente para que el sistema la resuelva después.  
+
+![](ecssp6.png)
+
+**EPAY**
+Oasiscom valida el estado de la transacción cada 7 minutos hasta que retorna el estado APROBADA o RECHAZADA.  
+desde la aplicacion **EPAY**
+pendiente.
+
+![](ecssp7.png)
+
+aprobada.
+
+![](ecssp8.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
