@@ -39,7 +39,6 @@ MIPRES: código que permite a los profesionales de salud reportar la prescripci�
 ![](etut3.png)
 
 
-
 **Tipo Documento:** seleccionar el tipo de documento del accionante.  
 **Documento Accionante:** ingresar el número de identificación del accionante.  
 **Nombre Accionante:** ingresar el nombre del accionante que interpone la tutela.  
