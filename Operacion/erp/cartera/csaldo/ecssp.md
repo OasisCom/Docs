@@ -36,9 +36,10 @@ La pasarela muestra que la transacción quedo pendiente para que el sistema la r
 
 ![](ecssp6.png)
 
-* EPAY *
+* EPAY *  PAGOS
+* 
 Oasiscom valida el estado de la transacción cada 7 minutos hasta que retorna el estado APROBADA o RECHAZADA.  
-desde la aplicacion **EPAY**
+desde la aplicacion **EPAY**  PAGOS.
 	Pendiente.
 
 ![](ecssp7.png)
