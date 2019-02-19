@@ -20,19 +20,19 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Documento:** seleccionar el documento correspondiente para autorizaciones. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 **Número:** el número de consecutivo será asignado automáticamente por el sistema.  
 **Ubicación:** seleccionar la ubicación desde donde se registra la autorizacion.  
-**Diagnostico:** .  
+**Diagnostico:** .  criterio medico
 **Nombre del Diagnostico:** .  
 **Clase:** 
 **Tipo:** 
-**Fecha Acta Tutela:** 
-**Doc Medico:** 
-**Medico:** 
-**Especialidad:** 
+**Fecha Acta Tutela:** si aplica
+**Doc Medico:** documento del galeno tratante.
+**Medico:**  nombres.
+**Especialidad:**  segun su estudios profesionales
 **Cuenta:** 
 **Fuente:** 
 
-* En el formulario de las Autorizaciones  **EAUT** se incluye el campo.  
-MIPRES: código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.
+En el formulario de las Autorizaciones  **EAUT** se incluye el campo.  
+**MIPRES:** código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.
 
-![](etut3.png)
+
 
