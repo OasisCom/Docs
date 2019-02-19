@@ -18,3 +18,20 @@ Al dar click en el botón _Pagar_, el sistema nos direccionará a la siguiente v
 
 ![](ecssp2.png)
 
+Al estar configurado en ambos casos la pasarela de Zona Virtual, cualquiera de los dos botones redirigira a la misma página, donde se seleccionará el medio de pago que será utilizado.  
+Se debe seleccionar la opción "Pago Tarjeta de Credito" y dar clic en el botón "Clic para continuar con el pago" y así poder ingresar los datos de la tarjeta de credito.  
+
+
+![](ecssp3.png)
+
+Se deben diligenciar los datos de la tarjeta de credito y luego dar clic en el boton "Continuar". Importante solo el número de la tarjeta es predefinido; en el archivo adjunto se encuetran los datos de las tarjetas que pueden ser utilizados.  
+
+![](ecssp4.png)
+
+Indicamos que se va a finalizar la transacción.  
+
+
+
+
+
+
