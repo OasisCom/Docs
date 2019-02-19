@@ -25,14 +25,14 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Clase:**  
 **Tipo:**  
 **Fecha Acta Tutela:** si aplica.  
-**Doc Medico:** documento del galeno tratante.  
+**Doc Medico:** documento del tratante.  
 **Medico:**  nombres.  
 **Especialidad:**  del servicio.  
 **Cuenta:**  
 **Fuente:**  
 
 En el formulario de las Autorizaciones  **EAUT** se incluye el campo.  
-**MIPRES:** código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.
+**MIPRES:** código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.  
 
 
 
