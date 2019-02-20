@@ -40,4 +40,9 @@ En la aplicación **ERCF, EERCF**  Referencia y Contrareferencia del paciente po
  Al exportar a PDF se visulizara:
  
   ![](eercf.png)
+  **ESOL - Solicitudes.  **
+![](esol1.png)
+* En el formulario de solicitudes  **ESOL** se incluye el campo.  
+MIPRES: código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.
+
 

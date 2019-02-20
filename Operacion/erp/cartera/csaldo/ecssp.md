@@ -18,3 +18,49 @@ Al dar click en el botón _Pagar_, el sistema nos direccionará a la siguiente v
 
 ![](ecssp2.png)
 
+Al estar configurado en ambos casos la pasarela de Zona Virtual, cualquiera de los dos botones redirigira a la misma página, donde se seleccionará el medio de pago que será utilizado.  
+Se debe seleccionar la opción "Pago Tarjeta de Credito" y dar clic en el botón "Clic para continuar con el pago" y así poder ingresar los datos de la tarjeta de credito.  
+
+
+![](ecssp3.png)
+
+Se deben diligenciar los datos de la tarjeta de credito y luego dar clic en el boton "Continuar". Importante solo el número de la tarjeta es predefinido; en el archivo adjunto se encuetran los datos de las tarjetas que pueden ser utilizados.  
+
+![](ecssp4.png)
+
+Indicamos que se va a finalizar la transacción.  
+
+![](ecssp5.png)
+
+La pasarela muestra que la transacción quedo pendiente para que el sistema la resuelva después.  
+
+![](ecssp6.png)
+
+* EPAY *  [PAGOS]
+* 
+Oasiscom valida el estado de la transacción cada 7 minutos hasta que retorna el estado APROBADA, RECHAZADA o PENDIENTE.  
+Desde la aplicacion **EPAY**  [PAGOS].
+	Pendiente.
+
+![](ecssp7.png)
+
+	Aprobada.
+
+![](ecssp8.png)
+f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
