@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trazabilidad de Café SHOP - OCTR
+title: Trazabilidad de Café SHOP  - OCTR
 permalink: /Operacion/is/cafe/cafactura/octr
 editable: si
 ---
