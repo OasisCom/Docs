@@ -7,7 +7,7 @@ editable: si
 
 # OCTR - Trazabilidad de Café - SHOP
 
-La aplicación **OCTR** permite visulizar las compras de café que se realicen; refleja la mercancía en los inventarios.  Sus datos son emanados del detalle de las compras de cafe.
+La aplicación **OCTR** permite visulizar las compras de café que se realicen; refleja la mercancía e inventarios.  Sus datos son emanados del detalle de las compras de cafe.
 
 ![](octr1.png)
 
@@ -22,7 +22,7 @@ La aplicación **OCTR** permite visulizar las compras de café que se realicen; 
 **Producto:** básico de producto parametrizado en BPRO.  
 **Malla:**  
 **Dirección:** dirección del tercero pestaña parametrizada básico de direcciones.  
-**Sello:** según corresponda, se les controlara por el cupo del asociado.  
+**Sello:** certificación de calidad de la finca del cual proviene el café a comprar en caso tal que lo tenga. El sistema valida automáticamente con el nombre de la finca los sellos que esta posee. Los sellos son parametrizables en la aplicación **BDIR - Direcciones**.  
 **DirectiondetailName:**  
 **Muestra:** número de gramos obtenidos para la muestra. Este valor es traído por defecto por el sistema al momento de crear un nuevo registro.  
 
@@ -33,9 +33,9 @@ La aplicación **OCTR** permite visulizar las compras de café que se realicen; 
 **Destare:** peso del costal; para calcular el peso de lo que se ha pesado con ella.  
 **Cantidad:** número según unidad de medida.  
 **Factor:** El factor de rendimiento es la cantidad de café.  
-**Gramos Pasilla:**.  
-**Gramos Broca:**  
-**AlmondSan:**  almendra sana.  
+**Gramos Pasilla:**.   cantidad en gramos de la almendra (café) defectuosa de acuerdo a la muestra.  
+**Gramos Broca:**  cantidad en gramos de la almendra (café) brocada de acuerdo a la muestra.  
+**AlmondSan:**  almendra sana. cantidad en gramos de almendra (café )sana de acuerdo a la muestra.  
 **AlmondDef:**  almendra defectuosa.  
 **Precio:**  valor, monto, coste.  
 **Total:**  valor absoluto.  
