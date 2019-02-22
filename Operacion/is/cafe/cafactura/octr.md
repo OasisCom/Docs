@@ -18,7 +18,7 @@ La aplicación **OCTR** permite visulizar las compras de café que se realicen; 
 **Renglon:** lo toma del detalle de la compra de cafe.
 **Tercero:** número de identificación del tercero a quien se le compró el café.  
 **Producto:** básico de producto parametrizado en BPRO.  
-**Malla:**  
+**Malla:**  determina la calidad del cafe.  
 **Dirección:** dirección del tercero pestaña parametrizada básico de direcciones.  
 **Sello:** certificación de calidad de la finca del cual proviene el café a comprar en caso tal que lo tenga. El sistema valida automáticamente con el nombre de la finca los sellos que esta posee. Los sellos son parametrizables en la aplicación **BDIR - Direcciones**.  
 **DirectiondetailName:**  
@@ -37,7 +37,7 @@ La aplicación **OCTR** permite visulizar las compras de café que se realicen; 
 **AlmondDef:**  almendra defectuosa.  
 **Precio:**  valor, monto, coste.  
 **Total:**  valor absoluto.  
-**Negocios:** valor operaciones comerciales.  
+**Negocios:** valor operaciones comerciales.  campo texto de la compra de cafe.
 
 
 
