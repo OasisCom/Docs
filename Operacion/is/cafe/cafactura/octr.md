@@ -7,7 +7,7 @@ editable: si
 
 # OCTR - Trazabilidad de Café - SHOP
 
-La aplicación **OCTR** permite visulizar las compras de café que se realicen; refleja la mercancía e inventarios.  Sus datos son emanados del detalle de las compras de cafe.
+La aplicación **OCTR** permite visualizar las compras de café que se realizan; refleja la mercancía e inventarios.  Sus datos son emanados del detalle de las compras de cafe.
 
 ![](octr1.png)
 
@@ -28,7 +28,7 @@ La aplicación **OCTR** permite visulizar las compras de café que se realicen; 
 
 **Sacos:** unidad de medida según BMED.  
 **Cantidad Bruto: **  
-**Destare:** peso del costal; para calcular el peso de lo que se ha pesado con ella.  
+**Destare:**  peso del costal; para calcular el peso de lo que se ha pesado con ella.  
 **Cantidad:** número según unidad de medida.  
 **Factor:** El factor de rendimiento es la cantidad de café.  
 **Gramos Pasilla:**.   cantidad en gramos de la almendra (café) defectuosa de acuerdo a la muestra.  

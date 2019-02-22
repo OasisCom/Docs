@@ -17,3 +17,11 @@ Ingresamos a la aplicación, filtramos por las características necesarias y dam
 El reporte puede ser descargado en formato Excel, PDF y Word.   
 
 ![](qrda12.png)
+
+* Desde la interface [BINT] puede realizar la descarga de los Saldos de Presupuesto Anualizados [QRDA1].  
+* al realizar la exportacion podra evidenciar campos como: 'Codigo Alterno', 'Actividad', 'Unidad de Negocio' al reporte customizado **QRDA1**
+* previa parametrizacion del **[BARC]** Archivos-**[BPUB]** Publicaciones.  
+
+![](qrda13.png)
+
+
