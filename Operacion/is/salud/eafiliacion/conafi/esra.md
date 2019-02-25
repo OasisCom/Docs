@@ -16,7 +16,7 @@ Consultamos por periodo y año.
 * Se adicionan estos campos con el fin de identificar con que proceso 2.5 o 2.8, y en que fecha fueron enviados dichos movimientos a la entidad respectiva.  
 * 'Proceso' y 'Fecha Proceso'.
 
-![](esra2.png)
+![](esra3.png)
 
 
 
