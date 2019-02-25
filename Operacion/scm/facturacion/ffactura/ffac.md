@@ -11,6 +11,9 @@ La función de facturación en las empresas es uno de los ejes principales de su
 
 Cuando se procesa un documento de facturación de ventas y este tiene retención de ICA (RIC), el sistema llevará el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta que para esto la retención de ICA va a aplicar por dirección en el documento FC o el que corresponda para factura de venta.  
 
+* El proceso de retenciones se realiza adicionando código de cuenta 'RFT' para acumular la retención diaria.
+Esta funcionalidad permite acumular base de retencionen la fuente para el misma fecha en las facturas de venta.  
+
 
 ![](ffac1.png)
 
