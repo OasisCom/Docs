@@ -9,11 +9,11 @@ editable: si
 
 La aplicación **[ECPR]** **PRECIOS** permite la visualización y el resumen de las pilas; se discrimina por año, periodo, concepto y numero de planilla entre otros.  
 
-
 ![](ecpr1.png)
+* En la opcion del **ECPR**, podemos ver a detalle la información de la opcion de Liquidaciones (ELIQ).  
+* Consultamos primero en el **ECPR**, para validar que datos nos esta mostrando, luego vamos a la opcion del ELIQ y buscamos la liquidación
 
-* En la opcion del ECPR, podemos ver a detalle la información de la opcion de Liquidaciones (ELIQ).  
-* 
+
 ![](ver.png)
 
 ![](ebaf1.png)
