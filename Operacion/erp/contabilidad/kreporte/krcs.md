@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Comparación Saldos Terceros vs. cuotas
+title: Comparación Saldos Terceros vs. Cuotas
 permalink: /Operacion/erp/contabilidad/kreporte/krcs
 editable: si
 

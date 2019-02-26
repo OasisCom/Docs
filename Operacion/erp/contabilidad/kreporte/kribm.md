@@ -8,7 +8,7 @@ editable: si
 ---
 
 ## Inventarios y Balances - KRIBM
-Reporte que muestra los estados financieros comparativos entre libros (Multiproposito).
+Reporte que muestra los estados financieros comparativos entre libros (Multiproposito).  
 
 
 ![](KRIBM1.png)

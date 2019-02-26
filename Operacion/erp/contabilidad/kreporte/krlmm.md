@@ -9,7 +9,7 @@ editable: si
 
 ## Libro Mayor y Balance - KRLMM
 Este reporte **[KRLMM]** según normas internacionales realiza la diferencia entre IFRS y COLGAP.  
-El libro mayor o mayor contable es un libro que recoge todas las operaciones económicas registradas en las distintas cuentas contables de la empresa. 
+El libro mayor o mayor contable es un libro que recoge todas las operaciones económicas registradas en las distintas cuentas contables de la empresa.  
 
 
 ![](krlmm1.png)
