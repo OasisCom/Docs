@@ -27,8 +27,8 @@ La aplicación **OCTR** permite visualizar las compras de café que se realizan;
 ![](octr2.png)  
 
 **Sacos:** unidad de medida según BMED.  
-**Cantidad Bruto: **  
-**Destare:**  peso del costal; para calcular el peso de lo que se ha pesado con ella.  
+**Cantidad Bruto:**.  
+**Destare:** peso del costal; para calcular el peso de lo que se ha pesado con ella.  
 **Cantidad:** número según unidad de medida.  
 **Factor:** El factor de rendimiento es la cantidad de café.  
 **Gramos Pasilla:**.   cantidad en gramos de la almendra (café) defectuosa de acuerdo a la muestra.  

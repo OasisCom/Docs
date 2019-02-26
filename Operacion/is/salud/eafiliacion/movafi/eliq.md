@@ -17,6 +17,13 @@ En el detalle, se muestra la identificación del aportante, el afiliado, el valo
 
 ![](eliq.png)
 
+
 Igualmente, para ver la información del archivo plano enviado por el banco se filtrará por documento **PB**, en el detalle también se puede ver la identificación del aportante y el valor del aporte, número de planilla, entre otra información.  
+
+* En el detalle agregamos el campo de UpcFund; este campo identifica el valor que cada empresa gira por los empleados, se divide en 3, upc, incapacidades y fondo.  
+
+![](eliq2.png)
+
+
 
 Validados los documentos en la aplicación **ELIQ - Liquidaciones**, ingresaremos a la aplicación [**ECON - Conciliación**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/econ) a validar los documentos creados allí y a realizar la conciliación de salud.  

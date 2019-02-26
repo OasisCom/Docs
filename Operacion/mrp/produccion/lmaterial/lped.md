@@ -41,6 +41,7 @@ De igual manera si se realizó la respectiva parametrización para separar insum
 ![](lped6.png)
 
 
+
 Por otro lado, en la aplicación ISPL se puede visualizar los insumos reservados en el campo _“separada”_.
 
 
