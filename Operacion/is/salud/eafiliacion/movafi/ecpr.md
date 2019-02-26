@@ -12,8 +12,8 @@ La aplicación **[ECPR]** **PRECIOS** permite la visualización y el resumen de 
 
 ![](ecpr1.png)
 
-Igualmente, la aplicación nos permite visualizar toda la información de un afiliado a través de la siguiente vista dando click en el botón _Ver fila seleccionada_ ![](nuevo.png)  ubicado en la barra de herramientras del maestro.  
-
+* En la opcion del ECPR, podemos ver a detalle la información de la opcion de Liquidaciones (ELIQ).  
+* 
 ![](ver.png)
 
 ![](ebaf1.png)
