@@ -12,8 +12,8 @@ editable: si
 
 >###### [Descriptivo Solución OasisCom 2018](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de la Solucion OasisCom2018.pdf)
 >###### [Descriptivo Solución OasisCom 2018_oracle_cloud](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de la Solucion OasisCom2018_oracle.pdf)
->###### [Guía para Nubetizar su empresa](http://docs.oasiscom.com/Mercadeo/fichas/E-book_Guia_para_nubetizar_su_empresa.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
-
+>###### [Guía para Nubetizar su empresa](http://docs.oasiscom.com/Mercadeo/fichas/E-book_Guia_para_nubetizar_su_empresa.pdf)
+>###### [E-Book:9 razones para escoger un ERP](http://docs.oasiscom.com/Mercadeo/fichas/E-BOOK-9-razones-para-escoger-un-erp.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 ----
 ### OasisCom Puntos de Venta 
 >###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
