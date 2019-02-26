@@ -10,14 +10,10 @@ editable: si
 La aplicación **[ECPR]** **PRECIOS** permite la visualización y el resumen de las pilas; se discrimina por año, periodo, concepto y numero de planilla entre otros.  
 
 ![](ecpr1.png)
-* En la opcion del **ECPR**, podemos ver a detalle la información de la opcion de Liquidaciones (ELIQ).  
-* Consultamos primero en el **ECPR**, para validar que datos nos esta mostrando, luego vamos a la opcion del ELIQ y buscamos la liquidación
+* En la opcion **ECPR**, en el maestro se visulizaran los campos del detalle del (ELIQ) Liquidaciones.  
+* Consultamos primero en el **ECPR**, para validar que los datos suministrados,  sean coherentes con la opcion del ELIQ y buscamos la liquidación.  
+* En este caso tomaremos el registro con el Numero 17432; como se ilustra  
+
+![](ecpr2.png)
 
 
-![](ver.png)
-
-![](ebaf1.png)
-
-En el detalle de la aplicación EBAF, la pestaña _Empleadores_ permite consultar el histórico de empleadores a los que el empleado se encontraba asociado.  
-
-![](ebaf2.png)
