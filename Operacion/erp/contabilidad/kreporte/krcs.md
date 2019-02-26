@@ -13,9 +13,9 @@ Este reporte **[KRCS]** permite la visualización de comparacion contabilidad vs
 
 ![](krcs1.png)
 
-**Periodo:** mes que se desea consultar.  
+**Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  
-**Cliente:** tercero que esta parametrizado y posee saldo en CXC o CXP.  
+**Cliente:** Tercero que esta parametrizado y posee saldo en CXC o CXP.  
 **Cuenta:** De acuerdo a la parametrización del básico de Cuentas BCUE.  
 
 
