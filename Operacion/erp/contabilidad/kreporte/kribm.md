@@ -18,7 +18,7 @@ Reporte que muestra los estados financieros comparativos entre libros (Multiprop
 **Nivel:** De acuerdo a la parametrización del básico de Cuentas BCUE.  
 
 
-Click en el botón consultar.  
+En el botón exportar a excel, se visualiza asi:  
 
 ![](KRIBM2.png)
 
