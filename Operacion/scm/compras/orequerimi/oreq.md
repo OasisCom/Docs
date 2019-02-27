@@ -40,7 +40,7 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
 •	**Requerida:** Cantidad requerida del producto.  
 
 * En la pestaña **Presupuesto:**  
- Su funcinabilidad se establece apartir de la parametrizacion del documento **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
+ Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
  Se insertan los debitos que afectaran presupuestalmente, como se ilustra.  
 
 ![](oreq3.png)
