@@ -7,7 +7,7 @@ editable: si
 
 # Requerimientos de Compras- OREQ
 
-La aplicación **OREQ** Un requerimiento de compra puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
+La aplicación **OREQ** requerimiento de compras; puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
 Este documento es interno por lo que no debe ser utilizada como Orden de Compra.  
 Como todas las aplicaciones de OasisCom se encuentran dividida en secciones: maestro y detalle; en el maestro permite el registro del encabezado de los requerimientos hechos por la empresa; en la parte inferior se divide en pestañas: Detalle, Distribucion y Presupuesto
 
