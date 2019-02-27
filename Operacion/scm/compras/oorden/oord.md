@@ -52,6 +52,12 @@ Se relaciona la descripción de los productos requeridos por la empresa y se est
 **Control:**	Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos (Opcional).  
 **Fecha de entrega:** Fecha en la cual se hace la entrega de los productos requeridos.  
 
+* En la pestaña **Presupuesto:**  
+ Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
+ Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
+ 
+ ![](oord3.png)
+
 
 
 
