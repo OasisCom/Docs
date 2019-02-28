@@ -11,12 +11,14 @@ donde se reflejará.
 
 ![](edev1.png)
 
+Se visualizan campos como:
+
 * **Transaccion:**
 * **Tipo de Documento:**
 * **Id Afiliado:**
 * **Aportante:**
 * **Año1:**
-* **Periodo:**
+* **Periodo1:**
 * **Ha:**
 * **Cantidad:**
 * **Dias:**
