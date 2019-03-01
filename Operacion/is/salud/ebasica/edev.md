@@ -12,7 +12,7 @@ En esta vista **[EDEV]** se reflejarán datos emitidos del [ELIQ] Liquidacion.
 
 ![](edev1.png)
 
-Se visualizan campos comoS emitidos de la liquidacion [ELIQ]:
+Se visualizan campos comos emitidos de la liquidacion [ELIQ]:
 
 * **Transaccion:**
 * **Tipo de Documento:**
