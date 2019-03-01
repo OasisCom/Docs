@@ -45,9 +45,12 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 
 ![](ocaf11.png)
 
-#### **Actualización de la formula de liquidación del café, de línea de financiamiento reconociendo la pasilla.**  
+#### **Actualización de la formula de liquidación del café, con el esquema de reconocimiento del porcentaje de la pasilla.**  
 
 * A continuación se anexan las imágenes del ejemplo, donde se evidencia que ambas compras poseen la misma información de análisis de calidades **(Muestra, almendra sana y pasilla)** pero el precio kilo es diferente basado en las dos formulaciones.
+* La configuración con las variables que se usan para el nuevo cálculo,   “CalculateMethodCoffeePrice”  = 1 indica que la formulación esta encendida, Cero que el precio de café se calculara sin tener en cuenta la valoración de las pasillas.  
+
+
 * **[WVAR]**-Variable
 ![](ocaf18.png)  
 
