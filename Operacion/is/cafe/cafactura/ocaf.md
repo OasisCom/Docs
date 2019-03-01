@@ -55,7 +55,7 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 ![](ocaf18.png)  
 
 * **[ODES]**-Precio de Cafe.
-* ![](ocaf19.png)
+![](ocaf19.png)
 
 
 
