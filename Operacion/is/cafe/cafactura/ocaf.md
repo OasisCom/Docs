@@ -48,6 +48,11 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 #### **Actualización de la formula de liquidación del café, de línea de financiamiento reconociendo la pasilla.**  
 
 * A continuación se anexan las imágenes del ejemplo, donde se evidencia que ambas compras poseen la misma información de análisis de calidades **(Muestra, almendra sana y pasilla)** pero el precio kilo es diferente basado en las dos formulaciones.
+* **[WVAR]**-Variable
+![](ocaf18.png)  
+
+* **[ODES]**-Precio de Cafe.
+* ![](ocaf19.png)
 
 
 
