@@ -45,20 +45,13 @@ En el detalle se deben diligenciar los datos correspondientes de acuerdo a lo fi
 **Inicial:** fecha inicial del contrato para el voluntario.  
 **Final:** se diligencia automáticamente mediante una novedad de retiro realizada en la opción **NNOV - Novedades**.  
 **Estado:** Estado en el que se encuentra el tercero voluntario dentro de la compañía. Si el voluntario se encuentra actualmente laborando en la empresa el estado será activo, de lo contrario, mediante la novedad de retiro el estado cambia a retirado.  
-****
-![](ncnt9.png)
-
-Se recomienda que los primeros campos sean modificados mediante novedades y no de forma manual, existen novedades de retiro que automáticamente cambian en la opción **NCNT – Contratos de nómina** el estado del empleado, el tipo de nómina y la fecha de terminación. La ubicación actual también puede ser modificada mediante una novedad de traslado al igual que el sueldo con una novedad de variación de salario.  
 
 
-## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)
+![](ncnv2.png)
 
-En la aplicación _NCNT_ se definirá el turno por defecto que tendrá el empleado.  
 
-En el detalle de la aplicación se encuentra el campo _TurnId_ que indica cual es el turno por defecto del empleado, el default para este campo será cero.  
 
-![](ncnt10.png)
 
-Para los turnos rotativos, es necesario realizar la programación que se explica en la aplicación [**NPRT - Rotación de Turnos**](http://docs.oasiscom.com//Operacion/hrm/asistencia/nasistenci/nprt).
+
 
 
