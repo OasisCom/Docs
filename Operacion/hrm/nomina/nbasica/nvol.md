@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Voluntarios
-permalink: /Operacion/hrm/nomina/nbasica/nbem
+permalink: /Operacion/hrm/nomina/nbasica/nvol
 editable: si
 ---
 
