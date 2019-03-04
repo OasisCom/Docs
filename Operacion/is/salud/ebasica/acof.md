@@ -7,17 +7,10 @@ editable: si
 
 # ECOF - Consolidation FOSYGA
 
-Esta aplicacion **ECOF]** creada con la finalidad de cargar las consignacioes de la empresa FOSYGA..  
+Esta aplicacion **ECOF]** creada con la finalidad de cargar las consignacioes de la empresa FOSYGA.  
+Registro historico de consignaciones;  el sistema controlar que para la fecha de consignación, no exista un archivo ya cargado.  
 
 ![](ecof1.png)
 
 
 
-* **Transaccion:**
-* **Tipo de Documento:**
-* **Id Afiliado:**
-* **Aportante:**
-* **Año1:**
-* **Periodo1:**
-* **Ha:**
-* **Cantidad:**
