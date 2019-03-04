@@ -20,3 +20,11 @@ El sistema arrojará un historíco de la información clínica del paciente. Est
 El reporte descargado en formato PDF.  
 
 ![](rhis2.png)
+
+- Este reporte visulizara los datos que se hayan ingresado en **[GCAT]- ACTIVIDADES, [GLAB] - LABORATORIO, [GADM] - ADMISIONES.**  
+Se mostrara la firma del medico.
+
+![](rhis3.png)
+
+
+
