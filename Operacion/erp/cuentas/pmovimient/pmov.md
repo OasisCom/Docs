@@ -71,7 +71,7 @@ El detalle especifica las cuentas contables que se están afectando con el movim
 **Amortizado:** Número de veces que se amortizará el movimiento.  
 **Documento:** Tipo de documento registrado.  
 
-* * Otro formato del PMOV en su vista prelimanar se visualizara asi, donde se totalizan sus valores por cada uno de sus libros.  
+* * Otro formato del PMOV en su vista prelimanar se visualizara asi al exportar a PDF, donde se totalizan sus valores por cada uno de sus libros.  
 
 ![](PMOV17.png)
 
