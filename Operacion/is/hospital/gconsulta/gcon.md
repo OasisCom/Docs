@@ -29,4 +29,11 @@ Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un re
 ![](gcon.png)
 
 
+* Al ejecutar la vista preliminar, imprime la orden medica.
+
+![](gcon3.png)
+
+
+
+
 
