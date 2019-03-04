@@ -19,9 +19,8 @@ Opción creada para registrar la información correspondiente a contratos de vol
 **Tercero:** número de identificación del empleado a quien se le realiza el contrato para voluntarios.  
 
 
-![](ncnt2.png)
 
-Guardamos los datos ingresados en el maestro. En el detalle se deben diligenciar los datos correspondientes de acuerdo a lo firmado en el contrato con el empleado. Los campos a diligenciar para el cálculo de la nómina son (ubicación laboral, tipo de contrato, salario, final inicial, estado), otros solo son informativos.  
+Guardamos los datos ingresados en el maestro. En el detalle se deben diligenciar los datos correspondientes de acuerdo a lo firmado en el contrato como Voluntario. Los campos a diligenciar para el cálculo de la nómina son (ubicación laboral, tipo de contrato, salario, final inicial, estado), otros solo son informativos.  
 
 ![](ncnt3.png)
 
