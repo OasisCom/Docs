@@ -71,6 +71,12 @@ El detalle especifica las cuentas contables que se están afectando con el movim
 **Amortizado:** Número de veces que se amortizará el movimiento.  
 **Documento:** Tipo de documento registrado.  
 
+* * Otro formato del PMOV en su vista prelimanar se visualizara asi, donde se totalizan sus valores por cada uno de sus libros.  
+
+![](PMOV17.png)
+
+
+
 ## [Documento equivalente](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#documento-equivalente)
 
 Este formato tiene como finalidad cumplir con las normas de ley que debe contener el documento y a su vez incluir las empresas que que asumen la retencion de ICA y fuente para el mismo.  
