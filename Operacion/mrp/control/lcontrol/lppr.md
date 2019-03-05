@@ -30,14 +30,22 @@ Todos los pedidos de produccion**[LPED]**, para su despacho deben pasar el proce
 * **Nombre producto:** nombre del producto del pedido.  
 * **Cantidad:** cantidad en unidades del producto del pedido.  
 * **Separada Anterior:**  cantidad de productos que son apardados anteriores.  
-* **Separada:**  cantidad de productos que son apardados.
-* **Entregada:**  cantidad o valor de unidades del producto reales a fisicas, segun existencias.
+* **Separada:**  cantidad de productos que son apardados.  
+* **Entregada:**  cantidad o valor de unidades del producto reales a fisicas, segun existencias.  
 * **UnidadMedida:** basico del **BMED**.  
 * **Peso:** unidad de medida fisica del producto.  
 * **Localizacion** parametrizacion del basico de ubicaciones.  
 * **%Caracteristica:** parametrizacion de **BCRC.**  
 * **Presentacion:** corresponde del producto en **BPRO.**  
 * **%Vencimiento:** fecha que se relaciona en el basico de productos.  
+
+**En el maestro de la opcion existen tres botones, donde radica la funcionabilidad de la aplicacion: Approval Of Orders Production** **[LPPR]**
+* **Marcar:** indica a cuales de los pedidos de produccion le vamos a aplicar las modificaciones.  
+* **Aprueba:** Pedido: al aplicar el boton el estatus del pedido cambia segun el STATUS.  
+* **Devuelve:** Pedido: aplica para cambiarle  de status  al pedido de produccion, devolviendo a status anterior.  
+
+
+![](lppr2.png)
 
 
 
