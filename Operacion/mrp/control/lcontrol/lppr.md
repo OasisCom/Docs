@@ -29,11 +29,11 @@ Todos los pedidos de produccion**[LPED]**, para su despacho deben pasar el proce
 * **Producto:** número asignado al producto del pedido.  
 * **Nombre producto:** nombre del producto del pedido.  
 * **Cantidad:** cantidad en unidades del producto del pedido.  
-* **Separada Anterior:**  
-* **Separada:**  
-* **Entregada:**  
+* **Separada Anterior:**  cantidad de productos que son apardados anteriores.  
+* **Separada:**  cantidad de productos que son apardados.
+* **Entregada:**  cantidad o valor de unidades del producto reales a fisicas, segun existencias.
 * **UnidadMedida:** basico del **BMED**.  
-* **Peso:** unidad de medida del producto.  
+* **Peso:** unidad de medida fisica del producto.  
 * **Localizacion** parametrizacion del basico de ubicaciones.  
 * **%Caracteristica:** parametrizacion de **BCRC.**  
 * **Presentacion:** corresponde del producto en **BPRO.**  
