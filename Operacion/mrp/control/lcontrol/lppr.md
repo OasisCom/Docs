@@ -31,7 +31,7 @@ Todos los pedidos de produccion**[LPED]**, para su despacho deben pasar el proce
 * **Cantidad:** cantidad en unidades del producto del pedido.  
 * **Separada Anterior:**  cantidad de productos que son apartados anteriores.  
 * **Separada:**  cantidad de productos que son apartados o separados.  
-* **Entregada:**  cantidad o valor de unidades del producto reales a fisicas, segun existencias.  
+* **Entregada:**  cantidad o valor de unidades del producto reales o fisicas, segun existencias.  
 * **Unidad Medida:** basico del **BMED**.  
 * **Peso:** unidad de medida fisica del producto.  
 * **Localizacion** parametrizacion del basico de ubicaciones.  
