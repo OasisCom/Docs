@@ -35,9 +35,9 @@ Todos los pedidos de produccion**[LPED]**, para su despacho deben pasar el proce
 * **Unidad Medida:** basico del **BMED**.  
 * **Peso:** unidad de medida fisica del producto.  
 * **Localizacion** parametrizacion del basico de ubicaciones.  
-* **%Caracteristica:** parametrizacion de **BCRC.**  
+* **Caracteristica:** parametrizacion de **BCRC.**  
 * **Presentacion:** corresponde del producto en **BPRO.**  
-* **%Vencimiento:** fecha que se relaciona en el basico de productos.  
+* **Vencimiento:** fecha que se relaciona en el basico de productos.  
 
 **En el maestro de la opcion existen tres botones, donde radica la funcionabilidad de la aplicacion: Approval Of Orders Production** **[LPPR]**
 * **Marcar:** indica a cuales de los pedidos de produccion le vamos a aplicar las modificaciones.  
