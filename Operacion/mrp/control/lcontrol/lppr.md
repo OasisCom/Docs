@@ -20,30 +20,24 @@ Todos los pedidos de produccion**[LPED]**, para su despacho deben pasar el proce
 **Vendedor:** cédula del vendedor.  
 **Total:** valor total del pedido **LPED**.  
 
-![](vppr2.png)
-
 **Estado:** estado del pedido: Activo, Procesado, Anulado.  
 
-La aplicación **LPPR** cuenta con una ventana inferior llamada Detalle la cual solo es de consulta, especifica los pedidos de los terceros anteriormente consultados en el maestro:
+* La aplicación **LPPR** cuenta con una ventana inferior llamada **Detalle** la cual solo es de consulta, especifica los pedidos de los terceros anteriormente consultados en el maestro:  
 
-![](vppr3.png)
 
-**Renglón:** número de renglón generado automáticamente.  
-**Producto:** número asignado al producto del pedido.  
-**Nombre producto:** nombre del producto del pedido.  
-**Cantidad:** cantidad en unidades del producto del pedido.  
-**Separada Anterior:**
-**Separada:**
-**Entregada:**
-
-![](vppr4.png)
-
-**UnidadMedida:**
-**Peso:** unidad de medida del producto.  
-**Localizacion** parametrizacion del basico de ubicaciones.  
-**%Caracteristica:** parametrizacion de **BCRC.**  
-**Presentacion:** corresponde del producto en **BPRO.**  
-**%Vencimiento:** fecha que se relaciona en el basico de productos.  
+* **Renglón:** número de renglón generado automáticamente.  
+* **Producto:** número asignado al producto del pedido.  
+* **Nombre producto:** nombre del producto del pedido.  
+* **Cantidad:** cantidad en unidades del producto del pedido.  
+* **Separada Anterior:**  
+* **Separada:**  
+* **Entregada:**  
+* **UnidadMedida:** basico del **BMED**.  
+* **Peso:** unidad de medida del producto.  
+* **Localizacion** parametrizacion del basico de ubicaciones.  
+* **%Caracteristica:** parametrizacion de **BCRC.**  
+* **Presentacion:** corresponde del producto en **BPRO.**  
+* **%Vencimiento:** fecha que se relaciona en el basico de productos.  
 
 
 
