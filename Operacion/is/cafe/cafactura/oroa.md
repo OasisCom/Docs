@@ -7,7 +7,7 @@ editable: si
 
 # OROA - Acuerdos
 
-En esta reporte **OROA** - Acuerdos - refleja los acuerdos que se obtienen entre los caficultores y las correspondientes cooperativas de café, para hacer uso de esta aplicación se debe crear un registro en OACU.  
+En este reporte **OROA** - Acuerdos - refleja los acuerdos que se obtienen entre los caficultores y las correspondientes cooperativas de café, para hacer uso de esta aplicación se debe crear un registro en OACU.  
 
 
 ![](oroa1.png)
