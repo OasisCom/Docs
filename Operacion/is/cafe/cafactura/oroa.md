@@ -12,12 +12,12 @@ En esta reporte **OROA** - Acuerdos - refleja los acuerdos que se obtienen entre
 
 ![](oroa1.png)
 
+El agrupamiento del reporte se realiza por ORDEN:
 
-**Fecha:** Fecha del acuerdo  
-**Producto:** Producto asociado al acuerdo  
-**Tipo Descuento:**   
-**Concepto:** Se utilizan los mismos conceptos de compra de café  
-**Precio:**   valor asociado al producto.  
+**Fecha:** Fecha del acuerdo.  
+**Producto:** Producto asociado al acuerdo.  
+**Tipo Descuento:**  
+**Precio:**   Valor asociado al producto.  
 **Fecha inicial:** Fecha inicial del acuerdo.  
 **Fecha final:** Fecha final del acuerdo.  
 **Cupo:** Cantidad en kilogramos pactada en el acuerdo.  
