@@ -42,7 +42,7 @@ Todos los pedidos de produccion**[LPED]**, para su despacho deben pasar el proce
 **En el maestro de la opcion existen tres botones, donde radica la funcionabilidad de la aplicacion: Approval Of Orders Production** **[LPPR]**
 * **Marcar:** indica a cuales de los pedidos de produccion le vamos a aplicar las modificaciones.  
 * **Aprueba:** Pedido: al aplicar el boton el estatus del pedido cambia segun el STATUS.  
-* **Devuelve:** Pedido: aplica para cambiarle  de status  al pedido de produccion, devolviendo a status anterior.  
+* **Devuelve Pedido:** aplica para cambiarle  de status  al pedido de produccion, devolviendo a status anterior.  
 
 
 ![](lppr2.png)
