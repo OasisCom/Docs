@@ -65,6 +65,8 @@ se inserta el renglon nuevo en el detalle con el producto y sus caracteristicas 
 
 Detalle del **IMOV**.  
 
+![](imov22.png)
+
 
 * escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  
 
