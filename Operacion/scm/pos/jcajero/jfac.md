@@ -98,6 +98,8 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 ![](jfac12.png)
 
 ![](jfac13.png)
+----------------------
+
 
 Existe una funcionabilidad al digitar Enter sobre uno de estos campos: Price (Precio), Quantity (Cantidad), Discount (Descuento), ProductId (Producto), Expiration (Vencimiento), DiscountPercentage (Porcentaje de Descuento) el sistema automáticamente habilitará el siguiente renglón del detalle, para proseguir insertando productos en el detalle de la factura.  
 
