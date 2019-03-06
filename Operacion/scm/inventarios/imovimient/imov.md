@@ -57,8 +57,8 @@ En el detalle:
 
 --------------
 * Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en linea'. 
-se inserta el renglon nuevo en el detalle con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
-* escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
+Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
+* Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
 
 
 ![](imov21.png)
@@ -68,8 +68,10 @@ Detalle del **IMOV**.
 ![](imov22.png)
 
 
-* escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  
+* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  
 
+
+![](imov23.png)
 
 ## [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)
 
