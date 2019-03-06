@@ -98,8 +98,23 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 ![](jfac12.png)
 
 ![](jfac13.png)
-----------------------
+*****************************
 
+* Existe una funcionabilidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'. 
+Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
+* Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
+
+
+![](jfac81.png)
+
+* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
+Detalle del **JFAC**.  
+
+![](jfac82.png)
+
+
+
+**********************
 
 Existe una funcionabilidad al digitar Enter sobre uno de estos campos: Price (Precio), Quantity (Cantidad), Discount (Descuento), ProductId (Producto), Expiration (Vencimiento), DiscountPercentage (Porcentaje de Descuento) el sistema automáticamente habilitará el siguiente renglón del detalle, para proseguir insertando productos en el detalle de la factura.  
 
