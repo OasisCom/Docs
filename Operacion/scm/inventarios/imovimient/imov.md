@@ -68,7 +68,7 @@ Detalle del **IMOV**.
 ![](imov22.png)
 
 
-* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  
+* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
 
 
 ![](imov23.png)
