@@ -27,7 +27,7 @@ Reporte del modulo de hospital.
 
 # GRAD - Detailed Attention
 
-*se relaciona el total.  
+*el reporte **GRAD** relaciona el total facturado; a el cliente 10229898911, el dia 05.03.2019, para la ubicacion 13.  
 
 ![](grad1.png)
 
