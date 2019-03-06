@@ -55,6 +55,19 @@ En el detalle:
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos.  
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
+--------------
+* Existe una funcionabilidad en el detalle del **IMOV** con el boton saldos de inventarios en linea.
+se inserta el renglon nuevo en el detalle con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
+* escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
+
+
+![](imov21.png)
+
+Detalle del **IMOV**.  
+
+
+* escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  
+
 
 ## [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)
 
