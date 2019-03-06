@@ -29,7 +29,7 @@ Realización de una consulta dinámica en la aplicación _GFAC - Facturas_.
 ### Detalle - GFAC
 
 * Existe una funcionabilidad en el detalle del **GFAC** con el boton: 'saldos de inventarios en linea'. 
-Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
+Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:  
 * Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
 
 
