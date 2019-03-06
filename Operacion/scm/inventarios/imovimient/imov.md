@@ -56,7 +56,7 @@ En el detalle:
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
 --------------
-* Existe una funcionabilidad en el detalle del **IMOV** con el boton saldos de inventarios en linea.
+* Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en linea'. 
 se inserta el renglon nuevo en el detalle con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
 * escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
 
