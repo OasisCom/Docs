@@ -101,8 +101,8 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 *****************************
 
 * Existe una funcionabilidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'. 
-Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dal clic al boton:  
-* Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
+Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:  
+* Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
 
 
 ![](jfac81.png)
