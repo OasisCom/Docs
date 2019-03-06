@@ -33,10 +33,10 @@ Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas
 * Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
 
 
-![](jfac81.png)
+![](gfac3.png)
 
 * Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
 Detalle del **GFAC**.  
 
-![](jfac82.png)
+![](gfac4.png)
 
