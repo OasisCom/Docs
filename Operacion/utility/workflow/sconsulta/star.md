@@ -7,7 +7,7 @@ editable: si
 
 # STAR - Tareas  
 
-Aplicación que permite editar o modificar las tareas ya registradas en WorkFlow. se utliza en los casos donde se hace necesario modificar cambios de tareas ya realizadas y ejecutadas desde el WorkFlow.  
+Aplicación que permite editar o modificar las tareas ya registradas en WorkFlow. Se utiliza en los casos donde es necesario modificar tareas ya realizadas y ejecutadas desde el WorkFlow.  
 La opción ** STAR**  solo modificara los valores de los campos: 
 * 'DurationReal', 
 * 'WorkTotal', 
