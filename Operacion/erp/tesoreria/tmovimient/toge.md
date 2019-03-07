@@ -8,7 +8,9 @@ editable: si
 ## Ordena Gerencia Electrónica - TOGE
 
 Permite definir los documentos que se utilizarán en el momento de generar la gerencia electrónica.  
+Se define como incorporación de tecnologías de la información y las comunicaciones en la administración pública y privada. Esto tiene dos vertientes: desde un punto de vista intraorganizativo transformar las oficinas tradicionales, convirtiendo los procesos en papel, en procesos electrónicos.
 
+* se relacionan los siguientes campos:
 
 ![](TOGE.png)
 
