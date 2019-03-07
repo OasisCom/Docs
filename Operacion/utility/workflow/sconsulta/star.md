@@ -48,3 +48,6 @@ Al dar click, los archivos se verán de la siguiente manera y ya quedarán anexo
 ![](stap9.png)
 
 Finalmente, diligenciados los campos necesarios y adjuntos los archivos necesarios, damos click en el botón _Ejecutado_ ![](ejecutado.png)  
+
+
+
