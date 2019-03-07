@@ -7,12 +7,12 @@ editable: si
 
 # STAR - Tareas  
 
-Aplicación que permite editar o modificar las tareas ya registradas en WorkFlow. Se utiliza en los casos donde es necesario modificar tareas ya realizadas y ejecutadas desde el WorkFlow.  
-La opción ** STAR**  solo modificara los valores de los campos: 
-* 'DurationReal', 
-* 'WorkTotal', 
-* 'Advance'.
-Según sea la moneda parametrizada en **BMON**, se podrá editar el campo: 
+Aplicación que permite editar o modificar las tareas ya registradas en WorkFlow. Se utiliza en los casos donde es necesario modificar tareas ya realizadas y ejecutadas desde el WorkFlow.   
+La opción ** STAR**  solo modificara los valores de los campos:  
+* 'DurationReal',  
+* 'WorkTotal',  
+* 'Advance'.  
+Según sea la moneda parametrizada en **BMON**, se podrá editar el campo:  
 * CurrencyId.  
 
 
