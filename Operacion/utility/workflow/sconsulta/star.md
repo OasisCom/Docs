@@ -1,20 +1,26 @@
 ---
 layout: default
-title: Tareas Pendientes
-permalink: /Operacion/utility/workflow/sconsulta/stap
+title: Tareas 
+permalink: /Operacion/utility/workflow/sconsulta/star
 editable: si
 ---
 
-# STAP - Tareas Pendientes
+# STAR - Tareas  
 
-La aplicación STAP permite visualizar las tareas pendientes de ejecución que tiene el usuario que se encuentra actualmente conectado en la aplicación, así como la ejecución de las mismas por medio de esta misma aplicación.  
+Aplicación que permite editar o modificar las tareas ya registradas en WorkFlow. se utliza en los casos donde se hace necesario modificar cambios de tareas ya realizadas y ejecutadas desde el WorkFlow.  
+La opción ** STAR**  solo modificara los valores de los campos: 
+* 'DurationReal', 
+* 'WorkTotal', 
+* 'Advance'.
+Según sea la moneda parametrizada en **BMON**, se podrá editar el campo: 
+* CurrencyId.  
 
 
-![](stap.png)
+![](star2.png)
 
-La aplicación cuenta con la funcionalidad de _WorkFlow_ la cual permite ver las actividades asignadas al usuario registrado y poderlas ejercutar desde allí.  
+La aplicación NO cuenta con la funcionalidad de _WorkFlow_.  
 
-Para ejecutar las tareas se debe inicialmente consultar en la aplicación, seleccionar alguna y dar click en el botón _WorkFlow_ ![](stap2.png).
+Para ejecutar las tareas se debe inicialmente consultar en la aplicación **[STAP]**, seleccionar alguna y dar click en el botón _WorkFlow_ ![](stap2.png).
 
 ![](stap3.png)
 
