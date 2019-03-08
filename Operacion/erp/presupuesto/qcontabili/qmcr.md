@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cruces Presupuesto
-permalink: /Operacion/erp/presupuesto/qcontabili/qmov
+permalink: /Operacion/erp/presupuesto/qcontabili/qmcr
 editable: si
 ---
 
