@@ -115,6 +115,8 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 
 ![](mjfacr18.png)
 
+* Importante: la aplicacion **MJFACR** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc).  
+
 
 
 
