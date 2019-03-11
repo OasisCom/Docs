@@ -24,17 +24,17 @@ Al guardar los datos y validar el resultado de la operación, se evidencia que s
 ![](salud3.png)
 
 En la aplicación **ERCF, EERCF**  Referencia y Contrareferencia del paciente podrá exportar, valida campos como:
- peso,  
- talla,  
- f. cardiaca,  
- f. respiratoria,  
- presion arterial,  
- temperatura,  
- saturacion 02,  
- resumen de examen diagnostico,  
- complicaciones,  
- tratamientos aplicados.  
- Documento Afiliado' y 'Especialidad': Campos adicionados con el objetivo de conocer el documento del afiliado y la especialidad sobre la cual, se crea documento.  
+* peso,  
+*  talla,  
+*  f. cardiaca,  
+*  f. respiratoria,  
+*  presion arterial,  
+*  temperatura,  
+*  saturacion 02,  
+*  resumen de examen diagnostico,  
+*  complicaciones,  
+*  tratamientos aplicados.  
+*  Documento Afiliado' y 'Especialidad': Campos adicionados con el objetivo de conocer el documento del afiliado y la especialidad sobre la cual, se crea documento.  
  
  ![](ercf.png)
  
