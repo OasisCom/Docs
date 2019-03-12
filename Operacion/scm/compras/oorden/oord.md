@@ -27,7 +27,8 @@ En la sección maestro de la aplicación, permite realizar el registro y control
 **Pronto Pago:** % de descuento por realizar pago antes de lo estipulado.  
 **PromptPayament:** % de descuento por realizar pago el día estipulado.  
 **Requerimiento:** Número consecutivo del correspondiente requerimiento.  
-**Fecha de entrega:** Fecha Máxima de Entrega de la Orden.  
+**Fecha de entrega Minima:** Fecha minima de entrega de la orden.  
+**Fecha de entrega Maxima:** Fecha Máxima de Entrega de la Orden.  
 **Observación:** Con respecto a la orden de compra.  
 
 Se relaciona la descripción de los productos requeridos por la empresa y se están solicitando al proveedor.  
