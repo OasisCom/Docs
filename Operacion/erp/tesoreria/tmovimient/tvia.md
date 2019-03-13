@@ -32,7 +32,7 @@ No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un
 * RequiresHotel:  
 * 'FechaOriginal' y 'ExpireDate'.  
 
- Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y en caso que si, en que fechas requiere la estadía del hotel editar las respectivas fechas.  
+ Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y editar fechas de la estadía del hotel.  
 
 ******************
 En el detalle del documento se relacionan los conceptos que han sido designados para ser controlados. Antes se debe asegurar que los conceptos hayan sido creados en la opción **BDOC** y la contabilización se debe definir en la opción **BPLA**.  
