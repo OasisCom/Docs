@@ -144,3 +144,6 @@ Con la parametrización anterior procedemos a generar una factura de compra. Al 
 Finalmente, en la aplicación **BCNT - Controles** podemos consultar los números de controles que han sido creados y el número de identificación del proveedor al cual se encuentra asignado.  
 
 ![](ofac13.png)
+
+
+* **Importante:** El sistema validara la RETENCION acumulada diaria, por cada una de las ubicaciones que se realicen, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OFAC**.  
