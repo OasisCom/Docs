@@ -27,9 +27,17 @@ No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un
 
 **Nombre Tercero:** Nombre del tercero quien es responsable del viaje.  
 **Estado:** Estado en el cual se encuentra el movimiento, Activo, Procesado, Anulado.  
+* En el maestro se relacionan los siguientes campos:
+* RequiresTicket:  
+* RequiresHotel:  
+* 'FechaOriginal' y 'ExpireDate'
+ Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y en caso que si, en que fechas requiere la estadía del hotel editar las respectivas fechas.  
 
-
+******************
 En el detalle del documento se relacionan los conceptos que han sido designados para ser controlados. Antes se debe asegurar que los conceptos hayan sido creados en la opción **BDOC** y la contabilización se debe definir en la opción **BPLA**.  
+* Campos ImpConsumo, ValueTax en el detalle; para que cuando legalicen las facturas de lo gastado; los viáticos diferencien el subtotal y los impuestos (IVA e impuesto al consumo).
+
+![](tvia3.png)
 
 * Esta aplicación permite exportar e imprimir.  
 
