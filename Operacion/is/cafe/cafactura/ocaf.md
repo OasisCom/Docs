@@ -146,3 +146,9 @@ Adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de
 ![](ocaf13.png)
 
 ![](ocaf14.png)
+
+* **Importante:**el sistema validara la RETENCION acumulda diaria, por cada una de las ubicaciones que se realice la transaccion, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OCAF**.  
+
+
+
+
