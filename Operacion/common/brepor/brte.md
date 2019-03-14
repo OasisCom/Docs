@@ -7,11 +7,13 @@ editable: si
 
 # BRTE - Terceros  
 
-Terceros (BRTE)	
-Reporte que se genera para la revisión de la información digitada de los terceros de la empresa.
+Terceros (BRTE)	 
+
+Reporte que se genera para la revisión de la información digitada de los terceros de la empresa.  
 
 
 ![](brte1.png)  
+
 **ClientId:**  numero del documento.  
 **ChanneelId:**  canal
 **GeolocalizacionId:**  ubicacion geografica.  
@@ -21,6 +23,3 @@ Los siguientes cuatro campos se aplican si el tercero es: cliente, proveedor, em
 * Su funcionabilidad de búsqueda se filtra con 1 segun sea la consulta, para que nos consulte todos los terceros que sean tipo cliente. Importante el campo ClientId debe de consultar con -1 para que nos relacione todos los terceros.  
 
 ![](brte2.png)  
-
-Lorena :)
-jmnjmjkmkmk
