@@ -34,6 +34,8 @@ En el maestro:
 **Bodega:** Bodega a la cual se hace la entrada de inventario.  
 **Observación:** Con respecto a la factura de compra.  
 
+
+
 ![](ofac2.png)
 
 En el detalle permite llevar el registro de los siguientes campos.
@@ -57,6 +59,10 @@ En el detalle permite llevar el registro de los siguientes campos.
 **Moneda:** Moneda en la cual se genera la factura de compra.  
 **Observación:** Con respecto a la factura de compra.  
 **Valores:** La tabla de valores muestra los estados por los que pasa el valor del producto desde su valor inicial pasando por descuentos, aplicación de impuestos hasta su valor real o final después de todos los ajustes necesarios hechos en la factura.  
+**AmortizePeriods:** periodos donde se registran los periodos de amortización. ejemplo:
+
+![](ofac17.png)
+
 
 * En la pestaña **Presupuesto:**  
  Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
