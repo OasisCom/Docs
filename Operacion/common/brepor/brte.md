@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Anotaciones por Tercero
+title: Terceros
 permalink: /Operacion/common/brepor/brte
 editable: si
 ---
 
-# BRTE - Tercero
+# BRTE - Terceros
 
-reporte BRTE permite ver las anotaciones (sanciones, observaciones, premiaciones, felicitaciones, etc) por tercero en específico o todos en general.  
-
+Reporte **BRTE** permite visualizar los terceros que estan parametrizados en el basico de terceros **BTER**
 
 
 ![](brte1.png)
