@@ -9,7 +9,7 @@ editable: si
 
 reporte BRTE permite ver las anotaciones (sanciones, observaciones, premiaciones, felicitaciones, etc) por tercero en específico o todos en general.  
 
-Los tipos de anotaciones se deben parametrizar previamente en la aplicación RBTA - tipos de Anotación, allí se indicará si se realiza copia al expediente del tercero.  
+
 
 ![](brte1.png)
 
