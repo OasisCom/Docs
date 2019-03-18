@@ -7,19 +7,19 @@ editable: si
 
 # BRTE - Terceros
 
-Reporte **BRTE** permite visualizar los terceros que estan parametrizados en el basico de terceros **BTER**
-
+Reporte **BRTE** permite visualizar los terceros que estan parametrizados en el basico de terceros **BTER** que sean tipo:
+* Cliente.  
+* Proveedor.  
+* Empleado.  
+* Vendedor.  
 
 ![](brte1.png)
 
-Se deseamos consultar todas las anotaciones que se le han hecho a todos los empleados en general, ingresamos a la opción BRTA y damos click en el botón ![](generar.png)
-
-![](brta1.png)
-
-El sistema arrojará un reporte con todas las anotaciones de los empleados. Este reporte puede ser extraíble en formato Excel, PDF o Word.  
+para el caso donde se desea realizar la consulta de todos los terceros el filtro en el campo ClientId es -1 ya que tercero cero se crea por defecto y si existe.
+para el ejemplo que se ilustra filtraremos el campo Cliente en -1
 
 ![](brte2.png)
 
-Consultaremos las anotaciones realizadas a un tercero en específico.  
 
-![](brta2.png)
+
+
