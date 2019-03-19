@@ -101,6 +101,14 @@ Obtendremos la siguiente vista previa.
 
 ![](tmov8.png)
 
+* Otro formato del TMOV en su vista prelimanar se visualizara asi, donde se totalizan sus valores por cada uno de sus libros.  
+
+![](tmov10.png)
+
+
+
+
+
 
 El formato podrá ser exportado en formato de Excel, PDF o Word.  
 

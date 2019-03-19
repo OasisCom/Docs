@@ -42,5 +42,10 @@ editable: si
 ##### [Versiones OasisCom  4.03.43 - 4.03.49](https://mailchi.mp/f41a0ac2c7e8/version-oasiscom-1765001) 
 ##### [Versiones OasisCom  4.03.74](https://mailchi.mp/ddf71371c34d/plan-empower-versin-400374-oasiscom-265351) 
 ##### [Versiones OasisCom  4.03.75 - 4.03.76](https://mailchi.mp/8453eb5a138a/plan-empower-versin-400375-400376-oasiscom?e=7ad3ec53b5)
+<<<<<<< HEAD
 ##### [Versiones OasisCom  4.03.77](https://mailchi.mp/d27b0150f9e9/plan-empower-versin-400377-oasiscom-278867)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 ##### [Versiones OasisCom  4.03.80](https://mailchi.mp/6f0ab400b3c1/plan-empower-versin-400378-oasiscom-307575)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 
+=======
+##### [Versiones OasisCom  4.03.77](https://mailchi.mp/d27b0150f9e9/plan-empower-versin-400377-oasiscom-278867)
+##### [Versiones OasisCom  4.03.78](https://mailchi.mp/18e86aab3632/plan-empower-versin-400378-oasiscom)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 
+>>>>>>> f32c544a5108f93d010faa65ba65e193c989468a

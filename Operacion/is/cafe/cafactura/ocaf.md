@@ -45,6 +45,23 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterist
 
 ![](ocaf11.png)
 
+#### **Actualización de la formula de liquidación del café, con el esquema de reconocimiento del porcentaje de la pasilla.**  
+
+* A continuación se anexan las imágenes del ejemplo, donde se evidencia que ambas compras poseen la misma información de análisis de calidades **(Muestra, almendra sana y pasilla)** pero el precio kilo es diferente basado en las dos formulaciones.
+* La configuración con las variables que se usan para el nuevo cálculo,   “CalculateMethodCoffeePrice”  = 1 indica que la formulación esta encendida, Cero que el precio de café se calculara sin tener en cuenta la valoración de las pasillas.  
+
+
+* **[WVAR]**-Variable
+![](ocaf18.png)  
+
+* **[ODES]**-Precio de Cafe.
+![](ocaf19.png)
+
+
+
+NOTA:   Las imágenes 3 y 4 contiene la configuración con las variables que se usan para el nuevo cálculo,   “CalculateMethodCoffeePrice”  = 1 indica que la formulación esta encendida, Cero que el precio de café se calculara sin tener en cuenta la valoración de las pasillas.
+
+
 Ahora, al momento de crear otro registro en la aplicación OCAF, el campo _Muestra_ traerá el valor que acabamos de asignar.  
 
 ![](ocaf12.png)
@@ -129,3 +146,10 @@ Adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de
 ![](ocaf13.png)
 
 ![](ocaf14.png)
+
+
+* **Importante:** El sistema validara la RETENCION acumulada diaria, por cada una de las ubicaciones en **OCAF** que esten procesadas, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OCAF**.  
+
+
+
+

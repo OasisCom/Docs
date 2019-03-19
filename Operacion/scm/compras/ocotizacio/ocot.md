@@ -47,6 +47,14 @@ En el detalle de los productos y cantidades que se van a cotizar, desde su preci
 •	**Total:** Valor total de cada producto.  
 •	**Unidad Medida:** Unidad de medida de cada producto.  
 
+* En la pestaña **Presupuesto:**  
+ Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
+ Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
+ 
+ ![](ocot3.png)
+
+
+
 
 
 

@@ -7,7 +7,7 @@ editable: si
 
 # GCON - Consultas
 
-La aplicación GCON permite visualizar y crear consultas médicas, allí se registran los datos generales de la consulta como lo son: nombre del paciente, diagnóstico, fecha de la consulta, entre otros.   
+La aplicación GCON permite visualizar y crear consultas médicas, allí se registran los datos generales de la consulta como lo son: nombre del paciente, diagnóstico, fecha de la consulta, entre otros.   Proceso creado con la finalidad de poder registrar y tener seguimiento de la hora en la que es aplicado un medicamento a un paciente.  
 
 En la pestaña _Form Detail_, se verá un formulario el cual es parametrizable por el tipo de consulta que se requiera ver, la parametrización de los formularios se realiza en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creaci%C3%B3n-formularios).(_Ver aplicación_)
 
@@ -27,6 +27,13 @@ Creada anteriormente la consulta mediante la aplicación [**GCAL - Calendario**]
 Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un renglón con la descripción del pago de la cita e indicando en el campo _Próxima_ la fecha siguiente en la que se deberá realizar la consulta. Se debe tener en cuenta que si se desmarca el check de _Factura_, el producto no se insertará en la opción JFAC - Facturas y por lo tanto no se facturará.  
 
 ![](gcon.png)
+
+
+* Al ejecutar la vista preliminar, imprime la orden medica.
+
+![](gcon3.png)
+
+
 
 
 

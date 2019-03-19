@@ -133,3 +133,18 @@ Al procesar el OFAC refleja esta cuenta.
 Se valida la Contabilización OFAC=4  
 
 ![](bter14.png)
+****************
+Importante  
+
+* Desde la aplicación **[BTER]** en el maestro existen dos campos:
+
+![](bter19.png)  
+ 'CostCenterId'  
+ 'LaborLocationId'  
+ **_funcionabilidad:_**  
+ 
+ Cuando se realice un documento de viáticos **[TVIA]** con este tercero; el centro de costo parametrizado se aplicara y su ubicación laboral, se reflejara en los viaticos.  
+ 
+ 
+ 
+ 

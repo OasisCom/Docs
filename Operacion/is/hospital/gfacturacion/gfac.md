@@ -25,3 +25,18 @@ Si se cambia la ubicación por la parametrizada en la opción [**BUBI - Ubicacio
 Realización de una consulta dinámica en la aplicación _GFAC - Facturas_.  
 
 ![](gfac2.png)
+
+### Detalle - GFAC
+
+* Existe una funcionabilidad en el detalle del **GFAC** con el boton: 'saldos de inventarios en linea'. 
+Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:  
+* Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
+
+
+![](gfac3.png)
+
+* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
+Detalle del **GFAC**.  
+
+![](gfac4.png)
+

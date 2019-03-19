@@ -179,6 +179,8 @@ Y como vemos el valor se ha modificado tanto en el producto como en el detalle d
 
 ![](mjfac33.png)
 
+* Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
+
 
 
 
