@@ -8,7 +8,7 @@ editable: si
 # HISTORIAS - GHIS
 
 
-La opción **GHIS - Historias**, enseña información correspondiente a la historia clínica de los pacientes que han sido atendidos. Esta opción es únicamente para consulta, es decir, no se permite adición, edición y/o eliminación de la información que aquí se visualiza. Se puede ver entonces la siguiente información en cuanto al maestro:  
+La opción **GHIS - Historias**, reseña información correspondiente a la historia clínica de los pacientes que han sido atendidos. Esta opción es únicamente para consulta, es decir, no se permite edición y/o eliminación de la información que aquí se visualiza. Se puede ver entonces la siguiente información en cuanto al maestro:  
 
 
 ![](ghis1.png)
