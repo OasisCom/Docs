@@ -7,13 +7,14 @@ editable: si
 
 # - FRFA - Facturación Anual
 
-Detalla uno a uno los productos incluidos en las respectivas facturas, permitiendo consultar por variables independientes o conjuntas; ubicación, fecha, tipo de movimiento, No. Factura, cliente y producto, agrupando por ubicación y total general.  
+Reporte que muestra la facturación de ventas resumida por año.
+Visualiza la informacion del modulo de facturacion anualizado por tercero, segun su tipo de moneda; extrae documentos de salida tipo venta o entrada tipo devoluciones.
 
-Filtrar por ubicación y canal y dar clic en Actualizar (Flecha azul).  
+Filtrar por documento, tercero, moneda y año y dar clic en Actualizar (Flecha azul).  
 
-![](frfd1.png)
+![](frfa1.png)
 
-![](frfd2.png)
+![](frfa2.png)
 
 
 
