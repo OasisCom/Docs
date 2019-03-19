@@ -179,6 +179,16 @@ Y como vemos el valor se ha modificado tanto en el producto como en el detalle d
 
 ![](mjfac33.png)
 
+****************
+
+Para el escenario donde se desee cambiar **Tipo de precio y/o modificar condiciones de pago** se debe de ejecutar el botón con los tres puntos, como se ilustra.
+El sistema ejecutará el zoom que se describe con los campos a modificar:
+
+![](mjfac41.png)
+Tipo de precio.
+Condiciones de pago:
+
+****************
 * Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
 
 
