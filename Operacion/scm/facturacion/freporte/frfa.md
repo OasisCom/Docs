@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/freporte/frfa
 editable: si
 ---
 
-# Facturación Anual - FRFA
+# - FRFA - Facturación Anual
 
 Detalla uno a uno los productos incluidos en las respectivas facturas, permitiendo consultar por variables independientes o conjuntas; ubicación, fecha, tipo de movimiento, No. Factura, cliente y producto, agrupando por ubicación y total general.  
 
