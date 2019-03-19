@@ -22,10 +22,10 @@ Realiza el agrupamiento por ubicaciones, proyectos, conceptos que se han procesa
 **Tercero:** A quien se realizo la entrada o salida de inventarios.  
 **Producto:** Producto por el cual se desea consultar segun **BPRO**.  
 
-**Codigo Antiguo:** parametrizacion del producto campo OldCode de **BPRO**.  
-**Entradas / Salidas:** valor en unidades de cada producto segun su transaccion.  
-**Costo Unitario:** promedio de la transaccion, en costos.  
-**Total:** valor establecido entre el costo unitario por las cantidades.  
+**Codigo Antiguo:** Parametrizacion del producto campo OldCode de **BPRO**.  
+**Entradas / Salidas:** Valor en unidades de cada producto segun su transaccion.  
+**Costo Unitario:** Promedio de la transaccion, en costos.  
+**Total:** Valor establecido entre el costo unitario por las cantidades.  
 
 
 
