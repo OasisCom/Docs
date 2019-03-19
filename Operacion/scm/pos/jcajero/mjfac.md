@@ -181,12 +181,12 @@ Y como vemos el valor se ha modificado tanto en el producto como en el detalle d
 
 ****************
 
-Para el escenario donde se desee cambiar **Tipo de precio y/o modificar condiciones de pago** se debe de ejecutar el botón con los tres puntos, como se ilustra.  
+Para el escenario donde se desee cambiar **Tipo de precio [FBTP] y/o modificar condiciones de pago [BCND]** se debe de ejecutar el botón con los tres puntos, como se ilustra.  
 El sistema ejecutará el zoom que se describe con los campos a modificar:  
 
 ![](mjfac41.png)  
-Tipo de precio: informacion que se parametriza en FBTP.  
-Condiciones de pago: parametrizacion realizada en BCND.  
+Tipo de precio: informacion que se parametriza en **FBTP**.  
+Condiciones de pago: parametrizacion realizada en **BCND**.  
 
 ****************
 * Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
