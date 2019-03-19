@@ -7,7 +7,7 @@ editable: si
 
 # QRNE - EJECUCIÓN PRESUPUESTAL - NEGOCIO
 
-El Reporte **QRNE** Reseña la ejecución presupuestal por negocio.  
+El Reporte **QRNE** visualiza la ejecución presupuestal por negocio.  
 Muestra lo presupuestado desde la aplicación **QMOV** y lo ejecutado desde todas las aplicaciones que afecten las cuentas contables que han sido presupuestados.  
 
 
