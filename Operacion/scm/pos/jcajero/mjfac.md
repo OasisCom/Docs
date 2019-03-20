@@ -185,8 +185,8 @@ Para el escenario donde se desee cambiar **Tipo de precio [FBTP] y/o modificar c
 El sistema ejecutará el zoom que se describe con los campos a modificar:  
 
 ![](mjfac41.png)  
-Tipo de precio: informacion que se parametriza en **FBTP**.  
-Condiciones de pago: parametrizacion realizada en **BCND**.  
+* Tipo de precio: informacion que se parametriza en **FBTP**.  
+* Condiciones de pago: parametrizacion realizada en **BCND**.  
 
 ****************
 * Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
