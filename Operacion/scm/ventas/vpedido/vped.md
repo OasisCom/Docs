@@ -65,7 +65,7 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **%Imp:** Número del porcentaje de impuesto.  
 **%Descuento:** Número del porcentaje de descuento del pedido.  
 
-**
+
 ![](vped6.png)
 
 **Total:** Valor total del pedido.  
