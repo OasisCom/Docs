@@ -73,9 +73,7 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **Fecha Entrega:** Fecha de entrega del pedido.  
 **Control:** Permite controlar el inventario por un número de control, es decir, como un identificador.
 
-***
-
-
+***********
 ![](vped21.png)
 
 **Localización:** Identificación numérica de la localización de un producto.  
