@@ -52,7 +52,7 @@ Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los 
 **Consignación:** Si se realizó la consignación o no.  
 **ProjectId:** Identificación del proyecto al que pertenece.  
 **Observación:** Comentarios.  
-
+***************
 Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 
 ![](vped5.png)
@@ -65,7 +65,19 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **%Imp:** Número del porcentaje de impuesto.  
 **%Descuento:** Número del porcentaje de descuento del pedido.  
 
-**********
+**
+![](vped6.png)
+
+**Total:** Valor total del pedido.  
+**Bodega:** Bodega de donde proviene el producto.  
+**Fecha Entrega:** Fecha de entrega del pedido.  
+**Control:** Permite controlar el inventario por un número de control, es decir, como un identificador.
+
+***
+
+
+![](vped21.png)
+
 **Localización:** Identificación numérica de la localización de un producto.  
 **Característica:** Código de la característica que se puede atribuir al producto.  **Presentación:** Forma de presentación del producto.  
 **Vencimiento:** Fecha de vencimiento del producto.  
@@ -74,17 +86,8 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **Estado:**  activo, procesado o anulado.  
 **Unidad Medida:** parametrización del BMED.  
 **Observación:** campo a editar o comentar.  
-**ódigo Antiguo:** referencia código del producto.  
+**Código Antiguo:** referencia código del producto.  
 
-
-*********
-
-![](vped6.png)
-
-**Total:** Valor total del pedido.  
-**Bodega:** Bodega de donde proviene el producto.  
-**Fecha Entrega:** Fecha de entrega del pedido.  
-**Control:** Permite controlar el inventario por un número de control, es decir, como un identificador.
 
 ## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
 
