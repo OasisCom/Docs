@@ -65,6 +65,20 @@ Esta aplicación consta de una ventana en la parte inferior llamada detalle:
 **%Imp:** Número del porcentaje de impuesto.  
 **%Descuento:** Número del porcentaje de descuento del pedido.  
 
+**********
+**Localización:** Identificación numérica de la localización de un producto.  
+**Característica:** Código de la característica que se puede atribuir al producto.  **Presentación:** Forma de presentación del producto.  
+**Vencimiento:** Fecha de vencimiento del producto.  
+**Control:**  Número de serial o consecutivo asignado a productos que vende la empresa y 	poder así identificarlos y llevar un control sobre ellos.  
+**Id Lote:** Si los productos pertenecen a un lote en específico.  
+**Estado:**  activo, procesado o anulado.  
+**Unidad Medida:** parametrización del BMED.  
+**Observación:** campo a editar o comentar.  
+**ódigo Antiguo:** referencia código del producto.  
+
+
+*********
+
 ![](vped6.png)
 
 **Total:** Valor total del pedido.  
