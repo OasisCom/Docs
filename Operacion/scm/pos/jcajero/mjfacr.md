@@ -62,7 +62,8 @@ Se ejecuta el botón Finalizar pago y el sistema imprime la factura.
 Posterior aparece la ventana con los dos productos restantes por facturar:  
 *el producto Bandeja + cerveza corona. 30.000 + 12.000 = 42.000 como se ilustra.  
 
-
+Debe de proceder de igual forma, como en el ejemplo anterior; pasar los productos al siguiente Ticket y finalizar pago.  
+![](mjfacr23.png)  
 ******
 ## [Impresión de facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#impresión-de-facturas)
 
