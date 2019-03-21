@@ -42,6 +42,7 @@ Al dar click en el botón _Pagar_ la factura será procesada automáticamente.
 ![](mjfacr19.png)
 
 ******
+
 ## [División de cuentas tipo Restaurante](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#División-de-cuentas-tipo-Restaurante)
 
 
@@ -51,7 +52,7 @@ Realizaremos el siguiente ejemplo.
 Vamos a dividir estos cuatro productos en dos pagos:  
 * el producto T’bon + cerveza budweiser. 32.000 + 15.000 = 47.000  
 * el producto Bandeja + cerveza corona. 30.000 + 12.000 = 42.000  
-	**se ejecuta el botón: "Dividir factura".  **  
+**se ejecuta el botón: "Dividir factura".  **  
 
 se despliega el zoom con el listado de productos.  
 ![](mjfacr21.png)  
@@ -64,6 +65,7 @@ Posterior aparece la ventana con los dos productos restantes por facturar:
 
 Debe de proceder de igual forma, como en el ejemplo anterior; pasar los productos al siguiente Ticket y finalizar pago.  
 ![](mjfacr23.png)  
+
 ******
 ## [Impresión de facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#impresión-de-facturas)
 
