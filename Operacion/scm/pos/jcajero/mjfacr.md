@@ -52,6 +52,8 @@ Realizaremos el siguiente ejemplo.
 Vamos a dividir estos cuatro productos en dos pagos:  
 * el producto T’bon + cerveza budweiser. 32.000 + 15.000 = 47.000  
 * el producto Bandeja + cerveza corona. 30.000 + 12.000 = 42.000  
+
+
 **se ejecuta el botón: "Dividir factura".  **  
 
 se despliega el zoom con el listado de productos.  
