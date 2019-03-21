@@ -45,7 +45,7 @@ Al dar click en el botón _Pagar_ la factura será procesada automáticamente.
 ## [División de cuentas Restaurante]
 
 
-Esta funcionabilidad tiene como principio segmentar las diferentes cuentas que se puedan presentar en el momento de realizar el pago de los productos tipo restaurante.  
+Esta funcionabilidad tiene como principio segmentar las diferentes cuentas, que se puedan presentar en el momento de realizar el pago de los productos, tipo restaurante.  
 Realizaremos el siguiente ejemplo.  
 
 Vamos a dividir estos cuatro productos en dos pagos:  
