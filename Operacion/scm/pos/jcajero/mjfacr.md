@@ -42,7 +42,7 @@ Al dar click en el botón _Pagar_ la factura será procesada automáticamente.
 ![](mjfacr19.png)
 
 ******
-## [División de cuentas Restaurante]
+## [División de cuentas tipo Restaurante](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#División-de-cuentas-tipo-Restaurante)
 
 
 Esta funcionabilidad tiene como principio segmentar las diferentes cuentas, que se puedan presentar en el momento de realizar el pago de los productos, tipo restaurante.  
