@@ -15,7 +15,7 @@ El reporte discrimina la franja entre mañana y noche.
 
 ![](grmp1.png)
 
-Consultas medicas.
+**Consultas medicas.**
 
 ![](grmp2.png)
 
