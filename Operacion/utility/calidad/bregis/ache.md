@@ -11,4 +11,7 @@ Esta opción permite el control de horas ejecutadas y su aprobación y/o rechazo
 
 ![](ache1.png)
 
-![](aana.png)
+
+
+***********
+
