@@ -7,8 +7,8 @@ editable: si
 
 # Movimientos por Producto - IRMP
 
-Aplicación que permite consultar el histórico de las entradas (EN-FP-DE-DV etc.); salidas (SA- FA- DP etc.) por producto, en un determinado rango de fechas.
-Realizar el agrupamiento por producto, ubicación. Discrimina documento, concepto, entrada, salida, costos de la transacción entre otros datos.
+Aplicación que permite consultar el histórico de las entradas (EN-FP-DE-DV etc.); salidas (SA- FA- DP etc.) por producto, en un determinado rango de fechas.  
+Realizar el agrupamiento por producto, ubicación. Discrimina documento, concepto, entrada, salida, costos de la transacción entre otros datos.  
 
 
 ![](irmp3.png)
@@ -25,7 +25,7 @@ Realizar el agrupamiento por producto, ubicación. Discrimina documento, concept
 **Conceptos:** se crean en BCON y se asocia documento concepto desde el BDOC.  
 
 
-![](irmp3.png)
+![](irmp4.png)
 
 
 
