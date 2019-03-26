@@ -18,8 +18,8 @@ Realizar el agrupamiento por producto, ubicación. Discrimina documento, concept
 **Libro:** parametrización del **KLIB** – libros.  
 **Ubicación:** número de ubicación de la empresa en donde se encuentra el producto.  
 **Producto:** código asignado en el momento de parametrizar el producto en BPRO.  
-**Periodo:** mes en la que se realizará el movimiento.  
-**Año:** año en la que se realizará el movimiento.  
+**Periodo:** mes en la que se realizó el movimiento.  
+**Año:** año en la que se realizó el movimiento.  
 **Documento:** Nombre de documento parametrizado con anterioridad en la aplicación **BDOC**.   
 **Control:** código interno que se le asigna a cada producto **BCNT**.  
 **Conceptos:** se crean en BCON y se asocia documento concepto desde el **BDOC**.  
