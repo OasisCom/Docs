@@ -27,5 +27,7 @@ Realizar el agrupamiento por producto, ubicación. Discrimina documento, concept
 
 ![](irmp4.png)
 
+****
+
 
 
