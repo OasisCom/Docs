@@ -12,13 +12,11 @@ editable: si
 
 >###### [Descriptivo Solución OasisCom 2018](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de la Solucion OasisCom2018.pdf)
 >###### [Descriptivo Solución OasisCom 2018_oracle_cloud](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de la Solucion OasisCom2018_oracle.pdf)
->###### [Guía para Nubetizar su empresa](http://docs.oasiscom.com/Mercadeo/fichas/E-book_Guia_para_nubetizar_su_empresa.pdf)
->###### [E-Book: 9 razones para escoger un ERP](http://docs.oasiscom.com/Mercadeo/fichas/E-BOOK-9-razones-para-escoger-un-erp.pdf)
+
 
 ----
 ### OasisCom Puntos de Venta 
 >###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
->###### [Preguntas Frecuentes POS](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas_frecuentes_OasisCom-_POS.pdf)
 >###### [Descriptivo OasisCom Restaurante](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-OasisCom_restaurante.pdf)
 ---
 
@@ -26,7 +24,7 @@ editable: si
 
 >###### [Descriptivo factura electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de Factura electrónica OasisCom.pdf)
 >###### [Proveedor Tecnológico de factura electrónica- Resolución DIAN 003100 ](http://docs.oasiscom.com/Mercadeo/fichas/Resolución Dian 0031000.pdf)
->###### [Preguntas frecuentes de facturación electrónica E-book](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas-Frecuentes-de-factura-Electronica.pdf)
+
 
 ---
 ### OasisCom Salud
@@ -35,7 +33,7 @@ editable: si
 >###### [Trayectoria del servicio asistencial y administrativo con OasisCom salud](http://docs.oasiscom.com/Mercadeo/fichas/OasisCom_Salud_flujograma.png)
 >###### [Descriptivo OasisCom Salud](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_Salud.pdf)
 >###### [Descriptivo OasisCom Veterinaria](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_veterinaria.pdf)
->###### [E-Book: El impacto de un Software ERP en un centro asistencial](http://docs.oasiscom.com/Mercadeo/fichas/EBook-Salud-El-impacto-de-un-software-Erp-en-un-centro-asistencial.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
 ---
 
 ### OasisCom para Agroindustria
@@ -45,8 +43,7 @@ editable: si
 ### OasisCom sistema para Inventario
 >###### [Descriptivo OasisCom para Sistemas de Inventario](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-para-inventarios.pdf)
 >###### [Descriptivo OasisCom para logística (WMS)](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-WMS-.pdf)
->###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/fichas/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor.pdf)
----
+
 
 ### OasisCom CRM
 
