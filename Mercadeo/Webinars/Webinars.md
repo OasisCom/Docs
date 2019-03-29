@@ -1,7 +1,7 @@
 ﻿---
 layout: default
-title: Mercadeo
-permalink: /Mercadeo/Webinar
+title: Webinar
+permalink: /Mercadeo/Webinars
 editable: si
 ---
 
