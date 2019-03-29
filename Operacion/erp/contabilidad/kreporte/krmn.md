@@ -2,7 +2,7 @@
 
 layout: default
 
-title: Diferencias Saldos Vs. Movimientos
+title: Diferencias Saldos Vs. Movimientos  
 
 permalink: /Operacion/erp/contabilidad/kreporte/krmn
 
@@ -10,7 +10,7 @@ editable: si
 
 ---
 
-## Diferencias Saldos Vs. Movimientos - KRMN
+## Diferencias Saldos Vs. Movimientos - KRMN  
 
 Reporte que muestra la diferencia entre débitos y créditos de saldos de contabilidad vs. Movimientos **KRMN**.  
 Se establecen como filtros de búsqueda el año, periodo, tipo de documento el posee el zoom de consulta, numero o consecutivo del documento y ubicación (explorar zoom) del registro.  
@@ -18,13 +18,13 @@ Este tipo de reporte es de gran ayuda en hallar diferencias del módulo: ejemplo
 
 
 
-![](krmn1.png)
+![](krmn1.png)  
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año el cual deseo consultar.  
 **Documento:** parametrizacion que se realiza desde el **BDOC**.  
 **Numero:** consecutivo del documento.  
-**Ubicacion:** parametrizacion que se realiza desde el **BUBI**.  
+**Ubicación:** parametrizacion que se realiza desde el **BUBI**.  
 
 
 
