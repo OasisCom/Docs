@@ -2283,16 +2283,12 @@
       url: /Mercadeo/Casos de exito
     - text: Infografia
       url: /Mercadeo/Infografia
-    - text: Emailing
-      url: /Mercadeo/emailing
     - text: Fichas
       url: /Mercadeo/fichas
-    - text: GIF
-      url: /Mercadeo/gif
-    - text: Piezas
-      url: /Mercadeo/piezas
     - text: Video
       url: /Mercadeo/video
+    - text: Webinar
+      url: /Mercadeo/Webinars
     - text: Whitepapers
       url: /Mercadeo/whitepapers
 - text: Sistema Integrado de Gestión
