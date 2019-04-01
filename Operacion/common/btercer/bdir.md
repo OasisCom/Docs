@@ -13,7 +13,7 @@ Al crear inicialmente el tercero en la aplicación **BTER** y diligenciar la pes
 
 ![](bdir.png)
 
-En el maestro de la aplicación BDIR veremos las direcciones ingresadas anteriormente en la opción BTER, aquí podremos adicionar características especiales de las fincas como: ubicación geográfica, cupo de producción, cantidad de producción consumida, saldo de producción, tenencia de la propiedad, número de hectareas de la finca, especificar la cantidad de producción por tipo de café, entre otras.  
+En el maestro de la aplicación BDIR veremos las direcciones ingresadas anteriormente en la opción BTER, aquí podremos adicionar características especiales de las fincas como: ubicación geográfica, veredas, cupo de producción, cantidad de producción consumida, saldo de producción, tenencia de la propiedad, número de hectareas de la finca, especificar la cantidad de producción por tipo de café, entre otras.  
 
 Consultamos por el número de identificación del tercero.  
 
