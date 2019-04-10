@@ -28,7 +28,7 @@ Representa la división completa de las áreas o ubicaciones que conforman la em
 ![](bubi9.png)  
 
 
-**Banco:** parametrizacion realizada en **BBAN** y aplicada en **BUBI**.  
+**Banco:** parametrizacion realizada en **BBAN** y aplicada en **BUBI** cuando es tipo banco.  
 **Cuenta Bancaria:** serie numerica otorgada por el Banco.  
 **Tipo Cuenta Bancaria:** Ahorros, corriente, daviplata, Ahorro Colectivo.  
 
