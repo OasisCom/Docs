@@ -73,6 +73,15 @@ Los datos de los campos _Tipo de periodo_, _Duración_, _Ejecutado_, _Última Fa
 
 ![](vcnt7.png)
 
+* En el detalle al finalizar el cursor a la derecha;  encontrar el campo 'DirectionId' en detalle de la opción **VCNT**, el cula posee zoom de busqueda.  
+
+![](vcnt9.png)
+
+
+****
+
+
+
 
 
 
