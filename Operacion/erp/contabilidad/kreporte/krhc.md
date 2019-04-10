@@ -16,11 +16,11 @@ agrupado por centro costo *padre* determina columnas de año-mes comparativos.
 
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar y establece comparativo con el año anterior.  
-**Nivel:** De acuerdo a la parametrización del básico de Cuentas BCUE.  
-**libro:** De acuerdo a la parametrización del básico de libros **KLIB**.  
-**Centro de Costo:** según parametrización del  **BUBI** y básico de Cuentas **BCUE**.  
+**Nivel:** De acuerdo a la parametrización del básico de Cuentas -**BCUE**.  
+**Libro:** De acuerdo a la parametrización del básico de libros -**KLIB**.  
+**Centro de Costo:** según parametrización del  -**BUBI** y básico de Cuentas -**BCUE**.  
 
-* Ingresar periodo, año y click en consultar.   
+* click en consultar.   
 
 ![](krhc1.png)
 
