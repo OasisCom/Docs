@@ -1,0 +1,38 @@
+---
+
+layout: default
+title: 	
+ Estado de Pérdidas y Ganancias Comparativo Por Centro De Costo Padre
+permalink: /Operacion/erp/contabilidad/kreporte/krhc
+editable: si
+
+---
+
+## 	Estado Ganancias-Perdidas, *Comparativo* Por Centro De Costo *Padre* - KRHC
+
+Reporte de Estado de Ganancias y Perdidas, que establece un comparativo por el auxiliar centro de costo *padre*.  
+agrupado por centro costo *padre* determina columnas de año-mes comparativos.
+![](krhc2.png)
+
+**Periodo:** Mes que se desea consultar.  
+**Año:** Año que se desea consultar y establece comparativo con el año anterior.  
+**Nivel:** De acuerdo a la parametrización del básico de Cuentas BCUE.  
+**libro:** De acuerdo a la parametrización del básico de libros **KLIB**.  
+**Centro de Costo:** según parametrización del  **BUBI** y básico de Cuentas **BCUE**.  
+
+* Ingresar periodo, año y click en consultar.   
+
+![](krhc1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
