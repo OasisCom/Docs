@@ -30,7 +30,7 @@ Representa la división completa de las áreas o ubicaciones que conforman la em
 
 **Banco:** Parametrizacion realizada en **BBAN** y aplicada en **BUBI** cuando es tipo banco.  
 **Cuenta Bancaria:** Serie numerica otorgada por el Banco.  
-**Tipo Cuenta Bancaria:** Pueden ser Ahorros, corriente, daviplata, Ahorro Colectivo entre otras.  
+**Tipo Cuenta Bancaria:** Pueden ser Ahorros, Corriente, Daviplata, Ahorro Colectivo entre otras.  
 
 
 ******
