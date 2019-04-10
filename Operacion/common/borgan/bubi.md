@@ -24,7 +24,10 @@ Representa la división completa de las áreas o ubicaciones que conforman la em
 **Grupo:** Si la ubicación organizacional pertenece a algún grupo que se haya parametrizado previamente en **BGRU**.  
 
 **Characteristic:** caracteristica previa parametrizacion del basico de caracteristicas **BCRC**.  
-![](bubi9.png)
+
+![](bubi9.png)  
+
+
 **Banco:** parametrizacion realizada en **BBAN** y aplicada en **BUBI**.  
 **Cuenta Bancaria:** serie numerica otorgada por el Banco.  
 **Tipo Cuenta Bancaria:** Ahorros, corriente, daviplata, Ahorro Colectivo.  
