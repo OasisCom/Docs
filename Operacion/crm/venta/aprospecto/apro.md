@@ -18,7 +18,7 @@ Para esta aplicacion **APRO** la llave primaria es el campo: Email como resultan
 **Organizacion:** Nombre del ente u organizacion.  
 **Tipo Contacto:** Dato que se parametriza desde el **ABTC**.  
 **Codigo Cliente:** Nit o RUT al cual pertenece.  
-**Tercero:**  
+**Tercero:**  Codigos Tercero del **BTER.**  
 **Cargo:** Dato que se parametriza desde el **BCAR**.  
 **Email:** Llave primaria.  
 **Dirección:** Nomenclatura de area.  
@@ -34,14 +34,14 @@ Para esta aplicacion **APRO** la llave primaria es el campo: Email como resultan
 
 
 **Empleado:**  Codigo Tercero del **BTER.**
-**Nombre Empleado:**.  
-**Descripción:**.  campo a editar con detalles importantes.  
+**Nombre Empleado:**.Nombres y apellidos del **BTER**.  
+**Descripción:**.  Campo a editar con detalles importantes.  
 **Ingresos:**.  
 **Activos:**.  
-**Empleados:**.  codigos Tercero del **BTER.**
-**CorreoDirecto:** flac de si no.  
-**Vendedor:**.  
-**Nombre Vendedor:**  
+**Empleados:**  Codigos Tercero del **BTER.**  
+**CorreoDirecto:** flac de si - no.  
+**Vendedor:**.  Codigo Tercero del **BTER.**
+**Nombre Vendedor:**  Nombres y apellidos parametrizados en **BTER**.  
 
 
 
