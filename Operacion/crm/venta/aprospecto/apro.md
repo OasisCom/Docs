@@ -36,12 +36,16 @@ Para esta aplicacion **APRO** la llave primaria es el campo: Email como resultan
 **Empleado:**  Codigo Tercero del **BTER.**
 **Nombre Empleado:**.Nombres y apellidos del **BTER**.  
 **Descripción:**.  Campo a editar con detalles importantes.  
-**Ingresos:**.  
-**Activos:**.  
+**Ingresos:**.  cantidad a editar.  
+**Activos:**.  cantidad a editar.  
 **Empleados:**  Codigos Tercero del **BTER.**  
 **CorreoDirecto:** flac de si - no.  
-**Vendedor:**.  Codigo Tercero del **BTER.**
+**Vendedor:**.  Codigo Tercero del **BTER.**  
 **Nombre Vendedor:**  Nombres y apellidos parametrizados en **BTER**.  
+**Observacion:**.Campo a editar con detalles relevantes.  
+**Estado:**.activo o inactivo segun corresponda.  
+**Status:**.si aplica.  
+**Actualizado:**.fecha de cambio al editar.  
 
 
 
