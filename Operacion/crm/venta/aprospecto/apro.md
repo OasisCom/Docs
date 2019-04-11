@@ -26,26 +26,27 @@ Para esta aplicacion **APRO** la llave primaria es el campo: Email como resultan
 **Movil:** Numero celular.  
 **Cuidad:** Parametrizacion del **BUBG.**  
 **Ubicacion Geografica:** Parametrizacion del **BUBG.**  
-**Especialidad:**Parametrizacion del **BBES.**  
+**Especialidad:** Parametrizacion del **BBES.**  
 **Prioridad:** Codigo.  
 **Tipo Medio:** Parametrizacion del **ABTM.**.  
 **IdCampaña:** Parametrizacion de la campaña **ACAM.**.  
 **Ingreso:** Fecha de apertura.  
 
+![](apro2.png)
 
 **Empleado:**  Codigo Tercero del **BTER.**
-**Nombre Empleado:**.Nombres y apellidos del **BTER**.  
+**Nombre Empleado:** Nombres y apellidos del **BTER**.  
 **Descripción:**.  Campo a editar con detalles importantes.  
-**Ingresos:**.  cantidad a editar.  
-**Activos:**.  cantidad a editar.  
+**Ingresos:**.  Cantidad a editar.  
+**Activos:**.  Cantidad a editar.  
 **Empleados:**  Codigos Tercero del **BTER.**  
-**CorreoDirecto:** flac de si - no.  
+**CorreoDirecto:** Flac de si - no.  
 **Vendedor:**.  Codigo Tercero del **BTER.**  
 **Nombre Vendedor:**  Nombres y apellidos parametrizados en **BTER**.  
 **Observacion:**.Campo a editar con detalles relevantes.  
-**Estado:**.activo o inactivo segun corresponda.  
-**Status:**.si aplica.  
-**Actualizado:**.fecha de cambio al editar.  
+**Estado:** Activo o inactivo segun corresponda.  
+**Status:** si aplica.  
+**Actualizado:** fecha de cambio al editar.  
 
 
 
