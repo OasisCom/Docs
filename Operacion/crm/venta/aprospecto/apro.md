@@ -13,30 +13,32 @@ Para esta aplicacion **APRO** la llave primaria es el campo: Email como resultan
 
 ![](apro1.png)
 
-**Idcontacto:** codigo de contacto inicial; no presisamente cedula o nit.  
-**Nombre Contacto:** con el cual se identifica el futuro prospecto.  
-**Organizacion:** nombre del ente u organizacion.  
-**Tipo Contacto:** dato que se parametriza desde el **ABTC**.  
+**Idcontacto:** Codigo de contacto inicial; no presisamente cedula o nit.  
+**Nombre Contacto:** Con el cual se identifica el futuro prospecto.  
+**Organizacion:** Nombre del ente u organizacion.  
+**Tipo Contacto:** Dato que se parametriza desde el **ABTC**.  
 **Codigo Cliente:** Nit o RUT al cual pertenece.  
 **Tercero:**  
 **Cargo:** Dato que se parametriza desde el **BCAR**.  
-**Email:** llave primaria.  
-**Dirección:** nomenclatura de area.  
-**Telefono:** numeros telefonicos.  
+**Email:** Llave primaria.  
+**Dirección:** Nomenclatura de area.  
+**Telefono:** Numeros telefonicos.  
 **Movil:** Numero celular.  
 **Cuidad:** Parametrizacion del **BUBG.**  
 **Ubicacion Geografica:** Parametrizacion del **BUBG.**  
-**Especialidad:**parametrizacion del **BBES.**  
-**Prioridad:** codigo.  
-**Tipo Medio:** parametrizacion del **ABTM.**.  
-**IdCampaña:** parametrizacion de la campaña **ACAM.**.  
+**Especialidad:**Parametrizacion del **BBES.**  
+**Prioridad:** Codigo.  
+**Tipo Medio:** Parametrizacion del **ABTM.**.  
+**IdCampaña:** Parametrizacion de la campaña **ACAM.**.  
 **Ingreso:** Fecha de apertura.  
-**Empleado:**  
+
+
+**Empleado:**  Codigo Tercero del **BTER.**
 **Nombre Empleado:**.  
-**Descripcion:**.  
+**Descripción:**.  campo a editar con detalles importantes.  
 **Ingresos:**.  
 **Activos:**.  
-**Empleados:**.  
+**Empleados:**.  codigos Tercero del **BTER.**
 **CorreoDirecto:** flac de si no.  
 **Vendedor:**.  
 **Nombre Vendedor:**  
