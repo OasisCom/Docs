@@ -1185,19 +1185,10 @@
           subitems:
             - text: Prospectos
               url: /Operacion/crm/venta/aprospecto/
-	subitems:
-              - text: Prospectos
-                url: /Operacion/crm/venta/aprospecto/apro
             - text: Oportunidades
               url: /Operacion/crm/venta/aoportunidad/
-	subitems:
-              - text: Oportunidades
-                url: /Operacion/crm/venta/aoportunidad/aopo
             - text: Partners
               url: /Operacion/crm/venta/apartner/
-	subitems:
-              - text: Partners
-                url: /Operacion/crm/venta/apartner/apar
             - text: Reportes
               url: /Operacion/crm/venta/areporte/
         - text: Mercadeo
