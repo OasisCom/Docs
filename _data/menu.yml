@@ -1190,6 +1190,9 @@
                 url: /Operacion/crm/venta/aprospecto/apro
             - text: Oportunidades
               url: /Operacion/crm/venta/aoportunidad/
+              subitems:
+              - text: Oportunidades
+                url: /Operacion/crm/venta/aoportunidad/aopo
             - text: Partners
               url: /Operacion/crm/venta/apartner/
             - text: Reportes
