@@ -7,13 +7,13 @@ editable: si
 
 # ACON - Contactos
 
-la Aplicacion **ACON** realiza el repositorio de datos al "Prospecto"; su funcionabilidad esta basada en el mismo **APRO**  a los clientes potenciales de una empresa. Se trata de una persona que ya mostró interés por tu marca, producto o servicio. Puede que se haya subscrito a un boletín o directamente se haya puesto en contacto contigo para recibir más información. En esta aplicacion **ACON** se realiza y documenta la mayor cantidad de datos del futuro cliente; que podra ser convertdo automaticamente en oportunidad **AOPO**.  
+La Aplicacion **ACON** realiza el repositorio de datos al "Prospecto"; su funcionabilidad esta basada en el mismo **APRO**  a los clientes potenciales de una empresa. Se trata de una persona que ya mostró interés por tu marca, producto o servicio. Puede que se haya subscrito a un boletín o directamente se haya puesto en contacto contigo para recibir más información. En esta aplicacion **ACON** se realiza y documenta la mayor cantidad de datos del futuro cliente; que podra ser convertdo automaticamente en oportunidad **AOPO**.  
 La prospección es el primer paso del proceso de ventas, puede que se convierta o no en un cliente, sin embargo tendrá que seguir una serie de pasos hasta llegar a ese punto. El primer punto de partida es la calificación de prospectos, donde el vendedor determina si el prospecto cuenta con todas las características para convertirse en cliente.
 Para esta aplicacion **ACON** la llave primaria es el campo: Email como resultante no permite ingresar correos repetidos.
 
 *Funcionabilidad:  
 Existen dos botones cuya finalidad es convertir a oportunidad o partner.
-al ejecutarlos el sistema auotomaticamente crea un documento OP [Oportunidad] o PN [Partner].
+al ejecutarlos el sistema automaticamente crea un documento OP [Oportunidad] o PN [Partner] según sea el caso.
 
 
 ![](acon1.png)
@@ -53,9 +53,9 @@ al ejecutarlos el sistema auotomaticamente crea un documento OP [Oportunidad] o 
 **Status:** si aplica.  
 **Actualizado:** fecha de cambio al editar.  
 
-En el detalle se encuentran dos pestañas: _oportunidades_ y _tareas_. La pestaña _Oportunidades_: muestra los documentos OP correspondientes a las oportunidades que se encuentran asociadas a dicho Id de contacto
+En el detalle se encuentran dos pestañas: _oportunidades_ y _tareas_. La pestaña _Oportunidades_: muestra los documentos OP correspondientes a las oportunidades que se encuentran asociadas a dicho Id de contacto.  
 
-En la pestaña  _Tareas_ se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.
+En la pestaña  _Tareas_ se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.  
 
 
 **********
