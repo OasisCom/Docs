@@ -16,7 +16,6 @@ Existen dos botones cuya finalidad es convertir a oportunidad o partner.
 al ejecutarlos el sistema auotomaticamente crea un documento OP [Oportunidad] o PN [Partner].
 
 
-
 ![](acon1.png)
 
 **Idcontacto:** Codigo de contacto inicial; no presisamente cedula o nit.  
@@ -54,9 +53,9 @@ al ejecutarlos el sistema auotomaticamente crea un documento OP [Oportunidad] o 
 **Status:** si aplica.  
 **Actualizado:** fecha de cambio al editar.  
 
-En el detalle se encuentran dos pestañas, oportunidades y tareas. La pestaña Oportunidades, muestra los documentos OP correspondientes a las oportunidades que se encuentran asociadas a dicho Id de contacto
+En el detalle se encuentran dos pestañas: _oportunidades_ y _tareas_. La pestaña _Oportunidades_: muestra los documentos OP correspondientes a las oportunidades que se encuentran asociadas a dicho Id de contacto
 
-En la pestaña Tareas se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.
+En la pestaña  _Tareas_ se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.
 
 
 **********
