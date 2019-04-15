@@ -29,7 +29,7 @@ al ejecutarlos el sistema automaticamente crea un documento OP [Oportunidad] o P
 **Dirección:** Nomenclatura de area.  
 **Telefono:** Numeros telefonicos.  
 **Movil:** Numero celular.  
-**Cuidad:** Parametrizacion del **BUBG.**  
+**Ciudad:** Parametrizacion del **BUBG.**  
 **Ubicacion Geografica:** Parametrizacion del **BUBG.**  
 **Especialidad:** Parametrizacion del **BBES.**  
 **Prioridad:** Codigo.  
