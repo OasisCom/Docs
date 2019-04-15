@@ -11,6 +11,12 @@ la Aplicacion **ACON** realiza el repositorio de datos al "Prospecto"; su funcio
 La prospección es el primer paso del proceso de ventas, puede que se convierta o no en un cliente, sin embargo tendrá que seguir una serie de pasos hasta llegar a ese punto. El primer punto de partida es la calificación de prospectos, donde el vendedor determina si el prospecto cuenta con todas las características para convertirse en cliente.
 Para esta aplicacion **ACON** la llave primaria es el campo: Email como resultante no permite ingresar correos repetidos.
 
+*Funcionabilidad:  
+Existen dos botones cuya finalidad es convertir a oportunidad o partner.
+al ejecutarlos el sistema auotomaticamente crea un documento OP [Oportunidad] o PN [Partner].
+
+
+
 ![](acon1.png)
 
 **Idcontacto:** Codigo de contacto inicial; no presisamente cedula o nit.  
@@ -32,7 +38,7 @@ Para esta aplicacion **ACON** la llave primaria es el campo: Email como resultan
 **IdCampaña:** Parametrizacion de la campaña **ACAM.**.  
 **Ingreso:** Fecha de apertura.  
 
-![](apro2.png)
+
 
 **Empleado:**  Codigo Tercero del **BTER.**
 **Nombre Empleado:** Nombres y apellidos del **BTER**.  
@@ -48,6 +54,12 @@ Para esta aplicacion **ACON** la llave primaria es el campo: Email como resultan
 **Status:** si aplica.  
 **Actualizado:** fecha de cambio al editar.  
 
+En el detalle se encuentran dos pestañas, oportunidades y tareas. La pestaña Oportunidades, muestra los documentos OP correspondientes a las oportunidades que se encuentran asociadas a dicho Id de contacto
+
+En la pestaña Tareas se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.
+
+
+**********
 
 
 
