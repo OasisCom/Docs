@@ -15,7 +15,7 @@ Aplicacion que nos permite editar datos del socio de negocios o alianza; puede s
 **Número:**  consecutivo parametrizado en BCNS.  
 **Ubicación:**  parametrizacion realizada en BUBI.  
 **Concepto:**  parametrizacion realizada en BDOC.  
-**Motivo:**  parametrizacion del BMOT.  
+**Motivo:**  parametrizacion del BMOT.   
 **Fecha:**  data de emision del documento al guardar.  
 **Tercero:** parametrizacion del BTER tercero.  
 **Id Responsable:**  codigo del encargado.  
@@ -26,16 +26,16 @@ Aplicacion que nos permite editar datos del socio de negocios o alianza; puede s
 **Nombre contacto:**  nombre apellido del contacto.  
 **Organizacion:**  se edita el nombre del ente u organización.  
 **Tipo de Medio:**  Parametrizacion del **ABTM.**.  
-**Nombre de tipo de medios:**  
-**Id Campaña:**  
-**Nombre Campaña:**  
-**Id facturador:**  
-**Probabilidad:**  
-**Calificacion:**  
+**Nombre de tipo de medios:**  Parametrizacion del **ABTM.**.  
+**Id Campaña:**  parametrizacion del ACAM.  
+**Nombre Campaña:**  parametrizacion del ACAM.  
+**Id facturador:**  codigo parametrizado en BTER.  
+**Probabilidad:**  data segun criterio el tercero que realiza la alinza.  
+**Calificacion:**  segun el nivel de probabilidad.  
 **Tendencia:**  
-**Moneda:**  
-**Valor:**  
-**Descripcion:**  
+**Moneda:**  segun BMON.  
+**Valor:**  posible rango.  
+**Descripcion:**  texto descriptivo.  
 **Observacion:**   
 **Fecha requerido:**  
 **Fecha de cierre:**  
