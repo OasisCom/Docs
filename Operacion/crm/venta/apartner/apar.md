@@ -20,14 +20,14 @@ Aplicación que nos permite editar datos del socio de negocios o alianza; puede 
 **Motivo:**  Parametrización del BMOT.   
 **Fecha:**  Data de emisión del documento al guardar.  
 **Tercero:** Parametrización del BTER tercero.  
-**Id Responsable: ** Código del encargado.  
-**Asunto: ** Referencia breve del asunto.
-**Estado: ** Activo, procesado, anulado.  
-**Status: ** Si aplica.  
-**Id Contacto: ** Código de relación con el contacto.  
-**Nombre contacto: ** Nombre apellido del contacto.  
-**Organización: ** Se edita el nombre del ente u organización.  
-**Tipo de Medio: ** Parametrización del **ABTM**.  
+**Id Responsable:** Código del encargado.  
+**Asunto:** Referencia breve del asunto.
+**Estado:** Activo, procesado, anulado.  
+**Status:** Si aplica.  
+**Id Contacto:** Código de relación con el contacto.  
+**Nombre contacto:** Nombre apellido del contacto.  
+**Organización:** Se edita el nombre del ente u organización.  
+**Tipo de Medio:** Parametrización del **ABTM**.  
 **Nombre de tipo de medios:**  Parametrización del **ABTM.**.  
 **Id Campaña:** Parametrización del ACAM.  
 **Nombre Campaña:** Parametrización del ACAM.  
@@ -43,6 +43,7 @@ Aplicación que nos permite editar datos del socio de negocios o alianza; puede 
 **Fecha requerido:**  dia/mes/año.  
 **Fecha de cierre:**  dia/mes/añño.  
 **Actualizado:**  dia/mes/año.  
+
 * En el detalle, pestaña **Ejecutado**; se insertan las tareas manuales que se han realizado desde la Actividad **[AACT]**.  
 * En el detalle, pestaña **Tareas**; se documentan las **acciones** este campo posee zoom de búsqueda.  
 
