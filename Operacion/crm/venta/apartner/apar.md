@@ -13,13 +13,13 @@ Aplicación que nos permite editar datos del socio de negocios o alianza; puede 
 
 ![](apar1.png)
 
-**Documento:**  Parametrización del BDOC [PN].  
-**Número:**  Consecutivo parametrizado en BCNS.  
-**Ubicación:**  Parametrización realizada en BUBI.  
-**Concepto:**  Parametrizacion realizada en BDOC.  
-**Motivo:**  Parametrización del BMOT.   
+**Documento:**  Parametrización del **BDOC** [PN].  
+**Número:**  Consecutivo parametrizado en **BCNS**.  
+**Ubicación:**  Parametrización realizada en **BUBI**.  
+**Concepto:**  Parametrizacion realizada en **BDOC**.  
+**Motivo:**  Parametrización del **BMOT**.   
 **Fecha:**  Data de emisión del documento al guardar.  
-**Tercero:** Parametrización del BTER tercero.  
+**Tercero:** Parametrización del **BTER** tercero.  
 **Id Responsable:** Código del encargado.  
 **Asunto:** Referencia breve del asunto.
 **Estado:** Activo, procesado, anulado.  
@@ -29,14 +29,14 @@ Aplicación que nos permite editar datos del socio de negocios o alianza; puede 
 **Organización:** Se edita el nombre del ente u organización.  
 **Tipo de Medio:** Parametrización del **ABTM**.  
 **Nombre de tipo de medios:**  Parametrización del **ABTM.**.  
-**Id Campaña:** Parametrización del ACAM.  
-**Nombre Campaña:** Parametrización del ACAM.  
-**Id facturador:** Código parametrizado en BTER.  
+**Id Campaña:** Parametrización del **ACAM**.  
+**Nombre Campaña:** Parametrización del **ACAM**.  
+**Id facturador:** Código parametrizado en **BTER**.  
 **Probabilidad:** Data según criterio el tercero que realiza la alianza.  
 **Calificación:** Según el nivel de probabilidad.  
 **Tendencia:** Se definen tres opciones: ninguna, aumentar o disminuir.  
 **Proyecto:** Zoom del BPRY.  
-**Moneda:** Parametrización según BMON.  
+**Moneda:** Parametrización según **BMON**  
 **Valor:** Posible cifra.  
 **Descripcion:** Texto descriptivo.  
 **Observación:**   Texto que detalla relevancias.   
