@@ -15,7 +15,7 @@ Se filtra por periodo, año y ubicación.
 **Periodo:** mes del cual se desea realizar la consulta.  
 **Año:** año de consulta.  
 **Dateinicial:** rango de fecha de la consulta (desde).  
-**Datefinal:**	ramgo de fecha de la consulta (hasta).  
+**Datefinal:**	rango de fecha de la consulta (hasta).  
 **Ubicación:** ingresar el número de ubicación que se desea consultar, en caso que se desconozca, dar doble click en el campo y seleccionar la ubicación desde zoom.  
 **Documento:** desde **TMOV** movimiento de tesoreria, posee zoom de busqueda al dar doble click.
 **Concepto:**  concepto del movimiento de tesoreria.  
