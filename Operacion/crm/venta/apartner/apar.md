@@ -32,14 +32,16 @@ Aplicacion que nos permite editar datos del socio de negocios o alianza; puede s
 **Id facturador:**  codigo parametrizado en BTER.  
 **Probabilidad:**  data segun criterio el tercero que realiza la alinza.  
 **Calificacion:**  segun el nivel de probabilidad.  
-**Tendencia:**  
-**Moneda:**  segun BMON.  
-**Valor:**  posible rango.  
+**Tendencia:**  se definen tres opciones: ninguna, aumentar o disminuir.  
+**Moneda:**  parametrizacion según BMON.  
+**Valor:**  posible cifra.  
 **Descripcion:**  texto descriptivo.  
-**Observacion:**   
-**Fecha requerido:**  
-**Fecha de cierre:**  
-**Actualizado:**  
+**Observacion:**   texto que detalla relevancias.   
+**Fecha requerido:**  dia/mes/año.  
+**Fecha de cierre:**  dia/mes/añño.  
+**Actualizado:**  dia/mes/año.  
+
+
 
 
 
