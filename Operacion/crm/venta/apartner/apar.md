@@ -11,21 +11,21 @@ Aplicacion que nos permite editar datos del socio de negocios o alianza; puede s
 
 ![](apro1.png)
 
-**Documento:**  
-**Número:**  
-**Ubicación:**  
-**Concepto:**  
-**Motivo:**  
-**Fecha:**  
-**Tercero:**  
-**Id Responsable:**  
-**Asunto:**  
-**Estado:**  
-**Status:**  
-**Id Contacto:**  
-**Nombre contacto:**  
-**Organizacion:**  
-**Tipo de Medio:**  
+**Documento:**  parametrización del BDOC [PN].  
+**Número:**  consecutivo parametrizado en BCNS.  
+**Ubicación:**  parametrizacion realizada en BUBI.  
+**Concepto:**  parametrizacion realizada en BDOC.  
+**Motivo:**  parametrizacion del BMOT.  
+**Fecha:**  data de emision del documento al guardar.  
+**Tercero:** parametrizacion del BTER tercero.  
+**Id Responsable:**  codigo del encargado.  
+**Asunto:**  referencia breve del asunto.
+**Estado:**  activo, procesado, anulado.  
+**Status:**  si aplica.  
+**Id Contacto:**  codigo de realcion con el contacto.  
+**Nombre contacto:**  nombre apellido del contacto.  
+**Organizacion:**  se edita el nombre del ente u organización.  
+**Tipo de Medio:**  Parametrizacion del **ABTM.**.  
 **Nombre de tipo de medios:**  
 **Id Campaña:**  
 **Nombre Campaña:**  
