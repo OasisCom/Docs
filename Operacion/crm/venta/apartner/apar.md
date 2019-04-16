@@ -8,8 +8,9 @@ editable: si
 # PARTNERS - APAR
 
 Aplicacion que nos permite editar datos del socio de negocios o alianza; puede ser crucial como estrategia comercial. Las empresas no pueden elegir socios de negocios en la forma que quieran. En muchos casos, el socio potencial no podría estar interesado en formar una relación de negocios. Es importante que ambas partes del acuerdo se complementen entre sí, pero también que haya algunos puntos en común. Por ejemplo, en el estilo de gestión, forma de pensar y también en la tecnología.  
+* Se debe de diligenciar el siguiente formulario:
 
-![](apro1.png)
+![](apar1.png)
 
 **Documento:**  Parametrización del BDOC [PN].  
 **Número:**  Consecutivo parametrizado en BCNS.  
@@ -41,6 +42,15 @@ Aplicacion que nos permite editar datos del socio de negocios o alianza; puede s
 **Fecha requerido:**  dia/mes/año.  
 **Fecha de cierre:**  dia/mes/añño.  
 **Actualizado:**  dia/mes/año.  
+* En el detalle, pestaña **Ejecutado**; se insertan las tareas manuales que se han realizado desde la Actividad **[AACT]**.  
+* En el detalle, pestaña **Tareas**; se documentan las **acciones**  este campo posee zoom de busqueda.  
+
+* Posteriormente se guarda y se procesa el documento segun sea el caso.  
+
+![](apar2.png)
+
+
+
 
 
 
