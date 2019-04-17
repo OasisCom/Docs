@@ -45,3 +45,13 @@ En el **Detalle** se encontrarán los siguientes campos:
 **Año:** Año de registro del documento.  
 **Núm Cheque:** número de cheque.  
 **Libro:** Libro del documento.  
+
+El **KSPP** permite visualizar totales en las columnas 'Anterior', 'Debito', 'Credito' y 'Saldo', con la finalidad de poder consultar los saldos acumulados por proyecto, (verde).  
+Nos permite identificar cuando existen diferencias entre maestro y detalle descuadrando el modulo. (amarillo).  
+
+
+![](kspp3.png)
+
+*****
+
+
