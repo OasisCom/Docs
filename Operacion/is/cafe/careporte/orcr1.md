@@ -14,4 +14,6 @@ El reporte **ORCR1** permite visualizar las compras que se han realizado por cad
 
 Al dar click en el botón consultar.  
 
-![](orcr4.png)
+![](orcr4.png)  
+
+********
