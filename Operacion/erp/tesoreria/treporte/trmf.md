@@ -9,7 +9,7 @@ editable: si
 
 Este reporte **TRMF** permite visualizar las diferentes formas de pago del **BFOR**; como cheques que han sido cambiados por efectivo en las diferentes agencias o ubicaciones parametrizadas en **BUBI** entre otras consultas.  
 
-Se filtra por:  Dateinicial, Datefinal, Numero, Ubicación, Tercero .  
+Se filtra por:  Dateinicial, Datefinal, Documento, Numero, Ubicación, Tercero.  
 
 ![](trmf1.png)  
 
