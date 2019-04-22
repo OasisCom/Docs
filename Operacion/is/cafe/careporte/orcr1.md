@@ -8,7 +8,7 @@ editable: si
 # ORCR1 - Compras por Producto Café
 
 
-El reporte **ORCR1** permite visualizar las compras que se han realizado por cada producto, adiconal muestra el método de compra del producto por medio del campo _Concepto_.  
+El reporte **ORCR1** permite visualizar las compras que se han realizado por cada producto, adicional muestra el método de compra del producto por medio del campo _Concepto_.  
 
 ![](orcr1.png)
 
