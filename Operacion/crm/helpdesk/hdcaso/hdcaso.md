@@ -37,5 +37,8 @@ En el detalle se registran las actividades ejecutadas del caso seleccionado en e
 
 ![](ACAStaskworkflow.png)
 
-En el workflow tanto los ingenieros de soporte como los clientes pueden ejecutar actividades. Los ingenieros ejecutan lo que es registro, análisis, solución y/o cierre de caso. Cuando el cliente requiera hacer seguimiento o una aclaración sobre el caso registrado y que se encuentra activo en el sistema se habilitará la opción **"Aclaración Cliente"** para que allí diligencie lo requerido.
+En el workflow tanto los ingenieros de soporte como los clientes pueden ejecutar actividades. Los ingenieros ejecutan lo que es registro, análisis, solución y/o cierre de caso. Cuando el cliente requiera hacer seguimiento o una aclaración sobre el caso registrado y que se encuentra activo en el sistema se habilitará la opción **"Aclaración Cliente"** para que allí diligencie lo requerido.  
+
+
+*****
 
