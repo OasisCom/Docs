@@ -13,7 +13,9 @@ editable: si
 >###### [Descriptivo Solución OasisCom 2018](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de la Solucion OasisCom2018.pdf)
 >###### [Descriptivo Solución OasisCom 2018_oracle_cloud](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de la Solucion OasisCom2018_oracle.pdf)
 
-
+### Solución OasisCom MRP
+----
+>###### [Descriptivo OasisCom MRP - Produución](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-MRP-oasiscom.pdf)
 ----
 ### OasisCom Puntos de Venta 
 >###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
