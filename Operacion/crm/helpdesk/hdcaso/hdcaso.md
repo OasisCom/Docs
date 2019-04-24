@@ -25,7 +25,7 @@ En el maestro de la aplicación se pueden registrar campos cómo lo son:
 **Id Contacto:** Número de cédula de la persona que realizó el registro del caso.  
 **Nombre contacto:** Persona asociada al campo anterior.  
 **Proyecto:** Si se tiene definido que los casos se asocien a un proyecto especifico, se debe diligenciar el número del proyecto correspondiente.  
-**Status:** El estado en el cual se encuentra el caso, este se va modificando automáticamente de acuerdo a las actividades ejecutadas del caso.  
+**Status:** El status en el cual se encuentra el caso, este se va modificando automáticamente de acuerdo a las actividades ejecutadas del caso.  
 **Producto:** En que producto se ha identificado el caso.  
 **Fecha requerido:** Fecha en la cual se requiere la solución del caso y entrega al cliente.  
 **Falla:** El caso se puede asociar a unas fallas parametrizadas, para posteriormente realizar estadísticas y mejoras para evitar el registro de un caso similar.  
