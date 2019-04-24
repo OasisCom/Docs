@@ -22,7 +22,7 @@ En el maestro de la aplicación se pueden registrar campos cómo lo son:
 **Nombre Tercero:** Nombre de la empresa asociada al campo anterior, este campo no se debe diligenciar dado que se diligencia automáticamente de acuerdo al campo registrado anteriormente.  
 **Asunto:** Título del caso.  
 **Descripción:** Descripción detallada del caso identificado.  
-**Id Contacto:** Número de cédula de la persona que realizó el resgistro del caso.  
+**Id Contacto:** Número de cédula de la persona que realizó el registro del caso.  
 **Nombre contacto:** Persona asociada al campo anterior.  
 **Proyecto:** Si se tiene definido que los casos se asocien a un proyecto especifico, se debe diligenciar el número del proyecto correspondiente.  
 **Status:** El estado en el cual se encuentra el caso, este se va modificando automáticamente de acuerdo a las actividades ejecutadas del caso.  
