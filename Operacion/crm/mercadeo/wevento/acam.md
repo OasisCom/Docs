@@ -7,10 +7,10 @@ editable: si
 
 # CAMPAÑA - ACAM 
 
-Aplicación que nos permite editar datos de las diferentes Campañas comerciales de la organizacion, en ella se guardan datos relevantes segun el tipo de medio, estrategias comerciales que tienen como objetivo dar a conocer el producto o servicios que se busca ofrecer. 
-Esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:
+Aplicación que nos permite editar datos de las diferentes Campañas comerciales de la organizacion, en ella se guardan datos relevantes segun el tipo de medio, estrategias comerciales que tienen como objetivo dar a conocer el producto o servicios que se busca ofrecer, durante un periodo determinado.  
+Esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:  
 
-![](acam1.png)
+![](acam1.png)  
 
 **Documento:**  Parametrización del **BDOC** [CK].  
 **Número:**  Consecutivo parametrizado en **BCNS**.  
