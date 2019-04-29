@@ -21,7 +21,7 @@ Aplicación que nos permite editar datos del socio de negocios o alianza; puede 
 **Fecha:**  Data de emisión del documento al guardar.  
 **Tercero:** Parametrización del **BTER** tercero.  
 **Id Responsable:** Código del encargado.  
-**Asunto:** Referencia breve del asunto.
+**Asunto:** Referencia breve del asunto.  
 **Estado:** Activo, procesado, anulado.  
 **Status:** Si aplica.  
 **Id Contacto:** Código de relación con el contacto.  
