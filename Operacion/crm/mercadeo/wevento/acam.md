@@ -20,8 +20,15 @@ esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:
 **Fecha:**  Data de emisión del documento al guardar.  
 **Asunto:** Referencia breve del asunto.  
 
+
+
+**Inicial:**
+**Final:**
+**Responsable:** Parametrización del **BTER** tercero.  
+**Segmento:** Parametrización del **BCSE** Segmentos comerciales.  
 **Tercero:** Parametrización del **BTER** tercero.  
-**Id Responsable:** Código del encargado.  
+
+
 
 **Estado:** Activo, procesado, anulado.  
 **Status:** Si aplica.  
