@@ -7,7 +7,7 @@ editable: si
 
 # CAMPAÑA - ACAM 
 
-![](apar1.png)
+![](acam1.png)
 
 **Documento:**  Parametrización del **BDOC** [PN].  
 **Número:**  Consecutivo parametrizado en **BCNS**.  
