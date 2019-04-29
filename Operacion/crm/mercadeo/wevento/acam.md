@@ -12,7 +12,7 @@ Esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:
 
 ![](acam1.png)
 
-**Documento:**  Parametrización del **BDOC** [PN].  
+**Documento:**  Parametrización del **BDOC** [CK].  
 **Número:**  Consecutivo parametrizado en **BCNS**.  
 **Ubicación:**  Parametrización realizada en **BUBI**.  
 **Concepto:**  Parametrizacion realizada en **BDOC**.  
