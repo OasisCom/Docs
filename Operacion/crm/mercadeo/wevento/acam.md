@@ -27,8 +27,8 @@ Esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:
 **Tercero:** Parametrización del **BTER** tercero.  
 **Producto:** Parametrización del **BPRO** producto.  
 **Nombre de tipo de medios:**  Parametrización del **ABTM.**.  
-**Proyecto:** Zoom del BPRY.  
-**Negocio:** Zoom del BNEG.  
+**Proyecto:** Zoom del **BPRY**.  
+**Negocio:** Zoom del **BNEG**.  
 **Estado:** Activo, procesado, anulado.  
 **Status:** puede ser: expectativa, fidelizacion, lanzamiento, posicionamiento, reactivacion, social...entre otras .  
 
