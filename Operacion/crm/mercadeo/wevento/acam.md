@@ -30,7 +30,7 @@ Esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:
 **Proyecto:** Zoom del BPRY.  
 **Negocio:** Zoom del BNEG.  
 **Estado:** Activo, procesado, anulado.  
-**Status:** Si aplica.  
+**Status:** puede ser: expectativa, fidelizacion, lanzamiento, posicionamiento, reactivacion, social...entre otras .  
 
 
 ********
