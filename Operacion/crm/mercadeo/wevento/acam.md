@@ -20,23 +20,17 @@ esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:
 **Fecha:**  Data de emisión del documento al guardar.  
 **Asunto:** Referencia breve del asunto.  
 
-
-
-**Inicial:**
-**Final:**
+**Inicial:** Data de emisión del documento al guardar.  
+**Final:** Data final del documento.  
 **Responsable:** Parametrización del **BTER** tercero.  
 **Segmento:** Parametrización del **BCSE** Segmentos comerciales.  
 **Tercero:** Parametrización del **BTER** tercero.  
-
-
-
+**Producto:** Parametrización del **BPRO** producto.  
+**Nombre de tipo de medios:**  Parametrización del **ABTM.**.  
+**Proyecto:** Zoom del BPRY.  
+**Negocio:** Zoom del BNEG.  
 **Estado:** Activo, procesado, anulado.  
 **Status:** Si aplica.  
-**Id Contacto:** Código de relación con el contacto.  
-**Nombre contacto:** Nombre apellido del contacto.  
-**Organización:** Se edita el nombre del ente u organización.  
-**Tipo de Medio:** Parametrización del **ABTM**.  
-**Nombre de tipo de medios:**  Parametrización del **ABTM.**.  
-**Id Campaña:** Parametrización del **ACAM**.  
-**Nombre Campaña:** Parametrización del **ACAM**.  
+
+
 
