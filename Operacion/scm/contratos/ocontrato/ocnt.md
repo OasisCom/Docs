@@ -16,6 +16,16 @@ En la aplicación OCNT se realiza el registro, control y/o consulta de los contr
  Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
  
  ![](ocnt2.png)
+ 
+ * En la pestaña **Prorroga:**  
+
+Pestaña creada para consultar información con respecto a los ajustes realizados sobre los contratos, como cambios, de fecha, valores, etc.   
+
+![](ocnt1.png)  
+
+****
+
+
 
 
 
