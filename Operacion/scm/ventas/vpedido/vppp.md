@@ -12,10 +12,10 @@ Manejo de pedidos **[VPED]** pendientes de despacho por producto o fijaciones **
 
 ![](vppp1.png)
 
-**Documento:** PD de pedido.  
+**Documento:** PD de pedido, Fijacion FJ.  
 **Número:** consecutivo generado automáticamente.  
 **Ubicación:** Número de ubicación de la empresa la cual realiza el documento.  
-**Concepto:** PD de pedido.  
+**Concepto:** PD de pedido o fijacion.  
 **Motivo:** Motivo parametrizado previamente en la aplicación **BMOT**.  
 **Fecha:** Fecha en que se registra el pedido.  
 **Tercero:** Número de identificación del tercero que solicita el pedido.  
