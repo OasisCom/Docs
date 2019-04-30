@@ -7,7 +7,8 @@ editable: si
 
 # Pedidos Pendientes - VPPP
 
-Manejo de pedidos pendientes de despacho por producto, indica la ubicación de recepción del pedido, número del pedido, estado, y productos con sus respectivos precios de venta como la totalización del valor pendiente. Dichos pedidos pueden ser dados por terminados en esta. Esta aplicación es solo de consulta, nos va arrojar todos los pedidos que aún están pendientes y que anteriormente se suministraron en la aplicación **VPED** Pedidos.  
+Manejo de pedidos **[VPED]** pendientes de despacho por producto o fijaciones **[VFIJ]**; indica la ubicación de recepción, número, estado, y productos con sus respectivos precios de venta como la totalización del valor pendiente. Dichos pedidos pueden ser dados por terminados en **[VPPP]**. Esta aplicación es solo de consulta, nos va arrojar todos los pedidos que aún están pendientes y que anteriormente se suministraron en la aplicación **VPED** Pedidos o Fijaciones **[VFIJ]**.  
+
 
 ![](vppp1.png)
 
