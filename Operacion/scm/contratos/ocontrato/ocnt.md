@@ -19,9 +19,14 @@ En la aplicación OCNT se realiza el registro, control y/o consulta de los contr
  
  * En la pestaña **Prorroga:**  
 
-Pestaña creada para consultar información con respecto a los ajustes realizados sobre los contratos, como cambios, de fecha, valores, etc.   
+	Pestaña creada para consultar información con respecto a los ajustes realizados sobre los contratos, como cambios, de 		fecha, valores, etc.   
 
-![](ocnt1.png)  
+   ![](ocnt1.png)  
+
+* En la pestaña **Facturas:**  
+
+	Pestaña creada para control y revisión de la ejecución de los contratos. 
+    ![](ocnt3.png)  
 
 ****
 
