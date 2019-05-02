@@ -58,6 +58,7 @@ En la pestaña Conceptos del detalle, se parametrizan los conceptos por los cual
 **Moneda:** tipo de moneda que maneja el concepto.  
 **Grupo:** grupo al cual está relacionado el concepto.  
 **Contabilidad:** indicar la contabilidad que afectará el concepto, si afecta el libro local escribir L, si afecta la contabilidad IFRS escribir I.  
+**CodeExternal:** códigos adicional para la generación de información posterior.  
 
 Esta opción permite parametrizar los códigos los cuales indicarán el concepto por el cual se debe cargar la cuenta afectada, si a un gasto administrativo, gasto por ventas, si es una cuenta por pagar, de provisión, entre otras.  
 
