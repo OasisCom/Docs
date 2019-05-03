@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Campañas
-permalink: /Operacion/crm/mercadeo/wevento/acam
+permalink: /Operacion/crm/mercadeo/mebasica/acam
 editable: si
 ---
 
