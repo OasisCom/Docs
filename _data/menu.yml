@@ -1205,6 +1205,9 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/crm/mercadeo/mebasica/
+              subitems:
+              - text: Campañas
+                url: /Operacion/crm/mercadeo/mebasica/acam
             - text: Eventos
               url: /Operacion/crm/mercadeo/wevento/
             - text: Comunicaciones
@@ -2300,8 +2303,8 @@
       url: /Mercadeo/video
     - text: Webinar
       url: /Mercadeo/Webinars
-    - text: Whitepapers
-      url: /Mercadeo/whitepapers
+    - text: E-Books
+      url: /Mercadeo/e-books
 - text: Sistema Integrado de Gestión
   url: /Procesos/
 - text: Partners
