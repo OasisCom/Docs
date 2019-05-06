@@ -28,6 +28,8 @@ Permite registrar los descuentos comerciales establecidos con los clientes.
 **Tipo descuento:** seleccionar el tipo de descuento que se va aplicar.  
 **Precio:** precio del producto.  
 **% descuento:** porcentaje de descuento que se va aplicar al producto.  
+**CodeExternal:**  relaciona códigos adicionales para la generación de información posterior.  
+
 
 Desde **FDES** se parametrizan tipos de descuentos, aplica ingresando en el maestro el producto, rango de fecha inicial y final donde en el detalle inserta el tope en cantidad y el precio que debe de aplicar para facturas en: JFAC, FFAC y VPED.
 
