@@ -42,8 +42,7 @@ editable: si
 
 ---
 ### OasisCom sistema para Inventario
->###### [Descriptivo OasisCom para Sistemas de Inventario](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-para-inventarios.pdf)
->###### [Descriptivo OasisCom para logística (WMS)](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo_OasisCom_sistema-WMS-.pdf)
+>###### [Descriptivo OasisCom para logística](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-LOGISTICA.pdf)
 
 
 ### OasisCom CRM
