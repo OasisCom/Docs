@@ -64,7 +64,7 @@ En el detalle permite llevar el registro de los siguientes campos.
 
 ![](ofac17.png)
 
-
+*****
 * En la pestaña **Presupuesto:**  
  Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
  Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
