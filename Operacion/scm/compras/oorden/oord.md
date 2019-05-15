@@ -64,7 +64,7 @@ En la sección maestro de la aplicación, permite realizar el registro y control
 
 
 
-en el detalle del **OORD**, se relaciona la descripción de los productos requeridos por la empresa y se están solicitando al proveedor.  
+En el detalle del **OORD**, se relaciona la descripción de los productos requeridos por la empresa y se están solicitando al proveedor.  
 
 
 
