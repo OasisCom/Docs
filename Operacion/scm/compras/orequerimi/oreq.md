@@ -38,6 +38,7 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
 •	**Descuento:** Porcentaje de descuento comercial acordado.  
 •	**Inventario:** Cantidad de unidades del producto que hay en inventario.  
 •	**Requerida:** Cantidad requerida del producto.  
+*	**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY].**  
 
 * En la pestaña **Presupuesto:**  
  Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
