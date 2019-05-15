@@ -78,6 +78,7 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos y que es ingresado en la entrada de producción (Si Aplica).  
 **Remisión:** Número de la remisión (documento de salida del inventario en la bodega) El sistema permite incluir en una misma factura varias remisiones, para ello el cliente en **BTER** (Aplicación de registro de terceros) debe estar deshabilitado el indicador de factura por Remisión.  
 **Pedido:** Compuesto por dos campos donde indica la ubicación y número del pedido que origino la transacción.  
+**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
 
 Al final del detalle se totaliza las cantidades y valor bruto de los productos facturados, estos valores son calculados a medida que se incluyen nuevos renglones o productos.
 

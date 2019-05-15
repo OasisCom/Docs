@@ -31,7 +31,13 @@ Permite registrar los diferentes proyectos en los que trabajará la empresa.
 **Observación:** hacer una descripción de lo que se realizará en el proyecto.  
 **Status:** Seleccionar el status en el que se encuentra el proyecto: _Activo, Planeado, Ejecutado, Congelado, Terminado._  
 **Avance:** indicar el porcentaje de avance en el que se encuentra el proyecto.  
-**Estado:** Los proyectos que se inactiven deben quedar bloqueados para realizar créditos (solicitudes); en el modulo de cartera, los créditos que ya están otorgados por dicho proyecto se mantiene el estado. Este aplica para facturas **FFAC**  y movimientos de tesoreria **TMOV**.
+**Estado:** Los proyectos que se inactiven deben quedar bloqueados para realizar créditos (solicitudes); en el modulo de cartera, los créditos que ya están otorgados por dicho proyecto se mantiene el estado. Este aplica para facturas **FFAC**  y movimientos de tesoreria **TMOV**.  
+**Ubicación Geografica:** Dato que se parametriza en **BUBG** este campo posee zoom de busqueda.  
+
+
+
+
+****
 
 
 
