@@ -53,7 +53,7 @@ En el detalle se muestra la contabilización de cada documento, esta contabiliza
 **Negocio:** Identificación numérica del negocio.  
 **Projectld:** Identificación numérica del proyecto.  
 **DocDocumento:** Especificación del documento al cual va afectar o cruzar, este campo posee zoom, debe de dar doble clic y emite los documentos a seleccional, como se ilustra.  
-![](TMOV13.png)
+![](TMOV13.png)  
 
 **DocNumberld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
 **DocLocationld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
