@@ -59,8 +59,8 @@ En el detalle permite llevar el registro de los siguientes campos.
 **Moneda:** Moneda en la cual se genera la factura de compra.  
 **Observación:** Con respecto a la factura de compra.  
 **Valores:** La tabla de valores muestra los estados por los que pasa el valor del producto desde su valor inicial pasando por descuentos, aplicación de impuestos hasta su valor real o final después de todos los ajustes necesarios hechos en la factura.  
-**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.
-**AmortizePeriods:** numero de periodos donde se registran meses a amortizar el producto. ejemplo:
+**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
+**AmortizePeriods:** numero de periodos donde se registran meses a amortizar el producto. ejemplo:  
 
 ![](ofac17.png)
 
