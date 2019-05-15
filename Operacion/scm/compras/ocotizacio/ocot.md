@@ -46,7 +46,8 @@ En el detalle de los productos y cantidades que se van a cotizar, desde su preci
 •	**% Descuento:** Porcentaje de descuento por producto.  
 •	**Total:** Valor total de cada producto.  
 •	**Unidad Medida:** Unidad de medida de cada producto.  
-*   **Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
+•	**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
+
 
 *********
 * En la pestaña **Presupuesto:**  
