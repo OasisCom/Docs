@@ -20,7 +20,7 @@ editable: si
 ##### [Versión 19](http://mailchi.mp/65c69eefe74f/versin-oasiscom-40317-prueba03-todos-los-links-1318077)
 ##### [Versión 20](http://mailchi.mp/65c69eefe74f/versin-oasiscom-40317-prueba03-todos-los-links-1318077)
 ##### [Versión 21](http://mailchi.mp/c76eef6e1369/versin-oasiscom-40317-prueba03-todos-los-links-1318081)
-##### [Versión 22](http://mailchi.mp/5a1bfb9c57e8/version-oasiscom-22).
+##### [Versión 22](http://mailchi.mp/5a1bfb9c57e8/version-oasiscom-22)
 ##### [Versión 23](http://mailchi.mp/7cf713553396/version-oasiscom-1318141)
 ##### [Versión 24](http://mailchi.mp/9faeedc3e99e/version-oasiscom-1318173)
 ##### [Versión 25](http://mailchi.mp/06c5ff4d0619/version-oasiscom-1318221)
@@ -49,7 +49,9 @@ editable: si
 ##### [Versiones OasisCom  4.03.82](https://mailchi.mp/35ab6214ac6b/plan-empower-versin-400378-oasiscom-321231)
 ##### [Versiones OasisCom  4.03.83 - 4.03.84](https://mailchi.mp/04e3c97338a3/plan-empower-versin-400378-oasiscom-331671)
 ##### [Conoce el botón de Pagos en línea OasisCom](https://mailchi.mp/ae6000c26bad/en-oasiscom-pensamos-en-t-botn-de-pagos-en-lnea-338823)
-##### [Versiones OasisCom  4.03.85](https://mailchi.mp/1d6da5e4664a/plan-empower-versin-400378-oasiscom-342331)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+##### [Versiones OasisCom  4.03.85](https://mailchi.mp/1d6da5e4664a/plan-empower-versin-400378-oasiscom-342331)
+##### [Versiones OasisCom  4.03.86 - 4.03.87](https://mailchi.mp/37a317cb8675/plan-empower-versin-400378-oasiscom-357167)
+##### [Versiones OasisCom  4.03.88](https://mailchi.mp/eb653401b634/plan-empower-versin-400378-oasiscom-359471)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
 
 
