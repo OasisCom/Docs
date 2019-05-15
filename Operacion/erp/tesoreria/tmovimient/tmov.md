@@ -52,7 +52,7 @@ En el detalle se muestra la contabilización de cada documento, esta contabiliza
 **Centro Costo:** Identificación del centro de costo al cual pertenece la cuenta.  
 **Negocio:** Identificación numérica del negocio.  
 **Projectld:** Identificación numérica del proyecto.  
-**DocDocumento:** Especificación del documento al cual va afectar o cruzar, este campo posee zoom, debe de dar doble clic y emite los documentos a seleccional, como se ilustra.  
+**DocDocumento:** Especificación del documento que va a afectar o cruzar, este campo posee zoom; debe dar doble clic y emite los documentos a seleccionar como se ilustra; el sistema realiza la sumatoria de los documentos. (previa parametrizacion **SPRO** para que realice la suma).  
 ![](TMOV13.png)  
 
 **DocNumberld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
