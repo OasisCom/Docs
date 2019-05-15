@@ -56,7 +56,7 @@ En el detalle se muestra la contabilización de cada documento, esta contabiliza
 ![](TMOV13.png)  
 
 **DocNumberld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
-**DocLocationld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
+**DocLocationld:** Este campo, registrando el DocDocumento este campo se diligencia automáticamente.  
 **Base retención:** Valor al cual se le debe liquidar la retención que se le aplica de acuerdo al concepto.  
 
 
