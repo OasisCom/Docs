@@ -10,7 +10,7 @@ editable: si
 ### Solución OasisCom  
 
 
->###### [Descriptivo Solución OasisCom](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-solucion-erp-oasiscom.pdf)
+>###### [Descriptivo ERP OasisCom](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-solucion-erp-oasiscom.pdf)
 
 ### Solución OasisCom MRP
 ----
