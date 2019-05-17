@@ -17,7 +17,7 @@ editable: si
 >###### [Descriptivo OasisCom MRP - Produción](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-MRP-oasiscom.pdf)
 ----
 ### OasisCom Puntos de Venta 
->###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo OasisCom POS .pdf)
+>###### [Descriptivo OasisCom POS](http://docs.oasiscom.com/Mercadeo/Descriptivo/Descriptivo-POS.pdf)
 >###### [Descriptivo OasisCom Restaurante](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-OasisCom_restaurante.pdf)
 ---
 
