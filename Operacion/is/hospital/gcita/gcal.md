@@ -110,7 +110,7 @@ Se ejecuta el botón **Copago**, permitiendo que cuando el status de un registro
 
 ![](gcal27.png)
 
-Al ejecutar el boton **Copago** desplega una ventana donde editara el **Valor** a pagar y el numero de la **autorizacion** y el proceso finaliza al guardar, donde se emite la factura.   
+Al ejecutar el boton **Copago** desplega una ventana, donde editara el **Valor** a pagar y el numero de la **autorizacion** y el proceso finaliza al guardar, donde se emite la factura.   
 
 ![](gcal28.png)
 
