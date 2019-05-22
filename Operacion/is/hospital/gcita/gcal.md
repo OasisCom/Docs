@@ -87,7 +87,7 @@ El último botón ![](gcal13.png) (Cancelar_Cita) cumple la función de reversar
 ![](gcal15.png)
 
 ### [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
-* Opcion-1.
+* Opcion-1.  
 El botón **Pagar Cita** ![](gcal18.png), permite que cuando el status de un registro sea _PACIENTE EN SALA_, se pueda realizar el pago de la cita (cuota moderadora). Se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_ con el producto asociado a la cita parametrizado en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
 
 
@@ -103,13 +103,14 @@ En GFAC
 
 La factura estará lista para ser validada, procesada y pagada.  
 
-* Opcion-2.
+* Opcion-2.  
 
-El botón **Copago**, permite que cuando el status de un registro sea _PACIENTE EN SALA_, se pueda realizar el pago de la cita (cuota moderadora). Se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_ con el producto asociado a la cita, parametrizado en la aplicación.  
+Este proceso aplica cuando el evento es COPAGO.  
+Se ejecuta el botón **Copago**, permitiendo que cuando el status de un registro sea _PACIENTE EN SALA_, se pueda realizar el pago de la cita (cuota moderadora). Se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_ con el producto asociado a la cita, parametrizado en la aplicación.  
 
 ![](gcal27.png)
 
-Al ejecutar el boton **Copago** desplega una ventana donde editara el **Valor** a pagar y el numero de la **autorizacion  ** y el proceso finaliza al guardar, donde se emite la factura.  
+Al ejecutar el boton **Copago** desplega una ventana donde editara el **Valor** a pagar y el numero de la **autorizacion** y el proceso finaliza al guardar, donde se emite la factura.   
 
 ![](gcal28.png)
 
