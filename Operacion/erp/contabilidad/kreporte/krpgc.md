@@ -22,7 +22,9 @@ También se llama estado de ingresos y egresos, estado de resultados, estado de 
 **Y_Anterior:** Año anterior, que se desea comparar.  
 * Ingresar periodo, año y click en consultar.   
 
-![](KRGP2.png)
+![](krpgc4.png)  
+
+
 
 
 
