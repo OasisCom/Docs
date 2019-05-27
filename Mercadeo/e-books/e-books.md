@@ -20,12 +20,12 @@ Encuentra aquí todos nuestros E-Books descargables:
 ---
 ### Sector Salud
 
->###### [E-Book: El impacto de un Software ERP en un centro asistencial](http://docs.oasiscom.com/Mercadeo/fichas/EBook-Salud-El-impacto-de-un-software-Erp-en-un-centro-asistencial.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
-
+>###### [E-Book: El impacto de un Software ERP en un centro asistencial](http://docs.oasiscom.com/Mercadeo/fichas/EBook-Salud-El-impacto-de-un-software-Erp-en-un-centro-asistencial.pdf)
 ---
 ### Sistema para Inventario- Logística
 
->###### [E-Book: Manufactura Esbelta](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-MANUFACTURA-ESBELTA-MRP.pdf)
+>###### [E-Book: Manufactura Esbelta](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-MANUFACTURA-ESBELTA-MRP.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
 
 >###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/fichas/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor.pdf)
 
