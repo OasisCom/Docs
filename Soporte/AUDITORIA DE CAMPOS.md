@@ -1,11 +1,11 @@
 ---
 layout: default
-title: MANUAL DE AUDITORIA DE CAMPOS
-permalink: /Soporte/auditoria
+title: AUDITORIA DE CAMPOS
+permalink: /Soporte/AUDITORIA
 editable: si
 ---
 
-# MANUAL DE AUDITORIA DE CAMPOS
+# AUDITORIA DE CAMPOS
 
 Para auditar determinados campos de las aplicaciones de OasisCom se debe realizar la siguiente parametrización:  
 
@@ -34,6 +34,10 @@ Tener en cuenta que cada vez que se parametrice un nuevo campo en el SACO se deb
 4.	SAUC (Auditoria Campo): Aquí se puede ver el resultado de la auditoria de campos. En el campo Tipo se puede ver si la operación fue de Inserción (I) o Actualización (U), el campo FieldKey muestra los campos que son llave Primaria de la tabla, el campo DataKey muestra los datos que son llave primaria, el campo ColumnId muestra el nombre del campo que fue auditado, el campo ValueAnterior muestra el dato anterior que tenía el campo antes de ser actualizado, el campo ValueNuevo muestra el dato nuevo por el que el campo fue actualizado y se muestra que usuario con el Id y el nombre fue quien modificó el campo:  
 
 ![](auditoria5.png)  
+
+
+
+***********
 
 
 
