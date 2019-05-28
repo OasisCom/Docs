@@ -25,3 +25,7 @@ Este informe detalla el costo de venta unitario y total; discrimina el valor del
 ![](frcv12.png)
 
 
+***********
+
+
+
