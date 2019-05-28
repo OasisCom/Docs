@@ -125,6 +125,14 @@ Al trasladarnos a la pestaña _**Pago**_, veremos un renglón con la condición 
 
 ![](ocaf6.png)
 
+Cuando el pago se efectua con **Cedula Cafetera**, esta forma de pago se parametriza desde el **BFOR**.  
+
+![](ocaf21.png)
+
+En el momento de procesar el registro el sistema valida toda la parametrización que se ha mostrado previamente y muestra una ventana para suministrar un token que se utiliza en la comunicación con el servicio.  
+
+
+Si el pago se realiza con pago **diferente** a cedula cafetera se procede asi:  
 Finalmente, procesamos la factura dando click en el botón _Procesar_![](procesar.png) ubicado en la barra de herramientas del maestro y revisamos la pestaña del detalle _Contabilización_ para ver las cuentas contables afectadas.  
 
 ![](ocaf7.png)
