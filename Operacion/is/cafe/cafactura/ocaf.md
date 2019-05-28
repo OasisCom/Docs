@@ -123,15 +123,15 @@ Diligenciado el formulario, damos click en el botón _Guardar_ y la aplicación 
 
 Al trasladarnos a la pestaña _**Pago**_, veremos un renglón con la condición de pago definida en el maestro de la aplicación, se permite adicionar otra condición de pago a la misma compra siempre y cuando el documento se encuentre en estado _Activo_.  
 
-![](ocaf6.png)
+![](ocaf6.png)  
 
 Cuando el pago se efectua con **Cedula Cafetera**, esta forma de pago se parametriza desde el **BFOR**.  
 
-![](ocaf21.png)
+![](ocaf21.png)  
 
 En el momento de procesar el registro el sistema valida toda la parametrización que se ha mostrado previamente y muestra una ventana para suministrar un **token** que se utiliza en la comunicación con el servicio.  
 
-![](ocaf22.png)
+![](ocaf22.png)  
 
 Al dar clic en el botón "Aceptar" la aplicación intentará conectarse con el sistema de cédula cafetera.  Intregacion realizada al webservice del Banco Bogota configuarcion PSE.  
 NOTA: Cuando la comunicación con el banco está activa, la compra de café debe ser exitosa, de lo contrario el registro no debe ser procesado.  
@@ -141,14 +141,14 @@ NOTA: Cuando la comunicación con el banco está activa, la compra de café debe
 Si el pago se realiza con pago **diferente** a cedula cafetera se procede asi:  
 Finalmente, procesamos la factura dando click en el botón _Procesar_![](procesar.png) ubicado en la barra de herramientas del maestro y revisamos la pestaña del detalle _Contabilización_ para ver las cuentas contables afectadas.  
 
-![](ocaf7.png)
+![](ocaf7.png)  
 
 Para acceder a la vista previa del documento, damos click en el botón _Imprimir_ ![](impresion.png) ubicado en la barra de herramientas, el cual nos permitirá ver el documento e imprimirlo.  
 
 ![](ocaf8.png)  
 
 
-![](ocaf9.png)
+![](ocaf9.png)  
 
 ## [Compra de Café por Factor Húmedo](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor-húmedo)
 
