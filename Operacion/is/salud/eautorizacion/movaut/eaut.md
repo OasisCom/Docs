@@ -27,7 +27,7 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Fecha Acta Tutela:** si aplica.  
 **Doc Medico:** documento del tratante.  
 **Medico:**  nombres.  
-**Especialidad:**  del servicio.  
+**Especialidad:**  del servicio parametrizado en BBES.  
 **Cuenta:**  
 **Fuente:**  
 **Fecha Factura**  campo tipo consulta, no editable.  
