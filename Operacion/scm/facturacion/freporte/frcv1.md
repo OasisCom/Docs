@@ -12,7 +12,7 @@ filtros de consulta:
 
 ![](frcv11.png)  
 
-este informe detalla el costo de venta unitario y total; discrimina el valor del IVA, descuentos realizados; porcentajes de rentabilidad, utilidad, margen entre otros.  
+Este informe detalla el costo de venta unitario y total; discrimina el valor del IVA, descuentos realizados; porcentajes de rentabilidad, utilidad, margen entre otros.  
 
 * Periodo: mes de la consulta.  
 * Año: año que desea extraer los datos.  
