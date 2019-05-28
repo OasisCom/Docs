@@ -134,7 +134,7 @@ En el momento de procesar el registro el sistema valida toda la parametrización
 ![](ocaf22.png)
 
 Al dar clic en el botón "Aceptar" la aplicación intentará conectarse con el sistema de cédula cafetera.  Intregacion realizada al webservice del Banco Bogota configuarcion PSE.  
-
+NOTA: Cuando la comunicación con el banco está activa, la compra de café debe ser exitosa, de lo contrario el registro no debe ser procesado.  
 
 
 *****
