@@ -9,7 +9,7 @@ editable: si
 
 ## Autorizaciones - EAUT
 
-La aplicación **EAUT** permite llevar a cabo el registro de Autorizaciones, el seguimiento correspondientes al proceso. 
+La aplicación **EAUT** permite llevar a cabo el registro de Autorizaciones de salud y el seguimiento correspondientes al proceso.  
 
 
 #### **Registro**
