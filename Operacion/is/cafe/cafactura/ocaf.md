@@ -138,7 +138,7 @@ NOTA: Cuando la comunicación con el banco está activa, la compra de café debe
 
 
 *****
-Si el pago se realiza con **BFOR** **diferente** a cedula cafetera se procede asi:  
+Si el pago se realiza con **BFOR**(forma pago) **diferente** a cedula cafetera se procede asi:  
 Confirmar la factura dando click en el botón _Procesar_![](procesar.png) ubicado en la barra de herramientas del maestro y revisamos la pestaña del detalle _Contabilización_ para ver las cuentas contables afectadas.  
 
 ![](ocaf7.png)  
