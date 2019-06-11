@@ -30,8 +30,8 @@ Aplicación que permite elaborar facturas o devoluciones que se realicen en el p
 **Vendedor:** Número de identificación de la persona que se encuentra facturando.  
 **Condición de Pago:** Representa un acuerdo establecido con clientes y proveedores en forma de tipos de descuento y plazos de pago, las diferentes opciones de condición de pago se encentran parametrizadas en la opción BCND.  
 **Tipo de precio:** Precio debidamente parametrizado en la aplicación FBTP.  
-**Periodo:** este campo se llena automaticamente, al insertar el registro.  
-**Año:** campo que se llena automaticamente, al insertar el registro.   
+**Periodo:** Este campo se llena automaticamente, al insertar el registro.  
+**Año:** Campo que se llena automaticamente, al insertar el registro.   
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.   
 
 En este se encuentran parametrizados dos tipos de Zooms que se visualizan al dar clic derecho. El primero es buscar cliente y el segundo crear tercero.  
