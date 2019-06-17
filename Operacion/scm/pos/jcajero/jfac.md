@@ -30,15 +30,17 @@ Aplicación que permite elaborar facturas o devoluciones que se realicen en el p
 **Vendedor:** Número de identificación de la persona que se encuentra facturando.  
 **Condición de Pago:** Representa un acuerdo establecido con clientes y proveedores en forma de tipos de descuento y plazos de pago, las diferentes opciones de condición de pago se encentran parametrizadas en la opción BCND.  
 **Tipo de precio:** Precio debidamente parametrizado en la aplicación FBTP.  
-**Tercero:** Número de identificación del tercero al cual se carga el movimiento.  
+**Periodo:** Este campo se llena automaticamente, al insertar el registro.  
+**Año:** Campo que se llena automaticamente, al insertar el registro.   
+**Tercero:** Número de identificación del tercero al cual se carga el movimiento.   
 
 En este se encuentran parametrizados dos tipos de Zooms que se visualizan al dar clic derecho. El primero es buscar cliente y el segundo crear tercero.  
 
 El zoom _**“buscar cliente”**_ que realiza la búsqueda de clientes para la selección de estos Cuando se despliega la ventana emergente Zoom, encontramos diferentes campos por los que podemos realizar el filtro, ejemplo en el campo tercero podemos buscar la cédula o el número de identificación del cliente o en el nombre tercero podemos poner el nombre del cliente, o su apellido para encontrarlo.  
 
-![](jfac3.png)
+![](jfac3.png)  
 
-![](jfac4.png)
+![](jfac4.png)  
 
 Cómo podemos ver, al hacer clic en el nombre del cliente y dar aceptar el sistema trae automáticamente el nombre del tercero.  
 
