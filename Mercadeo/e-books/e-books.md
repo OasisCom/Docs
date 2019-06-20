@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Whitepape
+title: E-Books
 permalink: /Mercadeo/e-books
 editable: si
 ---
@@ -25,7 +25,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 ---
 ### Sector Manufactura 
 
->###### [E-Book: Procesos de manufactura esbelta desde la nube](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-MANUFACTURA-ESBELTA-MRP.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [E-Book: Procesos de manufactura esbelta desde la nube](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-MANUFACTURA-ESBELTA-MRP.pdf)
 
 ---
 ### Sistema para Inventario- Logística
