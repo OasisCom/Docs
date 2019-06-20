@@ -37,6 +37,10 @@ Encuentra aquí todos nuestros E-Books descargables:
 >###### [Preguntas Frecuentes POS](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas_frecuentes_OasisCom-_POS.pdf)  
 
 ---
+### Factura Electrónica
+>###### [Preguntas frecuentes Factura Electrónica - Validación Previa](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-factura-electronica-validacion-previa.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 
+
+---
 ### Otros
 
 ###### [Presentación de Marketing Digital de Oscar Auza  (descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/MARKETING DIGITAL.PDF)
