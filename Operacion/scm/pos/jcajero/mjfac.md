@@ -188,11 +188,43 @@ El sistema ejecutará el zoom que se describe con los campos a modificar:
 * Tipo de precio: informacion que se parametriza en **FBTP**.  
 * Condiciones de pago: parametrizacion realizada en **BCND**.  
 
-La aplicación **MJFAC** tiene la funcionabilidad de realizar cruces, desde la "pestaña" pagos editando los campos: documento, numero, ubicación, cliente.
-ejemplo:
+La aplicación **MJFAC** tiene la funcionabilidad de realizar cruces, desde la "pestaña" pagos editando los campos: documento, numero, ubicación, cliente.  
+ejemplo:  
 Cuando damos en el boton de guardar, nos agregara el pago al detalle.  
 
 ![](mjfac42.png)  
+Se ha agregado al detalle de pago, el ítem de Pruebas Funcionales, en donde se habilita el nuevo botón.  
+Cuando damos clic en este botón, vemos que se abrirá una nueva ventana, para poder modificar este pago.  
+
+![](mjfac43.png)  
+
+En esta ventana podemos realizar filtros sobre los datos mostrados. En esta sección vemos los documentos cruzados sobre este pago.  
+
+![](mjfac44.png)  
+
+Una vez seleccionado un documento, este se agregará al recuadro izquierdo, donde podremos modificar el valor si es superior al deseado.  
+Cuando se agrega el documento, este ajusta el tema de la diferencia a pagar, también ajusta internamente algunos valores sobre los campos de DocDocuemId, DocNumberId, DocLocationId, DocQuotaId.  
+
+![](mjfac45.png)  
+
+Cuando se intenta agregar el registro, el sistema mostrara una alerta indicando que ya se ha agregado, previamente.  
+
+![](mjfac46.png)  
+
+También tememos el botón de cambio de tercero sobre el pago, para ello damos clic en el botón del Lápiz, donde nos mostrara una tabla donde podremos filtrar para buscar el tercero que queremos agregar al pago.  Si no deseamos agregar ningún tercero, solo damos en el botón naranja.  
+
+![](mjfac47.png)  
+
+Si seleccionamos un tercero, este nos mostrara un mensaje el cual nos indicara que se agregó correctamente el tercero al pago.  
+
+![](mjfac48.png)  
+
+
+
+
+
+
+
 
 
 
