@@ -32,7 +32,7 @@ Pedidos de Producción **[LPED]** vs Movimientos de Inventario **[IMOV]** para s
 
 **Documento:** dia, mes año del pedido de produccion.  
 
-**Numero:** dia, mes año del pedido.  
+**Numero:** consecutivo del pedido de produccion.  
 
 **Fecha:** dia, mes año.  
 
