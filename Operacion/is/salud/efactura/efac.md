@@ -14,21 +14,21 @@ El segundo escenario cuando es mayor a 30.000 se crea un documento **FD** (NOTA 
 
 ![](efac1.png)  
 
-**Documento:**
-**Numero:**
-**Ubicacion:**
-**Concepto:**
-**motivo:**
-**Fecha:**
-**Estado:**
-**Status:**
-**Documento1:**
-**Numero1:**
-**Ubicacion1:**
-**Tercero:**
-**Facturas Char:**
-**Periodo:**
-**Año:**
+**Documento:** desde el BDOC basico de documento se realiza la parametrizacion.  
+**Numero:** consecutivo automatico del BCNS.  
+**Ubicacion:** parametrizacion creada en basico de ubicaciones.  
+**Concepto:** desde el BDOC basico de documento se realiza la parametrizacion.  
+**motivo:** parametrizacion del BMOT.  
+**Fecha:** se inserta automaticamente al crear el documento o fecha del archivo plano.  
+**Estado:** activo, procesado anulado segun correspanda.  
+**Status:** desde el BDOC pestaña status se parametriza ejemplo: preradicada, no procede, avalada, avalada glosa, concurrencia, radicada, devuelta, enviada auditoria, entre otras.  
+**Documento1:** documento asociado factura.  
+**Numero1:** documento asociado factura.  
+**Ubicacion1:** documento asociado factura.  
+**Tercero:** IPS a quien se factura.  
+**Facturas Char:** control interno alfanumerico.  
+**Periodo:** mes del documemento.  
+**Año:** año de realizacion de la factura.  
 
 
 
