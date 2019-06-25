@@ -219,17 +219,9 @@ Si seleccionamos un tercero, este nos mostrara un mensaje el cual nos indicara q
 
 ![](mjfac48.png)  
 
+Una vez nos devolvemos a la ventana de Formas de Pago, este nos muestra la diferencia que nos hace falta pagar.  
 
-
-
-
-
-
-
-
-
-
-
+![](mjfac49.png)  
 
 
 
