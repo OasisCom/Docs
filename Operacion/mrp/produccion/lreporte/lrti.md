@@ -12,11 +12,11 @@ Pedidos de Producción **[LPED]** vs Movimientos de Inventario **[IMOV]** para s
 
 ![](lrti22.png)
 
-**Fecha:** fechas del documento.  
+**Fecha:** dia, mes año del documento.  
 
 **Documento:** tipo de documento de Programa de Producción.  
 
-**Numero:** código del documento.  
+**Numero:** cónsecutivo del documento.  
 
 **Ubicación:** parametrización del básico de ubicaciones.  
 
