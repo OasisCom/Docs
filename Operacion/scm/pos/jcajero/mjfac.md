@@ -188,6 +188,19 @@ El sistema ejecutará el zoom que se describe con los campos a modificar:
 * Tipo de precio: informacion que se parametriza en **FBTP**.  
 * Condiciones de pago: parametrizacion realizada en **BCND**.  
 
+La aplicación **MJFAC** tiene la funcionabilidad de realizar cruces, desde la "pestaña" pagos editando los campos: documento, numero, ubicación, cliente.
+ejemplo:
+Cuando damos en el boton de guardar, nos agregara el pago al detalle.  
+
+![](mjfac42.png)  
+
+
+
+
+
+
+
+
 ****************
 * Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
 
