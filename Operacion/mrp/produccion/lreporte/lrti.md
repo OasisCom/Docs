@@ -12,37 +12,38 @@ Pedidos de Producción **[LPED]** vs Movimientos de Inventario **[IMOV]** para s
 
 ![](lrti22.png)
 
-**Fecha:** dia, mes año del documento.  
+**Fecha:** día, mes año del documento.  
 
 **Documento:** tipo de documento de Programa de Producción.  
 
-**Numero:** cónsecutivo del documento.  
+**Numero:** consecutivo del documento.  
 
 **Ubicación:** parametrización del básico de ubicaciones.  
 
-**Nombre Tercero:** a quien se ha realizado el pedido de produccion.  
+**Nombre Tercero:** a quien se ha realizado el pedido de producción.  
 
-**Documento1:** pedidos de stock parametrizacion del BDOC.  
+**Documento1:** pedidos de stock parametrización del BDOC.  
 
 **Numero1:** consecutivo del documento PW.  
 
-**Fecha Vped:** dia, mes año del pedido.  
+**Fecha Vped:** día, mes año del pedido.  
 
-**Fecha max. entrega:** rango maximo dia, mes año del pedido.  
+**Fecha Max. entrega:** rango máximo día, mes año del pedido.  
 
-**Documento:** dia, mes año del pedido de produccion.  
+**Documento:** día, mes año del pedido de producción.  
 
-**Numero:** consecutivo del pedido de produccion.  
+**Numero:** consecutivo del pedido de producción.  
 
-**Fecha:** dia, mes año.  
+**Fecha:** día, mes año.  
 
-**Nombre Tercero:** a quien se ha realizado el pedido de produccion.  
+**Nombre Tercero:** a quien se ha realizado el pedido de producción.  
 
 **Documento:** tipo de documento del movimiento de inventarios.  
 
-**Concepto:** parametrizacion del BDOC segun el movimiento de inventario.  
+**Concepto:** parametrización del BDOC según el movimiento de inventario.  
 
-**Fecha:** dia, mes año del movimiento de inventario en IMOV.  
+**Fecha:** día, mes año del movimiento de inventario en IMOV.  
+
 
 
 
