@@ -7,13 +7,13 @@ editable: si
 
 # Turnos - JTUR
 
-Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno [JTUR].  
+Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno **[JTUR]**.  
 
 ![](jtur1.png)  
 
-**Documento:** Documento parametrizado con anterioridad en el sistema.  
+**Documento:** parametrizado desde el **[BDOC].**  
 **Número:** Consecutivo de documento automático.  
-**Ubicación:** Ubicación de punto de venta.  
+**Ubicación:** Ubicación de punto de venta - **[BUBI]**.  
 **Fecha:** Fecha de registro de la factura.  
 **Concepto:** Éste se debe parametrizar en basico de documentos **[BDOC]**.  
 **Motivo:**  Este se encuentra definido como CERO y se realiza en el **[BMOT]**.  
