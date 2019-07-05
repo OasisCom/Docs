@@ -28,8 +28,11 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 **Año:** Campo que se llena automaticamente, al insertar el registro.   
 
 
+En el detalle del turno se visualizan las transacciones realizados según sea la cantidad de facturas o notas del punto de venta.  
 
-Desde el Basico de documentos **[BDOC]** se parametrizan los: Abonos, sobrantes, faltantes etc. Que podrán ser editados en el detalle del turno **[JTUR]**.  
+
+
+Desde el basico de documentos **[BDOC]** se parametrizan los: Abonos, sobrantes, faltantes etc. Que podrán ser editados en el detalle del turno **[JTUR]**.  
 
 
 Para revisar cuanto facturó el cajero en su turno, ingresamos a revisar el turno en la aplicación [JTUR] - Turnos, nos dirigimos al menú y seleccionamos la opción.  
@@ -42,14 +45,10 @@ La forma correcta de confirmar o procesar un turno es realizar la equivalencia e
 
 
 
-Existe un formato tipo tirilla. Desde el detalle del Turno (JTUR) para el caso donde el cliente realiza abonos o pagos parciales, estos podrán ser impresos con el botón "imprimir colilla" tipo recibo de caja.  
+* Existe un formato tipo tirilla. Desde el detalle del Turno **(JTUR)** para el caso donde el cliente realiza abonos o pagos parciales, estos podrán ser impresos con el botón "imprimir colilla" tipo recibo de caja.  
 
 
-
-
-
-
-![](jfac2.png)
+![](jtur2.png)
 
 
 
