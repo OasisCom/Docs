@@ -50,5 +50,7 @@ La forma correcta de confirmar o procesar un turno es realizar la equivalencia e
 
 ![](jtur2.png)
 
+*****
+
 
 
