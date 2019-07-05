@@ -28,9 +28,9 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 **Año:** Campo que se llena automaticamente, al insertar el registro.   
 
 
-En el detalle del turno se visualizan las transacciones realizados según sea la cantidad de facturas o notas del punto de venta.  
+* En el detalle del turno se visualizan las transacciones realizados según sea la cantidad de facturas o notas del punto de venta.  
 
-
+![](jtur3.png)  
 
 Desde el basico de documentos **[BDOC]** se parametrizan los: Abonos, sobrantes, faltantes etc. Que podrán ser editados en el detalle del turno **[JTUR]**.  
 
