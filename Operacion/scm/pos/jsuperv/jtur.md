@@ -11,12 +11,12 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 
 ![](jtur1.png)  
 
-**Documento:** Documento parametrizado con anterioridad en el sistema. Este documento puede ser FA (Factura) o DE (Devolución).  
+**Documento:** Documento parametrizado con anterioridad en el sistema.  
 **Número:** Consecutivo de documento automático.  
 **Ubicación:** Ubicación de punto de venta.  
 **Fecha:** Fecha de registro de la factura.  
-**Concepto:** Iniciales del concepto por el cual se desea realizar el documento Éste se debe parametrizar previamente en el sistema, en este caso el concepto puede ser FA (Factura) o DE (Devolución).  
-**Motivo:**  Este se encuentra definido como 0.  
+**Concepto:** Éste se debe parametrizar en basico de documentos **[BDOC]**
+**Motivo:**  Este se encuentra definido como CERO y se realiza en el **[BMOT]**.  
 **Tercero:** Número de identificación de la persona encargada del turno.  
 **Caja:** numerico parametrizado en el basico de ubicaciones.  
 **Cajero/a:** numero de identificacion del responsable de la caja registradora.  
