@@ -25,13 +25,13 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.   
 
 
-Desde el Basico de documentos [BDOC] se parametrizan los: Abonos, sobrantes, faltantes etc. Que podrán ser editados en el detalle del turno.  
+Desde el Basico de documentos **[BDOC]** se parametrizan los: Abonos, sobrantes, faltantes etc. Que podrán ser editados en el detalle del turno **[JTUR]**.  
 
 
 Para revisar cuanto facturó el cajero en su turno, ingresamos a revisar el turno en la aplicación [JTUR] - Turnos, nos dirigimos al menú y seleccionamos la opción.  
 
 
-Existen dos formas de realizar la apertura del turno: una es realizar la primera factura de venta y al confirmarla, automáticamente se abre el [JTUR]. La segunda forma es desde el [JTUR] realizar la inserción y guardar. 
+Existen dos formas de realizar la apertura del turno: una es realizar la primera factura de venta y al confirmarla, automáticamente se abre el **[JTUR]**. La segunda forma es desde el **[JTUR]** realizar la inserción y guardar. 
 La forma correcta de confirmar o procesar un turno es realizar la equivalencia entre: el valor de las facturas, menos notas que se registran en el detalle del JTUR versus las formas de pago que resumen en la tercera pestana del turno denominada Pagos.  
 
 
