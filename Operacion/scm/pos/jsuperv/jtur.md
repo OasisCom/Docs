@@ -15,7 +15,7 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 **Número:** Consecutivo de documento automático.  
 **Ubicación:** Ubicación de punto de venta.  
 **Fecha:** Fecha de registro de la factura.  
-**Concepto:** Éste se debe parametrizar en basico de documentos **[BDOC]**
+**Concepto:** Éste se debe parametrizar en basico de documentos **[BDOC]**.  
 **Motivo:**  Este se encuentra definido como CERO y se realiza en el **[BMOT]**.  
 **Tercero:** Número de identificación de la persona encargada del turno.  
 **Caja:** numerico parametrizado en el basico de ubicaciones.  
