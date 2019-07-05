@@ -23,7 +23,7 @@ editable: si
 
 ### OasisCom Factura Electrónica
 
->###### [Descriptivo factura electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo de Factura electrónica OasisCom.pdf)
+>###### [Descriptivo factura electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-de-facturacion-electronica-OasisCom2019.pdf)
 >###### [Proveedor Tecnológico de factura electrónica- Resolución DIAN 003100 ](http://docs.oasiscom.com/Mercadeo/fichas/Resolución Dian 0031000.pdf)
 
 
