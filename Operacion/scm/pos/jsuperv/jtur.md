@@ -16,7 +16,7 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 **Ubicación:** Ubicación de punto de venta - **[BUBI]**.  
 **Fecha:** Fecha de registro de la factura.  
 **Concepto:** Éste se debe parametrizar en basico de documentos **[BDOC]**.  
-**Motivo:**  Este se encuentra definido como CERO y se realiza en el **[BMOT]**.  
+**Motivo:**  Este se encuentra definido como "cero" y se realiza en el **[BMOT]**.  
 **Tercero:** Número de identificación de la persona encargada del turno.  
 **Caja:** numerico parametrizado en el basico de ubicaciones.  
 **Cajero/a:** numero de identificacion del responsable de la caja registradora.  
@@ -50,7 +50,7 @@ La forma correcta de confirmar o procesar un turno es realizar la equivalencia e
 
 ![](jtur2.png)
 
-*****
+********
 
 
 
