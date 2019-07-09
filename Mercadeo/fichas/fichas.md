@@ -15,7 +15,8 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >#### [OasisCom Productos Complementarios](http://docs.oasiscom.com/Mercadeo/fichas/físico soluciones avanzadas_impreso.pdf)
 
 ---
->#### [OasisCom HRM](http://docs.oasiscom.com/Mercadeo/fichas/HRM-Ficha.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>#### [OasisCom Propiedad Horizontal](http://docs.oasiscom.com/Mercadeo/fichas/Propiedad-Horizontal-Ficha.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>#### [OasisCom HRM](http://docs.oasiscom.com/Mercadeo/fichas/HRM-Ficha.pdf)
 >#### [OasisCom Café](http://docs.oasiscom.com/Mercadeo/fichas/físico_inserto_café_impreso.pdf)
 >#### [OasisCom Combustible](http://docs.oasiscom.com/Mercadeo/fichas/Físico infografía de combustible_ impreso.pdf)
 >#### [OasisCom Transporte](http://docs.oasiscom.com/Mercadeo/fichas/físico OasisCom transporte_impreso .pdf)
