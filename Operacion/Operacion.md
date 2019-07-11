@@ -980,7 +980,9 @@ En la aplicación (OORD) seleccionamos el registro que se desea enviar por corre
 
 El sistema arrojará una ventana en la cual se deben diligenciar todos los campos necesarios para el envío del correo, el remitente siempre será el usuario con el cual se ingresó al sistema.  
 
-![](envioemail4.png)
+![](envioemai14.png)
+![](envioemai14.png)
+
 
 
 ![](envioemail5.png)
