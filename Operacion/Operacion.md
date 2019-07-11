@@ -980,11 +980,11 @@ En la aplicación (OORD) seleccionamos el registro que se desea enviar por corre
 
 El sistema arrojará una ventana donde los campos remitente, destinatario, correo se llenara automaticamente. Debe diligenciar los campos marcados con * que son de caracter obligatorio.  
 
-![](envioemai14.png)
+![](envioemai14.png)  
 
-En la funcionabilidad tiene la opcion de adjuntar archivos maximo de 10 megas.
+En la funcionabilidad tiene la opcion de adjuntar archivos maximo de 10 megas.  
 
-Antes del envio, validar detenidamente el campo, **Correo**: Correo electrónico del usuario destinatario.
+Antes del envio, validar detenidamente el campo, **Correo**: Correo electrónico del usuario destinatario.  
 
 
 **Copia**: si es necesario enviar copia del correo electrónico a varios usuarios, cada correo electrónico debe ser separado por el signo punto y coma (;).  
