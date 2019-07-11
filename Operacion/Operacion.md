@@ -978,22 +978,14 @@ En la aplicación (OORD) seleccionamos el registro que se desea enviar por corre
 ![](envioemail3.png)
 
 
-El sistema arrojará una ventana en la cual se deben diligenciar todos los campos necesarios para el envío del correo, el remitente siempre será el usuario con el cual se ingresó al sistema.  
+El sistema arrojará una ventana donde los campos remitente, destinatario, correo se llenara automaticamente. Debe diligenciar los campos marcados con * que son de caracter obligatorio.  
 
 ![](envioemai14.png)
-![](envioemai14.png)
 
+En la funcionabilidad tiene la opcion de adjuntar archivos maximo de 10 megas.
 
+Antes del envio, validar detenidamente el campo, **Correo**: Correo electrónico del usuario destinatario.
 
-![](envioemail5.png)
-
-**Destinatario**: Nombre del usuario destinatario, en este caso nombre del tercero al cual se le generó la orden de compra.  
-
-![](envioemail6.png)
-
-**Correo**: Correo electrónico del usuario destinatario.
-
-![](envioemail7.png)
 
 **Copia**: si es necesario enviar copia del correo electrónico a varios usuarios, cada correo electrónico debe ser separado por el signo punto y coma (;).  
 
