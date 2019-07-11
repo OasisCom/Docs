@@ -34,7 +34,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 ---
 ### OasisCom Puntos de Venta
->###### [EbooK: Preguntas Frecuentes Punto de Ventas OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
+>###### [Ebook: Preguntas Frecuentes Punto de Ventas OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
 
 ---
 ### Factura Electrónica
