@@ -978,46 +978,40 @@ En la aplicación (OORD) seleccionamos el registro que se desea enviar por corre
 ![](envioemail3.png)
 
 
-El sistema arrojará una ventana en la cual se deben diligenciar todos los campos necesarios para el envío del correo, el remitente siempre será el usuario con el cual se ingresó al sistema.  
+El sistema arrojará una ventana donde los campos: remitente, destinatario, correo se llenaran automaticamente. Debe diligenciar los campos marcados con el signo: * son de caracter obligatorio.  
 
-![](envioemail4.png)
+![](envioemai14.png)  
 
+En la funcionabilidad tiene la opcion de adjuntar archivos maximo de 10 megas.  
 
-![](envioemail5.png)
+Antes del envio, validar detenidamente el campo, **Correo**: Correo electrónico del usuario destinatario.  
 
-**Destinatario**: Nombre del usuario destinatario, en este caso nombre del tercero al cual se le generó la orden de compra.  
-
-![](envioemail6.png)
-
-**Correo**: Correo electrónico del usuario destinatario.
-
-![](envioemail7.png)
 
 **Copia**: si es necesario enviar copia del correo electrónico a varios usuarios, cada correo electrónico debe ser separado por el signo punto y coma (;).  
 
-![](envioemail8.png)
+![](envioemail8.png)  
 
 **Asunto**: Describir el asunto del mensaje que se desea enviar.  
 
 **Mensaje**: Si se requiere se puede escribir un mensaje de acuerdo al proceso que se envía, este campo es opcional.  
 
-![](envioemail9.png)
+![](envioemail9.png)  
 
 **Adjuntos**: si se requiere enviar un documento anexo, damos clic en el botón elegir archivos y seleccionamos el documento que se desea adjuntar.  
 
-![](envioemail10.png)
+![](envioemail10.png)  
 
 El documento seleccionado aparecerá adjunto en la lista Archivos, seguidamente debemos dar clic en el botón Aceptar, confirmando el cargue de los documentos.  
 
-![](envioemail11.png)
+![](envioemail11.png)  
 
 Por último, damos clic en el botón Enviar y el sistema arrojará un mensaje de confirmación.  
 
-![](envioemail12.png)
+![](envioemail12.png)  
 
 Podemos confirmar el envío de la orden de compra y del documento adjunto en el correo destinatario.  
 
-![](envioemail13.png)
+![](envioemail13.png)  
 
 ## [Envío de Reportes por Correo Electrónico](http://docs.oasiscom.com/Operacion/#envío-de-reportes-por-correo-electrónico)
 
