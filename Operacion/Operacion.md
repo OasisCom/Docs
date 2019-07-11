@@ -978,7 +978,7 @@ En la aplicación (OORD) seleccionamos el registro que se desea enviar por corre
 ![](envioemail3.png)
 
 
-El sistema arrojará una ventana donde los campos remitente, destinatario, correo se llenara automaticamente. Debe diligenciar los campos marcados con * que son de caracter obligatorio.  
+El sistema arrojará una ventana donde los campos: remitente, destinatario, correo se llenaran automaticamente. Debe diligenciar los campos marcados con el signo: * son de caracter obligatorio.  
 
 ![](envioemai14.png)  
 
