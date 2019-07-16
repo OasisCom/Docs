@@ -15,4 +15,4 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 
 [**Política de Clasificación de la Información y Dispositivos Móviles**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Clasificación_Info_Dispositivos_Móviles.pdf) 
 
-[**Gestión de Incidentes SGSI**](http://docs.oasiscom.com/Procesos/sgsi/Gestión_Incidentes_SGSI.pdf) 
+[**Gestión de Incidentes SGSI**](http://docs.oasiscom.com/Procesos/sgsi/Gestión_de_Incidentes_SGSI.pdf) 
