@@ -18,3 +18,7 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 [**Gestión de Incidentes SGSI**](http://docs.oasiscom.com/Procesos/sgsi/Gestión_de_Incidentes_SGSI.pdf) 
 
 [**Áreas Seguras SGSI**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_Áreas_Seguras.pdf) 
+
+[**Gestión de activos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_Gestión_Activos.pdf) 
+
+[**Accesos y permisos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Procedimiento_Accesos_y_Permisos.pdf) 
