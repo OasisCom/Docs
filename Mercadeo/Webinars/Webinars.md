@@ -14,7 +14,9 @@ editable: si
 
 >##### [Webinar: Cómo operar en tu punto de venta con OasisCom - Memoria](https://mailchi.mp/e6b06f6c236a/memorias-webinar-pos-cmo-operar-tu-punto-de-venta-con-oasiscom)
 
->##### [Webinar: Cómo generar primas en OasisCom - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-Nomina-mayo.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [Webinar: Cómo generar primas en OasisCom - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-Nomina-mayo.pdf)
+
+>##### [WEBINAR: Parametrización de Impuestos - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/parametrizacion-iva-ventas.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
 ---------------------------------------------------------------
 
