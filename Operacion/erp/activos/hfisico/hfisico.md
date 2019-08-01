@@ -45,7 +45,7 @@ Ubicación: ingresar o seleccionar del zoom la ubicación (bodega) en la cual se
 Línea: si el inventario se va a realizar por la línea de producto, ingresar la línea correspondiente.  
 Proceso: seleccionar de la lista desplegable la opción Periódico.  
 Tipo Producto: seleccionar de la lista desplegable la opción Terminado.  
-Ingresados los datos, damos click en el botón Generar   y el sistema arrojará un mensaje indicando que el proceso se realizó satisfactoriamente.  
+Ingresados los datos, damos click en el botón Generar ![](BOTON.png)    y el sistema arrojará un mensaje indicando que el proceso se realizó satisfactoriamente.  
 
 ![](IFPI2.png)  
 
