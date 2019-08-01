@@ -112,7 +112,22 @@ Ingresados los datos damos click en el botón Generar  ![](BOTON.png)  , el sist
 
 ![](IFAJ3.png)  
 
-Generado el proceso, el sistema creará los documentos de ajuste en la aplicación **IMOV - Movimiento de inventarios** los cuales deben ser procesados, estos pueden ser documentos **EN - Entradas del inventario** por concepto **EA - Entrada por ajuste o documentos SA - Salidas del inventario por concepto SA - Salida por ajuste.**
+Generado el proceso, el sistema creará los documentos de ajuste en la aplicación **IMOV - Movimiento de inventarios** los cuales deben ser procesados, estos pueden ser documentos **EN - Entradas del inventario** por concepto **EA - Entrada por ajuste o documentos SA - Salidas del inventario por concepto SA - Salida por ajuste.**  
+
+**2.	_ESCENARIO_2:_  _Inventario_Fisico_Movil_**
+
+Para realizar el proceso de inventario físico desde la aplicación móvil, se deben realizar los siguientes pasos.
+
+**2.1.	Prepara Inventario Fisico IFPI.**
+
+Este paso es igual a la preparación del inventario físico del Escenario 1.
+
+**2.2.	Asignación de responsable IFIS:**
+
+En esta aplicación **IFIS** se deberá realizar la asignación del responsable o del usuario que va a realizar el conteo de los productos.  
+
+![](IFIS4.png)  
+
 
 
 
