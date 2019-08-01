@@ -140,6 +140,27 @@ Damos Clic en el botón de actualiza responsable.
 
 ![](IFIS6.png)  
 
+Al dar clic en este botón nos abrirá la siguiente ventana.  
+
+![](IFIS7.png)  
+
+Nos vamos a la parte inferior de esta ventana donde se encuentra el campo Responsable.  
+
+![](IFIS8.png)  
+
+Marcamos el Flac de modificar.  
+
+![](IFIS9.png)  
+
+Cuando lo marcamos nos habilita el campo de responsable. En este campo colocamos la cedula que queremos que actualice masivamente.  
+
+![](IFIS10.png)  
+
+
+
+
+
+
 
 
 
