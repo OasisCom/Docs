@@ -14,3 +14,11 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 [**Cómo contribuir con el Sistema de Gestión de Seguridad de la Información y las implicaciones de no hacerlo**](http://docs.oasiscom.com/Procesos/sgsi/contribucion_implicaciones.pdf)  
 
 [**Política de Clasificación de la Información y Dispositivos Móviles**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Clasificación_Info_Dispositivos_Móviles.pdf) 
+
+[**Gestión de Incidentes SGSI**](http://docs.oasiscom.com/Procesos/sgsi/Gestión_de_Incidentes_SGSI.pdf) 
+
+[**Áreas Seguras SGSI**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_Áreas_Seguras.pdf) 
+
+[**Gestión de activos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_Gestión_Activos.pdf) 
+
+[**Accesos y permisos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Procedimiento_Accesos_y_Permisos.pdf) 

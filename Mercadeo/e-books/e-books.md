@@ -34,11 +34,11 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 ---
 ### OasisCom Puntos de Venta
->###### [Preguntas Frecuentes POS](http://docs.oasiscom.com/Mercadeo/fichas/Preguntas_frecuentes_OasisCom-_POS.pdf)  
+>###### [Ebook: Preguntas Frecuentes Punto de Venta OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
 
 ---
 ### Factura Electrónica
->###### [Preguntas frecuentes Factura Electrónica - Validación Previa](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-factura-electronica-validacion-previa.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 
+>###### [Preguntas frecuentes Factura Electrónica - Validación Previa](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-factura-electronica-validacion-previa.pdf) 
 
 ---
 ### Otros
