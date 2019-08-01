@@ -166,6 +166,37 @@ Abrimos la aplicación en nuestro celular.
 
   ![](IFIS13.png)  
 
+* Ingresamos el nuestro usuario y clave.  
+
+* Nos vamos a la aplicación Registro de conteos MIFIS.  
+
+  ![](IFIS14.png)  
+
+Una vez ingresemos a esta aplicación en el campo ubicación seleccionamos la ubicación que tenemos asignada.  
+
+ ![](IFIS15.png)  
+
+Una vez seleccionada la ubicación el sistema en el campo Localizcion nos mostrara la localizacion a la cual nos debemos dirigir a iniciar nuestro conteo, para las ubicaciones que no manjean localizaciones dentro de la bodega nos motrara 0.  
+
+ ![](IFIS16.png)  
+
+Para continuar el sistema nos pide leer el codigo de barras de la localizacion indicada.  
+Para esto debemos dac clic o tocar la pantalla de nuestro celular en el campo localizacion.  
+
+ ![](IFIS17.png)  
+
+Esto activara la camara de nuestro celular.  
+
+Debemos leer el codigo de barras de la localizacion, para este caso nuestra localizacion es cero.  
+
+ ![](IFIS18.png)  
+
+Una vez el sistema valide la localizacion sea correcta. Mostrara el listado de productos a contar. Esto no quiere decir que estos se deban leer en el orden que el sistema muestra, se leen los productos uno a uno que se encuentren.  
+
+ ![](IFIS19.png)  
+
+
+
 
 
 
