@@ -81,7 +81,26 @@ En el proceso de calculo de diferencias el sistema toma los registros de conteos
 
 Se ingresarán los datos de fecha y ubicación.  
 
+![](IFCD1.png)  
+
+**Fecha:** ingresar la fecha en la que se realizó el inventario físico.  
+**Ubicación:** seleccionar la ubicación en la que se encuentran los productos inventariados.  
+**Total:** ingresar el número 0.  
+
+
+Ingresados los datos damos click en el botón Generar   y el sistema arrojará un mensaje de control informando que el proceso fue ejecutado satisfactoriamente.  
+
+__
 ![](IFCD2.png)  
+
+**1.5.	Diferencias IFDI.**
+
+Esta pantalla muestra las diferencias obtenidas entre el conteo físico y la cantidad real. Puede tenerse un sobrante (positivo) o un faltante (negativo).  
+
+
+
+
+
 
 
 
