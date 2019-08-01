@@ -56,6 +56,10 @@ Una vez preparado el inventario físico, el siguiente paso es el registro de con
 En la aplicación **IRIF** se podrá descargar la planilla para conteo físico que servirá de referencia al realizar el inventario periódico, en la planilla se podrán observar los productos a los cuales se les realizará inventario de acuerdo al filtro de consulta, igualmente, cuenta con espacios en donde los usuarios podrán ingresar las cantidades de productos por cada uno que se encuentren en el inventario.  
 Para consultar la planilla de conteo, filtraremos por la ubicación en donde se encuentran los productos y la fecha en la cual se realiza el inventario. Dicha ubicación y fecha deberán ser las mismas con las que se generó el inventario en la aplicación **IFPI** - **Prepara Inventario Diario**.  
 
+![](IFPI3.png)  
+
+Al consultar dando click en el botón Generar ![](BOTON.png)   , el sistema arrojará la planilla, la cual cuenta con tres campos (Cont 1, Cont 2, Cont 3) en los cuales los usuarios responsables de realizar el inventario ingresarán las cantidades contadas por producto. La planilla podrá ser descargada en formato de Excel, PDF o Word).  
+
 
 
 
