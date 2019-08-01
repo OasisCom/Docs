@@ -195,6 +195,28 @@ Una vez el sistema valide la localizacion sea correcta. Mostrara el listado de p
 
  ![](IFIS19.png)  
 
+Para inicar el conteo damos clic o tomamos la pantalla en el boton verde de producto para que nos active la camara del celular.  
+
+ ![](IFIS20.png)  
+
+Asi se debera realizar el conteo o lectura del codigo de barras de cada producto.  
+
+Continuamos con los pasos ya descritos anteriomente.  
+
+
+**2.3.	Calcualo de Diferencias.**  
+
+Este paso es el mismo descrito en el primer escenario.  
+
+**2.4.	Diferencias IFDI.**  
+
+Este paso es el mismo descrito en el primer escenario.  
+
+**2.5.	Genera Ajustes IFAJ.  
+
+Este paso es el mismo descrito en el primer escenario.  
+
+
 
 
 
