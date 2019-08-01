@@ -68,6 +68,11 @@ En esta aplicación se debe registrar los conteos realizados del inventario, al 
 
 ![](IFIS2.png)  
 
+__
+![](IFIS3.png)  
+
+
+
 
 
 
