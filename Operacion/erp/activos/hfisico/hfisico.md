@@ -60,6 +60,38 @@ Para consultar la planilla de conteo, filtraremos por la ubicación en donde se 
 
 Al consultar dando click en el botón Generar ![](BOTON.png)   , el sistema arrojará la planilla, la cual cuenta con tres campos (Cont 1, Cont 2, Cont 3) en los cuales los usuarios responsables de realizar el inventario ingresarán las cantidades contadas por producto. La planilla podrá ser descargada en formato de Excel, PDF o Word).  
 
+![](IRIF1.png)  
+
+1.3.	Registro de conteos.  
+
+En esta aplicación se debe registrar los conteos realizados del inventario, al ingresar se debe consultar por fecha y ubicación.  
+
+![](IFIS2.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
