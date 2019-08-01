@@ -156,6 +156,19 @@ Cuando lo marcamos nos habilita el campo de responsable. En este campo colocamos
 
 ![](IFIS10.png)  
 
+El sistema actualiza automáticamente la cedula a ese tercero.  
+
+En caso de que sean diferentes responsables, se deberá realizar filtros dentro de la consulta para poder asignar responsables masivamente, es decir. Un responsable contara los productos de la clasificación Morrales, y otro recurso contara los productos por clasificación Billeteras.  
+
+Una vez asignado el responsable a cada producto podemos seguir con el siguiente paso que es realizar el conteo por medio de nuestro dispositivo Movil.  
+
+Abrimos la aplicación en nuestro celular.  
+
+![](IFIS13.png)  
+
+
+
+
 
 
 
