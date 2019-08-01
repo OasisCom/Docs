@@ -128,6 +128,20 @@ En esta aplicación **IFIS** se deberá realizar la asignación del responsable 
 
 ![](IFIS4.png)  
 
+Se puede realizar la asignación del tercero uno a uno a masivamente.  
+Para hacerlo uno a uno a cada producto en el campo ID Responsable se debe colocar el numero de documento del tercero que va a contar ese producto.  
+Para hacer la asignación del responsable masivamente se debe realizar de la siguiente manera.  
+
+-	Se seleccionan los registros que se desean actualizar masivamente.  
+
+![](IFIS5.png)  
+
+Damos Clic en el botón de actualiza responsable.  
+
+![](IFIS6.png)  
+
+
+
 
 
 
