@@ -71,6 +71,17 @@ En esta aplicación se debe registrar los conteos realizados del inventario, al 
 __
 ![](IFIS3.png)  
 
+En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos Cantidad 2 y Cantidad 3. Estos datos corresponden a la información que se ingresó en la planilla descargada.  
+Al ingresar un número en el campo Cantidad 1, es necesario dar click en el botón Guardar de la barra de herramientas u oprimir la tecla Enter para que el registro sea guardado.  
+
+**1.4.**	**Calcula diferencias IFCD.**
+
+En el proceso de calculo de diferencias el sistema toma los registros de conteos, y lo comprara con el saldo del inventario.  
+
+
+Se ingresarán los datos de fecha y ubicación.  
+
+![](IFCD2.png)  
 
 
 
