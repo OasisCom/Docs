@@ -97,6 +97,31 @@ __
 
 Esta pantalla muestra las diferencias obtenidas entre el conteo físico y la cantidad real. Puede tenerse un sobrante (positivo) o un faltante (negativo).  
 
+![](IFDI1.png)  
+
+**1.6.	Genera Ajustes IFAJ**  
+
+La aplicación **IFAJ,** permite generar los ajustes correspondientes al inventario realizado de acuerdo con las diferencias encontradas anteriormente al ejecutar la aplicación **IFCD**- _Calcula Diferencias_.  
+Estos ajustes son generados en estado _Activo_ en la aplicación **IMOV**- _Movimiento de inventarios_, por lo cual, deben ser procesados tanto las entradas por ajuste como las salidas según corresponda.  
+
+Para la generación de este proceso se ingresará la fecha en la cual se realizó el inventario y la ubicación donde se encuentran los artículos inventariados.  
+
+![](IFAJ2.png)  
+
+Ingresados los datos damos click en el botón Generar  ![](BOTON.png)  , el sistema arrojará un mensaje de control indicando que el proceso se generó satisfactoriamente.  
+
+![](IFAJ3.png)  
+
+Generado el proceso, el sistema creará los documentos de ajuste en la aplicación **IMOV - Movimiento de inventarios** los cuales deben ser procesados, estos pueden ser documentos **EN - Entradas del inventario** por concepto **EA - Entrada por ajuste o documentos SA - Salidas del inventario por concepto SA - Salida por ajuste.**
+
+
+
+
+
+
+
+
+
 
 
 
