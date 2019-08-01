@@ -35,7 +35,7 @@ ESCENARIO 2	Inventario Fisico Movil
 
 1.1.	Preparación inventario.  
 
-Mediante la aplicación IFPI se genera la preparación del inventario a realizar. Este proceso se debe ejecutar el mismo día en que se vaya a realizar el inventario.  
+Mediante la aplicación **IFPI** se genera la preparación del inventario a realizar. Este proceso se debe ejecutar el mismo día en que se vaya a realizar el inventario.  
 
 ![](IFPI.png)  
 
@@ -46,6 +46,33 @@ Línea: si el inventario se va a realizar por la línea de producto, ingresar la
 Proceso: seleccionar de la lista desplegable la opción Periódico.  
 Tipo Producto: seleccionar de la lista desplegable la opción Terminado.  
 Ingresados los datos, damos click en el botón Generar   y el sistema arrojará un mensaje indicando que el proceso se realizó satisfactoriamente.  
+
+![](IFPI2.png)  
+
+Una vez preparado el inventario físico, el siguiente paso es el registro de conteos, para esto se presentan las opciones por la plantilla de conteos.  
+
+1.2.	**Plantilla para conteo Físico IRIF**.  
+
+En la aplicación **IRIF** se podrá descargar la planilla para conteo físico que servirá de referencia al realizar el inventario periódico, en la planilla se podrán observar los productos a los cuales se les realizará inventario de acuerdo al filtro de consulta, igualmente, cuenta con espacios en donde los usuarios podrán ingresar las cantidades de productos por cada uno que se encuentren en el inventario.  
+Para consultar la planilla de conteo, filtraremos por la ubicación en donde se encuentran los productos y la fecha en la cual se realiza el inventario. Dicha ubicación y fecha deberán ser las mismas con las que se generó el inventario en la aplicación **IFPI** - **Prepara Inventario Diario**.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
