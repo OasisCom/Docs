@@ -18,7 +18,7 @@ editable: si
 1.4.	Calcula diferencias IFCD.  
 1.5.	Diferencias IFDI.  
 1.6.	Genera Ajustes IFAJ.  
-* **2.	ESCENARIO 2:  Inventario Fisico Movil.**  
+* **2.	ESCENARIO 2:**  **Inventario Fisico Movil.**  
 2.1.	Prepara Inventario Fisico IFPI.  
 2.2.	Asignación de responsable IFIS.  
 2.3.	Calcualo de Diferencias.  
