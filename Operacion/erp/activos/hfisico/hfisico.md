@@ -167,7 +167,7 @@ Una vez asignado el responsable a cada producto podemos seguir con el siguiente 
 
 Abrimos la aplicación en nuestro celular.  
 
-  ![](IFIS13.png)  
+ ![](IFIS13.png)  
 
 * Ingresamos el nuestro usuario y clave.  
 
