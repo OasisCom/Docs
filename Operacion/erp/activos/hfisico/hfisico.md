@@ -7,51 +7,52 @@ editable: si
 
 # INVENTARIO FISICO
 
-TABLA DE CONTENIDO	2
-2. ESCENARIOS	3
-3. ESPECIFICACION DE ESCENARIOS	4
-1.	ESCENARIO 1:  Inventario Fisico	4
-1.1.	Preparación inventario.	4
-1.2.	Plantilla para conteo Físico IRIF.	5
-1.3.	Registro de conteos	6
-1.4.	Calcula diferencias IFCD.	7
-1.5.	Diferencias IFDI.	8
-1.6.	Genera Ajustes IFAJ	8
-2.	ESCENARIO 2:  Inventario Fisico Movil	10
-2.1.	Prepara Inventario Fisico IFPI.	10
-2.2.	Asignación de responsable IFIS:	10
-2.3.	Calcualo de Diferencias.	19
-2.4.	Diferencias IFDI	19
-2.5.	Genera Ajustes IFAJ	19
+**TABLA DE CONTENIDO**  	  
+  **ESCENARIOS**
+* **. ESPECIFICACION DE ESCENARIOS**	  
+* **1.	ESCENARIO 1:** **Inventario Fisico.**
+1.1.	Preparación inventario.   
+1.2.	Plantilla para conteo Físico IRIF.  
+1.3.	Registro de conteos.  
+1.4.	Calcula diferencias IFCD.  
+1.5.	Diferencias IFDI.  
+1.6.	Genera Ajustes IFAJ.  
+* **2.	ESCENARIO 2:  Inventario Fisico Movil	**
+2.1.	Prepara Inventario Fisico IFPI.  
+2.2.	Asignación de responsable IFIS.  
+2.3.	Calcualo de Diferencias.  
+2.4.	Diferencias IFDI.  
+2.5.	Genera Ajustes IFAJ.  
 
 ***********
 
 
-ESCENARIO 1	Inventario Fisico  
-ESCENARIO 2	Inventario Fisico Movil  
+* ESCENARIO 1	Inventario Fisico  
+* ESCENARIO 2	Inventario Fisico Movil  
 
 
 1.	ESCENARIO 1:  Inventario Fisico  
 
-1.1.	Preparación inventario.  
+**1.1.**	**Preparación inventario.**  
 
 Mediante la aplicación **IFPI** se genera la preparación del inventario a realizar. Este proceso se debe ejecutar el mismo día en que se vaya a realizar el inventario.  
 
 ![](IFPI.png)  
 
-Para ejecutar el proceso de preparación de inventario periódico ingresamos los siguientes datos:  
-Fecha: fecha actual en la que se va a realizar el inventario.  
-Ubicación: ingresar o seleccionar del zoom la ubicación (bodega) en la cual se encuentran los productos.  
-Línea: si el inventario se va a realizar por la línea de producto, ingresar la línea correspondiente.  
-Proceso: seleccionar de la lista desplegable la opción Periódico.  
-Tipo Producto: seleccionar de la lista desplegable la opción Terminado.  
+* Para ejecutar el proceso de preparación de inventario periódico ingresamos los siguientes datos:  
+
+**Fecha:** fecha actual en la que se va a realizar el inventario.  
+**Ubicación:** ingresar o seleccionar del zoom la ubicación (bodega) en la cual se encuentran los productos.  
+**Línea:** si el inventario se va a realizar por la línea de producto, ingresar la línea correspondiente.  
+**Proceso:** seleccionar de la lista desplegable la opción Periódico.  
+**Tipo Producto:** seleccionar de la lista desplegable la opción Terminado.  
 Ingresados los datos, damos click en el botón Generar ![](BOTON.png)    y el sistema arrojará un mensaje indicando que el proceso se realizó satisfactoriamente.  
 
 ![](IFPI2.png)  
 
 Una vez preparado el inventario físico, el siguiente paso es el registro de conteos, para esto se presentan las opciones por la plantilla de conteos.  
 
-1.2.	**Plantilla para conteo Físico IRIF**.  
+**1.2.**	**Plantilla para conteo Físico IRIF**.  
 
 En la aplicación **IRIF** se podrá descargar la planilla para conteo físico que servirá de referencia al realizar el inventario periódico, en la planilla se podrán observar los productos a los cuales se les realizará inventario de acuerdo al filtro de consulta, igualmente, cuenta con espacios en donde los usuarios podrán ingresar las cantidades de productos por cada uno que se encuentren en el inventario.  
 Para consultar la planilla de conteo, filtraremos por la ubicación en donde se encuentran los productos y la fecha en la cual se realiza el inventario. Dicha ubicación y fecha deberán ser las mismas con las que se generó el inventario en la aplicación **IFPI** - **Prepara Inventario Diario**.  
@@ -62,7 +63,7 @@ Al consultar dando click en el botón Generar ![](BOTON.png)   , el sistema arro
 
 ![](IRIF1.png)  
 
-1.3.	Registro de conteos.  
+**1.3.**	**Registro de conteos.**  
 
 En esta aplicación se debe registrar los conteos realizados del inventario, al ingresar se debe consultar por fecha y ubicación.  
 
@@ -112,24 +113,26 @@ Ingresados los datos damos click en el botón Generar  ![](BOTON.png)  , el sist
 
 ![](IFAJ3.png)  
 
-Generado el proceso, el sistema creará los documentos de ajuste en la aplicación **IMOV - Movimiento de inventarios** los cuales deben ser procesados, estos pueden ser documentos **EN - Entradas del inventario** por concepto **EA - Entrada por ajuste o documentos SA - Salidas del inventario por concepto SA - Salida por ajuste.**  
+Generado el proceso, el sistema creará los documentos de ajuste en la aplicación **IMOV - Movimiento de inventarios** los cuales deben ser procesados, estos pueden ser documentos:  
+* **EN - Entradas del inventario** por concepto **EA - Entrada por ajuste o documentos.**  
+* **SA - Salidas del inventario por concepto SA - Salida por ajuste.**  
 
-**2.	_ESCENARIO_2:_  _Inventario_Fisico_Movil_**
+**2.	_ESCENARIO_2:_  _Inventario_Fisico_Movil_**.  
 
-Para realizar el proceso de inventario físico desde la aplicación móvil, se deben realizar los siguientes pasos.
+Para realizar el proceso de inventario físico desde la aplicación móvil, se deben realizar los siguientes pasos.  
 
-**2.1.	Prepara Inventario Fisico IFPI.**
+**2.1.	Prepara Inventario Fisico IFPI.**  
 
-Este paso es igual a la preparación del inventario físico del Escenario 1.
+Este paso es igual a la preparación del inventario físico del Escenario 1.  
 
-**2.2.	Asignación de responsable IFIS:**
+**2.2.	Asignación de responsable IFIS:**  
 
 En esta aplicación **IFIS** se deberá realizar la asignación del responsable o del usuario que va a realizar el conteo de los productos.  
 
 ![](IFIS4.png)  
 
 Se puede realizar la asignación del tercero uno a uno a masivamente.  
-Para hacerlo uno a uno a cada producto en el campo ID Responsable se debe colocar el numero de documento del tercero que va a contar ese producto.  
+Para hacerlo uno a uno a cada producto en el campo **ID Responsable** se debe colocar el numero de documento del tercero que va a contar ese producto.  
 Para hacer la asignación del responsable masivamente se debe realizar de la siguiente manera.  
 
 -	Se seleccionan los registros que se desean actualizar masivamente.  
