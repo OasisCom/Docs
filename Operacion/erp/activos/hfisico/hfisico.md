@@ -90,7 +90,7 @@ Se ingresarán los datos de fecha y ubicación.
 **Total:** ingresar el número 0.  
 
 
-Ingresados los datos damos click en el botón Generar   y el sistema arrojará un mensaje de control informando que el proceso fue ejecutado satisfactoriamente.  
+Ingresados los datos damos click en el botón Generar ![](BOTON.png)  y el sistema arrojará un mensaje de control informando que el proceso fue ejecutado satisfactoriamente.  
 
 __
 ![](IFCD2.png)  
