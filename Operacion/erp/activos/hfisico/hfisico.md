@@ -208,7 +208,7 @@ Asi se debera realizar el conteo o lectura del codigo de barras de cada producto
 Continuamos con los pasos ya descritos anteriomente.  
 
 
-**2.3.	Calcualo de Diferencias.**  
+**2.3.	Calculo de Diferencias.**  
 
 Este paso es el mismo descrito en el primer escenario.  
 
