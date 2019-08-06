@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Distribucion
-permalink: /Operacion/scm/distribucion/
+permalink: /Operacion/scm/distribucion/dfle
 editable: si
 ---
 
