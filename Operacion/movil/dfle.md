@@ -5,7 +5,7 @@ permalink: /Operacion/movil/dfle
 editable: si
 ---
 
-# DFLE - Fletes - movil.
+# DFLE - Fletes - móvil.
 
 La aplicación **DFLE - Fletes** permite ver la cantiadad total de tiquetes vendidos por cada vehículo en el día, el valor de cada uno y el valor total.  
 
