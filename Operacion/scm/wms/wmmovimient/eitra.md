@@ -110,7 +110,9 @@ Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento.
 
 * Las posiciones en color _**Naranja**_ son bodegas no disponibles ya que están con su capacidad al 100%.  
 
-![](eitra13.png)
+![](eitra13.png)  
+
+Para los escenarios donde existe gran cantidades de localizaciones, puede utilizar la **paginación** con los botones de desplazamiento: siguiente y atrás.  
 
 Una vez realizado el almacenamiento, los productos se distribuirán según la localizacion seleccionada.  
 
