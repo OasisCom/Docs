@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recobros CTC - Tutelas
+title: Recobros EFRC
 permalink: /Operacion/is/salud/eautorizacion/movrec/efrc
 editable: si
 ---
