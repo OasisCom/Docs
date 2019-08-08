@@ -37,7 +37,12 @@ La aplicación EEMOV nos permite realizar el registro de los diferentes movimien
 
 Diligenciados todos los campos requeridos, damos click en el botón _Guardar_ y el sistema arrojará un mensaje de control indicando el número de consecutivo asignado al movimiento.  
 
-![](eemov6.png)
+![](eemov66.png)  
+
+* Descripción de los botones del formulario **EEMOV**  
+
+
+![](eemov6.png)  
 
 1.	Nuevo: se agrega o crea un nuevo registro de Afiliado.  
 
@@ -48,9 +53,6 @@ Diligenciados todos los campos requeridos, damos click en el botón _Guardar_ y 
 4.	Agregar beneficiario: despliega la venta donde solo edita cantidad.  
 
 5.	Eliminar beneficiario: realiza el borrado de la cantidad de beneficiarios.   
-
-
-
 
 
 
