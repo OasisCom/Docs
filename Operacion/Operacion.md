@@ -1190,7 +1190,8 @@ Se inmoviliza el campo _Tercero_ el cual es el primero de la tabla y posteriorme
 
 Se debe tener en cuenta que sobre las columnas inmovilizadas no es posible ejecutar ninguna acción.  
 
-Es posible  controlar el proceso de inmovilización sobre una columna en las **grillas**. Realizar el ordenamiento una vez que se tenga la columna inmovilizada. Para este escenario tomamos como ejemplo una opcion de movimientos [IMOV].  
+* Es posible  controlar el proceso de inmovilización sobre una columna en las **grillas**. Realizar el ordenamiento una vez que se tenga la columna inmovilizada.  
+Para este escenario tomamos como ejemplo una opcion de movimientos [IMOV].  
 Se inmoviliza la columna producto, se puede desplazar el cursor a la derecha y realiza el ordenamiento posterior.  
 
 ![](grilla.png)
