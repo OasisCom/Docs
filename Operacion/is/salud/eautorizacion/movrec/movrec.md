@@ -37,6 +37,36 @@ Al ejecutar el proceso anterior, si la factura que se recobró anteriormente en 
 
 * Un segundo documento NR (No recobro tutela-CTC) por concepto Indefinido, hace de contra partida del primer documento RT. En el detalle, si se deben recobrar varias facturas a un mismo tercero con el mismo tipo de recobro (CT) o (TU), la aplicación almacena dichas facturas recobradas en un paquete, alimentándolo cuantas veces se recobre al mismo tercero.  
 
+![](eitra12.png)  
+
+Si la factura de recobro en el detalle de la aplicación EFRC no tiene sustituto, el sistema solo genera el documento RT (Recobro tutela-CTC) en ERET.  
+
+Al procesar el primer documento RT (Recobro tutela-CTC), se genera una factura en FFAC - FC por el total de facturas recobradas al tercero.  
+
+![](eitra12.png)  
+
+Igualmente, al procesar el documento NR (No recobro tutela-CTC), el sistema genera una nota de contabilidad en KMOV - NK.   
+
+![](eitra12.png)  
+
+Nota: Para poder procesar los anteriores documentos generados en ERET, estos deben estar previamente parametrizados en BPLA.  
+
+Parametrización de factura de venta por concepto de Tutelas: documento FC por concepto TU.  
+
+![](eitra12.png)  
+
+Parametrización de factura de venta por concepto de Actas: documento CT por concepto CT.  
+
+![](eitra12.png)  
+
+El documento NK Nota de Contabilidad no requiere parametrización en BPLA para los conceptos CT Actas y TU Tutelas.  
+
+**************
+
+
+
+
+
 
 
 
