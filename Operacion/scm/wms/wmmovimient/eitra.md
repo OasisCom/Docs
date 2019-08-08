@@ -92,17 +92,17 @@ El documento para los movimientos en la aplicación EITRA siempre será _TI_ y p
 **Fecha:** seleccionar la fecha en la cual se realiza el registro.  
 **Número Id1:** abrimos el zoom y seleccionamos el pedido del cual realizaremos el almacenamiento de la mercancía. Al seleccionar el pedido, los campos _Cliente Id, Documento Id1_ y _Location Id1_ se diligenciarán automáticamente.  
 
-![](eitra10.png)
+![](eitra10.png)  
 
 Diligenciados los datos damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando el número de consecutivo con el cual se registró.  
 
-![](eitra11.png)
+![](eitra11.png)  
 
 A continuación, nos dirigimos a la pestaña _Detalle_ en donde realizaremos la distribución del almacenamiento de la mercancía. En esta zona se deberán trasladar los productos (que están a la izquierda) que se desean almacenar en las posiciones que tienen definidas las bodegas.  
 
 Para realizar el almacenamiento en las bodegas damos click en el botón ![](boton1.png). Se debe almacenar el total de la mercancía del pedido seleccionado.  
 
-![](eitra12.png)
+![](eitra12.png)  
 
 Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento. 
 
