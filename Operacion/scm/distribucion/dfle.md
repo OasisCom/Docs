@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Distribucion
-permalink: /Operacion/scm/distribucion/dfle
-editable: si
+permalink: /Operacion/scm/distribucion/dfle  
+editable: si  
 ---
 
 # DFLE - Fletes  
