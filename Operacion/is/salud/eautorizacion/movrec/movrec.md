@@ -16,18 +16,18 @@ Para verificar las facturas que se deben recobrar, se ingresa a la aplicación *
 ![](EFRC1.png)  
 
 
-En el detalle de la aplicación **EFRC** se visualiza el producto a recobrar, codigo del proveedor, cantidad, precio, sustituto, recobro, el valor del recobro entre otros campos a editar.
-
-![](eitra12.png)  
+En el detalle de la aplicación **EFRC** se visualiza el producto a recobrar, codigo del proveedor, cantidad, precio, sustituto, recobro, el valor del recobro entre otros campos a editar.  
 
 El campo sustituto y recobro deben ser diligenciados, correspondiendo el campo sustituto al valor del producto o servicio alterno al que se está recobrando, claro está, en caso tal que dicho producto o servicio posea sustituto, de lo contrario se deja 0. El campo recobro hace referencia al valor total por el cual se va a efectuar el recobro.  
 
-![](eitra12.png)  
+![](EFRC2.png)  
 
-Una vez diligenciado completamente el detalle, en el maestro se debe activar el Check de “revisado”, los Check de enviado y recibido deben estar previamente marcados. Finalmente, se ejecuta el proceso dando clic en el botón superior derecho R (Recobro).  
+Una vez diligenciado completamente el detalle, en el maestro se debe ejecutar el boton: “Recobro”.
 
-![](eitra12.png)  
 
+![](EFRC3.png)  
+
+*******************
 Al ejecutar el proceso anterior, si la factura que se recobró anteriormente en el detalle tenía sustituto, el cual debe estar definido en la aplicación EPRO, el sistema crea dos documentos en la aplicación ERET Recobros Tutela - CTC:  
 
 * Un primer documento RT (Recobro tutela-CTC) por el concepto con el cual se generó el recobro en la aplicación EFRC, sea CT (Comité técnico científico) o TU (Tutelas). En el detalle, si se deben recobrar varias facturas a un mismo tercero con el mismo tipo de recobro (CT) o (TU), la aplicación almacena dichas facturas recobradas en un paquete, alimentándolo cuantas veces se recobre al mismo tercero.  
