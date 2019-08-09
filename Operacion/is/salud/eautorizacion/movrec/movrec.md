@@ -7,17 +7,16 @@ editable: si
 
 # RECOBROS - EFRC 
 
-Para verificar las facturas que se deben recobrar, se ingresa a la aplicación EFRC y se consulta.  
+* Recobros: las IPS que prestan los servicios no POS le cobran a las EPS por estos y a su vez las Entidades Promotoras de Salud, le recobran al Estado estos procedimientos, medicamentos y dispositivos.  
 
-![](eitra12.png)  
 
-Existen dos tipos de recobros, por tutelas o por actas. En caso tal que la factura no arroje detalle, se debe ejecutar el proceso en la aplicación EPRF.  
 
-![](eitra12.png)  
+Para verificar las facturas que se deben recobrar, se ingresa a la aplicación **EFRC** y se consulta.  
 
-Se diligencia el número y la ubicación de la factura que no tiene detalle en la aplicación EFRC – Facturas recobro.  
+![](EFRC1.png)  
 
-En el detalle de la aplicación EFRC se visualiza la clasificación asociada al producto a recobrar, el precio, el valor del sustituto, el valor del recobro, el tercero a quien se le realiza el recobro y el número de identificación del afiliado.  
+
+En el detalle de la aplicación **EFRC** se visualiza el producto a recobrar, codigo del proveedor, cantidad, precio, sustituto, recobro, el valor del recobro entre otros campos a editar.
 
 ![](eitra12.png)  
 
