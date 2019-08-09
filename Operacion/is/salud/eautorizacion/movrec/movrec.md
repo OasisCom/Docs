@@ -22,7 +22,7 @@ El campo sustituto y recobro deben ser diligenciados, correspondiendo el campo s
 
 ![](EFRC2.png)  
 
-Una vez diligenciado completamente el detalle, en el maestro se debe ejecutar el boton: “Recobro”.
+Una vez diligenciado completamente el detalle, en el maestro se debe ejecutar el boton: “Recobro”.  
 
 
 ![](EFRC3.png)  
