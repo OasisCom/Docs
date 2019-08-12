@@ -37,9 +37,24 @@ La aplicación EEMOV nos permite realizar el registro de los diferentes movimien
 
 Diligenciados todos los campos requeridos, damos click en el botón _Guardar_ y el sistema arrojará un mensaje de control indicando el número de consecutivo asignado al movimiento.  
 
-![](eemov6.png)
+![](eemov66.png)  
 
-Al dar click en _Guardar_, la aplicación arrojará un formulario, en donde inicialmente seleccionaremos del zoom la condición del usuario que se registra y activaremos el flag para las declaraciones y autorizaciones según aplique.  
+* Descripción de los botones del formulario **EEMOV**  
+
+
+![](eemov6.png)  
+
+1.	Nuevo: se agrega o crea un nuevo registro de Afiliado.  
+
+2.	Al dar click en _Guardar_, la aplicación arrojará un formulario, en donde inicialmente seleccionaremos del zoom la condición del usuario que se registra y activaremos el flag para las declaraciones y autorizaciones según aplique.   
+
+3.	Elimina detalle: realiza el borrado únicamente del detalle del afiliado.  
+
+4.	Agregar beneficiario: despliega la venta donde solo edita cantidad.  
+
+5.	Eliminar beneficiario: realiza el borrado de la cantidad de beneficiarios.   
+
+
 
 ![](eemov7.png)
 
