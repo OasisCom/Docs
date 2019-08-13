@@ -20,6 +20,7 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Documento:** seleccionar el documento correspondiente para autorizaciones. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 **Número:** el número de consecutivo será asignado automáticamente por el sistema.  
 **Ubicación:** seleccionar la ubicación desde donde se registra la autorizacion.  
+**Id_Afiliado:** parametrizacion realizada en BTER, posee zoom de busqueda al dar doble clic.  
 **Diagnostico:** .  criterio medico.  
 **Nombre del Diagnostico:** .  
 **Clase:**  
