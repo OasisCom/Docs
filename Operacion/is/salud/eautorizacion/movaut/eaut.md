@@ -22,8 +22,8 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Ubicación:** seleccionar la ubicación desde donde se registra la autorizacion.  
 **Id_Afiliado:** parametrizacion realizada en BTER, posee zoom de busqueda al dar doble clic.  
 **Diagnostico:** .  criterio medico.  
-**Nombre del Diagnostico:** .  
-**Clase:**  
+**Nombre del Diagnostico:** Nombre especifico del tipo de diagnostico.  
+**Clase:**Clase de cubrimiento que se le dará al diagnostico emitido.  
 **Tipo:**  
 **Fecha Acta Tutela:** si aplica.  
 **Doc Medico:** documento del tratante.  
