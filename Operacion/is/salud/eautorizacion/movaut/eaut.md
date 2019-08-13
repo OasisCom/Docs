@@ -33,6 +33,9 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 **Fuente:**  
 **Fecha Factura**  campo tipo consulta, no editable.  
 
+En el formulario de las Autorizaciones  **EAUT** se incluye el campo.  
+**MIPRES:** código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.  
+
 * Para actualizar los datos del afiliado se procede a insertar un nuevo registro en la autorizacion **EAUT**, clic derecho sobre el campo actualizar afiliado.  
 
 ![](eaut3.png)  
@@ -41,8 +44,7 @@ Para registrar una autorizacion dar click en el botón **+** que se encuentra en
 ![](eaut4.png)  
 
 
-En el formulario de las Autorizaciones  **EAUT** se incluye el campo.  
-**MIPRES:** código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.  
+
 
 
 
