@@ -21,7 +21,7 @@ y protege de riesgos externos y/o internos sus principales activos de seguridad 
 Por lo tanto, propende por el cumplimiento de los requisitos legales, estatutarios, reglamentarios y
 aquellos citados por el cliente, ofreciendo así productos y servicios que cumplen con las
 expectativas del mercado, contando con personal competente y asegurando el cumplimiento y la
-mejora continua de su Sistema de Gestión de la Seguridad de la Información
+mejora continua de su Sistema de Gestión de la Seguridad de la Información.
 
 
 
