@@ -5,9 +5,9 @@ permalink: /Operacion/is/salud/eautorizacion/movaut/eaut
 editable: si
 ---
 
-# EAUT - Autorizaciones
+# EAUT - Autorizaciones  
 
-## Autorizaciones - EAUT
+## Autorizaciones - EAUT  
 
 La aplicación **EAUT** permite llevar a cabo el registro de Autorizaciones de salud y el seguimiento correspondientes al proceso.  
 
@@ -15,7 +15,7 @@ La aplicación **EAUT** permite llevar a cabo el registro de Autorizaciones de s
 #### **Registro**
 Para registrar una autorizacion dar click en el botón **+** que se encuentra en la barra de herramientas, se desplegará un nuevo formulario en donde se deben diligenciar los campos correspondientes.  
 
-![Nuevo formulario EAUT - Autorizaciones](eaut1.png)
+![Nuevo formulario EAUT - Autorizaciones](eaut1.png)  
 
 **Documento:** seleccionar el documento correspondiente para autorizaciones. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
 **Número:** el número de consecutivo será asignado automáticamente por el sistema.  
