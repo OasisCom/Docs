@@ -54,6 +54,8 @@ Diligenciados todos los campos requeridos, damos click en el botón _Guardar_ y 
 
 5.	Eliminar beneficiario: realiza el borrado de la cantidad de beneficiarios.   
 
+6.	Imprime Encuesta, previa parametrizacion de EENC.  
+
 
 
 ![](eemov7.png)
