@@ -84,11 +84,11 @@ En el campo _tipo de anotación_ diligenciamos el código correspondiente al tip
 
 **Pestaña Cursos**
 
-En esta pestaña se insertan los datos de los cursos que ha realizado el tercero, desde el **[RCAP]** Capacitaciones se realiza la parametrización de la capacitación y el curso desde **[RCUR]**.  
+En esta pestaña se insertan los datos de los cursos que ha realizado el tercero, desde el **[RCAP]** se realiza la parametrización de la capacitaciónes realizadas y el curso desde **[RCUR]**.  
 
 ![](rexp12.png)
 
-* Realizado el curso se edita y en detalle del **RCAP** se inserta el número de documento del tercero, este se reflejará en el expediente **REXP** ejemplo los cursos;  servicio al cliente y proceso de soporte.  
+* Realizado el curso se edita y en detalle del **RCAP** se inserta el número de documento del tercero, este curso se reflejará en el expediente **REXP** ejemplo los cursos;  servicio al cliente y proceso de soporte.  
 
 ![](rexp11.png)
 
