@@ -36,7 +36,10 @@ En los siguientes campos, ingresamos el nombre de donde se realizaron dichos est
 
 Agregamos un nuevo registro y en el campo _tipo experiencia_, digitamos el tipo de experiencia que se adecúe a la persona registrada en el maestro. Recordemos que los tipos de experiencia deben estar previamente parametrizados en **RBEX – Tipos de experiencias**.  
 
-En los siguientes campos, diligenciamos el nombre de la empresa en la cual se desempeñó, el teléfono, la ubicación geográfica, el cargo el cual desempeñaba y damos click en el botón _guardar_.
+En los siguientes campos, diligenciamos el nombre de la empresa en la cual se desempeñó, el teléfono, la ubicación geográfica, el cargo el cual desempeñaba y damos click en el botón _guardar_.  
+
+
+
 
 
 ![](rexp4.png)
@@ -78,6 +81,11 @@ En el campo _tipo de anotación_ diligenciamos el código correspondiente al tip
 
 
 ![](rexp8.png)
+
+**Pestaña Cursos**
+
+En esta pestaña se insertan los datos de los cursos que ha realizado el tercero, desde el **[RCAP]** Capacitaciones se realiza la parametrización de la capacitación y el curso desde **[RCUR]**.  
+
 
 
 
