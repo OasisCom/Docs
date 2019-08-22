@@ -2,10 +2,10 @@
 layout: default
 title: Error_Interfaces
 permalink: /Operacion/utility/barchi/berr  
-editable: si  
+editable: si
 ---
 
-# Error_Interfaces - BERR  
+# BERR - Error_Interface 
 
 Esta aplicación permite realizar  validacion del **_log_** de errores, presentados en la interface.
 En el detalle pestaña _Errores_, campo descripción se detalla el _log_   
