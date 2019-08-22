@@ -13,3 +13,22 @@ Seleccionamos de la lista desplegable los indicadores que se desean visualizar.
 
 ![](bivet.png)
 
+***
+
+Los cuadros del tablero de control, parametrización de la consulta que desea establecer. Similar a como se parametrizan las tablas pivote del B.I. (Business Intelligence). La parametrización será única para cada dashboard.  
+
+* Desde el Home podemos parametizar cada uno de los tableros, tal como se refleja en el **BIVET**  
+Se ingresan los datos de la consulta.  
+
+**Home**  
+
+![](bivet3.png)  
+
+**Bivet**  
+
+![](bivet4.png)  
+
+
+
+
+
