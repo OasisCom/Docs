@@ -16,7 +16,11 @@ En el detalle pestaña _Errores_, campo descripción se detalla el _log_
 
 * En el detalle del [BERR] puede visualizar la descripcion, con clic derecho _Mostrar_Informacion_  
 
-![](berr2.png)
+![](berr2.png)  
+
+Sedespliega la siguiente pantalla.  
+
+![](berr3.png)  
 
 
 
