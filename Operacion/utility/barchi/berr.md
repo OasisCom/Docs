@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Interfaces
-permalink: /Operacion/utility/barchi/bint
+title: Error_Interfaces
+permalink: /Operacion/utility/barchi/berr
 editable: si
 ---
 
