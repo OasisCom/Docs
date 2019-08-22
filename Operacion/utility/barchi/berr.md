@@ -7,7 +7,7 @@ editable: si
 
 # BERR - Error_Interface 
 
-Esta aplicación permite realizar  validacion del **_log_** de errores, presentados en la interface.
+Esta aplicación permite realizar  validacion del **_log_** de errores, presentados en la interface.  
 En el detalle pestaña _Errores_, campo descripción se detalla el _log_   
 
 ![](berr1.png)  
@@ -18,7 +18,7 @@ En el detalle pestaña _Errores_, campo descripción se detalla el _log_
 
 ![](berr2.png)  
 
-Se despliega la siguiente pantalla.  
+Se despliega la siguiente pantalla, para realizar la validacion del error de la interface.
 
 ![](berr3.png)  
 
