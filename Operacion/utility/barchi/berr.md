@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Error_Interfaces
+title: Error_Interface
 permalink: /Operacion/utility/barchi/berr  
 editable: si
 ---
