@@ -16,7 +16,11 @@ editable: si
 
 >##### [Webinar: Cómo generar primas en OasisCom - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-Nomina-mayo.pdf)
 
->##### [WEBINAR: Parametrización de Impuestos - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/parametrizacion-iva-ventas.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Parametrización de Impuestos - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/parametrizacion-iva-ventas.pdf)
+
+>##### [WEBINAR: Lo que debes saber para presentar tu Declaración de Renta - Persona Natural - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/presentacion-webinar-D-R.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+
 
 ---------------------------------------------------------------
 
