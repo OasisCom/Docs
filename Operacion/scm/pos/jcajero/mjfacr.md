@@ -130,7 +130,14 @@ En la opción [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Op
 
 ![](mjfacr16.png)
 
-En la aplicación **MJFACR** de Punto de Venta de Restaurante hacemos el proceso de crear nuestra factura, luego seleccionamos nuestros productos y una vez echo esto, podemos dar click en el botón de **Ordenar** para que imprima en la o las impresoras parametrizadas.  
+* Tener en cuenta que el campo de ConfirmPrinted del maestro del BUBI, debe estar marcado, para que se puedan hacer impresiones utilizando esta funcionalidad.  
+* En el maestro del **Basico Documentos** **BDOC**, tambien debemos tener el campo de ConfirmPrinted, marcado para este proceso.  
+
+![](bdoc1.png)
+
+
+
+En la aplicación **MJFACR** de Punto de Venta de Restaurante hacemos el proceso de crear nuestra factura, luego seleccionamos nuestros productos y una vez hecho esto, podemos dar click en el botón de **Ordenar** para que imprima en la o las impresoras parametrizadas.  
 
 ![](mjfacr17.png)
 
