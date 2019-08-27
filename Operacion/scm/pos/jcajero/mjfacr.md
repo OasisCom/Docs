@@ -133,7 +133,11 @@ En la opción [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Op
 * Tener en cuenta que el campo de ConfirmPrinted del maestro del BUBI, debe estar marcado, para que se puedan hacer impresiones utilizando esta funcionalidad.  
 * En el maestro del **Basico Documentos** **BDOC**, tambien debemos tener el campo de ConfirmPrinted, marcado para este proceso.  
 
-![](bdoc1.png)
+![](bdoc1.png)  
+
+* Para el escenario donde las impresiones serán tipo **punto de venta** **-POS-** se debe de parametrizar desde la opción del BUBI, en donde nos dirigimos al detalle, pestaña Cajas. Y En el campo Printer se adiciona el código serial de la impresora como se ilustra.  
+* BUBI.=> ![](bubi7.png)  
+* Con las anteriores parametrizaciones quedara consolidado el proceso de **Impresiones Automáticas,** estos documentos serán impresos en el momento de Procesar o confirmar cada uno de los movimientos.  
 
 
 
