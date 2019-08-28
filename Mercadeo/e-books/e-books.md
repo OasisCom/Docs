@@ -18,6 +18,10 @@ Encuentra aquí todos nuestros E-Books descargables:
 >###### [Las Finanzas Digitales (descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/Las_finanzas_digitales.pdf)
 
 ---
+### Software Contable
+>###### [E-Book: Beneficios de tener un Software Contable en la nube](http://docs.oasiscom.com/Mercadeo/e-books/Beneficios-de-tener-software-contable.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+---
 ### Sector Salud
 
 >###### [E-Book: El impacto de un Software ERP en un centro asistencial](http://docs.oasiscom.com/Mercadeo/fichas/EBook-Salud-El-impacto-de-un-software-Erp-en-un-centro-asistencial.pdf)
@@ -34,7 +38,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 ---
 ### OasisCom Puntos de Venta
->###### [Ebook: Preguntas Frecuentes Punto de Venta OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
+>###### [Ebook: Preguntas Frecuentes Punto de Venta OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)  
 
 ---
 ### Factura Electrónica
