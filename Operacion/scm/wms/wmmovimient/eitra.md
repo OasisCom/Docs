@@ -16,9 +16,40 @@ Esta forma visual sólo está disponible cuando el concepto seleccionado sea un 
 
 Para registrar la recoleccion de un pedido ingresamos a la aplicación EITRA y diligenciamos el formulario.  
 
-![](eitra21.png)
+![](eitra21.png)  
 
+Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y no estarán habilitados para la edición. Se generará un documento _TI - Trabajos de Inventarios_.  
 
+**Ubicación:** seleccionar del zoom la correspondiente.  
+**Concepto:** Seleccionamos del zoom el concepto _PI_ referente a _recoleccion_.  
+**Motivo:** ingresamos motivo 0.  
+**Fecha:** seleccionar la fecha en que se realiza el registro del empaque.  
+**Cliente Id:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
+**DocumentId1:** el sistema traerá automáticamente el documento PD de Pedido.  
+**LocationId1:** el sistema traerá automáticamente la ubicación 1.  
+**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea empacar.  
+
+Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilistra en la parte superior.  
+
+En el detalle aparecen relacionados cada uno de los productos del pedido tomado como ejemplo (85).  
+![](eitra22.png)  
+**Importante:** se debe de validar el **[VDAR]**, en el detalle campo: Idresponsable debe de ser  parametrizado en el **AREC** Recurso.  
+VDAR.  
+
+![](eitra23.png)  
+
+Ya en el detalle del **EITRA**, se ingresan la posicion campo leer posicion y en le campo Quantity edita la cantidad.  
+clic en siguiente.  
+Realiza la misma labor, segun la cantidad de productos que se realacionen.  Para este caso fueron tres (3).  
+Por ultimo aplica el boton verde de confirmar.  
+
+![](eitra24.png)  
+
+Se visualizara el **EITRA** asi:  
+
+![](eitra25.png)  
+
+De esta forma finaliza el proceso de **Recoleccion.**  
 
 
 
