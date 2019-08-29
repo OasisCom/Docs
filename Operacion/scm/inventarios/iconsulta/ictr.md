@@ -8,6 +8,7 @@ editable: si
 # ICTR - Consulta de Traslados 
 
 La aplicación de consulta **ICTR** permite visualizar los traslados de inventario.  
-Extrae la informacion de los movimiento de inventarios, con rango de busqueda concepto TR (traslado)
+Extrae la informacion de los movimiento de inventarios, con rango de busqueda concepto TR (traslado).  
+Cuando se aplica el boton de recibido, indica que fisicamente estan los productos.  
 
-![](ictrl.png)
+![](ictr1.png)
