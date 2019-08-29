@@ -7,7 +7,7 @@ editable: si
 
 # EITRA - Trabajos Web
 
-La aplicación EITRA permite realizar movimientos logísticos.  
+La aplicación **EITRA** permite realizar movimientos logísticos.  
 
 ## [Recoleccion]
 La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
