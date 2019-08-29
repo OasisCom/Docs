@@ -12,4 +12,5 @@ Extrae la informacion de los movimiento de inventarios, con rango de busqueda co
 Cuando se aplica el boton de recibido, indica que fisicamente estan los productos.  
 En el detalle se relaciona cada uno de los articulos y caracteristicas de cada campo.  
 
-![](ictr1.png)
+![](ictr1.png)  
+

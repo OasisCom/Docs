@@ -9,6 +9,20 @@ editable: si
 
 La aplicación EITRA permite realizar movimientos logísticos.  
 
+## [Recoleccion]
+La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
+
+Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PI - Recoleccion_.  
+
+Para registrar la recoleccion de un pedido ingresamos a la aplicación EITRA y diligenciamos el formulario.  
+
+![](eitra21.png)
+
+
+
+
+
+
 ## [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
 
 La aplicación EITRA permite al usuario realizar el proceso de empaque de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
@@ -71,6 +85,7 @@ Ahora, agregaremos el resto de productos a la caja 2. Para ello, podemos hacer u
 Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrá y mostrará una nueva ventana de registro.  
 
 En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
+
 
 
 ## [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
