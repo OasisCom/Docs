@@ -29,7 +29,7 @@ Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y
 **LocationId1:** el sistema traerá automáticamente la ubicación 1.  
 **NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea empacar.  
 
-Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilistra en la parte superior.  
+Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
 
 En el detalle aparecen relacionados cada uno de los productos del pedido tomado como ejemplo (85).  
 ![](eitra22.png)  
