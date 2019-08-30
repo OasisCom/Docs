@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ejecución Mensual Presupuesto de Ingresos Detallado - Apropiación de la Vigencia    
-permalink: /Operacion/erp/presupuestoo/qreporte/QRAMICC  
+permalink: /Operacion/erp/presupuestoo/qreporte/QRAMI3  
 editable: si
 ---
 
