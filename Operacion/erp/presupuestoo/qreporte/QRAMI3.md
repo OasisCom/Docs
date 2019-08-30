@@ -32,6 +32,11 @@ Se realizan los filtros de periodo, año.
 
 **QRAMI3A**   parte_1.
 
+![](QRAMI3A.png)	
+
+**QRAMI3B**   parte_2.
+
+![](.png)	
 
 
 
