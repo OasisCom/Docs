@@ -9,6 +9,10 @@ editable: si
 
 La aplicación BDIR permite registrar las fincas y especificar sus caracteristicas. En el detalle se ingresan los sellos de calidad que posea cada finca y  en la siguiente pestaña del detalle caracteristicas de los lotes.  
 
+* Desde la opción de direcciones **[BDIR]**; en el campos "tenencia" se realiza lista desplegable, para indicar el tipo de propiedad ejemplo: propia, arrendada, familiar, posesión etc.  
+
+![](bdir11.png)
+
 Al crear inicialmente el tercero en la aplicación **BTER** y diligenciar la pestaña _Direcciones_ con las fincas que posea el tercero, el sistema alimentará la aplicación BDIR. Si la persona cuenta con más de una finca, se irá generando consecutivo a cada finca.  
 
 ![](bdir.png)
