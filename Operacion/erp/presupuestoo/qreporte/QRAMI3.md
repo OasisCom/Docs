@@ -25,8 +25,13 @@ Informe Mensual de Ejecucion del Presupuesto de Ingresos Detallado
 Cuenta por Cobrar.  
 Apropiación de la Vigencia  
 Se realizan los filtros de periodo, año.  
+**********
 
-![](.png)	
+**QRAMI3**  General.  
+![](qrami311.png)	
+
+**QRAMI3A**   parte_1.
+
 
 
 
