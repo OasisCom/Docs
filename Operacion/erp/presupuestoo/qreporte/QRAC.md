@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Appropriation Cxp  
+title: Ejecución mensual presupuesto de gasto detallado CXP  
 permalink: /Operacion/erp/presupuestoo/qreporte/QRAC  
 editable: si
 ---
@@ -10,7 +10,7 @@ editable: si
 
 Informe que extrae toda la informacion de la reserva presupuestal.  
 Informe Mensual de Ejecucion del Presupuesto de Gastos Detallado Cuentas por Pagar  
-Appropriation Cxp  
+Ejecución mensual presupuesto de gasto detallado CXP  
 Se realizan los filtros de periodo, año.  
 
 ![](QRAC1.png)	
