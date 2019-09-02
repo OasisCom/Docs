@@ -23,7 +23,7 @@ Apropiación de la Vigencia.
 * PARTE.2.  
 Informe Mensual de Ejecucion del Presupuesto de Ingresos Detallado  
 Cuenta por Cobrar.  
-Apropiación de la Vigencia  
+Apropiación de la Vigencia.  
 Se realizan los filtros de periodo, año.  
 **********
 
