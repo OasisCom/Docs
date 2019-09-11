@@ -1412,9 +1412,11 @@ Esta consulta extrae los datos pricipales del [BPRO], realiza la consulta por: c
 ![](jfac11.png)  
 
 * Damos clic sobre el botón.  
+
 	![](jfac12.png)  
     
-    Si la consulta retorna mas de un registro, puede paginar en busqueda del registro que desea consulta.  
+    Si la consulta retorna mas de un registro, puede paginar la busqueda del registro que desea consultar.  
     
+    ![](jfac13.png)  
 
 
