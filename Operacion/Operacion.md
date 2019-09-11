@@ -86,6 +86,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 43. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
 44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
 45. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
+46. [Consulta_rapida_productos](http://docs.oasiscom.com/Operacion/#Consulta_rapida_productos)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -1402,3 +1403,5 @@ El sistema genera 3 tipos de alertas:
 * **Alerta Roja:** La alerta roja es un indicador de que en el sistema falta alguna parametrización o existe algún error en el procesamiento de la información. Es importante leer el mensaje para poder determinar el tipo de falla o control que el sistema está validando.  
 
 ![](roja.png)
+
+## [Consulta_rapida_productos](http://docs.oasiscom.com/Operacion/#Consulta_rapida_productos)  
