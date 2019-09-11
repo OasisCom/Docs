@@ -149,4 +149,6 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 ![](movil17.png)
 
-![](movil16.png)
+![](movil16.png)  
+
+## [consulta de precios![]](http://docs.oasiscom.com/Operacion/movil/#consulta-de-precios)
