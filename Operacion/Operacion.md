@@ -1405,3 +1405,9 @@ El sistema genera 3 tipos de alertas:
 ![](roja.png)
 
 ## [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#Consulta-rapida-productos)  
+
+Para las opciones de movimiento que involucre en el detalle el campo producto. Ejemplo: OFAC, FFAC, JFAC, GFAC entre otras, se parametriza el botón “consulta rápida de productos” en el maestro del documento.  
+
+![](jfac11.png)
+
+
