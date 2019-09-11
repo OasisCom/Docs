@@ -143,17 +143,17 @@ Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las 
 ![](movil13.png)
 
 
-## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/#acerca-de)
+## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/#acerca-de) 
 
 La opción **Acerca de** mostrará la información referente a la aplicación móvil.  
 
-![](movil17.png)
+![](movil17.png)  
 
 ![](movil16.png)  
 
 ## [consulta de precios![]](http://docs.oasiscom.com/Operacion/movil/#consulta-de-precios)  
 
-Se debe de parametrizar el Perfil:
+Se debe de parametrizar el Perfil:  
 En el detalle del perfil, se inserta el código del usuario, el campo tipo como: favorito y en programa= [MFCPR].  
 
 ![](movil33.png)  
@@ -162,7 +162,9 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 ![](movil34.png)  
 
+* Realizando la consulta con el lector del código de barras, retorna la información del producto.   
 
+![](movil35.png)  
 
 
 
