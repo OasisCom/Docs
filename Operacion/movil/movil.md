@@ -160,6 +160,10 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 * Al abrir desde el móvil la visualización es la siguiente.  
 
+![](movil34.png)  
+
+
+
 
 
 
