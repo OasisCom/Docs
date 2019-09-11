@@ -1407,7 +1407,14 @@ El sistema genera 3 tipos de alertas:
 ## [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#Consulta-rapida-productos)  
 
 Para las opciones de movimiento que involucre en el detalle el campo producto. Ejemplo: OFAC, FFAC, JFAC, GFAC entre otras, se parametriza el botón “consulta rápida de productos” en el maestro del documento.  
+Esta consulta extrae los datos pricipales del [BPRO], realiza la consulta por: codigo EAN, producto, nombre del producto, codigo antiguo.  
 
-![](jfac11.png)
+![](jfac11.png)  
+
+* Damos clic sobre el botón.  
+	![](jfac12.png)  
+    
+    Si la consulta retorna mas de un registro, puede paginar en busqueda del registro que desea consulta.  
+    
 
 
