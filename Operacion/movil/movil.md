@@ -169,3 +169,4 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+
