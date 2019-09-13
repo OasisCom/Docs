@@ -151,7 +151,7 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 ![](movil16.png)  
 
-## [consulta de precios![]](http://docs.oasiscom.com/Operacion/movil/#consulta-de-precios)  
+## [Consulta de precios](http://docs.oasiscom.com/Operacion/movil/#consulta-de-precios)  
 
 Se debe de parametrizar el Perfil desde web:  
 En el detalle del perfil, se inserta el código del usuario, el campo tipo como: favorito y en programa= [MFCPR].  
