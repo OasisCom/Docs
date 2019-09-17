@@ -16,7 +16,7 @@ se denomina libro auxiliar detallado de Presupuesto Oficial.
 
 **Periodo:**  
 **Año:**  
-**Documento**  
+**Documento:**  
 **Numero:**  
 **Ubicacion:**  
 **Fecha:**  
