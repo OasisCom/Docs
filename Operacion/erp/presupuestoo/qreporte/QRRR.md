@@ -14,13 +14,13 @@ Informe que extrae toda la informacion de todos  Registros Presupuestales asocia
 * Pago.  
 
 
-Se realizan los filtros de:  
-**EntryId:**  Rubro.
-**Fecha inicial:**  Data.
-**Fecha final:**  Data.
-**Tipo:**  Actual, Reserva, Cuenta por Pagar.
+Se realizan los filtros de:   
+**EntryId:**  Rubro.  
+**Fecha inicial:**  Data.  
+**Fecha final:**  Data.  
+**Tipo:**  Actual, Reserva, Cuenta por Pagar.  
 
-![](QRRR1.png)	
+![](QRRR1.png)	 
 
 **QRRR**
 
