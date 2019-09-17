@@ -17,7 +17,7 @@ Se realizan los filtros de:
 **Fecha final:**
 **Tipo:**  
 
-![](QRAC1.png)	
+![](QRRR1.png)	
 
-QRRR
+**QRRR**
 
