@@ -8,8 +8,8 @@ editable: si
 # QRAX -Libro Auxiliar Detallado de Presupuesto Oficial  
 
 
-Informe que extrae toda la afectacion contable y si tiene Rubro asociado a la cuenta contable.
-se denomina libro auxiliar detallado de Presupuesto Oficial.  
+Informe que extrae toda la afectacion contable y si tiene Rubro asociado a la cuenta contable.  
+Se denomina libro auxiliar detallado de Presupuesto Oficial.  
 
 
 * Se realizan los filtros de:  
