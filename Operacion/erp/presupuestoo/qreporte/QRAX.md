@@ -23,7 +23,7 @@ Informe que extrae toda la informacion libro auxiliar detallado de Presupuesto O
 **Entrada:**  
 **Cuenta:** 
 
-![](QRAX11.png)	
+![](QRAX11.png)	 
 
-**QRAX**
+**QRAX**  
 
