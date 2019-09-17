@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qreporte/QRAX
 editable: si
 ---
 
-# QRAX -libro auxiliar detallado de Presupuesto Oficial  
+# QRAX -Libro Auxiliar Detallado de Presupuesto Oficial  
 
 
 Informe que extrae toda la informacion libro auxiliar detallado de Presupuesto Oficial  
