@@ -14,15 +14,15 @@ Se denomina libro auxiliar detallado de Presupuesto Oficial.
 
 * Se realizan los filtros de:  
 
-**Periodo:**  
-**Año:**  
-**Documento:**  
-**Numero:**  
-**Ubicacion:**  
-**Fecha:**  
-**Cliente:**  
-**Entrada:**  
-**Cuenta:**  
+**Periodo:**  Data.  
+**Año:**  Data.  
+**Documento:**  parametrizacion del BDOC, posee zoom de busqueda.  
+**Numero:**  consecutivo automatico.  
+**Ubicacion:**  parametrizacion del BUBI; posee zoom de busqueda.  
+**Fecha:**  Data.  
+**Cliente:**    parametrizacion del BTER; posee zoom de busqueda.  
+**EntryId:**  Rubro.  
+**Cuenta:**   parametrizacion del BCUE; posee zoom de busqueda.  
 
 ![](QRAX11.png)	 
 
