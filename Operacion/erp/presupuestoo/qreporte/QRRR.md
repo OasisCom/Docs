@@ -11,9 +11,13 @@ editable: si
 Informe que extrae toda la informacion Registro Presupuestal por Rubro  
 
 
-Se realizan los filtros de periodo, año.  
+Se realizan los filtros de:
+**EntryId:**  
+**Fecha inicial:**
+**Fecha final:**
+**Tipo:**  
 
 ![](QRAC1.png)	
 
-QRAC
+QRRR
 
