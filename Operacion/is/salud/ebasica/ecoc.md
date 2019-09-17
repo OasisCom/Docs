@@ -15,7 +15,7 @@ Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" 
 * Suministros, referencia,  
 * Plan domiciliario,  
 * Oxigeno,  
-* Ambulancia, entre otras  
+* Ambulancia, entre otras.  
 
 ![](ECOC11.png)  
 
