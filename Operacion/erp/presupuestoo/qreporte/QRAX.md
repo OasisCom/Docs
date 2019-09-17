@@ -13,15 +13,15 @@ Informe que extrae toda la informacion libro auxiliar detallado de Presupuesto O
 
 * Se realizan los filtros de:  
 
-**Periodo:** 
-**Año:** 
-**Documento** 
-**Numero:** 
+**Periodo:**  
+**Año:**  
+**Documento**  
+**Numero:**  
 **Ubicacion:**  
 **Fecha:**  
 **Cliente:**  
 **Entrada:**  
-**Cuenta:** 
+**Cuenta:**  
 
 ![](QRAX11.png)	 
 
