@@ -8,7 +8,7 @@ editable: si
 # QRRR - Registro Presupuestal por Rubro  
 
 
-Informe que extrae toda la informacion de todos  Registros Presupuestales asociados a ese Rubro; presentando el tercero, las fechas de contrato, y los valores de las instancias de:  
+Informe que extrae toda la informacion de todos  Registros Presupuestales, asociados a ese Rubro; presentando el tercero, las fechas de contrato, y los valores de las instancias de:  
 * Comprometido.  
 * Obligado.  
 * Pago.  
