@@ -35,7 +35,7 @@ editable: si
 
 >##### [WEBINAR: Declaración de Renta - Persona Natural - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/presentacion-webinar-D-R.pdf)
 
->##### [WEBINAR: Declaración de Renta - Persona Natural - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-F-EVP.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Factura Electrónica - Validación Previa - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-F-EVP.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
 
 
