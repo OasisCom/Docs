@@ -108,6 +108,11 @@ Esta opción le permite consultar los consumos históricos de la compañía en u
 **3.3	Saldos Periódicos por Bodega [ISPB]**  
 Similar a la consulta de saldos periódicos por producto esta aplicación le indica los consumos históricos definidos por cada bodega de la compañía. Al igual que el **[ISPP]** se encuentra dentro del **MÓDULO de LOGÍSTICA SCM,** el subnivel de inventarios, y la carpeta de saldos.   
 
+**3.4	Reportes:**
+Rotación de inventarios:  **IRRO; IRRI.**  
+Niveles de Stock: **IRNV; IRNI**   
+
+
 
 
 
