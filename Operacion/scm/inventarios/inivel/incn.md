@@ -46,7 +46,37 @@ Para que **OASISCOM** realice el control de stock para cada producto se debe enc
 •	**Inicial y Final:** En estos dos campos se definen los rangos de productos, en cantidades, para cada segmento de rotación **ABC.**   
 •	**Mínimo, Reorden y Máximo:** Estos tres campos indicaran el factor a multiplicar el valor de consumo por mes de un producto según su clasificación, un ejemplo seria que si el consumo es de 25 unidades al mes el factor del nivel mínimo es de 1.5 el sistema asignara como nivel minino en la aplicación **INPR o INBO** según el caso un valor de 37.5 que sale de multiplicar el consumo por el factor (25 * 1.5), del mismo modo aplica para reorden y máximo.    
 
+**2.	 NIVELES DE STOCK   [INCN]**
+Para realizar el cálculo de **niveles de stock OASISCOM** toma periodos hacia atrás a partir del mes anterior en el que se realiza el cálculo. Se sugiere que la empresa lleve datos históricos de consumo en OASISCOM de por lo menos tres meses.   
+El cálculo siempre se realiza periódico, para cada tipo de producto, terminado, materia prima o suministro. 
+En **OASISCOM** tras haber finalizado la parametrización con la definición de ABC entramos a calcular los niveles de stock, una aplicación fundamental es la de niveles por producto **[INPR]**, en esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, en el subnivel de inventarios, la carpeta de Niveles de Stock.   
 
+![](inpr22.png)
+
+Para cada producto que tenga control de stock en **OASISCOM** la aplicación Niveles por Producto **[INPR]** va a generar un control tipo semáforo, que indica el estado actual de inventarios de este producto, de acuerdo a la parametrización dada en la aplicación de ABC **[BABC]**, a los campos mínimo, reorden y máximo, este control de semáforos esta dado por:   
+•	**Semáforo Rojo:** Indica que el stock del producto se encuentra por debajo de su nivel mínimo.   
+**o	Formula: saldo < Nivel mínimo.**   
+
+**•	Semáforo Amarillo:** El nivel de stock se encuentra entre el nivel mínimo y el punto de reorden.    
+**o	Formula: saldo >= nivel mínimo y saldo < nivel reorden.**  
+
+**•	Semáforo Verde:** Los niveles de stock del producto están entre el punto de reorden y el nivel máximo.   
+**o	Formula: saldo > reorden y saldo <= nivel máximo**.  
+
+**•	Semáforo Azul:** Los niveles de stock están por encima del nivel máximo definido.   
+**o	Formula: saldo > nivel máximo**.  
+
+
+**Fórmula para calcular los días de rotación:**  
+
+Número de veces = Suma del consumo de los periodos tenidos en cuenta/ ((saldo inicial del primer mes que se tiene en cuenta + saldo del último mes que se tiene en cuenta) / 2)
+Días rotación = (Numero de periodos tomados en cuenta * 30) / Número de veces.
+
+Recuerde: 
+Todos los datos de esta aplicación provienen del cálculo de niveles de stock [incn], aplicación que veremos a continuación. 
+
+2.1	CALCULO DE NIVELES DE STOCK 
+Para ejecutar este cálculo, utilizamos la aplicación Cálculo de Niveles de Stock [incn], esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, y la carpeta de Niveles de Stock. 
 
 
 
