@@ -84,14 +84,32 @@ En esta aplicación definimos los parámetros para el cálculo de niveles de sto
 **•	Ubicación:** Se define para que ubicación especifica se va a realizar el cálculo de niveles de stock, si se quiere realizar para todas las ubicaciones se debe colocar CERO (0).   
 **•	Canal:** Si la compañía maneja canales como franquicias, mayoristas, detallistas, etc., y desea calcular los niveles de stock para uno en especial debe colocar el numero de este, en caso contrario se deja el CERO (0).  
 **•	Periodos:** En este campo se definen los meses hacia atrás del periodo actual para los que se desea calcular los niveles de stock.   
-**•	Tipo:** En este campo desplegable, se tiene la opción de elegir para que tipo de opción se va a realizar el cálculo de los niveles de stock, bien sea para los productos en su totalidad, o para una ubicación específica. 
-**•	Consumo:** Se determina que el cálculo de niveles de stock va a ser periódico. 
-**•	Inventarios:** En este campo elegimos para que tipo de inventario por producto deseamos realizar el cálculo, producto terminado, suministros o materia prima. 
-**•	Clasificación:** Dependiendo si la compañía posee una estructura definida de clasificaciones de productos es posible ejecutar el cálculo de niveles de stock para una de ellas, consulte la posibilidad de esta opción con el equipo de implementación o soporte de OASISCOM R3. 
-**•	ABC:** En este campo se define para que tipo de productos de acuerdo a su clasificación ABC se desea calcular los niveles de stock, si desea correr el proceso para todos los productos se debe colocar N o si no las diferentes clasificaciones A (alta rotación) B (media rotación), etc. 
-**•	Periodos BackOrder:** Se colocan los mismos periodos de cálculo que en el campo anterior denominado PERIODOS. 
-**•	 Periodos por Demanda:** Se colocan los mismos periodos de cálculo que en el campo anterior denominado **PERIODOS. 
-LUEGO DE DEFINIR TODOS LOS CAMPOS PRESIONAMOS EL BOTÓN ACEPTAR PARA EJECUTAR EL CÁLCULO DE NIVELES DE STOCK.** 
+**•	Tipo:** En este campo desplegable, se tiene la opción de elegir para que tipo de opción se va a realizar el cálculo de los niveles de stock, bien sea para los productos en su totalidad, o para una ubicación específica.   
+**•	Consumo:** Se determina que el cálculo de niveles de stock va a ser periódico.   
+**•	Inventarios:** En este campo elegimos para que tipo de inventario por producto deseamos realizar el cálculo, producto terminado, suministros o materia prima.   
+**•	Clasificación:** Dependiendo si la compañía posee una estructura definida de clasificaciones de productos es posible ejecutar el cálculo de niveles de stock para una de ellas, consulte la posibilidad de esta opción con el equipo de implementación o soporte de OASISCOM R3.   
+**•	ABC:** En este campo se define para que tipo de productos de acuerdo a su clasificación ABC se desea calcular los niveles de stock, si desea correr el proceso para todos los productos se debe colocar N o si no las diferentes clasificaciones A (alta rotación) B (media rotación), etc.   
+**•	Periodos BackOrder:** Se colocan los mismos periodos de cálculo que en el campo anterior denominado PERIODOS.   
+**•	 Periodos por Demanda:** Se colocan los mismos periodos de cálculo que en el campo anterior denominado **PERIODOS.  
+LUEGO DE DEFINIR TODOS LOS CAMPOS PRESIONAMOS EL BOTÓN ACEPTAR PARA EJECUTAR EL CÁLCULO DE NIVELES DE STOCK.**   
+
+
+**3.	CONSULTAS   **  
+**3.1	Niveles por Bodega [INBO]**  
+Esta consulta de los cálculos efectuados por el proceso de cálculos de niveles de stock se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, la carpeta de niveles de stock.   
+
+![](inbo4.png)  
+
+La aplicación de Niveles por Bodega **[INBO]** muestra los niveles de stock de cada producto teniendo en cuenta las bodegas, esta surge cuando se realiza el cálculo de niveles de stock por ubicaciones.   
+
+**3.2	Saldo Periódico por Producto [ISSP]**   
+Esta opción le permite consultar los consumos históricos de la compañía en un periodo de tiempo determinado a nivel de toda la empresa.   
+
+**3.3	Saldos Periódicos por Bodega [ISPB]**  
+Similar a la consulta de saldos periódicos por producto esta aplicación le indica los consumos históricos definidos por cada bodega de la compañía. Al igual que el **[ISPP]** se encuentra dentro del **MÓDULO de LOGÍSTICA SCM,** el subnivel de inventarios, y la carpeta de saldos.   
+
+
+
 
 
 
