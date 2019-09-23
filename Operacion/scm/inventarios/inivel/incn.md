@@ -33,7 +33,7 @@ La parametrización de los conceptos de consumo debe hacerse para todas y cada u
 **1.2  	Clasificación ABC  [BABC]**  
 Para una compañía es vital mantener información veraz y actualizada sobre el comportamiento de sus productos, la rotación y éxito en el mercado de estos, por ello cuando se manejan niveles de stock se utiliza la clasificación ABC, que separa los productos de acuerdo a sus niveles de rotación, alta, media, baja, muy baja, etc., todo depende la política que quiera manejar la empresa.   
 OASISCOM de acuerdo a los días de rotación de los productos calcula la clasificación ABC para cada producto, en el momento de la implementación se le pedirá a Usted como cliente de acuerdos a sus comportamientos históricos de demanda calificar cada producto de acuerdo a sus políticas de rotación de inventarios.    
-La clasificación ABC se parametriza en la aplicación** ABC [BABC],** esta se encuentra en el módulo de **COMUNES >> PRODUCTOS >>.**  
+La clasificación ABC se parametriza en la aplicación ABC **[BABC],** esta se encuentra en el módulo de **COMUNES >> PRODUCTOS >>.**  
 Para que **OASISCOM** realice el control de stock para cada producto se debe encender el checkbox de Stock para cada producto en el básico de **productos [BPRO]** en la pestaña inventarios.   
 
 **BABC**  
@@ -94,7 +94,7 @@ En esta aplicación definimos los parámetros para el cálculo de niveles de sto
 LUEGO DE DEFINIR TODOS LOS CAMPOS PRESIONAMOS EL BOTÓN ACEPTAR PARA EJECUTAR EL CÁLCULO DE NIVELES DE STOCK.**   
 
 
-**3.	CONSULTAS   **   
+**3.	CONSULTAS**   
 **3.1	Niveles por Bodega [INBO]**   
 Esta consulta de los cálculos efectuados por el proceso de cálculos de niveles de stock se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, la carpeta de niveles de stock.   
 
