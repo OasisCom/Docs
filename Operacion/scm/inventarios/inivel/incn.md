@@ -17,8 +17,18 @@ Esta aplicación se encuentra dentro del módulo de LOGÍSTICA SCM >> Inventario
 Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.** 
 **Generalmente las compañías consideran como consumo los traslados entre bodegas, este error es muy frecuente, sin embargo, no es consumo pues la mercancía nunca sale de la empresa como tal.**   
 
-ibcc11
+IBCC
 ![](ibcc11.png)
+
+
+En la aplicación de Conceptos de Consumo [ibcc] encontrará 5 columnas:  
+•	Tipo: “M” material.  
+•	Ubicación: Los conceptos de consumo deben ser parametrizados para todas y cada una de las ubicaciones que la empresa haya definido como bodegas en el Básico de Bodegas [bubi].   
+•	Inventario: Aquí se define para que tipo de inventarios se van a definir los conceptos de consumo. Sean productos terminados, suministros o materia prima.   
+•	Documento: Es una parte fundamental de la parametrización pues se deben definir todos los documentos y conceptos que afectan consumo para cada una de las ubicaciones.   
+•	Concepto: Se deben señalar todos los conceptos que afectan el consumo por cada documento que se especifique.   
+Recuerde:   
+La parametrización de los conceptos de consumo debe hacerse para todas y cada una de las ubicaciones (bodegas) de la empresa que se consideren como bodegas incluyendo todos los documentos y conceptos que afecten el consumo en cada una de las ubicaciones.   
 
 
 
