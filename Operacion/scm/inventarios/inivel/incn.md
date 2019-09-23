@@ -77,7 +77,7 @@ Días rotación = (Numero de periodos tomados en cuenta * 30) / Número de veces
 **Recuerde:**   
 Todos los datos de esta aplicación provienen del cálculo de niveles de stock **[INCN]**, aplicación que veremos a continuación.   
 
-**2.1	CALCULO DE NIVELES DE STOCK **  
+**2.1	CALCULO DE NIVELES DE STOCK**  
 Para ejecutar este cálculo, utilizamos la aplicación Cálculo de Niveles de Stock **[INCN]**, esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, y la carpeta de Niveles de Stock.   
 
 ![](incn2.png)   
