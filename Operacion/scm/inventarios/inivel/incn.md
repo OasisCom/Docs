@@ -23,7 +23,7 @@ Los conceptos de consumo son definidos por la empresa aunque en una gran mayorí
 
 En la aplicación de Conceptos de Consumo **[IBCC]** encontrará 5 columnas:  
 **•	Tipo:** “M” material.  
-**•	Ubicación:** Los conceptos de consumo deben ser parametrizados para todas y cada una de las ubicaciones que la empresa haya definido como bodegas en el Básico de Bodegas [bubi].   
+**•	Ubicación:** Los conceptos de consumo deben ser parametrizados para todas y cada una de las ubicaciones que la empresa haya definido como bodegas en el Básico de Bodegas **[BUBI]**.   
 **•	Inventario:** Aquí se define para que tipo de inventarios se van a definir los conceptos de consumo. Sean productos terminados, suministros o materia prima.   
 **•	Documento:** Es una parte fundamental de la parametrización pues se deben definir todos los documentos y conceptos que afectan consumo para cada una de las ubicaciones.   
 **•	Concepto:**Se deben señalar todos los conceptos que afectan el consumo por cada documento que se especifique.   
@@ -34,7 +34,7 @@ La parametrización de los conceptos de consumo debe hacerse para todas y cada u
 Para una compañía es vital mantener información veraz y actualizada sobre el comportamiento de sus productos, la rotación y éxito en el mercado de estos, por ello cuando se manejan niveles de stock se utiliza la clasificación ABC, que separa los productos de acuerdo a sus niveles de rotación, alta, media, baja, muy baja, etc., todo depende la política que quiera manejar la empresa.   
 OASISCOM de acuerdo a los días de rotación de los productos calcula la clasificación ABC para cada producto, en el momento de la implementación se le pedirá a Usted como cliente de acuerdos a sus comportamientos históricos de demanda calificar cada producto de acuerdo a sus políticas de rotación de inventarios.    
 La clasificación ABC se parametriza en la aplicación** ABC [BABC],** esta se encuentra en el módulo de **COMUNES >> PRODUCTOS >>.**  
-Para que **OASISCOM** realice el control de stock para cada producto se debe encender el checkbox de Stock para cada producto en el básico de **productos [bpro]** en la pestaña inventarios.   
+Para que **OASISCOM** realice el control de stock para cada producto se debe encender el checkbox de Stock para cada producto en el básico de **productos [BPRO]** en la pestaña inventarios.   
 
 **BABC**  
 
@@ -69,8 +69,8 @@ Para cada producto que tenga control de stock en **OASISCOM** la aplicación Niv
 
 **Fórmula para calcular los días de rotación:**   
 
-Número de veces = Suma del consumo de los periodos tenidos en cuenta/ ((saldo inicial del primer mes que se tiene en cuenta + saldo del último mes que se tiene en cuenta) / 2)
-Días rotación = (Numero de periodos tomados en cuenta * 30) / Número de veces.
+Número de veces = Suma del consumo de los periodos tenidos en cuenta/ ((saldo inicial del primer mes que se tiene en cuenta + saldo del último mes que se tiene en cuenta) / 2)  
+Días rotación = (Numero de periodos tomados en cuenta * 30) / Número de veces.  
 
 **Recuerde:**   
 Todos los datos de esta aplicación provienen del cálculo de niveles de stock **[INCN]**, aplicación que veremos a continuación.   
@@ -78,7 +78,7 @@ Todos los datos de esta aplicación provienen del cálculo de niveles de stock *
 **2.1	CALCULO DE NIVELES DE STOCK **  
 Para ejecutar este cálculo, utilizamos la aplicación Cálculo de Niveles de Stock **[INCN]**, esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, y la carpeta de Niveles de Stock.   
 
-![](incn2.png)  
+![](incn2.png)   
 
 En esta aplicación definimos los parámetros para el cálculo de niveles de stock, antes de ejecutar este proceso desde esta misma aplicación, los campos a definir son:   
 **•	Ubicación:** Se define para que ubicación especifica se va a realizar el cálculo de niveles de stock, si se quiere realizar para todas las ubicaciones se debe colocar CERO (0).   
@@ -94,8 +94,8 @@ En esta aplicación definimos los parámetros para el cálculo de niveles de sto
 LUEGO DE DEFINIR TODOS LOS CAMPOS PRESIONAMOS EL BOTÓN ACEPTAR PARA EJECUTAR EL CÁLCULO DE NIVELES DE STOCK.**   
 
 
-**3.	CONSULTAS   **  
-**3.1	Niveles por Bodega [INBO]**  
+**3.	CONSULTAS   **   
+**3.1	Niveles por Bodega [INBO]**   
 Esta consulta de los cálculos efectuados por el proceso de cálculos de niveles de stock se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, la carpeta de niveles de stock.   
 
 ![](inbo4.png)  
