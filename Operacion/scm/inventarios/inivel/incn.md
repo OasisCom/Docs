@@ -7,7 +7,9 @@ editable: si
 
 # Calcular Niveles de Stock - INCN
 
-NIVELES DE STOCK  
+**NIVELES DE STOCK**  
+
+
 PASOS A SEGUIR  
 **1.	PARAMETRIZACIÓN**   
 Los niveles de stock y el cálculo de los mismos permiten a la empresa saber como se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).   
