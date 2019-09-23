@@ -12,8 +12,8 @@ PASOS A SEGUIR
 **1.	PARAMETRIZACIÓN**   
 Los niveles de stock y el cálculo de los mismos permiten a la empresa saber como se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).   
 **1.1	Conceptos de Consumo [IBCC]**  
-El primer pasó para iniciar el proceso de niveles de stock en OASIS es parametrizar los conceptos de consumo, esto se realiza en la aplicación **[IBCC]**.    
-Esta aplicación se encuentra dentro del módulo de **LOGÍSTICA SCM **>> Inventarios dentro de la carpeta de**DATOS BÁSICOS.**   
+El primer pasó para iniciar el proceso de niveles de stock en **OASIS** es parametrizar los conceptos de consumo, esto se realiza en la aplicación **[IBCC]**.    
+Esta aplicación se encuentra dentro del módulo de **LOGÍSTICA SCM** Inventarios dentro de la carpeta de **DATOS BÁSICOS.**   
 Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.**   
 **Generalmente las compañías consideran como consumo los traslados entre bodegas, este error es muy frecuente, sin embargo, no es consumo pues la mercancía nunca sale de la empresa como tal.**   
 
@@ -21,7 +21,7 @@ Los conceptos de consumo son definidos por la empresa aunque en una gran mayorí
 ![](ibcc11.png)
 
 
-En la aplicación de Conceptos de Consumo [ibcc] encontrará 5 columnas:  
+En la aplicación de Conceptos de Consumo **[IBCC]** encontrará 5 columnas:  
 **•	Tipo:** “M” material.  
 **•	Ubicación:** Los conceptos de consumo deben ser parametrizados para todas y cada una de las ubicaciones que la empresa haya definido como bodegas en el Básico de Bodegas [bubi].   
 **•	Inventario:** Aquí se define para que tipo de inventarios se van a definir los conceptos de consumo. Sean productos terminados, suministros o materia prima.   
