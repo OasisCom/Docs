@@ -95,7 +95,7 @@ LUEGO DE DEFINIR TODOS LOS CAMPOS PRESIONAMOS EL BOTÓN ACEPTAR PARA EJECUTAR EL
 
 
 **3.	CONSULTAS**   
-**3.1	Niveles por Bodega [INBO]**   
+**3.1	Niveles por Bodega** **[INBO]**   
 Esta consulta de los cálculos efectuados por el proceso de cálculos de niveles de stock se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, la carpeta de niveles de stock.   
 
 ![](inbo4.png)  
