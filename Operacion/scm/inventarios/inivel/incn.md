@@ -7,6 +7,24 @@ editable: si
 
 # Calcular Niveles de Stock - INCN
 
+NIVELES DE STOCK  
+PASOS A SEGUIR  
+**1.	PARAMETRIZACIÓN**   
+Los niveles de stock y el cálculo de los mismos permiten a la empresa saber como se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).   
+**1.1	Conceptos de Consumo [ibcc]**  
+El primer pasó para iniciar el proceso de niveles de stock en OASIS es parametrizar los conceptos de consumo, esto se realiza en la aplicación [ibcc].    
+Esta aplicación se encuentra dentro del módulo de LOGÍSTICA SCM >> Inventarios dentro de la carpeta de DATOS BÁSICOS.
+Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.** 
+**Generalmente las compañías consideran como consumo los traslados entre bodegas, este error es muy frecuente, sin embargo, no es consumo pues la mercancía nunca sale de la empresa como tal.**   
+
+ibcc11
+![](ibcc11.png)
+
+
+
+
+
+
 Proceso que calcula el nivel de stock de acuerdo al consumo promedio y a los niveles definidos para cada una de las bodegas.  
 
 ![](incn1.png)
