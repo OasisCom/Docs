@@ -13,7 +13,7 @@ editable: si
 PASOS A SEGUIR  
 **1.	PARAMETRIZACIÓN**   
 Los niveles de stock y el cálculo de los mismos permiten a la empresa saber como se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).   
-**1.1	Conceptos de Consumo [IBCC]**  
+**1.1	Conceptos de Consumo [IBCC].**  
 El primer pasó para iniciar el proceso de niveles de stock en **OASIS** es parametrizar los conceptos de consumo, esto se realiza en la aplicación **[IBCC]**.    
 Esta aplicación se encuentra dentro del módulo de **LOGÍSTICA SCM** Inventarios dentro de la carpeta de **DATOS BÁSICOS.**   
 Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.**   
@@ -112,9 +112,9 @@ Similar a la consulta de saldos periódicos por producto esta aplicación le ind
 
 **3.4	Reportes:**  
 Rotación de inventarios:  **IRRO; IRRI.**  
-Niveles de Stock: **IRNV; IRNI**   
+Niveles de Stock: **IRNV; IRNI.**   
 
-
+***********
 
 
 
