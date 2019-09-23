@@ -48,7 +48,7 @@ Para que **OASISCOM** realice el control de stock para cada producto se debe enc
 •	**Inicial y Final:** En estos dos campos se definen los rangos de productos, en cantidades, para cada segmento de rotación **ABC.**   
 •	**Mínimo, Reorden y Máximo:** Estos tres campos indicaran el factor a multiplicar el valor de consumo por mes de un producto según su clasificación, un ejemplo seria que si el consumo es de 25 unidades al mes el factor del nivel mínimo es de 1.5 el sistema asignara como nivel minino en la aplicación **INPR o INBO** según el caso un valor de 37.5 que sale de multiplicar el consumo por el factor (25 * 1.5), del mismo modo aplica para reorden y máximo.    
 
-**2.	 NIVELES DE STOCK   [INCN]**
+**2.	 NIVELES DE STOCK   [INCN]**  
 Para realizar el cálculo de **niveles de stock OASISCOM** toma periodos hacia atrás a partir del mes anterior en el que se realiza el cálculo. Se sugiere que la empresa lleve datos históricos de consumo en OASISCOM de por lo menos tres meses.   
 El cálculo siempre se realiza periódico, para cada tipo de producto, terminado, materia prima o suministro. 
 En **OASISCOM** tras haber finalizado la parametrización con la definición de ABC entramos a calcular los niveles de stock, una aplicación fundamental es la de niveles por producto **[INPR]**, en esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, en el subnivel de inventarios, la carpeta de Niveles de Stock.   
@@ -77,7 +77,7 @@ Días rotación = (Numero de periodos tomados en cuenta * 30) / Número de veces
 **Recuerde:**   
 Todos los datos de esta aplicación provienen del cálculo de niveles de stock **[INCN]**, aplicación que veremos a continuación.   
 
-**2.1	CALCULO DE NIVELES DE STOCK**  
+**2.1	CALCULO DE NIVELES DE STOCK**   
 Para ejecutar este cálculo, utilizamos la aplicación Cálculo de Niveles de Stock **[INCN]**, esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, y la carpeta de Niveles de Stock.   
 
 ![](incn2.png)   
@@ -110,7 +110,7 @@ Esta opción le permite consultar los consumos históricos de la compañía en u
 **3.3	Saldos Periódicos por Bodega [ISPB]**  
 Similar a la consulta de saldos periódicos por producto esta aplicación le indica los consumos históricos definidos por cada bodega de la compañía. Al igual que el **[ISPP]** se encuentra dentro del **MÓDULO de LOGÍSTICA SCM,** el subnivel de inventarios, y la carpeta de saldos.   
 
-**3.4	Reportes:**
+**3.4	Reportes:**  
 Rotación de inventarios:  **IRRO; IRRI.**  
 Niveles de Stock: **IRNV; IRNI**   
 
