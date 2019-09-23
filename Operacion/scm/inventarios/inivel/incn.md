@@ -17,7 +17,7 @@ Esta aplicación se encuentra dentro del módulo de LOGÍSTICA SCM >> Inventario
 Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.** 
 **Generalmente las compañías consideran como consumo los traslados entre bodegas, este error es muy frecuente, sin embargo, no es consumo pues la mercancía nunca sale de la empresa como tal.**   
 
-IBCC
+**IBCC**
 ![](ibcc11.png)
 
 
@@ -30,6 +30,21 @@ En la aplicación de Conceptos de Consumo [ibcc] encontrará 5 columnas:
 Recuerde:   
 La parametrización de los conceptos de consumo debe hacerse para todas y cada una de las ubicaciones (bodegas) de la empresa que se consideren como bodegas incluyendo todos los documentos y conceptos que afecten el consumo en cada una de las ubicaciones.   
 
+**1.2  	Clasificación ABC  [babc]**  
+Para una compañía es vital mantener información veraz y actualizada sobre el comportamiento de sus productos, la rotación y éxito en el mercado de estos, por ello cuando se manejan niveles de stock se utiliza la clasificación ABC, que separa los productos de acuerdo a sus niveles de rotación, alta, media, baja, muy baja, etc., todo depende la política que quiera manejar la empresa.   
+OASISCOM de acuerdo a los días de rotación de los productos calcula la clasificación ABC para cada producto, en el momento de la implementación se le pedirá a Usted como cliente de acuerdos a sus comportamientos históricos de demanda calificar cada producto de acuerdo a sus políticas de rotación de inventarios.    
+La clasificación ABC se parametriza en la aplicación** ABC [babc],** esta se encuentra en el módulo de **COMUNES >> PRODUCTOS >>.**  
+Para que **OASISCOM** realice el control de stock para cada producto se debe encender el checkbox de Stock para cada producto en el básico de **productos [bpro]** en la pestaña inventarios.   
+
+**BABC**  
+
+![](babc11.png)  
+
+•	**Tipo:**Para el caso del control de niveles de stock se debe colocar producto.   
+•	**Código:** Como se menciono antes cada empresa define sus clasificaciones ABC, para las rotaciones de inventario, en este caso se parametrizan los diferentes niveles que defina la empresa.   
+•	**Nombre:** El nombre otorgado a cada clasificación de rotación de inventarios, por ejemplo, alta rotación, baja rotación, etc.   
+•	**Inicial y Final:** En estos dos campos se definen los rangos de productos, en cantidades, para cada segmento de rotación **ABC.**   
+•	**Mínimo, Reorden y Máximo:** Estos tres campos indicaran el factor a multiplicar el valor de consumo por mes de un producto según su clasificación, un ejemplo seria que si el consumo es de 25 unidades al mes el factor del nivel mínimo es de 1.5 el sistema asignara como nivel minino en la aplicación **INPR o INBO** según el caso un valor de 37.5 que sale de multiplicar el consumo por el factor (25 * 1.5), del mismo modo aplica para reorden y máximo.    
 
 
 
