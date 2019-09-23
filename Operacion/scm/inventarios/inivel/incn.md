@@ -11,9 +11,9 @@ NIVELES DE STOCK
 PASOS A SEGUIR  
 **1.	PARAMETRIZACIÓN**   
 Los niveles de stock y el cálculo de los mismos permiten a la empresa saber como se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).   
-**1.1	Conceptos de Consumo [ibcc]**  
-El primer pasó para iniciar el proceso de niveles de stock en OASIS es parametrizar los conceptos de consumo, esto se realiza en la aplicación [ibcc].    
-Esta aplicación se encuentra dentro del módulo de LOGÍSTICA SCM >> Inventarios dentro de la carpeta de DATOS BÁSICOS.
+**1.1	Conceptos de Consumo [IBCC]**  
+El primer pasó para iniciar el proceso de niveles de stock en OASIS es parametrizar los conceptos de consumo, esto se realiza en la aplicación **[IBCC]**.    
+Esta aplicación se encuentra dentro del módulo de **LOGÍSTICA SCM **>> Inventarios dentro de la carpeta de**DATOS BÁSICOS.**  
 Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.** 
 **Generalmente las compañías consideran como consumo los traslados entre bodegas, este error es muy frecuente, sin embargo, no es consumo pues la mercancía nunca sale de la empresa como tal.**   
 
@@ -22,18 +22,18 @@ Los conceptos de consumo son definidos por la empresa aunque en una gran mayorí
 
 
 En la aplicación de Conceptos de Consumo [ibcc] encontrará 5 columnas:  
-•	Tipo: “M” material.  
-•	Ubicación: Los conceptos de consumo deben ser parametrizados para todas y cada una de las ubicaciones que la empresa haya definido como bodegas en el Básico de Bodegas [bubi].   
-•	Inventario: Aquí se define para que tipo de inventarios se van a definir los conceptos de consumo. Sean productos terminados, suministros o materia prima.   
-•	Documento: Es una parte fundamental de la parametrización pues se deben definir todos los documentos y conceptos que afectan consumo para cada una de las ubicaciones.   
-•	Concepto: Se deben señalar todos los conceptos que afectan el consumo por cada documento que se especifique.   
+**•	Tipo:** “M” material.  
+**•	Ubicación:** Los conceptos de consumo deben ser parametrizados para todas y cada una de las ubicaciones que la empresa haya definido como bodegas en el Básico de Bodegas [bubi].   
+**•	Inventario:** Aquí se define para que tipo de inventarios se van a definir los conceptos de consumo. Sean productos terminados, suministros o materia prima.   
+**•	Documento:** Es una parte fundamental de la parametrización pues se deben definir todos los documentos y conceptos que afectan consumo para cada una de las ubicaciones.   
+**•	Concepto:**Se deben señalar todos los conceptos que afectan el consumo por cada documento que se especifique.   
 Recuerde:   
 La parametrización de los conceptos de consumo debe hacerse para todas y cada una de las ubicaciones (bodegas) de la empresa que se consideren como bodegas incluyendo todos los documentos y conceptos que afecten el consumo en cada una de las ubicaciones.   
 
-**1.2  	Clasificación ABC  [babc]**  
+**1.2  	Clasificación ABC  [BABC]**  
 Para una compañía es vital mantener información veraz y actualizada sobre el comportamiento de sus productos, la rotación y éxito en el mercado de estos, por ello cuando se manejan niveles de stock se utiliza la clasificación ABC, que separa los productos de acuerdo a sus niveles de rotación, alta, media, baja, muy baja, etc., todo depende la política que quiera manejar la empresa.   
 OASISCOM de acuerdo a los días de rotación de los productos calcula la clasificación ABC para cada producto, en el momento de la implementación se le pedirá a Usted como cliente de acuerdos a sus comportamientos históricos de demanda calificar cada producto de acuerdo a sus políticas de rotación de inventarios.    
-La clasificación ABC se parametriza en la aplicación** ABC [babc],** esta se encuentra en el módulo de **COMUNES >> PRODUCTOS >>.**  
+La clasificación ABC se parametriza en la aplicación** ABC [BABC],** esta se encuentra en el módulo de **COMUNES >> PRODUCTOS >>.**  
 Para que **OASISCOM** realice el control de stock para cada producto se debe encender el checkbox de Stock para cada producto en el básico de **productos [bpro]** en la pestaña inventarios.   
 
 **BABC**  
