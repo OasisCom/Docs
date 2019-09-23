@@ -64,28 +64,43 @@ Para cada producto que tenga control de stock en **OASISCOM** la aplicación Niv
 **o	Formula: saldo > reorden y saldo <= nivel máximo**.  
 
 **•	Semáforo Azul:** Los niveles de stock están por encima del nivel máximo definido.   
-**o	Formula: saldo > nivel máximo**.  
+**o	Formula: saldo > nivel máximo**.   
 
 
-**Fórmula para calcular los días de rotación:**  
+**Fórmula para calcular los días de rotación:**   
 
 Número de veces = Suma del consumo de los periodos tenidos en cuenta/ ((saldo inicial del primer mes que se tiene en cuenta + saldo del último mes que se tiene en cuenta) / 2)
 Días rotación = (Numero de periodos tomados en cuenta * 30) / Número de veces.
 
-Recuerde: 
-Todos los datos de esta aplicación provienen del cálculo de niveles de stock [incn], aplicación que veremos a continuación. 
+**Recuerde:**   
+Todos los datos de esta aplicación provienen del cálculo de niveles de stock **[INCN]**, aplicación que veremos a continuación.   
 
-2.1	CALCULO DE NIVELES DE STOCK 
-Para ejecutar este cálculo, utilizamos la aplicación Cálculo de Niveles de Stock [incn], esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, y la carpeta de Niveles de Stock. 
+**2.1	CALCULO DE NIVELES DE STOCK **  
+Para ejecutar este cálculo, utilizamos la aplicación Cálculo de Niveles de Stock **[INCN]**, esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, el subnivel de inventarios, y la carpeta de Niveles de Stock.   
+
+![](incn2.png)  
+
+En esta aplicación definimos los parámetros para el cálculo de niveles de stock, antes de ejecutar este proceso desde esta misma aplicación, los campos a definir son:   
+**•	Ubicación:** Se define para que ubicación especifica se va a realizar el cálculo de niveles de stock, si se quiere realizar para todas las ubicaciones se debe colocar CERO (0).   
+**•	Canal:** Si la compañía maneja canales como franquicias, mayoristas, detallistas, etc., y desea calcular los niveles de stock para uno en especial debe colocar el numero de este, en caso contrario se deja el CERO (0).  
+**•	Periodos:** En este campo se definen los meses hacia atrás del periodo actual para los que se desea calcular los niveles de stock.   
+**•	Tipo:** En este campo desplegable, se tiene la opción de elegir para que tipo de opción se va a realizar el cálculo de los niveles de stock, bien sea para los productos en su totalidad, o para una ubicación específica. 
+**•	Consumo:** Se determina que el cálculo de niveles de stock va a ser periódico. 
+**•	Inventarios:** En este campo elegimos para que tipo de inventario por producto deseamos realizar el cálculo, producto terminado, suministros o materia prima. 
+**•	Clasificación:** Dependiendo si la compañía posee una estructura definida de clasificaciones de productos es posible ejecutar el cálculo de niveles de stock para una de ellas, consulte la posibilidad de esta opción con el equipo de implementación o soporte de OASISCOM R3. 
+**•	ABC:** En este campo se define para que tipo de productos de acuerdo a su clasificación ABC se desea calcular los niveles de stock, si desea correr el proceso para todos los productos se debe colocar N o si no las diferentes clasificaciones A (alta rotación) B (media rotación), etc. 
+**•	Periodos BackOrder:** Se colocan los mismos periodos de cálculo que en el campo anterior denominado PERIODOS. 
+**•	 Periodos por Demanda:** Se colocan los mismos periodos de cálculo que en el campo anterior denominado **PERIODOS. 
+LUEGO DE DEFINIR TODOS LOS CAMPOS PRESIONAMOS EL BOTÓN ACEPTAR PARA EJECUTAR EL CÁLCULO DE NIVELES DE STOCK.** 
 
 
 
-Proceso que calcula el nivel de stock de acuerdo al consumo promedio y a los niveles definidos para cada una de las bodegas.  
 
-![](incn1.png)
 
-**Entrada:** Los parámetros de entrada que requiere este proceso son los siguientes: número de la ubicación donde se va a generar los cálculos de los niveles de stock, números de periodos por los cuales se va a repetir este proceso, identificación del canal, especificación del tipo por el cual se va a generar este proceso este se puede generar por producto, ubicación o por localización y por último definición del nivel de inventario a calcular.  
 
-**Proceso:**  El proceso consiste en calcular el nivel de stock para cada bodega de acuerdo al consumo de los periodos anteriores al último cierre de inventario. Esto permite manejar un volumen de inventario adecuado que facilite la rotación del inventario. Este proceso se ejecuta en lote de acuerdo al tipo que se manejó en los datos de entrada.  
 
-**Salida:** La salida de datos se puede observar en aplicaciones como: niveles por producto (inpr), niveles por bodega (inbo) o en la de reporte niveles
+
+
+
+
+
