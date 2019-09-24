@@ -182,7 +182,7 @@ Se visualiza la siguiente pantalla donde extrae los diferentes productos tipo ob
 
 El proceso es seleccionar los productos a obsequiar y confirmamos la factura.  
 
-![](fdes154.png)  
+![](fdes155.png)  
 
 
 
