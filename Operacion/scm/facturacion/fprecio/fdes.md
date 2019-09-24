@@ -154,7 +154,7 @@ Luego de guardar el registro maestro, se procede a diligenciar los datos del det
 
 **Producto:** se ingresa el código del producto sobre el cual se desea realizar el movimiento. Ya sea seleccionando el código desde el zoom o ingresándolo manualmente y dando ‘tab’ para traer el resto de datos, se debe notar que en el campo **Descuento** se enseña el descuento en valor parametrizado en la opción FDES.  
 
-![](fdes19.png)
+![](fdes19.png)  
 
 Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción FDES), no se aplicará el descuento y en la opción JFAC el campo **Descuento** será 0.  
 
@@ -164,6 +164,15 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 Para el escenario donde se entrega el producto como tipo obsequio, se debe de parametrizar el **FBTD** tipos de descuento. Para los conceptos que son tipo de escala (aplica para varios obsequios) y unico (exclusivo obsequio), como se ilustran los campos; el sistema solo permitira un solo registro de regalo de todos los que se configuren en el programa **FDES.**  
 
 ![](fdes150.png)  
+
+Posteriormente ingresamos al **FDES** para configurar un producto como obsequio.  
+Para la prueba se realiza sobre el producto de codigo 10.  
+
+![](fdes152.png)  
+
+
+
+
 
 
 
