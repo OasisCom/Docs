@@ -168,10 +168,16 @@ Para el escenario donde se entrega el producto como tipo obsequio, se debe de pa
 Posteriormente ingresamos al **FDES** para configurar un producto como obsequio.  
 Para la prueba se realiza sobre el producto de codigo 10.  
 Importante es los rangos de fecha inicial y final, que corresponde a la vigencia del obsequio.  
+
 ![](fdes152.png)  
 
+Para realizar la validación se inserta una factura desde el JFAC se debe de valida rango de fecha y en el detalle, al digitar TAB.  
 
+![](fdes153.png)  
+ESTA FUNCIONALIDAD SE EJECUTA SOBRE EL ITEMCHANGE CANTIDAD DEL PROGRAMA JFAC.  y se visualiza la siguiente pantalla donde extrae los diferentes productos tipo obsequio, como se ilustra.  
+Puede seleccionar y confirmar la factura.  
 
+![](fdes154.png)  
 
 
 
