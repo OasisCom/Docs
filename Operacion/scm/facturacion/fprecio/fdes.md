@@ -167,7 +167,7 @@ Para el escenario donde se entrega el producto como tipo obsequio, se debe de pa
 
 Posteriormente ingresamos al **FDES** para configurar un producto como obsequio.  
 Para la prueba se realiza sobre el producto de codigo 10.  
-
+Importante es los rangos de fecha inicial y final, que corresponde a la vigencia del obsequio.  
 ![](fdes152.png)  
 
 
