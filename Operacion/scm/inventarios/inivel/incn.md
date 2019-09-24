@@ -19,8 +19,8 @@ Esta aplicación se encuentra dentro del módulo de **LOGÍSTICA SCM** Inventari
 Los conceptos de consumo son definidos por la empresa aunque en una gran mayoría de los casos el consumo simplemente es **TODO LO QUE SE VENDE MENOS TODO LO QUE ES DEVUELTO A LA COMPAÑÍA.**   
 **Generalmente las compañías consideran como consumo los traslados entre bodegas, este error es muy frecuente, sin embargo, no es consumo pues la mercancía nunca sale de la empresa como tal.**   
 
-**IBCC**
-![](ibcc11.png)
+**IBCC**  
+![](ibcc11.png)  
 
 
 En la aplicación de Conceptos de Consumo **[IBCC]** encontrará 5 columnas:  
