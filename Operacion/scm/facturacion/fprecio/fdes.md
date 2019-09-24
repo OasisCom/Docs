@@ -158,7 +158,13 @@ Luego de guardar el registro maestro, se procede a diligenciar los datos del det
 
 Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción FDES), no se aplicará el descuento y en la opción JFAC el campo **Descuento** será 0.  
 
-![](fdes20.png)
+![](fdes20.png) 
+
+## [OBSEQUIOS]  
+Para el escenario donde se entrega el producto como tipo obsequio, se debe de parametrizar el **FBTD** tipos de descuento. Para los conceptos que son tipo de escala (aplica para varios obsequios) y unico (exclusivo obsequio), como se ilustran los campos; el sistema solo permitira un solo registro de regalo de todos los que se configuren en el programa **FDES.**  
+
+![](fdes150.png)  
+
 
 
 ## [Descuento en Precio](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-precio)

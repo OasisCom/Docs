@@ -2,7 +2,7 @@
 layout: default
 title: Niveles de Stock
 permalink: /Operacion/scm/inventarios/inivel/incn  
-editable: si
+editable: si  
 ---
 
 # Calcular Niveles de Stock - INCN  
@@ -53,7 +53,7 @@ Para realizar el cálculo de **niveles de stock OASISCOM** toma periodos hacia a
 El cálculo siempre se realiza periódico, para cada tipo de producto, terminado, materia prima o suministro. 
 En **OASISCOM** tras haber finalizado la parametrización con la definición de ABC entramos a calcular los niveles de stock, una aplicación fundamental es la de niveles por producto **[INPR]**, en esta aplicación se encuentra en el módulo de LOGÍSTICA SCM, en el subnivel de inventarios, la carpeta de Niveles de Stock.   
 
-![](inpr22.png)
+![](inpr22.png)  
 
 Para cada producto que tenga control de stock en **OASISCOM** la aplicación Niveles por Producto **[INPR]** va a generar un control tipo semáforo, que indica el estado actual de inventarios de este producto, de acuerdo a la parametrización dada en la aplicación de ABC **[BABC]**, a los campos mínimo, reorden y máximo, este control de semáforos esta dado por:   
 •	**Semáforo Rojo:** Indica que el stock del producto se encuentra por debajo de su nivel mínimo.   
