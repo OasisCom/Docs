@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Niveles de Stock
-permalink: /Operacion/scm/inventarios/inivel/incn
+permalink: /Operacion/scm/inventarios/inivel/incn  
 editable: si
 ---
 
-# Calcular Niveles de Stock - INCN
+# Calcular Niveles de Stock - INCN  
 
 **NIVELES DE STOCK**  
 
