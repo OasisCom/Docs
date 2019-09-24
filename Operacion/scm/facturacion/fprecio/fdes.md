@@ -175,9 +175,14 @@ Para realizar la validación se inserta una factura desde el JFAC se debe de val
 
 ![](fdes153.png)  
 ESTA FUNCIONALIDAD SE EJECUTA SOBRE EL ITEMCHANGE CANTIDAD DEL PROGRAMA JFAC.  y se visualiza la siguiente pantalla donde extrae los diferentes productos tipo obsequio, como se ilustra.  
-Puede seleccionar y confirmar la factura.  
+ 
 
 ![](fdes154.png)  
+
+El proceso es seleccionar los productos a obsequiar y confirmamos la factura.  
+
+![](fdes154.png)  
+
 
 
 
