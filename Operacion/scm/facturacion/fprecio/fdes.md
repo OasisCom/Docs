@@ -174,7 +174,8 @@ Importante es los rangos de fecha inicial y final, que corresponde a la vigencia
 Para realizar la validación se inserta una factura desde el JFAC se debe de valida rango de fecha y en el detalle, al digitar TAB.  
 
 ![](fdes153.png)  
-ESTA FUNCIONALIDAD SE EJECUTA SOBRE EL ITEMCHANGE CANTIDAD DEL PROGRAMA JFAC.  y se visualiza la siguiente pantalla donde extrae los diferentes productos tipo obsequio, como se ilustra.  
+ESTA FUNCIONALIDAD SE EJECUTA SOBRE EL ITEMCHANGE CANTIDAD DEL PROGRAMA JFAC.  
+Se visualiza la siguiente pantalla donde extrae los diferentes productos tipo obsequio, como se ilustra.   
  
 
 ![](fdes154.png)  
