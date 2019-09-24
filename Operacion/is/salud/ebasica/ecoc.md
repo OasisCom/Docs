@@ -17,6 +17,7 @@ Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" 
 * Oxigeno,  
 * Ambulancia, entre otras.  
 
+Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
 ![](ECOC11.png)  
 
 
