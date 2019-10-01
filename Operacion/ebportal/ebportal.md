@@ -97,6 +97,7 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 Los datos relacionados al color amarillo son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas y los asociados al color verde en el detalle.  
 
+
 ![](ebportal11.png)
 
 La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento.  
