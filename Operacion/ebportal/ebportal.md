@@ -89,7 +89,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal24.png)
 ![](ebportal25.png)
 
-### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)
+### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
@@ -98,22 +98,22 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 Los datos relacionados al color amarillo son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas y los asociados al color verde en el detalle.  
 
 
-![](ebportal11.png)
+![](ebportal11.png)  
 
 La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento.  
 
-![](ebportal15.png)
+![](ebportal15.png)  
 
 
-Ingresada toda la información en el archivo de Excel, debemos eliminar los renglónes señalados en la siguiente imagen para así proceder a convertirlo en formato _.CVS_.  
+Ingresada toda la información en el archivo de Excel, debemos eliminar los renglónes señalados en la siguiente imagen para así proceder a convertirlo en formato _.CVS_.   
 
-![](ebportal12.png)
+![](ebportal12.png)  
 
 Al eliminar los anteriores renglones deberá quedar así:  
 
-![](ebportal13.png)
+![](ebportal13.png) 
 
-Para convertir el archivo en formato **.CVS** vamos a _Archivo ![](flecha.png) Guardar como ![](flecha.png) Elegimos una ubicación ![](flecha.png) Asignamos un nombre ![](flecha.png) Tipo: CSV (delimitado por comas) ![](flecha.png) Guardar_.  
+Para convertir el archivo en formato **.CVS** vamos a _Archivo ![](flecha.png) Guardar como ![](flecha.png) Elegimos una ubicación ![](flecha.png) Asignamos un nombre ![](flecha.png) Tipo: CSV (delimitado por comas) ![](flecha.png) Guardar_.   
 
 ![](ebportal14.png)
 
