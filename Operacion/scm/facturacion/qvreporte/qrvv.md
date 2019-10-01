@@ -1,11 +1,11 @@
 ---
-layout: default
-title: Ventas por Vendedor
-permalink: /Operacion/scm/facturacion/qvreporte/qrvv
-editable: si
----
+layout: default  
+title: Ventas por Vendedor  
+permalink: /Operacion/scm/facturacion/qvreporte/qrvv  
+editable: si  
+---  
 
-# Ventas por Vendedor - QRVV
+# Ventas por Vendedor - QRVV  
 
 Nuevo reporte de presupuesto de ventas QRVV denominado, ventas por vendedor. Realiza agrupamiento por canal.  
 Filtros a establecer:  
