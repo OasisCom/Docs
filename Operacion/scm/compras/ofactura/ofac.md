@@ -30,6 +30,8 @@ En el maestro:
 **Estado:** Estado en el cual se encuentra la factura de compra.  
 **Descuento #1 y #2:** Relación de los descuentos ofrecidos por el proveedor.  
 **Condición Pago:** Forma como se efectuará el pago al proveedor.  
+**Factura Char** Codigo alfanumerico que discrimina el serial de la factura proveeedor.  
+**Vencimiento** Fecha editable de vencimiento de la factura, para pagos al proveedor.  
 **Pronto Pago:** Descuento otorgado por el proveedor por cancelar la factura en determinado tiempo.  
 **Bodega:** Bodega a la cual se hace la entrada de inventario.  
 **Observación:** Con respecto a la factura de compra.  
