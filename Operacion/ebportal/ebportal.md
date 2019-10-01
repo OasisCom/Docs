@@ -95,7 +95,11 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
-Los datos relacionados al color amarillo son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas y los asociados al color verde en el detalle.  
+Los datos relacionados al color:  
+* **azul** corresponde al Adquiriente.   
+* **color** gris del vendedor.   
+* **amarillo** son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas.  
+* y los asociados al color **verde** en el detalle.    
 
 
 ![](ebportal11.png)  
@@ -156,7 +160,6 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal19.png)
 ![](ebportal20.png)
 ![](ebportal244.png)  
-
 
 
 
