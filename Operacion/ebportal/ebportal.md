@@ -155,7 +155,7 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal18.png)
 ![](ebportal19.png)
 ![](ebportal20.png)
-![](ebportal244.png)
+![](ebportal244.png)  
 
 
 
