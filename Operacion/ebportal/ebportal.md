@@ -12,6 +12,7 @@ editable: si
 
 >###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf) 
 
+>###### [Instructivo integración OasisCom (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Instructivo_Integracion_OasisCom_v1.0.pdf)
 ---
 
 **Menú**  
