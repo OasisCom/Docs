@@ -9,11 +9,11 @@ editable: si
 
 Reporte del modulo de Distribucion, donde se extrae la informacion de los fletes **DFLE**.   Denominado Facturacion por cliente. **DRFA**  
 Datos de entrada.  
-**Fecha inicial:  
-Fecha final:  
-Numero:  
-Vehiculo:  
-Conductor:**  
+**Fecha inicial:**  Rango de fecha inicial.  
+**Fecha final:**  Rango de fecha final.  
+**Numero:**  consecutivo.  
+**Vehiculo:**  parametrizacion del equipo en MEQU.  
+**Conductor:**  parametrizacion del tercero.  
 
 
 ![](drfa1.png)  
