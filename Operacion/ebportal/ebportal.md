@@ -100,7 +100,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
-## [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano/Arhivo_Plano.xlsx) 
+#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/ebportal/Arhivo_Plano.xlsx) 
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
