@@ -12,7 +12,6 @@ editable: si
 
 >###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf) 
 
->###### [Instructivo integración OasisCom (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Instructivo_Integracion_OasisCom_v1.0.pdf)
 ---
 
 **Menú**  
@@ -137,7 +136,7 @@ Quedando el cursor en el último caracter del último renglón.
 
 ![](ebportal17.png)
 
-### [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)
+### [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/Instructivo_Integracion_OasisCom_v1.0.pdf)
 
 
 A continuación, se dará a conocer la data requerida para realizar la carga de documentos electrónicos en los formatos XLS o TXT para el proceso de facturación electrónica en OasisCom.  
