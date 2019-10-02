@@ -7,12 +7,14 @@ editable: si
 
 # VRSE -  Seguimiento de Pedidos  
 
-Reporte del modulo de Distribucion, donde se extrae la informacion de los fletes DFLE. Denominado facturacion por cliente. DRFA.  
-**DOCUMENTO:  parametrizacion del basico de documentos, BDOC.  
-NUMERO:  consecutivo automatico.  
-UBICACION:  parametrizacion del basico de Ubicaciones, BUBI.  
-FECHA:  data  
-TERCERO:  parametrizacion del basico de terceros, BTER.  
+Reporte del modulo de ventas, donde se extrae la informacion de los PEDIDOS - VPED. 
+Denominado seguimiento de Pedidos. VRSE.  
+El campo proceso indica en que status se encuentra el pedido, realiza el filtro por orden del cliente, que proviene del VPED.  
+**DOCUMENTO:  Parametrizacion del basico de documentos, BDOC.  
+NUMERO:  Consecutivo automatico.  
+UBICACION:  Parametrizacion del basico de Ubicaciones, BUBI.  
+FECHA:  Data  
+TERCERO:  Parametrizacion del basico de terceros, BTER.  
 ORDEN COMPRA: Orden cliente.**  
 
 

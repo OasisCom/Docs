@@ -7,6 +7,12 @@ editable: si
 
 # FACTURA ELECTRONICA
 
+---
+### Factura Electrónica
+>###### [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano/FACTURA-ELECTRONICA.pdf) 
+
+---
+
 **Menú**  
 
 1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
