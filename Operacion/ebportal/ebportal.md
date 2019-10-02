@@ -338,4 +338,3 @@ Luego podemos presionar la tecla “Enter” o con el puntero del mouse dar clic
 
 Y la información que esté guardada será la que se muestre en la factura.  
 
->##### [Archivo plano para Facturación Electrónica Validación Previa](http://docs.oasiscom.com/operacion/ebportal/Arhivo_Plano para-FE-Validacion-Previa-en-oasiscom.xlsx)
