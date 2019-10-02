@@ -9,7 +9,7 @@ editable: si
 
 ---
 ### Factura Electrónica
->###### [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf) 
+>###### [Factura Electrónica(descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf) 
 
 ---
 
