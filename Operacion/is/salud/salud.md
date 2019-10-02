@@ -10,6 +10,8 @@ editable: si
 ### [Actualización de datos](http://docs.oasiscom.com/Operacion/is/salud/#actualización-de-datos)
 
 Para las opciones **_ESIN - Siniestros, ESOA - Autorizaciones de Aplicación, ESOL - Solicitudes, EAUT - Autorizaciones, ERCF - Referencia y Contrareferencia_** existe un módulo que permite la actualización de los datos del afiliado con previa parametrización en la opción [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot), las cuales deben tener el motivo _NSI50_.  
+Desde el ESIN siniestros, en el detalle pestaña "novedad":  
+Esta, visualiza el historico de cambios en diagnosticos, cambio de motivos, IPS tratamiento, esto para tener una mayor trazabilidad de la informacion de siniestros.  
 
 * Para las aplicaciones del modulo de salud, que posean el campos: **diagnostico**; estos seran filtrados y solo se mostraran en estado Activo en el zoom de busqueda.  
 
