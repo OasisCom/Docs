@@ -12,18 +12,21 @@ editable: si
 
 # INTEGRACIÓN A OASISCOM POR MEDIO DE API
 
-La interfaz de conexión es un servicio RESTful web api 2 de tipo POST, el cual proporciona un conjunto fácil de usar de puntos finales HTTP quee recibe sus parámetros por medio de un objeto Content tipo  “_MultipartFormDataContent_”, incluidos usuarios, publicaciones y más, además de que permite recuperar o actualizar datos.
+La interfaz de conexión es un servicio RESTful web api 2 de tipo POST, el cual proporciona un conjunto fácil de usar de puntos finales HTTP quee recibe sus parámetros por medio de un objeto Content tipo  “_MultipartFormDataContent_”, incluidos usuarios, publicaciones y más, además de que permite recuperar o actualizar datos.  
 
-Dicho objeto consta de los siguientes parámetros: 
+Dicho objeto consta de los siguientes parámetros:  
 
-_**IMPORTANTE**_: _Los paramétros descritos a continuación, son insumos proporcionados por **OasisCom** para la realización de la respectiva integración_.
+**IMPORTANTE:** Los paramétros descritos a continuación, son insumos proporcionados por OasisCom para la realización de la respectiva integración.  
+•	**pArguments:** Estos parametros pueden ser: informacion sobre la empresa, la publicación, el tipo de publicación y los argumentos requeridos por dicha publicación para arrojar un resultado idóneo.  
+Se ingresan de la siguiente manera:  
+•	**Usuario:** nombre de usuario definido en oasiscom, con permisos de ejecución de las interfaces a ejecutar.  
+•	**Contraseña:** contraseña de usuario, en formato hexadecimal.  
+•	**Nombre de Conexión:** El valor de este campo es “OasisCom”.  
+•	**Compañía:** el cual corresponde a un Id de dato tipo entero.  
+•	**Publicación:** la cual se parametriza desde la opción BARC (Archivos) y puede ser 		 visualizada desde la opción BINT (Interfaces).  
+•	**Tipo de publicación:** la cual puede ser subida (S) o bajada (B).  
+Parámetros de la publicación, los cuales dependerán de la debida parametrización, por ejemplo el código del producto, o bien, el número del tercero pueden considerarse parámetros de entrada.  
 
-* **pArguments**: Estos parametros pueden ser: informacion sobre la empresa, la publicación, el tipo de publicación y los argumentos requeridos por dicha publicación para arrojar un resultado idóneo. Se ingresan de la siguiente manera:
-
- * _**Compañía**_, el cual corresponde a un Id de dato tipo entero. 
- * _**Publicación**_, la cual se parametriza desde la opción _BARC_ (Archivos) y puede ser visualizada desde la opción _BINT_ (Interfaces).
- * _**Tipo de publicación**_, la cual puede ser _subida_ (S) o _bajada_ (B).
- * _**Parámetros de la publicación**_, los cuales dependerán de la debida parametrización, por ejemplo el código del producto, o bien, el número del tercero pueden considerarse parámetros de entrada.
 
 Ejemplo de argumentos:  _**(1;1;S;1)**_. Donde estos deben estar separados por ; (punto y coma). _Tenga en cuenta que en este ejemplo solamente se muestra un parametro y pueden ingresarse muchos más. Cabe recordar que esto depende de la parametrización que se realice_.
 
