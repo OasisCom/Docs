@@ -100,6 +100,8 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
+#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/ebportal/Archivo_Plano.xlsx) 
+
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
 Los datos relacionados al color:  
@@ -136,7 +138,7 @@ Quedando el cursor en el último caracter del último renglón.
 
 ![](ebportal17.png)
 
-### [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)
+### [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/Instructivo_Integracion_OasisCom_v1.0.pdf)
 
 
 A continuación, se dará a conocer la data requerida para realizar la carga de documentos electrónicos en los formatos XLS o TXT para el proceso de facturación electrónica en OasisCom.  
@@ -337,3 +339,4 @@ Luego podemos presionar la tecla “Enter” o con el puntero del mouse dar clic
 ![](ebportal46.png)
 
 Y la información que esté guardada será la que se muestre en la factura.  
+
