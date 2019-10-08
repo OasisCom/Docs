@@ -22,3 +22,5 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 [**Gestión de activos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_Gestión_Activos.pdf) 
 
 [**Accesos y permisos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Procedimiento_Accesos_y_Permisos.pdf) 
+
+[**Cumplimiento legal**](http://docs.oasiscom.com/Procesos/sgsi/Presentación_Cumplimiento.pdf) 
