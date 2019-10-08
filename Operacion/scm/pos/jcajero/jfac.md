@@ -90,16 +90,16 @@ Al realizar una factura en JFAC, es posible relacionar una solicitud de crédito
 
 Posteriormente damos click sobre el botón _Guardar_.  
 
-![](jfac11.png)
+![](jfac11.png)  
 
 
-### [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)
+### [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)  
 
 En la pestaña “Detalle” en la parte inferior de la aplicación, existe la opción de inserción de producto mediante el lector de código de barras, este funciona ubicándose en el campo producto y utilizando el lector se realiza la lectura del código de barras del producto, si dado el escenario: el producto ya fue registrado en otro registro; el sistema realiza la suma del otro producto en el mismo renglon; de esta manera se registra la venta del producto y se completará la información en los campos Nombre Producto, Cantidad, Precio y %Descuento (Si aplica). Igualmente, en caso de no contar con el lector del código de barras en el campo producto se puede registrar manualmente el código del producto y al dar TAB se diligencian los campos de nombre de producto, cantidad precio y %Descuento (Si aplica), si el producto no trae asociado un % descuento, podemos ingresarlo manualmente y este se aplicará solo al producto al que se ingresó.  
 
-![](jfac12.png)
+![](jfac12.png)  
 
-![](jfac13.png)
+![](jfac13.png)  
 *****************************
 
 * Existe una funcionabilidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'. 
@@ -107,7 +107,7 @@ Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas
 * Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
 
 
-![](jfac81.png)
+![](jfac81.png)  
 
 * Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
 Detalle del **JFAC**.  
