@@ -18,6 +18,8 @@ Cuando se procesa un documento de facturación de compras, y este tiene retenci�
 
 En el maestro:
 
+![](ofac21.png)
+
 **Documento:** Nombre del tipo de documento a generar, puede ser factura, nota débito o crédito.  
 **Número:** consecutivo asignado por el sistema, para las facturas de compra.  
 **Ubicación:** Lugar donde se efectúa la factura de compra.  
@@ -35,6 +37,7 @@ En el maestro:
 **Pronto Pago:** Descuento otorgado por el proveedor por cancelar la factura en determinado tiempo.  
 **Bodega:** Bodega a la cual se hace la entrada de inventario.  
 **Observación:** Con respecto a la factura de compra.  
+**Fecha Factura:** este dato tipo fecha, se reflejara en los cruces **PMCR** campo vencimiento.  
 
 
 
