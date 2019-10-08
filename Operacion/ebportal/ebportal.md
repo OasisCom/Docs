@@ -88,13 +88,13 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 **Estructura**
 
-![](ebportal7.png)
-![](ebportal8.png)
-![](ebportal9.png)
-![](ebportal10.png)
-![](ebportal23.png)
-![](ebportal24.png)
-![](ebportal25.png)
+![](ebportal50.png)
+![](ebportal51.png)
+![](ebportal52.png)
+![](ebportal53.png)
+![](ebportal54.png)
+![](ebportal55.png)
+
 
 ### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 
