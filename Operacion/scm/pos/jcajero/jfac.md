@@ -75,13 +75,9 @@ En caso que el cliente sea una empresa debemos tener en cuenta lo siguiente:
 * Tipo de precio  
 * Check digit  
 
-![](jfac8.png)
+![](jfac8.png)  
 
-Al terminar de ingresar los datos, en especial los requeridos se selecciona sobre el botón guardar de la parte superior de la ventana del zoom y se da click sobre el botón aceptar de la parte inferior.  
-
-![](jfac9.png)
-
-![](jfac10.png)
+* Validamos el tercero creado en la opcion del BTER y vemos que quedo creado correctamente.  
 
 Para ingresar sobre la factura el cliente creado, se selecciona sobre el registro nuevo y automáticamente queda ingresado en el campo tercero del formulario JFAC - Facturas.  
 
