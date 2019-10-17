@@ -40,6 +40,8 @@ El zoom _**“buscar cliente”**_ que realiza la búsqueda de clientes para la 
 
 ![](jfac3.png)  
 
+Despliega el siguiente formulario.  
+
 ![](jfac4.png)  
 
 Cómo podemos ver, al hacer clic en el nombre del cliente y dar aceptar el sistema trae automáticamente el nombre del tercero.  
