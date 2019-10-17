@@ -49,11 +49,11 @@ Filtros de busqueda**.
 
 ![](jfac5.png)
 
-**“Crear Cliente”**
+**“Crear Cliente”**  
 
 ![](jfac6.png)
 
-Al ingresar en este en la parte superior se evidencia un signo + el cual hace referencia a la creación de un nuevo registro, al seleccionarlo se evidencian los campos que permiten realizar la adición de un nuevo cliente.  
+**editar cada uno de los campos.  
 
 ![](jfac7.png)
 
