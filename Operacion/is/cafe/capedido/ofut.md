@@ -21,7 +21,7 @@ En el detalle procedemos a ingresar los productos por los cuales se realizará e
 
 Registrados los productos es necesario procesar el documento de _Compras futuras_ dando click en el botón ![](procesar.png) ubicado en la barra de herramientas del maestro.  
 
-* Al ejecutar la vista preliminar este despliega el formulario con la particularidad que corresponde a tipo **Word**, otra opción es descargar e imprimirlo con extensión (.doc).  
+* Al ejecutar la vista preliminar este despliega el formulario con la particularidad que corresponde a tipo **Word**, otra opción es descargar e imprimirlo con extensión (.docx).  
 
 ![](ofut3.png)  
 
