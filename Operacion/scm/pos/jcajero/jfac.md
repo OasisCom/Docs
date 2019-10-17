@@ -34,9 +34,8 @@ Aplicación que permite elaborar facturas o devoluciones que se realicen en el p
 **Año:** Campo que se llena automaticamente, al insertar el registro.   
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.   
 
-En este se encuentran parametrizados dos tipos de Zooms que se visualizan al dar clic derecho. El primero es buscar cliente y el segundo crear tercero.  
+En este se encuentran parametrizados tres tipos de Zooms que se visualizan al dar clic derecho. El primero es buscar cliente y el segundo crear tercero y por ultimo ir al tercero (BTER).  
 
-El zoom _**“buscar cliente”**_ que realiza la búsqueda de clientes para la selección de estos Cuando se despliega la ventana emergente Zoom, encontramos diferentes campos por los que podemos realizar el filtro, ejemplo en el campo tercero podemos buscar la cédula o el número de identificación del cliente o en el nombre tercero podemos poner el nombre del cliente, o su apellido para encontrarlo.  
 
 ![](jfac3.png)  
 
