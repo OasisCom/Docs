@@ -44,11 +44,12 @@ Despliega el siguiente formulario.
 
 ![](jfac4.png)  
 
-Cómo podemos ver, al hacer clic en el nombre del cliente y dar aceptar el sistema trae automáticamente el nombre del tercero.  
+**
+Filtros de busqueda.  
 
 ![](jfac5.png)
 
-El zoom _**“Crear Cliente”**_ permite realizar de manera directa la creación de un nuevo cliente.  
+**“Crear Cliente”**
 
 ![](jfac6.png)
 
