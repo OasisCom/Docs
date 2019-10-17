@@ -52,7 +52,7 @@ En este se encuentran parametrizados tres tipos de Zooms que se visualizan al da
 
 ![](jfac6.png)
 
-**Editar cada uno de los campos.  
+**Editar cada uno de los campos**.  
 
 ![](jfac7.png)
 
