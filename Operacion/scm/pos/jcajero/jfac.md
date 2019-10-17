@@ -40,12 +40,12 @@ El zoom _**“buscar cliente”**_ que realiza la búsqueda de clientes para la 
 
 ![](jfac3.png)  
 
-Despliega el siguiente formulario.  
+**Despliega el siguiente formulario**.  
 
 ![](jfac4.png)  
 
-**
-Filtros de busqueda**.  
+
+**Filtros de busqueda**.  
 
 ![](jfac5.png)
 
@@ -53,7 +53,7 @@ Filtros de busqueda**.
 
 ![](jfac6.png)
 
-**editar cada uno de los campos.  
+**Editar cada uno de los campos.  
 
 ![](jfac7.png)
 
