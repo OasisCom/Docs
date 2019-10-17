@@ -45,7 +45,7 @@ Despliega el siguiente formulario.
 ![](jfac4.png)  
 
 **
-Filtros de busqueda.  
+Filtros de busqueda**.  
 
 ![](jfac5.png)
 
