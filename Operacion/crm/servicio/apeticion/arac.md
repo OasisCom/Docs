@@ -13,15 +13,15 @@ Reporte del modulo de atencion, donde se consulta cada una de los P.Q.R. **Petic
 Datos de entrada para la consulta:  
 
 ![](ARAC1.png)  
-**Documento:  
-Ubicacion:  
-Numero:  
-Fecha inicial:  
-Fecha final:  
-Concepto:  
-Cliente:  
-Empleado:  
-Vendedor:**  
+**Documento:**  parametrizacion realizada desde el BDOC.  
+**Ubicacion:**   parametrizacion realizada en BUBI.  
+**Numero:**  consecutivo.  
+**Fecha inicial:**  rango inicial de data.  
+**Fecha final: ** rango final de data.  
+**Concepto:**   parametrizacion realizada desde el BCON y BDOC.   
+**Cliente: **  parametrizacion realizada en basico de terceros BTER.   
+**Empleado: **  parametrizacion realizada en basico de terceros BTER.  
+**Vendedor: ** parametrizacion realizada en basico de terceros BTER.  
 
 
 ![](ARAC2.png)  
