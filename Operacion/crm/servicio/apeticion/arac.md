@@ -7,6 +7,8 @@ editable: si
 
 # PETICIONES -ARAC  
 
+Reporte del modulo de atencion, donde se consulta cada una de los P.Q.R. **Peticiones - Quejas - Reclamos** que se documentan desde el ACAS.   
+
 
 Datos de entrada para la consulta:  
 
