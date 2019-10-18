@@ -1,14 +1,14 @@
 ---
-layout: default
-title: Peticiones
-permalink: /Operacion/crm/servicio/apeticion/arac
-editable: si
+layout: default  
+title: Peticiones  
+permalink: /Operacion/crm/servicio/apeticion/arac  
+editable: si  
 ---
 
-# PETICIONES -ARAC
+# PETICIONES -ARAC  
 
 
-Datos de entrada para la consulta:
+Datos de entrada para la consulta:  
 
 ![](ARAC1.png)  
 **Documento:
@@ -23,6 +23,8 @@ Vendedor:**
 
 
 ![](ARAC2.png)  
+
+
 
 
 
