@@ -17,7 +17,7 @@ En el detalle, ingresaremos las opciones a elegir que contiene la característic
 
 ![](ecrc1.png)  
 
-*****
+--------
 
 ** Parametrización de formularios de salud a nivel jerarquíco (documento, concepto, motivo)**:  
 * Desde características  [ECRC], se limiten por documento, concepto y motivo, esto para el tema de afiliaciones en contributivo y subsidiado, se adiciona control por tipo lista.  
