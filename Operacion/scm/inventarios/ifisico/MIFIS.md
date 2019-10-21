@@ -21,7 +21,7 @@ Desde el **MIFIS** con el lector de código de barras; realiza el conteo o en su
 
 ![](MIFIS2.png)
 
-En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Se visualizan en el IFIS, como se ilustra.   
+En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Se visualizan en el **IFIS**, como se ilustra.   
 
 ![](MIFIS3.png)
 
