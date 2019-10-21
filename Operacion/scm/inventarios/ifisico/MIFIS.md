@@ -19,11 +19,18 @@ Desde el **MIFIS** con el lector de código de barras; realiza el conteo o en su
 
 
 
-![](ifis2.png)
+![](MIFIS2.png)
 
-En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Estos datos corresponden a la información que se ingresó en la planilla descargada desde la aplicación [**IRIF - Plantilla Para Conteo Físico**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/irif).  
+En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Se visualizan en el IFIS, como se ilustra.   
 
-Al ingresar un número en el campo _Cantidad 1_, es necesario dar click en el botón _Guardar_ de la barra de herramientas u oprimir la tecla _Enter_ para que el registro sea guardado.  
+![](MIFIS3.png)
+
+**IFIS**
+
+![](MIFIS4.png)
+
+**IMPORTANTE:**
+**La aplicacion MIFIS desempeña la misma funcion que el IFIS, conteo de inventarios. **  
 
 Ingresadas las cantidades de cada artículo, nos dirigiremos a la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), la cual nos ayudará a calcular las diferencias de existencias encontradas por el sistema en su base de datos con las ingresadas por el usuario.  
 
