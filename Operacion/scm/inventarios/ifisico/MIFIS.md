@@ -1,11 +1,11 @@
----
-layout: default
-title: Registro de Conteos
-permalink: /Operacion/scm/inventarios/ifisico/mifis
-editable: si
+--- 
+layout: default  
+title: Registro de Conteos  
+permalink: /Operacion/scm/inventarios/ifisico/mifis  
+editable: si  
 ---
 
-# Registro de Conteos - MIFIS
+# Registro de Conteos - MIFIS   
 
 Esta aplicación permite el registro de los diferentes conteos, presentando además los datos de la toma de cada registro como la fecha, ubicación del punto donde se realizó el conteo, cantidad del producto contado, y características inherentes a cada producto como presentación, vencimiento, control etc.   
 
@@ -19,15 +19,15 @@ Desde el **MIFIS** con el lector de código de barras; realiza el conteo o en su
 
 
 
-![](MIFIS2.png)
+![](MIFIS2.png)  
 
 En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Se visualizan en el **IFIS**, como se ilustra.   
 
-![](MIFIS3.png)
+![](MIFIS3.png)  
 
 **IFIS**
 
-![](MIFIS4.png)
+![](MIFIS4.png)  
 
 **IMPORTANTE:**  
 **La aplicacion MIFIS desempeña la misma funcion que el IFIS, conteo de inventarios.**  
