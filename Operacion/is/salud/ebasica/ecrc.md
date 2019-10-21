@@ -28,5 +28,19 @@ En el detalle, ingresaremos las opciones a elegir que contiene la característic
 * Parametrizacion del motivo **BMOT:**  
 
 ![](ecrc6.png)  
+* Jerarquía.  
+
+![](ecrc7.png)  
+
+Se realiza prueba en programa **EEMOV**  
+Generamos el detalle del **EEMOV**.  
+
+![](ecrc8.png)  
+
+
+
+
+
+
 
 
