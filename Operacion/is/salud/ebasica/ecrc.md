@@ -37,6 +37,36 @@ Generamos el detalle del **EEMOV**.
 
 ![](ecrc8.png)  
 
+Generamos el detalle del **EEMOV**.  
+
+![](ecrc9.png)  
+
+Visualizamos que se cargan los datos configurados para el formulario.  
+Anteriormente los campos resaltados estan como zoom.  
+Al modificarle la configuración se carga a modo lista como se puede confirmar.  
+
+![](ecrc10.png)  
+
+Realizamos la prueba de grabación.   
+Ingresamos los datos para el formulario.   
+Se comprueba que se realiza la grabación de manera correcta.   
+
+![](ecrc11.png)  
+
+Se confirma los datos guardados de manera correcta ingresando al programa emov.   
+Filtramos los campos tipo lista.   
+Podemos confirmar que el proceso se genera de manera correcta.   
+
+ ![](ecrc12.png)  
+
+
+****
+
+
+
+
+
+
 
 
 
