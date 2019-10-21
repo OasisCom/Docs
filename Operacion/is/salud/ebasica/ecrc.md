@@ -15,11 +15,11 @@ En el maestro agregamos un nuevo renglón, asignamos un número de característi
 
 En el detalle, ingresaremos las opciones a elegir que contiene la característica del maestro. El campo _Estado_ permite visualizar los registros que se encuentran en estado activo e inactivar los que no se necesitan  sin perder la trazabilidad.  
 
-![](ecrc1.png)  
+![](ecrc1.png)   
 
---------
+--------   
 
-** Parametrización de formularios de salud a nivel jerarquíco (documento, concepto, motivo)**:  
+** Parametrización de formularios de salud a nivel jerarquíco (documento, concepto, motivo)**:   
 * Desde características  [ECRC], se limiten por documento, concepto y motivo, esto para el tema de afiliaciones en contributivo y subsidiado, se adiciona control por tipo lista.  
 **Características**.  
 
