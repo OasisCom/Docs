@@ -22,3 +22,11 @@ En el detalle, ingresaremos las opciones a elegir que contiene la característic
 ** Parametrización de formularios de salud o programas tipo formulario**:  
 * Desde características  [ECRC], se limiten por documento, concepto y motivo, esto para el tema de afiliaciones en contributivo y subsidiado, se adiciona control por tipo lista.  
 **Características**.  
+
+![](ecrc5.png)  
+
+* Parametrizacion del motivo **BMOT:**  
+
+![](ecrc6.png)  
+
+
