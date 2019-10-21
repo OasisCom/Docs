@@ -29,8 +29,8 @@ En el campo _Cantidad 1_ se ingresará por cada artículo el número de producto
 
 ![](MIFIS4.png)
 
-**IMPORTANTE:**
-**La aplicacion MIFIS desempeña la misma funcion que el IFIS, conteo de inventarios. **  
+**IMPORTANTE:**  
+**La aplicacion MIFIS desempeña la misma funcion que el IFIS, conteo de inventarios.**  
 
 Ingresadas las cantidades de cada artículo, nos dirigiremos a la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), la cual nos ayudará a calcular las diferencias de existencias encontradas por el sistema en su base de datos con las ingresadas por el usuario.  
 
