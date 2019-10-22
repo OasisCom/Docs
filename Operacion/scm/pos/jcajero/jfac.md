@@ -90,6 +90,7 @@ Posteriormente damos click sobre el botón _Guardar_.
 
 ![](jfac11.png)  
 
+* Cuando realizamos el guardado del maestro de la factura; el sistema lleva el cursor al primer renglón del producto, para seguir editando la factura insertando los productos y características de esta.  
 
 ### [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)  
 
@@ -99,7 +100,7 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 ![](jfac13.png)  
 
-* Existe una tercera pestaña denominada **PAGO**  
+* Existe una tercera pestaña denominada **PAGO.**  
 
 En ella se almacena la forma de pago **[BFOR]** que se parametrizo, al tercero tipo cliente en el **[BTER]**.  
 Para el escenario donde la forma de pago es mayor al precio de la factura existe el campo llamado **cambio**.  
