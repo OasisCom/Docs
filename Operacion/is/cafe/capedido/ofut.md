@@ -21,6 +21,10 @@ En el detalle procedemos a ingresar los productos por los cuales se realizará e
 
 Registrados los productos es necesario procesar el documento de _Compras futuras_ dando click en el botón ![](procesar.png) ubicado en la barra de herramientas del maestro.  
 
+* Al ejecutar la vista preliminar este despliega el formulario con la particularidad que corresponde tipo documento  **Word**, otra opción es descargar e imprimirlo con extensión (.docx).  
+
+![](ofut3.png)  
+
 * Se realiza una modificación s.p. para que el caficultor pueda realizar compra de café por OFUT, OCAF; según la parametrización del producto si es por recursos propios o línea de financiamiento.  
 
 

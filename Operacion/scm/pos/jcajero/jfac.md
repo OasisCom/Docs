@@ -34,23 +34,25 @@ Aplicación que permite elaborar facturas o devoluciones que se realicen en el p
 **Año:** Campo que se llena automaticamente, al insertar el registro.   
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.   
 
-En este se encuentran parametrizados dos tipos de Zooms que se visualizan al dar clic derecho. El primero es buscar cliente y el segundo crear tercero.  
+En este se encuentran parametrizados tres tipos de Zooms que se visualizan al dar clic derecho. El primero es buscar cliente y el segundo crear tercero y por ultimo ir al tercero (BTER).  
 
-El zoom _**“buscar cliente”**_ que realiza la búsqueda de clientes para la selección de estos Cuando se despliega la ventana emergente Zoom, encontramos diferentes campos por los que podemos realizar el filtro, ejemplo en el campo tercero podemos buscar la cédula o el número de identificación del cliente o en el nombre tercero podemos poner el nombre del cliente, o su apellido para encontrarlo.  
 
 ![](jfac3.png)  
 
+**Despliega el siguiente formulario**.  
+
 ![](jfac4.png)  
 
-Cómo podemos ver, al hacer clic en el nombre del cliente y dar aceptar el sistema trae automáticamente el nombre del tercero.  
+
+**Filtros de busqueda**.  
 
 ![](jfac5.png)
 
-El zoom _**“Crear Cliente”**_ permite realizar de manera directa la creación de un nuevo cliente.  
+**“Crear Cliente”**  
 
 ![](jfac6.png)
 
-Al ingresar en este en la parte superior se evidencia un signo + el cual hace referencia a la creación de un nuevo registro, al seleccionarlo se evidencian los campos que permiten realizar la adición de un nuevo cliente.  
+**Editar cada uno de los campos**.  
 
 ![](jfac7.png)
 
@@ -72,13 +74,9 @@ En caso que el cliente sea una empresa debemos tener en cuenta lo siguiente:
 * Tipo de precio  
 * Check digit  
 
-![](jfac8.png)
+![](jfac8.png)  
 
-Al terminar de ingresar los datos, en especial los requeridos se selecciona sobre el botón guardar de la parte superior de la ventana del zoom y se da click sobre el botón aceptar de la parte inferior.  
-
-![](jfac9.png)
-
-![](jfac10.png)
+* Validamos el tercero creado en la opcion del BTER y vemos que quedo creado correctamente.  
 
 Para ingresar sobre la factura el cliente creado, se selecciona sobre el registro nuevo y automáticamente queda ingresado en el campo tercero del formulario JFAC - Facturas.  
 
@@ -90,16 +88,29 @@ Al realizar una factura en JFAC, es posible relacionar una solicitud de crédito
 
 Posteriormente damos click sobre el botón _Guardar_.  
 
-![](jfac11.png)
+![](jfac11.png)  
+
+* Cuando realizamos el guardado del maestro de la factura; el sistema lleva el cursor al primer renglón del producto, para seguir editando la factura insertando los productos y características de esta.  
+
+![](bfor51.png)  
+
+### [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)  
+
+En la pestaña “Detalle” en la parte inferior de la aplicación, existe la opción de inserción de producto mediante el lector de código de barras, este funciona ubicándose en el campo producto y utilizando el lector se realiza la lectura del código de barras del producto, si dado el escenario: el producto ya fue registrado en otro renglon; el sistema realiza la suma del producto en el mismo renglon; de esta manera se registra la venta del producto y se completará la información en los campos Nombre Producto, Cantidad, Precio y %Descuento (Si aplica). Igualmente, en caso de no contar con el lector del código de barras en el campo producto se puede registrar manualmente el código del producto y al dar TAB se diligencian los campos de nombre de producto, cantidad precio y %Descuento (Si aplica), si el producto no trae asociado un % descuento, podemos ingresarlo manualmente y este se aplicará solo al producto al que se ingresó.  
+
+![](jfac12.png)  
+
+![](jfac13.png)  
+
+* Existe una tercera pestaña denominada **PAGO.**  
+
+En ella se almacena la forma de pago **[BFOR]** que se parametrizo, al tercero tipo cliente en el **[BTER]**.  
+Para el escenario donde la forma de pago es mayor al precio de la factura existe el campo llamado **cambio**.  
+El sistema calculara automáticamente el valor; lanzando un mensaje resaltado en azul, como se ilustra.  
+
+![](jfac51.png)  
 
 
-### [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)
-
-En la pestaña “Detalle” en la parte inferior de la aplicación, existe la opción de inserción de producto mediante el lector de código de barras, este funciona ubicándose en el campo producto y utilizando el lector se realiza la lectura del código de barras del producto, de esta manera se registra la venta del producto y se completará la información en los campos Nombre Producto, Cantidad, Precio y %Descuento (Si aplica). Igualmente, en caso de no contar con el lector del código de barras en el campo producto se puede registrar manualmente el código del producto y al dar TAB se diligencian los campos de nombre de producto, cantidad precio y %Descuento (Si aplica), si el producto no trae asociado un % descuento, podemos ingresarlo manualmente y este se aplicará solo al producto al que se ingresó.  
-
-![](jfac12.png)
-
-![](jfac13.png)
 *****************************
 
 * Existe una funcionabilidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'. 
@@ -107,7 +118,7 @@ Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas
 * Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
 
 
-![](jfac81.png)
+![](jfac81.png)  
 
 * Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
 Detalle del **JFAC**.  

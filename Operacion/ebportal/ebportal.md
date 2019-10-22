@@ -88,17 +88,19 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 **Estructura**
 
-![](ebportal7.png)
-![](ebportal8.png)
-![](ebportal9.png)
-![](ebportal10.png)
-![](ebportal23.png)
-![](ebportal24.png)
-![](ebportal25.png)
+![](ebportal50.png)
+![](ebportal51.png)
+![](ebportal52.png)
+![](ebportal53.png)
+![](ebportal54.png)
+![](ebportal55.png)
+
 
 ### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
+
+#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/ebportal/Archivo_Plano.xlsx) 
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
