@@ -17,6 +17,7 @@ Esta aplicación permite parametrizar todas las condiciones de pago posibles a l
 **Crédito:** Se debe activar el Check box en todas las condiciones de pago que sean a crédito, si se paga de contado no se debe activar, pero si damos un lapso para pagar de 15 días si lo debemos activar.  
 **Tipo intervalo:** Se debe registrar D si es diario, M si es mensual, B si es bimensual, T si es trimestral, S si es semestral, A si es anual.  
 **Intervalo:** De acuerdo al campo anterior se diligencia, ejemplo si es diario la cantidad de días que aplica, si es bimensual se debería diligenciar 1, pero si queremos indicar que son dos meses y en el campo anterior pusimos M, en este campo debemos diligenciar 2.  
+**InterestPercentage:** campo requerido con el objetivo de calcular el interés de mora en cartera financiera, el porcentaje utilizado es por línea de crédito.  
 
 La aplicación cuenta con un detalle, en donde se diligencian los intervalos propios de cada cuota según la necesidad y comportamiento de las líneas de crédito.  
 
