@@ -9,7 +9,7 @@ editable: si
 
 Esta aplicación permite parametrizar todas las condiciones de pago posibles a la hora de generar un documento, esto permite visualizar la fecha de vencimiento del documento, por ejemplo, permite distinguir las facturas que se encuentran en cartera y están vencidas por su respectiva condición de pago.  
 
-![](bcnd1.png)
+![](bcnd3.png)
 
 **Condición de pago:** Consecutivo automático que arroja el sistema.  
 **Nombre condición de pago:** El nombre de la condición de pago como por ejemplo a 15 días, a 30 días, de contado, a presentación, entre otros.  
