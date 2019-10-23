@@ -1,14 +1,15 @@
 ---
-layout: default
-title: Certificados de Aportes
-permalink: /Operacion/erp/asociados/zreporte/zrce
-editable: si
----
+layout: default  
+title: Certificados de Aportes  
+permalink: /Operacion/erp/asociados/zreporte/zrce  
+editable: si  
+---  
 
-# ZRCE - Certificados de Aportes
+# ZRCE - Certificados de Aportes  
 
-Reporte de Certificados de Aportes ZRCE. Para asociados de café. 
+Informe de Certificados de Aportes ZRCE. Para asociados de café.  
+Reporte, el cual tiene como objetivo principal generar un certificado de aportes, teniendo como parámetros de consulta el tercero y el año, reporte creado para COOPERATIVAS Y/O CAFICULTORES.  
 
-Ingresamos los datos de consulta y damos click en el botón ![](actualizar.png). El reporte permite ser extraído en formato Word, PDF o Excel.  
+Ingresamos los datos de consulta y damos click en el botón ![](actualizar.png). El reporte permite ser extraído en formato Word, PDF o Excel.   
 
-![](zrce.png)
+![](zrce.png)  
