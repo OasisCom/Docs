@@ -19,7 +19,7 @@ Esta aplicación permite parametrizar todas las condiciones de pago posibles a l
 **Intervalo:** De acuerdo al campo anterior se diligencia, ejemplo si es diario la cantidad de días que aplica, si es bimensual se debería diligenciar 1, pero si queremos indicar que son dos meses y en el campo anterior pusimos M, en este campo debemos diligenciar 2.  
 **InterestPercentage:** campo requerido con el objetivo de calcular el interés de mora en cartera financiera, el porcentaje utilizado es por línea de crédito.  
 
-La aplicación cuenta con un detalle, en donde se diligencian los intervalos propios de cada cuota según la necesidad y comportamiento de las líneas de crédito.  
+* La aplicación cuenta con un **detalle**, en donde se diligencian los intervalos propios de cada cuota según la necesidad y comportamiento de las líneas de crédito.  
 
 ![](bcnd11.png)
 
