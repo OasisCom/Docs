@@ -21,9 +21,9 @@ Esta aplicación permite parametrizar todas las condiciones de pago posibles a l
 
 * La aplicación cuenta con un **detalle**, en donde se diligencian los intervalos propios de cada cuota según la necesidad y comportamiento de las líneas de crédito.  
 
-![](bcnd11.png)
+![](bcnd11.png)  
 
-![](bcnd11.png)
+![](bcnd11.png)  
 
 
 **Cuota:** ingresar el número de la cuota.  
