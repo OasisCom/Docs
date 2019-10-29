@@ -71,7 +71,7 @@ Damos click sobre este botón y el proceso KPGF nos generará el formato en una 
 
 El formato será descargado en PDF y se podrá observar así:  
 
-![](kpgf10.png)
+![](pdf300.png)
 
 
 ## [Medios magnéticos para el Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#medios-magnéticos-para-el-ingreso-de-activo-fijo-por-compras)
