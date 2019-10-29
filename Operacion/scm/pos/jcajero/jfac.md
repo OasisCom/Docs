@@ -28,8 +28,8 @@ Aplicación que permite elaborar facturas o devoluciones que se realicen en el p
 **Concepto:** Iniciales del concepto por el cual se desea realizar el documento Éste se debe parametrizar previamente en el sistema, en este caso el concepto puede ser FA (Factura) o DE (Devolución).  
 **Motivo:**  Este se encuentra definido como 0.  
 **Vendedor:** Número de identificación de la persona que se encuentra facturando.  
-**Condición de Pago:** Representa un acuerdo establecido con clientes y proveedores en forma de tipos de descuento y plazos de pago, las diferentes opciones de condición de pago se encentran parametrizadas en la opción BCND. Se presenta el siguiente escenario: guardo el maestro e inserto un producto en el detalle. Me devuelvo y cambio en el maestro la **condición de pago** el sistema lanza un mensaje de control indicando que debe de corregir el detalle así:
-![](jfac52.png)
+**Condición de Pago:** Representa un acuerdo establecido con clientes y proveedores en forma de tipos de descuento y plazos de pago, las diferentes opciones de condición de pago se encentran parametrizadas en la opción BCND. Se presenta el siguiente escenario: guardo el maestro e inserto un producto en el detalle. Me devuelvo y cambio en el maestro la **condición de pago** el sistema lanza un mensaje de control indicando que debe de corregir el detalle así:  
+![](jfac52.png)  
 **Tipo de precio:** Precio debidamente parametrizado en la aplicación FBTP.  
 **Periodo:** Este campo se llena automaticamente, al insertar el registro.  
 **Año:** Campo que se llena automaticamente, al insertar el registro.   
