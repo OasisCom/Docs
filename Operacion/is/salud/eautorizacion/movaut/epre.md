@@ -1,9 +1,9 @@
----
-layout: default
+---  
+layout: default  
 title: Prescripciones 
-permalink: /Operacion/is/salud/eautorizacion/movaut/epre
-editable: si
----
+permalink: /Operacion/is/salud/eautorizacion/movaut/epre  
+editable: si  
+---  
 
 # EPRE- Prescripciones   
 
