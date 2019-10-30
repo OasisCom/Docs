@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Precripciones
+title: Prescripciones 
 permalink: /Operacion/is/salud/eautorizacion/movaut/epre
 editable: si
 ---
 
-# EPRE- Precripciones  
+# EPRE- Prescripciones   
 
-## Precripciones - EPRE  
+## Prescripciones  - EPRE  
 
-La aplicación **EPRE**  extrae la información de las prescripciones originadas de la plataforma **MIPRES**, con los procedimientos, dispositivos, medicamentos, complementarios, principios activos, nutricionales que intervienen en el proceso de salud.  
+Aplicación **EPRE**  extrae la información de las prescripciones originadas de la plataforma **MIPRES**, con los procedimientos, dispositivos, medicamentos, complementarios, principios activos, nutricionales que intervienen en el proceso de salud.  
 
 ![](epre1.png) 
 
