@@ -34,7 +34,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 ---
 ### Sistema para Inventario- Logística
 
->###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/fichas/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor.pdf)
+>###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)
 
 ---
 ### OasisCom Puntos de Venta
