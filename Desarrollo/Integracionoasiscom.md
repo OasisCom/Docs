@@ -1,16 +1,16 @@
 ---
 
-layout: default
+layout: default  
 
-title: Integración a OasisCom con API
+title: Integración a OasisCom con API  
 
-permalink: /Desarrollo/Integracionoasiscom
+permalink: /Desarrollo/Integracionoasiscom  
 
-editable: si
+editable: si  
 
 ---
 
-# INTEGRACIÓN A OASISCOM POR MEDIO DE API
+# INTEGRACIÓN A OASISCOM POR MEDIO DE API  
 
 La interfaz de conexión es un servicio RESTful web api 2 de tipo POST, el cual proporciona un conjunto fácil de usar de puntos finales HTTP quee recibe sus parámetros por medio de un objeto Content tipo  “_MultipartFormDataContent_”, incluidos usuarios, publicaciones y más, además de que permite recuperar o actualizar datos.  
 
