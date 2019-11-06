@@ -1,7 +1,7 @@
 ---  
 layout: default  
 title: Mejora  
-permalink: /Operacion/crm/mercadeo/mebasica/amej  
+permalink: /Operacion/crm/servicio/abasica/amej  
 editable: si  
 ---  
 
