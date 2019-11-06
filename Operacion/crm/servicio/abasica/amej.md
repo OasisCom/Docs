@@ -26,19 +26,13 @@ Esta opcion **AMEJ** al adicionar abre un formulario con estos campos a editar:
 
 ![](amej3.png)  
 
-**Tercero:** A quien afecta la mejora (Si es Interna Nit. de la empresa.  
+**Tercero:** A quien afecta la mejora **BTER** (Si es Interna Nit. de la empresa).  
 **Empleado:** Documento y/o cedula de la persona que realiza la mejora.  
 **Tema:** Doble click y seleccionar proceso al que afecta la mejora.  
-
 **Periodo y Año:** Mes y año en que se registra la mejora.  
 **Segmento:** Parametrización del **BCSE** Segmentos comerciales.  
 **Tipo de Medio:** campo posee zoom de busqueda, ej newspaper, catalogo de software, pagina web1, pagina web3.  
-**Producto:** Parametrización del **BPRO** producto.  
-**Nombre de tipo de medios:**  Parametrización del **ABTM.**.  
-**Proyecto:** Zoom del **BPRY**.  
-**Negocio:** Zoom del **BNEG**.  
-**Estado:** Activo, procesado, anulado.  
-**Status:** puede ser: expectativa, fidelizacion, lanzamiento, posicionamiento, reactivacion, social...entre otras .  
+  
 
 
 ********
