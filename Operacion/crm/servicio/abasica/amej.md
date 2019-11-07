@@ -27,7 +27,7 @@ Esta opcion **AMEJ** al adicionar abre un formulario con estos campos a editar:
 ![](amej3.png)  
 
 **Tercero:** A quien afecta la mejora **BTER** (Si es Interna Nit. de la empresa).  
-**Descripcion:** **Breve analisis donde se detalla la mejora hallada**.  
+**Descripción:** **Breve analisis donde se detalla la mejora hallada**.  
 **Empleado:** Documento y/o cedula de la persona que realiza la mejora.  
 **Tema:** Doble click y seleccionar proceso al que afecta la mejora.  
 **Periodo y Año:** Mes y año en que se registra la mejora.  
