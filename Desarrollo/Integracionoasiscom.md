@@ -25,9 +25,10 @@ Se ingresan de la siguiente manera:
 •	**Compañía:** el cual corresponde a un Id de dato tipo entero.  
 •	**Publicación:** la cual se parametriza desde la opción BARC (Archivos) y puede ser 		 visualizada desde la opción BINT (Interfaces).  
 •	**Tipo de publicación:** la cual puede ser subida (S) o bajada (B).  
-Parámetros de la publicación, los cuales dependerán de la debida parametrización, por ejemplo el código del producto, o bien, el número del tercero pueden considerarse parámetros de entrada.  
-
-
+Adicionalmente, se agregan los parámetros de la publicación, los cuales dependerán de la debida parametrización, por ejemplo el código del producto, o bien, el número del tercero pueden considerarse parámetros de entrada.  
+**Ejemplo pArguments:** 
+**usuario;contraseña_hexadecimal;Conexion;companyid;publicationid;tipo_publicacion;parametro1;parametro2;...;parametroN**
+        
 
 * **pFileBase64**: Si se requiere subir un archivo, este campo almacenará el archivo en forma de cadena base 64 de la siguiente forma; se carga el archivo como un arreglo de bytes (byte[]) y luego a dicho arreglo se le aplica  una conversión a base 64, la cadena resultante en base 64 es el dato asignado a dicho parametro.
 
@@ -69,6 +70,8 @@ MUESTRA LA CONEXIÓN A OASISCOM MEDIANTE EL USO DE CLASES RECOMENDADAS DE C#.**
                 //SE CONCATENA EL USUARIO Y CONTRASEÑA O PALABRA ESPECIAL PARA INTIFICAR DE DONDE LLEGA LA PETICION. 
                 ParamsWebApi = puserid + ";" + ConvertStringToHexadecimal(pass, Encoding.UTF8) + ";" + connexion + ";" + ParamsWebApi;
                 var requestUri = pURI;
+                //specify to use TLS 1.2 as default connection
+                System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12 | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls;
                 var content = new MultipartFormDataContent();
                 content.Add(new StringContent(ParamsWebApi.Trim()), "pArguments");
                 content.Add(new StringContent(base64Encoded), "pFileBase64");
