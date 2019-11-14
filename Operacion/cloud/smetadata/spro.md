@@ -38,6 +38,14 @@ Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la ap
 ## [Parametrización que permitir exportar en Word las vistas previas](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-que-permitir-exportar-en-Word-las-vistas-previas)
 
 Esta funcionalidad permitir exportar en Word, las vistas previas.  Parametrización que se realiza: en el detalle de la opción programas SPRO.  
+Para el siguiente escenario tomammos como ejemplo parametrizar el AREQ; para que permita exportar en Word, debe de existir vista preliminar inicialmente en el formato.  
+* En el detalle del **SPRO** en la columna **Tipo** debe de llevar FORMATO.  
+* Como segunda parametrizacion, en la columan **DataType** debe de llevar **PLANTILLA EXPORT**.  
+![](spro11.png)
+
+Posterior se valida la exportacion:  
+![](spro9.png)
+
 
 
 
