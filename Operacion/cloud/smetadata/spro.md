@@ -37,7 +37,7 @@ Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la ap
 
 ## [Parametrización que permitir exportar en Word, las vistas previas](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-que-permitir-exportar-en-Word,-las-vistas-previas)
 
-Esta funcionalidad permitir exportar en Word, las vistas previas.  Parametrización que se realiza: en el detalle de la opción programas SPRO.
+Esta funcionalidad permitir exportar en Word, las vistas previas.  Parametrización que se realiza: en el detalle de la opción programas SPRO.  
 
 
 
