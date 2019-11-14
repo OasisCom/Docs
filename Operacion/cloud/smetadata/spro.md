@@ -35,7 +35,7 @@ Consultamos el programa **JFAC** y filtramos en el detalle por tipo _Formato_. A
 
 Para asignar un tipo de formato al documento FA - Facturas, ingresaremos a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas). (_Ver aplicación_)
 
-## [Parametrización que permitir exportar en Word, las vistas previas](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-que-permitir-exportar-en-Word,-las-vistas-previas)
+## [Parametrización que permitir exportar en Word las vistas previas](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-que-permitir-exportar-en-Word-las-vistas-previas)
 
 Esta funcionalidad permitir exportar en Word, las vistas previas.  Parametrización que se realiza: en el detalle de la opción programas SPRO.  
 
