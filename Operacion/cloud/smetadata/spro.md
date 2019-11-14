@@ -44,7 +44,7 @@ Para el siguiente escenario tomammos como ejemplo parametrizar el AREQ; para que
 ![](spro11.png)
 
 Posterior se valida la exportacion:  
-![](spro9.png)
+![](spro9.png)  
 
 
 
