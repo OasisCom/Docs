@@ -56,6 +56,8 @@ Realizamos un ejemplo con la opcion **TMOV** donde los cuatro primeros campos se
 
 El siguiente paso es parametrizar el mensaje de control o alerta, para que el usuario digite el filtro. este codigos de errores provienen de la opcion **SERR**  
 
+![](scam46.png)  
+
 
 
 ### Parametrización restricciones maestros tipo C
