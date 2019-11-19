@@ -41,6 +41,23 @@ El error parametrizado se mostrará al momento de guardar si no se cumple alguna
 
 ![](scam4.png)
 
+### Parametrización "alertas en mensajes de control", en maestros tipo C. 
+
+Desde la opción campos **SCAM** se establece la parametrización en la columna: Tipo, como CONSULTA REQUERIDO según sea el programa. El sistema lanzara un mensaje de control, para que el usuario establezca los filtros de búsqueda.  
+
+![](scam44.png)  
+Realizamos un ejemplo con la opcion **TMOV** donde los cuatro primeros campos se parametrizan asi:   
+* programa = TMOV  
+* tabid = maestro (0), detalle (1) respectivamente.  
+* fieldid = campo para este ejemplo: date (fecha).  
+* idioma = 2 (español).  
+
+![](scam45.png)  
+
+El siguiente paso es parametrizar el mensaje de control o alerta, para que el usuario digite el filtro. este codigos de errores provienen de la opcion **SERR**  
+
+
+
 ### Parametrización restricciones maestros tipo C
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
