@@ -58,7 +58,7 @@ El siguiente paso es parametrizar el mensaje de control o alerta, para que el us
 
 ![](scam46.png)  
 
-Y el proceso finaliza con la validacion, al entrar al TMOV y al aplicar una consulta general; el sistema enviara un mensaje de control indicando que debe de establecer un fecha como filtro de consulta asi:  
+Y el proceso finaliza con la validacion, al entrar al TMOV y al aplicar una consulta general; el sistema enviara un mensaje de control indicando que debe de establecer un fecha como filtro de consulta asi:   
 
 ![](scam47.png)  
 
