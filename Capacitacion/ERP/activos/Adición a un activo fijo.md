@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plantillas
-permalink: /Capacitacion/ERP/activos
+permalink: /Capacitacion/ERP/activos/
 editable: si
 ---
 
