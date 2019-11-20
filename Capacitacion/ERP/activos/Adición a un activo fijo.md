@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plantillas
-permalink: /Capacitacion/ERP/activos/
+permalink: /Capacitacion/ERP/activos/Adición%20a%20un%20activo%20fijo.md
 editable: si
 ---
 
