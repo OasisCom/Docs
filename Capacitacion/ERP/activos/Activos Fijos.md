@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activos fijos
-permalink: /Capacitacion/ERP/activos/
+permalink: /Capacitacion/ERP/activos/Activos%20Fijos.md
 editable: si
 ---
 
