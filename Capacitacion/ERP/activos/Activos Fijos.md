@@ -10,7 +10,7 @@ editable: si
 
 En este curso, usted encontrará información más detallada sobre temas relacionados con los activos fijos, tales como: parametrización básica, cómo ingresar un activo fijo (entrada), adición a un activo fijo, baja y depreciación de un activo fijo, los cuales le servirán para aprender a realizar ciertas operaciones en el sistema y algunas herramientas que le facilitarán y le harán más agradable la navegabilidad.
 
-Para comenzar **la parametrización básica** para el módulo de Activos Fijos, iniciaremos con la aplicación BCLA - Clasificaciones. 
+Para comenzar con **la parametrización básica** para el módulo de Activos Fijos, iniciaremos con la aplicación BCLA - Clasificaciones. 
 
 # BCLA - Clasificaciones 
 

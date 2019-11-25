@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plantillas
+title: Adición a un activo fijo
 permalink: /Capacitacion/ERP/activos/
 editable: si
 ---
