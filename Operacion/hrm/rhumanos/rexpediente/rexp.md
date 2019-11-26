@@ -61,7 +61,6 @@ En la pestaña _Familiares_ se registran las personas que viven con el contratad
 
 
 ![](rexp6.png)
-![](rexp6.png)
 
 
 **Pestaña Dotación**
