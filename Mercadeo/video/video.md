@@ -32,13 +32,13 @@ editable: si
 
 
 #### [Historias OasisCom - Coopeoccidente](https://www.youtube.com/watch?v=x7bohQOD_8s&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp&index=9&t=2s)
-<iframe width="280" height="157" src="https://www.youtube.com/embed/GTaK5MrG4Lg" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/x7bohQOD_8s?list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp" frameborder="0" allowfullscreen></iframe>
 
 
 
 #### [Historias OasisCom - Henkel.](https://www.youtube.com/watch?v=sE5KQLe8x7c&list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp&index=6)
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/nWQK2DXJqOw" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/sE5KQLe8x7c?list=PLckbVOCPngDX41iRlt3DLoYZs9VqrfGGp" frameborder="0" allowfullscreen></iframe>
 
 #### [Casos de éxito OasisCom - Scholarium](https://www.youtube.com/watch?v=rFHw6tNkpck&t=19s)
 
