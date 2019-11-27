@@ -150,7 +150,7 @@ Al dar click en _Aceptar_ nos arrojará el siguiente error.
 
 ![](bint59.png)  
 
-Seleccciona descargar como .TXT  
+Seleccciona, descargar como .TXT  
 
 ![](bint60.png)  
 
