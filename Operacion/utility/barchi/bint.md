@@ -150,6 +150,8 @@ Al dar click en _Aceptar_ nos arrojará el siguiente error.
 
 ![](bint59.png)  
 
+Seleccciona descargar como .TXT  
+
 ![](bint60.png)  
 
 # [Subir productos al Marketplace](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subir-productos-al-marketplace)
