@@ -140,7 +140,17 @@ Al dar click en _Aceptar_ nos arrojará el siguiente error.
   
   Configurando los parámetros contenidos en el mensaje de error, se podrá ejecutar correctamente la publicación seleccionada.  
 
-![](bint18.png)
+![](bint18.png)  
+
+* Para el escenario donde desde el **BINT** se desea realizar una **Exportación dinamica** (como se ilustra).  
+
+![](bint58.png)  
+
+* Luego de ejecutar el Query se observará una restricción para la descarga del archivo.    
+
+![](bint59.png)  
+
+![](bint60.png)  
 
 # [Subir productos al Marketplace](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subir-productos-al-marketplace)
 
