@@ -346,6 +346,9 @@ Para referirse a los detalles técnicos sobre la generación de los archivos xml
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.  
 
 
+**********
+
+
 
 
 
