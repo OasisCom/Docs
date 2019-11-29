@@ -25,4 +25,4 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 
 [**Cumplimiento legal**](http://docs.oasiscom.com/Procesos/sgsi/Presentación_Cumplimiento.pdf) 
 
-[**Seguridad Física y del entorno**](http://docs.oasiscom.com/Procesos/sgsi/Presentación_Seguridad_física_y_del_entorno.pdf) 
+[**Seguridad Física y del entorno**](http://docs.oasiscom.com/Procesos/sgsi/Presentación%20Seguridad%20física%20y%20del%20entorno.pdf) 
