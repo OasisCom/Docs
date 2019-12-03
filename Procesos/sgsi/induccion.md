@@ -24,3 +24,5 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 [**Accesos y permisos**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Procedimiento_Accesos_y_Permisos.pdf) 
 
 [**Cumplimiento legal**](http://docs.oasiscom.com/Procesos/sgsi/Presentación_Cumplimiento.pdf) 
+
+[**Seguridad Física y del entorno**](http://docs.oasiscom.com/Procesos/sgsi/Presentación%20Seguridad%20física%20y%20del%20entorno.pdf) 

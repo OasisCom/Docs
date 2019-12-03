@@ -340,3 +340,15 @@ Luego podemos presionar la tecla “Enter” o con el puntero del mouse dar clic
 
 Y la información que esté guardada será la que se muestre en la factura.  
 
+**NOTA:**  
+
+Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
+https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.  
+
+
+**********
+
+
+
+
+

@@ -57,7 +57,7 @@ Si es necesario, se agregan más registros.
 
 **Pestaña Familiares**
 
-En la pestaña _Familiares_ se registran las personas que viven con el contratado. Allí diligenciamos el tipo de familiar y el nombre de la persona. El tipo de familiar se parametriza en la aplicación **RBTF – Tipo de familiar**.
+En la pestaña _Familiares_ se registran las personas que viven con el contratado. Allí diligenciamos el tipo de familiar y el nombre de la persona. El tipo de familiar se parametriza en la aplicación **RBTF – Tipo de familiar**. Adicional se deben de diligenciar los campos: fecha cumpleaños, sexo, documento del familiar, factor RH; como se ilustra.  
 
 
 ![](rexp6.png)
