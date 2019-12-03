@@ -50,7 +50,7 @@ La forma correcta de confirmar o procesar un turno es realizar la equivalencia e
 
 ![](jtur2.png)
 
-Se realiza Adecuación en el detalle del **JTUR (turnos)**, permita seleccionar las formas de pago para los recaudos realizados en abonos de efectivo; por conceptos como separación de mercancía.  
+Se realiza Adecuación en el detalle del **JTUR (turnos)**, permite seleccionar las formas de pago para los recaudos realizados en abonos de efectivo; por conceptos como separación de mercancía.  
 Para este escenario se agrego el campo **forma de pago** en el detalle del **JTUR**.   
 
 ![](jtur5.png)  
