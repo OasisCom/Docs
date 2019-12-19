@@ -51,3 +51,4 @@ Estos datos son de vital importancia, dado que será la base para que el gestor 
 **Id responsable:** ingresar el número de identificación de la persona que presenta el caso.  
 **Nombre del responsable:** ingresar el nombre completo de la persona que presenta el caso.  
 
+***********
