@@ -12,7 +12,7 @@ Esta opción es usada para administrar los productos (medicamentos) y servicios 
 **EPRO – Productos**, se realiza la creación de productos, de la siguiente manera:
 
 
-![](Epro1.png)
+![](EPRO1.png)
 
 
 **Id Producto**: se debe ingresar el código del producto, teniendo en cuenta que este es un número que no es consecutivo pero que debe ser exclusivo para cada producto creado.  
