@@ -13,7 +13,7 @@ Donde en [EPQR] permite registrar las peticiones, quejas, reclamos, felicitacion
 
 Ingresamos a la aplicación, creamos un nuevo registro y diligenciamos el formulario.  
 
-![](eate1.png)
+![](eate1.png)  
 
 _Información básica_
 
@@ -33,10 +33,10 @@ _Información afiliado_
 
 **Id Afiliado:** ingresar el número de identificación del afiliado.  
 **Régimen:** seleccionar el régimen si es subsidiado o contributivo.  
-**Sexo:**
-**fecha de nacimiento:**
-**Direccion:**
-**Ubicacion Geografica:**
+**Sexo:**  
+**fecha de nacimiento:**  
+**Direccion:**  
+**Ubicacion Geografica:**  
 
 
 _Información Adicional_
