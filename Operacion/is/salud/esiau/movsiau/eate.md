@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/esiau/movsiau/eate
 editable: si  
 ---
 
-# EPQR - Atencion al Uasuario  
+# EATE - Atencion al Uasuario  
 Creación del programa **EATE** (Atencion usuario) que servirá para la captura de solicitudes de información por los clientes de una entidad - atención al usuario realizada por el empleado de la entidad.  
 Posee la misms finalidad de las petixciones quejas y reclamos, donde pueden existir escenarios donde un tercero externo que no es afilido, realiza consultas; entre otras diversidad de preguntas que son trasmitidas desde servicio al cliente.   
 Su estructura es similar a las peticiones quejas y reclamos.  
