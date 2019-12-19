@@ -24,7 +24,7 @@ Cabe aclarar que esta opción también permite la _edición_ y _eliminación_ de
 **DETALLE**
 
 En la parte inferior existen pestañas como:** Tafifas, sustitutos, componentes, clasificacion, Diagnostico**.  
-para la pestaña de **Registros** su funcionalidad esta basada para diferenciar los niveles que maneja el Invima. Dónde un medicamento puede tener dos niveles o tres segun sea el caso.  
+Para la pestaña de **Registros** su funcionalidad esta basada para diferenciar los niveles que maneja el Invima. Dónde un medicamento puede tener dos niveles o tres segun sea el caso.  
 
 
 
