@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Procesos Especiales  
+title: Lagaliza Factura en Consignacion.  
 permalink: /Operacion/scm/compras/oproceso/oplf  
 editable: si  
 ---
