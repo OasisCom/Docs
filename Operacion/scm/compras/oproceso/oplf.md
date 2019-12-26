@@ -12,5 +12,5 @@ La aplicación **OPLF** pertenece al modulo de compras y aplica para aquella mer
 Previa parametrización de cada uno de los productos en BPRO; se marca que sea en consignación y se agrega tercero a dicho producto.  
 Se realiza adecuacion agregando calendario en los campos fecha inicial y fecha final; datos de entrada.  
 
-![](oplf1.png)  
+![](OPLF1.png)  
 
