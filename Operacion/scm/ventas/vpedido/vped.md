@@ -19,7 +19,10 @@ Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los 
 **Concepto:** PD de pedido.  
 **Motivo:** Motivo parametrizado previamente en la aplicación **BMOT**.  
 **Fecha:** Fecha en que se registra el pedido.  
-**Tercero:** Número de identificación del tercero que solicita el pedido.  
+**Tercero:** Número de identificación del tercero que solicita el pedido. Con clic derecho permite crear clientes abre un nuevo formulario:  
+![](vped51.png)  
+![](vped52.png)  
+
 **Nombre Tercero:** Nombre del tercero que solicita el pedido.  
 
 
