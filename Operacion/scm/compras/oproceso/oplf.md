@@ -5,7 +5,7 @@ permalink: /Operacion/scm/compras/oproceso/oplf
 editable: si  
 ---
 
-# OPLF - Lagaliza Factura en Consignacion.  
+# OPLF - Lagaliza Factura en Consignación.  
 PROCESO ESPECIAL.
 
 La aplicación **OPLF** pertenece al modulo de compras y aplica para aquella mercancía en consignación que se han vendido para posteriormente facturarle al proveedor. Este proceso genera una factura de compra OFAC.  
