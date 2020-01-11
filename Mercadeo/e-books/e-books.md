@@ -39,6 +39,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 ---
 ### OasisCom Puntos de Venta
 >###### [Ebook: Preguntas Frecuentes Punto de Venta OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)  
+>>###### [Ebook: Tendencias en Tecnología POS para el 2020](http://docs.oasiscom.com/Mercadeo/e-books/tendencias-pos-ebook.pdf)  
 
 ---
 ### Factura Electrónica
