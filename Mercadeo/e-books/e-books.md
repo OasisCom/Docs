@@ -35,7 +35,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 ### Sistema para Inventario- Logística
 
 >###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)
-
+>###### [EbooK: Tendencias en Logística 4.0 - 2020](http://docs.oasiscom.com/Mercadeo/e-books/Ebook-tendencias-logistica-2020.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 ---
 ### OasisCom Puntos de Venta
 >###### [Ebook: Preguntas Frecuentes Punto de Venta OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)  
