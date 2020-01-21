@@ -11,7 +11,7 @@ editable: si
 
 Realizada la parametrización de tipo de precio en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi), podemos validar en la aplicación **GFAC**, que al agregar un nuevo registro e ingresar en el campo _Ubicación_, la ubicación  en la cual se realizó la parametrización, este trae automáticamente en el campo _Tipo de Precio_ el definido en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).  
 
-* Con clic derecho, permite crear nuevos clientes desde el **GMOV, GFAC** como se tiene actualmente la creación desde el **JFAC.**  
+* Con clic derecho, permite crear nuevos afiliados desde el **GMOV, GFAC** como se tiene actualmente la creación desde el **JFAC.**  
 
 ![](gfac5.png)
 
