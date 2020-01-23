@@ -75,4 +75,9 @@ editable: si
 ##### [Versiones OasisCom 4.04.17](https://mailchi.mp/8c409b50b66e/versin-3954555)
 ##### [Versiones OasisCom 4.04.18](https://mailchi.mp/881c0777c5dd/versin-3958135)
 ##### [Versiones OasisCom 4.04.19](https://mailchi.mp/5679e28b1111/versin-3960835)
-##### [Versiones OasisCom 4.04.22](https://mailchi.mp/dd9b5a7d13ea/versin-3975659)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+##### [Versiones OasisCom 4.04.20](https://mailchi.mp/d22fc34a9c89/versin-3989007)
+##### [Versiones OasisCom 4.04.21](https://mailchi.mp/ed84e84d4ad4/versin-3989115)
+
+##### [Versiones OasisCom 4.04.22](https://mailchi.mp/dd9b5a7d13ea/versin-3975659)
+
+##### [Versiones OasisCom 4.04.26.02](https://mailchi.mp/f4b0c731d498/versin-3989171)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
