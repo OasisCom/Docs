@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AUDITORIA FACTURAS
-permalink: /Operacion/is/salud/efactura/EAUF
+permalink: /Operacion/is/salud/efactura/eauf
 editable: si
 ---
 
