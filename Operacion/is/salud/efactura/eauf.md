@@ -8,7 +8,7 @@ editable: si
 # AUDITORIA FACTURAS - EAUF  
 El proceso de auditoria de las facturas en el sistema se lleva a cabo realizando xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Botón/  Auditada:  
-Botón/ actualiza registro:  
+Botón/ actualiza registro:  permite modificar el empleado correspondiente al programa de auditoria de facturacion, teniendo  la posibilidad de actualizar de manera masiva varios registros.  
 
 
 Las facturas de salud **[EFAC]** se emiten a través de un proceso de interface [BINT] donde se carga el RIPS (registro individual de prestación de servicios).  
@@ -22,10 +22,10 @@ El segundo escenario cuando es mayor a 30.000 se crea un documento **FD** (NOTA 
 **Numero:** consecutivo automatico del BCNS.  
 **Ubicacion:** parametrizacion creada en basico de ubicaciones.  
 **Concepto:** desde el BDOC basico de documento se realiza la parametrizacion.  
-**motivo:** parametrizacion del BMOT.  
+**Motivo:** parametrizacion del BMOT.  
 **Fecha:** se inserta automaticamente al crear el documento o fecha del archivo plano.  
 **Estado:** activo, procesado anulado segun corresponda.  
-**Status:** desde el BDOC pestaña status se parametriza ejemplo: preradicada, no procede, avalada, avalada glosa, concurrencia, radicada, devuelta, enviada auditoria, entre otras.  
+**Status:** desde el BDOC pestaña status se parametriza ejemplo: preradicada, no procede, avalada, avalada glosa, 			concurrencia, radicada, devuelta, enviada auditoria, entre otras.  
 **Documento1:** documento asociado factura.  
 **Numero1:** documento asociado factura.  
 **Ubicacion1:** documento asociado factura.  
