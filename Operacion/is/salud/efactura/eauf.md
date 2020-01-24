@@ -16,7 +16,7 @@ Existe dos escenarios: uno donde el sistema crea una glosa cuando la diferencia 
 El segundo escenario cuando es mayor a 30.000 se crea un documento **FD** (NOTA DEBITO SALUD).  
 
 
-![](efac1.png)  
+![](eauf3.png)  
 
 **Documento:** desde el BDOC basico de documento se realiza la parametrizacion.  
 **Numero:** consecutivo automatico del BCNS.  
