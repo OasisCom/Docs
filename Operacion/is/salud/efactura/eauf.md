@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Facturas
+title: AUDITORIA FACTURAS
 permalink: /Operacion/is/salud/efactura/EAUF
 editable: si
 ---
