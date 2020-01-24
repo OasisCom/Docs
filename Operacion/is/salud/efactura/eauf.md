@@ -8,7 +8,7 @@ editable: si
 # AUDITORIA FACTURAS - EAUF  
 El proceso de auditoria de las facturas en el sistema se lleva a cabo realizando xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Botón/  Auditada:  
-Botón/ actualiza registro:  permite modificar el empleado correspondiente al programa de auditoria de facturacion, teniendo  la posibilidad de actualizar de manera masiva varios registros.  
+Botón/ Asigna Auditor:  permite modificar el empleado correspondiente al programa de auditoria de facturacion, teniendo  la posibilidad de actualizar de manera masiva varios registros.  
 
 
 Las facturas de salud **[EFAC]** se emiten a través de un proceso de interface [BINT] donde se carga el RIPS (registro individual de prestación de servicios).  
