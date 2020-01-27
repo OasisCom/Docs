@@ -13,6 +13,11 @@ A continuación, vemos un ejemplo de un kit compuesto por tela y botones represe
 
 ![](icnv.png)
 
+## [Pestaña Contabilización Resumida]  
+
+Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
+ ![](icnv5.png)
+
 
 ## [Vista previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#vista-previa)
 
