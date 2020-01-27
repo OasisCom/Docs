@@ -150,7 +150,7 @@ Para acceder a la vista previa del documento, damos click en el botón _Imprimir
 
 ![](ocaf9.png)  
 
-##COMPRA DE CAFE PAGO DE INCENTIVO FLO##
+##COMPRA DE CAFE PAGO DE INCENTIVO FLO
 
 El sistema para que adicional al precio del producto por factor, teniendo en cuenta el precio base del día, se le cancele el incentivo de $400 por kilo adicional, afectando la cuenta del incentivo en el Pasivo.  
 Es de aclarar que como el producto es FLO, normalmente el precio tiene BONIFICACION POR PROGRAMA en la definición del precio del día, lo cual no debe ser tenida en cuenta para el cálculo del precio SI paga el incentivo.  
