@@ -75,6 +75,12 @@ En el detalle permite llevar el registro de los siguientes campos.
  Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
  
  ![](ofac15.png)
+ 
+## [Pestaña Contabilización Resumida]  
+
+Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
+ ![](ofac31.png)
+
 
 ## [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos)
 
