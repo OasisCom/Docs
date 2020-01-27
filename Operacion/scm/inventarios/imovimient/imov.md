@@ -63,6 +63,12 @@ Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas
 
 ![](imov21.png)
 
+## [Pestaña Contabilización Resumida]  
+
+Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
+
+![](imov31.png)
+
 Detalle del **IMOV**.  
 
 ![](imov22.png)

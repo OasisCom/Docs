@@ -80,6 +80,11 @@ Y la respectiva contabilización
 
 ![](lord5.png)
 
+## [Pestaña Contabilización Resumida]  
+
+Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
+ ![](lord21.png)
+
 Aquí finaliza el proceso de producción.  
 
 
