@@ -150,6 +150,14 @@ Para acceder a la vista previa del documento, damos click en el botón _Imprimir
 
 ![](ocaf9.png)  
 
+##COMPRA DE CAFE PAGO DE INCENTIVO FLO##
+
+El sistema para que adicional al precio del producto por factor, teniendo en cuenta el precio base del día, se le cancele el incentivo de $400 por kilo adicional, afectando la cuenta del incentivo en el Pasivo.  
+Es de aclarar que como el producto es FLO, normalmente el precio tiene BONIFICACION POR PROGRAMA en la definición del precio del día, lo cual no debe ser tenida en cuenta para el cálculo del precio SI paga el incentivo.  
+
+El incentivo solo se paga hasta 500 kilos durante la vigencia de 2020, si en la compra el asociado vendiera más de 500 kilos el incentivo es solo sobre 500. Por lo anterior, es necesario controlar el pago del incentivo por asociado.  
+
+
 ## [Compra de Café por Factor Húmedo](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor-húmedo)
 
 Para realizar compra de café por Factor Húmedo, debemos tener en cuenta la parametrización previa de las aplicaciones [**OBTA - Rango Tara y Agua**](http://docs.oasiscom.com/Operacion/is/cafe/caprecio/obta) y [**ODES - Precio de Café**](http://docs.oasiscom.com/Operacion/scm/compras/oprecio/odes). (_Ver aplicaciones_)
