@@ -1568,6 +1568,9 @@
                   url: /Operacion/is/salud/esiau/eencuesta/
                 - text: Peticiones Quejas y Reclamos
                   url: /Operacion/is/salud/esiau/movsiau/
+                  subitems:
+                    - text: Peticiones, Quejas, Reclamos
+                      url: /Operacion/is/salud/esiau/movsiau/epqr
                 - text: Reportes
                   url: /Operacion/is/salud/esiau/repsiau/
         - text: Hospital
