@@ -58,7 +58,7 @@ A este nivel se puede realizar el proceso de direccionamiento ya que es donde se
 
 ![](eaut8.png)  
 
-
+Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	
 
 
 
