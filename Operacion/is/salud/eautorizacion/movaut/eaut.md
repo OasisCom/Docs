@@ -47,7 +47,18 @@ En el formulario de las Autorizaciones  **EAUT** se incluye el campo.
 ##PROCESO DE CONSUMO DE SERVICIOS MIPRES.  
 Involucran funcionalidades como:  
 **Direccionamiento:** Este proceso realiza la captura de información en que EPS genera el direccionamiento? a que proveedor? (Droguería, Etc.); para la entrega de medicamentos entre otros a los pacientes.  
-**Anulación Direccionamiento:** Este proceso simplemente anula la información brindada en el direccionamiento
+**Anulación Direccionamiento:** Este proceso simplemente anula la información brindada en el direccionamiento.  
+
+* Ambos procesos anteriores se realizan por el programa **EAUT ( AUTORIZACIONES).**  
+
+A este nivel se puede realizar el proceso de direccionamiento ya que es donde se tiene conocimiento del número de entregas en cuanto a medicamentos para un paciente.  
+![](eaut7.png)  
+
+* Al darle clic sobre el botón de direccionamiento se abre una ventana modal, la cual solicita los datos a ingresar.  
+
+![](eaut8.png)  
+
+
 
 
 
