@@ -44,6 +44,12 @@ En el formulario de las Autorizaciones  **EAUT** se incluye el campo.
     
 ![](eaut4.png)  
 
+##PROCESO DE CONSUMO DE SERVICIOS MIPRES.  
+Involucran funcionalidades como: 
+
+
+
+
 
 
 
