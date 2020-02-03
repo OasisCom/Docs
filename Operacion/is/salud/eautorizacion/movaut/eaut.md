@@ -39,7 +39,7 @@ En el formulario de las Autorizaciones  **EAUT** se incluye el campo.
 * Para actualizar los datos del afiliado se procede a insertar un nuevo registro en la autorizacion **EAUT**, clic derecho sobre el campo actualizar afiliado.  
 
 ![](eaut3.png)  
-* Abre este submenu:
+* Abre este submenu:  
 	Donde siempre se deben actualizar los campos: dirección, teléfono, celular, email, barrio.  
     
 ![](eaut4.png)  
@@ -64,21 +64,29 @@ Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al
 
 Una vez ingresemos los datos se da aceptar.  
 
-**PROCESO INTERNO QUE GENERARÁ OASIS:**	
+**PROCESO INTERNO QUE GENERARÁ OASIS:**	  
 
 **Pre-Validación:** Este proceso realizara la validación necesaria sobre los datos antes de que se envíen los datos.  
 **Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se genera la petición de actualización sobre el servicio MIPRES.   
 **Proceso Confirmación:** Este proceso notificará la respuesta a OasisCom para la captura de referenciación.  
 
-**EL PROCESO DE ANULACIÓN ES DE LA SIGUIENTE MANERA.**
+**EL PROCESO DE ANULACIÓN ES DE LA SIGUIENTE MANERA.**  
 
 Este proceso solo requiere el token.  
 Y al ejecutarlo se genera el mismo proceso indicado en el direccionamiento.  
 
 ![](eaut9.png)  
 
-**No Direccionamiento:** Este proceso es lo contradictorio a lo de direccionamiento, este proceso de indica la causa por la que la EPS indica que no se realizara el no direccionamiento al proveedor ( Droguería u otro medio).  
+**No Direccionamiento:** Este proceso es contradictorio al de "direccionamiento", este proceso le indica la causa por la que la EPS indica que NO se realizara el NO direccionamiento al proveedor ( Droguería u otro medio).  
 **Anulación No Direccionamiento:** Anula el proceso de No direccionamiento.  
+
+* Ambos procesos anteriores se realizan por el programa **ESOL (SOLICITUDES).**  
+
+Todos los procesos piden token por el motivo indicado.  
+
+Solo el proceso de direccionamiento pide los campos Nro. entrega y Nro. sub entrega.  
+
+
 
 
 
