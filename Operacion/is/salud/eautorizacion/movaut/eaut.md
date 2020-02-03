@@ -70,7 +70,12 @@ Una vez ingresemos los datos se da aceptar.
 **Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se genera la petición de actualización sobre el servicio MIPRES.   
 **Proceso Confirmación:** Este proceso notificará la respuesta a OasisCom para la captura de referenciación.  
 
+**EL PROCESO DE ANULACIÓN ES DE LA SIGUIENTE MANERA.**
 
+Este proceso solo requiere el token.  
+Y al ejecutarlo se genera el mismo proceso indicado en el direccionamiento.  
+
+![](eaut9.png)  
 
 
 
