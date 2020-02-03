@@ -77,6 +77,10 @@ Y al ejecutarlo se genera el mismo proceso indicado en el direccionamiento.
 
 ![](eaut9.png)  
 
+**No Direccionamiento:** Este proceso es lo contradictorio a lo de direccionamiento, este proceso de indica la causa por la que la EPS indica que no se realizara el no direccionamiento al proveedor ( Droguería u otro medio).  
+**Anulación No Direccionamiento:** Anula el proceso de No direccionamiento.  
+
+
 
 
 
