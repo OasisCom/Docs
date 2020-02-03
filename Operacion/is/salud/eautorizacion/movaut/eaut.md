@@ -62,6 +62,12 @@ Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al
 
 **Token:** Se solicita el token ya que la EPS adquiere un token habilitado por 24 horas, este token generado desde un sitio web externo del Min. de Salud.  
 
+Una vez ingresemos los datos se da aceptar.  
+
+**PROCESO INTERNO QUE GENERARÁ OASIS:**	
+
+**Pre-Validación:** Este proceso realizara la validación necesaria sobre los datos antes de que se envíen los datos.  
+**Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se genera la petición de actualización sobre el servicio MIPRES.  
 
 
 
