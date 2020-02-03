@@ -58,7 +58,12 @@ A este nivel se puede realizar el proceso de direccionamiento ya que es donde se
 
 ![](eaut8.png)  
 
-Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	
+Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	 
+
+**Token:** Se solicita el token ya que la EPS adquiere un token habilitado por 24 horas, este token generado desde un sitio web externo del Min. de Salud.  
+
+
+
 
 
 
