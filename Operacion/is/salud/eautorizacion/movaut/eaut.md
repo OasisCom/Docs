@@ -67,7 +67,9 @@ Una vez ingresemos los datos se da aceptar.
 **PROCESO INTERNO QUE GENERARÁ OASIS:**	
 
 **Pre-Validación:** Este proceso realizara la validación necesaria sobre los datos antes de que se envíen los datos.  
-**Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se genera la petición de actualización sobre el servicio MIPRES.  
+**Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se genera la petición de actualización sobre el servicio MIPRES.   
+**Proceso Confirmación:** Este proceso notificará la respuesta a OasisCom para la captura de referenciación.  
+
 
 
 
