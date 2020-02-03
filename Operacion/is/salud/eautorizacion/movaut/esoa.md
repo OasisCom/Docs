@@ -20,7 +20,7 @@ Por consiguiente, al darle imprimir se realiza el mismo proceso que imprimir des
 
 
 
-![](epre1.png) 
+![](esoa1.png) 
 
 
 
