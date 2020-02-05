@@ -366,6 +366,9 @@ Documentos
 Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito). 
 Puede descargar aquí los documentos de *Maestro, Detalle y Status.*
 
+![](ebportal22.png)  
+
+
 
 
 
