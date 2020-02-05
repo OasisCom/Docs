@@ -358,7 +358,10 @@ Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o res
 
 2.	PARAMETRIZACIÓN   
 Ubicación   
-Se debe ingresar a las ubicaciones geográficas [BUBG], en donde se debe configurar la ubicación geográfica según los códigos del DANE y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
+Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
+
+![](ebportal21.png)  
+
 
 
 
