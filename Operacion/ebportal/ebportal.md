@@ -385,6 +385,15 @@ En el detalle se debe parametrizar el campo código externo
 
 ![](ebportal62.png)  
 
+Adicional a esto también se debe parametrizar el campo código externo1.  
+
+![](ebportal63.png)  
+
+Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para     facturas de venta y/o facturas de exportaciones.  
+Terceros  
+En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
+Puede descargar aquí el tercero de OasisCom   
+
 
 
 
