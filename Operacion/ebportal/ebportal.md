@@ -470,6 +470,17 @@ En la aplicación de Empresa **[SEMP]** parametrizar el TestSetId dado por la Di
 
 ![](ebportal80.png)  
 
+Se debe relacionar el correo electrónico que se usará como máscara para el envío de correos electrónicos a los adquirientes en el campo EMailOutput.  
+
+![](ebportal81.png)  
+
+Se debe relacionar la información de la empresa como dirección, teléfonos, ciudad, etc. para la información que se visualiza en el formato (Representación Gráfica de las transacciones).  
+
+![](ebportal82.png)  
+
+
+
+
 
 
 
