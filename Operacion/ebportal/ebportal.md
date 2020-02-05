@@ -372,6 +372,21 @@ En la parametrización de los documentos mencionados anteriormente en el maestro
 
 ![](ebportal61.png)  
 
+A continuación, se describen la funcionalidad del campo Ebill:  
+•	No Ebill: Hace referencia a los documentos que no corresponden a documentos electrónicos.  
+•	Ebill ver. 1 Producción:  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I.  
+•	Ebill ver. 2 Síncrono Producción: Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase II.  
+•	Ebill ver. 2 Síncrono Habilitación: Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). De este modo nos permite visualizar los rechazos de la transacción en caso de existir, pero no alimenta el tablero (diagrama de barras) en la página de habilitación de la DIAN.  
+•	Ebill ver. 2 Asíncrono Testid Habilitación: Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). Esta opción envía a la DIAN así existan rechazos sobre la transacción y alimenta el Tablero (diagrama de barras). En caso de enviar documentos y aparecer en la pagina de la DIAN rechazados aconsejamos cambiar al modo anterior (Ebill ver. 2 Síncrono Habilitación), para validar el motivo del rechazo.  
+•	Ebill ver. 2 Asíncrono Producción:  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  
+•	Ebill ver. 2 Azure:  Corresponde a los documentos electrónicos de un cliente de OASIS ONPREMISE que se encuentre reportando sus facturas a la nube de Azure para hacer el proceso de envió al adquiriente y DIAN, tanto en habilitación como en producción.  
+
+En el detalle se debe parametrizar el campo código externo   
+
+![](ebportal62.png)  
+
+
+
 
 
 
