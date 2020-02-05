@@ -8,7 +8,8 @@ editable: si
 # Versiones OasisCom
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
  
-##### [Versiones OasisCom 4.04.27](https://mailchi.mp/e3da1acee611/versin-4043003)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)28 de enero de 2020
+##### [Versiones OasisCom 4.04.28](https://mailchi.mp/c4d6591a2fab/versin-4048207)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)04 de febrero de 2020
+##### [Versiones OasisCom 4.04.27](https://mailchi.mp/e3da1acee611/versin-4043003) 28 de enero de 2020
 ##### [Versiones OasisCom 4.04.26.02](https://mailchi.mp/f4b0c731d498/versin-3989171)- 21 de enero de 2020
 ##### [Versiones OasisCom 4.04.25](https://mailchi.mp/e3cf0833360e/versin-4043879) - 14 de enero de 2020
 ##### [Versiones OasisCom 4.04.24](https://mailchi.mp/d41f99af7d21/versin-4043875) - 07 de enero de 2020
