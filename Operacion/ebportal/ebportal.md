@@ -352,6 +352,14 @@ https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la
 
 ### [FACTURACIÓN ELECTRONICA FASE II](http://docs.oasiscom.com/Operacion/ebportal/#FACTURACIÓN-ELECTRONICA-FASE-II)  
 
+1.	INTRODUCCIÓN  
+El presente documento tiene como objetivo dar a conocer el proceso de la parametrización en fase II de facturación electrónica en OasisCom.  
+Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o resolución de dudas.  
+
+2.	PARAMETRIZACIÓN   
+Ubicación   
+Se debe ingresar a las ubicaciones geográficas [BUBG], en donde se debe configurar la ubicación geográfica según los códigos del DANE y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
+
 
 
 
