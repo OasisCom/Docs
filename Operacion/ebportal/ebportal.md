@@ -368,6 +368,10 @@ Puede descargar aquí los documentos de *Maestro, Detalle y Status.*
 
 ![](ebportal22.png)  
 
+En la parametrización de los documentos mencionados anteriormente en el maestro el campo EBILL debe estar diligenciado con una de las opciones que se visualiza.
+
+![](ebportal61.png)
+
 
 
 
