@@ -30,6 +30,8 @@ editable: si
 7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
 
+8. [FACTURACIÓN ELECTRONICA FASE II](http://docs.oasiscom.com/Operacion/ebportal/#FACTURACIÓN-ELECTRONICA-FASE-II)  
+
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 
