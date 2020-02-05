@@ -463,6 +463,12 @@ En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de 
 •	Fecha Final: Fecha Final de la resolución  
 •	Estado: Dejar Activo  
 
+![](ebportal79.png)  
+
+**Empresas**
+En la aplicación de Empresa **[SEMP]** parametrizar el TestSetId dado por la Dian para las pruebas de habilitación en el campo TestId.  
+
+![](ebportal80.png)  
 
 
 
