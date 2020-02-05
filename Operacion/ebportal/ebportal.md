@@ -400,6 +400,9 @@ Adicional a esto en el tercero del facturador electrónico en el campo Código A
 
 ![](ebportal65.png)  
 
+El tercero FE debe tener relacionado el código de la ubicación geográfica donde se encuentra:  
+
+![](ebportal67.png)  
 
 
 
