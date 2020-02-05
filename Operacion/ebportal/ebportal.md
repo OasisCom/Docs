@@ -424,9 +424,10 @@ En la aplicación de tipos de contactos **[ABTC]** debe estar creado Tipo contac
 
 ![](ebportal72.png)  
 **Tipos de Impuestos**
-En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impuesto 99, el cual se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades y régimen correspondiente de la empresa creada.
+En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impuesto 99, el cual se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades y régimen correspondiente de la empresa creada.  
 
 ![](ebportal73.png)  
+
 
 
 
