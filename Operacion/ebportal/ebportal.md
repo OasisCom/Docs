@@ -410,9 +410,15 @@ En el básico de acciones **[BACC]** debe estar creada la acción cero 0.
 ![](ebportal69.png)  
 
 **Tipos de Medios**
-En el básico de tipos de medios [ABTM] debe estar creado el Tipo de medio cero 0.  
+En el básico de tipos de medios **[ABTM]** debe estar creado el Tipo de medio cero 0.  
 
 ![](ebportal70.png)  
+
+Contactos
+En la aplicación de contactos **[ACON]** debe estar creado el contacto cero 0.  
+
+![](ebportal71.png)  
+
 
 
 
