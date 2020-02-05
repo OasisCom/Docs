@@ -394,6 +394,14 @@ Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para  
 En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
 Puede descargar **aquí** el tercero de OasisCom   
 
+![](ebportal64.png)  
+
+Adicional a esto en el tercero del facturador electrónico en el campo Código Antiguo deben relacionar la matrícula mercantil de la empresa.  
+
+![](ebportal65.png)  
+
+
+
 
 
 
