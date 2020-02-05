@@ -357,12 +357,12 @@ El presente documento tiene como objetivo dar a conocer el proceso de la paramet
 Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o resolución de dudas.  
 
 2.	PARAMETRIZACIÓN   
-Ubicación   
+**Ubicación**   
 Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
 
 ![](ebportal21.png)  
 
-Documentos  
+**Documentos**  
 Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito).  
 Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
 
@@ -390,9 +390,9 @@ Adicional a esto también se debe parametrizar el campo código externo1.
 ![](ebportal63.png)  
 
 Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para     facturas de venta y/o facturas de exportaciones.  
-Terceros  
+**Terceros**  
 En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
-Puede descargar aquí el tercero de OasisCom   
+Puede descargar **aquí** el tercero de OasisCom   
 
 
 
