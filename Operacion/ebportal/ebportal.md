@@ -428,6 +428,53 @@ En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impu
 
 ![](ebportal73.png)  
 
+**Motivos ** 
+En el básico de motivos **[BMOT]** deben de estar parametrizados los motivos de cada documento en el campo Código externo. Los 5 primeros corresponden a los motivos que se deben asociar a los documentos de las notas crédito y los siguientes 4 corresponden a los motivos que se deben asociar a las notas débito.  
+
+![](ebportal75.png)  
+
+**Condiciones de Pago.**
+En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el campo Código externo.  
+
+![](ebportal76.png)  
+
+**Formas de Pago.**
+En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo.  
+
+![](ebportal77.png)  
+**Unidades de Medida.**
+En el básico de Unidades de Medida **[BMED]** debe de estar parametrizado el campo código externo.  
+
+![](ebportal78.png)  
+
+**Resoluciones**
+En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de las resoluciones según datos de la DIAN para los documentos de facturación electrónica teniendo en cuenta los campos.  
+
+•	Documento: Documento de Factura al que pertenece la resolución (FC2, FC, etc.)  
+•	Ubicación: Código de la Ubicación en Oasis  
+•	Caja: Siempre dejar uno (1).  
+•	ResolutionId: Número de la Resolución expedida en la DIAN  
+•	Prefijo: Prefijo asociado a la resolución, en caso de no tener se deja vacío  
+•	Inicial: Número inicial de resolución  
+•	Final: Número final de resolución  
+•	Pronunciamiento: Clave técnica otorgada por la DIAN en cada resolución  
+•	F. Inicial Resolución: Fecha Inicial de la resolución  
+•	F. Final Resolución: Fecha Final de la resolución  
+•	Fecha Final: Fecha Final de la resolución  
+•	Estado: Dejar Activo  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
