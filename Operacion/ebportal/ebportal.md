@@ -363,14 +363,14 @@ Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe con
 ![](ebportal21.png)  
 
 Documentos  
-Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito). 
-Puede descargar aquí los documentos de *Maestro, Detalle y Status.*
+Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito).  
+Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
 
 ![](ebportal22.png)  
 
-En la parametrización de los documentos mencionados anteriormente en el maestro el campo EBILL debe estar diligenciado con una de las opciones que se visualiza.
+En la parametrización de los documentos mencionados anteriormente en el maestro el campo EBILL debe estar diligenciado con una de las opciones que se visualiza.   
 
-![](ebportal61.png)
+![](ebportal61.png)  
 
 
 
