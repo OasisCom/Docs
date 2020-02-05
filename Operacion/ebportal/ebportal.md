@@ -349,7 +349,7 @@ https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la
 
 **********
 
-### [FACTURACIÓN ELECTRONICA FASE II](http://docs.oasiscom.com/Operacion/ebportal/#FACTURACIÓN-ELECTRONICA-FASE-II)  
+### [Facturación Electronica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electronica-fase-II)
 
 1.	INTRODUCCIÓN  
 El presente documento tiene como objetivo dar a conocer el proceso de la parametrización en fase II de facturación electrónica en OasisCom.  
