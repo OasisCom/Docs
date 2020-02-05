@@ -350,6 +350,8 @@ https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la
 
 **********
 
+### [FACTURACIÓN ELECTRONICA FASE II](http://docs.oasiscom.com/Operacion/ebportal/#FACTURACIÓN-ELECTRONICA-FASE-II)  
+
 
 
 
