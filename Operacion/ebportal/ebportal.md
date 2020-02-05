@@ -404,6 +404,14 @@ El tercero FE debe tener relacionado el código de la ubicación geográfica don
 
 ![](ebportal67.png)  
 
+**Acciones**
+En el básico de acciones **[BACC]** debe estar creada la acción cero 0.  
+
+![](ebportal69.png)  
+
+
+
+
 
 
 
