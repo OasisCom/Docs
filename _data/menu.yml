@@ -1504,10 +1504,10 @@
                 - text: Autorizaciones
                   url: /Operacion/is/salud/eautorizacion/movaut/
                   subitems:
-                - text: Solicitud de Autorizaciones
-                  url: /Operacion/is/salud/eautorizacion/movaut/esoa
-                - text: Autorizaciones
-                  url: /Operacion/is/salud/eautorizacion/movaut/eaut
+                     - text: Solicitud de Autorizaciones
+                       url: /Operacion/is/salud/eautorizacion/movaut/esoa
+                     - text: Autorizaciones
+                       url: /Operacion/is/salud/eautorizacion/movaut/eaut
                 - text: Consultas
                   url: /Operacion/is/salud/eautorizacion/conaut/
                 - text: Alto Costo
