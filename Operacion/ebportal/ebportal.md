@@ -346,7 +346,6 @@ Y la información que esté guardada será la que se muestre en la factura.
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
 
-### [Facturación Electrónica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-II)
 ### [Facturación Electrónica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase--II)  
 
 1.	INTRODUCCIÓN  
