@@ -347,6 +347,7 @@ Para referirse a los detalles técnicos sobre la generación de los archivos xml
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
 
 ### [Facturación Electrónica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-II)
+### [Facturación Electrónica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase--II)  
 
 1.	INTRODUCCIÓN  
 El presente documento tiene como objetivo dar a conocer el proceso de la parametrización en fase II de facturación electrónica en OasisCom.  
