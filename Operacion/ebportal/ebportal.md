@@ -29,7 +29,7 @@ editable: si
 7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)  
 7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
-8. [Facturación Electronica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase--II)  
+8. [Facturación Electrónica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase--II)  
 
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
@@ -346,7 +346,7 @@ Y la información que esté guardada será la que se muestre en la factura.
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
 
-### [Facturación Electronica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electronica-fase-II)
+### [Facturación Electrónica Fase II](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-II)
 
 1.	INTRODUCCIÓN  
 El presente documento tiene como objetivo dar a conocer el proceso de la parametrización en fase II de facturación electrónica en OasisCom.  
