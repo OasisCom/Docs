@@ -353,6 +353,7 @@ El presente documento tiene como objetivo dar a conocer el proceso de la paramet
 Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o resolución de dudas.  
 
 2.	PARAMETRIZACIÓN   
+
 **Ubicación**   
 Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
 
@@ -364,7 +365,7 @@ Puede descargar aquí los documentos de *Maestro, Detalle y Status.*
 
 ![](ebportal22.png)  
 
-En la parametrización de los documentos mencionados anteriormente en el maestro el campo EBILL debe estar diligenciado con una de las opciones que se visualiza.   
+En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.   
 
 ![](ebportal61.png)  
 
@@ -400,36 +401,36 @@ El tercero FE debe tener relacionado el código de la ubicación geográfica don
 
 ![](ebportal67.png)  
 
-**Acciones**
+**Acciones:**  
 En el básico de acciones **[BACC]** debe estar creada la acción cero 0.  
 
 ![](ebportal69.png)  
 
-**Tipos de Medios**
+**Tipos de Medios:**  
 En el básico de tipos de medios **[ABTM]** debe estar creado el Tipo de medio cero 0.  
 
 ![](ebportal70.png)  
 
-**Contactos**
+**Contactos:**  
 En la aplicación de contactos **[ACON]** debe estar creado el contacto cero 0.  
 
 ![](ebportal71.png)  
 
-**Tipos de Contactos.**
+**Tipos de Contactos:**  
 En la aplicación de tipos de contactos **[ABTC]** debe estar creado Tipo contacto cero 0.   
 
 ![](ebportal72.png)  
-**Tipos de Impuestos**
+**Tipos de Impuestos:**  
 En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impuesto 99, el cual se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades y régimen correspondiente de la empresa creada.  
 
 ![](ebportal73.png)  
 
-**Motivos ** 
+**Motivos:**  
 En el básico de motivos **[BMOT]** deben de estar parametrizados los motivos de cada documento en el campo Código externo. Los 5 primeros corresponden a los motivos que se deben asociar a los documentos de las notas crédito y los siguientes 4 corresponden a los motivos que se deben asociar a las notas débito.  
 
 ![](ebportal75.png)  
 
-**Condiciones de Pago.**
+**Condiciones de Pago:**  
 En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el campo Código externo.  
 
 ![](ebportal76.png)  
@@ -438,12 +439,12 @@ En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el ca
 En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo.  
 
 ![](ebportal77.png)  
-**Unidades de Medida.**
+**Unidades de Medida:**  
 En el básico de Unidades de Medida **[BMED]** debe de estar parametrizado el campo código externo.  
 
 ![](ebportal78.png)  
 
-**Resoluciones**
+**Resoluciones:**  
 En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de las resoluciones según datos de la DIAN para los documentos de facturación electrónica teniendo en cuenta los campos.  
 
 •	Documento: Documento de Factura al que pertenece la resolución (FC2, FC, etc.)  
