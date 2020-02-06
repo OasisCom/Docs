@@ -435,7 +435,7 @@ En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el ca
 
 ![](ebportal76.png)  
 
-**Formas de Pago.**
+**Formas de Pago:**  
 En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo.  
 
 ![](ebportal77.png)  
