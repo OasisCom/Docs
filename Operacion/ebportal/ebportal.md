@@ -11,7 +11,7 @@ editable: si
 ### Factura Electrónica
 
 >###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)  
->###### [FACTURA ELECTRONICA FASE DOS (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura electronica-fase-dos.pdf)  
+>###### [FACTURA ELECTRONICA FASE DOS (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-fase-dos.pdf)  
 
 ---
 
