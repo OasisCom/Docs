@@ -10,7 +10,8 @@ editable: si
 ---
 ### Factura Electrónica
 
->###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf) 
+>###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)  
+>###### [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)  
 
 ---
 
@@ -29,7 +30,8 @@ editable: si
 7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)  
 7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
-
+8. [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)  
+     
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 
@@ -343,10 +345,169 @@ Y la información que esté guardada será la que se muestre en la factura.
 **NOTA:**  
 
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
-https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.  
+https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
+
+## [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)
+
+1.	INTRODUCCIÓN  
+El presente documento tiene como objetivo dar a conocer el proceso de la parametrización en fase II de facturación electrónica en OasisCom.  
+Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o resolución de dudas.  
+
+2.	PARAMETRIZACIÓN   
+
+**Ubicación**   
+Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
+
+![](ebportal21.png)  
+
+**Documentos**  
+Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito).  
+Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
+
+![](ebportal22.png)  
+
+En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.   
+
+![](ebportal61.png)  
+
+A continuación, se describen la funcionalidad del campo Ebill:  
+•	**No Ebill:** Hace referencia a los documentos que no corresponden a documentos electrónicos.  
+•	**Ebill ver. 1 Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I.  
+•	**Ebill ver. 2 Síncrono Producción:** Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase II.  
+•	**Ebill ver. 2 Síncrono Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). De este modo nos permite visualizar los rechazos de la transacción en caso de existir, pero no alimenta el tablero (diagrama de barras) en la página de habilitación de la DIAN.  
+•	**Ebill ver. 2 Asíncrono Testid Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). Esta opción envía a la DIAN así existan rechazos sobre la transacción y alimenta el Tablero (diagrama de barras). En caso de enviar documentos y aparecer en la pagina de la DIAN rechazados aconsejamos cambiar al modo anterior (Ebill ver. 2 Síncrono Habilitación), para validar el motivo del rechazo.  
+•	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  
+•	**Ebill ver. 2 Azure:**  Corresponde a los documentos electrónicos de un cliente de OASIS ONPREMISE que se encuentre reportando sus facturas a la nube de Azure para hacer el proceso de envió al adquiriente y DIAN, tanto en habilitación como en producción.  
+
+En el detalle se debe parametrizar el campo código externo   
+
+![](ebportal62.png)  
+
+Adicional a esto también se debe parametrizar el campo código externo1.  
+
+![](ebportal63.png)  
+
+Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para     facturas de venta y/o facturas de exportaciones.  
+**Terceros:**  
+En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
+Puede descargar **aquí** el tercero de OasisCom   
+
+![](ebportal64.png)  
+
+Adicional a esto en el tercero del facturador electrónico en el campo Código Antiguo deben relacionar la matrícula mercantil de la empresa.  
+
+![](ebportal65.png)  
+
+El tercero FE debe tener relacionado el código de la ubicación geográfica donde se encuentra:  
+
+![](ebportal67.png)  
+
+**Acciones:**  
+En el básico de acciones **[BACC]** debe estar creada la acción cero 0.  
+
+![](ebportal69.png)  
+
+**Tipos de Medios:**  
+En el básico de tipos de medios **[ABTM]** debe estar creado el Tipo de medio cero 0.  
+
+![](ebportal70.png)  
+
+**Contactos:**  
+En la aplicación de contactos **[ACON]** debe estar creado el contacto cero 0.  
+
+![](ebportal71.png)  
+
+**Tipos de Contactos:**  
+En la aplicación de tipos de contactos **[ABTC]** debe estar creado Tipo contacto cero 0.   
+
+![](ebportal72.png)  
+**Tipos de Impuestos:**  
+En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impuesto 99, el cual se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades y régimen correspondiente de la empresa creada.  
+
+![](ebportal73.png)  
+
+**Motivos:**  
+En el básico de motivos **[BMOT]** deben de estar parametrizados los motivos de cada documento en el campo Código externo. Los 5 primeros corresponden a los motivos que se deben asociar a los documentos de las notas crédito y los siguientes 4 corresponden a los motivos que se deben asociar a las notas débito.  
+
+![](ebportal75.png)  
+
+**Condiciones de Pago:**  
+En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el campo Código externo.  
+
+![](ebportal76.png)  
+
+**Formas de Pago:**  
+En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo.  
+
+![](ebportal77.png)  
+**Unidades de Medida:**  
+En el básico de Unidades de Medida **[BMED]** debe de estar parametrizado el campo código externo.  
+
+![](ebportal78.png)  
+
+**Resoluciones:**  
+En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de las resoluciones según datos de la DIAN para los documentos de facturación electrónica teniendo en cuenta los campos.  
+
+•	Documento: Documento de Factura al que pertenece la resolución (FC2, FC, etc.)  
+•	Ubicación: Código de la Ubicación en Oasis  
+•	Caja: Siempre dejar uno (1).  
+•	ResolutionId: Número de la Resolución expedida en la DIAN  
+•	Prefijo: Prefijo asociado a la resolución, en caso de no tener se deja vacío  
+•	Inicial: Número inicial de resolución  
+•	Final: Número final de resolución  
+•	Pronunciamiento: Clave técnica otorgada por la DIAN en cada resolución  
+•	F. Inicial Resolución: Fecha Inicial de la resolución  
+•	F. Final Resolución: Fecha Final de la resolución  
+•	Fecha Final: Fecha Final de la resolución  
+•	Estado: Dejar Activo  
+
+![](ebportal79.png)  
+
+**Empresas:**  
+En la aplicación de Empresa **[SEMP]** parametrizar el TestSetId dado por la Dian para las pruebas de habilitación en el campo TestId.  
+
+![](ebportal80.png)  
+
+Se debe relacionar el correo electrónico que se usará como máscara para el envío de correos electrónicos a los adquirientes en el campo EMailOutput.  
+
+![](ebportal81.png)  
+
+Se debe relacionar la información de la empresa como dirección, teléfonos, ciudad, etc. para la información que se visualiza en el formato (Representación Gráfica de las transacciones).  
+
+![](ebportal82.png)  
 
 
-**********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
