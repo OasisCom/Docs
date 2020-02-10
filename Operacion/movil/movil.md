@@ -166,6 +166,34 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 ![](movil35.png)  
 
+## [Recoleccion Inventarios OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-OasisCom-móvil)  
+
+
+##Movil con camara.##  
+
+Esta funcionalidad esta diseñada inicialmente para el MITRA e IMOV (inventarios).  
+Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**
+
+![](mitra3.png)  
+
+
+Posterior, realiza el ingreso a la opcion **MITRA:**
+
+![](mitra4.png) 
+
+Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.  
+
+![](mitra5.png) 
+
+Realiza el scanneo de la posicion:  
+
+![](mitra7.png) 
+
+
+
+
+
+
 
 
 

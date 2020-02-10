@@ -9,7 +9,7 @@ editable: si
 
 ## Solicitudes - ESOL  
 
-Adecuación sobre el proceso MIPRES para el consumo de junta de profesionales, se crea nuevo boton con nuevo tipo de operación para este proceso, en la opcion **ESOL.**  
+* Adecuación sobre el proceso MIPRES para el consumo de junta de profesionales, se crea nuevo boton con nuevo tipo de operación para este proceso, en la opcion **ESOL.**  
 
 El servicio **MIPRES** de junta de profesionales por parte de la IPS, es consultado por la EPS para realizar el proceso de direccionamiento o no direccionamiento.	
 Esta junta es en algunos casos necesaria realizarla, ya que según las especificaciones del medico se procede a realizar una junta de especialistas por parte de la IPS para el proceso con el paciente.	 
