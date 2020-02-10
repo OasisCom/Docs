@@ -19,6 +19,11 @@ Se manejara un **STATUS** en pendiente de junta sobre los que se deban realizar 
 
 ![](esol1.png)  
 
+Al darle al boton:  
+Se muestra el registro de la prescripcion.  
+Realizamos la confirmación dando en el boton aceptar:  
+
+![](mipres4.png)  
 
 
 
