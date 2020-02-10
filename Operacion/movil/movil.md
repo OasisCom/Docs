@@ -177,17 +177,23 @@ Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**
 ![](mitra3.png)  
 
 
-Posterior, realiza el ingreso a la opcion **MITRA:**
+Posterior, realiza el ingreso a la opcion **MITRA:**  
 
-![](mitra4.png) 
+![](mitra4.png)  
 
-Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.  
+Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
 
-![](mitra5.png) 
+![](mitra5.png)  
 
-Realiza el scanneo de la posicion:  
+Realiza el scanneo de la posicion:   
 
-![](mitra7.png) 
+![](mitra7.png)  
+Para el siguiente ejemplo se realiza el scanneo para la posicion cero (0).  
+
+![](mitra8.png)  
+
+
+
 
 
 
