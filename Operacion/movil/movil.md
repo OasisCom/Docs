@@ -191,6 +191,15 @@ Realiza el scanneo de la posicion:
 Para el siguiente ejemplo se realiza el scanneo para la posicion cero (0).  
 
 ![](mitra8.png)  
+En la pestaña producto, realiza el scanneo:  
+
+![](mitra9.png)  
+
+![](mitra10.png)  
+
+
+
+
 
 
 
