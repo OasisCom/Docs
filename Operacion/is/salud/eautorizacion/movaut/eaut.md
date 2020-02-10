@@ -61,7 +61,7 @@ Este cambio debido a que una autorización se puede extender a mas de un servici
 
 * Al darle clic sobre el botón de direccionamiento se abre una ventana modal; se da opcion a que el usuario pueda modificar algunos datos sobre el formulario.  
 
-![](mipres3.png)  
+![](MIPRES3.png)  
 
 Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	 
 
