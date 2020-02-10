@@ -57,9 +57,11 @@ Se muestra en el programa EAUT los botones ahora sobre el detalle.
 Este cambio debido a que una autorización se puede extender a mas de un servicio y cada uno a proveedores diferentes para realizar la atencion al paciente.  
 ![](mipres2.png)  
 
-* Al darle clic sobre el botón de direccionamiento se abre una ventana modal, la cual solicita los datos a ingresar.  
 
-![](eaut8.png)  
+
+* Al darle clic sobre el botón de direccionamiento se abre una ventana modal; se da opcion a que el usuario pueda modificar algunos datos sobre el formulario.  
+
+![](mipres3.png)  
 
 Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	 
 
