@@ -15,9 +15,9 @@ Esta decision reportada por la IPS es necesaria consultarla, ya que como se expl
 Para realizar el proceso en oasis:	
 Ingresamos al **ESOL**  (solicitud de autorización).  
 Se personaliza el proceso a realizar por este boton la cual sera la consulta sobre el servicio MIPRES de junta de profesionales	 
-Se manejara un STATUS en pendiente de junta sobre los que se deban realizar este proceso.  
+Se manejara un **STATUS** en pendiente de junta sobre los que se deban realizar este proceso.  
 
-
+![](esol1.png)  
 
 
 
