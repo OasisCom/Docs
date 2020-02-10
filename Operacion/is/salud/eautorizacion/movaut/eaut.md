@@ -63,7 +63,7 @@ Este cambio debido a que una autorización se puede extender a mas de un servici
 
 ![](MIPRES3.png)  
 
-Se solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	 
+* Posterior se e solicita los datos el “Nro. de entrega”, y “sub entrega” realizado al paciente.	 
 
 **Token:** Se solicita el token ya que la EPS adquiere un token habilitado por 24 horas, este token generado desde un sitio web externo del Min. de Salud.  
 
