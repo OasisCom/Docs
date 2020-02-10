@@ -207,6 +207,29 @@ Finalizando el proceso de scanneo con camara.
 
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
 
+![](mitra12.png)  
+
+Posterior, realiza el ingreso a la opcion **MITRA:**  
+![](mitra13.png)  
+
+Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
+
+![](mitra14.png)  
+
+Realiza el scanneo de la posicion:   
+![](mitra15.png)  
+
+En la pestaña producto, realiza el scanneo:  
+
+![](mitra16.png)  
+
+Finalizando el proceso de piking.  
+
+![](mitra17.png)  
+
+
+
+
 
 
 
