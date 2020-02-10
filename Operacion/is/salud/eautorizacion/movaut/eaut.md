@@ -52,7 +52,10 @@ Involucran funcionalidades como:
 * Los procesos anteriores se realizan por el programa **EAUT ( AUTORIZACIONES).**  
 
 A este nivel se puede realizar el proceso de direccionamiento ya que es donde se tiene conocimiento del número de entregas en cuanto a medicamentos para un paciente.  
-![](eaut7.png)  
+
+Se muestra en el programa EAUT los botones ahora sobre el detalle.  
+Este cambio debido a que una autorización se puede extender a mas de un servicio y cada uno a proveedores diferentes para realizar la atencion al paciente.  
+![](mipres2.png)  
 
 * Al darle clic sobre el botón de direccionamiento se abre una ventana modal, la cual solicita los datos a ingresar.  
 
