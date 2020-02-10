@@ -194,8 +194,17 @@ Para el siguiente ejemplo se realiza el scanneo para la posicion cero (0).
 En la pestaña producto, realiza el scanneo:  
 
 ![](mitra9.png)  
+Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
+https://barcode.tec-it.com/es/?data=7702484075873  
 
 ![](mitra10.png)  
+
+![](mitra11.png)  
+Finalizando el proceso de scanneo con camara.  
+
+
+
+
 
 
 
