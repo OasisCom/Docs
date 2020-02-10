@@ -203,6 +203,15 @@ https://barcode.tec-it.com/es/?data=7702484075873
 Finalizando el proceso de scanneo con camara.  
 
 
+##Movil con Lector.##   
+
+Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
+
+
+
+
+
+
 
 
 
