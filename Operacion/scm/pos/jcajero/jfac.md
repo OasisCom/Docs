@@ -336,4 +336,13 @@ Finalmente, se procesa la factura y se verifican los saldos de puntos acumulados
 
 Verificamos el nuevo saldo de puntos acumulados en [**ASSP - Saldos de Clientes**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp#saldo-al-redimir-puntos-acumulados).  
 
-Aquí finaliza el proceso de _fidelización de clientes_.  
+* Se incluye la funcionalidad de contabilizacion de puntos en la fidelizacion de clientes, para esto se debe tener presente la siguiente configuracion:   
+1. Es necesario crear el código de cuenta VPU e incluirlo en el **BPLA** para la contabilización en otorgación de puntos.  
+2. Marcar las cuentas contables en el **BCUE** en el campo QuantityType la opción valor contabilidad.  
+Estas ya se encuentran marcadas por BD, se encontrara disponible el ListBox.  
+
+Aquí finaliza el proceso de _fidelización de clientes_.   
+
+
+
+
