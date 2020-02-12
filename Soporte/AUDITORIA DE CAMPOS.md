@@ -26,7 +26,7 @@ La mayoría de las tablas y campos de la base de datos se encuentran ya creados 
 
 -3. **SPCA** (Crea Auditoria): Una vez se parametricen los campos que se desean auditar se deberá ejecutar este proceso el cual no pide parámetros de entrada, sólo se deberá ejecutar:  
 
-![](auditoria4.png)  
+![](SPCA.png)  
 
 Tener en cuenta que cada vez que se parametrice un nuevo campo en el **SACO** se deberá volver a ejecutar este proceso. Además, se debe validar realmente los campos que son totalmente necesarios a auditar, dado a que este proceso lo que hace es crear un Trigger sobre las tablas que se encuentren parametrizadas.   
 
