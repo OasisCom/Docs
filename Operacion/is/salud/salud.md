@@ -16,4 +16,14 @@ Por otra parte, gestión de todo el proceso de aseguramiento de los afiliados a 
 
 En cuanto al tema de autorizaciones, maneja el registro de los servicios autorizados con la gestión y control de los procedimientos contratados para su posterior validación en la radicación de las facturas.  
 
-Todos estos procesos se integran con consultorios médicos, hospitales, centros de salud IPS, todo en la nube y con acceso desde dispositivo móvil.
+Todos estos procesos se integran con consultorios médicos, hospitales, centros de salud IPS, todo en la nube y con acceso desde dispositivo móvil.  
+
+Los submódulos que componen el módulo de salud, son los siguientes:
+
+* Datos Básicos
+* Afiliaciones
+* Contratos
+* Autorizaciones
+* Facturas
+* Risk Management
+* User Attention
