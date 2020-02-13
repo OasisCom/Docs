@@ -166,7 +166,7 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 ![](movil35.png)  
 
-## [Recoleccion Inventarios OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
+## [recoleccion inventarios oasiscom movil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
 
 
 ## Movil con camara.  
