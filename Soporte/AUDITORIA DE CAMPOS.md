@@ -20,7 +20,7 @@ Para saber tanto el nombre de la tabla como del campo en la opción correspondie
 
 -2. **STAB** (**Tablas):** Se debe validar que tanto la tabla como los campos que se parametricen en el **SACO** se encuentren previamente creados en el STAB. El campo debe tener el mismo tipo de dato que se tiene configurado en la base de datos. Para el ejemplo se observa que el campo Formula se encuentra creado dentro de la tabla Variables del maestro del **STAB**:  
 
-![](stab1.png)  
+![](stab11.png)  
 
 La mayoría de las tablas y campos de la base de datos se encuentran ya creados en el **STAB**, por lo que si la tabla o el campo no se encuentran parametrizados en esta aplicación y se tienen dudas sobre como parametrizarlo se deberá consultar con nuestro personal de servicio Posventa.  
 
