@@ -169,7 +169,7 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 ## [Recoleccion Inventarios OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
 
 
-##Movil con camara.  
+## Movil con camara.  
 
 Esta funcionalidad esta diseñada inicialmente para el MITRA e IMOV (inventarios).  
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**
@@ -203,7 +203,7 @@ https://barcode.tec-it.com/es/?data=7702484075873
 Finalizando el proceso de scanneo con camara.  
 
 
-##Movil con Lector.##   
+## Movil con Lector.   
 
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
 
