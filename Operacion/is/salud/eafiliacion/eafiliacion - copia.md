@@ -67,7 +67,20 @@ Procesos: Incluye la siguiente aplicación:
 Reportes: Incluye la siguiente aplicación:  
 **ERSP** - Servicios por Prestador  
 
-* 
+* Autorizaciones: Consta de las siguientes divisiones:  
+Autorizaciones: Incluye las siguientes aplicaciones:  
+**ESOA** - Aplicación de Autorizaciones  
+**EAUT** - Autorizaciones  
+Consultas: Consta de las siguientes aplicaciones:  
+**EACA**: Consulta de Autorizaciones  
+**EACC**: Copagos Acumulados - Afiliado  
+**EFRC** - Facturas Recobro  
+Alto Costo: Incluye las siguientes aplicaciones:  
+**ESIN** - Siniestros  
+**ERAL** - Estadísticas de Alto Costo  
+**ERCH** - Estadísticas por Cohorte  
+Comité Técnico Científico
+
 
 
 
