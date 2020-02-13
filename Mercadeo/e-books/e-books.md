@@ -12,10 +12,12 @@ Encuentra aquí todos nuestros E-Books descargables:
 ------------------------------------------------------
 
 ### Solución ERP 
+>###### [¿Existen sectores donde no aplique la Transformacion Digital?](http://docs.oasiscom.com/Mercadeo/e-books/existen-sectores-donde-no-aplique-la-tranformacion-digital.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 >###### [Guía para Nubetizar su empresa](http://docs.oasiscom.com/Mercadeo/fichas/E-book_Guia_para_nubetizar_su_empresa.pdf)
 >###### [E-Book: 9 razones para escoger un ERP](http://docs.oasiscom.com/Mercadeo/fichas/E-BOOK-9-razones-para-escoger-un-erp.pdf)
 >###### [Transformación digital en las empresas(descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/Brochure_Transformacion_Digital_06062017_01.pdf)
 >###### [Las Finanzas Digitales (descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/Las_finanzas_digitales.pdf)
+
 
 ---
 ### Software Contable
@@ -35,11 +37,11 @@ Encuentra aquí todos nuestros E-Books descargables:
 ### Sistema para Inventario- Logística
 
 >###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)
->###### [EbooK: Tendencias en Logística 4.0 - 2020](http://docs.oasiscom.com/Mercadeo/e-books/Ebook-tendencias-logistica-2020.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [EbooK: Tendencias en Logística 4.0 - 2020](http://docs.oasiscom.com/Mercadeo/e-books/Ebook-tendencias-logistica-2020.pdf)
 ---
 ### OasisCom Puntos de Venta
 >###### [Ebook: Preguntas Frecuentes Punto de Venta OasisCom](http://docs.oasiscom.com/Mercadeo/e-books/e-book-preguntas-frecuentes-punto-de-venta-oasiscom.pdf)  
->###### [Ebook: Tendencias en Tecnología POS para el 2020](http://docs.oasiscom.com/Mercadeo/e-books/tendencias-pos-ebook.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [Ebook: Tendencias en Tecnología POS para el 2020](http://docs.oasiscom.com/Mercadeo/e-books/tendencias-pos-ebook.pdf)
 
 ---
 ### Factura Electrónica

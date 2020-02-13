@@ -166,6 +166,90 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 ![](movil35.png)  
 
+## [Recoleccion Inventarios OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
+
+
+## Movil con camara.  
+
+Esta funcionalidad esta diseñada inicialmente para el MITRA e IMOV (inventarios).  
+Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**
+
+![](mitra3.png)  
+
+
+Posterior, realiza el ingreso a la opcion **MITRA:**  
+
+![](mitra4.png)  
+
+Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
+
+![](mitra5.png)  
+
+Realiza el scanneo de la posicion:   
+
+![](mitra7.png)  
+Para el siguiente ejemplo se realiza el scanneo para la posicion cero (0).  
+
+![](mitra8.png)  
+En la pestaña producto, realiza el scanneo:  
+
+![](mitra9.png)  
+Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
+https://barcode.tec-it.com/es/?data=7702484075873  
+
+![](mitra10.png)  
+
+![](mitra11.png)  
+Finalizando el proceso de scanneo con camara.  
+
+
+## Movil con Lector.   
+
+Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
+
+![](mitra12.png)  
+
+Posterior, realiza el ingreso a la opcion **MITRA:**  
+![](mitra13.png)  
+
+Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
+
+![](mitra14.png)  
+
+Realiza el scanneo de la posicion:   
+![](mitra15.png)  
+
+En la pestaña producto, realiza el scanneo:  
+
+![](mitra16.png)  
+
+Finalizando el proceso de piking.  
+
+![](mitra17.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
