@@ -12,7 +12,7 @@ Para auditar determinados campos de las aplicaciones de OasisCom se debe realiza
 -1. **SACO** **(Column Auditing):** Aquí se deberá parametrizar el nombre de la tabla y el campo a auditar (Columna).  
 
 
-![](saco1.png)  
+![](saco11.png)  
 Para saber tanto el nombre de la tabla como del campo en la opción correspondiente se podrá utilizar el comando Shift + F11 para identificarlo el cual mostrará un cuadro de dialogo mostrando esta información:  
 
 ![](saco2.png)  
