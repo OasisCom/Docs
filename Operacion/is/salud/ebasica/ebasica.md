@@ -11,13 +11,13 @@ En el Submódulo Datos Básicos se parametriza la información general que sirve
 
 El Submódulo Datos Básicos, está compuesto por las siguientes aplicaciones:    
 
-**EBTA** - Tarifas  
-**ECRC** - Características  
-**EBDI** - Diagnóstico  
-**ECLA** - Clasificaciones  
-**EPRO** - Productos  
-**EBPO** - Pólizas  
-**EBPR** - Programas Especiales  
-**EBCP** - Copagos  
-**EPCU** - Producto Cuenta  
-**EIND** - Indicadores  
+* **EBTA** - Tarifas  
+* **ECRC** - Características  
+* **EBDI** - Diagnóstico  
+* **ECLA** - Clasificaciones  
+* **EPRO** - Productos  
+* **EBPO** - Pólizas  
+* **EBPR** - Programas Especiales  
+* **EBCP** - Copagos  
+* **EPCU** - Producto Cuenta  
+* **EIND** - Indicadores  
