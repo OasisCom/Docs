@@ -15,7 +15,7 @@ Para auditar determinados campos de las aplicaciones de OasisCom se debe realiza
 ![](saco11.png)  
 Para saber tanto el nombre de la tabla como del campo en la opción correspondiente se podrá utilizar el comando Shift + F11 para identificarlo el cual mostrará un cuadro de dialogo mostrando esta información:  
 
-![](saco2.png)  
+![](wvar.png)  
 
 
 -2. **STAB** (**Tablas):** Se debe validar que tanto la tabla como los campos que se parametricen en el **SACO** se encuentren previamente creados en el STAB. El campo debe tener el mismo tipo de dato que se tiene configurado en la base de datos. Para el ejemplo se observa que el campo Formula se encuentra creado dentro de la tabla Variables del maestro del **STAB**:  
