@@ -31,7 +31,7 @@ La mayoría de las tablas y campos de la base de datos se encuentran ya creados 
 Tener en cuenta que cada vez que se parametrice un nuevo campo en el **SACO** se deberá volver a ejecutar este proceso. Además, se debe validar realmente los campos que son totalmente necesarios a auditar, dado a que este proceso lo que hace es crear un Trigger sobre las tablas que se encuentren parametrizadas.   
 
 
--4. **SAUC** (**Auditoria Campo):** Aquí se puede ver el resultado de la auditoria de campos. En el campo Tipo se puede ver si la operación fue de Inserción (I) o Actualización (U), el campo FieldKey muestra los campos que son llave Primaria de la tabla, el campo DataKey muestra los datos que son llave primaria, el campo ColumnId muestra el nombre del campo que fue auditado, el campo ValueAnterior muestra el dato anterior que tenía el campo antes de ser actualizado, el campo ValueNuevo muestra el dato nuevo por el que el campo fue actualizado y se muestra que usuario con el Id y el nombre fue quien modificó el campo:  
+-4. **SAUC** (**Auditoria Campos):** Aquí se puede ver el resultado de la auditoria de campos. En el campo Tipo se puede ver si la operación fue de Inserción (I) o Actualización (U), el campo FieldKey muestra los campos que son llave Primaria de la tabla, el campo DataKey muestra los datos que son llave primaria, el campo ColumnId muestra el nombre del campo que fue auditado, el campo ValueAnterior muestra el dato anterior que tenía el campo antes de ser actualizado, el campo ValueNuevo muestra el dato nuevo por el que el campo fue actualizado y se muestra que usuario con el Id y el nombre fue quien modificó el campo:  
 
 ![](SAUC1.png)  
 
