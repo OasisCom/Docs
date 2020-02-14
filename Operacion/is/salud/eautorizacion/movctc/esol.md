@@ -35,7 +35,7 @@ Se realizara a nivel interno los siguientes proceso.
 
 Una vez coonfirmado el proceso se realizara la debida actualización sobre la solicitud  cambiando el **STATUS** según el resultado de la junta.   
 
-![](mipres5.png)  
+![](esol33.png)  
 
 Se genera la consulta de manera correcta y se actualiza la información sobre el programa, por si se ve algun cambio en el **status**.  
 
