@@ -19,7 +19,7 @@ Ingresamos al **ESOL**  (solicitud de autorización).
 Se personaliza el proceso a realizar por este boton la cual sera la consulta sobre el servicio MIPRES de junta de profesionales	 
 Se manejara un **STATUS** en pendiente de junta sobre los que se deban realizar este proceso.  
 
-![](esol1.png)  
+![](esol11.png)  
 
 Al darle al boton:  
 Se muestra el registro de la prescripcion.  
