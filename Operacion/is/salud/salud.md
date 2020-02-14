@@ -24,6 +24,7 @@ Los submódulos que componen el módulo de salud, son los siguientes:
 * Afiliaciones
 * Contratos
 * Autorizaciones
-* Facturas
-* Control de Riesgo
+* Facturas  
+* Alto Costo  
+* Manejo de Riesgos
 * Atención al Usuario
