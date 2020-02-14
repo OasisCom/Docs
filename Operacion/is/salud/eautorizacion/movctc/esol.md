@@ -25,7 +25,7 @@ Al darle al boton:
 Se muestra el registro de la prescripcion.  
 Realizamos la confirmación dando en el boton aceptar:  
 
-![](mipres4.png)  
+![](esol22.png)  
 
 Se realizara a nivel interno los siguientes proceso.  
 **Pre-Validación:** Este proceso realizara la validación necesaria sobre los datos antes de que se genere la consulta del servicio.  
