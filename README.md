@@ -11,3 +11,4 @@ Al ser una documentación genérica, debemos garantizar que las guías u hechos 
 
 Igualmente al ser una documentación colaborativa, debemos velar todos los colaboradores para que tenga la información lo más exacta y precisa de tal manera que transmita el conocimiento de la forma más efectiva posible.
 
+ALGO ALGO PRUEBA
