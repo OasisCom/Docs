@@ -79,7 +79,10 @@ Alto Costo: Incluye las siguientes aplicaciones:
 **ESIN** - Siniestros  
 **ERAL** - Estadísticas de Alto Costo  
 **ERCH** - Estadísticas por Cohorte  
-Comité Técnico Científico
+Comité Técnico Científico: Incluye las siguientes aplicaciones:  
+**ESOL** - Solicitudes  
+**EACT** - Actas Comité  
+
 
 
 
