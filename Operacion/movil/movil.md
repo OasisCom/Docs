@@ -504,8 +504,8 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
-## [Recoleccion Inventarios movil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
-
+## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
+## [Recoleccion Inventarios Oasiscom Movil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
 
 
 
