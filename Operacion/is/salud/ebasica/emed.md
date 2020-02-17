@@ -11,6 +11,12 @@ Programa de salud, implementado para las medidas y controles,  ejemplo los numer
 
 ![](emed1.png)  
 
+* Se crea nueva pestaña para la opción Medidas [EMED] en le módulo de salud, denominada **Soportes** para visualizar registros nominales que deben soportar algunos indicadores y cuya carga se realiza desde la interface.  
+
+
+
+![](emed2.png)  
+
 *****
 
 
