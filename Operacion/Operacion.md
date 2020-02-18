@@ -5,7 +5,7 @@ permalink: /Operacion/
 editable: si
 ---
 
-# MANUALES.
+# MANUALES
 
 En esta sección encontrarán los manuales de usuario para cada una de las aplicaciones que tiene el sistema OasisCom.  
 
