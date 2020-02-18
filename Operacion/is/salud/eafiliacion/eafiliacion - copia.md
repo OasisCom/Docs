@@ -11,26 +11,24 @@ En este Submódulo, se realizan las operaciones relacionadas con la afiliación 
 
 Este Submódulo está compuesto por:  
 
-* Consultas:  Consta de las siguientes aplicaciones:    
- 
-
-* Aportantes: Consta de las siguientes aplicaciones:  
- 
-
-* Afiliaciones: Consta de las siguientes aplicaciones:    
-
-* Procesos: Consta de las siguientes aplicaciones:    
-
-* Reportes: Consta de las siguientes aplicaciones:  
-
-
+* Consultas        
+* Aportantes    
+* Afiliaciones      
+* Procesos      
+* Reportes    
 * Contratos: Consta de las siguientes divisones:  
-Prestadores: Incluye las siguientes aplicaciones:  
+Prestadores 
+Movimientos  
+Procesos  
+Reportes
+* Autorizaciones: Consta de las siguientes divisiones: Autorizaciones, consultas, alto costo, cómite técnico científico, tutelas, recuperaciones CTC - tutela, urgencias, referencia y contrareferencia, procesos, reportes.      
+* Facturas: Consta de las siguientes divisiones: consultas, facturas, auditoría médica, procesos, reportes.    
+* Manejo de Riesgo: Consta de las siguientes divisiones: consultas, promoción y p., calidad, suficiencia, nota técnica, reportes del grupo de riesgo, procesos, reportes.  
+* Atención al usuario: Consta de la siguientes divisiones: encuestas, peticiones, quejas y reclamos, reportes.  
 
-* Autorizaciones: Consta de las siguientes divisiones:  
-Autorizaciones: Incluye las siguientes aplicaciones:  
 
-Comité Técnico Científico: Incluye las siguientes aplicaciones:  
+
+  
 
 
 
