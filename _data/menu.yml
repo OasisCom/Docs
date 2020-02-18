@@ -2,7 +2,7 @@
 # Important: all URLs must have a trailing slash!
 - text: Home
   url: /
-- text: Operación
+- text: Manuales
   url: /Operacion/
   subitems:
     - text: Financiera FIN
