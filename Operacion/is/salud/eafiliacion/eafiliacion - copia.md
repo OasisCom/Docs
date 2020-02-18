@@ -16,11 +16,7 @@ Este Submódulo está compuesto por:
 * Afiliaciones      
 * Procesos      
 * Reportes    
-* Contratos: Consta de las siguientes divisones:  
-Prestadores 
-Movimientos  
-Procesos  
-Reportes
+* Contratos: Consta de las siguientes divisiones: prestadores, movimientos, procesos, reportes
 * Autorizaciones: Consta de las siguientes divisiones: Autorizaciones, consultas, alto costo, cómite técnico científico, tutelas, recuperaciones CTC - tutela, urgencias, referencia y contrareferencia, procesos, reportes.      
 * Facturas: Consta de las siguientes divisiones: consultas, facturas, auditoría médica, procesos, reportes.    
 * Manejo de Riesgo: Consta de las siguientes divisiones: consultas, promoción y p., calidad, suficiencia, nota técnica, reportes del grupo de riesgo, procesos, reportes.  
