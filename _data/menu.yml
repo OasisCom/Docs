@@ -2,7 +2,7 @@
 # Important: all URLs must have a trailing slash!
 - text: Home
   url: /
-- text: Operación
+- text: Manuales
   url: /Operacion/
   subitems:
     - text: Financiera FIN
@@ -1474,6 +1474,27 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/is/salud/ebasica/
+              subitems:
+                - text: Tarifas
+                  url: /Operacion/is/salud/ebasica/ebta
+                - text: Características
+                  url: /Operacion/is/salud/ebasica/ecrc
+                - text: Diagnóstico
+                  url: /Operacion/is/salud/ebasica/ebdi
+                - text: Clasificaciones
+                  url: /Operacion/is/salud/ebasica/ecla
+                - text: Productos
+                  url: /Operacion/is/salud/ebasica/epro
+                - text: Pólizas
+                  url: /Operacion/is/salud/ebasica/ebpo
+                - text: Programas Especiales
+                  url: /Operacion/is/salud/ebasica/ebpr
+                - text: Copagos
+                  url: /Operacion/is/salud/ebasica/ebcp
+                - text: Producto Cuenta
+                  url: /Operacion/is/salud/ebasica/epcu
+                - text: Indicadores
+                  url: /Operacion/is/salud/ebasica/eind 
             - text: Afiliaciones
               url: /Operacion/is/salud/eafiliacion/
               subitems:

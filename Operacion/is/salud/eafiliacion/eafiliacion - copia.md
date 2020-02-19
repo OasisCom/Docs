@@ -11,26 +11,16 @@ En este Submódulo, se realizan las operaciones relacionadas con la afiliación 
 
 Este Submódulo está compuesto por:  
 
-* Consultas:  Consta de las siguientes aplicaciones:    
- 
-
-* Aportantes: Consta de las siguientes aplicaciones:  
- 
-
-* Afiliaciones: Consta de las siguientes aplicaciones:    
-
-* Procesos: Consta de las siguientes aplicaciones:    
-
-* Reportes: Consta de las siguientes aplicaciones:  
+* Consultas        
+* Aportantes    
+* Afiliaciones      
+* Procesos      
+* Reportes    
 
 
-* Contratos: Consta de las siguientes divisones:  
-Prestadores: Incluye las siguientes aplicaciones:  
 
-* Autorizaciones: Consta de las siguientes divisiones:  
-Autorizaciones: Incluye las siguientes aplicaciones:  
 
-Comité Técnico Científico: Incluye las siguientes aplicaciones:  
+  
 
 
 
