@@ -12,4 +12,5 @@ En el Submódulo de Contratos, se pueden crear nuevos contratos de prestación d
 Consta de las siguientes divisiones: prestadores, movimientos, procesos, reportes, cada una con sus correspondientes aplicaciones donde se realizan todas las operaciones.
 
 
+**Descarga el manual de Contratos de Prestación** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/contratos%20prestacion.pdf)
 
