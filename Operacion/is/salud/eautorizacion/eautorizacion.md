@@ -11,3 +11,4 @@ En este submódulo, la IPS realiza el trámite de autorización de citas médica
 
 El submódulo de autorizaciones, está compuesto por las siguientes carpetas que incluyen las aplicaciones correspondientes a cada una: autorizaciones, consultas, alto costo, cómite técnico científico, tutelas, recuperaciones CTC - tutelas, urgencias, referencia y contrareferencia, procesos y reportes.  
 
+**Descarga el manual de Autorizaciones** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/manual%20autorizaciones.pdf)
