@@ -2,7 +2,7 @@
 # Important: all URLs must have a trailing slash!
 - text: Home
   url: /
-- text: Operación
+- text: Manuales
   url: /Operacion/
   subitems:
     - text: Financiera FIN
@@ -1524,20 +1524,20 @@
               subitems:
                 - text: Autorizaciones
                   url: /Operacion/is/salud/eautorizacion/movaut/
-                        subitems:
-                            - text: Solicitud de Autorizaciones
-                              url: /Operacion/is/salud/eautorizacion/movaut/esoa
-                            - text: Autorizaciones
-                              url: /Operacion/is/salud/eautorizacion/movaut/eaut
+                  subitems:
+                    - text: Solicitud de Autorizaciones
+                      url: /Operacion/is/salud/eautorizacion/movaut/esoa
+                    - text: Autorizaciones
+                      url: /Operacion/is/salud/eautorizacion/movaut/eaut
                 - text: Consultas
                   url: /Operacion/is/salud/eautorizacion/conaut/
                 - text: Alto Costo
                   url: /Operacion/is/salud/eautorizacion/movalt/
                 - text: Proceso Mipres
                   url: /Operacion/is/salud/eautorizacion/movctc/
-                        subitems:
-                            - text: Solicitud de Autorizaciones
-                              url: /Operacion/is/salud/eautorizacion/movctc/esol
+                  subitems:
+                    - text: Solicitud de Autorizaciones
+                      url: /Operacion/is/salud/eautorizacion/movctc/esol
                 - text: Tutelas
                   url: /Operacion/is/salud/eautorizacion/etutela/
                   subitems:
