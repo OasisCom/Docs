@@ -18,7 +18,7 @@ Este submódulo está compuesto por:
 * Reportes    
 
 
-Descarga el manual de afiliaciones [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/manual%20afiliaciones.pdf)
+**Descarga el manual de afiliaciones** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/manual%20afiliaciones.pdf)
 
 
 
