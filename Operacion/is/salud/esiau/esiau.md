@@ -9,4 +9,4 @@ editable: si
 
 
 
-**Descarga el manual de PQR y Encuestas ** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/esiau/pqr%20encuestas.pdf)
+**Descarga el manual de PQR y Encuestas** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/esiau/pqr%20encuestas.pdf)
