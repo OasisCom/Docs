@@ -1566,8 +1566,18 @@
               subitems:
                 - text: Prestadores
                   url: /Operacion/is/salud/ecntpre/conpre/
+                  subitems:
+                    - text: Prestadores
+                      url: /Operacion/is/salud/ecntpre/conpre/eter
+                    - text: Formulario de Prestadores
+                      url: /Operacion/is/salud/ecntpre/conpre/emop                      
                 - text: Movimientos
                   url: /Operacion/is/salud/ecntpre/movpre/
+                  subitems:
+                    - text: Contratos prestación de servicios
+                      url: /Operacion/is/salud/ecntpre/movpre/eecnc
+                    - text: Contratos prestación de servicios
+                      url: /Operacion/is/salud/ecntpre/movpre/ecnc                      
                 - text: Procesos
                   url: /Operacion/is/salud/ecntpre/propre/
                 - text: Reportes
