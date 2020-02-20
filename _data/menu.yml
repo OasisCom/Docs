@@ -1500,12 +1500,60 @@
               subitems:
                 - text: Consultas
                   url: /Operacion/is/salud/eafiliacion/conafi/
+                  subitems:
+                    - text: Resumen Afiliados
+                      url: /Operacion/is/salud/eafiliacion/conafi/ersa
+                    - text: Saldos de Afiliados
+                      url: /Operacion/is/salud/eafiliacion/conafi/essp
+                    - text: Afiliados Contrato Prestación
+                      url: /Operacion/is/salud/eafiliacion/conafi/eafp
+                    - text: Planes de Contrato
+                      url: /Operacion/is/salud/eafiliacion/conafi/ecpc                      
                 - text: Aportantes
                   url: /Operacion/is/salud/eafiliacion/movadm/
+                  subitems:
+                    - text: Colaboradores
+                      url: /Operacion/is/salud/eafiliacion/movadm/ecli
+                    - text: Formulario de Empleadores
+                      url: /Operacion/is/salud/eafiliacion/movadm/eapo
+                    - text: Contratos de Empleador
+                      url: /Operacion/is/salud/eafiliacion/movadm/ecnt
+                    - text: Liquidación de Prestaciones
+                      url: /Operacion/is/salud/eafiliacion/movadm/elip                      
                 - text: Afiliaciones
                   url: /Operacion/is/salud/eafiliacion/movafi/
+                  subitems:
+                    - text: Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/ebaf
+                    - text: Solicitud Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/eson
+                    - text: Solicitud Prestadores
+                      url: /Operacion/is/salud/eafiliacion/movafi/esop
+                    - text: Consolidación FOSYGA
+                      url: /Operacion/is/salud/eafiliacion/movafi/ecof
+                    - text: Devoluciones
+                      url: /Operacion/is/salud/eafiliacion/movafi/edev
+                    - text: Formulario de Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/emov
+                    - text: Correcciones
+                      url: /Operacion/is/salud/eafiliacion/movafi/ecor
+                    - text: Liquidaciones
+                      url: /Operacion/is/salud/eafiliacion/movafi/eliq
+                    - text: Auditoría de Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/eaud
+                    - text: Formulario Cliente Web
+                      url: /Operacion/is/salud/eafiliacion/movafi/eemoa                      
                 - text: Procesos
                   url: /Operacion/is/salud/eafiliacion/proafi/
+                  subitems:
+                    - text: Cambio total de escenario
+                      url: /Operacion/is/salud/eafiliacion/proafi/epce
+                    - text: Genera pre-liquidación
+                      url: /Operacion/is/salud/eafiliacion/proafi/epgl
+                    - text: Maestro de afiliados
+                      url: /Operacion/is/salud/eafiliacion/proafi/epma
+                    - text: Generación Base IPS
+                      url: /Operacion/is/salud/eafiliacion/proafi/epgb                      
                 - text: Reportes
                   url: /Operacion/is/salud/eafiliacion/repafi/
             - text: Contratos
