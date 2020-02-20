@@ -1556,6 +1556,11 @@
                       url: /Operacion/is/salud/eafiliacion/proafi/epgb                      
                 - text: Reportes
                   url: /Operacion/is/salud/eafiliacion/repafi/
+                  subitems:
+                    - text: Listado de Novedades
+                      url: /Operacion/is/salud/eafiliacion/repafi/erln
+                    - text: Certificación Afiliados
+                      url: /Operacion/is/salud/eafiliacion/repafi/eerce                      
             - text: Contratos
               url: /Operacion/is/salud/ecntpre/
               subitems:
