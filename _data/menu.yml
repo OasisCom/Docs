@@ -1502,7 +1502,7 @@
                   url: /Operacion/is/salud/eafiliacion/conafi/
                   subitems:
                     - text: Resumen Afiliados
-                      url: /Operacion/is/salud/eafiliacion/conafi/ersa
+                      url: /Operacion/is/salud/eafiliacion/conafi/esra
                     - text: Saldos de Afiliados
                       url: /Operacion/is/salud/eafiliacion/conafi/essp
                     - text: Afiliados Contrato Prestación
