@@ -91,6 +91,12 @@ Todos los procesos piden token por el motivo indicado.
 
 Solo el proceso de direccionamiento pide los campos Nro. entrega y Nro. sub entrega.  
 
+•	Para la opción de autorizaciones de salud **EAUT**, se crea nuevo tab **direccionamiento** tipo consulta; Autorizaciones No POS. Se muestra la pestaña a modo informativa del direccionamiento realizado y/o por realizar.  
+Esta pestaña muestra datos a nivel informativo sobre documentos NP = autorización no POS.  
+
+![](eaut10.png)  
+
+
 
 
 

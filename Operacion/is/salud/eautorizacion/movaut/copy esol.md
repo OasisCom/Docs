@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solicitudes
-permalink: /Operacion/is/salud/eautorizacion/movaut/esol
+permalink: /Operacion/is/salud/eautorizacion/movaut/copy_esol
 editable: si
 ---
 

@@ -7,50 +7,24 @@ editable: si
 
 # SALUD
 
-### [Actualización de datos](http://docs.oasiscom.com/Operacion/is/salud/#actualización-de-datos)
 
-Para las opciones **_ESIN - Siniestros, ESOA - Autorizaciones de Aplicación, ESOL - Solicitudes, EAUT - Autorizaciones, ERCF - Referencia y Contrareferencia_** existe un módulo que permite la actualización de los datos del afiliado con previa parametrización en la opción [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot), las cuales deben tener el motivo _NSI50_.  
-Desde el ESIN siniestros, en el detalle pestaña "novedad":  
-Esta, visualiza el historico de cambios en diagnosticos, cambio de motivos, IPS tratamiento, esto para tener una mayor trazabilidad de la informacion de siniestros.  
+El módulo de salud del sistema de información OASISCOM,está orientado a satisfacer los requerimientos de información de aquellas empresas del sector salud que incluyen entre sus objetivos el control de todos los procesos administrativos y asistenciales de una EPS.  
+Entre los procesos administrativos, se encuentran la creación de contratos, manejo de RIPS, Gestión de Glosas, Referencia y Contra referencia; en cuanto a los procesos asistenciales, se encuentran los temas de agendamiento de citas y consultas, laboratorio, hospitalización, enfermería, imágenes estéticas, urgenicas y dispensación de medicamentos, entre otros.  
 
-* Para las aplicaciones del modulo de salud, que posean el campos: **diagnostico**; estos seran filtrados y solo se mostraran en estado Activo en el zoom de busqueda.  
+Por otra parte, gestión de todo el proceso de aseguramiento de los afiliados a las EPS y todos los procesos de afiliación.  También incluye la gestión del proceso del régimen contributivo, por ejemplo, información del operador, recaudo, compensación, cartera, entre otros. 
 
+En cuanto al tema de autorizaciones, maneja el registro de los servicios autorizados con la gestión y control de los procedimientos contratados para su posterior validación en la radicación de las facturas.  
 
-En este caso al dar click derecho sobre el campo _Afiliado_, el cual debe tener un valor, se despliega un menú contextual que define un nuevo elemento en este caso _Actualizar Afiliado_ ,al dar click sobre este elemento se despliega la siguiente figura.  
+Todos estos procesos se integran con consultorios médicos, hospitales, centros de salud IPS, todo en la nube y con acceso desde dispositivo móvil.  
 
-![](salud1.png)
+**Descarga el manual de Procesos Contributivos** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/procesos%20contributivos.pdf)
 
-A continuación, se despliega un formulario que contiene la parametrización del BMOT - Motivos. En este caso el modelo indica que requiere el documento _NS I50_.  
+Los submódulos que componen el módulo de salud, son los siguientes:
 
-![](salud2.png)
-
-Al guardar los datos y validar el resultado de la operación, se evidencia que se ha creado un nuevo movimiento en la aplicación EMOV que contiene la información que se ha diligenciado en el formulario.  
-
-![](salud3.png)
-
-En la aplicación **ERCF, EERCF**  Referencia y Contrareferencia del paciente podrá exportar, valida campos como:
-![](ercf1.png)
-
-*  peso,  
-*  talla,  
-*  f. cardiaca,  
-*  f. respiratoria,  
-*  presion arterial,  
-*  temperatura,  
-*  saturacion 02,  
-*  resumen de examen diagnostico,  
-*  complicaciones,  
-*  tratamientos aplicados.  
-*  Documento Afiliado' y 'Especialidad': Campos adicionados con el objetivo de conocer el documento del afiliado y la especialidad sobre la cual, se crea documento.  
- 
- ![](ercf.png)
- 
- Al exportar a PDF se visulizara:
- 
-  ![](eercf.png)
-  **ESOL - Solicitudes.  **
-![](esol1.png)
-* En el formulario de solicitudes  **ESOL** se incluye el campo.  
-MIPRES: código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra.
-
-
+* Datos Básicos
+* Afiliaciones
+* Contratos
+* Autorizaciones
+* Facturas    
+* Manejo de Riesgos
+* Atención al Usuario
