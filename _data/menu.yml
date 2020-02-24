@@ -401,6 +401,9 @@
                 url: /Operacion/erp/activos/hsaldo/hssp               
             - text: Movimientos
               url: /Operacion/erp/activos/hmovimient/
+              subitems:
+              - text: Movimientos
+                url: /Operacion/erp/activos/hmovimient/hmov             
             - text: Contratos
               url: /Operacion/erp/activos/hcontrato/
             - text: Inventario Fisico
