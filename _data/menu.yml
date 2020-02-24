@@ -52,7 +52,7 @@
               - text: Amortizaciones
                 url: /Operacion/erp/contabilidad/krepetitiv/kamo
               - text: Genera comprobante Amortizacion
-                url: /Operacion/erp/contabilidad/krepetitiv/kgca
+                url: /Operacion/erp/contabilidad/krepetitiv/kcga
             - text: Medios Magneticos
               url: /Operacion/erp/contabilidad/kmedios/
               subitems:
