@@ -391,6 +391,9 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/erp/activos/hbasica/
+              subitems:
+              - text: Activos
+                url: /Operacion/erp/activos/hbasica/hact               
             - text: Saldos
               url: /Operacion/erp/activos/hsaldo/
             - text: Movimientos
@@ -401,6 +404,9 @@
               url: /Operacion/erp/activos/hfisico/
             - text: Procesos Especiales
               url: /Operacion/erp/activos/hproceso/
+              subitems:
+              - text: Depreciación
+                url: /Operacion/erp/activos/hproceso/hpde                          
             - text: Reportes
               url: /Operacion/erp/activos/hreporte/
         - text: Presupuesto
