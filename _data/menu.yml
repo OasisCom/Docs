@@ -406,7 +406,7 @@
                 url: /Operacion/erp/activos/hmovimient/hmov             
             - text: Contratos
               url: /Operacion/erp/activos/hcontrato/
-            - text: Inventario Fisico
+            - text: Inventario Físico
               url: /Operacion/erp/activos/hfisico/
             - text: Procesos Especiales
               url: /Operacion/erp/activos/hproceso/
@@ -415,6 +415,15 @@
                 url: /Operacion/erp/activos/hproceso/hpde                          
             - text: Reportes
               url: /Operacion/erp/activos/hreporte/
+              subitems:
+              - text: Activos Fijos
+                url: /Operacion/erp/activos/hreporte/hrac
+              - text: Impresión de Rótulos
+                url: /Operacion/erp/activos/hreporte/hrir 
+              - text: Balance de Prueba Ajustado
+                url: /Operacion/erp/activos/hreporte/hrpa
+              - text: Balance de Prueba Ajustado - HRPA1
+                url: /Operacion/erp/activos/hreporte/hrpa1               
         - text: Presupuesto
           url: /Operacion/erp/presupuesto/
           subitems:
