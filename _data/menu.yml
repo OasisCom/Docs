@@ -396,6 +396,9 @@
                 url: /Operacion/erp/activos/hbasica/hact               
             - text: Saldos
               url: /Operacion/erp/activos/hsaldo/
+              subitems:
+              - text: Saldos de Activos
+                url: /Operacion/erp/activos/hsaldo/hssp               
             - text: Movimientos
               url: /Operacion/erp/activos/hmovimient/
             - text: Contratos
