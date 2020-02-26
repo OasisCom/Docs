@@ -91,6 +91,11 @@ Ahora, nos desplazamos a la pestaña del detalle. Aquí encontraremos el esquema
 
 ![](eitra3.png)
 
+El foco se posiciona sobre el detalle de productos; cada vez que se realiza el filtro del producto.  
+Se adiciona directamente el registro filtrado.  
+
+![](eitra30.png)  
+
 Si deseamos crear varias cajas de despacho, damos click en el botón **+**.  
 
 ![](eitra4.png)
