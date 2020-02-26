@@ -29,6 +29,8 @@ Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y
 **LocationId1:** el sistema traerá automáticamente la ubicación 1.  
 **NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea recolectar; puede visualizar, por medio de un zoom extraer datos únicamente para el recolector. ResponbleId en el documento TI x PI. como se visualiza:  
 ![](eitra26.png)  
+**Desplega el siguiente zoom, con los pedidos pendientes por recolección.**  
+![](eitra27.png)  
 
 Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
 
