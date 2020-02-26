@@ -52,7 +52,7 @@
               - text: Amortizaciones
                 url: /Operacion/erp/contabilidad/krepetitiv/kamo
               - text: Genera comprobante Amortizacion
-                url: /Operacion/erp/contabilidad/krepetitiv/kgca
+                url: /Operacion/erp/contabilidad/krepetitiv/kcga
             - text: Medios Magneticos
               url: /Operacion/erp/contabilidad/kmedios/
               subitems:
@@ -391,18 +391,39 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/erp/activos/hbasica/
+              subitems:
+              - text: Activos
+                url: /Operacion/erp/activos/hbasica/hact               
             - text: Saldos
               url: /Operacion/erp/activos/hsaldo/
+              subitems:
+              - text: Saldos de Activos
+                url: /Operacion/erp/activos/hsaldo/hssp               
             - text: Movimientos
               url: /Operacion/erp/activos/hmovimient/
+              subitems:
+              - text: Movimientos
+                url: /Operacion/erp/activos/hmovimient/hmov             
             - text: Contratos
               url: /Operacion/erp/activos/hcontrato/
-            - text: Inventario Fisico
+            - text: Inventario Físico
               url: /Operacion/erp/activos/hfisico/
             - text: Procesos Especiales
               url: /Operacion/erp/activos/hproceso/
+              subitems:
+              - text: Depreciación
+                url: /Operacion/erp/activos/hproceso/hpde                          
             - text: Reportes
               url: /Operacion/erp/activos/hreporte/
+              subitems:
+              - text: Activos Fijos
+                url: /Operacion/erp/activos/hreporte/hrac
+              - text: Impresión de Rótulos
+                url: /Operacion/erp/activos/hreporte/hrir 
+              - text: Balance de Prueba Ajustado
+                url: /Operacion/erp/activos/hreporte/hrpa
+              - text: Balance de Prueba Ajustado - HRPA1
+                url: /Operacion/erp/activos/hreporte/hrpa1               
         - text: Presupuesto
           url: /Operacion/erp/presupuesto/
           subitems:
