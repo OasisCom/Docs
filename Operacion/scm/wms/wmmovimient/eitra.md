@@ -162,6 +162,9 @@ Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento.
 ![](eitra13.png)  
 
 Para los escenarios donde existe gran cantidades de localizaciones, puede utilizar la **paginación** con los botones de desplazamiento: siguiente y atrás.  
+* Se coloca el foco sobre el detalle de productos cada vez que se realiza el filtro del producto. EAN 128  
+
+* ![](eitra29.png)  
 
 Una vez realizado el almacenamiento, los productos se distribuirán según la localizacion seleccionada.  
 
