@@ -52,7 +52,7 @@
               - text: Amortizaciones
                 url: /Operacion/erp/contabilidad/krepetitiv/kamo
               - text: Genera comprobante Amortizacion
-                url: /Operacion/erp/contabilidad/krepetitiv/kgca
+                url: /Operacion/erp/contabilidad/krepetitiv/kcga
             - text: Medios Magneticos
               url: /Operacion/erp/contabilidad/kmedios/
               subitems:
@@ -391,18 +391,39 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/erp/activos/hbasica/
+              subitems:
+              - text: Activos
+                url: /Operacion/erp/activos/hbasica/hact               
             - text: Saldos
               url: /Operacion/erp/activos/hsaldo/
+              subitems:
+              - text: Saldos de Activos
+                url: /Operacion/erp/activos/hsaldo/hssp               
             - text: Movimientos
               url: /Operacion/erp/activos/hmovimient/
+              subitems:
+              - text: Movimientos
+                url: /Operacion/erp/activos/hmovimient/hmov             
             - text: Contratos
               url: /Operacion/erp/activos/hcontrato/
-            - text: Inventario Fisico
+            - text: Inventario Físico
               url: /Operacion/erp/activos/hfisico/
             - text: Procesos Especiales
               url: /Operacion/erp/activos/hproceso/
+              subitems:
+              - text: Depreciación
+                url: /Operacion/erp/activos/hproceso/hpde                          
             - text: Reportes
               url: /Operacion/erp/activos/hreporte/
+              subitems:
+              - text: Activos Fijos
+                url: /Operacion/erp/activos/hreporte/hrac
+              - text: Impresión de Rótulos
+                url: /Operacion/erp/activos/hreporte/hrir 
+              - text: Balance de Prueba Ajustado
+                url: /Operacion/erp/activos/hreporte/hrpa
+              - text: Balance de Prueba Ajustado - HRPA1
+                url: /Operacion/erp/activos/hreporte/hrpa1               
         - text: Presupuesto
           url: /Operacion/erp/presupuesto/
           subitems:
@@ -1500,21 +1521,84 @@
               subitems:
                 - text: Consultas
                   url: /Operacion/is/salud/eafiliacion/conafi/
+                  subitems:
+                    - text: Resumen Afiliados
+                      url: /Operacion/is/salud/eafiliacion/conafi/esra
+                    - text: Saldos de Afiliados
+                      url: /Operacion/is/salud/eafiliacion/conafi/essp
+                    - text: Afiliados Contrato Prestación
+                      url: /Operacion/is/salud/eafiliacion/conafi/eafp
+                    - text: Planes de Contrato
+                      url: /Operacion/is/salud/eafiliacion/conafi/ecpc                      
                 - text: Aportantes
                   url: /Operacion/is/salud/eafiliacion/movadm/
+                  subitems:
+                    - text: Colaboradores
+                      url: /Operacion/is/salud/eafiliacion/movadm/ecli
+                    - text: Formulario de Empleadores
+                      url: /Operacion/is/salud/eafiliacion/movadm/eapo
+                    - text: Contratos de Empleador
+                      url: /Operacion/is/salud/eafiliacion/movadm/ecnt
+                    - text: Liquidación de Prestaciones
+                      url: /Operacion/is/salud/eafiliacion/movadm/elip                      
                 - text: Afiliaciones
                   url: /Operacion/is/salud/eafiliacion/movafi/
+                  subitems:
+                    - text: Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/ebaf
+                    - text: Solicitud Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/eson
+                    - text: Solicitud Prestadores
+                      url: /Operacion/is/salud/eafiliacion/movafi/esop
+                    - text: Consolidación FOSYGA
+                      url: /Operacion/is/salud/eafiliacion/movafi/ecof
+                    - text: Devoluciones
+                      url: /Operacion/is/salud/eafiliacion/movafi/edev
+                    - text: Formulario de Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/emov
+                    - text: Correcciones
+                      url: /Operacion/is/salud/eafiliacion/movafi/ecor
+                    - text: Liquidaciones
+                      url: /Operacion/is/salud/eafiliacion/movafi/eliq
+                    - text: Auditoría de Afiliados
+                      url: /Operacion/is/salud/eafiliacion/movafi/eaud
+                    - text: Formulario Cliente Web
+                      url: /Operacion/is/salud/eafiliacion/movafi/eemoa                      
                 - text: Procesos
                   url: /Operacion/is/salud/eafiliacion/proafi/
+                  subitems:
+                    - text: Cambio total de escenario
+                      url: /Operacion/is/salud/eafiliacion/proafi/epce
+                    - text: Genera pre-liquidación
+                      url: /Operacion/is/salud/eafiliacion/proafi/epgl
+                    - text: Maestro de afiliados
+                      url: /Operacion/is/salud/eafiliacion/proafi/epma
+                    - text: Generación Base IPS
+                      url: /Operacion/is/salud/eafiliacion/proafi/epgb                      
                 - text: Reportes
                   url: /Operacion/is/salud/eafiliacion/repafi/
+                  subitems:
+                    - text: Listado de Novedades
+                      url: /Operacion/is/salud/eafiliacion/repafi/erln
+                    - text: Certificación Afiliados
+                      url: /Operacion/is/salud/eafiliacion/repafi/eerce                      
             - text: Contratos
               url: /Operacion/is/salud/ecntpre/
               subitems:
                 - text: Prestadores
                   url: /Operacion/is/salud/ecntpre/conpre/
+                  subitems:
+                    - text: Prestadores
+                      url: /Operacion/is/salud/ecntpre/conpre/eter
+                    - text: Formulario de Prestadores
+                      url: /Operacion/is/salud/ecntpre/conpre/emop                      
                 - text: Movimientos
                   url: /Operacion/is/salud/ecntpre/movpre/
+                  subitems:
+                    - text: Contratos prestación de servicios
+                      url: /Operacion/is/salud/ecntpre/movpre/eecnc
+                    - text: Contratos prestación de servicios
+                      url: /Operacion/is/salud/ecntpre/movpre/ecnc                      
                 - text: Procesos
                   url: /Operacion/is/salud/ecntpre/propre/
                 - text: Reportes

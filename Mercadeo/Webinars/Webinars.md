@@ -36,7 +36,8 @@ editable: si
 >##### [WEBINAR: Declaración de Renta - Persona Natural - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/presentacion-webinar-D-R.pdf)
 
 >##### [WEBINAR: Factura Electrónica - Validación Previa - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-F-EVP.pdf)
->##### [WEBINAR: ¿Cómo hacer transferencias en OasisCom? - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-we-transacciones.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: ¿Cómo hacer transferencias en OasisCom? - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-we-transacciones.pdf)
+>##### [WEBINAR: Transformación Digital como ventaja competitiva - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-transformacion-digital-feb.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
 
 
