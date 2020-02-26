@@ -51,7 +51,7 @@ En el campo _Tipo_, seleccionamos si el registro es un lote de café, si es espe
 
 También ingresamos datos como la variedad de café a la que aplica el tipo, la edad del lote, el área, entre otras. Es posible visualizar la fecha en que se actualiza el registro.  
 
-* Se crea nueva pestaña "Cupo" en el básico de direcciones [BDIR]; controla cupos de compras de café por año.  
+* Se crea nueva pestaña "Cupo" en el detalle del **básico de direcciones** **[BDIR]**; controla cupos de compras de café por año.  
 
 ![](bdir5.png)
 
