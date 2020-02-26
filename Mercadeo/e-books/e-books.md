@@ -44,7 +44,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
->###### [E-book-Tips para la Transformación Digital](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [E-book-Tips para la Transformación Digital](http://docs.oasiscom.com/Mercadeo/e-books/ebook-tips-para-la-transformacion-digital.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
 >###### [¿Existen sectores donde no aplique la Transformacion Digital?](http://docs.oasiscom.com/Mercadeo/e-books/existen-sectores-donde-no-aplique-la-tranformacion-digital.pdf)
 
