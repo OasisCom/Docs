@@ -12,7 +12,9 @@ Encuentra aquí todos nuestros E-Books descargables:
 ------------------------------------------------------
 
 ### Solución ERP 
->###### [¿Existen sectores donde no aplique la Transformacion Digital?](http://docs.oasiscom.com/Mercadeo/e-books/existen-sectores-donde-no-aplique-la-tranformacion-digital.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+>###### [Tips para la Transformación Digital](http://docs.oasiscom.com/Mercadeo/e-books/tips-para-la-transformacion-digital.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [¿Existen sectores donde no aplique la Transformacion Digital?](http://docs.oasiscom.com/Mercadeo/e-books/existen-sectores-donde-no-aplique-la-tranformacion-digital.pdf)
 >###### [Guía para Nubetizar su empresa](http://docs.oasiscom.com/Mercadeo/fichas/E-book_Guia_para_nubetizar_su_empresa.pdf)
 >###### [E-Book: 9 razones para escoger un ERP](http://docs.oasiscom.com/Mercadeo/fichas/E-BOOK-9-razones-para-escoger-un-erp.pdf)
 >###### [Transformación digital en las empresas(descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/Brochure_Transformacion_Digital_06062017_01.pdf)
