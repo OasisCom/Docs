@@ -27,11 +27,12 @@ La parametrización requerida para esta aplicación es que a cada uno de los emp
 1.2	BBAN: Bancos
 Se creó el banco 801 para tarjetas de crédito el cual en el código externo debe tener 1130 el cual es la ubicación padre de las tarjetas de crédito:
 
- 
+ ![](bban1.png)
 
 1.3	TBBC: Conceptos de Bancos
 Una vez se crea el banco se debe realizar la parametrización en la aplicación TBBC en donde se le indica al sistema que códigos del banco corresponde a que documentos del sistema OasisCom y si deben generar el documento automáticamente.
  
+  ![](tbbc2.png)
 
 1.4	BUBI: Ubicación Organización
 La parametrización requerida para esta aplicación es diligenciar las tarjetas de crédito con su respectivo empleado:
