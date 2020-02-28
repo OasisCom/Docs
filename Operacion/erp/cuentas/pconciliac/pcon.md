@@ -86,32 +86,20 @@ Allí se debe seleccionar la publicación 99, el archivo en txt correspondiente 
 Una vez se carga el extracto de la tarjeta de crédito se valida nuevamente el PCON en donde se identifica que la pestaña “Proveedor” el sistema carga el extracto  
 
 
-
- 
+  ![](pcon3.png)  
 
 Posterior a la validación del cargue se debe ejecutar el icono de generar movimientos  
 
- 
+  ![](pcon4.png)  
 
 Cuando se ejecuta el botón el sistema crea en la aplicación PMOV todos los documentos de gravamen financiero, los cuales se deben validar y procesar:  
 
 
-
-
-
-
- 
+  ![](pmov1.png)  
 
 Una vez se procesan los documentos en PMOV nuevamente se ingresa a PCON y se ejecuta el botón de “Conciliación Automática”, allí el sistema conciliará lo que coincida en fecha y valor entre bancos y libros.  
 
- 
 
+ ![](tcon1.png)  
 
-
-
-
-
-
- 
-
-
+![](tcon2.png)  
