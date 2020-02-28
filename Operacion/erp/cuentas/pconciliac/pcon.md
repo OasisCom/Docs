@@ -75,13 +75,10 @@ Allí podrán identificar que en la pestaña “Libros” el sistema arroja todo
 
 
 
-
-
-
 2.2	BINT: Interfaces  
 Una vez se encuentra creado el maestro de la aplicación PCON se procede a cargar el extracto de la tarjeta de crédito, recordemos que este archivo debe estar parametrizado en el BARC de acuerdo con la estructura correspondiente:  
 
- 
+  ![](bint1.png)  
 
 Allí se debe seleccionar la publicación 99, el archivo en txt correspondiente y se debe asociar el documento, número y ubicación creadas anteriormente.  
 
