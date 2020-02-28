@@ -76,14 +76,14 @@ Allí podrán identificar que en la pestaña “Libros” el sistema arroja todo
 
 
 2.2	**BINT: Interfaces**  
-Una vez se encuentra creado el maestro de la aplicación PCON se procede a cargar el extracto de la tarjeta de crédito, recordemos que este archivo debe estar parametrizado en el BARC de acuerdo con la estructura correspondiente:  
+Una vez se encuentra creado el maestro de la aplicación **PCON** se procede a cargar el extracto de la tarjeta de crédito, recordemos que este archivo debe estar parametrizado en el BARC de acuerdo con la estructura correspondiente:  
 
   ![](bint1.png)  
 
 Allí se debe seleccionar la publicación 99, el archivo en txt correspondiente y se debe asociar el documento, número y ubicación creadas anteriormente.  
 
 2.3	**PCON: Conciliación**   
-Una vez se carga el extracto de la tarjeta de crédito se valida nuevamente el PCON en donde se identifica que la pestaña “Proveedor” el sistema carga el extracto  
+Una vez se carga el extracto de la tarjeta de crédito se valida nuevamente el **PCON** en donde se identifica que la pestaña “Proveedor” el sistema carga el extracto  
 
 
   ![](pcon3.png)  
@@ -92,12 +92,12 @@ Posterior a la validación del cargue se debe ejecutar el icono de generar movim
 
   ![](pcon4.png)  
 
-Cuando se ejecuta el botón el sistema crea en la aplicación PMOV todos los documentos de gravamen financiero, los cuales se deben validar y procesar:  
+Cuando se ejecuta el botón el sistema crea en la aplicación **PMOV** todos los documentos de gravamen financiero, los cuales se deben validar y procesar:  
 
 
   ![](pmov1.png)  
 
-Una vez se procesan los documentos en PMOV nuevamente se ingresa a PCON y se ejecuta el botón de “Conciliación Automática”, allí el sistema conciliará lo que coincida en fecha y valor entre bancos y libros.  
+Una vez se procesan los documentos en **PMOV** nuevamente se ingresa a **PCON** y se ejecuta el botón de “Conciliación Automática”, allí el sistema conciliará lo que coincida en fecha y valor entre bancos y libros.  
 
 
  ![](tcon1.png)  
