@@ -37,13 +37,12 @@ Una vez se crea el banco se debe realizar la parametrización en la aplicación 
 1.4	BUBI: Ubicación Organización  
 La parametrización requerida para esta aplicación es diligenciar las tarjetas de crédito con su respectivo empleado:  
 
-
-
- 
+  ![](bubi.png)  
 
 1.5	BGRU: Grupo contable  
 En la ubicación se debe asociar el grupo contable correspondiente, el cual debe tener asociado en el detalle el código CMP y la cuenta contable de la tarjeta de crédito:  
   
+   ![](bgru1.png)  
 1.6	BDOC: Documentos  
 Así mismo se debe tener presente la parametrización de los conceptos de gravámenes financieros y deben tener creado su respectivo motivo.  
 
