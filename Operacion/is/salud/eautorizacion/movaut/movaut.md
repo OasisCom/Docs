@@ -11,7 +11,7 @@ En la ventana de autorizaciones, se pueden realizar procesos relacionados con au
 
 Las aplicaciones que se usan en esta ventana son:  
 
-* **ESOA** - Aplicación de autorizaciones  
+* **ESOA** - Solicitud de autorizaciones  
 * **EAUT** - Autorizaciones  
 * **EPRE** - Prescripciones  
 
