@@ -46,15 +46,11 @@ En la ubicación se debe asociar el grupo contable correspondiente, el cual debe
 1.6	BDOC: Documentos  
 Así mismo se debe tener presente la parametrización de los conceptos de gravámenes financieros y deben tener creado su respectivo motivo.  
 
-
-
-
-
- 
+ ![](bdoc.png)  
 
 1.7	BPLA: Plantillas  
 Una vez se crean los conceptos y motivos, se debe parametrizar la plantilla por cada uno de los conceptos con las cuentas sugeridas:  
- 
+  ![](bpla.png)  
 
 
 
@@ -73,7 +69,7 @@ Se debe crear un maestro con la siguiente información:
 -	Concepto: KP  
 -	Tercero: NIT del tercero del banco  
 
- 
+ ![](pcon2.png)  
 
 Allí podrán identificar que en la pestaña “Libros” el sistema arroja todos los movimientos realizados en ese rango de fechas y asociados a esa tarjeta de crédito (ubicación).  
 
