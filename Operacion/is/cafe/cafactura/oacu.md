@@ -11,7 +11,8 @@ En esta aplicación se parametrizan los acuerdos que se obtienen entre los cafic
 
 ![](acuerdos.png)
 
-**Documento:** Se debe diligenciar OA correspondiente a acuerdos  
+**Documento:** Se debe diligenciar OA correspondiente a acuerdos.  
+	Al crear documento OD  **(Descuento adicional en la compra del café),** el sistema va a registrar por cada: tercero y 	ubicación específica, el porcentaje de descuento en cada una de las compras de café realizadas.  
 **Número:** Es el número del acuerdo (consecutivo automático)  
 **Ubicación:** Punto de venta para el cual se realiza el acuerdo  
 **Fecha:** Fecha del acuerdo  
