@@ -1297,6 +1297,9 @@
           subitems:
             - text: Clientes
               url: /Operacion/crm/portal/cliente/
+              subitems:
+              - text: Formulario de Afiliados WEB
+                url: /Operacion/crm/portal/cliente/eemov              
             - text: Proveedores
               url: /Operacion/crm/portal/proveedor/
             - text: Empleados
