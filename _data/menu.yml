@@ -1297,6 +1297,25 @@
           subitems:
             - text: Clientes
               url: /Operacion/crm/portal/cliente/
+              subitems:
+              - text: Colocar pedidos
+                url: /Operacion/crm/portal/cliente/evped
+              - text: Colocar casos de soporte
+                url: /Operacion/crm/portal/cliente/eacas
+              - text: Estados de cuenta clientes
+                url: /Operacion/crm/portal/cliente/ecsec
+              - text: Reporte de casos
+                url: /Operacion/crm/portal/cliente/easec
+              - text: Formulario de Empleadores WEB
+                url: /Operacion/crm/portal/cliente/eeapo
+              - text: Aplicación de Afiliados WEB
+                url: /Operacion/crm/portal/cliente/eesop
+              - text: Formulario de Afiliados WEB
+                url: /Operacion/crm/portal/cliente/eemov
+              - text: Oportunidades
+                url: /Operacion/crm/portal/cliente/eaopo
+              - text: WEB Application Affiliates
+                url: /Operacion/crm/portal/cliente/eeson              
             - text: Proveedores
               url: /Operacion/crm/portal/proveedor/
             - text: Empleados
