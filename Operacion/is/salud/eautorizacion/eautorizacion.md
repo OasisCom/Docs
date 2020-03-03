@@ -19,7 +19,7 @@ El submódulo de autorizaciones, está compuesto por las siguientes carpetas que
 * Alto costo  
 * Cómite técnico científico  
 * Tutelas  
-* Recuperaciones CTC - tutelas  
+* Recobros CTC - tutelas  
 * Urgencias  
 * Referencia y contrareferencia  
 * Procesos  

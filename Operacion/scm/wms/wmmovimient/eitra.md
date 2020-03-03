@@ -27,7 +27,10 @@ Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y
 **Cliente Id:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
 **DocumentId1:** el sistema traerá automáticamente el documento PD de Pedido.  
 **LocationId1:** el sistema traerá automáticamente la ubicación 1.  
-**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea empacar.  
+**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea recolectar; puede visualizar, por medio de un zoom extraer datos únicamente para el recolector. ResponbleId en el documento TI x PI. como se visualiza:  
+![](eitra26.png)  
+**Desplega el siguiente zoom, con los pedidos pendientes por recolección.**  
+![](eitra27.png)  
 
 Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
 
@@ -87,6 +90,11 @@ Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el si
 Ahora, nos desplazamos a la pestaña del detalle. Aquí encontraremos el esquema gráfico en donde podremos decidir en cuentas cajas se despachará el pedido y que cantidad de cada producto se irá en cada una.  
 
 ![](eitra3.png)
+
+El foco se posiciona sobre el detalle de productos; cada vez que se realiza el filtro del producto.  
+Se adiciona directamente el registro filtrado.  
+
+![](eitra30.png)  
 
 Si deseamos crear varias cajas de despacho, damos click en el botón **+**.  
 
@@ -159,6 +167,9 @@ Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento.
 ![](eitra13.png)  
 
 Para los escenarios donde existe gran cantidades de localizaciones, puede utilizar la **paginación** con los botones de desplazamiento: siguiente y atrás.  
+* Se coloca el foco sobre el detalle de productos cada vez que se realiza el filtro del producto. EAN 128  
+
+* ![](eitra29.png)  
 
 Una vez realizado el almacenamiento, los productos se distribuirán según la localizacion seleccionada.  
 

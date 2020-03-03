@@ -29,7 +29,7 @@ Realizamos la confirmación dando en el boton aceptar:
 
 Se realizara a nivel interno los siguientes proceso.  
 **Pre-Validación:** Este proceso realizara la validación necesaria sobre los datos antes de que se genere la consulta del servicio.  
-**Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se generá la petición de consulta sobre el servicio MIPRES.  
+**Consumo de Servicio:** Este proceso tomará los datos solicitados por el servicio desde OasisCom. Se generá la petición de consulta sobre el servicio **MIPRES**.  
 **Proceso Confirmación:** Este proceso notificará la respuesta a OasisCom para la captura de referenciación	  
 
 

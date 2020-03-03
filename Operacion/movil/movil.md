@@ -510,89 +510,42 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
-
-
-
-
-
-
-
 ## Movil con camara.  
-
-
-
-
 
 Esta funcionalidad esta diseñada inicialmente para el **MITRA e IMOV** (inventarios).   
 
 
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
 
-
-
-
-
 ![](mitra3.png)  
-
-
-
-
-
-
-
 
 Posterior, realiza el ingreso a la opcion **MITRA:**  
 
-
-
-
-
 ![](mitra4.png)  
-
-
-
-
 
 Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
 
-
-
-
-
 ![](mitra5.png)  
-
-
-
-
 
 Realiza el scanneo de la posicion:   
 
-
-
-
-
-![](mitra7.png)  
+![](MITRA7.png)  
 
 
 Para el siguiente ejemplo se realiza el scanneo para la posicion cero (0).  
 
-
-
-
-
-![](mitra8.png)  
+![](MITRA8.png)  
 
 
 En la pestaña producto, realiza el scanneo:  
 
-
-
-
-
 ![](mitra9.png)  
 
+La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking) se almacenen según la trazabilidad, cuando se cierre la aplicación.   
+Dicha funcionalidad para el caso donde los pedido **recolectados** (PI) se almacenen y no se pierdan cuando se cierra la aplicación o dado el caso donde por alguna razón **no** se finalizó la digitación de la recolección y se desea posterior volver a retomar la tarea de recolectar cada uno de los productos y existen gran cantidad de ítems en el detalle del pedido.  
 
-Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
+
+* Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
 
 
 https://barcode.tec-it.com/es/?data=7702484075873  
