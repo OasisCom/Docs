@@ -11,5 +11,7 @@ En el submódulo de movimiento, se pueden realizar procesos tales como ingreso a
 
 La aplicación que se maneja en este módulo es:
 
-* **HMOV** - Movimientos
+* **HMOV** - Movimientos  
+* **HMCM** - Consulta de movimientos  
+* **HNOV** - Novedad del activo
 
