@@ -5,7 +5,7 @@ Bienvenidos todos.
 
 Este sitio contiene toda la documentación relacionada con OasisCom. Cubre todos los tópicos requeridos para los diferentes procesos del modelo de negocio, tales como Mercadeo, Comercialización, Implantación, Capacitación, Operación, Soporte y Desarrollo.
 
-El objetivo es que se mantenga actualizada para servir como guía a los diferentes públicos que la pueden utilizar, siendo, estos los usuarios de la aplicación, los implantadores, los consultores de capacitación y los ingenieros de soporte y desarrollo que trabajan sobre esta herramienta.
+El objetivo es que se mantenga actualizada para servir como guía a los diferentes públicos que la pueden utilizar, siendo, estos los usuarios de la aplicación, los implantadores, los consultores de capacitación, los ingenieros de soporte y desarrollo que trabajan sobre esta herramienta.
 
 Al ser una documentación genérica, debemos garantizar que las guías u hechos consignados aquí, apliquen para todos los mercados, países, industrias y tamaños en los cuales se puede instalar la solución. Si no es así hacer clara referencia a las condiciones para cada tipo.
 
