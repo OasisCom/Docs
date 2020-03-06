@@ -23,6 +23,6 @@ En esta aplicación se parametrizan los acuerdos que se obtienen entre los cafic
 **Fecha final:** Fecha final del acuerdo  
 **Cupo:** Cantidad en kilogramos pactada en el acuerdo.  
 
-Con este registro el sistema crea automáticamente el detalle de acuerdo a los descuentos que se parametrizan en la aplicación FBTD - Tipos de descuento. Posterior a su creación, se deben editar los campos de fecha inicial, fecha final y el precio correspondiente.  
+Con este registro el sistema crea automáticamente el detalle de acuerdo a los descuentos que se parametrizan en la aplicación **FBTD** - Tipos de descuento. Posterior a su creación, se deben editar los campos de fecha inicial, fecha final y el precio correspondiente.  
 
 Validada la información se debe procesar el registro. Una vez procesado se debe asociar este acuerdo registrado en la aplicación OCAF de compra de café.  
