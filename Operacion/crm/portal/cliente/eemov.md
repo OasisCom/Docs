@@ -13,11 +13,6 @@ editable: si
 Consulta los procesos que puedes ejecutar desde EEMOV.
 
 
-[TOC]
-
-
-
-
 - [Explicación general de como usar EEMOV](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Explicación-general-de-como-usar-EEMOV)
 - [Creación de nuevos afiliados](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Creación de nuevos afiliados)
 - [Proceso de novedades para Régimen Subsidiado y Contributivo](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Proceso-de-novedades-para-Regímen-Subsidiado-y-Contributivo)
