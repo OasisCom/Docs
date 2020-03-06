@@ -19,7 +19,7 @@ Consulta los procesos que puedes ejecutar desde EEMOV.
 - [Proceso de portabilidad para el Régimen Subsidiado](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Proceso-de-portabilidad-para-el-Régimen-Subsidiado)
 
 
-### [Explicación general de como usar EEMOV](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#ExplicacióngeneraldecomousarEEMOV)
+### [Explicación general de como usar EEMOV]()
 
 La aplicación EEMOV nos permite realizar el registro de los diferentes movimientos referentes al aseguramiento de los afiliados en el sistema de información institucional. Diligenciamos los campos del formulario y damos click en _Guardar_.
 
