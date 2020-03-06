@@ -12,12 +12,11 @@ editable: si
 
 Consulta los procesos que puedes ejecutar desde EEMOV.
 
-- [Explicación general de como usar EEMOV](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Explicación-general-de-como-usar-EEMOV)
-- [Creación de nuevos afiliados](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Creación-de-nuevos-afiliados)
-- [Proceso de novedades para Régimen Subsidiado y Contributivo](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-novedades-para-Regímen-Subsidiado-y-Contributivo)
-- [Proceso de translado para los Regímenes Subsidiado y Contributivo](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-translado-para-los-Regímenes-Subsidiado-y-Contributivo)
-
-
+- [Explicación general de como usar EEMOV](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Explicación-general-de-como-usar-EEMOV)
+- [Creación de nuevos afiliados](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Creación de nuevos afiliados)
+- [Proceso de novedades para Régimen Subsidiado y Contributivo](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Proceso-de-novedades-para-Regímen-Subsidiado-y-Contributivo)
+- [Proceso de translado para los Regímenes Subsidiado y Contributivo](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Proceso-de-translado-para-los-Regímenes-Subsidiado-y-Contributivo)
+- [Proceso de portabilidad para el Régimen Subsidiado](http://docs.oasis.com/Operacion/crm/portal/cliente/eemov/#Proceso-de-portabilidad-para-el-Régimen-Subsidiado)
 
 
 ### [Explicación general de como usar EEMOV](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#ExplicacióngeneraldecomousarEEMOV)
@@ -234,7 +233,7 @@ Los Movimientos de cada registro figuran en el Sistema de información OASISCOM 
 Para confirmar el registro del movimiento realizado anteriormente, ingresamos a la aplicación **EMOV – Formulario de Afiliados** y filtramos por documento, consecutivo, ubicación y concepto. Allí verificamos que el registro se encuentre en estado procesado.
 
 
-###[Proceso de novedades para Régimen Subsidiado y Contributivo](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-novedades-para-Regímen-Subsidiado-y-Contributivo)
+### [Proceso de novedades para Régimen Subsidiado y Contributivo](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-novedades-para-Regímen-Subsidiado-y-Contributivo)
 
 Para realizar novedades en ambos regímenes se debe ingresar a la aplicación EEMOV.
 En este caso surgen dos opciones, la primera es para realizar una novedad para un único concepto y la segunda es para realizar múltiples novedades.
@@ -267,7 +266,7 @@ Diligenciados todos los campos requeridos, se debe dar clic en el botón Guardar
 
 ![](Imagen 23 Aplicacion EEMOV.png)
 
-Así mismo, se habilitan dos campos donde se puede realizar la acción que fue escogida en el concepto N03 - Actualización o corrección de apellidos, como se muestra a continuación:
+Así mismo, se habilitan dos campos donde se puede realizar la acción que fue escogida en el concepto **N03 - Actualización o corrección de apellidos,** como se muestra a continuación:
 
 ![](Imagen 24 Aplicacion EEMOV.png)
 
@@ -377,7 +376,8 @@ Al verificar los datos contenidos en el archivo, digitamos la letra “F” para
 
 
 
-###[Proceso de traslado para los Regímenes Subsidiado y Contributivo](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-traslado-para-los-Regímenes-Subsidiado-y-Contributivo)
+### [Proceso de traslado para los Regímenes Subsidiado y Contributivo](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-traslado-para-los-Regímenes-Subsidiado-y-Contributivo)
+
 Para realizar el proceso de traslados se debe ingresar a la aplicación EEMOV y realizar un nuevo registro diligenciando cada uno de los campos como se indica a continuación:
 
 ![](Imagen 44 Aplicacion EEMOV.png)
@@ -441,8 +441,7 @@ Nota: En caso de que el proceso de traslado requiera adjuntar archivos, el siste
 
 
 
-
-#[Proceso de portabilidad para el Régimen Subsidiado](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-portabilidad-para-el-Régimen-Subsidiado)
+### [Proceso de portabilidad para el Régimen Subsidiado](http://docs.oasis.com/operacion/crm/portal/cliente/eemov/#Proceso-de-portabilidad-para-el-Régimen-Subsidiado)
 
 En la aplicación EESON, se registran las solicitudes que realizan los afiliados para cambiar la IPS de atención entre ciudades. Para registrar una nueva solicitud, diligenciamos los campos del formulario y damos clic en el botón *guardar*.
 
