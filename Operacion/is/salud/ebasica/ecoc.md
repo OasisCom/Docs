@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-# ECOC - Concurrencia
+   # ECOC - Concurrencia
 
 - [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-Concurrente)
 - [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
@@ -23,7 +23,7 @@ Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" 
 
 Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
 
-![](ECOC11.png)  
+                               ![](ECOC11.png)  
 
 
 
