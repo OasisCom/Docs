@@ -6,7 +6,6 @@ permalink: /Operacion/is/salud/ebasica/ecoc
 editable: si
 
 ---
-
 #ECOC - Concurrencia
 
 Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.   
