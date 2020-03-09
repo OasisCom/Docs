@@ -11,7 +11,7 @@ editable: si
 Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.   
 Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" como tipos causas, Inoportunidad en programación en prestador externo, Inoportunidad en reporte de prestador externo, Suministros, referencia, Plan domiciliario, Oxigeno, Ambulancia, entre otras.
 
-- [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#auditoría-concurrente)
+- [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc/#auditoría-concurrente)
 - [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
 - [Pestaña Servicios](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Servicios)
 - [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
@@ -25,7 +25,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 ![](ECOC11.png)
 
 
-## [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#auditoría-concurrente)
+## [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc/#auditoría-concurrente)
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
