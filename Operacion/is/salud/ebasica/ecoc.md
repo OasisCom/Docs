@@ -43,7 +43,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
-![](Imagen 1 Concurrencia.png)
+![](Prueba.png)
 
 Para registrar una auditoría ingresamos a la aplicación, creamos un nuevo registro y diligenciamos el formulario.
 
