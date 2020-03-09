@@ -6,7 +6,7 @@ permalink: /Operacion/is/salud/ebasica/ecoc
 editable: si
 
 ---
-#ECOC - Concurrencia
+# ECOC - Concurrencia
 
 Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.   
 Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" como tipos causas, Inoportunidad en programación en prestador externo, Inoportunidad en reporte de prestador externo, Suministros, referencia, Plan domiciliario, Oxigeno, Ambulancia, entre otras.
@@ -29,7 +29,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
-![](Prueba.png)
+![](Imagen 1 Concurrencia.png)
 
 Para registrar una auditoría ingresamos a la aplicación, creamos un nuevo registro y diligenciamos el formulario.
 
