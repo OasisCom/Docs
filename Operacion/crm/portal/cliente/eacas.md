@@ -5,7 +5,7 @@ permalink: /Operacion/crm/portal/cliente/eacas
 editable: si
 ---
 
-## EACAS - Colorcar Casos de Soporte
+## EACAS - Colocar Casos de Soporte
 
 La aplicación EACAS permite a los clientes de cada empresa realizar el cargue de casos de soporte al sistema OasisCom, estos casos serán administrados por cada empresa.  
 
