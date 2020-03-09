@@ -19,13 +19,7 @@ editable: si
 
 
 Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.   
-Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" como tipos causas:   
-* Inoportunidad en programación en prestador externo
-* Inoportunidad en reporte de prestador externo
-* Suministros, referencia
-* Plan domiciliario
-* Oxigeno
-* Ambulancia, entre otras
+Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" como tipos causas, Inoportunidad en programación en prestador externo, Inoportunidad en reporte de prestador externo, Suministros, referencia, Plan domiciliario, Oxigeno, Ambulancia, entre otras.
 
 Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
 
@@ -37,7 +31,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
-![](Imagen 1 Concurrencia.png)
+![](Prueba.png)
 
 Para registrar una auditoría ingresamos a la aplicación, creamos un nuevo registro y diligenciamos el formulario.
 
