@@ -69,7 +69,7 @@ Agregamos un nuevo renglón y seleccionamos del campo Servicio, el servicio brin
 
 Finalmente guardamos los cambios en el renglón del detalle.
 
-## [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
+### [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
 
 En la pestaña *Visitas* del detalle, se deben registrar los servicios que se le están prestando al afiliado.
 
@@ -83,7 +83,7 @@ En el campo *Observación* se debe realizar una descripción de la visita del se
 
 Completando el renglón, se debe seleccionar en el campo *Id Responsable,* la persona que está diligenciando el registro. Seguidamente, indicar en el campo *Diagnóstico,* cuál fue el diagnóstico identificado en la visita y por último en el campo *Cargo* indicar el cargo de la persona que realiza o define el diagnóstico.
 
-## [Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
+### [Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
 
 La pestaña de *Eventos Adversos* permite registrar los diferentes eventos o situaciones adversas que se puedan presentar al momento de prestar el servicio al afiliado.
 
@@ -133,7 +133,7 @@ En el campo **_“Auditor Asignado”_** y **_“Nombre Auditor”_** de la mism
 
 ![](Imagen 16 Concurrencia.png)
 
-## [Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
+### [Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
 
 En la pestaña *“Detalle”* de la aplicación **EAUF – Auditoría Facturación** se visualiza el servicio que fue prestado al afiliado.
 
