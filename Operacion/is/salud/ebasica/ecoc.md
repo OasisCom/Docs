@@ -9,19 +9,13 @@ editable: si
 
 # ECOC - Concurrencia
 
-[1. Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-Concurrente)
-
-[1.1 Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
-
-[1.1.1 Pestaña Servicios](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Servicios)
-
-[1.1.2 Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
-
-[1.1.3 Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
-
-[2. Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-POS/ Cuentas-Médicas)
-
-[2.1 Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
+- [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-Concurrente)
+- [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
+- [Pestaña Servicios](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Servicios)
+- [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
+- [Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
+- [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-POS/ Cuentas-Médicas)
+- [Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
 
 
 Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.   
@@ -43,7 +37,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
-![](Prueba.png)
+![](Imagen 1 Concurrencia.png)
 
 Para registrar una auditoría ingresamos a la aplicación, creamos un nuevo registro y diligenciamos el formulario.
 
