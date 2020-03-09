@@ -168,4 +168,4 @@ Después de dar clic en el botón *“Auditada”,* el sistema creará un docume
 
 En los campos **_“Documento 1”_** y **_“Número 1”_** se puede visualizar la factura con la que se está relacionando la glosa, estos campos también nos sirve para consultar la factura auditada anteriormente en EAUF.
 
-![](Imagen 22 Concurrencia.png)
+![](Imagen 23 Concurrencia.png)
