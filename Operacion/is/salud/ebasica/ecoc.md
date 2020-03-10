@@ -53,7 +53,7 @@ Finalmente, damos clic en el botón *Guardar,* el sistema arrojará un mensaje d
 El registro del documento CU debe estar en estado *Activo* mientras el afiliado se encuentre en atención, una vez se le de salida, el registro se debe procesar.
 
 
-### [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente#Detalle-de-la-aplicación-ECOC-Concurrencia)
+### [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#Detalle-de-la-aplicación-ECOC-Concurrencia)
 
 **Pestaña Servicios**
 
@@ -101,7 +101,7 @@ Finalmente, el detalle de la aplicación *ECOC – Concurrencia* cuenta con tres
 
 Si al afiliado aún se le están brindando servicios de salud, el registro de la auditoría concurrente debe mantener en estado **ACTIVO.** En el momento que se dé de alta al afiliado o se termine la prestación del servicio, se debe procesar el registro y este pasará a estado **PROCESADO.**
 
-## [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente#Auditoría-POS/ Cuentas-Médicas)
+## [Auditoría POS / Cuentas Médicas](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#Auditoría-POS/Cuentas-Médicas)
 
 Por medio de la aplicación **EAUF – Auditoría Facturación,** se realiza el proceso para auditar las facturas radicadas en el RIP (Registro Individual de Prestación de Servicio). Esta auditoría es realizada por la EPS.
 
