@@ -377,7 +377,7 @@ Al verificar los datos contenidos en el archivo, digitamos la letra “F” para
 
 
 
-### [Proceso de traslado para los Regímenes Subsidiado y Contributivo](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov#proceso-de-traslado-para-los-regímenes-subsidiado-y-contributivo)
+### [Proceso de traslado para los Regímenes Subsidiado y Contributivo](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov#proceso-de-translado-para-los-regímenes-subsidiado-y-contributivo)
 
 Para realizar el proceso de traslados se debe ingresar a la aplicación EEMOV y realizar un nuevo registro diligenciando cada uno de los campos como se indica a continuación:
 
