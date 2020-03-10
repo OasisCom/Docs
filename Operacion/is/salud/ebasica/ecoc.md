@@ -8,16 +8,13 @@ editable: si
 ---
 # ECOC - Concurrencia
 
-Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.   
-Se crea en Concurrencia **[ECOC]** para el módulo de salud, la pestaña "Fuga" como tipos causas, Inoportunidad en programación en prestador externo, Inoportunidad en reporte de prestador externo, Suministros, referencia, Plan domiciliario, Oxigeno, Ambulancia, entre otras.
+Para determinar el estimado de dinero que se pierde por la NO oportunidad en los procesos de gestión de la concurrencia y demás áreas de salud.
+Se crea en Concurrencia - ECOC para el módulo de salud, la pestaña "Fuga" como tipos causas, Inoportunidad en programación en prestador externo, Inoportunidad en reporte de prestador externo, Suministros, referencia, Plan domiciliario, Oxigeno, Ambulancia, entre otras.
 
-- [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#auditoría-concurrente)
-- [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
-- [Pestaña Servicios](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Servicios)
-- [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
-- [Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
-- [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-POS/ Cuentas-Médicas)
-- [Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
+- [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente#auditoría-concurrente)
+- [Detalle de la aplicación ECOC](http://docs.oasis.com/Operacion/crm/portal/cliente#Detalle-de-la-aplicación-ECOC-Concurrencia)
+- [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente#Auditoría-POS/ Cuentas-Médicas)
+
 
 
 Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
@@ -25,7 +22,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 ![](ECOC11.png)
 
 
-## [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente/#auditoría-concurrente)
+## [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente#auditoría-concurrente)
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
@@ -56,10 +53,9 @@ Finalmente, damos clic en el botón *Guardar,* el sistema arrojará un mensaje d
 El registro del documento CU debe estar en estado *Activo* mientras el afiliado se encuentre en atención, una vez se le de salida, el registro se debe procesar.
 
 
-### [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
+### [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente#Detalle-de-la-aplicación-ECOC-Concurrencia)
 
-
-### [Pestaña Servicios](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Servicios)
+**Pestaña Servicios**
 
 En la pestaña *Servicios* del detalle, se debe relacionar el o los servicios que se le han brindado al afiliado desde su ingreso hasta que se da de alta.
 
@@ -69,7 +65,7 @@ Agregamos un nuevo renglón y seleccionamos del campo Servicio, el servicio brin
 
 Finalmente guardamos los cambios en el renglón del detalle.
 
-### [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
+**Pestaña Visitas**
 
 En la pestaña *Visitas* del detalle, se deben registrar los servicios que se le están prestando al afiliado.
 
@@ -83,7 +79,7 @@ En el campo *Observación* se debe realizar una descripción de la visita del se
 
 Completando el renglón, se debe seleccionar en el campo *Id Responsable,* la persona que está diligenciando el registro. Seguidamente, indicar en el campo *Diagnóstico,* cuál fue el diagnóstico identificado en la visita y por último en el campo *Cargo* indicar el cargo de la persona que realiza o define el diagnóstico.
 
-### [Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
+**Pestaña Eventos Adversos**
 
 La pestaña de *Eventos Adversos* permite registrar los diferentes eventos o situaciones adversas que se puedan presentar al momento de prestar el servicio al afiliado.
 
@@ -105,7 +101,7 @@ Finalmente, el detalle de la aplicación *ECOC – Concurrencia* cuenta con tres
 
 Si al afiliado aún se le están brindando servicios de salud, el registro de la auditoría concurrente debe mantener en estado **ACTIVO.** En el momento que se dé de alta al afiliado o se termine la prestación del servicio, se debe procesar el registro y este pasará a estado **PROCESADO.**
 
-## [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-POS/ Cuentas-Médicas)
+## [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente#Auditoría-POS/ Cuentas-Médicas)
 
 Por medio de la aplicación **EAUF – Auditoría Facturación,** se realiza el proceso para auditar las facturas radicadas en el RIP (Registro Individual de Prestación de Servicio). Esta auditoría es realizada por la EPS.
 
@@ -133,7 +129,7 @@ En el campo **_“Auditor Asignado”_** y **_“Nombre Auditor”_** de la mism
 
 ![](Imagen 16 Concurrencia.png)
 
-### [Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
+**Detalle aplicación EAUF – Auditoría Facturación**
 
 En la pestaña *“Detalle”* de la aplicación **EAUF – Auditoría Facturación** se visualiza el servicio que fue prestado al afiliado.
 
