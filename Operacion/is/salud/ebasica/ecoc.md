@@ -15,6 +15,16 @@ Se crea en Concurrencia - ECOC para el módulo de salud, la pestaña "Fuga" como
 - [Detalle de la aplicación ECOC](http://docs.oasis.com/Operacion/crm/portal/cliente#Detalle-de-la-aplicación-ECOC-Concurrencia)
 - [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente#Auditoría-POS/ Cuentas-Médicas)
 
+<<<<<<< HEAD
+=======
+- [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-concurrente)
+- [Detalle de la aplicación ECOC - Concurrencia](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-de-la-aplicación-ECOC-Concurrencia)
+- [Pestaña Servicios](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Servicios)
+- [Pestaña Visitas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Visitas)
+- [Pestaña Eventos Adversos](http://docs.oasis.com/Operacion/crm/portal/cliente/#Pestaña-Eventos-Adversos)
+- [Auditoría POS / Cuentas Médicas](http://docs.oasis.com/Operacion/crm/portal/cliente/#Auditoría-POS/ Cuentas-Médicas)
+- [Detalle aplicación EAUF – Auditoría Facturación](http://docs.oasis.com/Operacion/crm/portal/cliente/#Detalle-aplicación-EAUF-Auditoría-Facturación)
+>>>>>>> e95a7d6d7b32a24c9e9b0fb2e03986080aa9376c
 
 
 Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
@@ -22,7 +32,11 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 ![](ECOC11.png)
 
 
+<<<<<<< HEAD
 ## [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente#auditoría-concurrente)
+=======
+## [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-concurrente)
+>>>>>>> e95a7d6d7b32a24c9e9b0fb2e03986080aa9376c
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
