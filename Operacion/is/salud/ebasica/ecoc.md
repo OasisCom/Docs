@@ -14,7 +14,7 @@ Se crea en Concurrencia - ECOC para el módulo de salud, la pestaña "Fuga" como
 
 - [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-concurrente)
 - [Detalle de la aplicación ECOC](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#detalle-de-la-aplicación-ecoc)
-- [Auditoría POS / Cuentas Médicas](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-pos-cuentas-médicas)
+- [Auditoría POS / Cuentas Médicas](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría pos/cuentas médicas)
 
 
 Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
@@ -101,7 +101,7 @@ Finalmente, el detalle de la aplicación *ECOC – Concurrencia* cuenta con tres
 
 Si al afiliado aún se le están brindando servicios de salud, el registro de la auditoría concurrente debe mantener en estado **ACTIVO.** En el momento que se dé de alta al afiliado o se termine la prestación del servicio, se debe procesar el registro y este pasará a estado **PROCESADO.**
 
-## [Auditoría POS / Cuentas Médicas](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-pos-cuentas-médicas)
+## [Auditoría POS / Cuentas Médicas](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría pos/cuentas médicas)
 
 Por medio de la aplicación **EAUF – Auditoría Facturación,** se realiza el proceso para auditar las facturas radicadas en el RIP (Registro Individual de Prestación de Servicio). Esta auditoría es realizada por la EPS.
 
