@@ -25,7 +25,7 @@ Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clie
 ![](ECOC11.png)
 
 
-## [Auditoría Concurrente](http://docs.oasis.com/Operacion/crm/portal/cliente#auditoría-concurrente)
+## [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-concurrente)
 
 Por medio de la aplicación **ECOC – Concurrencia,** se registran las auditorías concurrentes realizadas a las IPS.
 
