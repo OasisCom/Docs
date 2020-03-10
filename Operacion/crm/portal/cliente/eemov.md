@@ -78,7 +78,7 @@ Diligenciados todos los campos requeridos, damos click en el botón _Guardar_ y 
 ![](eemov8.png)
 
 
-Seguidamente se encuentran los anexos, en donde digitaremos el número 1 en el campo del documento que se haya recibido por parte del afiliado, este campo se verá con una **X** en el formulario cuando se genere, también activaremos los flag de los demás anexos recibidos por parte del afiliado según se requieran.  
+Seguidamente se encuentran los anexos, en donde digitaremos el número 1 en el campo del documento que se haya recibido por parte del afiliado, este campo se verá con una **X** en el formulario cuando se genere, también activaremos los flag de los demás anexos recibidos por parte del afiliado según se requieran.
 
 
 
