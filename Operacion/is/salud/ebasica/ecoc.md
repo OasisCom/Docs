@@ -14,11 +14,8 @@ Se crea en Concurrencia - ECOC para el módulo de salud, la pestaña "Fuga" como
 
 - [Auditoría Concurrente](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#auditoría-concurrente)
 - [Detalle de la aplicación ECOC](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#Detalle-de-la-aplicación-ECOC-Concurrencia)
-**-Pestaña Servicios.
--Pestaña Visitas.
--Pestaña Eventos Adversos.**
 - [Auditoría POS / Cuentas Médicas](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc#Auditoría-POS/Cuentas-Médicas)
-**-Detalle aplicación EAUF – Auditoría Facturación**
+
 
 Cuando se realizan las novedades puedan consultarlo tanto por el clientid o clientcode, desplazando el cursor a la derecha de la opcion **ECOC.**
 
