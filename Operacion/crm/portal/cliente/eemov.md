@@ -359,7 +359,7 @@ A continuación, se procede a realizar la descarga de archivos en la aplicación
 
 **Publication:** se debe seleccionar el archivo #67 NS si el proceso corresponde al Régimen Subsidiado o archivo #57 si el proceso corresponde al Régimen Contributivo.
 
-**peration:** se escoge la opción Download (descargar).
+**Operation:** se escoge la opción Download (descargar).
 
 **Fecha Final:** se diligencia la fecha hasta donde se desea que el sistema tome los datos (los datos son tomados a partir de la fecha que se diligencia y las fechas anteriores a esta), utilizando el formato día/mes/año, separado por un slash.
 
