@@ -103,7 +103,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
->###### [E-Book: Procesos de manufactura esbelta desde la nube](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-MANUFACTURA-ESBELTA-MRP.pdf)
+>###### [E-Book: Procesos de manufactura esbelta desde la nube](http://docs.oasiscom.com/Mercadeo/e-books/ebook-manufactura-esbelta.pdf)
 
 
 

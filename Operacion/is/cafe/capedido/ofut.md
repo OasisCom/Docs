@@ -1,32 +1,15 @@
 ---
 layout: default
-title: Compras futuras
-permalink: /Operacion/is/cafe/capedido/ofut
+title: Ordenes
+permalink: /Operacion/is/cafe/capedido/OFUT
 editable: si
 ---
 
-# OFUT - Compras futuras
+# OFUT - Compras futuro
 
-La aplicación _OFUT - Compras Futuras_ muestra las condiciones del contrato, oferta y los datos generales del contrato a realizar.  
+Se registran las futuras ventas de café que el caficultor acuerda traer a la cooperativa; estas se pactan para ser entregadas en una fecha estimada.
 
-![](ofut.png)
-
-Para ingresar un nuevo registro, damos click en el botón ![](mas.png) de la barra de herramientas y diligenciamos el formulario con la información básica, información de pago, información del proveedor, la información de la orden y damos click en el botón inferior _Guardar_.  
-
-![](ofut1.png)
-
-En el detalle procedemos a ingresar los productos por los cuales se realizará el contrato.  
-
-![](ofut2.png)
-
-Registrados los productos es necesario procesar el documento de _Compras futuras_ dando click en el botón ![](procesar.png) ubicado en la barra de herramientas del maestro.  
-
-* Al ejecutar la vista preliminar este despliega el formulario con la particularidad que corresponde tipo documento  **Word**, otra opción es descargar e imprimirlo con extensión (.docx).  
-
-![](ofut3.png)  
-
-* Se realiza una modificación s.p. para que el caficultor pueda realizar compra de café por OFUT, OCAF; según la parametrización del producto si es por recursos propios o línea de financiamiento.  
-
+La operación también cuenta con 3 estados: Activo, procesado y anulado siendo el estatus procesado aquellas operaciones listadas para ser liquidadas en el momento que el tercero cumpla las fechas antes estipuladas.  
 
 
 

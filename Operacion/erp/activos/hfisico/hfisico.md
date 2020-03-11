@@ -5,16 +5,16 @@ permalink: /Operacion/erp/activos/hfisico/
 editable: si
 ---
 
-# INVENTARIO FISICO  
+# Inventario Fisico
 
 El submódulo de Inventario físico se utiliza para comparar los activos que se encuentran en el sistema con los activos que tiene la empresa de manera tangible o real.  
 
-Las aplicaciones que se utilizan en este submódulos son:  
+Las aplicaciones que se utilizan en estos submódulos son:  
 
-* **HPPU** - Prepara inventario activos  
+* **HPPU** - Prepara inventarios activos  
 * **HFIS** - Toma física  
 
-Si usted desea conocer más a fondo cómo se realiza todo el proceso de Inventario físico, por favor vaya al siguiente link que corresponde al producto Logístico, módulo Inventarios, submódulo Inventario físico.  
+Si usted desea conocer más a fondo cómo se realiza todo el proceso de Inventario físico, por favor vaya al siguiente enlace que corresponde al producto Logístico, módulo Inventarios, submódulo Inventario físico.
 
 
 

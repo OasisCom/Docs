@@ -5,9 +5,9 @@ permalink: /Operacion/erp/activos/hbasica/
 editable: si
 ---
 
-# DATOS BASICOS    
+# Datos Básicos
 
-En este submódulo es donde se realiza la parametrización y se valida la creación de los activos fijos, también se pueden editar las características de los mismos.  
+En este submódulo es donde se realiza la parametrización y se valida la creación de los activos fijos, también se pueden editar las características de estos.
 
 Este submódulo consta de las siguientes aplicaciones:  
 
