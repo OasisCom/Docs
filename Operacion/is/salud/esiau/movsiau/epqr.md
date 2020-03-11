@@ -7,6 +7,8 @@ editable: si
 
 # EPQR - Peticiones Quejas y Reclamos
 
+Esta ventana permite registrar peticiones, quejas, reclamos, felicitaciones que puedan reportar los afiliados. A su vez registrar actividades que se deberán hacer para solventarlas.
+
 
 - [Peticiones, Quejas y Reclamos](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr#peticiones-quejas-y-reclamos)
 - [Atención al usuario](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr#atención-al-usuario)
