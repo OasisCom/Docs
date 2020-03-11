@@ -6,6 +6,7 @@ editable: si
 ---
 
 # Menú
+
 - [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
 
 
@@ -155,7 +156,7 @@ El botón **info_ventas** en el detalle de la opción _VPED_, permite visualizar
 
 ![](vped14.png)
 
-## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
+## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Menú)
 
 Esta función permite ver el saldo por ubicación del detalle de un producto en especifico.
 
@@ -163,7 +164,7 @@ Para ver esta información se debe dar clic derecho sobre el detalle del product
 
 ![](vped53.png)
 
-Luego de esto nos aparecerá la siguiente ventana:
+Se podrá ver la siguiente ventana:
 
 ![](vped54.png)
 
