@@ -6,7 +6,7 @@ editable: si
 ---
 
 # Menú
-## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
+- [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
 
 
 # VPED - Pedidos
