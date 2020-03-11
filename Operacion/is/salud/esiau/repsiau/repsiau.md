@@ -14,5 +14,5 @@ La aplicación que se utiliza es: **ERPQ** - Consolidado de gestión PQR.
 
 
 
-**Consulta el manual de Peticiones, Quejas y Reclamos** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr)
+**Consulta el manual EPQR - Peticiones, Quejas y Reclamos** [**AQUÍ**](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr)
 
