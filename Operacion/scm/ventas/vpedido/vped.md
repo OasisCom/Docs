@@ -5,6 +5,10 @@ permalink: /Operacion/scm/ventas/vpedido/vped
 editable: si
 ---
 
+# Menú
+- [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
+
+
 # VPED - Pedidos
 
 Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa. Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
@@ -150,5 +154,20 @@ El botón **info_ventas** en el detalle de la opción _VPED_, permite visualizar
 ![](vped13.png)
 
 ![](vped14.png)
+
+## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
+
+Esta función permite ver el saldo por ubicación del detalle de un producto en especifico.
+
+Para ver esta información se debe dar clic derecho sobre el detalle del producto que deseamos ver y seleccionamos "**Ver saldo por Ubicacion**"
+
+![](vped53.png)
+
+Luego de esto nos aparecerá la siguiente ventana:
+
+![](vped54.png)
+
+
+
 
 
