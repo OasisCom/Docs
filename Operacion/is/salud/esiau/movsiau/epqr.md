@@ -100,7 +100,7 @@ Al ingresar un nuevo renglón, se deberá seleccionar si el caso se encuentra en
 
 Finalmente, guardamos el registro. Cuando el caso reportado se haya solventado, se debe procesar desde el maestro el documento con el fin de cerrarlo.
 
-##[Atención al usuario](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr#atención-al-usuario)
+## [Atención al usuario](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr#atención-al-usuario)
 
 La aplicación **EATE – Atención Usuario,** permite registrar la atención que se le brinda a los usuarios y los motivos de dicha atención, esto con el fin de tener un histórico.
 
