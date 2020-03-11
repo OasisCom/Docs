@@ -7,13 +7,13 @@ editable: si
 
 # HRPA - Balance de Prueba Ajustado
 
-La aplicación **HRPA** arroja un reporte de saldos en esquema multilibro con la informacion del módulo de activos fijos. Se observará la información tanto para Libro Local como para IFRS y las diferencias encontradas.  
+La aplicación **HRPA** arroja un reporte de saldos en esquema multi libro con la información del módulo de activos fijos. Se observará la información tanto para Libro Local como para IFRS y las diferencias encontradas.  
 
 Se realiza el filtro por periodo y año.  
 
 ![](hrpa.png)
 
-Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png) y el sistema arrojará el reporte correspondiente.  
+Ingresados los datos damos clic en el botón _Generar_ ![](actualizar.png) y el sistema arrojará el reporte correspondiente.  
 
 ![](hrpa1.png)
 
