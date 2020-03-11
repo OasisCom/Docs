@@ -7,6 +7,12 @@ editable: si
 
 # Saldos de Activos - HSSP
 
+En este módulo puedes realizar los siguientes movimientos:
+
+* [Ingreso de Activo Fijo por Compras OFAC](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#ingreso-de-activo-fijo-por-compras-ofac).
+* [Ingreso de Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#ingreso-de-activo-fijo-por-hmov)
+
+
 ## [Ingreso de Activo Fijo por Compras OFAC](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#ingreso-de-activo-fijo-por-compras-ofac)
 
 Realizado anteriormente  el movimiento de ingreso de Activo Fijo por Compras en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos), consultamos los activos en la aplicación HSSP y veremos que estos se encuentran valorizados por el Costo + IVA.
