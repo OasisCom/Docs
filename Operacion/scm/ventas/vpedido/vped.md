@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Pedidos
-permalink: /Operacion/scm/ventas/vpedido/vped
 editable: si
+permalink:/Operacion/scm/ventas/vpedido/vped
+
 ---
 
 # Menú
 
-- [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
+[TOC]
 
 
 # VPED - Pedidos
