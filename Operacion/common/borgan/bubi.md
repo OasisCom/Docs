@@ -23,6 +23,18 @@ Representa la división completa de las áreas o ubicaciones que conforman la em
 **Responsable:** Número de identificación del responsable de la ubicación organizacional.  
 **Grupo:** Si la ubicación organizacional pertenece a algún grupo que se haya parametrizado previamente en **BGRU**.  
 
+**Characteristic:** caracteristica previa parametrizacion del basico de caracteristicas **BCRC**.  
+
+![](bubi9.png)  
+
+
+**Banco:** Parametrizacion realizada en **BBAN** y aplicada en **BUBI** cuando es tipo banco.  
+**Cuenta Bancaria:** Serie numerica otorgada por el Banco.  
+**Tipo Cuenta Bancaria:** Pueden ser Ahorros, Corriente, Daviplata, Ahorro Colectivo entre otras.  
+
+
+******
+
 La pestaña Cajas en el detalle, permite registrar las diferentes cajas que utiliza la ubicación organizacional registrada en el maestro.  
 
 ![](bubi4.png)

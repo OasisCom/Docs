@@ -23,6 +23,11 @@ Allí se abre una nueva ventana donde podemos diligenciar los datos de nuestro t
 **Ubicación:** Número de la ubicación en la cual se está realizando la factura. 
 **Fecha:** Fecha del tiquete.  
 **Cliente:** Número de identificación de la persona que realiza el tiquete.  
+**Documento1:** siglas del documento que se asocia a la factura.  
+**Ubicación1:** ubicación del documento que se asocia a la factura.  
+**Número1:** número de documento que se asocia a la factura.  
+
+![](jfac14.png)
 
 Después de diligenciar los datos, damos click o tocamos en el icono de _Guardar_  ubicado en la parte superior derecha para guardar nuestro registro.  
 
@@ -64,7 +69,7 @@ Cuando ya hemos realizado tanto el registro como el detalle, volvemos a la pesta
 
 ### [Imprimir facturas](http://docs.oasiscom.com/Operacion/movil/jfac#imprimir-facturas)
 
-La aplicación Movil de OasisCom permite la impresión de las facturas procesadas desde dispositivos Android de la versión 4.4 en adelante, esto siempre y cuando el dispositivo se encuentre conectado a una impresora por vía blluetooth.  
+La aplicación Movil de OasisCom permite la impresión de las facturas procesadas desde dispositivos Android de la versión 4.4 en adelante y dispositivos IOS, esto siempre y cuando el dispositivo se encuentre conectado a una impresora por vía blluetooth.  
 
 Para imprimir una factura procesada damos click sobre la misma.
 
@@ -81,4 +86,11 @@ Al dar click en el botón ![](imprimir.png) el sistema arrojará un mensaje indi
 La factura impresa se visualizará de la siguiente manera:
 
 ![](jfac13.png)
+
+# [Impresión dinámica de facturas](http://docs.oasiscom.com/Operacion/movil/jfac#impresión-dinámica-de-facturas)
+
+El sistema permite realizar la impresión de facturas de manera dinámica de acuerdo a la parametrización de los diferentes formatos desde la versión WEB en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc). (_Ver aplicación_)  
+
+Parametrizado el formato deseado desde la versión WEB en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para el documento _FA_, al realizar la impresión de una factura en la aplicación Móvil de OasisCom, esta tomará el formato indicado anteriormente. Si se desea cambiar el formato, esto se deberá hacer de nuevo desde la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
+
 

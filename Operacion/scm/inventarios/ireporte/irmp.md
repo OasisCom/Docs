@@ -7,12 +7,27 @@ editable: si
 
 # Movimientos por Producto - IRMP
 
-Reporte que permite verificar los saldos de productos por su respectiva marca, este a su vez permite el filtro de sus datos por Locación, Producto y Marca.  
+Aplicación que permite consultar el histórico de las entradas (EN-FP-DE-DV etc.); salidas (SA- FA- DP etc.) por producto, en un determinado rango de fechas.  
+Realizar el agrupamiento por producto, ubicación. Discrimina documento, concepto, entrada, salida, costos de la transacción entre otros datos.  
 
-![](irmp1.png)
 
-**Producto:** Producto por el cual se desea consultar.  
-**Locación:** Locación por la que se desea filtrar.  
-**Marca:** Marca asociada a los productos.  
+![](irmp3.png)
+
+**Fecha inicial:** rango inicial del mes, que desea consultar.  
+**Fecha Final:** rango final del mes, que desea consultar.  
+**Libro:** parametrización del **KLIB** – libros.  
+**Ubicación:** número de ubicación de la empresa en donde se encuentra el producto.  
+**Producto:** código asignado en el momento de parametrizar el producto en BPRO.  
+**Periodo:** mes en la que se realizó el movimiento.  
+**Año:** año en la que se realizó el movimiento.  
+**Documento:** Nombre de documento parametrizado con anterioridad en la aplicación **BDOC**.   
+**Control:** código interno que se le asigna a cada producto **BCNT**.  
+**Conceptos:** se crean en BCON y se asocia documento concepto desde el **BDOC**.  
+
+
+![](irmp4.png)
+
+****
+
 
 

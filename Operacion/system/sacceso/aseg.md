@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Monitoring Cases
-permalink: /Operacion/System/sacceso/aseg
+permalink: /Operacion/system/sacceso/aseg
 editable: si
 ---
 
 ## Monitoring Cases - ASEG
 
-Para hacer seguimiento a los casos de soporte reportados desde la aplicación [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/System/sacceso/asop) en el sistema OasisCom, ingresaremos a la aplicación **ASEG - Monitoring Cases**, en donde se podrán observar las etapas en las que se encuentra el caso reportado. Para ingresar a esta aplicación hay dos opciones:  
+Para hacer seguimiento a los casos de soporte reportados desde la aplicación [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/asop) en el sistema OasisCom, ingresaremos a la aplicación **ASEG - Monitoring Cases**, en donde se podrán observar las etapas en las que se encuentra el caso reportado. Para ingresar a esta aplicación hay dos opciones:  
 
  * Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASEG.  
 
@@ -17,7 +17,7 @@ Para hacer seguimiento a los casos de soporte reportados desde la aplicación [*
 
 ![](ASEG2.png)
 
-Ubicados en la aplicación **ASEG** consultamos por el número de caso arrojado en la aplicación [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/System/sacceso/asop) y damos _Enter_.  
+Ubicados en la aplicación **ASEG** consultamos por el número de caso arrojado en la aplicación [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/asop) y damos _Enter_.  
 
 ![](ASEG3.png)
 

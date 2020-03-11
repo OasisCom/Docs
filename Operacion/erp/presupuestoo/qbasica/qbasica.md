@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Datos Basicos
+title: Datos Básicos
 permalink: /Operacion/erp/presupuestoo/qbasica/
 editable: si
 ---
 
-# DATOS BASICOS
-
+# DATOS BÁSICOS

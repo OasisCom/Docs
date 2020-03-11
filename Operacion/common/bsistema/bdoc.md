@@ -5,7 +5,23 @@ permalink: /Operacion/common/bsistema/bdoc
 editable: si
 ---
 
-## BDOC - Documentos
+# BDOC - Documentos
+
+**Menú**
+
+1. [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+2. [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
+3. [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
+4. [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
+5. [**Parametrización de formatos de impresión para facturas**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
+6. [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
+7. [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
+
+
+
+
+
+## [BDOC - Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
@@ -42,6 +58,7 @@ En la pestaña Conceptos del detalle, se parametrizan los conceptos por los cual
 **Moneda:** tipo de moneda que maneja el concepto.  
 **Grupo:** grupo al cual está relacionado el concepto.  
 **Contabilidad:** indicar la contabilidad que afectará el concepto, si afecta el libro local escribir L, si afecta la contabilidad IFRS escribir I.  
+**CodeExternal:** códigos adicional para la generación de información posterior.  
 
 Esta opción permite parametrizar los códigos los cuales indicarán el concepto por el cual se debe cargar la cuenta afectada, si a un gasto administrativo, gasto por ventas, si es una cuenta por pagar, de provisión, entre otras.  
 
@@ -49,8 +66,7 @@ En el maestro indicamos el documento al cual se le van a parametrizar los códig
 
 ![](bdoc1.png)
 
-
-## Inventario Periódico
+## [Inventario Periódico](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
 
 Para realizar el inventario periódico, es necesario parametrizar en la aplicación BDOC los documentos SA - Salidas del Inventario y EN - Entradas al Inventario. 
 
@@ -66,7 +82,9 @@ Al parametrizar el documento SA, se deberá agregar en el detalle el concepto SA
 **Automático:** activar el flag.  
 **Contabilidad:** indicar en el campo _Contabilidad_ la opción **Suma**.  
 **Inventario:** indicar en el campo _Inventario_ la opción **Resta**.  
+
 A los demás campos se les asignará la opción **Ninguno**.   
+
 **Programa:** digitar el programa _imov_.  
 **Orden:** ingresar el número 2.  
 **Módulo:** ingresar la letra **I** correspondiente al módulo de inventarios.  
@@ -101,7 +119,9 @@ Al parametrizar el documento EN, se deberá agregar en el detalle el concepto EA
 **Automático:** activar el flag.  
 **Contabilidad:** indicar en el campo _Contabilidad_ la opción **Suma**.  
 **Inventario:** indicar en el campo _Inventario_ la opción **Suma**.  
+
 A los demás campos se les asignará la opción **Ninguno**.   
+
 **Programa:** digitar el programa _imov_.  
 **Orden:** ingresar el número 1.  
 **Módulo:** ingresar la letra **I** correspondiente al módulo de Inventarios.  
@@ -135,3 +155,45 @@ Para calcular el flete, se debe configurar inicialmente el documento de la factu
 
 Seguidamente, ingresaremos a la aplicación [**OFAC - Facturas de Compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#contabilización-de-fletes) para generar la factura de compra.
 
+## [Parametrización de formatos de impresión](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
+
+En la aplicación **BDOC** asignamos a los documentos los formatos de impresión que han sido parametrizados previamente en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión). Para ello, ingremos a la aplicación y consultamos por el documento al cual se le realcionará el formato de impresión.  
+
+![](bdoc12.png)
+
+En el maestro se encuentra el campo _FormatNumber_, en el cual se digita el ID del formato parametrizado en la opción [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrización-de-formatos-de-impresión) que se desea imprimir para el documento consultado. Damos click sobre el registro del maestro y editamos el campo, en el ejemplo asignaremos el formato número 7, seguidamente damos click en _Guardar_.  
+
+![](bdoc13.png)
+
+El número de formato que sea parametrizado en BDOC, será el que se imprimirá en la aplicación correspondiente al documento en el cual se asignó.  
+
+
+## [Parametrización de formatos de impresión para facturas](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
+
+OasisCom cuenta con diferentes formatos para la impresión de facturas. Para asignar un tipo de formato al documento _FA - Facturas_ ingresamos a la aplicación BDOC y filtramos por el mismo.  
+
+![](bdoc9.png)
+
+BDOC cuenta con el campo _FormatNumber_ en el maestro, el cual se debe editar y allí mismo ingresar el número del formato correspondiente al deseado. Los formatos y su Id deben estar previamente parametrizados en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro). (_Ver aplicación_)  
+
+El _Número de Formato_ que sea parametrizado en BDOC para el documento _FA - Facturas_ será con el que se imprimirá la factura en la versión Móvil de OasisCom.  
+
+## [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
+
+Parametrizado el documento anteriormente en la aplicación [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos), ingresamos a la opción **BDOC** a consultar el documento y activar el flag _Automático_ para que los consecutivos sean asignados por el sistema.  
+
+![](bdoc10.png)
+
+Realizada la parametrización anterior, la aplicación será capaz de asignar un consecutivo de acuerdo al definido anteriormente en la aplicación [**BCNS - Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos), si el documento no tiene el flag _Automático_ activado, el sistema tomará el consecutivo ingresado manualmente en la aplicación.  
+
+Ingresamos a la aplicación tomada como ejemplo [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#secuencia-de-consecutivos) para verificar que los consecutivos se asignan automáticamente. (_Ver aplicación_)  
+
+## [Parametrización proceso análisis de calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
+
+En la aplicación **BDOC** se debe parametrizar el/los documento(s) y concepto(s) que serán utilizados en la opción [**AANA - Análisis de calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana).  
+
+En el maestro de BDOC se debe crear el documento _QA_ (Calidad) y en el campo _Programa_, se debe ingresar el nombre de la opción sobre la cual estará parametrizado el documento. En este caso, la opción AANA.  
+
+En el detalle de esta opción, se deben parametrizar los conceptos asociados a dicho documento, en este caso corresponderá a _QA_ (Calidad).  
+
+![](bdoc11.png)

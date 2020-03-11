@@ -160,5 +160,20 @@ En  [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob
 
 ![](PORD17.png)
 
+### Monto Autorizado
+
+* El sistema posee la funcionalidad, a nivel de autorización de pagos desde PORD (órdenes de pago);  Para control de montos según el nivel que tenga autorizado en **SUSU** 
+
+![](PORD19.png)
+
+Los rangos se parametrizan en **BRAN** segun: documento concepto.  
+
+![](PORD20.png)
+
+*************
+
+
+
+
 
 **Nota:** Los procesos anteriormente nombrados (cambio de fecha, cambio de banco, marcar todo y ordenar) se pueden realizar de manera masiva, es decir, se pueden seleccionar varios registros y dar click sobre el botón del proceso que deseamos realizar, este proceso se realizará para todos los registros seleccionados, se sugiere que si son muchos registros se realice el último paso (ordenar) por cada uno de los registros o de a tres registros para que el sistema procese más rápido los documentos. Por último, después de rectificar los datos, se debe procesar el registro en la aplicación [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/tesoreria/tmovimient/tmov.md), esto con el fin de que el cruce quede realizado de manera exitosa.  

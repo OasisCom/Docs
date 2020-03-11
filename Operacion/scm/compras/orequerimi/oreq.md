@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Requerimientos
+title: Requerimientos de Compras.
 permalink: /Operacion/scm/compras/orequerimi/oreq
 editable: si
 ---
 
-# Requerimientos - OREQ
+# Requerimientos de Compras- OREQ
 
-La aplicación **OREQ** como todas las aplicaciones de OasisCom se encuentran dividida en dos secciones, en el maestro permite el registro del encabezado de los requerimientos hechos por la empresa.
+La aplicación **OREQ** requerimiento de compras; puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
+Este documento es interno por lo que no debe ser utilizada como Orden de Compra.  
+Como todas las aplicaciones de OasisCom se encuentran dividida en secciones: maestro y detalle; en el maestro permite el registro del encabezado de los requerimientos hechos por la empresa; en la parte inferior se divide en pestañas: Detalle, Distribucion y Presupuesto
 
 ![](oreq.png)
 
@@ -36,6 +38,14 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
 •	**Descuento:** Porcentaje de descuento comercial acordado.  
 •	**Inventario:** Cantidad de unidades del producto que hay en inventario.  
 •	**Requerida:** Cantidad requerida del producto.  
+•	**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY].**   
+
+******
+* En la pestaña **Presupuesto:**  
+ Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
+ Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
+
+![](oreq3.png)
 
 
 

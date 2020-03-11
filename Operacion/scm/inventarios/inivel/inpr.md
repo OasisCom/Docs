@@ -9,6 +9,14 @@ editable: si
 
 Aplicación que permite la consulta de los niveles de stock por producto, en los cuales se ve reflejado los niveles en los saldos por cada producto.  
 
+**Azul - indica que el nivel de la bodega esta arriba del nivel máximo.  
+Verde - el nivel esta entre el reorden y el nivel máximo de la bodega.  
+Amarillo – su nivel está en el mínimo de reorden.  
+Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**  
+
+ejemplo1
+![](inpr2.png)
+ejemplo2
 ![](inpr1.png)
 
 

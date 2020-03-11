@@ -22,6 +22,7 @@ Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan
 **Nombre Tercero:** Nombre del tercero al cual afecta el movimiento.  
 **Estado:** Estado del documento (Activo, Procesado y Anulado).  
 **Moneda:** Campo que indica el tipo de moneda a manejar en la generación de los movimientos.  
+**Comprobante Fiscal:** ingresar el número de comprobante fiscal.  
 
 ![](PMOV2.png)
 
@@ -34,6 +35,7 @@ Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan
 **Total1:** Valor total en la moneda que se realiza el movimiento.  
 **Saldo:** Valor total del movimiento.  
 **Impreso:** Se selecciona cuando el documento ya ha sido impreso.  
+**Centro de costo:** Ingresar el centro de costo correspondiente al documento que se registra. Los centros de costo se parametrizan en la aplicación [**BUBI - Básico de ubicaciones**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).  
 
 El detalle especifica las cuentas contables que se están afectando con el movimiento u operación, su naturaleza, valor, centro de costo, base de retención, etc.  
 
@@ -69,8 +71,76 @@ El detalle especifica las cuentas contables que se están afectando con el movim
 **Amortizado:** Número de veces que se amortizará el movimiento.  
 **Documento:** Tipo de documento registrado.  
 
+* * Otro formato del PMOV en su vista prelimanar se visualizara asi al exportar a PDF, donde se totalizan sus valores por cada uno de sus libros.  
+
+![](PMOV17.png)
 
 
 
+## [Documento equivalente](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#documento-equivalente)
+
+Este formato tiene como finalidad cumplir con las normas de ley que debe contener el documento y a su vez incluir las empresas que que asumen la retencion de ICA y fuente para el mismo.  
+
+Para definir el formato de Documento Equivalente en algún documento de la aplicación PMOV, previamente se debe realizar la parametrización en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n), en donde consultaremos el número de formato (_Ver aplicación_). Seguidamente, continuar con la parametrización correspondiente en [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n) en donde asingaremos el formato el documento (_Ver aplicación_).  
+
+Asignado el formato al documento de la aplicación PMOV, seleccionamos el registro del maestro y damos click en el botón _presentación preliminar_ de la barra de herramientas.  
+
+![](pmov6.png)
+
+![](pmov7.png)
+
+El documento equivalente puede ser extraído en formato de Excel, PDF o Word.  
+
+![](pmov8.png)
+
+![](pmov9.png)
 
 
+### [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+
+Esta vista previa permite visualizar la información de la cuenta por pagar y adicionalmente conocer la afectación presupuestal.  
+
+Para realizar la parametrización de este formato primero debemos ingresar a la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n) para consultar el Id del formato presupuestal y asignarlo al documento CP. (_Ver aplicación SPRO_).  
+
+Realizada la parametrización, al seleccionar un registro de documento **CP** en la aplicación **PMOV** y dar click en el botón _Vista preliminar_ podremos ver la afectación de la cuenta por pagar a nivel contable y en la parte inferior la afectación presupuestal.  
+
+![](pmov10.png)
+
+
+## [Causaciones con AIU - Administración, Imprevistos y Utilidad](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causaciones-con-aiu---administración-imprevistos-y-utilidad)
+
+El proceso de causaciones con Administración, Imprevistos y Utilidad, tiene la finalidad de realizar el cálculo de impuestos para los servicios que lo requieran.
+
+#### Parametrización
+
+Para este proceso se debe inicialmente crear un impuesto tipo AIU en la aplicación [**BIMP - Impuestos**](http://docs.oasiscom.com/Operacion/common/bimpu/bimp).  
+
+En el detalle se debe agregar un renglón por cada porcentaje de impuesto.  
+
+![](pmov11.png)
+
+Seguidamente, tendremos que relacionar el anterior impuestos a un grupo de impuesto en la opción [**BTIM - Tipos de Impuestos**](http://docs.oasiscom.com/Operacion/common/bimpu/btim).  
+
+Relacionamos el impuesto _19 Administración, imprevistos y utilidad_ al tipo de impuesto correspondiente.  
+
+![](pmov12.png)
+
+En el campo _Renglón_ del detalle debemos traer el número del renglón que corresponda al porcentaje que se requiere asociar. En el anterior ejemplo asociamos el renglón **1** equivalente a **AIU 10%**.  
+
+**_Nota:_** Se debe tener en cuenta que para movimientos del producto ERP (Financiero) el sistema tomará el impuesto de acuerdo con el tercero y para movimientos del producto SCM (Logística) el sistema tomará el impuesto de acuerdo con el producto.  
+
+#### Proceso de Causación
+
+Ahora procedemos a realizar en PMOV la causación de un servicio con impuesto _AIU Administración, Imprevistos y Utilidad_.  
+
+Como la causación se realizará a un servicio correspondiente a ERP, en la aplicación **BTER - Terceros**, el tercero debe tener asignado el tipo de impuesto.  
+
+![](pmov13.png)
+
+En PMOV, creamos la causación de la cuenta por pagar, en el siguiente ejemplo está por un valor de $800.000.  
+
+En el detalle, podemos ver que tomó como base de retención $80.000, es decir, el 10% de $800.000. Recordando que asignamos el renglón **1** correspondiente a **AIU 10%**
+
+![](pmov14.png)
+
+Finalmente procesamos el movimiento.  

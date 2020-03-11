@@ -51,10 +51,13 @@ Finalmente, identificado el grupo al cual pertenece el producto, en la aplicaci�
 ![](bgru6.png)
 
 
+## [Parametrización para las transferencias de dinero](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#parametrización-para-las-transferencias-de-dinero)
 
+En la aplicación BGRU se parametriza el grupo 99 que hemos configurado previamente en la aplicación [**BIMP - Impuestos**](http://docs.oasiscom.com/Operacion/common/bimpu/bimp#parametrización-para-las-transferencias-de-dinero), allí debemos asociar los códigos de las retenciones y comisiones con sus respectivas cuentas:  
 
+![](bgru7.png)
 
-
+El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_
 
 
 

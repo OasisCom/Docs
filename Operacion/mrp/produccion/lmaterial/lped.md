@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Pedidos de produccion
-permalink: /Operacion/mrp/produccion/lproceso/lped1
+permalink: /Operacion/mrp/produccion/lmaterial/lped
 editable: si
 ---
 
-# PEDIDOS DE PRODUCCIÓN - LPED
+# PEDIDOS DE PRODUCCIÓN - LPED  
 
 
-Al dar clic en el icono ![](lped1.png), el sistema genera automáticamente un pedido de producción de la fábrica a la bodega de materia prima, esto se puede visualizar en la aplicación LPED – pedidos con los insumos que se deberían trasladar a la bodega de materia prima. 
+*   Al dar clic en el icono ![](lped1.png), el sistema genera automáticamente un pedido de producción de la fábrica a la bodega de materia prima, esto se puede visualizar en la aplicación LPED – pedidos con los insumos que se deberían trasladar a la bodega de materia prima.  
+Este proceso valida la separación de mercancía para un pedido de producción según la fecha de vencimiento, **más próxima a vencer**.  
 
 
 ![](lped2.png)
@@ -38,6 +39,7 @@ De igual manera si se realizó la respectiva parametrización para separar insum
 
 
 ![](lped6.png)
+
 
 
 Por otro lado, en la aplicación ISPL se puede visualizar los insumos reservados en el campo _“separada”_.

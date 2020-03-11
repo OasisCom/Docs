@@ -52,9 +52,11 @@ En el detalle se muestra la contabilización de cada documento, esta contabiliza
 **Centro Costo:** Identificación del centro de costo al cual pertenece la cuenta.  
 **Negocio:** Identificación numérica del negocio.  
 **Projectld:** Identificación numérica del proyecto.  
-**DocDocumento:** Especificación del documento al cual va afectar la transacción.  
+**DocDocumento:** Especificación del documento que va a afectar o cruzar, este campo posee zoom; debe dar doble clic y emite los documentos a seleccionar como se ilustra; el sistema realiza la sumatoria de los documentos. (previa parametrizacion **SPRO** para que realice la suma).  
+![](TMOV13.png)  
+
 **DocNumberld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
-**DocLocationld:** Registrando el DocDocumento este campo se diligencia automáticamente.  
+**DocLocationld:** Este campo, registrando el DocDocumento este campo se diligencia automáticamente.  
 **Base retención:** Valor al cual se le debe liquidar la retención que se le aplica de acuerdo al concepto.  
 
 
@@ -88,6 +90,33 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 **Banco:** Identificación numérica del banco al cual pertenece el cheque.  
 **Plaza:** Ciudad en la que genera el cheque.  
 
+## [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
+
+La aplicación TMOV permite obtener una vista previa de los comprobantes de egresos (CE), para ello, se debe parametrizar el número de formato para el documento **CE** en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). Este número de formato lo obtenemos al consultar por programa (tmov) en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). El formato se denomina _dw_i_movimiento_tes_pre_. (_Ver aplicaciones BDOC y SPRO_).  
+
+
+Para ir a la vista previa consultamos por el documento **CE** y seleccionamos el registro a visualizar. Damos click en el botón ![](lupa.png).  
+
+![](tmov7.png)
+
+Obtendremos la siguiente vista previa.  
+
+![](tmov8.png)
+
+* Otro formato del TMOV en su vista prelimanar se visualizara asi, donde se totalizan sus valores por cada uno de sus libros.  
+
+![](tmov10.png)
+
+
+
+
+
+
+El formato podrá ser exportado en formato de Excel, PDF o Word.  
+
+_PDF_
+
+![](tmov9.png)
 
 
 

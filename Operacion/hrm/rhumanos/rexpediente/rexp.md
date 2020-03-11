@@ -36,7 +36,10 @@ En los siguientes campos, ingresamos el nombre de donde se realizaron dichos est
 
 Agregamos un nuevo registro y en el campo _tipo experiencia_, digitamos el tipo de experiencia que se adecúe a la persona registrada en el maestro. Recordemos que los tipos de experiencia deben estar previamente parametrizados en **RBEX – Tipos de experiencias**.  
 
-En los siguientes campos, diligenciamos el nombre de la empresa en la cual se desempeñó, el teléfono, la ubicación geográfica, el cargo el cual desempeñaba y damos click en el botón _guardar_.
+En los siguientes campos, diligenciamos el nombre de la empresa en la cual se desempeñó, el teléfono, la ubicación geográfica, el cargo el cual desempeñaba y damos click en el botón _guardar_.  
+
+
+
 
 
 ![](rexp4.png)
@@ -54,7 +57,7 @@ Si es necesario, se agregan más registros.
 
 **Pestaña Familiares**
 
-En la pestaña _Familiares_ se registran las personas que viven con el contratado. Allí diligenciamos el tipo de familiar y el nombre de la persona. El tipo de familiar se parametriza en la aplicación **RBTF – Tipo de familiar**.
+En la pestaña _Familiares_ se registran las personas que viven con el contratado. Allí diligenciamos el tipo de familiar y el nombre de la persona. El tipo de familiar se parametriza en la aplicación **RBTF – Tipo de familiar**. Adicional se deben de diligenciar los campos: fecha cumpleaños, sexo, documento del familiar, factor RH; como se ilustra.  
 
 
 ![](rexp6.png)
@@ -78,6 +81,24 @@ En el campo _tipo de anotación_ diligenciamos el código correspondiente al tip
 
 
 ![](rexp8.png)
+
+**Pestaña Cursos**
+
+En esta pestaña se insertan los datos de los cursos que ha realizado el tercero, desde el **[RCAP]** se realiza la parametrización de la capacitaciónes realizadas y el curso desde **[RCUR]**.  
+
+![](rexp12.png)
+
+* Realizado el curso se edita y en detalle del **RCAP** se inserta el número de documento del tercero, este curso se reflejará en el expediente **REXP** ejemplo los cursos;  servicio al cliente y proceso de soporte.  
+
+![](rexp11.png)
+
+**********
+
+
+
+
+
+
 
 
 

@@ -62,3 +62,13 @@ Dando click en el botón ![](buscar.png) ubicado en la barra de herramientas se 
 
 
 ![](preliminar.png)
+
+
+**PARAMETRIZACION DE ENCUESTAS FORMATOS:**  
+
+Desde la opcion de Encuestas **[EENC]** aplica el proceso de creación, y grabación de formularios dinámicos ( controles nuevos radiobuttonlist - checkboxlist )  
+En la opcion de motivos **BMOT** inicia la parametrizacion para llevar a feliz termino las diferentes encuestas.  
+
+![](eenc11.png)  
+
+

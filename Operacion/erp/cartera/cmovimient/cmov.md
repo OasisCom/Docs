@@ -18,10 +18,11 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Concepto:** Código del Concepto por el cual se hace el movimiento. Este define automáticamente la afectación contable del movimiento, por tanto debe estar perfectamente definido.  
 **Motivo:** número que identifica un documento para casos especiales a nivel contable, se puede parametrizar los documentos por conceptos en la aplicación BDOC, los motivos se parametrizan desde la aplicación BPLA.  
 **Total:** Valor total por el cual de genera el movimiento.  
-
+**Comprobante Fiscal:** ingresar el número de comprobante fiscal.  
+**Proyecto:** ingresar el número de proyecto correspondiente al movimiento de cartera.  
+**Negocio:** ingresar el número de negocio correspondiente al movimiento de cartera.  
 
 ![](CMOV2.png)
-
 
 **Tercero:** Número de identificación del tercero responsable del movimiento.  
 **Nombre Tercero:** Nombre del tercero.  
@@ -32,9 +33,7 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Moneda:** Campo que indica el tipo de moneda a manejar en la generación de los movimientos.  
 **ExchangeRate:**  (Tipo de cambio) Valor equivalente de la moneda local dependiendo el tipo de moneda manejado en el movimiento.  
 
-
 ![](CMOV3.png)
-
 
 **Renglón:** Consecutivo generado que se manejan en el comprobante.  
 **Cuenta:** Identificación numérica de las cuentas afectadas.  
@@ -45,6 +44,3 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Negocio:** Identificación numérica del negocio.  
 **Proyecto:** Identificación numérica del proyecto.  
 **Base Retención:** Valor al cual se le debe liquidar la retención que se le aplica de acuerdo al concepto.  
-
-
-

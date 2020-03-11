@@ -7,11 +7,15 @@ editable: si
 
 # Saldo en Línea por Clasificación - IRSA
 
-Reporte que permite verificar los saldos de productos por su respectiva marca, este a su vez permite el filtro de sus datos por Locación, Producto y Marca.  
+Reporte que permite verificar los saldos en linea por su clasificación, este a su vez permite el filtro de sus datos por: periodo, año, clasificación, ubicacion y producto.  
+Adicional en el reporte **IRSA** puede verificar los costos promedio anteriores y el costo promedio actual; de cada uno de los productos con saldo.
 
-![](irsa1.png)
+![](irsa2.png)
 
-**Producto:** Producto por el cual se desea consultar.  
-**Locación:** Locación por la que se desea filtrar.  
-**Marca:** Marca asociada a los productos.  
+**Periodo:** mes que se desea consultar.  
+**Año:** año que desea filtrar.  
+**Clasificación:** codigo del BCLA donde se parametrizo el producto.  
+**Producto:** producto *[BPRO]* por el cual se desea consultar, puede utilizar el zoom de busqueda (doble click).  
+**Ubicación:** ubicación por la que se desea filtrar segun BUBI, puede utilizar el zoom de busqueda (doble click).  
+
 

@@ -5,7 +5,7 @@ permalink: /Operacion/common/bfinan/bpry
 editable: si
 ---
 
-# Proyectos - BPRY
+# BPRY - Proyectos
 
 Permite registrar los diferentes proyectos en los que trabajará la empresa.  
 
@@ -13,8 +13,8 @@ Permite registrar los diferentes proyectos en los que trabajará la empresa.
 
 **Proyecto:** Número que se le asignará al nuevo proyecto que se registra.  
 **Nombre proyecto:** Nombre del nuevo proyecto que se registra.  
-**Documento:** Tipo de documento que genera el proyecto, ejemplo PY.  
-**Concepto:** Concepto por el cual se crea el proyecto, puede ser por implementación, soporte, desarrollo, entre otros.  
+**Documento:** seleccionar del zoom el tipo de documento que genera el proyecto, ejemplo PY.  
+**Concepto:** seleccionar del zoom el concepto por el cual se crea el proyecto, puede ser por implementación, soporte, desarrollo, entre otros.  
 **Contrato:** Número de contrato del proyecto.  
 **Ubicación:** Número de ubicación del proyecto, en caso tal que la empresa maneje varias empresas.  
 **Centro costo:** Número de centro de costo dentro de la empresa al cual pertenece el proyecto que se ingresa.  
@@ -28,10 +28,16 @@ Permite registrar los diferentes proyectos en los que trabajará la empresa.
 **Fecha final plan:** Fecha final en la cual se planea finalizar el proyecto.  
 **Fecha real inicial:** Fecha real en la cual se inicia el proyecto.  
 **Fecha final real:** Fecha real en la cual se finaliza el proyecto.  
+**Observación:** hacer una descripción de lo que se realizará en el proyecto.  
+**Status:** Seleccionar el status en el que se encuentra el proyecto: _Activo, Planeado, Ejecutado, Congelado, Terminado._  
+**Avance:** indicar el porcentaje de avance en el que se encuentra el proyecto.  
+**Estado:** Los proyectos que se inactiven deben quedar bloqueados para realizar créditos (solicitudes); en el modulo de cartera, los créditos que ya están otorgados por dicho proyecto se mantiene el estado. Este aplica para facturas **FFAC**  y movimientos de tesoreria **TMOV**.  
+**Ubicación Geografica:** Dato que se parametriza en **BUBG** este campo posee zoom de busqueda.  
 
 
 
 
+****
 
 
 

@@ -38,7 +38,7 @@ Para las siguientes secciones: vehículos, activos intangibles, inmuebles, muebl
 
 ![](hact4.png)
 
-Finalizada la edición de las características del activo fijo en el maestro, nos dirigimos a la pestaña del detalle llamada **_Distribución_**, dicho detalle también ha sido creado por el registro hecho anteriormente en la aplicación  [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov).  
+Finalizada la edición de las características del activo fijo en el maestro, nos dirigimos a la pestaña del detalle llamada **_Depreciación_**, dicho detalle también ha sido creado por el registro hecho anteriormente en la aplicación  [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov).  
 
 El detalle especifica la depreciación del activo fijo para el libro 0 (Contabilidad nacional) y el libro 1 (IFRS).  
 
@@ -49,3 +49,7 @@ Igualmente, se permite elegir el estado en el que se encuentra el activo fijo, y
 ![](hact5.png)
 
 Finalmente, damos click en el botón ![](hact6.png) _Guardar_ del detalle.  
+
+En la pestaña **_Distribución_** se distribuye el gasto de la depreciación para diferentes centros de costo.  
+
+![](hact7.png)

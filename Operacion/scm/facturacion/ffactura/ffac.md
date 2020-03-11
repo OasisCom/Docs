@@ -9,6 +9,12 @@ editable: si
 
 La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
 
+Cuando se procesa un documento de facturación de ventas y este tiene retención de ICA (RIC), el sistema llevará el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta que para esto la retención de ICA va a aplicar por dirección en el documento FC o el que corresponda para factura de venta.  
+
+* El proceso de retenciones se realiza adicionando código de cuenta 'RFT' para acumular la retención diaria.
+Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha de las facturas de venta, acumulando por el dia.  
+
+
 ![](ffac1.png)
 
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
@@ -34,6 +40,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 ![](ffac3.png)
 
 **Observación:** Para el manejo de aclaraciones adicionales.  
+**Comprobante Fiscal:** para las transacciones de República Dominicana, por medio de un cálculo automático se obtiene el número de comprobante fiscal. El sistema no habilitará este campo para que sea editado manualmente.  
 **Bruto:** Es la sumatoria de los valores de los productos que van en la factura.  
 **Descuento:** Valor total del descuento a la factura actual.  
 **SubTotal:** Es el valor bruto menos el descuento.  
@@ -44,7 +51,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 **Impreso:** Check que indica si la factura ya fue impresa.  
 **Proyecto:** número de proyecto al cual va asignada la factura.  
 
-Pestaña Detalle
+## [Pestaña Detalle](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-detalle)
 
 Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.  
 
@@ -71,12 +78,13 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos y que es ingresado en la entrada de producción (Si Aplica).  
 **Remisión:** Número de la remisión (documento de salida del inventario en la bodega) El sistema permite incluir en una misma factura varias remisiones, para ello el cliente en **BTER** (Aplicación de registro de terceros) debe estar deshabilitado el indicador de factura por Remisión.  
 **Pedido:** Compuesto por dos campos donde indica la ubicación y número del pedido que origino la transacción.  
+**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
 
 Al final del detalle se totaliza las cantidades y valor bruto de los productos facturados, estos valores son calculados a medida que se incluyen nuevos renglones o productos.
 
 La opción importar archivo facilita la digitación de los productos y cantidades que componen el detalle mediante la importación (traída) o lectura de un archivo en Excel que los contenga.
 
-Pestaña Pago
+## [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
 
 Registro de la forma de pago de dicha factura, en las ventas a crédito estos datos son diligenciados automáticamente. Esta pestaña es de vital importancia para facturas con pago de contado para el registro de la cantidad en efectivo y / o cheque(s) con la cual se cancela la factura, el sistema se acomoda a las últimas disposiciones legales de pago con tarjeta de crédito donde se debe indicar el monto de IVA que causan los productos facturados.
 
@@ -89,9 +97,9 @@ Registro de la forma de pago de dicha factura, en las ventas a crédito estos da
 **Base impuesto:** Valor sobre el cual se calculó el impuesto.  
 **Impuesto:** Valor del impuesto.  
 **Tercero:** Identificación y nombre del tercero al cual se factura.  
-**Documento:** Tipo de documento relacionado con la factura.  
-**Número:** Número del documento relacionado con la factura.  
-**Ubicación:** Ubicación del documento relacionado con la factura.  
+**Doc Documento:** permite seleccionar del zoom multiples documentos con los que se requiera hacer cruces con la factura.  
+**Doc Número:** Número del documento relacionado con la factura.  
+**Doc Ubicación:** Ubicación del documento relacionado con la factura.  
 
 ![](ffac7.png)
 
@@ -114,7 +122,7 @@ Registro de la forma de pago de dicha factura, en las ventas a crédito estos da
 **Banco:** Código del Banco (Número de compensación).  
 **Plaza:** Ciudad de radicación de la cuenta corriente del cheque.  
 
-Pestaña Contabilización
+## [Pestaña Contabilización](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)
 
 La pestaña de Contabilización permite visualizar la contabilización que realiza el sistema automáticamente.  
 
@@ -138,13 +146,71 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
 
+## [Pestaña Contabilización Resumida]  
+
+Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
+
+![](ffac21.png)
+
+# [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
+
+Este proceso permite enlazar en la opción **FFAC** los documentos de las exportaciones _XEXP_ para así poder terminar con el ciclo de la exportación.  
+
+Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicaicón FFAC para así ser facturado.  
+
+Documento EX en estado Activo con renglón en el detalle Procesado.  
+
+![](xexp.png)
+
+Es posible asociar varias exportaciones en una sola factura, para ello inicialmente debemos asociar un documento de una exportación en el maestro y las demás las relacionaremos en el detalle.  
+
+Para asociar la exportación en el maestro de la factura, ingresamos el documento, el número de consecutivo y la ubicación.  
+
+![](ffac10.png)
+
+En el detalle, agregamos un nuevo renglón e ingresamos el producto de la factura para posteriormente validar el zoom de exportaciones pendientes.  
+
+En el campo _Id Orden_ damos click derecho e ingresamos en la opción _**Exportaciones pendientes**_.  
+
+![](ffac14.png)
+
+Seleccionamos del zoom las exportaciones que deseamos relacionar en la factura.  
+
+![](ffac15.png)
+
+Las exportaciones se reflejarán en el detalle de la factura.  
+
+![](ffac16.png)
+
+En los campos Doc Documento1, se mostrará el número del documento EX asociado.  
+
+![](ffac17.png)
+
+Al procesar la factura, se podrá visualizar la actualización de las exportaciones en el renglón del detalle facturado en el campo **Entregado** con la cantidad inicialmente designada al producto y debe también actualizar el estado de los mismos a terminado (letra **T**).  
 
 
+![](ffac11.png)
 
+# [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
 
+Al generar una factura de venta se debe asignar una moneda con la cual se realizará la transacción. A dicha moneda, es posible parametrizarle el grupo de cuentas contables de las cuales dependerá. Las monedas se parametrizan en la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
 
+En el siguiente ejemplo crearemos una factura de venta con moneda 0 correspondiente a pesos colombianos. El campo _Moneda_ tiene un zoom que nos permite ver las monedas y seleccionar la necesaria.  
 
+![](ffac12.png)
 
+Zoom moneda  
 
+![](ffac13.png)
 
+Para consultar el grupo de cuentas contables de las cuales depende la moneda 0, ingresamos a la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon) y consultamos por moneda 0.  
 
+![](bmon.png)
+
+Podemos ver que la moneda 0 tiene asignado el grupo de cuentas 0. A continuación, para conocer las cuentas contables que tiene asociadas este grupo ingresamos a la opción [**BGRU - Grupos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru) y consultamos por el grupo 0. En el detalle, consultaremos por el código _CXC_ correspondiente a cuentas por cobrar y allí veremos la cuenta contable de la cual depende la moneda 0.  
+
+![](bgru.png)
+
+Este proceso también aplica para las facturas por compras, en donde el código de consulta será _CXP_ correspondiente a cuentas por pagar.  
+
+![](bgru1.png)

@@ -28,6 +28,19 @@ En la pestaña Motivos en el detalle, se asignan los distintos motivos por los c
 **Motivo:** número del motivo que será asignado al concepto. Motivo previamente parametrizado en **BMOT**.  
 **Nombre motivo:** nombre asignado al motivo en **BMOT**.  
 
+# [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones)
+
+Para realizar la liquidación de una exportación, se debe tener en cuenta la parametrización realizada en la aplicación BCON en los campos _Liquidación, Clase, Orden, Producto, Moneda, Estado_ y _Fórmula_.  
+
+![](bcon3.png)
+
+**Liquidación:** al activar el check, indicará que el concepto se utiliza en la liquidación final del costo de la exportación.  
+**Clase:** indica que el concepto se liquida a nivel de maestro o detalle de la exportación.  
+**Orden:** indica la secuencia lógica de cálculo de los conceptos a liquidar.  
+**Producto:** indica el código de producto a evaluar en una posible formulación.  
+**Moneda:** indica la moneda origen del concepto a evaluar.  
+**Estado:** indica el estado del concepto de liquidación.  
+**Fórmula:** en este campo se ingresará la fórmula a evaluar en el concepto.  
 
 
 

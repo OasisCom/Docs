@@ -13,6 +13,10 @@ Esta opción muestra la contabilización de la nómina, por cada documento segú
 
 ![](nnmc1.png)
 
+* Formato que permite visualizar el asiento contable e imprmir.  
+
+![](nnmc2.png)
+
 
 
 

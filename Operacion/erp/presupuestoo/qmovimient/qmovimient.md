@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Movimientos de Presupuesto Oficial
+title: Movimientos
 permalink: /Operacion/erp/presupuestoo/qmovimient/
 editable: si
 ---
 
-# MOVIMIENTOS DE PRESUPUESTO OFICIAL
-
+# MOVIMIENTOS

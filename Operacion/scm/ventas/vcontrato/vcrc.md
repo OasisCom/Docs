@@ -7,6 +7,8 @@ editable: si
 
 # Renueva Contrato - VCRC
 
+La aplicación VCRC permite consultar los contratos de venta y así mismo renovarlos siendo el caso.  
+
 ![](vcrc1.png)
 
 **Documento:** tipo de documento CV - Renueva Contrato.  
@@ -17,16 +19,16 @@ editable: si
 **Nombre Tercero:** Nombre del tercero al cual se renueva el contrato.  
 **InitialDate:** Fecha inicial del contrato renovado.  
 **Fecha final:** fecha final o de vencimiento del contrato renovado.  
-**PeriodType:** doble clic y seleccionar tipo de periodo en que se acuerda la facturación (mensual, bimestral, trimestral, semestral, anual).  
+**PeriodType:** seleccionar tipo de periodo en que se acuerda la facturación (mensual, bimestral, trimestral, semestral, anual).  
 
 ![](vcrc2.png)
 
 **Duración:** Duración numérica según tipo de periodo asignado y fechas del contrato. Si el contrato se demora dos años y el pago es mensual tendrá una duración de 24 meses.  
 **Ejecutado:** número de meses ejecutados del total de la duración del contrato.  
 **NextInvoice:** fecha en la que se debe emitir la siguiente factura.  
-**Renovación:** doble clic y seleccionar tipo de renovación (Automática o Previo Acuerdo).  
-**FormalityContract:** doble clic y seleccionar la formalidad del contrato, si fue hecho verbalmente, en físico o ninguno.  
-**Renueva:** doble clic y seleccionar si el contrato se Renueva, se Termina o Ninguno.  
+**Renovación:** seleccionar de la lista el tipo de renovación (Automática, Previo Acuerdo, Sin renovación).  
+**FormalityContract:** seleccionar la formalidad del contrato, si fue hecho verbalmente, en físico o ninguno.  
+**Renueva:** seleccionar si el contrato se Renueva, se Termina o Ninguno.  
 
 
 

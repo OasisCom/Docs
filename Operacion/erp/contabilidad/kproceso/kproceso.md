@@ -16,3 +16,4 @@ En esta sección podrán encontrar las aplicaciones de la generación de los dif
 - Inicio de año
 - Recalculo contable
 - Genera Ajustes
+- Saldos diarios
