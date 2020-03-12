@@ -9,6 +9,6 @@ editable: si
 
 En esta sección podrán encontrar las aplicaciones de parametrización del módulo de contabilidad:
 
-- Libros
-- Formatos
-- Distribución de costos
+- **KLIB**	Libros  
+- **KBFO**	Formatos  
+- **KBDI**	Distribución de costos
