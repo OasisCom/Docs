@@ -46,8 +46,11 @@ En la siguiente pantalla se ingresa el detalle del primer producto a mover, usan
 
 ![](mimov6.png)
 
+Los campos adicionales se deberan llenar dependiendo de como este configurado el producto en **bpro**
 
 ![](mimov7.png)
+
+
 El botón **siguiente** permitirá ingresar otro producto diferente que quedará en el mismo movimiento.
 
 El botón **Terminar Movimiento** validará los datos y procesará el movimiento si los datos ingresados son correctos.

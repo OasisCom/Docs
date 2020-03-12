@@ -1670,6 +1670,8 @@
                       url: /Operacion/is/salud/efactura/movaud/ecen
                 - text: Procesos
                   url: /Operacion/is/salud/efactura/profac/
+                    - text: Recibos
+                      url: /Operacion/is/salud/efactura/profac/erec                 
                 - text: Reportes
                   url: /Operacion/is/salud/efactura/repfac/
             - text: Alto Costo
