@@ -20,7 +20,7 @@ Diligenciamos los campos:
 **Real:** Se debe marcar los libros reales como lo son Contabilidad 0, IFRS (NIIF) 1, FISCAL 2, se deja sin marcar los libros virtuales que se pueden componer de varios libros.  
 
 
-En el detalle se puede observar el número del libro y a la vez el código del detalle del mismo.
+En el detalle se puede observar el número del libro y a la vez el código del detalle de este.
 
 
 ![](KLIB2.png)
