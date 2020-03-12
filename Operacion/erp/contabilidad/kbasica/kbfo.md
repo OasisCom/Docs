@@ -21,13 +21,13 @@ En el maestro se parametrizarán cada uno de los formatos a presentar con la sig
 **Nombre formato:** el nombre correspondiente al formato.  
 **Fuente:** en este campo se debe seleccionar fuente _contable_, ya que la información se tomará de la parte contable del sistema.  
 **Periodicidad:** en este caso para medios magnéticos se seleccionará _anual_.  
-**Comparativo:** pra medios magnéticos seleccionar la opción _ninguno_.  
+**Comparativo:** para medios magnéticos seleccionar la opción _ninguno_.  
 **Grupo:** para medios debe ir el número 0.  
 **Factor:** ingresar el número 1 para medios magnéticos.  
 **Proceso:** seleccionar el proceso al que pertenece el formato, _medios_.  
 **Id impuesto:** número de identificación del impuesto.  
 
-Diligenciados los campos, guardamos el registro dando click en el botón _Guardar_ del maestro.  
+Diligenciados los campos, guardamos el registro dando clic en el botón _Guardar_ del maestro.  
 
 Una vez parametrizado el maestro se debe realizar la parametrización de cada formato en la pestaña **Detalle**.  
 
@@ -46,7 +46,7 @@ En esta pestaña se deben parametrizar cada uno de los subcódigos que pertenece
 ![](naturaleza.png)
 
 **Base:** Este check deberá ser marcado para determinar que el sistema llevará la información de cuantías menores al tercero parametrizado en el campo Tercero.  
-**BaseRetención:** En este campo se deberá colocar la base de retención, la cual el sistema buscará para los que no sobrepasen esta base se llevará la información al tercero parametrizado.  
+**Base Retención:** En este campo se deberá colocar la base de retención, la cual el sistema buscará para los que no sobrepasen esta base se llevará la información al tercero parametrizado.  
 **Tercero:** Este check deberá ser marcado para determinar que el sistema llevará la información al tercero parametrizado en el campo Tercero.  
 **Tercero:** Se deberá colocar el código del tercero al cual se llevara la información que no sobrepase la base anteriormente parametrizada. Este tercero deberá existir en el básico de terceros **BTER**.  
 
@@ -69,7 +69,7 @@ En la segunda pestaña **CUENTAS** se llevará a cabo la parametrización de cad
 **Factor:** para los medios Magnéticos debe ir el número uno _1_.  
 **Destino:** corresponde a la columna en la cual deseamos ver la información, generalmente es _Valor_.  
 
-Finalmente, diligenciados los campos correspondientes, guardamos el registro dando click en el botón _Guardar_ del detalle.  
+Finalmente, diligenciados los campos correspondientes, guardamos el registro dando clic en el botón _Guardar_ del detalle.  
 
 Cuando ya se han parametrizado los formatos en la aplicación KBFO, el sistema OASISCOM está listo para la generación de dichos medios, teniendo en cuenta la información que reposa en contabilidad.  
 
@@ -93,7 +93,7 @@ Ingresamos a la aplicación KBFO, agregamos un nuevo registro y diligenciamos lo
 **Proceso:** seleccionar de la lista desplegable la opción _DECLARACIÓN_.  
 **Id impuesto:** ingresar el número _0_.  
 
-Diligenciados los campos del maestro, damos click en el botón _Guardar_ ubicado en la barra de herramientas y nos dirigimos al detalle de la aplicación, en donde se registrarán los campos contenidos en el Formulario 350 de la Dian.  
+Diligenciados los campos del maestro, damos clic en el botón _Guardar_ ubicado en la barra de herramientas y nos dirigimos al detalle de la aplicación, en donde se registrarán los campos contenidos en el Formulario 350 de la Dian.  
 
 ![](350.png)
 
