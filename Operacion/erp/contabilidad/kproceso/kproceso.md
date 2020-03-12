@@ -9,11 +9,12 @@ editable: si
 
 En esta sección podrán encontrar las aplicaciones de la generación de los diferentes procesos que se pueden obtener en el módulo de contabilidad:
 
-- Cierre de resultados 
-- Diferencia en cambio 
-- Distribución de costos
-- Generación de formatos
-- Inicio de año
-- Recalculo contable
-- Genera Ajustes
-- Saldos diarios
+- **KPCR**	Cierre de resultados  
+- **KPDC**	Diferencia en cambio  
+- **KPDI**	Distribución de costos  
+- **KPGF**	Generación de formatos  
+- **KPIA**	Inicio año contabilidad  
+- **KPRECAL**	Recálculo contable mensual  
+- **KPGA**	Genera Ajustes  
+- **KPRT**	Reserva técnica
+

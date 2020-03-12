@@ -9,9 +9,9 @@ editable: si
 
 En esta sección podrán encontrar las aplicaciones de saldos del módulo de contabilidad:
 
-- Saldos de contabilidad
-- Saldos por periodo y terceros
-- Balance por periodo 
-- Saldos por periodo y centro de costo
-- Saldos por periodo y negocio
-- Saldos por periodo y proyecto
+- **KSSP**	Saldos de contabilidad  
+- **KSPT**	Saldo periódico auxiliar terceros  
+- **KSAU**	Balance periódico auxiliar  
+- **KSPC**	Saldo periódico auxiliar centro de costo  
+- **KSPN**	Saldo periódico auxiliar negocio  
+- **KSPP**	Saldo periódico auxiliar proyecto  
