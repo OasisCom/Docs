@@ -46,11 +46,11 @@ En la siguiente pantalla se ingresa el detalle del primer producto a mover, usan
 
 ![](mimov6.png)
 
+
+![](mimov7.png)
 El botón **siguiente** permitirá ingresar otro producto diferente que quedará en el mismo movimiento.
 
 El botón **Terminar Movimiento** validará los datos y procesará el movimiento si los datos ingresados son correctos.
-
-![](mimov7.png)
 
 Si el proceso se realiza satisfactoriamente aparecerá el siguiente mensaje:
 
