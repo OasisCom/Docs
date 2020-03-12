@@ -5,9 +5,9 @@ permalink: /Operacion/erp/activos/hreporte/
 editable: si
 ---
 
-# REPORTES  
+# Reportes
 
-En este submódulo se pueden visualizar diferentes clases de reportes relacionados con los procesos de los activos fijos y la impresión de los mismos.  
+En este submódulo se pueden visualizar diferentes clases de reportes relacionados con los procesos de los activos fijos y la impresión de estos.
 
 Las aplicaciones que se utilizan en este submódulo son:  
 

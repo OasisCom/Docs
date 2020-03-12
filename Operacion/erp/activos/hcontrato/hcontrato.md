@@ -5,7 +5,7 @@ permalink: /Operacion/erp/activos/hcontrato/
 editable: si
 ---
 
-# CONTRATOS  
+# Contratos
 
 En este submódulo, se realizan los procesos relacionados con la contratación para el mantenimiento de los activos fijos.  
 
