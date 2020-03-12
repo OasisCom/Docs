@@ -6,7 +6,7 @@ editable: si
 ---
 
 
-#**ETER** - Prestadores  
+# **ETER** - #Prestadores  
 
 Adición de campos informativos del prestador (IPS), para que la EPS tenga mayor conocimiento de la capacidad instalada.
 
