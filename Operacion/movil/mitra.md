@@ -35,7 +35,8 @@ En **Numero 1** Damos clic al botón **Buscar**
 Digitamos el número de **Factura de Compra** creada anteriormente para este
 movimiento y seleccionamos la factura correspondiente
 
-![](mitra34.png)
+![](mitra54.png)
+
 
 Se mostrará el listado de productos relacionados en la **Factura de Compra** indicada  anteriormente.
 
