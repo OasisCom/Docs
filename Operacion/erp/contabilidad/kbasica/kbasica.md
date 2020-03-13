@@ -5,10 +5,10 @@ permalink: /Operacion/erp/contabilidad/kbasica/
 editable: si
 ---
 
-# DATOS BASICOS
+# Datos Básicos
 
 En esta sección podrán encontrar las aplicaciones de parametrización del módulo de contabilidad:
 
-- **KLIB**	Libros  
-- **KBFO**	Formatos  
-- **KBDI**	Distribución de costos
+- [**KLIB**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/klib)	Libros  
+- [**KBFO**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo)	Formatos  
+- [**KBDI**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbdi)	Distribución de costos
