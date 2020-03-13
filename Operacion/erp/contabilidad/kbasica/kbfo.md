@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kbasica/kbfo
 editable: si
 ---
 
-# FORMATOS - KBFO
+# Formatos - KBFO
 
 - [Medios Magnéticos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#medios-magnéticos)
 - [Formato 350 - Retención en la Fuente](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#formato-350---retención-en-la-fuente)

@@ -1674,8 +1674,12 @@
                 - text: Procesos
                   url: /Operacion/is/salud/efactura/profac/
                   subitems:                  
+                    - text: Confirmaciones por organización
+                      url: /Operacion/is/salud/efactura/profac/eerec
                     - text: Recibos
-                      url: /Operacion/is/salud/efactura/profac/erec                 
+                      url: /Operacion/is/salud/efactura/profac/erec
+                    - text: RIPS
+                      url: /Operacion/is/salud/efactura/profac/erip                      
                 - text: Reportes
                   url: /Operacion/is/salud/efactura/repfac/
             - text: Alto Costo
