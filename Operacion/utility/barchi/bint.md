@@ -376,7 +376,7 @@ El archivo _xml_ se verá de la siguiente manera:
 
 # [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
-Para realizar el proceso de cargue y validación de **RIPS,** ingrese a la aplicación **BINT – Interfaces.** 
+Para realizar el proceso de cargue y validación de **RIPS,** ingrese a la aplicación [**BINT – Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#bint-interfaces) 
 
 ![](Imagen 1 BINT.png)
 
