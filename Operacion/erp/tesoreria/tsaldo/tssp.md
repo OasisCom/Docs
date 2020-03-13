@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Saldos por Periodo
+title: Saldos de Tesorería
 permalink: /Operacion/erp/tesoreria/tsaldo/tssp
 editable: si
 ---
 
-## Saldos por Periodos - TSSP
+## Saldos de Tesorería - TSSP
 
 En esta aplicación se pueden consultar los saldos por periodos de las ubicaciones definidas como cajas, permite filtrar por los diferentes campos que la componen.  
 
