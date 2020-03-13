@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saldos de Tesoreria
+title: Saldos
 permalink: /Operacion/erp/tesoreria/tsaldo/
 editable: si
 ---
