@@ -14,14 +14,14 @@ El submódulo está diseñado con parametrización lo más sencilla y general po
 
 Las ventanas que componen este submódulo son:  
 
-* Datos Básicos  
-* Saldos
-* Movimientos 
-* Comprobantes Repetitivos  
-* Medios Magnéticos 
-* Formatos Contabilidad  
-* Procesos Especiales  
-* Reportes  
+* [Datos Básicos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica)
+* [Saldos](http://docs.oasiscom.com/Operacion/erp/contabilidad/ksaldo)
+* [Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient)
+* [Comprobantes Repetitivos](http://docs.oasiscom.com/Operacion/erp/contabilidad/krepetitiv)
+* [Medios Magnéticos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmedios)
+* [Formatos Contabilidad](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos)
+* [Procesos Especiales](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso)
+* [Reportes](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte)
 
 
 
