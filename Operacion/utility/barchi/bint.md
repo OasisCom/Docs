@@ -26,7 +26,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 10. [**Certificado de Ingresos y Retenciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)  
 11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
-13. [**Validación de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#validación-de-rips)
+13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
 
 # [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
@@ -374,9 +374,9 @@ El archivo _xml_ se verá de la siguiente manera:
 
 ![](bint50.png)
 
-# [**Validación de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#validación-de-rips)
+# [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
-Para realizar el proceso de cargue y validación de **RIPS,** ingrese a la aplicación **BINT – Interfaces.** 
+Para realizar el proceso de cargue y validación de **RIPS,** ingrese a la aplicación [**BINT – Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#bint-interfaces) 
 
 ![](Imagen 1 BINT.png)
 
@@ -394,6 +394,6 @@ Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingres
 
 ![](Imagen 2 BINT.png)
 
-Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC.**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
+Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
 
 
