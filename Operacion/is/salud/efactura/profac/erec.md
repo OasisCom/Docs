@@ -7,15 +7,15 @@ editable: si
 
 # EREC - Recibos  
 
-##Validación de RIPS  
+## Validación de RIPS  
 
 El cargue de **RIPS** es realizado por el prestador externo por medio de la aplicación **BINT - Interfaces** tal como se explica en el manual de [**Cargue de RIPS**]().  
 
-Cargados los RIPS en el sistema por parte del prestador, la EPS debe ingresar a la aplicación **EREC - Recibos** para consultar y radicar las facturas. Estas facturas tendrán asignado el status _**Cargado**_ apenas sean subidas por el prestador.  
+Cargados los RIPS en el sistema por parte del prestador, la EPS debe ingresar a la aplicación **EREC - Recibos** para consultar y radicar las facturas. Estas facturas tendrán asignado el status _**Cargado**_ cuando sean subidas por el prestador.  
 
 ![](erec.png)
 
-El sistema validará los RIPS cargados con un proceso interno que verifica la malla validadora una vez el prestador cargue el archivo, de estar correcta la información, asignará el status _**“Validado”**_ a la factura y si encuentra algún error asignará el status _**Rechazado**_.  
+El sistema validará los RIPS cargados con un proceso interno que verifica la malla validadora una vez el prestador cargue el archivo, de estar correcta la información, asignará el status _**Validado**_ a la factura y si encuentra algún error asignará el status _**Rechazado**_.  
 
 _Validado_
 
@@ -33,7 +33,7 @@ En el detalle de la aplicación **EREC - Recibos** están las pestañas correspo
 
 ![](erec2.png)
 
-Identificados los recibos con estado _**Validado**_ para radicar, la EPS debe ingresar a la aplicación [**ERIP - RIPS**]() y genera la radicación de las facturas. (_Consultar aplicación ERIP_).  
+Identificados los recibos con estado _**Validado**_ para radicar, la EPS debe ingresar a la aplicación [**ERIP - RIPS**]() y generar la radicación de las facturas. (_Consultar aplicación ERIP_).  
 
 
 
