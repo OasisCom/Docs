@@ -32,7 +32,7 @@ Ingresados los datos, damos click en el botón _Generar_.
 
 ![](erip3.png)
 
-Seguidamente, una vez generada la radicación de las facturas en la aplicación **ERIP - Recibos**, el sistema creará un documento _**FS**_ en estado **“Activo”** en la aplicación [**EFAC - Facturas**]() por cada una de las facturas contenidas en el recibo. _(Consultar aplicación EFAC para continuar con el proceso)_  
+Seguidamente, una vez generada la radicación de las facturas en la aplicación **ERIP - Recibos**, el sistema creará un documento _**FS**_ en estado **“Activo”** en la aplicación [**EFAC - Facturas**]() por cada una de las facturas contenidas en el recibo. _(Consultar aplicación EFAC para continuar con el proceso)._  
 
 
 
