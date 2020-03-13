@@ -13,3 +13,4 @@ El cargue de **RIPS** es realizado por el prestador por medio de la aplicación 
 
 
 Cargados los RIPS en el sistema por parte del prestador, la EPS debe ingresar a la aplicación **EREC - Recibos** y consultar por el status _“Validado”_ para generar la radicación de estas facturas. Aparecen los recibos cargados por el prestador.
+
