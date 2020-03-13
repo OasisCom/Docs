@@ -1666,7 +1666,10 @@
                   url: /Operacion/is/salud/efactura/confac/
                 - text: Facturas
                   url: /Operacion/is/salud/efactura/movfac/
-                - text: Auditoria Medica
+                  subitems:                  
+                    - text: Facturas
+                      url: /Operacion/is/salud/efactura/movfac/efac                  
+                - text: Auditoría Médica
                   url: /Operacion/is/salud/efactura/movaud/
                   subitems:
                     - text: Censo Hospitalario

@@ -21,12 +21,19 @@ Identificados en la aplicación EREC los recibos a radicar con estado _**Validad
 
 ![](erip1.png)
 
-**Ubicación:** ingresar la ubicación en la cual se cargó el RIPS.  Esta ubicación es la que se visualiza en EREC.
+**Ubicación:** ingresar la ubicación en la cual se cargó el RIPS.  Esta ubicación es la que se visualiza en EREC.  
 
-**Ubicación1:** corresponde a la ubicación en la cual se van a generar las facturas contenidas en el recibo, es decir, la ubicación en la cual van a quedar causadas las facturas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+**Ubicación1:** corresponde a la ubicación en la cual se van a generar las facturas contenidas en el recibo, es decir, la ubicación en la cual van a quedar causadas las facturas.                                                                                 
 
 **Régimen:** seleccionar el régimen al que corresponde el recibo, Subsidiado o Contributivo.  
 
 
 Ingresados los datos, damos click en el botón _Generar_.  
+
+![](erip3.png)
+
+Seguidamente, una vez generada la radicación de las facturas en la aplicación **ERIP - Recibos**, el sistema creará un documento _**FS**_ en estado **“Activo”** en la aplicación [**EFAC - Facturas**]() por cada una de las facturas contenidas en el recibo. _(Consultar aplicación EFAC para continuar con el proceso)._  
+
+
+
 
