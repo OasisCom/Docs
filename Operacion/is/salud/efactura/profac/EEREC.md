@@ -5,4 +5,5 @@ permalink: /Operacion/is/salud/efactura/profac/eerec
 editable: si
 ---
 
-# EEREC - Recibos  
+# EEREC - Aplicación  
+
