@@ -24,7 +24,7 @@ Creamos un nuevo movimiento
 
 ![](mitra2.png)
 
-En este caso se realiza movimiento interno de **almacenamiento**(AL) Por **Factura de Compra**(FP)
+En este caso se realiza movimiento interno de **almacenamiento**(AL) Por **Factura de Compra**(FP).
 
 Ingresamos **Ubicación 1**, la cual hace referencia a la ubicación en la que se va a almacenar la mercancia.
 
