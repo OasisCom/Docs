@@ -11,7 +11,7 @@ editable: si
 
 El cargue de **RIPS** es realizado por el prestador externo por medio de la aplicación **BINT - Interfaces** tal como se explica en el manual de [**Cargue de RIPS**]().  
 
-Cargados los RIPS en el sistema por parte del prestador, la EPS debe ingresar a la aplicación **EREC - Recibos** para consultar y radicar las facturas. Estas facturas tendrán asignado el status _**Cargado**_ apenas sean subidas por el prestador.  
+Cargados los RIPS en el sistema por parte del prestador, la EPS debe ingresar a la aplicación **EREC - Recibos** para consultar y radicar las facturas. Estas facturas tendrán asignado el status _**Cargado**_ cuando sean subidas por el prestador.  
 
 ![](erec.png)
 
