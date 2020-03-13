@@ -1652,6 +1652,9 @@
                   url: /Operacion/is/salud/eautorizacion/movurgencia/
                 - text: Referencia y Contrareferencia
                   url: /Operacion/is/salud/eautorizacion/movref/
+                  subitems:
+                    - text: Referencia y Contrareferencia
+                      url: /Operacion/is/salud/eautorizacion/movref/ercf                  
                 - text: Procesos
                   url: /Operacion/is/salud/eautorizacion/prorec/
                 - text: Reportes
@@ -1663,13 +1666,23 @@
                   url: /Operacion/is/salud/efactura/confac/
                 - text: Facturas
                   url: /Operacion/is/salud/efactura/movfac/
-                - text: Auditoria Medica
+                  subitems:                  
+                    - text: Facturas
+                      url: /Operacion/is/salud/efactura/movfac/efac                  
+                - text: Auditoría Médica
                   url: /Operacion/is/salud/efactura/movaud/
                   subitems:
                     - text: Censo Hospitalario
                       url: /Operacion/is/salud/efactura/movaud/ecen
                 - text: Procesos
                   url: /Operacion/is/salud/efactura/profac/
+                  subitems:                  
+                    - text: Confirmaciones por organización
+                      url: /Operacion/is/salud/efactura/profac/eerec
+                    - text: Recibos
+                      url: /Operacion/is/salud/efactura/profac/erec
+                    - text: RIPS
+                      url: /Operacion/is/salud/efactura/profac/erip                      
                 - text: Reportes
                   url: /Operacion/is/salud/efactura/repfac/
             - text: Alto Costo

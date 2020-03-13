@@ -498,7 +498,7 @@ Los nombres del afiliado los arrojará el sistema automáticamente.
 
 **Dirección de emigración:** digitar la dirección en la cual atenderán al afiliado
 **Barrio de emigración:** indicar el barrio en el cual atenderán al afiliado.
-**Celular:** número de celular del afiliado.
+**Celular:** número de celular del afiliado.****
 **Teléfono fijo:** número fijo del afiliado
 **Correo:** correo electrónico del afiliado.
 **Escenario receptor:** dar clic en la lupa y seleccionar la IPS en la cual atenderán al afiliado en el municipio receptor.
