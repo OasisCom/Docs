@@ -7,7 +7,7 @@ editable: si
 
 # EREC - Recibos  
 
-##Validación de RIPS  
+## Validación de RIPS  
 
 El cargue de **RIPS** es realizado por el prestador externo por medio de la aplicación **BINT - Interfaces** tal como se explica en el manual de [**Cargue de RIPS**]().  
 
