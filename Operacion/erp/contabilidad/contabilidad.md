@@ -5,23 +5,24 @@ permalink: /Operacion/erp/contabilidad/
 editable: si
 ---
 
-# CONTABILIDAD
+# Contabilidad
 
 
 La contabilidad es el conjunto de conocimientos y funciones que tienen por objeto la elaboración, comunicación, auditoría, análisis e interpretación de la información acerca de la situación económica y financiera de la empresa, para que tanto terceras personas como los directivos de la empresa puedan adoptar sus decisiones.  
 
-El submódulo está diseñado con parametrización lo más sencilla y general posible, permitiendo al usuario definir de manera muy fácil los atributos relevantes dentro de cada entidad. Su diseño está ajustado exactamente a los últimos decretos de ley, específicamente con lo relacionado al Plan Único de Cuentas (PUC), normas internacionales y manejo multipropósito.  Con respecto al plan de cuentas el usuario puede definir tantos niveles y subniveles como desee sin que exista ninguna restricción.  
+El submódulo está diseñado con parametrización lo más sencilla y general posible, permitiendo al usuario definir de manera muy fácil los atributos relevantes dentro de cada entidad. Su diseño está ajustado exactamente a los últimos decretos de ley, específicamente con lo relacionado al Plan Único de Cuentas (PUC), normas internacionales y manejo multipropósito.  Con respecto al plan de cuentas, el usuario puede definir tanto niveles o subniveles como desee, sin que exista ninguna restricción.  
 
 Las ventanas que componen este submódulo son:  
 
-*	**DATOS BÁSICOS**  
-*	**SALDOS**  
-*	**MOVIMIENTOS**  
-*	**COMPROBANTES REPETITIVOS**  
-*	**MEDIOS MAGNÉTICOS**  
-*	**FORMATOS CONTABILIDAD**  
-*	**PROCESOS ESPECIALES**  
-*	**REPORTES**
+* Datos Básicos  
+* Saldos
+* Movimientos 
+* Comprobantes Repetitivos  
+* Medios Magnéticos 
+* Formatos Contabilidad  
+* Procesos Especiales  
+* Reportes  
+
 
 
 
