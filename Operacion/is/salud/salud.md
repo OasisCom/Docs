@@ -16,3 +16,17 @@ Por otra parte, gestión de todo el proceso de aseguramiento de los afiliados a 
 En cuanto al tema de autorizaciones, maneja el registro de los servicios autorizados con la gestión y control de los procedimientos contratados para su posterior validación en la radicación de las facturas.  
 
 Todos estos procesos se integran con consultorios médicos, hospitales, centros de salud IPS, todo en la nube y con acceso desde dispositivo móvil.   
+
+
+## Procesos de acceso de externos a plataforma OasisCom
+
+- [Validación de RIPS](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
+- [Aplicación EEREC](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
+- [Contratos - EECNC]()
+- [Aplicación Solicitud de Autorizaciones Hospitalarias - EESOA]()
+- [Aplicación Consulta de Solicitud de Autorizaciones - EERSA]()
+- [Aplicación de Notificación de Urgencias – EENOU]()
+- [Aplicación Consulta de Notificación de Urgencia - EERNU]()
+- [Aplicación de Solicitud de Referencia - EERCF]()
+- [Aplicación de Conciliación de Glosas – EEACO]()
+- [Pagos - ETRPF]()
