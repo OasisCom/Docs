@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Referencia y Contrareferencia
-permalink: /Operacion/is/salud/eautorizacion/ercf/
+permalink: /Operacion/is/salud/eautorizacion/movref/ercf
 editable: si
 ---
 
