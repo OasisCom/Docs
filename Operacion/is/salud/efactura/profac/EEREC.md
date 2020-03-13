@@ -9,5 +9,6 @@ editable: si
 
 La aplicación **EEREC** nos permite visualizar el cargue de [**RIPS.**]()  
 
-Para consultar el estado de RIPS cargado, digite el número de este en el campo **Recibo**
+Para consultar el estado de RIPS cargado, digite el número de este en el campo **Recibo.**
 
+![](Imagen 1 EEREC.png)
