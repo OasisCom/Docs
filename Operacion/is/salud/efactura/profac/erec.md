@@ -33,7 +33,4 @@ En el detalle de la aplicación **EREC - Recibos** están las pestañas correspo
 
 ![](erec2.png)
 
-Identificados los recibos con estado _**Validado**_ para radicar, la EPS debe ingresar a la aplicación [**ERIP - RIPS**]() y generar la radicación de las facturas. (_Consultar aplicación ERIP_).  
-
-
-
+Identificados los recibos con estado _**Validado**_ para radicar, la EPS debe ingresar a la aplicación [**ERIP - RIPS**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/erip) y generar la radicación de las facturas. _(Consultar aplicación ERIP)_.  
