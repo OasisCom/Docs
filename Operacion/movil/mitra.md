@@ -33,7 +33,7 @@ En **Numero 1** Damos clic al botón **Buscar**
 ![](mitra33.png)
 
 Digitamos el número de **Factura de Compra** creada anteriormente para este
-movimiento y seleccionamos la factura correspondiente
+movimiento y seleccionamos la factura correspondiente.
 
 ![](mitra54.png)
 
