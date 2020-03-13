@@ -7,6 +7,14 @@ editable: si
 
 # FORMATOS - KBFO
 
+- [Medios Magnéticos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#medios-magnéticos)
+- [Formato 350 - Retención en la Fuente](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#formato-350---retención-en-la-fuente)
+- [Parametrización de medios magnéticos para el Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-de-medios-magnéticos-para-el-ingreso-de-activo-fijo-por-compras)
+- [Parametrización Estado Situación Financiera](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera)
+- [Parametrización Formatos Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-formatos-chip-presupuestal)
+
+
+
 ## [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#medios-magnéticos)
 
 En la aplicación **KBFO** se realiza toda la parametrización correspondiente a los formatos de contabilidad requeridos como lo es medios magnéticos, formatos para la DIAN, entre otros. Esta aplicación se encuentra en el módulo de contabilidad dentro de la carpeta de datos básicos.  
