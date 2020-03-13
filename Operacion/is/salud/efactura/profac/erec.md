@@ -1,19 +1,15 @@
 ---
 layout: default
-title: Procesos
-permalink: /Operacion/is/salud/efactura/profac/
+title: Recibos
+permalink: /Operacion/is/salud/efactura/profac/erec
 editable: si
 ---
 
-# PROCESOS  
+# EREC - Recibos  
 
-En la ventana de procesos, se pueden realizar operaciones relacionadas con RIPS (Registros individuales de prestación de los servicios de salud), recibos,    
+##Cargue y Validación de RIPS
 
-Las aplicaciones relacionadas con esta ventana son:  
+El cargue de **RIPS** es realizado por el prestador por medio de la aplicación **BINT - Interfaces** tal como se explica en el manual de [**Cargue de RIPS**]().
 
-* **EEREC** - Confirmaciones por organización  
-* **EREC** - Recibos  
-* **ERIP** - RIPS  
-* **GENV** - Envío  
-* **ERAV** - Valida archivo AF  
 
+Cargados los RIPS en el sistema por parte del prestador, la EPS debe ingresar a la aplicación **EREC - Recibos** y consultar por el status _“Validado”_ para generar la radicación de estas facturas. Aparecen los recibos cargados por el prestador.
