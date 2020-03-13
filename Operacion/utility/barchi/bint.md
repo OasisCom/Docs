@@ -26,7 +26,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 10. [**Certificado de Ingresos y Retenciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)  
 11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
-13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#validación-de-rips)
+13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
 
 # [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
@@ -374,7 +374,7 @@ El archivo _xml_ se verá de la siguiente manera:
 
 ![](bint50.png)
 
-# [**Validación de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#validación-de-rips)
+# [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
 Para realizar el proceso de cargue y validación de **RIPS,** ingrese a la aplicación **BINT – Interfaces.** 
 
