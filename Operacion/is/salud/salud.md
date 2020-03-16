@@ -22,7 +22,7 @@ Todos estos procesos se integran con consultorios médicos, hospitales, centros 
 
 - [Validación de RIPS](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 - [Aplicación EEREC](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
-- [Contratos - EECNC]()
+- [Contratos - EECNC](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/eecnc)
 - [Aplicación Solicitud de Autorizaciones Hospitalarias - EESOA]()
 - [Aplicación Consulta de Solicitud de Autorizaciones - EERSA]()
 - [Aplicación de Notificación de Urgencias – EENOU]()
