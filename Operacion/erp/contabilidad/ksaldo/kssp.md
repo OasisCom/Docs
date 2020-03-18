@@ -5,9 +5,9 @@ permalink: /Operacion/erp/contabilidad/ksaldo/kssp
 editable: si
 ---
 
-## SALDOS POR PERIODO - KSSP
+## Saldos por Periodo - KSSP
 
-En la aplicación Saldos por Periodo se puede verificar los saldos por cuenta, se pueden consultar filtrando por cuenta, periodo, año, también se verifica los movimientos débitos, créditos y saldos a la fecha.
+En la aplicación **Saldos por Periodo** se puede verificar los saldos por cuenta, se pueden consultar filtrando por cuenta, periodo, año, también se verifica los movimientos débitos, créditos y saldos a la fecha.
 
 ![](KSSP1.png)
 
