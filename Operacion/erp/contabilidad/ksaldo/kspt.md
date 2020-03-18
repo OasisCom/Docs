@@ -7,9 +7,9 @@ editable: si
 
 ---
 
-## Saldo Periodico Auxiliar Tercero - KSPT
+## Saldo Periódico Auxiliar Tercero - KSPT
 
-El objetivo de la aplicación Saldo Per. Aux. **KSPT** es consultar los saldos del periodo filtrando por el número de tercero. 
+El objetivo de la aplicación Saldo Periódico Auxiliar **KSPT** es consultar los saldos del periodo filtrando por el número de tercero. 
 
 ![](KSPT1.png)
 
