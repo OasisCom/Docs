@@ -7,9 +7,10 @@ editable: si
 
 # SALDOS DE CUENTAS POR PAGAR  
 
-En este submódulo se pueden ver los saldos de las cuentas que se deben a los proveedores.  
+Este submódulo permite ver los saldos de las cuentas que se deben a los proveedores actualizados y además, permite visualizar los saldos anteriores.  
 
-La aplicación que se utiliza en este submódulo es:  
+Las aplicaciones que se utilizan en este submódulo son:  
 
-* **PSSP**  - Saldos por periodo
+* **PSSP**  - Saldos por periodo  
+* **PCAC**  - Análisis de cuentas vencidas
 
