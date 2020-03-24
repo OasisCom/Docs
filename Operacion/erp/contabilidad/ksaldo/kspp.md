@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/ksaldo/kspp
 editable: si
 ---
 
-## Saldo Per. Aux. Proyecto - KSPP
+## Saldo Periódico Auxiliar Proyecto - KSPP
 
 Esta aplicación nos permite visualizar los saldos periódicamente de los proyectos, se puede filtrar por año, cuenta, proyecto.
 
@@ -52,6 +52,5 @@ Nos permite identificar cuando existen diferencias entre maestro y detalle descu
 
 ![](kspp3.png)
 
-*****
 
 
