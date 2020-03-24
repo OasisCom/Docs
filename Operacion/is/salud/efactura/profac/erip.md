@@ -27,12 +27,11 @@ Identificados en la aplicación EREC los recibos a radicar con estado _**Validad
 
 **Régimen:** seleccionar el régimen al que corresponde el recibo, Subsidiado o Contributivo.  
 
-
 Ingresados los datos, damos click en el botón _Generar_.  
 
 ![](erip3.png)
 
-Seguidamente, una vez generada la radicación de las facturas en la aplicación **ERIP - Recibos**, el sistema creará un documento _**FS**_ en estado **“Activo”** en la aplicación [**EFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/salud/efactura/movfac/efac) por cada una de las facturas contenidas en el recibo. _(Consultar aplicación EFAC para continuar conhttp://docs.oasiscom.com/Operacion/is/salud/efac el proceso)._  
+Seguidamente, una vez generada la radicación de las facturas en la aplicación **ERIP - Recibos**, el sistema creará un documento _**FS**_ en estado **“Activo”** en la aplicación [**EFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/salud/efactura/movfac/efac) por cada una de las facturas contenidas en el recibo. _(Consultar aplicación EFAC para continuar con el proceso)._  
 
 
 
