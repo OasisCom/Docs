@@ -7,7 +7,7 @@ editable: si
 
 # EERSA - Aplicación Consulta de Solicitud de Autorizaciones
 
-Por medio de la aplicación **EERSA** podemos visualizar, descarga e imprimir todas las autorizaciones generadas en la aplicación [EESOA](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa)
+Por medio de la aplicación **EERSA** podemos visualizar, descarga e imprimir todas las autorizaciones generadas en la aplicación [**EESOA - Solicitud de Autorizaciones Hospitalarias**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa)
 
 ![](Imagen 1 eersa.png)
 
