@@ -19,4 +19,4 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ![](bcue2.png)
 
-### [Parametrización cuenta activos fijos]
+### [Parametrización activos fijos]
