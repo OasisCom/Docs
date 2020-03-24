@@ -23,4 +23,4 @@ Para conocer el proceso de **_Cargue y Validación de RIPS_**, consulta en orden
 2. [**EEREC - Confirmaciones por organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)  
 3. [**EREC - Recibos**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/erec)  
 4. [**ERIP - RIPS**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/erip)  
-5. [**EFAC - Factuas**](http://docs.oasiscom.com/Operacion/is/salud/efactura/movfac/efac)
+5. [**EFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/salud/efactura/movfac/efac)
