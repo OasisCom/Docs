@@ -25,7 +25,9 @@ Iniciamos con la parametrización de la clasificación del producto, esto se rea
 Adicionamos un registro nuevo, indicamos el id de la clasificación, el nivel y padre de la misma, el nombre, activamos el flag en el campo imputable, en el campo mano de obra vamos a registrar el costo estándar de la mano de obra que se utilizará o que se gastará a nivel de dinero para producir una unidad de la camisa sencilla, por último, en el campo Indirecto registraremos el costo estándar de los costos indirectos de fabricación (CIF) que se gastarán al realizar una unidad de la camisa sencilla.  
 
 
-![](bcla1.png)![](bcla2.png)
+![](bcla1.png)![](bcla2.png)  
+
+### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#parametrización-para-el-módulo-activos-fijos)
 
 
 

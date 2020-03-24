@@ -9,9 +9,9 @@ editable: si
 
 ## [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)
 
-De acuerdo a la normatividad vigente el rubro cancelado por concepto de IVA en los activos fijos hacen parte del valor del activo, pero también se debe tener presente dicho valor para la generación de medios magnéticos.  
+De acuerdo con la normatividad vigente el rubro cancelado por concepto de IVA en los activos fijos hace parte del valor del activo, pero también se debe tener presente dicho valor para la generación de medios magnéticos.
 
-De acuerdo a lo anterior, OASISCOM presenta el siguiente documento que nos ayudará a entender y parametrizar el sistema para que cumpla los dos requerimientos.  
+De acuerdo con lo anterior, OASISCOM presenta el siguiente documento que nos ayudará a entender y parametrizar el sistema para que cumpla los dos requerimientos.  
 
 Anteriormente vimos el _Escenario 1_ en la aplicación [**OFAC - Facturas de Compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos), ahora veremos el _Escenario 2_ correspondiente al ingreso de activos fijos por la aplicación HMOV.  
 
@@ -28,7 +28,7 @@ En el detalle se agregarán los dos activos, al activo 2 se le realiza una adici
 
 Al activo 3 se le realizó una adición por valor de 100.000 sin IVA.  
 
-Al procesar el documento vemos la causación.  
+Al procesar el documento vemos la razón. 
 
 ![](hmov1.png)
 

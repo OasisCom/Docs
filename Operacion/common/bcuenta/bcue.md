@@ -19,3 +19,4 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ![](bcue2.png)
 
+### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)

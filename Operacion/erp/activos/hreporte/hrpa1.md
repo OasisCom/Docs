@@ -7,13 +7,13 @@ editable: si
 
 # HRPA1 - Balance de Prueba Ajustado
 
-La aplicación **HRPA1** arroja un reporte de saldos de diferencia entre el esquema del Libro Local, las Diferencias e IFRS con la informacion del módulo de activos fijos.
+La aplicación **HRPA1** arroja un reporte de saldos de diferencia entre el esquema del Libro Local, las Diferencias e IFRS con la información del módulo de activos fijos.
 
 Se realiza el filtro por periodo, año y libro.  
 
 ![](hrpa3.png)
 
-Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png) y el sistema arrojará el reporte correspondiente.  
+Ingresados los datos damos clic en el botón _Generar_ ![](actualizar.png) y el sistema arrojará el reporte correspondiente.  
 
 ![](hrpa4.png)
 

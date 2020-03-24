@@ -641,6 +641,42 @@ Finalizando el proceso de piking.
 ![](mitra17.png)  
 
 
+Al igual que para el Picking **(PI)** para el Packing **(PA)** también se puede realizar la lectura de código con el móvil.  
+
+Se ingresa al dispositivo dentro de la opción **Mitra** y se realiza el proceso de creación del Packing **(PA)**, en el campo Numero 1 se coloca el número del Picking **(PI)** relacionado a los productos que se van a empacar.
+
+![](Imagenes/Mitra11.png)  
+
+
+El siguiente paso es realizar la asignación de los productos a las diferentes ubicaciones o cajas para ser empacadas.
+
+![](Imagenes/Mitra22.png)  
+
+Ahora selecionamos el tipo de despacho para los productos, ya sea **Parcial** o **Total**  
+
+![](Imagenes/Mitra3.png)  
+Una vez realizado este paso, procedemos a colocar las cantidades por cada una de las cajas, es importante saber que si seleccionamos un despacho parcial, él nos va a mostrar la cantidad de unidades pendientes para el empaque del producto.  
+
+![](Imagenes/Mitra4.png)  
+
+Una vez se asignen los productos vamos a poder ver el espacio de trabajo de los productos pendientes de asignación y los que se encuentran empacados.
+
+![](Imagenes/Mitra66.png)  
+Una vez realizado el proceso de distribución de los productos, damos clic en el botón terminar
+
+![](Imagenes/Mitra8.png)  
+
+Una vez visualicemos el mensaje "Empaque terminado correctamente" Finalizaremos con el proceso de Packing **(PA)**.
+
+![](Imagenes/Mitra9.png)  
+
+
+
+
+
+
+
+
 
 
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Saldos de Periodo
+title: Saldos por Periodo
 permalink: /Operacion/erp/cartera/csaldo/cssp
 editable: si
 ---
 
-## Saldos de Periodo - CSSP
+## Saldos por Periodo - CSSP
 
 OasisCom es un sistema en línea, es decir, es afectado por cada uno de los movimientos efectuados por cualquier proceso, se tienen los saldos periódicos con el fin de facilitar la emisión de estados de cuentas, extractos o balances y para la consolidación de la información con el módulo de Contabilidad.  
 

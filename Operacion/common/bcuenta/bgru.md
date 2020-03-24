@@ -57,7 +57,9 @@ En la aplicación BGRU se parametriza el grupo 99 que hemos configurado previame
 
 ![](bgru7.png)
 
-El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_
+El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_  
+
+### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgruparametrización-para-el-módulo-activos-fijos)
 
 
 
