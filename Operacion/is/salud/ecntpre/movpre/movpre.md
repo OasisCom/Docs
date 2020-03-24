@@ -11,10 +11,10 @@ En esta ventana, se pueden realizar procesos relacionados con los Contratos de p
 
 Las aplicaciones con las que se pueden realizar estos procesos son:  
 
-* [**ECNC**]() - Contratos prestación de servicios  
-* [**EECNC**]() - Provisión de los contratos de servicios  
-* [**ECAC**]() - Ajustes contratos prestación  
-* [**ECLG**]() - Modificar estado contrato de prestación  
-* [**EVER**]() - Verificación de habilitación  
-* [**EPAQ**]() - Paquetes - Reclutamiento de Escenarios  
+* [**ECNC**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecnc) - Contratos prestación de servicios  
+* [**EECNC**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/eecnc) - Provisión de los contratos de servicios  
+* [**ECAC**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecac) - Ajustes contratos prestación  
+* [**ECLG**](http://docs.oasiscom.com//Operacion/is/salud/ecntpre/movpre/eclg) - Modificar estado contrato de prestación  
+* [**EVER**](http://docs.oasiscom.com//Operacion/is/salud/ecntpre/movpre/ever) - Verificación de habilitación  
+* [**EPAQ**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/epaq) - Paquetes - Reclutamiento de Escenarios  
 
