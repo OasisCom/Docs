@@ -20,7 +20,7 @@ Este submódulo consta de las siguientes aplicaciones:
 * **HAMA** - Mantenimiento  
 * **HAIM** - Impuestos  
 * **BCUE**  - Cuentas (http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)
-* **BCLA**  - Clasificaciones (http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)
-* **BGRU**  - Grupos (http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)
-* **BPRO**  - Productos (http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)
+* **BCLA**  - Clasificaciones
+* **BGRU**  - Grupos 
+* **BPRO**  - Productos 
 
