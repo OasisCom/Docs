@@ -160,7 +160,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
-###### [Preguntas Frecuentes OasisCom  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-general.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+###### [Preguntas Frecuentes OasisCom  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/preguntas-frecuentes-general.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 ###### [Presentación de Marketing Digital de Oscar Auza  (descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/MARKETING DIGITAL.PDF)
 
 
