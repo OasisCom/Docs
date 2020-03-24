@@ -13,6 +13,5 @@ La aplicación de Referencia Contrareferencia es con el fin de, que los prestado
 
 ![](Imagen 1 eercf.png)
 
-Para verificar las solicitudes de Referencia Contrareferencia diligenciadas y enviadas, las podrán ser consultadas en la aplicación [EERCR]()
+Para verificar las solicitudes de Referencia Contrareferencia diligenciadas y enviadas, podrán ser consultadas en la aplicación [**EERCR**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercr).
 
-![](Imagen 2 eercf.png)
