@@ -19,8 +19,8 @@ Este submódulo consta de las siguientes aplicaciones:
 * **HAAV** - Avalúos  
 * **HAMA** - Mantenimiento  
 * **HAIM** - Impuestos  
-* **BCUE**  - Cuentas  ### [Parametrización cuenta activos fijos]
-* **BCLA**  - Clasificaciones  ### [Parametrización cuenta activos fijos]
-* **BGRU**  - Grupos  ### [Parametrización cuenta activos fijos]
-* **BPRO**  - Productos  ### [Parametrización cuenta activos fijos]
+* **BCUE**  - Cuentas  [Parametrización cuenta activos fijos]
+* **BCLA**  - Clasificaciones  [Parametrización cuenta activos fijos]
+* **BGRU**  - Grupos  [Parametrización cuenta activos fijos]
+* **BPRO**  - Productos  [Parametrización cuenta activos fijos]
 
