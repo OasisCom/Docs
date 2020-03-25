@@ -10,9 +10,7 @@ editable: si
 # EESOA - Aplicación Solicitud de Autorizaciones Hospitalarias  
 
 
-En esta aplicación, la IPS notifica a la EPS la solicitud de una autorización. 
-
-**Importante** diligenciar todos los campos que incluya la pestaña Maestro y Detalle.
+En esta aplicación, la IPS notifica a la EPS la solicitud de una autorización. **Importante** diligenciar todos los campos que incluya la pestaña Maestro y Detalle.
 
 ![](Imagen 1 eesoa.png)
 
@@ -33,6 +31,6 @@ Posteriormente nos vamos al detalle y adicionamos los productos autorizar.
 
 ![](Imagen 5 eesoa.png)
 
-Nos regresamos al maestro, allí podremos adjuntar los soportes de la solicitud.
+Regresamos al maestro, allí podremos adjuntar los soportes de la solicitud.
 
 La solicitud estará satisfactoriamente creada en nuestro sistema de información.
