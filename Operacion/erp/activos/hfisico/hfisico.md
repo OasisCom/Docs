@@ -14,7 +14,7 @@ Las aplicaciones que se utilizan en estos submódulos son:
 * **HPPU** - Prepara inventarios activos  
 * **HFIS** - Toma física  
 
-Si usted desea conocer más a fondo cómo se realiza todo el proceso de Inventario físico, por favor vaya al siguiente enlace que corresponde al producto Logístico, módulo Inventarios, submódulo Inventario físico.[# INVENTARIO FISICO](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico)
+Consulte el proceso completo de Inventario Físico ingresando a:[# INVENTARIO FISICO](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico)
 
 
 
