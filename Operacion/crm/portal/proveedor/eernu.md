@@ -7,7 +7,7 @@ editable: si
 
 # EERNU - Aplicación Consulta de Notificación de Urgencia
 
-Una vez creada la notificación de urgencia en la aplicación [**EENOU**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou), se puede consultar en la aplicación **EERNU**. 
+Por medio de la aplicación **EERNU** podemos consultar, las notificaciones de urgencia generadas en la aplicación [**EENOU - Solicitud de Autorizaciones Hospitalarias.**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou)  
 
 ![](Imagen 1 eernu.png)
 
