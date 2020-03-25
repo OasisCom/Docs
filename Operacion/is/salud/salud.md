@@ -28,5 +28,5 @@ Todos estos procesos se integran con consultorios médicos, hospitales, centros 
 - [Aplicación de Notificación de Urgencias – EENOU](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou)
 - [Aplicación Consulta de Notificación de Urgencia - EERNU](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eernu)
 - [Aplicación de Solicitud de Referencia - EERCF](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf)
-- [Aplicación de Conciliación de Glosas – EEACO](http://docs.oasiscom.com/is/salud/efactura/movaud/eeaco)
-- [Pagos - ETRPF]()
+- [Aplicación de Conciliación de Glosas – EEACO](http://docs.oasiscom.com/Operacion/is/salud/efactura/movaud/eeaco)
+- [Pagos - ETRPF](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/etrpf)
