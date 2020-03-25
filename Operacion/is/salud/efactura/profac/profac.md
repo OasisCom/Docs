@@ -17,7 +17,7 @@ Las aplicaciones relacionadas con esta ventana son:
 * **GENV** - Envío  
 * **ERAV** - Valida archivo AF  
 
-Para conocer el proceso de **_Cargue y Validación de RIPS_**, consulta en orden la documentación de las siguidentes aplicaciones:  
+Para conocer el proceso de **_Cargue y Validación de RIPS_**, consulta en orden la documentación de las siguientes aplicaciones:  
 
 1. [**BINT - Interfaces / Subtítulo: Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)  
 2. [**EEREC - Confirmaciones por organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)  
