@@ -11,11 +11,11 @@ En esta ventana, se realizan los procesos para determinar el estimado de dinero 
 
 Las aplicaciones utilizadas en este ventana son:  
 
-* **ECOC** - Concurrencia  
-* **EAUD** - Auditorías  
-* **EAUF** - Auditoría facturación  
-* **EAUF1** - Auditoría facturación  
-* **EACO** - Conciliación glosas  
-* **EACG** - Acta de conciliación  
-* **ECEN** - Censo hospital
-
+* [**ECOC**]() - Concurrencia  
+* [**EAUD**]() - Auditorías  
+* [**EAUF**]() - Auditoría facturación  
+* [**EAUF1**]() - Auditoría facturación  
+* [**EACO**]() - Conciliación glosas  
+* [**EACG**]() - Acta de conciliación  
+* [**ECEN**]() - Censo hospital
+* [**EEACO**]() - Aplicación de Conciliación de Glosas
