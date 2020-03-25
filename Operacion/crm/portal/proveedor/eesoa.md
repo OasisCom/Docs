@@ -22,9 +22,9 @@ El sistema automáticamente muestra el **NIT** del prestador, se debe diligencia
 
 Posteriormente nos vamos al detalle y adicionamos los productos autorizar. Al terminar daremos clic en *guardar* para que quede en el sistema.  
 
-![](Imagen 4 eesoa.png)
+![](imagen 4 eesoa.png)
 
-![](Imagen 5 eesoa.png)
+![](imagen 5 eesoa.png)
 
 Regresamos al maestro, allí podremos adjuntar los soportes de la solicitud. La solicitud estará satisfactoriamente creada en nuestro sistema de información.
 
