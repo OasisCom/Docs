@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MIMOV - Movimientos
-permalink: /Operacion/movil/mimov
+permalink: /Operacion/movil/wmmoviment/mimov
 editable: si
 ---
 

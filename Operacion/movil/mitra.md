@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MITRA - Movimientos
-permalink: /Operacion/movil/mitra
+permalink: /Operacion/movil/wmmoviment/mitra
 editable: si
 ---
 
