@@ -2114,27 +2114,6 @@
     - text: Movil
       url: /Operacion/movil/
       subitems:
-        - text: Movimientos
-          url: /Operacion/movil/wmmoviment
-          subitems:
-            - text: Movimientos de inventario - Móvil
-              url: /Operacion/movil/wmmoviment/mimov
-            - text: Works Mobile
-              url: /Operacion/movil/wmmoviment/mitra
-        - text: Inventario Físico Móvil
-          url: /Operacion/movil/ifisico
-          subitems:
-            - text: Prepara Inventario Físico - Móvil
-              url: /Operacion/movil/ifisico/ifpi
-            - text: Asignación de responsable - Móvil
-              url: /Operacion/movil/ifisico/ifis
-            - text: Calcula diferencias - Móvil
-              url: /Operacion/movil/ifisico/ifcd
-            - text: Diferencias - Móvil
-              url: /Operacion/movil/ifisico/ifdi
-            - text: Genera ajustes - Móvil
-              url: /Operacion/movil/ifisico/ifaj              
-      subitems:
         - text: Faturas
           url: /Operacion/movil/jfac
         - text: Turnos
@@ -2147,6 +2126,26 @@
           url: /Operacion/movil/bter
         - text: Productos
           url: /Operacion/movil/bpro
+        - text: Inventario Físico Móvil
+          url: /Operacion/movil/ifisico
+          subitems:
+            - text: Prepara Inventario Físico - Móvil
+              url: /Operacion/movil/ifisico/ifpi
+            - text: Asignación de responsable - Móvil
+              url: /Operacion/movil/ifisico/ifis
+            - text: Calcula diferencias - Móvil
+              url: /Operacion/movil/ifisico/ifcd
+            - text: Diferencias - Móvil
+              url: /Operacion/movil/ifisico/ifdi
+            - text: Genera ajustes - Móvil
+              url: /Operacion/movil/ifisico/ifaj          
+        - text: Movimientos
+          url: /Operacion/movil/wmmoviment
+          subitems:
+            - text: Movimientos de inventario - Móvil
+              url: /Operacion/movil/wmmoviment/mimov
+            - text: Works Mobile
+              url: /Operacion/movil/wmmoviment/mitra          
 - text: Implantacion
   url: /Implantacion/
   subitems:
