@@ -102,6 +102,8 @@ Realizada la parametrización continuaremos a generar el movimiento.
 
 Adicionamos un nuevo registro (+):  
 
+![](ofac32.png)
+
 **Documento:**  FP  
 **Concepto:**  FP  
 **Fecha:** la fecha de la factura  
@@ -111,7 +113,7 @@ Adicionamos un nuevo registro (+):
 
 Y le damos guardar
 
-![](ofac32.png)
+![](ofac33.png)
 
 En la parte inferior, en la pestaña detalle se adiciona el activo que se va a comprar, en este caso va a ser un escritorio:  
 
@@ -120,15 +122,13 @@ En la parte inferior, en la pestaña detalle se adiciona el activo que se va a c
 **Precio:** Lo que cuesta el producto  
 **ID Responsable:** En este campo se coloca la cédula de la persona a quien se le va a asignar el activo fijo.  En caso de no haberse definido quién va a ser el responsable, se puede colocar un NIT o cédula genérica.  
 
-![](ofac33.png)
-
 En este momento, ya se puede guardar el registro y luego se procesa.  
 
-![](ofac34)
+![](ofac34.png)
 
 Tan pronto se procesa, el sistema genera un consecutivo para el activo fijo.  
 
-![](ofac35)
+![](ofac35.png)
 
 Después, en la pestaña contabilización, se verifica que se debita la cuenta del activo y se acredita la cuenta por pagar correspondiente.  Este activo tiene iva pero el iva no es mayor valor del activo
 
