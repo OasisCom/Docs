@@ -5,8 +5,6 @@ permalink:/Operacion/is/salud/eautorizacion/movaut/esoa
 editable: si  
 ---
 
-# ESOA- Solicitud de Autorización
-
 + [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
 + [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
 
