@@ -100,6 +100,17 @@ Para poder realizar los movimientos en el sistema es necesario realizar las sigu
 
 Realizada la parametrización continuaremos a generar el movimiento.  
 
+Adicionamos un nuevo registro (+):  
+
+**Documento:**  FP  
+**Concepto:**  FP  
+**Fecha:** la fecha de la factura  
+**Tercero:** Se puede buscar a través del zoom, los datos del proveedor (número de identificación y nombre)  
+**Factura Char:** el número de la factura del proveedor  
+**Observación:** En caso de que se requiera
+
+Y le damos guardar
+
 En este caso se realiza la compra de 2 activos fijos, uno por $1.000.000 + IVA y otro por $500.000 + IVA
 
 ![](ofac3.png)
