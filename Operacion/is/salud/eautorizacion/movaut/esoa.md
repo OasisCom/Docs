@@ -1,13 +1,11 @@
---- 
-
+---
 layout: default  
-title: Solicitud de Autorización.  
+title: Solicitud de Autorización 
 permalink:/Operacion/is/salud/eautorizacion/movaut/esoa  
 editable: si  
+---
 
----  
-
-# ESOA- Solicitud de Autorización.  
+# ESOA- Solicitud de Autorización
 
 + [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
 + [Detalle aplicación ESOA Solicitud Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa-solicitud-autorizaciones)
