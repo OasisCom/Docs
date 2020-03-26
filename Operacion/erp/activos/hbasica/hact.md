@@ -52,4 +52,44 @@ Finalmente, damos clic en el botón ![](hact6.png) _Guardar_ del detalle.
 
 En la pestaña **_Distribución_** se distribuye el gasto de la depreciación para diferentes centros de costo.
 
-![](hact7.png)
+![](hact7.png)  
+
+### Entrada del activo desde OFAC  
+
+Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.  
+
+![](hact8.png)  
+
+Una vez procesado, el sistema genera un consecutivo que se le asigna al activo fijo
+
+![](hact9.png)
+
+(Para ver el proceso completo de la entrada del activo por OFAC, favor remitirse a: [OFAC](https://Operacion/scm/compras/ofactura/ofac))
+
+Después de procesado el ingreso y validada la contabilización, se entra a la aplicación HACT para completar la hoja de vida del activo fijo que acabamos de comprar.  Se ingresa con el número de consecutivo que asignó el sistema
+
+![](hact10.png)
+
+En el maestro se escriben los datos dependiendo del activo que sea, por ejemplo, si es un vehículo, si es un activo intangible, si es un inmueble o si es un mueble y enser
+
+![](hact11.png)
+![](hact12.png)
+![](hact13.png)
+![](hact14.png)
+
+En la parte inferior o detalle, vemos características de depreciación, podemos escribir si se deprecia o no y qué clase de depreciación tiene; estos datos los toma el sistema de la parametrización del grupo contable
+
+![](hact15.png)
+
+Por último, en el campo distribución, vamos a indicarle al activo fijo a qué centro de costo va el gasto, por ejemplo cuando se va a realizar la depreciación el Documento es MA y el concepto DP, traemos la cuenta del gasto a la cual este activo fijo debería contabilizar y por último, en el campo DestinyCostCenterID, se registra a qué centro de costo va la contabilización y en este caso el porcentaje es del 100%, pero si se quiere, se pueden generar diferentes porcentajes en diferentes centros de costos.
+
+![](hact16.png)
+
+Finalmente, se guarda el registro.  
+
+![](hact17.png)
+
+Después de este proceso, se ingresa a la aplicación HSSP para validar los saldos del activo.
+
+(Para conocer el proceso de validación de los saldos de activos desde la aplicación HSSP, favor remitirse a: [HSSP](https://Operacion/erp/activos/hsaldo/hssp))
+
