@@ -136,7 +136,7 @@ Después, en la pestaña contabilización, se verifica que se debita la cuenta d
 
 Después de hacer la entrada del activo fijo por OFAC, cuando el sistema genera el consecutivo del activo, se debe ingresar a la aplicación HACT - Activos con ese número de consecutivo para completar la hoja de vida del activo fijo.
 
-Para mayor información sobre cómo completar los datos en la aplicación HACT - Activos, por favor remítase a: [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact###Entrada-del-activo-desde-OFAC)
+Para mayor información sobre cómo completar los datos en la aplicación HACT - Activos, por favor remítase a: [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#Entrada-del-activo-desde-OFAC)
 
 
 Y ahora, centrémonos en el tema del IVA:  
