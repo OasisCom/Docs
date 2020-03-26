@@ -96,6 +96,15 @@ En el detalle de la misma aplicación CSOL, se deben asociar los documentos que 
 
 ![](csol8.png)
 
+
+La columna garantía permite distinguir si el asociado se acoge o no al pago del fondo de garantías.   
+
+![](csol12.png)  
+
+Si se marca el campo garantías, al momento de liquidar el crédito el sistema traerá automáticamente la cuenta de **(fondo de garantías)** configurada.
+
+
+
 Recordemos que la característica **Tipos de garantía** debe estar previamente parametrizada en la aplicación [**BCRC - Características**](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc). En donde en el detalle de la característica, asociamos los diferentes tipos de garantías.  
 
 ![](csol9.png)
