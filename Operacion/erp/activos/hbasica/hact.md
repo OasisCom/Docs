@@ -64,7 +64,7 @@ Una vez procesado, el sistema genera un consecutivo que se le asigna al activo f
 
 ![](hact9.png)
 
-(Para ver el proceso completo de la entrada del activo por OFAC, favor remitirse a: [OFAC](https://Operacion/scm/compras/ofactura/ofac))
+(Para ver el proceso completo de la entrada del activo por OFAC, favor remitirse a: [**OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac))
 
 Después de procesado el ingreso y validada la contabilización, se entra a la aplicación HACT para completar la hoja de vida del activo fijo que acabamos de comprar.  Se ingresa con el número de consecutivo que asignó el sistema
 
@@ -91,5 +91,5 @@ Finalmente, se guarda el registro.
 
 Después de este proceso, se ingresa a la aplicación HSSP para validar los saldos del activo.
 
-(Para conocer el proceso de validación de los saldos de activos desde la aplicación HSSP, favor remitirse a: [HSSP](https://Operacion/erp/activos/hsaldo/hssp))
+(Para conocer el proceso de validación de los saldos de activos desde la aplicación HSSP, favor remitirse a: [**HSSP - Saldos por periodo**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp))
 

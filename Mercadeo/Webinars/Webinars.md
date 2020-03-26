@@ -16,7 +16,12 @@ editable: si
 
 ### Bienvenido
 
-
+## Capacitación para Aliados:
+---
+>##### [Capacitación: Factura Electrónica:](http://docs.oasiscom.com/Mercadeo/Webinars) ![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>>##### [Capacitación: Factura Electrónica - Presentación](http://docs.oasiscom.com/Mercadeo/Webinars/PresentaciónAliados.ppsx)
+>##### [Capacitación: Factura Electrónica - Guia de apoyo](http://docs.oasiscom.com/Mercadeo/Webinars/GuíaApoyoCapacitaciónAliados.pdf)
+>##### [Capacitación: Factura Electrónica - Instructivo Factura Electrónica Fase II](http://docs.oasiscom.com/Mercadeo/Webinars/FACTURA-ELECTRONICA-FASE II.pdf)
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
@@ -39,10 +44,6 @@ editable: si
 >##### [WEBINAR: ¿Cómo hacer transferencias en OasisCom? - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-we-transacciones.pdf)
 >##### [WEBINAR: Transformación Digital como ventaja competitiva - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-transformacion-digital-feb.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
-
-
-
----------------------------------------------------------------
 
 
 
