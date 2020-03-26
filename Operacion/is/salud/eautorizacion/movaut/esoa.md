@@ -10,19 +10,19 @@ editable: si
 # ESOA- Solicitud de Autorización.  
 
 + [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
-+ [Detalle aplicación ESOA – Solicitud Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa–Solicitud-Autorizaciones)
++ [Detalle aplicación ESOA – Solicitud Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa–-solicitud-autorizaciones)
 
 
 Se documenta, como está el proceso de la solicitud de autorización.  
-Existe el programa [**EESOA**]() Que actualmente el diligenciado por la **IPS (externo)**, en la que solicitan la autorización a la **EPS.**  
-El proceso que realiza la **EPS** por el programa [**ESOA**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones) es de aprobar esas solicitudes; al darle procesar, si se aprueba la solicitud, la aplicación realiza automáticamente la autorización.   
+Existe el programa [**EESOA**]() que actualmente el diligenciado por la **IPS (externo)**, en la que solicitan la autorización a la **EPS.**  
+
+El proceso que realiza la **EPS** por el programa [**ESOA**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones) es de aprobar esas solicitudes; al darle procesar, si se aprueba la solicitud, la aplicación realiza automáticamente la autorización.  
+
 El usuario actualmente debería de ir a la aplicación del [**EAUT**]() consultar y generar la impresión.  
 Entonces por ser un tema de agilizar el proceso se optó por darle opción de poder imprimir la autorización.
 
 Por temas de permisos adicionalmente se optó el generar este botón de impresión.
-
 Una vez procesado queda referenciado el documento de la solicitud con la autorización generada.
-
 Por consiguiente, al darle imprimir se realiza el mismo proceso que imprimir desde el programa **EAUT.**  
 
 ![](esoa1.png) 
@@ -61,7 +61,7 @@ Guardamos el registro y a continuación adjuntamos a la solicitud la historia cl
 
 ![](Imagen 6 esoa.png) 
 
-## [Detalle aplicación ESOA – Solicitud Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa–Solicitud-Autorizaciones)
+## [Detalle aplicación ESOA – Solicitud Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa–solicitud--autorizaciones)
 
 Continuando con la solicitud, en el detalle de la aplicación **ESOA** debemos ingresar el servicio que se requiere autorizar. Ingresamos un nuevo renglón y seleccionamos el producto a solicitar en la autorización, la cantidad del producto y en el campo *“Tercero”* ingresamos la *IPS* a la cual se le autoriza la prestación del servicio.
 
