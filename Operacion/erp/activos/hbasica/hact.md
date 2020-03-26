@@ -52,4 +52,31 @@ Finalmente, damos clic en el botón ![](hact6.png) _Guardar_ del detalle.
 
 En la pestaña **_Distribución_** se distribuye el gasto de la depreciación para diferentes centros de costo.
 
-![](hact7.png)
+![](hact7.png)  
+
+# Entrada del activo desde OFAC  
+
+Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.  
+
+![](hact8.png)  
+
+Una vez procesado, el sistema genera un consecutivo que se le asigna al activo fijo
+
+![](hact9.png)
+
+Después de procesado el ingreso y validada la contabilización, se entra a la aplicación HACT para completar la hoja de vida del activo fijo que acabamos de comprar.  Se ingresa con el número de consecutivo que asignó el sistema
+
+![](hact10.png)
+
+En el maestro se escriben los datos dependiendo del activo que sea, por ejemplo, si es un vehículo, si es un activo si es un activo intangible, si es un inmueble o si es un mueble y enser
+
+![](hact11.png)
+![](hact12.png)
+![](hact13.png)
+![])hact14.png)
+
+y diligenciar los datos que corresponden, en la parte inferior vemos características de depreciación, esto lo toma el sistema de la parametrización del grupooo contable
+
+
+por último, en el campo distribución, vamos a indicarle al activo fijo a qué centro de costo va el gasto. Se guarda el registro.
+a hoja
