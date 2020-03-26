@@ -11,7 +11,7 @@ En la ventana de autorizaciones, se pueden realizar procesos relacionados con au
 
 Las aplicaciones que se usan en esta ventana son:  
 
-* **ESOA** - Solicitud de autorizaciones  
-* **EAUT** - Autorizaciones  
-* **EPRE** - Prescripciones  
+* [**ESOA**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa) - Solicitud de autorizaciones  
+* [**EAUT**]() - Autorizaciones  
+* [**EPRE**]() - Prescripciones  
 
