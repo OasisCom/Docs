@@ -29,6 +29,12 @@ Adicionamos un registro nuevo, indicamos el id de la clasificación, el nivel y 
 
 ### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#parametrización-para-el-módulo-activos-fijos)
 
+En esta aplicación se crean cada una de las clasificaciones tipo activo fijo.  Para esto es necesario tener en cuenta el número de identificación de la clasificación, cuál es su nivel, cuál es su padre, el nombre de la clasificación, si la clasificación es imputable o no y por último en el campo inventario, vamos a marcar que es activo fijo
+
+![](bcla4.png)
+
+![](bcla5.png)
+
 
 
 
