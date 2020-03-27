@@ -11,6 +11,8 @@ editable: si
 
 >+ [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
 >+ [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
+>+ [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
+>+ [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle aplicación eaut - autorizaciones)
 
 
 Se documenta, como está el proceso de la solicitud de autorización.  
@@ -83,7 +85,68 @@ Igualmente, la aplicación **ESOA – Solicitud de Autorizaciones** permite impr
 
 ![](Imagen 11 esoa.png) 
 
+## [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
 
+El prestador de servicios o externo *(IPS - Hospital)* puede consultar con el número de identificación del afiliado en la aplicación **EERSA – Consulta Solicitud Autorización,** si ya se le ha generado la autorización del servicio e imprimirla de ser necesario. 
+
+![](Imagen 12 esoa.png) 
+
+Internamente, la *EPS* puede consultar la autorización en la aplicación [**EAUT- Autorizaciones**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/eaut), consultando por el documento, número y ubicación generado en el [**ESOA – Solicitud de Autorizaciones**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones) e imprimirla.
+
+![](Imagen 13 esoa.png) 
+
+![](Imagen 14 esoa.png) 
+
+## [Creación de autorización](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#creacion-de-autorizacion)
+
+Para crear una autorización internamente, la EPS ingresa a la aplicación [**EAUT - Autorizaciones,**](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/eaut) y crea un nuevo registro. 
+
+![](Imagen 15 esoa.png) 
+
+Allí se debe crear un registro con documento y concepto **AS** y agregar la ubicación desde donde se realiza la autorización. Seguidamente, en el campo *“Id Afiliado”* se ingresa el número de identificación del afiliado o se consulta por medio del zoom, al seleccionar el afiliado, los demás campos se diligenciarán automáticamente.
+
+*“Información Adicional”,* en esta sección se debe ingresar la información correspondiente a los diagnósticos del paciente, asociar el documento y número de la solicitud de autorización realizada previamente en la aplicación [ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones), si el servicio es considerado de alto costo se debe activar el flag y asociar el siniestro correspondiente. En caso de que el afiliado haya interpuesto una tutela se incluirá la fecha del acta de la tutela y el NIT del imputable. Finalmente, se debe incluir el número de identificación, nombre y especialidad del médico que realiza los diagnósticos.
+
+![](Imagen 16 esoa.png)
+
+*“Información Solicitud”,* en esta sección se debe ingresar los datos del prestador o *IPS* que solicita el servicio al afiliado.
+
+![](Imagen 17 esoa.png)
+
+Finalmente, se ingresan los datos del usuario que está diligenciando la autorización y se guarda el registro.
+
+## [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle aplicación eaut - autorizaciones)
+
+Guardado el registro en el maestro, en el detalle de la aplicación EAUT vamos a agregar el producto o servicio que se solicita en la autorización. 
+
+![](Imagen 18 esoa.png)
+
+Allí seleccionamos del zoom el producto o servicio que se requiere, seguidamente, debemos indicar la clasificación la cual estará relacionada con el producto elegido.
+
+A continuación, al ingresar al zoom del campo *“Doc Documento1”,* aparecerán los contratos con los prestadores o externos que proporcionan el servicio y que el afiliado tiene relacionado según su escenario asignado. 
+
+Este zoom mostrará los contratos con el valor del servicio de cada prestador.
+
+![](Imagen 19 esoa.png)
+
+![](Imagen 20 esoa.png)
+
+El usuario de la EPS que diligencia la autorización selecciona al prestador o IPS que decida y automáticamente se diligenciarán los siguientes datos de *Número1, Ubicación 1, Tercero y Nombre de Tercero.* La sede a donde se remitirá el afiliado debe ser seleccionada por el usuario de la EPS.
+
+![](Imagen 21 esoa.png)
+
+En el campo *“Cantidad”* indicar la cantidad de veces que se autoriza el servicio. En caso de que el afiliado corresponda al régimen subsidiado, se debe ingresar el valor del copago y seleccionar de la lista desplegable *“Copago”* la opción que corresponda.
+
+**Nota:** se pueden autorizar varios servicios para una misma IPS en el mismo documento de autorización, pero no se pueden autorizar varios servicios en diferentes IPS, en este caso, cada servicio se debe autorizar por un documento AS diferente.
+El copago es calculado de forma automática para los afiliados que sean régimen subsidiado, en caso de ser contributivo se calculará la cuota moderadora.
+
+Es posible adjuntar al documento AS los archivos que correspondan para la autorización del servicio.
+
+![](Imagen 22 esoa.png)
+
+Diligenciada en su totalidad la autorización, se debe procesar desde la barra de herramientas del maestro.
+
+![](Imagen 23 esoa.png)
 
 
 
