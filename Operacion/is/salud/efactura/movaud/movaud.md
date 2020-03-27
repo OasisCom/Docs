@@ -11,9 +11,9 @@ En esta ventana, se realizan los procesos para determinar el estimado de dinero 
 
 Las aplicaciones utilizadas en este ventana son:  
 
-* [**ECOC**]() - Concurrencia  
+* [**ECOC**](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecoc) - Concurrencia  
 * [**EAUD**]() - Auditorías  
-* [**EAUF**]() - Auditoría facturación  
+* [**EAUF**](http://docs.oasiscom.com/Operacion/is/salud/efactura/movaud/eauf) - Auditoría facturación  
 * [**EAUF1**]() - Auditoría facturación  
 * [**EACO**]() - Conciliación glosas  
 * [**EACG**]() - Acta de conciliación  
