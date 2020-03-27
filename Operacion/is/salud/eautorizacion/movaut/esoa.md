@@ -12,7 +12,7 @@ editable: si
 >+ [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
 >+ [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
 >+ [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
->+ [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle aplicación eaut - autorizaciones)
+>+ [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-eaut-autorizaciones)
 
 
 Se documenta, como está el proceso de la solicitud de autorización.  
@@ -115,7 +115,7 @@ Allí se debe crear un registro con documento y concepto **AS** y agregar la ubi
 
 Finalmente, se ingresan los datos del usuario que está diligenciando la autorización y se guarda el registro.
 
-## [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle aplicación eaut - autorizaciones)
+## [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-eaut-autorizaciones)
 
 Guardado el registro en el maestro, en el detalle de la aplicación EAUT vamos a agregar el producto o servicio que se solicita en la autorización. 
 
