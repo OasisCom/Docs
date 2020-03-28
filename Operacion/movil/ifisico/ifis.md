@@ -78,6 +78,8 @@ Para inicar el conteo, damos clic o tocamos la pantalla en el boton verde de pro
 
 ![](ifis15.png)
 
+Así se deberá realizar el conteo o lectura del código de barras de cada producto.
+Continuamos con los pasos ya descritos anteriomente.
 
 
 
