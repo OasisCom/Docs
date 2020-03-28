@@ -19,5 +19,5 @@ En el inventario físico, existen dos clases de escenarios:
 
 •	2. ESCENARIO 2: Inventario Fisico Movil.  
 
-Para conocer más sobre la aplicación móvil de OASISCOM y cómo se puede realizar el proceso de inventario físico en ella, por favor remítase a: [#MOVIL](http://docs.oasiscom.com/Operacion/Movil)
+Para conocer más sobre la aplicación móvil de OASISCOM y cómo se puede realizar el proceso de inventario físico en ella, por favor remítase a: [#MOVIL](http://docs.oasiscom.com/Movil)
 
