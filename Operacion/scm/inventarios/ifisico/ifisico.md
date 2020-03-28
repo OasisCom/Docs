@@ -11,12 +11,12 @@ En el inventario físico, existen dos clases de escenarios:
 
 • ESCENARIO 1: Inventario Físico, el cual incluye el siguiente proceso:
 
-* **IFPI** - Prepara inventario físico    
-* **IRIF**  - Plantilla para conteo Físico    
-* **IFIS**  - Registro de conteos.  
-* **IFCD**  - Calcula diferencias IFCD.  
-* **IFDI**  - Diferencias IFDI.  
-* **IFAJ**  - Genera Ajustes IFAJ.  
+* **IFPI** - Prepara inventario diario    
+* **IRIF** - Planilla para conteo Físico    
+* **IFIS** - Registro de conteos  
+* **IFCD** - Calcula diferencias  
+* **IFDI** - Diferencias  
+* **IFAJ** - Genera Ajustes  
 
 •	ESCENARIO 2: Inventario Físico Movil.  
 
