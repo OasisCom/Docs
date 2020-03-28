@@ -22,5 +22,5 @@ Ingresados los datos, damos click en el botón Generar ![](ifpi3.png)  y el sist
 
 ![](ifpi2.png)
 
-Una vez preparado el inventario físico, el siguiente paso es el registro de conteos, para esto se presentan las opciones por la plantilla de conteos.
+Una vez preparado el inventario físico, el siguiente paso es realizar la asignación del responsable o del usuario que va a realizar el conteo de los productos.
 
