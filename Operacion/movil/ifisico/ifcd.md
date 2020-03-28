@@ -16,8 +16,8 @@ Se ingresarán los datos de fecha y ubicación.
 **Ubicación:** seleccionar la ubicación en la que se encuentran los productos inventariados.
 **Total:** ingresar el número 0.
 
-Ingresados los datos, damos click en el botón Generar ![](ifcd3)  y el sistema arrojará un mensaje de control informando que el proceso fue ejecutado satisfactoriamente.
+Ingresados los datos, damos click en el botón Generar ![](ifcd3.png)  y el sistema arrojará un mensaje de control informando que el proceso fue ejecutado satisfactoriamente.
 
-![](ifcd2)
+![](ifcd2.png)
 
 
