@@ -70,14 +70,14 @@ En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de
 **Vida Útil** - La vida útil, que es lo que debría estar vigente el activo antes de depreciarlo el 100%  
 **Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable
 
-![](bgru8)
+![](bgru8.png)
 
-En el detalle, se registran las cuentas contables correspondientes:
-**Código:** - En este caso, ACF
-**Nombre código:**  En este caso, Activo fijo  
+En el detalle, se registran las cuentas contables correspondientes:  
+**Código:** - En este caso, ACF  
+**Nombre código:**  En este caso, Activo fijo    
 **Cuenta**  - Cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo
 
-![](bgru9)
+![](bgru9.png)
 
 
 
