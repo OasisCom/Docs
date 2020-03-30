@@ -9,7 +9,7 @@ editable: si
 
 >+ [Detalle de la aplicación ECNC – Contratos Prestación de Servicios](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecnc#detalle-de-la-aplicación-ecnc---contratos-prestación-de-servicios)
 
-Este manual le explica cómo crear nuevos contratos de prestación de servicios.  Sirve tanto para régimen contributivo como para régimen subsidiado.  La aplicación que se utiliza para la creación de los Contratos es **ECNC.**  Como complemento a esta, se encuentra la aplicación [**ETER,**]() la cual muestra una sugerencia de los servicios que tiene habilitado el Prestador.
+Este manual le explica cómo crear nuevos contratos de prestación de servicios.  Sirve tanto para régimen contributivo como para régimen subsidiado.  La aplicación que se utiliza para la creación de los Contratos es **ECNC.**  Como complemento a esta, se encuentra la aplicación [**ETER,**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/conpre/eter) la cual muestra una sugerencia de los servicios que tiene habilitado el Prestador.
 
 Para realizar el proceso de creación de contratos de prestación de servicios, se debe ingresar a la aplicación **ECNC,** allí se deberá crear un nuevo registro
 
