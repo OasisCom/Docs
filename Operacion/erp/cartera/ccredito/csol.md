@@ -99,7 +99,7 @@ En el detalle de la misma aplicación CSOL, se deben asociar los documentos que 
 
 La columna garantía permite distinguir si el asociado se acoge o no al pago del fondo de garantías.   
 
-![](csol12.png)  
+![](csol10.png)  
 
 Si se marca el campo garantías, al momento de liquidar el crédito el sistema traerá automáticamente la cuenta de **(fondo de garantías)** configurada.
 
