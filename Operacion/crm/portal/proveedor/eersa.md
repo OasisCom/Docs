@@ -7,7 +7,9 @@ editable: si
 
 # EERSA - Aplicación Consulta de Solicitud de Autorizaciones
 
-Por medio de la aplicación **EERSA** podemos visualizar, descarga e imprimir todas las autorizaciones generadas en la aplicación [**EESOA - Solicitud de Autorizaciones Hospitalarias**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa)
+El prestador de servicios o externo (IPS - Hospital) puede consultar con el número de identificación del afiliado en la aplicación **EERSA – Consulta Solicitud Autorización,** si ya se le ha generado la autorización del servicio e imprimirla de ser necesario.
+
+Para generar una Solicitud de Afiliaciones debe ir a la aplicación [**EESOA - Solicitud de Autorizaciones Hospitalarias**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa)
 
 ![](Imagen 1 eersa.png)
 

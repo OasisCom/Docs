@@ -61,6 +61,13 @@ El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - T
 
 ### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgruparametrización-para-el-módulo-activos-fijos)
 
+En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de los movimientos del módulo:  en el primer campo, registramos el número de identificación del grupo, el nombre del grupo, el tipo del grupo contable, en este caso, se selecciona activo, cuál es el tipo del activo, es decir, si es propiedad, planta y equipo o alguno de la clasificación, cuál es el método de depreciación, la vida útil y si se van a depreciar los activos asociados a ese grupo contable
+
+En el detalle se registran las cuentas contables correspondientes
+CÓDIGO: ACF que es activo fijo
+Posteriormente, cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo
+
+
 
 
 

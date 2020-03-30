@@ -7,9 +7,7 @@ editable: si
 
 # EENOU - Aplicación de Notificación de Urgencias
 
-
-
-
+En la aplicación **EENOU** se registran las urgencias de los pacientes. El prestador del servicio debe reistrar todas las notificaciones de urgencia, donde se debe especificar datos básicos del afiliado y  motivo de la urgencia. 
 
 ![](Imagen 1 eenou.png)
 

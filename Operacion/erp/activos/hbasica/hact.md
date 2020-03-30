@@ -91,5 +91,5 @@ Finalmente, se guarda el registro.
 
 Después de este proceso, se ingresa a la aplicación HSSP para validar los saldos del activo.
 
-(Para conocer el proceso de validación de los saldos de activos desde la aplicación HSSP, favor remitirse a: [**HSSP - Saldos por periodo**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp))
+(Para conocer el proceso de validación de los saldos de activos, favor remitirse a: [**HSSP - Saldos por periodo**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp))
 
