@@ -38,6 +38,7 @@ Realizado el movimiento, se genera nuevamente los medios magnéticos en la aplic
 
 De esta manera se evidencia la parametrización que se debe realizar para que el sistema OASISCOM cause y lleve control del IVA en los Activos Fijos.  
 
+
 ##  Movimiento de Depreciación de un Activo fijo  
 
 Después de ejecutar el proceso de generación de la depreciación automática en [**HPDE**](http://docs.oasiscom.com/Operacion/erp/activos/hproceso/hpde#Depreciación)  
