@@ -7,7 +7,7 @@ editable: si
 
 # Depreciación - HPDE  
 
-Esta aplicación permite generar la depreciación automática desde OASISCOM.  
+Esta aplicación permite generar la depreciación automática de los activos fijos desde OASISCOM.  
 
 ![](hpde1.png)
 
@@ -19,7 +19,7 @@ Finalmente se ejecuta el proceso
 
 ![](hpde2.png)  
 
-Posterior a esto, el sistema nos va a crear un movimiento en la aplicación **HMOV**.  
+Posterior a esto, el sistema nos va a crear un movimiento en la aplicación [HMOV](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#Movimiento-de-Depreciación-de-un-Activo-fijo  
 
 ![](hpde3.png)  
 
