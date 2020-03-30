@@ -61,23 +61,27 @@ El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - T
 
 ## [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#parametrización-para-el-módulo-activos-fijos)
 
-En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de los movimientos del módulo:  
+En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de los movimientos del módulo:    
+
+![](bgru8.png)    
+
 **ID grupo:** - En el primer campo, registramos el número de identificación del grupo  
 **Nombre del grupo:** - De acuerdo con el código, se de el nombre del grupo  
 **Tipo:**  - El tipo del grupo contable, en este caso, se selecciona activo
 **Type Asset:** - Cuál es el tipo del activo, es decir, si es propiedad, planta y equipo o alguno de la clasificación  
 **Type Depreciation** - Cuál es el método de depreciación  
 **Vida Útil** - La vida útil, que es lo que debría estar vigente el activo antes de depreciarlo el 100%  
-**Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable
-
-![](bgru8.png)
+**Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable  
 
 En el detalle, se registran las cuentas contables correspondientes:  
+
+![](bgru9.png)  
+
 **Código:** - En este caso, ACF  
 **Nombre código:**  En este caso, Activo fijo    
 **Cuenta**  - Cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo
 
-![](bgru9.png)
+
 
 
 
