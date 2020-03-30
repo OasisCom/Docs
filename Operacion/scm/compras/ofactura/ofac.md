@@ -100,6 +100,47 @@ Para poder realizar los movimientos en el sistema es necesario realizar las sigu
 
 Realizada la parametrización continuaremos a generar el movimiento.  
 
+Adicionamos un nuevo registro (+):  
+
+![](ofac32.png)
+
+**Documento:**  FP  
+**Concepto:**  FP  
+**Fecha:** la fecha de la factura  
+**Tercero:** Se puede buscar a través del zoom, los datos del proveedor (número de identificación y nombre)  
+**Factura Char:** el número de la factura del proveedor  
+**Observación:** En caso de que se requiera
+
+Y le damos guardar
+
+![](ofac33.png)
+
+En la parte inferior, en la pestaña detalle se adiciona el activo que se va a comprar, en este caso va a ser un escritorio:  
+
+**Producto:** Con el zoom podemos buscar el código y nombre del producto  
+**Cantidad:** Qué cantidad compramos del producto  
+**Precio:** Lo que cuesta el producto  
+**ID Responsable:** En este campo se coloca la cédula de la persona a quien se le va a asignar el activo fijo.  En caso de no haberse definido quién va a ser el responsable, se puede colocar un NIT o cédula genérica.  
+
+En este momento, ya se puede guardar el registro y luego se procesa.  
+
+![](ofac34.png)
+
+Tan pronto se procesa, el sistema genera un consecutivo para el activo fijo.  
+
+![](ofac35.png)
+
+Después, en la pestaña contabilización, se verifica que se debita la cuenta del activo y se acredita la cuenta por pagar correspondiente.  Este activo tiene iva pero el iva no es mayor valor del activo
+
+![](ofac36)
+
+Después de hacer la entrada del activo fijo por OFAC, cuando el sistema genera el consecutivo del activo, se debe ingresar a la aplicación HACT - Activos con ese número de consecutivo para completar la hoja de vida del activo fijo.
+
+Para mayor información sobre cómo completar los datos en la aplicación HACT - Activos, por favor remítase a: [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#Entrada-del-activo-desde-OFAC)
+
+
+Y ahora, centrémonos en el tema del IVA:  
+
 En este caso se realiza la compra de 2 activos fijos, uno por $1.000.000 + IVA y otro por $500.000 + IVA
 
 ![](ofac3.png)

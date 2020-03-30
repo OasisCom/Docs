@@ -19,4 +19,12 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 
 ![](bcue2.png)
 
-### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)
+### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)  
+
+En esta aplicación debemos marcar las cuentas de activos fijos con el módulo correspondiente, esto solo se debe hacer para las cuentas que son imputables.  
+
+![](bcue3.png)
+
+El módulo en activos fijos se marca con la letra H; esto es importante para que solo se muevan las cuentas en el módulo de activos fijos y no en los demás módulos de OASISCOM.
+
+![](bcue4.png)

@@ -9,18 +9,16 @@ editable: si
 
 En el inventario físico, existen dos clases de escenarios:  
 
-•	1. ESCENARIO 1: Inventario Fisico.  
-1.1. Preparación inventario.  
-1.2. Plantilla para conteo Físico IRIF.  
-1.3. Registro de conteos.  
-1.4. Calcula diferencias IFCD.  
-1.5. Diferencias IFDI.  
-1.6. Genera Ajustes IFAJ.  
-•	2. ESCENARIO 2: Inventario Fisico Movil.  
-2.1. Prepara Inventario Fisico IFPI.  
-2.2. Asignación de responsable IFIS.  
-2.3. Calcualo de Diferencias.  
-2.4. Diferencias IFDI.  
-2.5. Genera Ajustes IFAJ.  
+• ESCENARIO 1: Inventario Físico, el cual incluye el siguiente proceso:
 
+* **IFPI** - Prepara inventario diario    
+* **IRIF** - Planilla para conteo Físico    
+* **IFIS** - Registro de conteos  
+* **IFCD** - Calcula diferencias  
+* **IFDI** - Diferencias  
+* **IFAJ** - Genera Ajustes  
+
+•	ESCENARIO 2: Inventario Físico Movil.  
+
+Para conocer más sobre la aplicación móvil de OASISCOM y cómo se puede realizar el proceso de inventario físico en ella, por favor remítase a: [#MOVIL](http://docs.oasiscom.com/Operacion/movil)
 
