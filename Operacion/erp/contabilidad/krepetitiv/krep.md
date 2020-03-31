@@ -1,15 +1,21 @@
 ---
 layout: default
 title: Comprobantes Repetitivos
-permalink: /Operacion/erp/contabilidad/krepetitiv/krep
+permalink:/Operacion/erp/contabilidad/krepetitiv/krep
 editable: si
 ---
 
 ## Comprobantes Repetitivos - KREP
 
-En esta aplicación se generan los comprobantes repetitivos que se han parametrizado.
+En esta aplicación se generan los comprobantes repetitivos que se han parametrizado.  
+
+Primero, debemos identificar los documentos que se repiten mes a mes, una vez identificados, seleccionamos la fila correspondiente y nos dirigimos al campo repetitivo, en este campo encontramos un flag.
 
 Se debe activar el flag **_Repetitivo_** para los registros que se deseen generar repetidamente e indicar en el campo **_Periodos_** la cantidad de periodos en que se repetirá el documento.  
+
+Terminado este proceso, guardamos nuestra cuenta por pagar.  
+
+Con esta parametrización, el sistema generará una cuenta por pagar en la aplicación [**PMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov), perteneciente al módulo de Cuentas por pagar
 
 ![](KREP1.png)
 
