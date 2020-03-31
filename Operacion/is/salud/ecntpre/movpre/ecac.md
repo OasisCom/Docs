@@ -19,15 +19,15 @@ Para crear un nuevo registro, damos clic en el botón + (Agregar nueva fila) del
 
 ![](Imagen 2 ecac.png)
 
-**Documento:**  AK de Ajuste a Contrato.
-**Ubicación:** desde donde se realiza el ajuste al contrato.
-**Concepto:** **MC** de Modificación Contrato.
-**Número 1:** Se busca el número del contrato.
+**Documento:**  AK de Ajuste a Contrato.  
+**Ubicación:** desde donde se realiza el ajuste al contrato.  
+**Concepto:** **MC** de Modificación Contrato.  
+**Número 1:** Se busca el número del contrato.  
 
 Hay dos secciones en el formulario: 
 
-*“Información del contrato”:* esta información no se puede modificar.
-*“Información Modificación”:* esta información se puede modificar según los ajustes que se requiera.
+*“Información del contrato”:* esta información no se puede modificar.  
+*“Información Modificación”:* esta información se puede modificar según los ajustes que se requiera.  
 
 ![](Imagen 3 ecac.png)
 
