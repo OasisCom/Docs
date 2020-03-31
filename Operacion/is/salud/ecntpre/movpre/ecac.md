@@ -33,7 +33,7 @@ Hay dos secciones en el formulario:
 
 ![](Imagen 4 ecac.png)
 
-## Detalle de la aplicación ECAC – Ajustes Contratos Prestación
+## [Detalle de la aplicación ECAC – Ajustes Contratos Prestación](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecac#detalle-de-la-aplicación-ecac---ajustes-contratos-prestación)
 
 En la parte inferior, en la pestaña _**Detalle,**_ hay una columna que se llama modificación.  Si se le va a hacer una variación al valor, se le da guardar. En Modificación, se le dice cuál es la variación que se le hace: adición, eliminación, variación.
 
