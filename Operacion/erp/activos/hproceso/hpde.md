@@ -44,7 +44,7 @@ Verificamos que acreditó a la cuenta de depreciación y debitó a la cuenta del
 
 ![](hpde8.png)  
 
-Posteriormente, ingresamos a la aplicación [**HSSP* - Saldos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp# y filtramos el activo que deseamos consultar y el sistema nos muestra el valor por el cual se generó la depreciación por medio de un documento MA número 3.  Al finalizar, el sistema nos va a indicar que se generó 1 mes de depreciación y por lo tanto, nos quedan 59 meses por depreciar (en el ejemplo)  
+Posteriormente, ingresamos a la aplicación [**HSSP - Saldos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Saldos-de-la-depreciación) y filtramos el activo que deseamos consultar y el sistema nos muestra el valor por el cual se generó la depreciación por medio de un documento MA número 3.  Al finalizar, el sistema nos va a indicar que se generó 1 mes de depreciación y por lo tanto, nos quedan 59 meses por depreciar (en el ejemplo)  
 
 ![](hpde9.png)
 
