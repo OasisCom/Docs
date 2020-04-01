@@ -79,7 +79,7 @@ En el detalle, se registran las cuentas contables correspondientes:
 
 **Código:** - En este caso, ACF  
 **Nombre código:**  En este caso, Activo fijo    
-**Cuenta**  - Cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo
+**Cuenta**  - En este campo, se debe ingresar por cada código, la cuenta contable a la cual se va a afectar, por ejemplo, cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo
 
 
 
