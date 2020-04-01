@@ -21,6 +21,7 @@ En el campo llamado Balance Quantity Use Book, dice cuántos meses le quedan pen
 
 ![](hssp3.png)
 
+
 Realizado con anterioridad el movimiento de ingreso de Activo Fijo por HMOV en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos), consultamos los activos en la aplicación HSSP y veremos que estos se vieron aumentados en las cifras correspondientes al movimiento.
 
 ![](hssp1.png)
