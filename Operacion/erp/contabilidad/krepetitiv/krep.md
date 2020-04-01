@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comprobantes Repetitivos
-permalink:/Operacion/erp/contabilidad/krepetitiv/krep
+permalink: /Operacion/erp/contabilidad/krepetitiv/krep
 editable: si
 ---
 
