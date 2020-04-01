@@ -9,7 +9,7 @@ editable: si
 
 **Menú**
 
-1. [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc---documentos)
+1. [**BDOC Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos)
 2. [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
 3. [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
 4. [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
@@ -18,7 +18,7 @@ editable: si
 7. [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
 
 
-## [BDOC - Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc---documentos)
+## [BDOC Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos)
 
 Para realizar la parametrización del documento se debe ingresar a la aplicación BDOC - Documentos y dar clic en el recuadro con el símbolo más (+) para crear un nuevo renglón, como se muestra en la siguiente imagen.
 
