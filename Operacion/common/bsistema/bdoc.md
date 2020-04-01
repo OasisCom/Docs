@@ -9,7 +9,7 @@ editable: si
 
 **Menú**
 
-1. [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+1. [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc---documentos)
 2. [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
 3. [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
 4. [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
@@ -18,10 +18,22 @@ editable: si
 7. [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
 
 
+## [BDOC - Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc---documentos)
 
+Para realizar la parametrización del documento se debe ingresar a la aplicación BDOC - Documentos y dar clic en el recuadro con el símbolo más (+) para crear un nuevo renglón, como se muestra en la siguiente imagen.
 
+![](Imagen 1 bdoc.png)
 
-## [BDOC - Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+Al crear un nuevo renglón para realizar una solicitud de viático se debe ingresar en el campo Documento las letras VI y diligenciar los demás campos de la siguiente manera.
+
+![](Imagen 2 bdoc.png)
+
+En el Detalle, se ingresan los conceptos, con su respectivo nombre, de acuerdo con los que se requieran utilizar. Y se les debe asignar en el campo clase si corresponde a un concepto del detalle o del maestro del movimiento, así mismo en el campo *Liquidación,* si el concepto tiene check, se entrará a validar el tope del concepto.
+
+![](Imagen 3 bdoc.png)
+
+Así mismo, se debe realizar la creación del documento VL correspondiente a las legalizaciones de los viáticos, con los mismos conceptos del documento VI, dado que cuando se crea un documento VL y se asocia el VI respectivo el sistema trae el mismo detalle para que no sea necesario volverlo a diligenciar.
+
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
