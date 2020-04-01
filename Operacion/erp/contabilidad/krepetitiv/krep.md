@@ -7,7 +7,6 @@ editable: si
 
 ## Comprobantes Repetitivos - KREP
 
-
 En esta aplicación se generan los comprobantes repetitivos que se han parametrizado.  
 
 Primero, debemos identificar los documentos que se repiten mes a mes, una vez identificados, seleccionamos la fila correspondiente y nos dirigimos al campo repetitivo, en este campo encontramos un flag.
