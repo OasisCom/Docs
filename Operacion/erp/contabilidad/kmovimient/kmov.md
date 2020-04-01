@@ -87,7 +87,10 @@ Se guarda el registro.
 
 Luego de guardado el registro, se procesa desde el maestro
 
-![](kmov6.png)
+![](kmov6.png)  
+
+Si queremos verificar que se haya efectuado el documento, podemos consultar la aplicación [**KRAX - Libro auxiliar detallado**]  
+En esta aplicación se tiene la posibilidad de consultar de diferentes formas; puede ser, con el número de cuenta en el campo **Cuenta** y la aplicación nos mostrará un resumen de todos los movimientos realizados con esta cuenta
 
 
 
