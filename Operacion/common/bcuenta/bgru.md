@@ -69,8 +69,8 @@ En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de
 **Nombre del grupo:** - De acuerdo con el código, se de el nombre del grupo    
 **Tipo:**  - El tipo del grupo contable, en este caso, se selecciona activo    
 **Type Asset:** - Cuál es el tipo del activo, es decir, si es propiedad, planta y equipo o alguno de la clasificación    
-**Type Depreciation** - Cuál es el método de depreciación    
-**Vida Útil** - La vida útil, que es lo que debría estar vigente el activo antes de depreciarlo el 100%    
+**Type Depreciation** - Seleccionar de la lista desplegable tipo de depreciación: línea recta, suma dígitos, unidades producidas, reducción de saldos.      
+**Vida Útil** - La vida útil, que es el tiempo que debería estar vigente el activo antes de depreciarlo el 100%    
 **Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable    
 
 En el detalle, se registran las cuentas contables correspondientes:    
