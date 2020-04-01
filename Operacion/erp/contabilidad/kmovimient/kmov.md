@@ -48,6 +48,7 @@ Las notas de contabilidad se usan para realizar cualquier registro contable para
 En este ejemplo, se va a realizar una nota de contabilidad por un mal registro causado en el mes de abril donde se causó el gasto; se causó al gasto de ventas y realmente era un gasto administrativo.  
 Adicionamos un nuevo registro.  
 
+
 **Documento:**  Podemos buscar por el zoom y escoger la opción NK de Nota de contabilidad  
 **Concepto:** También escogemos NK al igual que en el campo documento  
 **Motivo:** 0 (cero) indefinido  
@@ -55,7 +56,38 @@ Adicionamos un nuevo registro.
 **Tercero:**  Podemos buscar por el zoom o diligenciar el NIT del tercero si ya lo conocemos  
 **Observación:**  Diligenciamos la causa de la nota de contabilidad que en este ejemplo sería Reclasificación de cuentas.  
 
-Ahora, guardamos el registro.
+![](kmov3.png)
+
+Ahora, guardamos el registro.  
+
+Posteriormente, se crea el detalle:   
+
+Se adiciona una nueva fila en el detalle  
+
+![](kmov4.png)  
+
+**Cuenta:** Se diligencia el código de la cuenta en la que se diligenció el error  
+**Nombre cuenta:** La misma relacionada con el código que se diligencia automáticamente  
+**Naturaleza:** Ya que es la cuenta de la que vamos a retirar el dinero causado, la vamos a registrar con la naturaleza contraria de su respectiva parametrización en **BCUE**  
+**Valor:** El mismo dato que colocamos arriba en el maestro  
+**Tercero:** El mismo dato que colocamos arriba en el maestro  
+
+Guardamos el registro.  
+
+Ahora, adicionamos otra fila donde crearemos la reclasificación, es decir, escribimos los datos donde realmente debería ir el registro:  
+![](kmov5.png)  
+
+**Cuenta:** El código donde realmente va el registro  
+**Nombre cuenta:** De acuerdo al código diligenciado  
+**Naturaleza:** Se oprime tab y el sistema escribe automáticamente  
+**Valor:** Mismo valor  
+**Tercero:** Mismo tercero  
+
+Se guarda el registro.
+
+Luego de guardado el registro, se procesa desde el maestro
+
+![](kmov6.png)
 
 
 
