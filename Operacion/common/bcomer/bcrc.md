@@ -10,7 +10,7 @@ editable: si
 En esta aplicación se parametrizan todas las características que queramos diligenciar por ejemplo si la empresa es de producción podemos diligenciar las características que definen nuestro producto como lo es talla, ancho, color, material, referencia, peso, entre otros.
 
 > + [Parametrización características - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---análisis-de-calidad)
-> + [Parametrización características - Legalización Viáticos ](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#paramentrización-características---legalización-viáticos)
+> + [Parametrización características - Legalización Viáticos ](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
 
 
 ![](bcrc1.png)
