@@ -132,7 +132,7 @@ Tan pronto se procesa, el sistema genera un consecutivo para el activo fijo.
 
 Después, en la pestaña contabilización, se verifica que se debita la cuenta del activo y se acredita la cuenta por pagar correspondiente.  Este activo tiene iva pero el iva no es mayor valor del activo
 
-![](ofac36)
+![](ofac36.png)
 
 Después de hacer la entrada del activo fijo por OFAC, cuando el sistema genera el consecutivo del activo, se debe ingresar a la aplicación HACT - Activos con ese número de consecutivo para completar la hoja de vida del activo fijo.
 
