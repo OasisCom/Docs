@@ -27,9 +27,11 @@ Posterior a esto, el sistema nos va a crear un movimiento en la aplicación [**H
 **Fecha:**  La depreciación se va a crear con la fecha del último día del mes  
 **Concepto:** DP, que corresponde a depreciación  
 
-En la parte inferior, en la pestaña detalle, nos va a traer cada uno de los activos fijos que se deben depreciar al mes de marzo (en este ejemplo), con su respectiva cuota.  Se debe realizar validación y posteriormente, procesar el documento.  
+En la parte inferior, en la pestaña detalle, nos va a traer cada uno de los activos fijos que se deben depreciar al mes de marzo (en este ejemplo), con su respectiva cuota.     
 
-![](hpde5.png)
+![](hpde5.png)  
+
+Se debe realizar validación y posteriormente, procesar el documento.   
 
 ![](hpde4.png)    
  
