@@ -29,6 +29,8 @@ Posterior a esto, el sistema nos va a crear un movimiento en la aplicación [**H
 
 En la parte inferior, en la pestaña detalle, nos va a traer cada uno de los activos fijos que se deben depreciar al mes de marzo (en este ejemplo), con su respectiva cuota.  Se debe realizar validación y posteriormente, procesar el documento.  
 
+![](hpde5.png)
+
 ![](hpde4.png)    
  
 Una vez procesado, se revisa la contabilización en la pestaña Contabilización.   
