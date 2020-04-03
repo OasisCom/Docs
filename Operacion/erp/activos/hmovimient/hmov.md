@@ -16,7 +16,7 @@ De acuerdo con lo anterior, OASISCOM presenta el siguiente documento que nos ayu
 Anteriormente vimos el _Escenario 1_ en la aplicación [**OFAC - Facturas de Compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos), ahora veremos el _Escenario 2_ correspondiente al ingreso de activos fijos por la aplicación HMOV.  
 
 
-## Ingreso de Activo Fijo por HMOV
+## [**Ingreso de Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV)
 
 Para este caso utilizaremos como ejemplo los mismos activos vistos en el _Escenario 1_. Realizamos un movimiento de activos fijos por la aplicación HMOV.  
 
@@ -39,7 +39,7 @@ Realizado el movimiento, se genera nuevamente los medios magnéticos en la aplic
 De esta manera se evidencia la parametrización que se debe realizar para que el sistema OASISCOM cause y lleve control del IVA en los Activos Fijos.  
 
 
-##  Movimiento de Depreciación de un Activo fijo  
+## [**Movimiento de Depreciación de un Activo fijo**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#Movimiento-de-Depreciación_de_un_Activo-fijo)  
 
 Después de ejecutar el proceso de generación de la depreciación automática en [**HPDE**](http://docs.oasiscom.com/Operacion/erp/activos/hproceso/hpde#Depreciación)  
 
