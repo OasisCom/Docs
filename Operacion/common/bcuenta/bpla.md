@@ -75,6 +75,8 @@ Primero que todo, tenga en cuenta que para realizar los movimientos de activos f
 
 En esta aplicación, le vamos a indicar al sistema cómo debe contabilizar cada uno de los movimientos generados:  
 
+![](bpla5.png)  
+
 **Documento:**  Consultamos el documento MA de movimiento de activos.  
 **Concepto:**  En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja.    
 **Código:** En este campo, se le debe decir al sistema qué código debe causar, por ejemplo, un activo, una depreciación, una pérdida o una utilidad según corresponda.  
@@ -86,7 +88,7 @@ En esta aplicación, le vamos a indicar al sistema cómo debe contabilizar cada 
 **Estado:**
 **Orden:**  
 
-![](bpla5.png)  
+  
 
 
 
