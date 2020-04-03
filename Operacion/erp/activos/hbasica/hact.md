@@ -62,6 +62,8 @@ Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.
 
 Una vez procesado, el sistema genera un consecutivo que se le asigna al activo fijo  
 
+![](hact9.png)
+
 (Para ver el proceso completo de la entrada del activo por OFAC, favor remitirse a: [**OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac))
 
 Después de procesado el ingreso y validada la contabilización, se entra a la aplicación HACT para completar la hoja de vida del activo fijo que acabamos de comprar.  Se ingresa con el número de consecutivo que asignó el sistema
