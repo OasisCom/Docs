@@ -84,9 +84,8 @@ En esta aplicación, le vamos a indicar al sistema cómo debe contabilizar cada 
 **Depende:**  En el campo depende, se le dice al sistema que depende del activo fijo.  
 **Naturaleza:** Se registra la naturaleza que corresponda, o sea, débito o crédito.  
 **Obligatorio:**  En este campo, se le debe decir al sistema si debe causar los códigos o no; por ejemplo, si el activo ya se depreció en su totalidad, entonces solo se debe causar la cuenta del activo fijo con su respectiva depreciación.  En caso de que el activo no se haya depreciado en su totalidad, el valor restante lo debe llevar a una pérdida o utilidad según corresponda; por tal motivo, los campos que siguen no son obligatorios de diligenciar:  
-**Detalle maestro:**  
-**Estado:**
-**Orden:**  
+
+![](bpla6)
 
   
 
