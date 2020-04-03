@@ -14,9 +14,7 @@ Cuando se procesa un documento de facturación de compras, y este tiene retenci�
  
 ![](ofac1.png)
 
- 
-
-En el maestro:
+En el maestro:  
 
 ![](ofac21.png)
 
@@ -43,7 +41,7 @@ En el maestro:
 
 ![](ofac2.png)
 
-En el detalle permite llevar el registro de los siguientes campos.
+En el detalle permite llevar el registro de los siguientes campos.  
 
 **Renglón:** Consecutivo que se genera de acuerdo al número de productos que viene en la factura.  
 **Producto:** Código del producto que fue comprado.  
@@ -64,23 +62,24 @@ En el detalle permite llevar el registro de los siguientes campos.
 **Moneda:** Moneda en la cual se genera la factura de compra.  
 **Observación:** Con respecto a la factura de compra.  
 **Valores:** La tabla de valores muestra los estados por los que pasa el valor del producto desde su valor inicial pasando por descuentos, aplicación de impuestos hasta su valor real o final después de todos los ajustes necesarios hechos en la factura.  
-**Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
+**Proyecto:** Parametrizacion que se realiza en basico de proyectos **BPRY**.  
 **AmortizePeriods:** numero de periodos donde se registran meses a amortizar el producto. ejemplo:  
 
 ![](ofac17.png)
 
 *****
 * En la pestaña **Presupuesto:**  
- Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
+ Su funcionabilidad se establece apartir de la parametrizacion del documento: **BDOC**, concepto **BCON**, plantilla **BPLA** o en su defecto:  
+
  Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
  
  ![](ofac15.png)
  
-## [Pestaña Contabilización Resumida]  
+#### Pestaña Contabilización Resumida  
 
 Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
- ![](ofac31.png)
 
+ ![](ofac31.png)
 
 ## [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos)
 
@@ -90,7 +89,7 @@ De acuerdo a lo anterior, OASISCOM presenta el siguiente documento que nos ayuda
 
 ### _Escenario 1_
 
-## [Ingreso de Activo Fijo por Compras (OFAC)](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#Ingreso-de-Activo-Fijo-por-Compras-(OFAC))
+## [Ingreso de Activo Fijo por Compras - OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#Ingreso-de-Activo-Fijo-por-Compras---OFAC)
 
 Para poder realizar los movimientos en el sistema es necesario realizar las siguientes parametrizaciones previamente:  
 
