@@ -13,6 +13,7 @@ editable: si
 * [Parametrización de Terceros para la Liquidación de Comisiones](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizacion-de-terceros-para-la-liquidación-de-comisiones)  
 * [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrización-fidelización-de-clientes)  
 * [Parametrización tipo de Impuesto ICA - Tercero para compras](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrización-tipo-de-impuesto-ica---tercero-para-compras)  
+* [Asignación de Categoría a los Colaboradores](http://docs.oasiscom.com/Operacion/common/btercer/bter#asignación-de-categoría-a-los-colaboradores)
 
 
 En esta aplicación parametrizamos o registramos todos los terceros que podemos tener, para el sistema Oasis la palabra terceros se hace referencia a: empleados, clientes, proveedores, afiliados, vendedores, asociados, entre otros. Es decir, todas las personas que interactúan o se relacionan con nuestro negocio.  
@@ -144,7 +145,15 @@ Importante
  **_funcionabilidad:_**  
  
  Cuando se realice un documento de viáticos **[TVIA]** con este tercero; el centro de costo parametrizado se aplicara y su ubicación laboral, se reflejara en los viaticos.  
- 
- 
- 
- 
+
+## [Asignación de Categoría a los Colaboradores](http://docs.oasiscom.com/Operacion/common/btercer/bter#asignación-de-categoría-a-los-colaboradores)
+
+Para realizar la asignación de cada categoría a los colaboradores *(A, B o C)* nos dirigimos a la aplicación **BTER - Terceros** y en el campo *Shoping* del Detalle se realiza el proceso creando un nuevo renglón con el símbolo (+), diligenciando los campos como se muestra acontinuación:
+
+![](Imagen 1 bter.png)
+
+
+
+
+
+
