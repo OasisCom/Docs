@@ -54,7 +54,7 @@ En la pestaña **_Distribución_** se distribuye el gasto de la depreciación pa
 
 ![](hact7.png)  
 
-### Entrada del activo desde OFAC  
+### [**Entrada del activo desde OFAC**]((http://docs.oasiscom.com/Operacion/erp/activo/hbasica/hact#Entrada-del-activo-desde-OFAC)  
 
 Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.  
 
