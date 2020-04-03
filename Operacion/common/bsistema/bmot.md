@@ -150,9 +150,11 @@ Primero que todo, tenga en cuenta que para realizar los movimientos de activos f
 
 En el maestro de esta aplicación, se consultan los siguientes campos:  
 
+![](bmot17.png)  
+
 **Documento:**  Se consulta el documento MA  
 **Nombre documento:** Activos fijos que corresponde al documento MA  
 **Concepto:** En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja  
 
-![](bmot17.png)  
+
 
