@@ -142,4 +142,17 @@ En el maestro ingresamos el documento al cual se le parametrizará el adjunto y 
 
 De esta manera, al adjuntar documentos por ejemplo para la opción **XEXP**, se mostrará un listBox para la selección del tipo de adjunto.  
 
-![](bmot16.png)
+![](bmot16.png)  
+
+## [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos) 
+
+Primero que todo, tenga en cuenta que para realizar los movimientos de activos fijos, se deben tener en cuenta varias aplicaciones adicionales a esta **BMOT - Motivos**, a saber:  [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#movimientos-de-activos-fijos), [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#movimientos-de-activos-fijos) y donde se realizan los movimientos: [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV)  
+
+En el maestro de esta aplicación, se consultan los siguientes campos:  
+
+**Documento:**  Se consulta el documento MA  
+**Nombre documento:** Activos fijos que corresponde al documento MA  
+**Concepto:** En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja  
+
+![](bmot17.png)  
+
