@@ -67,7 +67,29 @@ Es importante resaltar que estas cuentas solo deben ser incluidas para conceptos
 
 Para el proceso de Ingreso de Activo Fijo por Compras, en la aplicación BPLA se debe incluir en la plantilla del documento _FP x FP_ el código IVC tal como se muestra en la imagen.  
 
-![](bplaa.png)
+![](bplaa.png)  
+
+## [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#movimientos-de-activos-fijos)  
+
+Primero que todo, tenga en cuenta que para realizar los movimientos de activos fijos, se deben tener en cuenta varias aplicaciones adicionales a esta **BPLA - Documentos**, a saber:  [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#movimientos-de-activos-fijos), [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos) y donde se realizan los movimientos: [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV).  
+
+En esta aplicación, le vamos a indicar al sistema cómo debe contabilizar cada uno de los movimientos generados:  
+
+**Documento:**  Consultamos el documento MA de movimiento de activos.  
+**Concepto:**  En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja.    
+**Código:** En este campo, se le debe decir al sistema qué código debe causar, por ejemplo, un activo, una depreciación, una pérdida o una utilidad según corresponda.  
+**Cuenta:** En el campo cuenta, se registrar la cuenta contable siempre y cuando sea la misma para todos los activos fijos; en caso de que no sea la misma, se registra 0(cero).  
+**Depende:**  En el campo depende, se le dice al sistema que depende del activo fijo.  
+**Naturaleza:** Se registra la naturaleza que corresponda, o sea, débito o crédito.  
+**Obligatorio:**  En este campo, se le debe decir al sistema si debe causar los códigos o no; por ejemplo, si el activo ya se depreció en su totalidad, entonces solo se debe causar la cuenta del activo fijo con su respectiva depreciación.  En caso de que el activo no se haya depreciado en su totalidad, el valor restante lo debe llevar a una pérdida o utilidad según corresponda; por tal motivo, los campos que siguen no son obligatorios de diligenciar:  
+**Detalle maestro:**  
+**Estado:**
+**Orden:**  
+
+![](bpla5.png)  
+
+
+
 
 
 
