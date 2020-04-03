@@ -152,6 +152,13 @@ Para realizar la asignación de cada categoría a los colaboradores *(A, B o C)*
 
 ![](Imagen 1 bter.png)
 
+Adicional a la asignación de categoría, en esta aplicación en el campo Cuentas del Detalle se debe registrar la cuenta bancaria del colaborador, de la siguiente manera:
+
+![](Imagen 2 bter.png)
+
+Si tiene tarjeta de crédito se debe registrar en el campo tarjeta de crédito el id del **BUBI** que corresponda.
+
+
 
 
 
