@@ -11,6 +11,11 @@ editable: si
 Aplicación de movimientos, donde se registran solicitudes de itinerario y viajes y legalizaciones de estos.  
 Contablemente sus contrapartidas son cartera contra el gasto. En las legalizaciones se detallan los diferentes conceptos como: alimentación, tiquetes, hotel, trasportes etc. tipo débitos contra el gasto.  
 
+>+ [Solicitud Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-viáticos)
+>+ [Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#legalización-viáticos)
+
+## [Solicitud Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-viáticos)
+
 Para crear una solicitud de viáticos, se debe ingresar a la aplicación TVIA y dar clic en el en el recuadro con el símbolo más (+), como se muestra a continuación: 
 
 ![](Imagen 1 tvia.png)
@@ -94,6 +99,52 @@ Para ver en detalle el formato de legalización de Gastos del Viaje se debe dar 
 El formato que se podrá visualizar es el siguiente:
 
 ![](Imagen 9 tvia.png)
+
+## [Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#legalización-viáticos)
+
+Para realizar la Legalización de la solicitud, se debe ingresar a la aplicación **TVIA** y dar clic en el botón más (+) para que aparezca el formulario.
+
+![](Imagen 10 tvia.png)
+
+En el formulario que aparece se debe ingresar en el campo documento las iniciales *VL* (Legalización de viático), el *tercero* (la cédula del empleado) y en los campos solicitud, solicitud número y doc ubicación se debe asociar la solicitud del viático creada anteriormente. Posteriormente, el rol que corresponde debe aprobar la legalización por medio del campo Aprobar activando el check. 
+
+![](Imagen 11 tvia.png)
+
+Al tener diligenciados los campos en el formulario se procede a dar clic en el botón *Guardar.*
+
+![](Imagen 12 tvia.png)
+
+El sistema crea un nuevo renglón cuando el registro se *guarda,* como se muestra a continuación: 
+
+![](Imagen 13 tvia.png)
+
+Al realizar esto, el sistema trae automáticamente del detalle de acuerdo con los conceptos registrados en la solicitud, allí se debe iniciar la legalización por cada uno de los conceptos, registrando el valor que corresponde, si tiene IVA o impuesto al consumo se debe registrar el valor correspondiente a estos impuestos, el motivo (esto identificará a que cuenta del gasto debe causar el concepto), la fecha de la factura, el comprobante, el tercero que facturó, la ciudad en la que se tomó el servicio o producto y el método de pago en la operación, si fue con efectivo, por boucher o con avance de la tarjeta de crédito.
+
+![](Imagen 14 tvia.png)
+
+En el Detalle también se encuentra el recuadro *Transportes*, donde se habilitan unos campos que se pueden diligenciar para detallar los transportes tomados por los colaboradores.
+
+![](Imagen 15 tvia.png)
+
+Una vez se culmina con el diligenciamiento de la solicitud, el área encargada procesa el documento para que el sistema realice la causación contable correspondiente de acuerdo con la parametrización del [**BPLA.**]() Esto se puede visualizar en la pestaña contabilización de la solicitud.
+
+![](Imagen 16 tvia.png)
+
+Para ver en detalle el formato de legalización de Gastos del Viaje se debe dar clic en la lupa que aparece en la parte superior de la página: 
+
+![](Imagen 8 tvia.png)
+
+El formato que se podrá visualizar es el siguiente: 
+
+![](Imagen 17 tvia.png)
+
+
+
+
+
+
+
+
 
 
 
