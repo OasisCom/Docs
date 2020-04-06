@@ -11,49 +11,6 @@ editable: si
 Aplicación de movimientos, donde se registran solicitudes de itinerario y viajes y legalizaciones de estos.  
 Contablemente sus contrapartidas son cartera contra el gasto. En las legalizaciones se detallan los diferentes conceptos como: alimentación, tiquetes, hotel, trasportes etc. tipo débitos contra el gasto.  
 
->+ [Solicitud Itinerario](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-itinerario)
->+ [Solicitud de Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-de-viáticos)
-
-
-
-## [Solicitud Itinerario](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-itinerario)
-Recuerde que este documento se realiza por la ubicación que haya sido designada para administrar estos recursos.  
-
-![](tvia1.png)
-
-No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACION**.
-
-**Documento:** Iniciales del documento.  
-**Número:** Número con el cual se ingresa al sistema el movimiento.  
-**Ubicación:** Identificación numérica y nombre de la ubicación que genera el movimiento.  
-**Fecha:** Fecha en la cual se hace el movimiento.  
-**Concepto:** Concepto por el cual se va a registrar el movimiento.  
-**Nombre Tercero:** Nombre del tercero quien es responsable del viaje.  
-**Estado:** Estado en el cual se encuentra el movimiento, Activo, Procesado, Anulado.  
-
-En el maestro se relacionan los siguientes campos:
-
->+ RequiresTicket:  
->+ RequiresHotel:  
->+ 'FechaOriginal' y 'ExpireDate'.  
-
-*Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y editar fechas de la estadía del hotel.*  
-
-
-En el detalle del documento se relacionan los conceptos que han sido designados para ser controlados. Antes se debe asegurar que los conceptos hayan sido creados en la opción [**BDOC**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) y la contabilización se debe definir en la opción [**BPLA**.]()  
-
-
-* Campos ImpConsumo, ValueTax en el detalle; para que cuando legalicen las facturas de lo gastado; los viáticos diferencien el subtotal y los impuestos (IVA e impuesto al consumo).  
-
-![](tvia3.png)
-
-* Esta aplicación permite exportar e imprimir.  
-
-![](tvia2.png)
-
-
-## [Solicitud de Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-de-viáticos)
-
 Para crear una solicitud de viáticos, se debe ingresar a la aplicación TVIA y dar clic en el en el recuadro con el símbolo más (+), como se muestra a continuación: 
 
 ![](Imagen 1 tvia.png)
@@ -100,6 +57,36 @@ Una vez se culmina con el diligenciamiento de la solicitud, el área encargada p
 
 ![](Imagen 7 tvia.png)
 
+Recuerde que este documento se realiza por la ubicación que haya sido designada para administrar estos recursos.  
+
+![](tvia1.png)
+
+No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACION**.
+
+**Documento:** Iniciales del documento.  
+**Número:** Número con el cual se ingresa al sistema el movimiento.  
+**Ubicación:** Identificación numérica y nombre de la ubicación que genera el movimiento.  
+**Fecha:** Fecha en la cual se hace el movimiento.  
+**Concepto:** Concepto por el cual se va a registrar el movimiento.  
+**Nombre Tercero:** Nombre del tercero quien es responsable del viaje.  
+**Estado:** Estado en el cual se encuentra el movimiento, Activo, Procesado, Anulado.  
+
+En el maestro se relacionan los siguientes campos:
+
+>+ RequiresTicket:  
+>+ RequiresHotel:  
+>+ 'FechaOriginal' y 'ExpireDate'.  
+
+*Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y editar fechas de la estadía del hotel.*  
+
+
+En el detalle del documento se relacionan los conceptos que han sido designados para ser controlados. Antes se debe asegurar que los conceptos hayan sido creados en la opción [**BDOC**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) y la contabilización se debe definir en la opción [**BPLA**.]()  
+
+
+* Campos ImpConsumo, ValueTax en el detalle; para que cuando legalicen las facturas de lo gastado; los viáticos diferencien el subtotal y los impuestos (IVA e impuesto al consumo).  
+
+![](tvia3.png)
+
 Para ver en detalle el formato de legalización de Gastos del Viaje se debe dar clic en la lupa que aparece en la parte superior de la página:
 
 ![](Imagen 8 tvia.png)
@@ -107,6 +94,9 @@ Para ver en detalle el formato de legalización de Gastos del Viaje se debe dar 
 El formato que se podrá visualizar es el siguiente:
 
 ![](Imagen 9 tvia.png)
+
+
+
 
 
 
