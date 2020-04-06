@@ -42,7 +42,9 @@ editable: si
 
 >##### [WEBINAR: Factura Electrónica - Validación Previa - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-F-EVP.pdf)
 >##### [WEBINAR: ¿Cómo hacer transferencias en OasisCom? - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion-we-transacciones.pdf)
->##### [WEBINAR: Transformación Digital como ventaja competitiva - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-transformacion-digital-feb.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Transformación Digital como ventaja competitiva - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-transformacion-digital-feb.pdf)
+>##### [WEBINAR: Pasos para la generación de Medios Magnéticos - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-madios-magneticos-2020.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
 
 
 

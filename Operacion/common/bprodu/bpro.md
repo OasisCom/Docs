@@ -86,4 +86,16 @@ Finalmente, damos click en el botón ![](guardar.png) de la barra de herramienta
 
 A continuación, se deberá parametrizar la aplicación [**BCCL - Calidades**](http://docs.oasiscom.com/Operacion/common/bcomer/bccl) para poder realizar el proceso de compra de café. (_Ver aplicación_)  
 
-### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-para-el-módulo-activos-fijos)
+## [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-para-el-módulo-activos-fijos)  
+
+En esta aplicación, se crean cada uno de los productos tipo Activo Fijo.  Para esto, es necesario registrar:  
+
+![](bpro10.png)
+
+**Producto:** Código de identificación del producto  
+**Nombre producto:**  De acuerdo al código de identificación  
+**Clasificación:**  Se registra lo creado anteriormente en el [**BCLA - Clasificación**](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#Parametrización-para-el-módulo-activos-fijos)  
+**Inventario:** Se indica que es Activo fijo  
+**Id Grupo:** Vamos a registrar lo creado anteriormente en el [**BGRU  - Grupo**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#Parametrización-para-el-módulo-activos-fijos)  
+**IvaCapitalizable:** Se debe marcar el flag a los activos en donde el Iva es mayor valor del activo
+
