@@ -11,10 +11,12 @@ editable: si
 Aplicación de movimientos, donde se registran solicitudes de itinerario y viajes y legalizaciones de estos.  
 Contablemente sus contrapartidas son cartera contra el gasto. En las legalizaciones se detallan los diferentes conceptos como: alimentación, tiquetes, hotel, trasportes etc. tipo débitos contra el gasto.  
 
->+ [Solicitud Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-viáticos)
->+ [Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#legalización-viáticos)
+No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACION**.
 
-## [Solicitud Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#solicitud-viáticos)
+>+ [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
+>+ [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
+
+## [Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#anticipo-viáticos)
 
 Para crear una solicitud de viáticos, se debe ingresar a la aplicación TVIA y dar clic en el en el recuadro con el símbolo más (+), como se muestra a continuación: 
 
@@ -27,7 +29,7 @@ Seguidamente, aparece un formulario en el cual se deben diligenciar los campos t
 - **Concepto:** En este campo se debe ingresar el concepto por el cual se está realizando la solicitud.  
 - **Identificación:** En este campo se diligencia el número del documento de identidad del colaborador que está realizando la solicitud.  
 
-Al diligenciar el número de documento, los campos **Empleado, Ubicación laboral, Cuenta Bancaria, Banco, Tipo de Cuenta Bancaria, Email, Celular, Tarjeta de Crédito y Categoría** son diligenciados automáticamente por el sistema de acuerdo con la parametrización del [BTER.]()
+Al diligenciar el número de documento, los campos **Empleado, Ubicación laboral, Cuenta Bancaria, Banco, Tipo de Cuenta Bancaria, Email, Celular, Tarjeta de Crédito y Categoría** son diligenciados automáticamente por el sistema de acuerdo con la parametrización del [BTER.](http://docs.oasiscom.com/Operacion/common/btercer/bter)
 
 - **ID Origen:** En este campo se diligencia la ubicación de partida del colaborador.  
 - **ID Destino:** En este campo se diligencia el lugar de destino del colaborador.  
@@ -65,8 +67,6 @@ Una vez se culmina con el diligenciamiento de la solicitud, el área encargada p
 Recuerde que este documento se realiza por la ubicación que haya sido designada para administrar estos recursos.  
 
 ![](tvia1.png)
-
-No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACION**.
 
 **Documento:** Iniciales del documento.  
 **Número:** Número con el cual se ingresa al sistema el movimiento.  
