@@ -89,7 +89,7 @@ De acuerdo a lo anterior, OASISCOM presenta el siguiente documento que nos ayuda
 
 ### _Escenario 1_
 
-## [Ingreso de Activo Fijo por Compras OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac##ingreso-de-activo-fijo-por-compras-ofac)
+## [Ingreso de Activo Fijo por Compras OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#ingreso-de-activo-fijo-por-compras-ofac)
 
 Para poder realizar los movimientos en el sistema es necesario realizar las siguientes parametrizaciones previamente:  
 
