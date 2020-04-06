@@ -73,8 +73,8 @@ No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un
 
 En el maestro se relacionan los siguientes campos:
 
->+ RequiresTicket:  
->+ RequiresHotel:  
+>+ RequiresTicket.  
+>+ RequiresHotel.  
 >+ 'FechaOriginal' y 'ExpireDate'.  
 
 *Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y editar fechas de la estadía del hotel.*  
