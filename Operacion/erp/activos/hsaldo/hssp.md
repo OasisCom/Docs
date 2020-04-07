@@ -5,8 +5,7 @@ permalink: /Operacion/erp/activos/hsaldo/hssp
 editable: si
 ---
 
-# Saldos de Activos - HSSP
-
+# [**Saldos de Activos - HSSP**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-activos-hssp)
 En esta aplicación puedes realizar los siguientes movimientos:
 
 * Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra   
