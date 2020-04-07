@@ -187,7 +187,7 @@ Finalmente, procesamos el documento.
 
 ## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
 
-Lo primero que debemos hacer es configurar la variable en la aplicación **WVAR**, en el campo columna *Formula* debemos bien sea **(1) ** para activo o **(0) ** para desactivar la funcionalidad. 
+Lo primero que debemos hacer es configurar la variable en la aplicación **WVAR**, en el campo columna *Formula* debemos bien sea **(1)** para activo o **(0)** para desactivar la funcionalidad. 
 ![](imagenes/wvar.png)  
 
 El siguiente paso sera crear la orden en la aplicación Eitra con el concepto de recepción**(RC)**.
@@ -208,8 +208,8 @@ Para ir terminando damos clic en guardar y nos llevara a la última sección don
 ![](imagenes/eitra7.png)  
 Al igual que en la sección de Producto podremos configurar la lista desplegable de estos dos últimos campos.  
 
-**Defecto: ** Esta lista se carga del programa **(BFAL)**, Carga solo registros activos, imputables y Tipo T.
-**Gravedad: ** Esta lista al igual que para el campo lote  se carga de la opción  características **(BCRC)**.  
+**Defecto:** Esta lista se carga del programa **(BFAL)**, Carga solo registros activos, imputables y Tipo T.
+**Gravedad:** Esta lista al igual que para el campo lote  se carga de la opción  características **(BCRC)**.  
 
 ## [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
 
