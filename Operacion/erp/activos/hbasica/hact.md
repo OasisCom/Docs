@@ -28,7 +28,7 @@ Procedemos a ingresar las características del activo fijo.
 
 Deslizamos la ventana hacia la derecha y diligenciamos los campos pertinentes.
 
-#### [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)
+### [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)
 
 ![](hact2.png)
 
@@ -58,7 +58,7 @@ En la pestaña **_Distribución_** se distribuye el gasto de la depreciación pa
 
 ![](hact7.png)  
 
-#### [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)  
+### [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)  
 
 Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.  
 
