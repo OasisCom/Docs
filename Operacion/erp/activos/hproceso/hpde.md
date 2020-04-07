@@ -5,7 +5,7 @@ permalink: /Operacion/erp/activos/hproceso/hpde
 editable: si
 ---
 
-# Depreciación - HPDE  
+# [**Depreciación - HPDE**](http://docs.oasiscom.com/Operacion/erp/activos/hproceso/hpde#depreciacion-hpde)  
 
 Esta aplicación permite generar la depreciación automática de los activos fijos desde OASISCOM.  
 
