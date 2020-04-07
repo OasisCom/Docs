@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Liquidación de prestaciones  
-permalink: /Operacion/is/salud/eafiliacion/movadm/eapo
+permalink: /Operacion/is/salud/eafiliacion/movadm/elip
 editable: si
 ---
 
