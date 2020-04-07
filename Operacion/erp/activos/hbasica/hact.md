@@ -87,7 +87,6 @@ En la parte inferior o detalle, vemos características de depreciación, podemos
 
 Por último, en el campo distribución, vamos a indicarle al activo fijo a qué centro de costo va el gasto, por ejemplo cuando se va a realizar la depreciación el Documento es MA y el concepto DP, traemos la cuenta del gasto a la cual este activo fijo debería contabilizar y por último, en el campo _DestinyCostCenterID_, se registra a qué centro de costo va la contabilización y en este caso el porcentaje es del 100%, pero si se quiere, se pueden generar diferentes porcentajes en diferentes centros de costos.  
 
-![](hact16.png)
 
 Finalmente, se guarda el registro.  
 
