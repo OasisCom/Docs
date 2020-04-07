@@ -184,3 +184,47 @@ Al terminar el almacenamiento, se creará un registro por cada localización de 
 Finalmente, procesamos el documento.  
 
 ![](eitra16.png)
+
+## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
+
+Lo primero que debemos hacer es configurar la variable en la aplicación **WVAR**, en el campo columna *Formula* debemos bien sea **(1) ** para activo o **(0) ** para desactivar la funcionalidad. 
+![](imagenes/wvar.png)  
+
+El siguiente paso sera crear la orden en la aplicación Eitra con el concepto de recepción**(RC)**.
+![](imagenes/eitra1.png)  
+
+Luego damos clic en guardar y nos dirigimos a la pestaña detalle donde nos va a cargar el listado de productos que corresponden a la orden o pedido que se ha registrado previamente.
+![](imagenes/eitra2.png)  
+
+En la imagen previa podemos ver el icono de color amarillo en el cual solo podremos crear defectos técnicos.  
+
+Una vez damos clic en el botón de color amarillo llamado *Acta Técnica* nos muestra el formulario para ser diligenciado en 3 partes como lo es Acta Técnica, Producto y Detalle de defectos.  
+![](imagenes/eitra3.png)  
+Una vez damos clic en el botón guardar él nos llevara de forma automática a la siguiente sección.
+![](imagenes/eitra5.png)  
+Nota: Para realizar la parametrización del campo **Lote** lo demos realizar en la aplicación**(BCRC)**.  
+
+Para ir terminando damos clic en guardar y nos llevara a la última sección donde encontraremos los defectos que se hallan creado para esta orden de compra o pedido.
+![](imagenes/eitra7.png)  
+Al igual que en la sección de Producto podremos configurar la lista desplegable de estos dos últimos campos.  
+
+**Defecto: ** Esta lista se carga del programa **(BFAL)**, Carga solo registros activos, imputables y Tipo T.
+**Gravedad: ** Esta lista al igual que para el campo lote  se carga de la opción  características **(BCRC)**.  
+
+## [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
+
+Con el fin de consultar los registros creados por concepto recepción en la aplicación Eitra se creó la aplicación Acta Técnica **(OACT)**, la cual está diseñada tanto para consultar información de cada una de las actas que hayamos creado como también nos va a permitir crear novedades de tipo administrativo en las pestañas del detalle del registro del maestro.  
+
+
+**Crear Registro Nuevo**  
+Se podrá crear un registro nuevo a través de la opción ***oact*** de forma sencilla.
+![](imagenes/oact1.png)  
+
+**Tipos de Defectos**  
+
+A diferencia de la opción de [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion) en esta aplicación se pueden crear tanto Defectos Técnicos como Defectos Administrativos en las pestañas del detalle.
+
+![](imagenes/oact2.png)  
+
+Hay que recordar que para la parametrización de la lista desplegable del campo Criterio se debe realizar dentro de la aplicación características **(BCRC)**. 
+![](imagenes/oact3.png)  
