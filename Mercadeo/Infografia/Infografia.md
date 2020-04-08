@@ -11,11 +11,12 @@ editable: si
 -----------------------------------------------------------------
 #### [Infografías de soluciones OasisCom](http://docs.oasiscom.com/Mercadeo/Infografia/físico solución general-02.png)
 
->###### [OasisCom Salud](http://docs.oasiscom.com/Mercadeo/Infografia/Salud_infografía.png)
+>###### [OasisCom Salud-ERP](http://docs.oasiscom.com/Mercadeo/Infografia/infografia-salud-erp.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 >###### [Puntos de Venta / POS](http://docs.oasiscom.com/Mercadeo/Infografia/Infografía_POS_OasisCom.png)
 >###### [OasisCom Restaurantes](http://docs.oasiscom.com/Mercadeo/Infografia/flujo_oasiscom_restaurante.png)
 >###### [OasisCom WMS- Sistema para inventarios](http://docs.oasiscom.com/Mercadeo/Infografia/infografia_OasisCom_logística.png)
 >###### [OasisCom WMS](http://docs.oasiscom.com/Mercadeo/Infografia/infografia_descriptivo_logística.png)
+>###### [OasisCom Salud](http://docs.oasiscom.com/Mercadeo/Infografia/Salud_infografía.png)
 ---
 
 #### [Productos complementarios](http://docs.oasiscom.com/Mercadeo/Infografia/físico soluciones avanzadas-02.png)
