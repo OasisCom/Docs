@@ -5,7 +5,27 @@ permalink: /Operacion/erp/activos/hsaldo/hssp
 editable: si
 ---
 
-# [**Saldos de Activos - HSSP**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-activos-hssp)
+# [**Saldos de Activos - HSSP**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-activos-hssp)  
+
+####  Maestro
+
+**Periodo:**  Periodo del que queremos ver el saldo del activo  
+**Año:**  Año del que se quiere ver el saldo del activo    
+**Libro:**  0(cero)  
+**Activo:** El código del activo del cual queremos ver el saldo  
+**Nombre activo:**  el nombre del activo ligado al código del anterior campo  
+**Débito:** Costo histórico del activo fijo  
+**CreditDep:**  Depreciación ejecutada en el mes que se consulta  
+**BalanceDep:** Depreciación acumulada a la fecha de la consulta  
+**BalanceBook:** Saldo en libros, o sea, costo histórico menos la depreciación acumulada  
+**SaldoCant.:**  Unidades que hay del activo fijo  
+**InputUse:** Vida útil del activo fijo  
+**BalanceQuantityDep:** Cuántos meses se ha depreciado el activo fijo  
+**BalanceQuantityUseBook:** Cuántos meses le quedan pendientes por depreciar al activo fijo  
+
+![](hssp5.png)  
+![](hssp6.png)  
+
 En esta aplicación puedes realizar los siguientes movimientos:
 
 * Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra   
