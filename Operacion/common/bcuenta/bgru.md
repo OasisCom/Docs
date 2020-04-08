@@ -65,21 +65,21 @@ En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de
 
 ![](bgru8.png)    
 
-**ID grupo:** - En el primer campo, registramos el número de identificación del grupo  
-**Nombre del grupo:** - De acuerdo con el código, se de el nombre del grupo  
-**Tipo:**  - El tipo del grupo contable, en este caso, se selecciona activo
-**Type Asset:** - Cuál es el tipo del activo, es decir, si es propiedad, planta y equipo o alguno de la clasificación  
-**Type Depreciation** - Cuál es el método de depreciación  
-**Vida Útil** - La vida útil, que es lo que debría estar vigente el activo antes de depreciarlo el 100%  
-**Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable  
+**ID grupo:** - En el primer campo, registramos el número de identificación del grupo    
+**Nombre del grupo:** - De acuerdo con el código, se de el nombre del grupo    
+**Tipo:**  - El tipo del grupo contable, en este caso, se selecciona activo    
+**Type Asset:** - Cuál es el tipo del activo, es decir, si es propiedad, planta y equipo o alguno de la clasificación    
+**Type Depreciation** - Seleccionar de la lista desplegable tipo de depreciación: línea recta, suma dígitos, unidades producidas, reducción de saldos.      
+**Vida Útil** - La vida útil, que es el tiempo que debería estar vigente el activo antes de depreciarlo el 100%    
+**Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable    
 
-En el detalle, se registran las cuentas contables correspondientes:  
+En el detalle, se registran las cuentas contables correspondientes:    
 
 ![](bgru9.png)  
 
-**Código:** - En este caso, ACF  
-**Nombre código:**  En este caso, Activo fijo    
-**Cuenta**  - Cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo
+**Código:** - En este caso, ACF    
+**Nombre código:**  En este caso, Activo fijo      
+**Cuenta**  - En este campo, se debe ingresar por cada código, la cuenta contable a la cual se va a afectar, por ejemplo, cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo  
 
 
 

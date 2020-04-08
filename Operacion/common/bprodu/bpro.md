@@ -94,8 +94,8 @@ En esta aplicación, se crean cada uno de los productos tipo Activo Fijo.  Para 
 
 **Producto:** Código de identificación del producto  
 **Nombre producto:**  De acuerdo al código de identificación  
-**Clasificación:**  Se registra lo creado anteriormente en el **BCLA - Clasificación**  
+**Clasificación:**  Se registra lo creado anteriormente en el [**BCLA - Clasificación**](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#Parametrización-para-el-módulo-activos-fijos)  
 **Inventario:** Se indica que es Activo fijo  
-**Id Grupo:** Vamos a registrar lo creado anteriormente en el **BGRU  - Grupo**  
+**Id Grupo:** Vamos a registrar lo creado anteriormente en el [**BGRU  - Grupo**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#Parametrización-para-el-módulo-activos-fijos)  
 **IvaCapitalizable:** Se debe marcar el flag a los activos en donde el Iva es mayor valor del activo
 

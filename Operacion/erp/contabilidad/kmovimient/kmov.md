@@ -40,26 +40,58 @@ En la pestaña de detalle se especifica el documento origen por el cual se está
  **Negocio:** Número de negocio.  
  **ProyectId:** Número de proyecto.  
  **BaseRetencion:** Valor de retención que se le aplica a un concepto.  
+ 
+ 
+## Nota de Contabilidad  
 
-## [Documento de Ajustes Contables](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov#documento-de-ajustes-contables)
+Las notas de contabilidad se usan para realizar cualquier registro contable para cuentas que no son controladas por módulos del sistema.  
+En este ejemplo, se va a realizar una nota de contabilidad por un mal registro causado en el mes de abril donde se causó el gasto; se causó al gasto de ventas y realmente era un gasto administrativo.  
+Adicionamos un nuevo registro.  
 
-Realizado anteriormente el proceso de Generación de Ajustes en la aplicación [**KPGA**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpga), consultaremos los documentos generados en la aplicación _KMOV_ con los ajustes encontrados. El documento que se genera será _KA x KA_ ,es decír, documento KA por concepto KA.  
 
-Al ingresar a KMOV filtraremos por documento KA, concepto KA y estado _Activo_.  
+**Documento:**  Podemos buscar por el zoom y escoger la opción NK de Nota de contabilidad  
+**Concepto:** También escogemos NK al igual que en el campo documento  
+**Motivo:** 0 (cero) indefinido  
+**Total:**  Diligenciamos el total del gasto a reclasificar  
+**Tercero:**  Podemos buscar por el zoom o diligenciar el NIT del tercero si ya lo conocemos  
+**Observación:**  Diligenciamos la causa de la nota de contabilidad que en este ejemplo sería Reclasificación de cuentas.  
 
 ![](kmov3.png)
 
-Se deberán validar los ajustes que se encuentran en el detalle de la fila seleccionada del maestro y posteriormente procesar el documento dando click en el botón _Procesar_.  
+Ahora, guardamos el registro.  
 
-![](kmov4.png)
+Posteriormente, se crea el detalle:   
 
-En las siguientes aplicaciones se pueden validar los cambios que se hayan efectuado al momento de generar los ajustes y haber procesado el documento en KMOV.  
+Se adiciona una nueva fila en el detalle  
 
-* [Balance de Prueba Ajustado - KRPA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpa)
-* [Balance de Prueba Ajustado - KRPA1](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpa1)
-* [Balance General Ajustado  - KRBA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krba)
-* [Balance General Ajustado  - KRBA1](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krba1)
-* [Estado de Ganancias y Pérdidas Ajustado - KRGA1](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krga1)
+![](kmov4.png)  
+
+**Cuenta:** Se diligencia el código de la cuenta en la que se diligenció el error  
+**Nombre cuenta:** La misma relacionada con el código que se diligencia automáticamente  
+**Naturaleza:** Ya que es la cuenta de la que vamos a retirar el dinero causado, la vamos a registrar con la naturaleza contraria de su respectiva parametrización en **BCUE**  
+**Valor:** El mismo dato que colocamos arriba en el maestro  
+**Tercero:** El mismo dato que colocamos arriba en el maestro  
+
+Guardamos el registro.  
+
+Ahora, adicionamos otra fila donde crearemos la reclasificación, es decir, escribimos los datos donde realmente debería ir el registro:  
+![](kmov5.png)  
+
+**Cuenta:** El código donde realmente va el registro  
+**Nombre cuenta:** De acuerdo al código diligenciado  
+**Naturaleza:** Se oprime tab y el sistema escribe automáticamente  
+**Valor:** Mismo valor  
+**Tercero:** Mismo tercero  
+
+Se guarda el registro.
+
+Luego de guardado el registro, se procesa desde el maestro
+
+![](kmov6.png)  
+
+Si queremos verificar que se haya efectuado el documento, podemos consultar la aplicación [**KRAX - Libro Auxiliar Detallado**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krax) 
+
+En esta aplicación se tiene la posibilidad de consultar de diferentes formas; puede ser, con el número de cuenta en el campo **Cuenta** y la aplicación nos mostrará un resumen de todos los movimientos realizados con esta cuenta
 
 
 
