@@ -10,7 +10,7 @@ editable: si
 * [**Maestro**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#maestro)  
 * [**Detalle**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#detalle)  
 * [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-OFAC-Facturas-de-compra)  
-* [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos)
+* [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-HMOV-Movimientos)
  
 
 ####  [**Maestro**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#maestro)
