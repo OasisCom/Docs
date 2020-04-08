@@ -10,7 +10,8 @@ editable: si
 * [**Maestro**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#maestro)  
 * [**Detalle**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#detalle)  
 * [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-ofac-facturas-de-compra)  
-* [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-HMOV-Movimientos)
+* [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-HMOV-Movimientos)  
+* [**Saldos de la depreciación**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-la-depreciacion)
  
 
 ####  [**Maestro**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#maestro)
@@ -58,7 +59,7 @@ Realizado con anterioridad el movimiento de ingreso de Activo Fijo por HMOV en l
 
 ![](hssp2.png)  
 
-##  [**Saldos de la depreciación**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-la-depreciacion)  
+###  [**Saldos de la depreciación**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-la-depreciacion)  
 
 Después de verificados en la contabilización del [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimiento-de-depreciaci%C3%B3n-de-un-activo-fijo) la acreditación y debitación del movimiento que creamos de un activo fijo, filtramos el activo que deseamos consultar y el sistema nos muestra el valor por el cual se generó la depreciación por medio de un documento MA número 3.  Al finalizar, el sistema nos va a indicar que se generó 1 mes de depreciación y por lo tanto, nos quedan 59 meses por depreciar (en el ejemplo)  
 
