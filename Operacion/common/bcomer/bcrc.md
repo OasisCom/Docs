@@ -10,7 +10,7 @@ editable: si
 En esta aplicación se parametrizan todas las características que queramos diligenciar por ejemplo si la empresa es de producción podemos diligenciar las características que definen nuestro producto como lo es talla, ancho, color, material, referencia, peso, entre otros.
 
 > + [Parametrización características - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---análisis-de-calidad)
-> + [Parametrización características - Legalización Viáticos ](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
+> + [Parametrización características - Legalización Viáticos](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
 
 
 ![](bcrc1.png)
@@ -39,7 +39,7 @@ En el detalle se deben parametrizar las características del campo, es decir, la
 ![](bcrc3.png)
 
 
-## [Parametrización caracteristicas - Legalización Viáticos ](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#paramentrización-caracteristicas---legalización-viáticos)
+## [Parametrización características - Legalización Viáticos](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
 
 Para la validación de topes, en la aplicación **BCRC,** de acuerdo con las políticas o el procedimiento interno de la empresa se hace la parametrización de topes, si se quiere, teniendo en cuenta también una categorización. Dichas categorías son *A, B, o C* y con base a estas, al concepto y a los días se fijan los topes.
 
