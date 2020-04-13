@@ -9,6 +9,14 @@ editable: si
 
 La aplicación **BMOT** permite el registro de los diferentes motivos por los cuales se pueden generar documentos. Documentos y conceptos previamente parametrizados en **BDOC** y **BCON** respectivamente.  
 
+>+ [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
+>+  [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
+>+ [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
+>+ [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
+>+ [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
+>+ [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+
 ![](bmot1.png)
 
 **Documento:** siglas del documento con el cual se relacionará el motivo a registrar.  
@@ -155,6 +163,13 @@ En el maestro de esta aplicación, se consultan los siguientes campos:
 **Documento:**  Se consulta el documento MA  
 **Nombre documento:** Activos fijos que corresponde al documento MA  
 **Concepto:** En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja  
+
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+
+En la aplicación **BMOT-Motivos,** se debe tener la misma relación de *LP – concepto – motivo para el CP – concepto – motivo.*
+
+![](Imagen 1 bmot.png)
+
 
 
 

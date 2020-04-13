@@ -13,10 +13,14 @@ Contablemente sus contrapartidas son cartera contra el gasto. En las legalizacio
 
 No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACION**.
 
+>+ [BDOC Documentos Viáticos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
+>+ [Parametrización características - Legalización Viáticos](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
+>+ [Asignación de Categoría a los Colaboradores](http://docs.oasiscom.com/Operacion/common/btercer/bter#asignación-de-categoría-a-los-colaboradores)
+>+ [Plantillas Viáticos](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#plantillas-viáticos)
 >+ [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
 >+ [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
 
-## [Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#anticipo-viáticos)
+## [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
 
 Para crear una solicitud de viáticos, se debe ingresar a la aplicación TVIA y dar clic en el en el recuadro con el símbolo más (+), como se muestra a continuación: 
 
@@ -100,7 +104,7 @@ El formato que se podrá visualizar es el siguiente:
 
 ![](Imagen 9 tvia.png)
 
-## [Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#legalización-viáticos)
+## [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
 
 Para realizar la Legalización de la solicitud, se debe ingresar a la aplicación **TVIA** y dar clic en el botón más (+) para que aparezca el formulario.
 
