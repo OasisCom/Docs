@@ -16,7 +16,7 @@ No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un
 >+ [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
 >+ [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
 
-## [Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#anticipo-viáticos)
+## [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
 
 Para crear una solicitud de viáticos, se debe ingresar a la aplicación TVIA y dar clic en el en el recuadro con el símbolo más (+), como se muestra a continuación: 
 
@@ -100,7 +100,7 @@ El formato que se podrá visualizar es el siguiente:
 
 ![](Imagen 9 tvia.png)
 
-## [Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#legalización-viáticos)
+## [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
 
 Para realizar la Legalización de la solicitud, se debe ingresar a la aplicación **TVIA** y dar clic en el botón más (+) para que aparezca el formulario.
 
