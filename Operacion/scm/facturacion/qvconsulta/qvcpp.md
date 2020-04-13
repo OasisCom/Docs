@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvcpp
 editable: si
 ---
 
-#Generic  Customer - Product - QVCPP
+# Generic  Customer - Product - QVCPP
 
 La aplicación Cliente – Producto **QVCPP** permite visualizar de forma generica que cliente adquirió que producto, describiendo la cantidad de productos facturados a dicho cliente y el valor total de facturación. Igualmente en caso de devolución, arroja la cantidad de productos devueltos y el valor total de devolución.
 
