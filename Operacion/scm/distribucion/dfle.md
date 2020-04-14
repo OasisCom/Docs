@@ -20,8 +20,9 @@ Se visualizará como se ilustra, en el detalle del **DFLE** al insertar el prime
 Para este ejemplo seleccionamos al cliente con cedula 11409244 y relacionamos cinco facturas.  
 
 ![](DFLE5.png)  
-Boton Agregar y Continuar, para reanudar la inserccion de documentos.  
-El boton **aceptar** para insertar los items seleccionados y cierra el zoom de busqueda.  
+Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
+Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
+
 
 El proceso finaliza al procesar el documento dando click en el botón.  
 Se imprime, para realizar el proceso logístico de traslado de la mercancía con su respectivo flete.  
