@@ -19,7 +19,7 @@ Se visualizará como se ilustra, en el detalle del **DFLE** al insertar el prime
 
 Para este ejemplo seleccionamos al cliente con cedula 11409244 y relacionamos cinco facturas.  
 
-![](DFLE4.png)  
+![](DFLE5.png)  
 
 El proceso finaliza al procesar el documento dando click en el botón.  
 Se imprime, para realizar el proceso logístico de traslado de la mercancía con su respectivo flete.  
