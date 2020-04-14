@@ -23,8 +23,6 @@ Para consultar los saldos de un activo fijo en específico se filtra el número 
 En la aplicación vamos a poder identificar cuál es el costo histórico del activo fijo consultado por medio del campo **_Débito_**, el valor de la depreciación ejecutada por el mes consultado en el campo **_CrediDep_**, el valor de la depreciación acumulada a la fecha en la que se consulta en el campo **_BalanceDep_**, el saldo en libros en el campo **_BalanceBook_**, es decir, el saldo histórico menos la depreciación acumulada. También en el campo **_SaldoCant_** conocer las unidades del activo fijo, la vida útil de este en el campo **_InputUse_** y por último cúantos meses se han depreciado y cuátos meses quedan por depreciar en los campo **_BalanceQuantityDep_** y **_BalanceQuantityUse_** respectivamente. Entre otros datos.  
 
 
-![](hssp5.png)  
-![](hssp6.png) 
 
 ####  **Detalle** 
 

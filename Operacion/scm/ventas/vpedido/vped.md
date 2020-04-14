@@ -166,7 +166,10 @@ Para ver esta información se debe dar clic derecho sobre el detalle del product
 
 Se visualiza la siguiente ventana:
 
-![](vped54.png)
+![](vped55.png)
+
+* Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
 
 
 
