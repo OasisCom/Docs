@@ -5,7 +5,11 @@ permalink: /Operacion/erp/activos/hbasica/hact
 editable: si
 ---
 
-# HACT - Activos
+# [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#hact-activos)
+
+* [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#hact-activos)  
+* [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)  
+* [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)
 
 En la aplicación HACT se valida la creación de los activos fijos ingresados previamente en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov) y se editan las características de este.
 
@@ -17,20 +21,20 @@ Procedemos a ingresar las características del activo fijo.
 
 ![](hact1.png)
 
-**Código alterno:** código interno que la empresa le tenga al activo fijo registrado.
-**Tipo:** seleccionar de la lista desplegable, el tipo de activo que se registra.
-**Estado:** Activo.
-**Brand:** Marca del activo fijo.
+**Código alterno:** código interno que la empresa le tenga al activo fijo registrado.  
+**Tipo:** seleccionar de la lista desplegable, el tipo de activo que se registra.  
+**Estado:** Activo.  
+**Brand:** Marca del activo fijo.  
 
 Deslizamos la ventana hacia la derecha y diligenciamos los campos pertinentes.
 
-##### Sección Adquisición
+### [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)
 
 ![](hact2.png)
 
-**Fecha de compra:** fecha en la cual se compró el activo fijo.
-**Fecha de la garantía:** fecha en la cual se cumple la garantía.
-**Modelo:** modelo del activo fijo.
+**Fecha de compra:** fecha en la cual se compró el activo fijo.  
+**Fecha de la garantía:** fecha en la cual se cumple la garantía.  
+**Modelo:** modelo del activo fijo.  
 
 Para las siguientes secciones: vehículos, activos intangibles, inmuebles, muebles y enseres, los campos se diligencian dependiendo el activo fijo que se ingrese, es decir, si por ejemplo el activo fijo que se registra es un vehículo, se escribe la palabra *Yes* en el campo vehículo y se diligencian los campos siguientes de la sección Vehículos. Al guardar el registro, el sistema muestra un *Check* en estado activo, en el campo Vehículo y no la palabra Yes. Veamos un ejemplo en la siguiente imagen.
 
@@ -54,7 +58,7 @@ En la pestaña **_Distribución_** se distribuye el gasto de la depreciación pa
 
 ![](hact7.png)  
 
-### [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activo/hbasica/hact#Entrada-del-activo-desde-OFAC)  
+### [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)  
 
 Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.  
 
@@ -81,7 +85,7 @@ En la parte inferior o detalle, vemos características de depreciación, podemos
 
 ![](hact15.png)
 
-Por último, en el campo distribución, vamos a indicarle al activo fijo a qué centro de costo va el gasto, por ejemplo cuando se va a realizar la depreciación el Documento es MA y el concepto DP, traemos la cuenta del gasto a la cual este activo fijo debería contabilizar y por último, en el campo DestinyCostCenterID, se registra a qué centro de costo va la contabilización y en este caso el porcentaje es del 100%, pero si se quiere, se pueden generar diferentes porcentajes en diferentes centros de costos.
+Por último, en el campo distribución, vamos a indicarle al activo fijo a qué centro de costo va el gasto, por ejemplo cuando se va a realizar la depreciación el Documento es MA y el concepto DP, traemos la cuenta del gasto a la cual este activo fijo debería contabilizar y por último, en el campo _DestinyCostCenterID_, se registra a qué centro de costo va la contabilización y en este caso el porcentaje es del 100%, pero si se quiere, se pueden generar diferentes porcentajes en diferentes centros de costos.   
 
 ![](hact16.png)
 

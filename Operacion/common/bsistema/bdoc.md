@@ -11,34 +11,20 @@ editable: si
 
 # BDOC - Documentos
 
+Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema.
+
 **Menú**
 
->+ [**BDOC Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos)
+>+ [**BDOC Documentos Viáticos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
 >+ [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
 >+ [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
 >+ [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
 >+ [**Parametrización de formatos de impresión para facturas**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
 >+ [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
 >+ [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
+>+ [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
 
-
-## [BDOC Documentos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos)
-
-Para realizar la parametrización del documento se debe ingresar a la aplicación BDOC - Documentos y dar clic en el recuadro con el símbolo más (+) para crear un nuevo renglón, como se muestra en la siguiente imagen.
-
-![](Imagen 1 bdoc.png)
-
-Al crear un nuevo renglón para realizar una solicitud de viático se debe ingresar en el campo Documento las letras VI y diligenciar los demás campos de la siguiente manera.
-
-![](Imagen 2 bdoc.png)
-
-En el Detalle, se ingresan los conceptos, con su respectivo nombre, de acuerdo con los que se requieran utilizar. Y se les debe asignar en el campo clase si corresponde a un concepto del detalle o del maestro del movimiento, así mismo en el campo *Liquidación,* si el concepto tiene check, se entrará a validar el tope del concepto.
-
-![](Imagen 3 bdoc.png)
-
-Así mismo, se debe realizar la creación del documento VL correspondiente a las legalizaciones de los viáticos, con los mismos conceptos del documento VI, dado que cuando se crea un documento VL y se asocia el VI respectivo el sistema trae el mismo detalle para que no sea necesario volverlo a diligenciar.  
-
-Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema. Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
+Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
 En cuanto a los consecutivos se debe tener presente que el check box del campo _automático_ si lo prendo todos mis documentos quedan con consecutivo automático, en caso de no prenderlo o activarlo debemos entrar a diligencias los consecutivos a la hora de realizar un documento. Si el Check box del campo _ubicación_ lo dejo activo, cada ubicación me va a manejar consecutivo por ubicación.  
 
@@ -52,8 +38,6 @@ Igualmente se debe tener presente que se debe parametrizar a cada consecutivo co
 **Mensaje 1 y 2:** Permite escribir el mensaje que se desea mostrar al momento de visualizar la vista previa del documento.  
 **Número formato:** Número del formato parametrizado para la generación del documento, formato de impresión.  
 **Programa:** Programa en el cual se generará el documento. Por ejemplo: si es un CP debe diligenciarse el módulo **PMOV** que es donde yo voy a registrar todas las CP.  
-
-
 
 En los siguientes campos, desde _contabilidad_ hasta _presupuesto oficial_ se debe parametrizar si el documento que se registra afectará algún módulo, ya sea sumando o restando, en caso de que no afecte seleccionar “Ninguno”.  
 
@@ -82,6 +66,22 @@ Esta opción permite parametrizar los códigos los cuales indicarán el concepto
 En el maestro indicamos el documento al cual se le van a parametrizar los códigos y en el detalle, agregamos una fila por cada código que se desee relacionar con el documento. Tal como se muestra en la imagen.  
 
 ![](bdoc1.png)
+
+## [**BDOC Documentos Viáticos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
+
+Para realizar la parametrización del documento se debe ingresar a la aplicación BDOC - Documentos y dar clic en el recuadro con el símbolo más (+) para crear un nuevo renglón, como se muestra en la siguiente imagen.
+
+![](Imagen 1 bdoc.png)
+
+Al crear un nuevo renglón para realizar una solicitud de viático se debe ingresar en el campo Documento las letras VI y diligenciar los demás campos de la siguiente manera.
+
+![](Imagen 2 bdoc.png)
+
+En el Detalle, se ingresan los conceptos, con su respectivo nombre, de acuerdo con los que se requieran utilizar. Y se les debe asignar en el campo clase si corresponde a un concepto del detalle o del maestro del movimiento, así mismo en el campo *Liquidación,* si el concepto tiene check, se entrará a validar el tope del concepto.
+
+![](Imagen 3 bdoc.png)
+
+Así mismo, se debe realizar la creación del documento VL correspondiente a las legalizaciones de los viáticos, con los mismos conceptos del documento VI, dado que cuando se crea un documento VL y se asocia el VI respectivo el sistema trae el mismo detalle para que no sea necesario volverlo a diligenciar.  
 
 ## [Inventario Periódico](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
 
@@ -262,15 +262,23 @@ Ingresamos a la aplicación tomada como ejemplo [**BPRO - Productos**](http://do
 
 En la aplicación **BDOC** se debe parametrizar el/los documento(s) y concepto(s) que serán utilizados en la opción [**AANA - Análisis de calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana).  
 
-
-
 En el maestro de BDOC se debe crear el documento _QA_ (Calidad) y en el campo _Programa_, se debe ingresar el nombre de la opción sobre la cual estará parametrizado el documento. En este caso, la opción AANA.  
-
-
 
 En el detalle de esta opción, se deben parametrizar los conceptos asociados a dicho documento, en este caso corresponderá a _QA_ (Calidad).  
 
-
-
 ![](bdoc11.png)
+
+## [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
+
+Para obtener un resultado exitoso en los procesos de archivos de compensación, se debe tener en cuenta la parametrización que se a realizar en el sistema, por lo tanto, iniciaremos con ésta y posteriormente explicaremos el proceso.
+
+Existen 2 tipos de archivos de compensación los **ACX** que son los *cotizantes* y los **ABX** que son los *beneficiarios.*
+
+En la aplicación **BDOC** se crea el documento LM, que va a ser el referente de la compensación.
+
+![](Imagen 2 bdoc..png)
+
+En el **BCON,** se crea el concepto LM con nombre *LMA.*
+
+![](Imagen 3 bdoc..png)
 

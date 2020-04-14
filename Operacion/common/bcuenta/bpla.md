@@ -9,10 +9,11 @@ editable: si
 
 La aplicación **BPLA** permite parametrizar las plantillas que se podrán utilizar en diferentes aplicaciones de Oasis, lo cual optimiza el tiempo al momento de su operación. Aquí se deben parametrizar las plantillas de cada documento por cada uno de los conceptos definidos, esto hace que cuando creemos un documento por ejemplo una CP (de cuentas por pagar) al guardar el registro, la parte inferior que se denomina el detalle se diligencia automáticamente.  
 
->+ [**Contabilización de Nómina**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#contabilización-de-nómina)
->+ [**Parametrización ingreso de activo fijo por compras**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#parametrización-ingreso-de-activo-fijo-por-compras)
->+ [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#movimientos-de-activos-fijos)
->+ [**Plantillas Viáticos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#plantillas-viáticos)
+>+ [Contabilización de Nómina](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#contabilización-de-nómina)
+>+ [Parametrización ingreso de activo fijo por compras](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#parametrización-ingreso-de-activo-fijo-por-compras)
+>+ [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#movimientos-de-activos-fijos)
+>+ [Plantillas Viáticos](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#plantillas-viáticos)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#prestaciones-económicas)
 
 ![](bpla4.png)
 
@@ -96,15 +97,17 @@ En esta aplicación, le vamos a indicar al sistema cómo debe contabilizar cada 
 ## [**Plantillas Viáticos**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#plantillas-viáticos)
 Para cada uno de los conceptos creados es necesario generar la plantilla para que el sistema tenga presente como debe contabilizar, la cuenta por pagar siempre estará asociada al código CMP y el restante de cuentas ya sean gasto o cartera se deben asociar al código GAS. Esto se debe realizar tanto para el documento VI como para el documento VL.
 
-![](Imagen 1 Imagen 1 bpla.png)
+![](Imagen 1 bpla.png)
 
 Para el documento VL se debe tener presente que, si la legalización cuenta con impuesto al consumo o IVA, es necesario tener creados los conceptos IO – impuesto al consumo pagado y el código IV- Iva descontable y de acuerdo con las cuentas del gasto (si son administrativas o de ventas) es necesario crear el motivo 0 y el motivo 1 para asociarlas.
 
-![](Imagen 2 Imagen 1 bpla.png)
+![](Imagen 2 bpla.png)
 
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#prestaciones-económicas)
 
+En la aplicación **BPLA - Plantillas,** se debe tener los registros del *CP – concepto – motivo,* para poder realizar la contabilización.
 
-
+![](Imagen 3 bpla.png)
 
 
 

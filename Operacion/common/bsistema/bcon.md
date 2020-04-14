@@ -9,6 +9,9 @@ editable: si
 
 La aplicación Conceptos permite registrar los conceptos por los cuales se generan los distintos documentos que la compañía maneja, estos previamente parametrizados en **BDOC**.  
 
+>+ [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones)
+>+ [Paramentrización BCON](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#parametrización-bcon)
+
 ![](bcon1.png)
 
 **Documento:** Siglas asignadas en BDOC al documento con el cual se relacionará el concepto.  
@@ -28,7 +31,7 @@ En la pestaña Motivos en el detalle, se asignan los distintos motivos por los c
 **Motivo:** número del motivo que será asignado al concepto. Motivo previamente parametrizado en **BMOT**.  
 **Nombre motivo:** nombre asignado al motivo en **BMOT**.  
 
-# [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones)
+## [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones)
 
 Para realizar la liquidación de una exportación, se debe tener en cuenta la parametrización realizada en la aplicación BCON en los campos _Liquidación, Clase, Orden, Producto, Moneda, Estado_ y _Fórmula_.  
 
@@ -43,5 +46,8 @@ Para realizar la liquidación de una exportación, se debe tener en cuenta la pa
 **Fórmula:** en este campo se ingresará la fórmula a evaluar en el concepto.  
 
 
+## [Paramentrización BCON](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#parametrización-bcon)
 
+En la aplicación BCON - Conceptos, se debe tener el documento CP y en el campo de Concepto, se deben tener los mismos que se hayan creado en la combinación de LP – por cada concepto. 
 
+![](Imagen 1 bcon.png)
