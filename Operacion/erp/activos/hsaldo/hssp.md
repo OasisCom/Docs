@@ -9,9 +9,9 @@ editable: si
 
 En esta aplicación, se pueden revisar los saldos de los activos fijos, tanto de los activos fijos que fueron ingresados por la aplicación **OFAC - Facturas de compra**, como de los ingresados por **HMOV - Movimientos**  
  
- * [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-OFAC-Facturas-de-compra)  
+ * [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicacion-ofac-facturas-de-compra)  
 
-* [Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la aplicacion-hmov-movimientos)  
+* [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la aplicacion-hmov-movimientos)  
 
 * [**Saldos de la depreciación**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-la-depreciacion)  
 
@@ -43,7 +43,7 @@ En la parte del detalle, el sistema nos indica los documentos que soportan el sa
 
 En esta aplicación puedes realizar los siguientes movimientos:
 
-#### [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#Verificación-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicación-OFAC-Facturas-de-compra)
+#### [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicacion-ofac-facturas-de-compra)
   
 Realizado con anterioridad el movimiento de ingreso de Activo Fijo por Compras en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac) y luego de haber llenado la hoja de vida del activo fijo en la aplicación [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact), consultamos los activos en la aplicación HSSP y veremos que estos se encuentran valorizados por el Costo + IVA.
 
