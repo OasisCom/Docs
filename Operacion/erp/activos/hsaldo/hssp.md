@@ -11,7 +11,7 @@ En esta aplicación, se pueden revisar los saldos de los activos fijos, tanto de
  
  * [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la-aplicacion-ofac-facturas-de-compra)  
 
-* [**Verificación de saldos de activos fijos que han sido ingresados por la aplicación HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificacion-de-saldos-de-activos-fijos-que-han-sido-ingresados-por-la aplicacion-hmov-movimientos)  
+* [**Verificación de saldos de activos fijos ingresados por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-hmov)  
 
 * [**Saldos de la depreciación**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-la-depreciacion)  
 
@@ -53,7 +53,7 @@ En el campo llamado _Balance Quantity Use Book_, dice cuántos meses le quedan p
 
 ![](hssp3.png)  
 
-#### [Verificación de saldos de activos fijos ingresados por HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-hmov---movimientos)
+#### [Verificación de saldos de activos fijos ingresados por HMOV](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-hmov)
 
 Realizado con anterioridad el movimiento de ingreso de Activo Fijo por HMOV en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos), consultamos los activos en la aplicación HSSP y veremos que estos se vieron aumentados en las cifras correspondientes al movimiento.
 
