@@ -30,7 +30,7 @@ En la parte del detalle, el sistema nos indica los documentos que soportan el sa
 
 En esta aplicación se pueden realizar las siguientes consultas:  
 
-#### [Verificación de saldos de activos fijos ingresados por OFAC - Facturas de compra](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-ofac---facturas-de-compra)
+### [Verificación de saldos de activos fijos ingresados por OFAC - Facturas de compra](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-ofac---facturas-de-compra)
   
 Realizado con anterioridad el movimiento de ingreso de Activo Fijo por Compras en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac) y luego de haber llenado la hoja de vida del activo fijo en la aplicación [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact), consultamos los activos en la aplicación HSSP y veremos que estos se encuentran valorizados por el Costo + IVA.  
 
@@ -40,7 +40,7 @@ En el campo llamado _Balance Quantity Use Book_, dice cuántos meses le quedan p
 
 ![](hssp3.png)  
 
-#### [Verificación de saldos de activos fijos ingresados por HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-hmov---movimientos)
+### [Verificación de saldos de activos fijos ingresados por HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-hmov---movimientos)
 
 Realizado con anterioridad el movimiento de ingreso de Activo Fijo por HMOV en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos), consultamos los activos en la aplicación HSSP y veremos que estos se vieron aumentados en las cifras correspondientes al movimiento.  
 
