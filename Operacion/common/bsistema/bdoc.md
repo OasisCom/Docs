@@ -270,6 +270,10 @@ En el detalle de esta opción, se deben parametrizar los conceptos asociados a d
 
 ## [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
 
+Para obtener un resultado exitoso en los procesos de archivos de compensación, se debe tener en cuenta la parametrización que se a realizar en el sistema, por lo tanto, iniciaremos con ésta y posteriormente explicaremos el proceso.
+
+Existen 2 tipos de archivos de compensación los **ACX** que son los *cotizantes* y los **ABX** que son los *beneficiarios.*
+
 En la aplicación **BDOC** se crea el documento LM, que va a ser el referente de la compensación.
 
 ![](Imagen 2 bdoc..png)
