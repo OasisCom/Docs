@@ -305,6 +305,8 @@ En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Pun
 **Tipo:** seleccionar el tipo _Puntos_.  
 **Código:** ingresar el código _PUR_.  
 
+* Las formas de pago **tipo puntos** para su redención, valida la cuenta contable correspondiente y** saldos en puntos de fidelización de clientes** por diferentes cuentas contables.  
+
 
 #### Proceso Fidelización de Clientes  
 
