@@ -32,8 +32,6 @@ En esta aplicación, se pueden revisar los saldos de los activos fijos, tanto de
 **BalanceQuantityDep:** Cuántos meses se ha depreciado el activo fijo  
 **BalanceQuantityUseBook:** Cuántos meses le quedan pendientes por depreciar al activo fijo  
 
-![](hssp5.png)  
-![](hssp6.png) 
 
 ####  **Detalle** 
 
