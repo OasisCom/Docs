@@ -16,6 +16,8 @@ La aplicación **BMOT** permite el registro de los diferentes motivos por los cu
 >+ [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
 >+ [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos)
 >+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+>+ [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
+
 
 ![](bmot1.png)
 
@@ -170,6 +172,10 @@ En la aplicación **BMOT-Motivos,** se debe tener la misma relación de *LP – 
 
 ![](Imagen 1 bmot.png)
 
+## [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
 
+En la aplicación BMOT, se deben ingresar el registro que será el referente al cotizante con el número de motivo 0.
+
+![](Imagen 2 bmot.png)
 
 
