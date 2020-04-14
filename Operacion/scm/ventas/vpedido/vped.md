@@ -169,7 +169,7 @@ Se visualiza la siguiente ventana:
 ![](vped55.png)
 
 * Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
-Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
 
 
 
