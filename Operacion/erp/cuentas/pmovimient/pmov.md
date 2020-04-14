@@ -9,6 +9,12 @@ editable: si
 
 Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos, en esta aplicación donde se deben diligenciar unos datos obligatoriamente y otros que son opcionales.  
 
+>+ [Documento equivalente](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#documento-equivalente)
+>+ [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+>+ [Causaciones con AIU - Administración, Imprevistos y Utilidad](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causaciones-con-aiu---administración-imprevistos-y-utilidad)
+>+ [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-economicas)
+
 ![](PMOV1.png)
 
 **Documento:** Son los documentos que se han creado para ser utilizados en el módulo de cuentas por pagar, tan Notas Débito, Notas Crédito, Comprobantes de Egreso y Cuentas por Pagar.  
@@ -96,7 +102,7 @@ El documento equivalente puede ser extraído en formato de Excel, PDF o Word.
 ![](pmov9.png)
 
 
-### [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+## [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
 
 Esta vista previa permite visualizar la información de la cuenta por pagar y adicionalmente conocer la afectación presupuestal.  
 
@@ -129,7 +135,7 @@ En el campo _Renglón_ del detalle debemos traer el número del renglón que cor
 
 **_Nota:_** Se debe tener en cuenta que para movimientos del producto ERP (Financiero) el sistema tomará el impuesto de acuerdo con el tercero y para movimientos del producto SCM (Logística) el sistema tomará el impuesto de acuerdo con el producto.  
 
-#### Proceso de Causación
+## [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
 
 Ahora procedemos a realizar en PMOV la causación de un servicio con impuesto _AIU Administración, Imprevistos y Utilidad_.  
 
@@ -144,3 +150,19 @@ En el detalle, podemos ver que tomó como base de retención $80.000, es decir, 
 ![](pmov14.png)
 
 Finalmente procesamos el movimiento.  
+
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-economicas)
+
+En la aplicación **PMOV,** en los campos de *DocDocumento, DocNúmero y DocUbicación,* se colocan los datos del **ELIP.** 
+
+![](Imagen 1 pmov.png)
+
+Al consultarlo, va a presentar la información de la contabilización del movimiento, ya confirmado. 
+
+![](Imagen 2 pmov.png)
+
+En la aplicación [PMCR](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr) se ve el registro para el pago. 
+
+![](Imagen 3 pmov.png)
+
+

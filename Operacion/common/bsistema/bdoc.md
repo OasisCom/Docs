@@ -22,7 +22,7 @@ Todo el sistema y los módulos basan su operación en una serie de documentos qu
 >+ [**Parametrización de formatos de impresión para facturas**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
 >+ [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
 >+ [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
-
+>+ [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
 
 Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
@@ -262,15 +262,19 @@ Ingresamos a la aplicación tomada como ejemplo [**BPRO - Productos**](http://do
 
 En la aplicación **BDOC** se debe parametrizar el/los documento(s) y concepto(s) que serán utilizados en la opción [**AANA - Análisis de calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana).  
 
-
-
 En el maestro de BDOC se debe crear el documento _QA_ (Calidad) y en el campo _Programa_, se debe ingresar el nombre de la opción sobre la cual estará parametrizado el documento. En este caso, la opción AANA.  
-
-
 
 En el detalle de esta opción, se deben parametrizar los conceptos asociados a dicho documento, en este caso corresponderá a _QA_ (Calidad).  
 
-
-
 ![](bdoc11.png)
+
+## [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
+
+En la aplicación **BDOC** se crea el documento LM, que va a ser el referente de la compensación.
+
+![](Imagen 2 bdoc..png)
+
+En el **BCON,** se crea el concepto LM con nombre *LMA.*
+
+![](Imagen 3 bdoc..png)
 

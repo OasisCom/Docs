@@ -5,7 +5,7 @@ permalink: /Operacion/erp/activos/hreporte/hrir
 editable: si
 ---
 
-# HRIR - Impresión de Rótulos
+# [**HRIR - Impresión de Rótulos**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrir)
 
 Reporte que permite la generación de rótulos de impresión de activos fijos.  
 Se establecen como filtros las fechas inicial y final de la compra del activo y el campo Asset (Activo) número o consecutivo.  
