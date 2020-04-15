@@ -28,7 +28,7 @@ En el momento de procesar la novedad, luego de haber guardado los cambios, el si
 
 Para ello previamente deben estar definidos los días considerados festivos en la empresa en la opción **BFES**.  
 
-* En el momento de registrar una novedad [NNOV ] de retiro (RET) de un empleado y este contiene programación posterior a este fecha: el sistema realiza un borrado automático, no lo va a tener en cuenta.  
+* En el momento de registrar una novedad [**NNOV**] de retiro (RET) de un empleado y este contiene programación posterior a este fecha: el sistema realiza un borrado automático, no lo va a tener en cuenta.  
 
 
 
