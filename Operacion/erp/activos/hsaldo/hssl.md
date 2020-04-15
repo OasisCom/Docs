@@ -5,6 +5,6 @@ permalink: /Operacion/erp/activos/hsaldo/hssp
 editable: si
 ---
 
-# Saldo periódico por localización - HSSL  
+# [**Saldo periódico por localización - HSSL**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssl)
 
 En esta aplicación, 
