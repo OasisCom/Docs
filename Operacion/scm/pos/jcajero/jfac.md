@@ -29,8 +29,9 @@ Aplicación que permite elaborar facturas o devoluciones que se realicen en el p
 **Motivo:**  Este se encuentra definido como 0.  
 **Vendedor:** Número de identificación de la persona que se encuentra facturando.  
 **Condición de Pago:** Representa un acuerdo establecido con clientes y proveedores en forma de tipos de descuento y plazos de pago, las diferentes opciones de condición de pago se encentran parametrizadas en la opción BCND.  
-**Tipo de precio:** Precio debidamente parametrizado en la aplicación FBTP. Se presenta el siguiente escenario: guardo el maestro e inserto un producto en el detalle. Me devuelvo y cambio en el maestro el **Tipo Precio** el sistema lanza un mensaje de control indicando que debe de corregir el detalle así:  
+**Tipo de precio:** Precio debidamente parametrizado en la aplicación **FBTP**. Se presenta el siguiente escenario: guardo el maestro e inserto un producto en el detalle. Me devuelvo y cambio en el maestro el **Tipo Precio** el sistema lanza un mensaje de control indicando que debe de corregir el detalle así:  
 ![](jfac52.png)   
+**Frecuente:** Cliente habitual, aplica para todos los puntos de venta de la compañía.  
 **Periodo:** Este campo se llena automaticamente, al insertar el registro.  
 **Año:** Campo que se llena automaticamente, al insertar el registro.   
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.   
