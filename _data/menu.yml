@@ -393,17 +393,37 @@
               url: /Operacion/erp/activos/hbasica/
               subitems:
               - text: Activos
-                url: /Operacion/erp/activos/hbasica/hact               
+                url: /Operacion/erp/activos/hbasica/hact
+              - text: Detalle de Activos
+                url: /Operacion/erp/activos/hbasica/hacd
+              - text: Saldos por Periodo
+                url: /Operacion/erp/activos/hbasica/hassa
+              - text: Contratos de Arriendo
+                url: /Operacion/erp/activos/hbasica/haco
+              - text: Seguros
+                url: /Operacion/erp/activos/hbasica/hasg
+              - text: Avalúos
+                url: /Operacion/erp/activos/hbasica/haav
+              - text: Mantenimiento
+                url: /Operacion/erp/activos/hbasica/hama
+              - text: Impuestos
+                url: /Operacion/erp/activos/hbasica/haim                              
             - text: Saldos
               url: /Operacion/erp/activos/hsaldo/
               subitems:
               - text: Saldos de Activos
-                url: /Operacion/erp/activos/hsaldo/hssp               
+                url: /Operacion/erp/activos/hsaldo/hssp
+              - text: Saldo periódico por localización
+                url: /Operacion/erp/activos/hsaldo/hssl                
             - text: Movimientos
               url: /Operacion/erp/activos/hmovimient/
               subitems:
               - text: Movimientos
-                url: /Operacion/erp/activos/hmovimient/hmov             
+                url: /Operacion/erp/activos/hmovimient/hmov
+              - text: Consulta de Movimientos
+                url: /Operacion/erp/activos/hmovimient/hmcm
+              - text: Novedad del Activo
+                url: /Operacion/erp/activos/hmovimient/hnov             
             - text: Contratos
               url: /Operacion/erp/activos/hcontrato/
             - text: Inventario Físico
@@ -412,7 +432,13 @@
               url: /Operacion/erp/activos/hproceso/
               subitems:
               - text: Depreciación
-                url: /Operacion/erp/activos/hproceso/hpde                          
+                url: /Operacion/erp/activos/hproceso/hpde
+              - text: Inicio de año Activos Fijos
+                url: /Operacion/erp/activos/hproceso/hpia
+              - text: Genera Ajustes
+                url: /Operacion/erp/activos/hproceso/hpga
+              - text: Recálculo mensual de activos
+                url: /Operacion/erp/activos/hproceso/hprecal               
             - text: Reportes
               url: /Operacion/erp/activos/hreporte/
               subitems:
@@ -423,7 +449,13 @@
               - text: Balance de Prueba Ajustado
                 url: /Operacion/erp/activos/hreporte/hrpa
               - text: Balance de Prueba Ajustado - HRPA1
-                url: /Operacion/erp/activos/hreporte/hrpa1               
+                url: /Operacion/erp/activos/hreporte/hrpa1
+              - text: Comparación de Saldos
+                url: /Operacion/erp/activos/hreporte/hrcs
+              - text: Activos por Responsable
+                url: /Operacion/erp/activos/hreporte/hrar
+              - text: Depreciación
+                url: /Operacion/erp/activos/hreporte/hrde                                
         - text: Presupuesto
           url: /Operacion/erp/presupuesto/
           subitems:
