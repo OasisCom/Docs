@@ -12,5 +12,5 @@ En este submódulo se puede mirar en cuanto están valorizados los activos y los
 Las aplicaciones que maneja este submódulo son las siguientes:
 
 * [**HSSP - Saldos de activos**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#saldos-de-activos-hssp)  
-* **HSSL** - Saldo periódico por localización
+* [**HSSL - Saldo periódico por localización**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssl#saldo-periodico-por-localizacion-hssl) 
 
