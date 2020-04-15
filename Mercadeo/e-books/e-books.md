@@ -160,7 +160,8 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
-###### [Preguntas Frecuentes OasisCom  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/preguntas-frecuentes-general.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+###### [Diccionario de términos Cloud  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/diccionario-terminos-cloud.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+###### [Preguntas Frecuentes OasisCom  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/preguntas-frecuentes-general.pdf)
 ###### [Presentación de Marketing Digital de Oscar Auza  (descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/MARKETING DIGITAL.PDF)
 
 
