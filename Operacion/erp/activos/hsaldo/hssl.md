@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Saldo periódico por localización
-permalink: /Operacion/erp/activos/hsaldo/hssp
+permalink: /Operacion/erp/activos/hsaldo/hssl
 editable: si
 ---
 
