@@ -30,6 +30,9 @@ Para ello previamente deben estar definidos los días considerados festivos en l
 
 * En el momento de registrar una novedad [**NNOV**] de retiro (RET) de un empleado y este contiene programación posterior a este fecha: el sistema realiza un borrado automático, no lo va a tener en cuenta.  
 
+![](nnov7.png)  
+
+
 
 
 
