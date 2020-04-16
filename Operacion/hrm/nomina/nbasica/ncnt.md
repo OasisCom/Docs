@@ -67,7 +67,7 @@ El sistema realiza la siguiente validación:
 
 * Contrato de nómina VS periocidad de pago según donde preste el servicio.  
 
-
+![](ncnt11.png)
 
 
 
