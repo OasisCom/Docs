@@ -25,10 +25,10 @@ En esta sección, podrán encontrar las aplicaciones con las que se pueden sacar
 * [**KRPR1**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr1)	Balance de prueba corriente  
 * [**KRBU**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krbu)	Balance general por centro de costo  
 * [**KRCD**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krcd)	Diferencias Saldos Vs. Movimientos  
-* [**KRPT**]()	Cambios en el patrimonio  
-* [**KRMN**]()	Diferencia partidas documentos  
-* [**KRLD**]()	Libro diario  
-* [**KRLI**]()	Libro diario resumido  
-* [**KRPG**]()	Ganancias y pérdidas comparativo  
-* [**KRPC**]()	Ganancias y pérdidas comparativo por centro de costo  
+* [**KRPT**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpt)	Cambios en el patrimonio  
+* [**KRMN**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krmn)	Diferencia partidas documentos  
+* [**KRLD**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krld)	Libro diario  
+* [**KRLI**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krli)	Libro diario resumido  
+* [**KRPG**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpg)	Ganancias y pérdidas comparativo  
+* [**KRPC**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpc)	Ganancias y pérdidas comparativo por centro de costo  
 
