@@ -17,7 +17,7 @@ Mediante la siguiente aplicación **ECEN:** la **IPS** informa el ingreso del pa
 
 ![](eecen3.png)  
 
-* El campo tercero se le realiza adecuación agregando los campos: **nombre del servicio y nombre de especialidad.** para facilitar la búsqueda en el zoom.  
+* El campo tercero se le realiza adecuación agregando los campos: **nombre del servicio y nombre de especialidad.** Para facilitar la búsqueda en el zoom.  
 
  ![](eecen2.png)  
 
