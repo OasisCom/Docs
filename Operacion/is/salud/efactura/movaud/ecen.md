@@ -16,10 +16,10 @@ Ajuste sobre campos servicio y diagnostico egreso ya que no se guardaba los dato
 
 ![](ecen3.png)  
 
-* se adecua zoom para que solo muestre terceros de salud, debido que anteriormente estaba mostrando terceros en general (afiliado, cliente, proveedor, empleado..)  
+* Se adecua zoom para que solo muestre terceros de salud, debido que anteriormente estaba mostrando terceros en general (afiliado, cliente, proveedor, empleado..)  
 ![](ecen5.png)  
 
-Dentro de este mismo zoom de tercero, se agrego el **nombre del servicio** y **nombre de especialidad**.  
+* Dentro de este mismo zoom de tercero, se agrego el **nombre del servicio** y **nombre de especialidad**.  
 ![](ecen6.png)  
 
 
