@@ -71,7 +71,7 @@ Cuando se procesa el registro, no se realiza ningún cruce
 
 ![](cmov9.png)  
 
-Este registro o movimiento de cruce, se hace desde la opción **CMCR - Cruces**[**Cómo realizar el Cruce con las Cuentas por Cobrar**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar)
+Este registro o movimiento de cruce, se hace desde la opción [**Cómo realizar el Cruce con las Cuentas por Cobrar**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar)
 
 
 
