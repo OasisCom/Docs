@@ -45,7 +45,7 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Proyecto:** Identificación numérica del proyecto.  
 **Base Retención:** Valor al cual se le debe liquidar la retención que se le aplica de acuerdo al concepto.  
 
-### [Causación de Cuentas por cobrar y Cruces desde CMCR](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causacion-de-cuentas-por-cobrar-y-cruces-desde-cmcr)  
+### [Causación de Cuentas por cobrar y Cruces desde CMCR](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar-y-cruces-desde-cmcr)  
 
 Se ingresa a la aplicación **CMOV - Movimientos** de Cuentas por cobrar y se adiciona un nuevo registro **_+_**: en el campo **_documento_** se coloca **_CC_** (de cuentas por cobrar), en el campo **_concepto_** para el ejemplo de la imagen, se coloca **_CN_** (de Cliente nacional),  en el campo **_tercero_** se busca el cliente a quien le vamos a realizar la cuenta por cobrar, en el campo **_total_** se digita el valor de la cuenta por cobrar, luego se guarda.  
 
@@ -71,7 +71,7 @@ Cuando se procesa el registro, no se realiza ningún cruce
 
 ![](cmov9.png)  
 
-Este registro o movimiento de cruce, se hace desde la opción [Cómo realizar el Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar)
+Este registro o movimiento de cruce, se hace desde la opción [Cómo realizar el Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#cómo-realizar-el-cruce-con-las-cuentas-por-cobrar)
 
 
 
