@@ -18,6 +18,7 @@ En el maestro se debe consultar por número de documento de identidad del emplea
 Al finalizar el cursor del maestro del **NBEM**, encuentra el campo: "Código Sena", aplica para aprendices editando un código para este tipo de empleados, tipo aprendiz.  
 
 ![](nbem7.png)
+---
 La opción **NBEM - Empleados** cuenta con la posibilidad de adicionar una imagen (Fotografía) en cada uno de los registros de empleado que se adicionen, esta opción se encuentra en la columna imagen.
 
 
