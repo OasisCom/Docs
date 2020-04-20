@@ -91,9 +91,9 @@ La parte superior de la aplicación nos muestra el valor inicial y saldo de cada
 **Libro:** Número de libro según parametrización en Libros (KLIB).  
 
 
-### [**Cómo realizar el Cruce con las Cuentas por Cobrar**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar)  
+### [Cómo realizar el Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar)  
 
-Desde esta aplicación se llama la cuenta por cobrar (en este caso, se utiliza el ejemplo que se realizó en la opción [**Causación de Cuentas por cobrar y Cruces desde CMCR**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causacion-de-cuentas-por-cobrar-y-cruces-desde-cmcr))  
+Desde esta aplicación se llama la cuenta por cobrar (en este caso, se utiliza el ejemplo que se realizó en la opción [Causación de Cuentas por cobrar y Cruces desde CMCR](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causacion-de-cuentas-por-cobrar-y-cruces-desde-cmcr))  
 
 ![](cmcr3.png)  
 
