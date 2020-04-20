@@ -5,9 +5,13 @@ permalink: /Operacion/erp/cartera/ccredito/csol
 editable: si
 ---
 
-# CSOL - Solicitudes de Créditos
+# Solicitudes de Créditos -  CSOL
 
 La aplicación CSOL permite realizar solicitudes de crédito y asignar garantías a los mismos.  
+
+* [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)
+* [Cartera Financiera](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#cartera-financiera)
+
 
 Para realizar una solicitud de crédito, ingresamos a la aplicación y creamos un nuevo registro.  
 
@@ -40,7 +44,7 @@ Ingresados los datos, damos click en el botón _Guardar_ y procedemos a registra
 Finalmente, procesamos la solicitud del crédito dando click en el botón ![](procesar.png).  
 
 
-### [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)
+# [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)
 
 En la pestaña _Graphic CRE_, el usuario podrá ver de manera grafica (Barras), si el tercero seleccionado en el maestro tiene saldo en mora, si el saldo en mora esta al día o si no ha tenido ningun tipo de saldo en mora.  
 
