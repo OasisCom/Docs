@@ -12,9 +12,9 @@ Este submódulo permite el registro de los movimientos (ingresos, egresos y nota
 Las aplicaciones que se utilizan son las siguientes:  
 
 * [**TMOV**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov)	-	Movimientos de tesorería  
-* [**TMCM**]((http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmcm)	-	Consulta de movimientos  
-* [**TMEN**]((http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen)	-	Caja menor  
-* [**TENT**]((http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tent)	-	Entrega de cheques  
-* [**TGTR**]((http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tgtr)	-	Generación de transferencias  
-* [**TOGE**]((http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge)	-	Ordena gerencia electrónica
+* [**TMCM**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmcm)	-	Consulta de movimientos  
+* [**TMEN**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen)	-	Caja menor  
+* [**TENT**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tent)	-	Entrega de cheques  
+* [**TGTR**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tgtr)	-	Generación de transferencias  
+* [**TOGE**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge)	-	Ordena gerencia electrónica
 * [**ETRPF**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/etrpf)   - Pagos
