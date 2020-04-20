@@ -15,7 +15,8 @@ En el maestro se debe consultar por número de documento de identidad del emplea
 
 ![](nbem1.png)
 
-
+Al finalizar el cursor del maestro del **NBEM**, encuentra el campo: "Código Sena", aplica para aprendices editando un código para este tipo de empleados, tipo aprendiz.  
+![](nbem7.png)
 La opción **NBEM - Empleados** cuenta con la posibilidad de adicionar una imagen (Fotografía) en cada uno de los registros de empleado que se adicionen, esta opción se encuentra en la columna imagen.
 
 
@@ -43,9 +44,11 @@ En esta pestaña se registran los datos de las entidades donde se encuentra afil
 ![](nbem5.png)
 
 
-Para asignar estas entidades deben estar previamente creadas en la opción BTER - Básico de terceros, en donde se encuentran relacionados todos los datos de los terceros asociados a la organización.
+Para asignar estas entidades deben estar previamente creadas en la opción BTER - Básico de terceros, en donde se encuentran relacionados todos los datos de los terceros asociados a la organización.  
 
-Para que los empleados puedan observarse en esta aplicación deben estar creados en la opción BTER, indicando que son empleados y a que empresa pertenecen.
+Para que los empleados puedan observarse en esta aplicación deben estar creados en la opción BTER, indicando que son empleados y a que empresa pertenecen.  
+
+
 
 
 
