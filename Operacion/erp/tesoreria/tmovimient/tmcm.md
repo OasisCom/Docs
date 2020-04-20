@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/tmovimient/tmcm
 editable: si
 ---
 
-## Consulta de Movimientos - TMCM
+# Consulta de Movimientos - TMCM
 
 Esta aplicación permite la consulta de los documentos que se han realizado en la opción **TMOV**, es una forma diferente de consultar estos documentos ya que no los muestra de forma separada en el maestro y el detalle, igualmente, permite filtrar por diferentes campos.
 
