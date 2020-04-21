@@ -11,6 +11,11 @@ La aplicación CSOL permite realizar solicitudes de crédito y asignar garantía
 
 * [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)
 * [Cartera Financiera](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#cartera-financiera)
+> * [BCND - Condiciones de pago](http://docs.oasiscom.com/Operacion/common/bcomer/bcnd) 
+ * [BPER - Periodos](http://docs.oasiscom.com/Operacion/common/bsistema/bper) 
+ * [BGRU - Grupos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru)
+ * [BPRY - Proyectos](http://docs.oasiscom.com/Operacion/common/bfinan/bpry)
+ * [WVAR - Variables](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wvar)
 
 
 Para realizar una solicitud de crédito, ingresamos a la aplicación y creamos un nuevo registro.  
@@ -69,11 +74,11 @@ En el siguiente caso, nos indica que el tercero seleccionado tiene saldo en mora
 
 Para realizar el proceso de cartera financiera, previamente debemos parametrizar las siguientes aplicaciones de OASISCOM.  
 
- * [BCND - Condiciones de pago](http://docs.oasiscom.com/Operacion/common/bcomer/bcnd) (_Ver aplicación_)
- * [BPER - Periodos](http://docs.oasiscom.com/Operacion/common/bsistema/bper) (_Ver aplicación_)
- * [BGRU - Grupos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru) (_Ver aplicación_)
- * [BPRY - Proyectos](http://docs.oasiscom.com/Operacion/common/bfinan/bpry) (_Ver aplicación_)
- * [WVAR - Variables](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wvar) (_Ver aplicación_)
+ * [BCND - Condiciones de pago](http://docs.oasiscom.com/Operacion/common/bcomer/bcnd) 
+ * [BPER - Periodos](http://docs.oasiscom.com/Operacion/common/bsistema/bper) 
+ * [BGRU - Grupos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru) 
+ * [BPRY - Proyectos](http://docs.oasiscom.com/Operacion/common/bfinan/bpry) 
+ * [WVAR - Variables](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wvar) 
 
 
 Parametrizadas las aplicaciones, iniciamos con la solicitud y aprobación del crédito. Toda solicitud de crédito independientemente la línea debe ser creada en la opción _CSOL_.  
