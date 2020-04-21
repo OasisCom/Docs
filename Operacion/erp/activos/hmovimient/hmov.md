@@ -116,7 +116,7 @@ Posteriormente, se procesa el documento
 ![](hmov20.png)  
 
 
-Finalmente se verifica su respectiva contabilización y efectivamente el sistema acreditó la cuenta del activo fijo, debitó la depreciación y el restante lo llevó a una cuenta del gasto de acuerdo a la parametrización realizada en la aplicación **BPLA - Plantillas**.  
+Finalmente se verifica su respectiva contabilización y efectivamente el sistema acreditó la cuenta del activo fijo, debitó la depreciación y el restante lo llevó a una cuenta del gasto de acuerdo a la parametrización realizada en la aplicación [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla).
 
 ![](hmov21.png)  
 
