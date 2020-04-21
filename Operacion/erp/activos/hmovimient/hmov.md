@@ -79,7 +79,7 @@ Verificamos que acreditó a la cuenta de depreciación y debitó a la cuenta del
 
 ## [**Parametrización para movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#parametrización-para-movimientos-de-activos-fijos)  
 
-Primero, se debe ingresar por la aplicación [**BDOC - Documentos**] y se consulta por el campo **_Documento_** **MA** que corresponde a Activos fijos  
+Primero, se debe ingresar por la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) y se consulta por el campo **_Documento_** **MA** que corresponde a Activos fijos  
 
 ![](hmov10.png)  
 
@@ -87,11 +87,11 @@ En el detalle, se pueden visualizar cada uno de los conceptos que se pueden gene
 
 ![](hmov11.png)  
 
-Cada uno de los activos debe tener un motivo asociado, lo cual se realiza en la aplicación **BMOT - Motivos**. Ingresamos a esta aplicación; se consulta por el campo **_Documento_** **MA** que corresponde a Movimiento de activos y en la ilustración, tomaremos como ejemplo en el campo **_Concepto_** **BA** correspondiente a Bajas y se verifica que exista su **_Motivo_**  
+Cada uno de los activos debe tener un motivo asociado, lo cual se realiza en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot). Ingresamos a esta aplicación; se consulta por el campo **_Documento_** **MA** que corresponde a Movimiento de activos y en la ilustración, tomaremos como ejemplo en el campo **_Concepto_** **BA** correspondiente a Bajas y se verifica que exista su **_Motivo_**  
 
 ![](hmov12.png)  
 
-Se continúa con la aplicación **BPLA - Plantillas**, donde se le indica al sistema cómo debe contabilizar cada uno de los movimientos generados.  Se consulta en el campo **_Documento_** **MA** de Movimientos de activos, y en el ejemplo de la ilustración, vamos a utilizar en el campo **_Concepto_** **BA** de Baja de activo, en el campo **_Código_** se le dice al sistema qué código debe causar, por ejemplo, Activo fijo, depreciación, una pérdia o utilidad según corresponda, en el campo **_Cuenta_** se registra la cuenta contable siempre y cuando sea la misma para todos los activos fijos, en caso de que no, se registra 0 (cero) y en el campo **_Depende_** se le dice que depende del activo fijo;  se registra la naturaleza que corresponda y en el campo **_Obligatorio_** se dice si se deben causar esos código o no, por ejemplo, el activo ya se depreció en su totalidad y por lo tanto únicamente se debe causar la cuenta del activo fijo con su respectiva depreciación, en caso de que el activo no se haya depreciado en su totalidad, el valor restante se debe llevar a una pérdida o utilidad según corresponda y por lo tanto los campos correspondientes a utilidad o pérdida no se marcan como obligatorios  
+Se continúa con la aplicación [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla), donde se le indica al sistema cómo debe contabilizar cada uno de los movimientos generados.  Se consulta en el campo **_Documento_** **MA** de Movimientos de activos, y en el ejemplo de la ilustración, vamos a utilizar en el campo **_Concepto_** **BA** de Baja de activo, en el campo **_Código_** se le dice al sistema qué código debe causar, por ejemplo, Activo fijo, depreciación, una pérdia o utilidad según corresponda, en el campo **_Cuenta_** se registra la cuenta contable siempre y cuando sea la misma para todos los activos fijos, en caso de que no, se registra 0 (cero) y en el campo **_Depende_** se le dice que depende del activo fijo;  se registra la naturaleza que corresponda y en el campo **_Obligatorio_** se dice si se deben causar esos código o no, por ejemplo, el activo ya se depreció en su totalidad y por lo tanto únicamente se debe causar la cuenta del activo fijo con su respectiva depreciación, en caso de que el activo no se haya depreciado en su totalidad, el valor restante se debe llevar a una pérdida o utilidad según corresponda y por lo tanto los campos correspondientes a utilidad o pérdida no se marcan como obligatorios  
 
 ![](hmov13.png)  
 
