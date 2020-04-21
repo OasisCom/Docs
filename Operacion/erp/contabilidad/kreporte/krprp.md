@@ -5,14 +5,13 @@
 layout: default
 
 title: Balance de Prueba por Proyecto
-
 permalink: /Operacion/erp/contabilidad/kreporte/krprp
 
 editable: si
 
 ---
 
-## Balance de Prueba por Proyecto - KRPRP
+# Balance de Prueba por Proyecto - KRPRP
 
 En esta opción el sistema permite generar una consulta por pantalla o un informe impreso o en Excel detallando por proyecto el movimiento debido y crédito de cada una de las cuentas que estén marcadas por proyecto. Para su generación el sistema solicita periodo, año, nivel, libro  
 

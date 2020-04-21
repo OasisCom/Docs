@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/tbasica/tbbc
 editable: si
 ---
 
-## Bank Concept - TBBC
+## Banco Concepto - TBBC
 
 En esta aplicación se definen las parametrizaciones básicas necesarias para realizar el proceso de conciliación bancaria. Recuerde que esta parametrización debe ser acorde con la definida por el respectivo banco.  
 

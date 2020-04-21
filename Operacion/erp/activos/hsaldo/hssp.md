@@ -5,7 +5,7 @@ permalink: /Operacion/erp/activos/hsaldo/hssp
 editable: si
 ---
 
-# Saldos de Activos - HSSP
+# [**Saldos de Activos - HSSP**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp)  
 
 En esta aplicación, se pueden revisar los saldos de los activos fijos, tanto de los activos fijos que fueron ingresados por la aplicación **OFAC - Facturas de compra**, como de los ingresados por **HMOV - Movimientos**.  
  
@@ -37,9 +37,10 @@ Realizado con anterioridad el movimiento de ingreso de Activo Fijo por Compras e
 
 ![](hssp.png)
 
-En el campo llamado _Balance Quantity Use Book_, dice cuántos meses le quedan pendientes al activo por depreciar.  
+En el campo llamado _Balance Quantity Use Book_, dice cuántos meses le quedan pendientes al activo por depreciar. 
 
 ![](hssp3.png)  
+
 
 ### [Verificación de saldos de activos fijos ingresados por HMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-hmov---movimientos)
 

@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kreporte/krpr
 editable: si
 ---
 
-## Balance de Prueba - KRPR
+# Balance de Prueba - KRPR
 
 Esta aplicación permite observar un Balance de Prueba periódicamente según nuestra consulta, se filtra por periodo y año.
 
