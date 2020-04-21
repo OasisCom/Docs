@@ -79,13 +79,21 @@ Los datos de los campos _Tipo de periodo_, _Duración_, _Ejecutado_, _Última Fa
 
 ***
 # Contratos de Venta **(Cápita - Evento)**  
-El cliente maneja 2 tipo de contratos de venta para cada tercero **(Cápita - Evento)**, Esto por el programa **VCNT**  
+Parametrizacion:  
+El cliente maneja 2 tipo de contratos de venta para cada tercero **(Cápita - Evento)**, Esto por el programa **VCNT.**  
 
 ![](vcnt11.png)  
 
 Sobre los conceptos del Programa **GMOV** (Programa **BDOC** - Detalle Conceptos), se tiene configurado a que tipo pertenece si es Cápita o Evento.  
 
 ![](vcnt12.png)  
+
+Teniendo la anterior parametrizacion, se explica:  
+Se realizar una personalizacion o customizacion sobre el Concepto del **GMOV** (Se muestra como Servicios.  
+
+Para este proceso se toma como retrives tanto el concepto como el tercero (Resaltados en Amarillo).  
+
+Esto para retornar el Contrato de venta del tercero, que son los campos de referencia.(Resaltados en Rojo).  
 
 
 
