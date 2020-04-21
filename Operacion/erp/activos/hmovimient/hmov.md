@@ -79,7 +79,7 @@ Verificamos que acreditó a la cuenta de depreciación y debitó a la cuenta del
 
 ## [**Parametrización para movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#parametrización-para-movimientos-de-activos-fijos)  
 
-Primero, se debe ingresar por la aplicación **BDOC - Documentos** y se consulta por el campo **_Documento_** **MA** que corresponde a Activos fijos  
+Primero, se debe ingresar por la aplicación [**BDOC - Documentos**] y se consulta por el campo **_Documento_** **MA** que corresponde a Activos fijos  
 
 ![](hmov10.png)  
 
