@@ -12,9 +12,9 @@ Este módulo está diseñado para la supervisión de los créditos que soliciten
 Este módulo comprende los siguientes submódulos:  
 
 * [**Saldos**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo)  
-* [**Movimientos**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient)  
-* [**Operación**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion)  
-* [**Créditos**](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito)  
+* [**Movimientos**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/)  
+* [**Operación**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/)  
+* [**Créditos**](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/)  
 * [**Procesos Especiales**](http://docs.oasiscom.com/Operacion/erp/cartera/cproceso)  
-* [**Reportes**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte)  
+* [**Reportes**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/)  
 
