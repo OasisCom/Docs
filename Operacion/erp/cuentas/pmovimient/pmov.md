@@ -15,7 +15,7 @@ Los siguientes procesos se encuentran documentados en esta aplicación:
 >+ [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
 >+ [Causaciones con AIU - Administración, Imprevistos y Utilidad](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causaciones-con-aiu---administración-imprevistos-y-utilidad)
 >+ [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
->+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-economicas)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-económicas)
 
 ![](PMOV1.png)
 
@@ -153,7 +153,7 @@ En el detalle, podemos ver que tomó como base de retención $80.000, es decir, 
 
 Finalmente procesamos el movimiento.  
 
-## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-economicas)
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-económicas)
 
 En la aplicación **PMOV,** en los campos de *DocDocumento, DocNúmero y DocUbicación,* se colocan los datos del **ELIP.** 
 
