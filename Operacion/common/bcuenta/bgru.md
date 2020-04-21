@@ -38,7 +38,7 @@ Por ejemplo, si se crea un grupo para los productos con IVA Excluido, este grupo
 
 Para el proceso de Ingreso de Activo Fijo por Compras, en la aplicación BGRU se debe incluir el código IVC a los activos fijos. A continuación un ejemplo.  
 
-En el ejemplo el código del producto del activo fijo es 2008877, el cual se puede observar al consultar el movimiento en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos).  
+En el ejemplo el código del producto del activo fijo es 2008877, el cual se puede observar al consultar el movimiento en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#ingreso-de-activo-fijo-por-compras-ofac).  
 
 ![](bgru4.png)
 

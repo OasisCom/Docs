@@ -5,7 +5,7 @@ permalink: /Operacion/erp/activos/hbasica/hact
 editable: si
 ---
 
-# HACT - Activos
+# Activos - HACT
 
 * [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#hact-activos)  
 * [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)  

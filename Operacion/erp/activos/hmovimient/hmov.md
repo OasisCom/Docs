@@ -64,4 +64,22 @@ En la parte derecha se puede filtrar el activo fijo
 
 Verificamos que acreditó a la cuenta de depreciación y debitó a la cuenta del gasto  
 
-![](hmov9.png)
+![](hmov9.png)  
+
+
+## [**Parametrización para movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#parametrización-para-movimientos-de-activos-fijos)  
+
+Primero, se debe ingresar por la aplicación **BDOC - Documentos** y se consulta por el campo **_Documento_** **MA** que corresponde a Activos fijos  
+
+![](hmov10.png)  
+
+En el detalle, se pueden visualizar cada uno de los conceptos que se pueden generar en el módulo, por ejemplo: aumentar el valor del activo, aumentar su vida útil, realizar una baja, entre otros.  
+
+![](hmov11.png)  
+
+Cada uno de los activos debe tener un motivo asociado, lo cual se realiza en la aplicación **BMOT - Motivos**. Ingresamos a esta aplicación; se consulta por el campo **_Documento_** **MA** que corresponde a Movimiento de activos y en la ilustración, tomaremos como ejemplo en el campo **_Concepto_** **BA** correspondiente a Bajas y se verifica que exista su **_Motivo_**  
+
+![](hmov12.png)  
+
+A continuación, se abre la aplicación **BPLA - Plantillas**
+## [**Movimientos de activos fijo**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimientos-de-activos-fijo)
