@@ -94,6 +94,8 @@ Se realizar una personalizacion o customizacion sobre el Concepto del **GMOV** (
 Para este proceso se toma como retrives tanto el concepto como el tercero (Resaltados en Amarillo).  
 
 Esto para retornar el Contrato de venta del tercero, que son los campos de referencia.(Resaltados en Rojo).  
+![](vcnt13.png)
+
 
 
 
