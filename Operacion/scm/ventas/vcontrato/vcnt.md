@@ -77,8 +77,9 @@ Los datos de los campos _Tipo de periodo_, _Duración_, _Ejecutado_, _Última Fa
 
 ![](vcnt9.png)
 
-
-****
+***
+# Contratos de Venta **(Cápita - Evento)**  
+El cliente maneja 2 tipo de contratos de venta para cada tercero **(Cápita - Evento)**, Esto por el programa **VCNT**  
 
 
 
