@@ -7,7 +7,7 @@ editable: si
 
 # Movimientos - PMOV
 
-Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos, 
+Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos. 
 
 Los siguientes procesos se encuentran documentados en esta aplicación:  
 
