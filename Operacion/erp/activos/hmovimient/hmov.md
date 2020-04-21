@@ -81,5 +81,36 @@ Cada uno de los activos debe tener un motivo asociado, lo cual se realiza en la 
 
 ![](hmov12.png)  
 
-A continuación, se abre la aplicación **BPLA - Plantillas**
-## [**Movimientos de activos fijo**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimientos-de-activos-fijo)
+Se continúa con la aplicación **BPLA - Plantillas**, donde se le indica al sistema cómo debe contabilizar cada uno de los movimientos generados.  Se consulta en el campo **_Documento_** **MA** de Movimientos de activos, y en el ejemplo de la ilustración, vamos a utilizar en el campo **_Concepto_** **BA** de Baja de activo, en el campo **_Código_** se le dice al sistema qué código debe causar, por ejemplo, Activo fijo, depreciación, una pérdia o utilidad según corresponda, en el campo **_Cuenta_** se registra la cuenta contable siempre y cuando sea la misma para todos los activos fijos, en caso de que no, se registra 0 (cero) y en el campo **_Depende_** se le dice que depende del activo fijo;  se registra la naturaleza que corresponda y en el campo **_Obligatorio_** se dice si se deben causar esos código o no, por ejemplo, el activo ya se depreció en su totalidad y por lo tanto únicamente se debe causar la cuenta del activo fijo con su respectiva depreciación, en caso de que el activo no se haya depreciado en su totalidad, el valor restante se debe llevar a una pérdida o utilidad según corresponda y por lo tanto los campos correspondientes a utilidad o pérdida no se marcan como obligatorios  
+
+![](hmov13.png)  
+
+
+## [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimientos-de-activos-fijos)  
+
+
+Cuando ya se ha realizado esta parametrización, se ingresa a la aplicación **HMOV - Movimientos** en donde se realizarán cada uno de los movimientos de activos fijos.  Se adiciona un nuevo registro (+), en el campo **_Documento_** se coloca **MA** de Movimientos de activos, en los campos **_Ubicación_** y **_Fecha_** las que correspondan, en el campo **_Concepto_** haciendo doble clic, se selecciona el concepto que se requiera causar, en la ilustración se utiliza el de **BJ** que corresponde a Baja por deterioro, en el campo **_Tercero_** se selecciona el tercero que corresponda, en el campo **_Observación_** se coloca una observación si se requiere y se guarda el registro.  
+
+![](hmov14.png)  
+![](hmov15.png)  
+![](hmov16.png)  
+![](hmov17.png)  
+![](hmov18.png)  
+
+En la parte inferior, en el detalle, adicionamos un registro (+), adicionamos el activo que al que se quiere dar de baja y se guarda el registro.  No es necesario diligenciar alguno de los campos siguientes.    
+
+![](hmov19.png)  
+
+Posteriormente, se procesa el documento  
+
+![](hmov20.png)  
+
+
+Finalmente se verifica su respectiva contabilización y efectivamente el sistema acreditó la cuenta del activo fijo, debitó la depreciación y el restante lo llevó a una cuenta del gasto de acuerdo a la parametrización realizada en la aplicación **BPLA - Plantillas**.  
+
+![](hmov21.png)  
+
+En esta aplicación se pueden realizar los diferentes movimientos: adicionar valor, vida útil, disminuir valor, vida útil, entre otros.  Es importante conocer qué concepto se va a causar para saber cómo diligenciar el detalle, por ejemplo, en la baja, únicamente es necesario traer el activo fijo; si se va a aumentar el valor, es necesario traer el activo fijo y en el campo **_Valor_** indicar el valor que se va a adicionar; si se quiere adicionar la vida útil, en el campo **_CantidadUso_** se deben registrar los meses que se van a adicionar; lo mismo para realizar una disminución: disminución de meses o disminución de valor.  
+
+
+
