@@ -5,9 +5,11 @@ permalink: /Operacion/erp/cuentas/pmovimient/pmov
 editable: si
 ---
 
-## Movimientos - PMOV
+# Movimientos - PMOV
 
-Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos, en esta aplicación donde se deben diligenciar unos datos obligatoriamente y otros que son opcionales.  
+Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos, 
+
+Los siguientes procesos se encuentran documentados en esta aplicación:  
 
 >+ [Documento equivalente](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#documento-equivalente)
 >+ [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
