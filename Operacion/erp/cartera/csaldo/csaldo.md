@@ -5,17 +5,16 @@ permalink: /Operacion/erp/cartera/csaldo/
 editable: si
 ---
 
-# SALDOS DE CARTERA  
+# Saldos de Cartera  
 
-Este submódulo pemite mantener los saldos actualizados de los clientes, visualizar saldos anteriores, débitos y créditos, detalle de los documentos pendientes por cancelar, consultar saldos mensuales por cliente.  
+Este submódulo permite mantener los saldos actualizados de los clientes, visualizar saldos anteriores, débitos y créditos, detalle de los documentos pendientes por cancelar, consultar saldos mensuales por cliente.  
 
 Las aplicaciones que se manejan en este submódulo son:  
 
-*	**CSSP**	-	Saldos por periodo  
-*	**ECSSP**	-	Saldos de cartera  
-*	**CSSC**	-	Calificaciones  
-*	**CCAC**	-	Análisis de cartera vencida  
-*	**CCRE**	-	Saldos de créditos  
-*	**CSEC**	-	Imprime estados de cuenta clientes  
-*	**CREC**	-	Imprime estados de cuenta clientes
-
+* [**CSSP**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/cssp) - Saldos por periodo  
+* [**ECSSP**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/ecssp) - Saldos de cartera  
+* [**CSSC**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/cssc) - Calificaciones  
+* [**CCRE**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/ccre) - Saldos de créditos  
+* [**CSEC**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/csec) - Imprime estados de cuenta clientes
+* [**CREC**]() - Imprime estados de cuenta clientes  
+* [**CCAC**]() - Análisis de cartera vencida  
