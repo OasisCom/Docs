@@ -11,13 +11,13 @@ En esta aplicación, se pueden ver las operaciones o registros que afectan los a
 
 Los siguientes procesos se encuentran documentados en esta aplicación:
 
-  * [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)  
+  * [**Manejo de IVA en Activos Fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)  
   * [**Ingreso de Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV)  
   * [**Movimiento de depreciación de un activo fijo**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimiento-de-depreciación-de-un-activo-fijo)  
   * [**Parametrización para movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#parametrización-para-movimientos-de-activos-fijos)  
   * [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimientos-de-activos-fijos)
 
-## [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)
+## [**Manejo de IVA en Activos Fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)
 
 De acuerdo con la normatividad vigente el rubro cancelado por concepto de IVA en los activos fijos hace parte del valor del activo, pero también se debe tener presente dicho valor para la generación de medios magnéticos.
 
