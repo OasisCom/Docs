@@ -175,7 +175,7 @@ Se ingresa a la aplicación **PMOV - Movimientos**; se adiciona un nuevo registr
 ![](pmov15.png)  
 ![](pmov16.png)  
 ![](pmov17.png)  
-![](pmov18.png
+![](pmov18.png)
 
 Al guardar, si tenemos previamente parametrizadas las plantillas, el sistema nos va a sugerir las cuentas contables que se causan en el momento de procesar el registro, en caso contrario, se pueden agregar (+) manualmente.  
 
