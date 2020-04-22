@@ -193,7 +193,7 @@ De igual manera, si se tienen parametrizadas previamente las plantillas, el sist
 
 ![](pmov22.png)  
 
-En este momento, ya se puede ir a la aplicación **PMCR - Cruces** para realizar el proceso de cruce.  Para conocer el proceso completo, favor dirigirse a: [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasisCom/Docs/edit/master/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
+En este momento, ya se puede ir a la aplicación **PMCR - Cruces** para realizar el proceso de cruce.  Para conocer el proceso completo, favor dirigirse a: [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
 
 
 
