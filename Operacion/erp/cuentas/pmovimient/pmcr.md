@@ -70,21 +70,21 @@ Esta aplicación cuenta con un detalle en donde se pueden identificar los docume
 
 Se consulta la cuenta por pagar: en este caso, vamos a darle continuidad al proceso de la aplicación **PMOV** [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar).  En el campo **_Documento_** se elige la opción **CP** de Cuenta por pagar y en el campo **_Número_** el número de la cuenta por pagar que en este caso es la **_8_**  
 
-![](PMCR5.png)  
+![](pmcr5.png)  
 
 En la parte inferior, en el detalle, adicionamos un registro (+); en el campo **_DocDocumento_**, hacemos doble clic y el sistema nos va a relacionar con qué movimiento tipo egreso podemos cruzar la factura y en este caso, elegimos el egreso que acabamos de registrar, guardamos y el sistema nos inserta el registro del cruce.
 
-![](PMCR6.png)  
-![](PMCR7.png)  
-![](PMCR8.png)
+![](pmcr6.png)  
+![](pmcr7.png)  
+![](pmcr8.png)
 
 Finalmente, se procede a confirmar el cruce  
 
-![](PMCR9.png)
+![](pmcr9.png)
 
 Lo podemos validar desde la cuenta por pagar y para verlo más efectivo, desde el egreso número 8 también se va a ver identificado que el cruce quedó ejecutado correctamente.  De esta manera, se registran los cruces manuales desde esta opción **PMCR** y se hace la causación de cuentas por pagar desde la opción **PMOV - Movimientos**.  
 
-![](PMCR10.png)
+![](pmcr10.png)
 
 
 
