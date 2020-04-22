@@ -68,7 +68,7 @@ Esta aplicación cuenta con un detalle en donde se pueden identificar los docume
 
 ##  [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasisCom/Docs/edit/master/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
 
-Se consulta la cuenta por pagar: en este caso, vamos a darle continuidad al proceso de la aplicación **PMOV** [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación).  En el campo **_Documento_** se elige la opción **CP** de Cuenta por pagar y en el campo **_Número_** el número de la cuenta por pagar que en este caso es la **_8_**  
+Se consulta la cuenta por pagar: en este caso, vamos a darle continuidad al proceso de la aplicación **PMOV** [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar).  En el campo **_Documento_** se elige la opción **CP** de Cuenta por pagar y en el campo **_Número_** el número de la cuenta por pagar que en este caso es la **_8_**  
 
 ![](PMCR5.png)  
 
