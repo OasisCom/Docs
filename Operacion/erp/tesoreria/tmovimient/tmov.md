@@ -105,6 +105,9 @@ Obtendremos la siguiente vista previa.
 
 ![](tmov8.png)
 
+
+* Se ajusta a la vista previa del **TMOV**  Dusakawi para el escenario donde tenga FS y glosa.  
+
 * Otro formato del TMOV en su vista preliminar se visualizara así, donde se totalizan sus valores por cada uno de sus libros.  
 
 ![](tmov10.png)
