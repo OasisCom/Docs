@@ -78,7 +78,7 @@ En la parte inferior, en el detalle, adicionamos un registro (+); en el campo **
 ![](pmcr7.png)  
 ![](pmcr8.png)
 
-Finalmente, se procede a confirmar el cruce  
+Finalmente, se procede a confirmar el cruce    
 
 ![](pmcr9.png)
 
