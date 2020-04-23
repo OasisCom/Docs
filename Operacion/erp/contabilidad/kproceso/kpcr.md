@@ -28,6 +28,6 @@ Se deberá ingresar la siguiente información:
 
 Luego de llenar los campos correspondientes damos clic ![](ejecutar.png) y ejecutamos el proceso. 
 
-El sistema nos genera un documento en el [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov). Luego de realizar el cierre en la aplicación **KMOV - Movimientos**, se procede a consultar el [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr), las cuentas gastos, ingresos, costo de ventas y costo de prodicción ya nos aparecen cerradas o en cero. 
+El sistema nos genera un documento en el [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov). Luego de realizar el cierre en la aplicación **KMOV - Movimientos**, se procede a consultar el [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr), las cuentas gastos, ingresos, costo de ventas y costo de producción ya nos aparecen cerradas o en cero. 
 
 ![](Balance.png)
