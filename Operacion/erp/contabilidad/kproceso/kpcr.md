@@ -18,7 +18,7 @@ Para esto, dentro de la aplicación [**KRPR - Balance de prueba**](http://docs.o
 
 ![](Balance1.png)
 
-Para proceder a realizar el cierre, se ejecuta el proceso de cierre de resultados en la aplicación [**KPCR - Cierre de Resultados**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados).  
+Para proceder a realizar el cierre, se ejecuta el proceso de cierre de resultados en la aplicación [KPCR - Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados).  
 
 Al ingresar a esta aplicación, se despliega una ventana como la que se muestra a continuación:  
 
