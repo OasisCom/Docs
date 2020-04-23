@@ -23,7 +23,9 @@ Aplicación que permite consultar las cuentas que están pendientes por pagar e 
 **Días:** Días de vencimiento de la orden de pago.  
 **Factura:** Factura a pagar.  
 **Invoice Number:** Valor de la factura a pagar.  
-**Saldo:** Saldo pendiente por pago.  
+**Saldo:** Saldo pendiente por pago. 
+
+![](PORD2.png)
 
 
 
