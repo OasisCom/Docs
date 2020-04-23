@@ -9,6 +9,13 @@ editable: si
 
 La aplicación **KPGF** permite generar los formatos que han sido previamente parametrizados en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo).  
 
+>+ [Formato 350 - Retención en la Fuente](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#formato-350---retención-en-la-fuente)
+>+ [Formato 300 - Declaración de IVA](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#formato-300---declaración-de-iva)
+>+ [Medios magnéticos para el Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#medios-magnéticos-para-el-ingreso-de-activo-fijo-por-compras)
+>+ [Situación Financiera](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#situación-financiera)
+>+ [Proceso Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal)
+
+
 Diligenciamos los campos y damos click en botón consultar ![](actualizar.png).  
 
 ![](KPGF1.png)
