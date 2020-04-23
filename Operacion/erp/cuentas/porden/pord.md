@@ -52,7 +52,7 @@ Para visualizar un registro sobre la aplicación **PORD**, se debió primero hab
 Al procesar el movimiento de cuentas por pagar en la aplicación [**PMOV - Movimientos Cuentas por Pagar**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/cuentas/pmovimient/pmov.md), éste se verá reflejado en la aplicación **PORD** donde se realizará la confirmación de la orden de pago. Se consulta por número de documento.  
 
 
-![](PORD3.png)
+
 
 
 Cuando el registro de la cuenta por pagar ya es visualizado en la aplicación **PORD –  Orden de Pago**, podemos realizar algunos procesos parametrizados con anterioridad que nos permitirán realizar de manera correcta la confirmación de la orden de pago.  
