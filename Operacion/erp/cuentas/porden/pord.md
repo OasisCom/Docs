@@ -10,7 +10,7 @@ editable: si
 Aplicación que permite consultar las cuentas que están pendientes por pagar e igualmente permite confirmar la orden de pago de cada una de ellas. Contiene los siguientes campos:
 
 
-
+![](PORD1.png)
 
 
 **Tercero:** Identificación del cliente, empleado o  tercero en general que presente saldo en cuentas por pagar.  
