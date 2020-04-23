@@ -26,7 +26,7 @@ Aplicación que permite consultar las cuentas que están pendientes por pagar e 
 **Saldo:** Saldo pendiente por pago.  
 
 
-![](PORD2.png)
+
 
 
 **Payment Date:** Fecha de pago de la Orden de Pago.  
