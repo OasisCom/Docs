@@ -61,7 +61,7 @@ Cuando el registro de la cuenta por pagar ya es visualizado en la aplicación **
 Botón que permite la actualización de la fecha en la que se realizará el pago. Para realizar el cambio de la fecha, se debe hacer clic sobre el botón _Actualiza Fecha_.  
 
 
-
+![](PORD4.png)
 
 
 Automáticamente se abrirá un formulario en el que se debe activar el check _Modificar_, el cual habilitará el campo _Fecha de Pago_ y permitará realizar la modificación de esta.  
