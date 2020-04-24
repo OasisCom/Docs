@@ -95,11 +95,6 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 
 ## [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
 
-Los comprobantes de egreso se utilizan para registrar aquellas transacciones de salidas de dinero ya sea de cajas o de las cuentas bancarias.
-
-
-[Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
-
 Los comprobantes de egreso se utilizan para registrar aquellas transacciones de salidas de dinero ya sea de cajas o de las cuentas bancarias. 
 
 ![](egreso1.png) 
@@ -118,14 +113,33 @@ Damos clic ![](mas.png) para crear un nuevo registro.
 
 Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
 
+El sistema nos genera automáticamente unas cuentas, estas son sugeridas por el sistema, que se dejan parametrizadas en el Básico de Plantillas. 
 
+![](egreso3.png)
 
+Estas cuentas sugeridas las podemos modificar o podemos agregar registros, dependiendo el tipo de transacción que se requiera realizar. 
 
+**Nota:** La cuenta Banco no se debe modificar,  ya que esta se encuentra relacionada directamente a la ubicación, si se desea cambiar esta cuenta el sistema nos va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación con la que estamos creando el documento.
 
+Luego de causar una factura a proveedor, se realiza un cruce en el campo *DocDocumento* 
 
+![](egreso4.png)
 
+Esto con el fin de que nos quede la trazabilidad de los documentos que vamos cancelando.
 
+![](egreso5.png)
 
+ Escogemos la cuenta que vamos a cancelar. ![](aceptar.png)
+
+Luego de agregar el registro damos clic  ![](ok.png)
+
+![](egreso6.png)
+
+Ya nos queda relacionada nuestra cuenta por pagar, una vez nos queda las partidas iguales, débitos y créditos procesamos la información. 
+
+![](egreso7.png)
+
+De esta manera nuestra transacción queda lista y estamos afectando nuestro módulo de tesorería con la salida de este dinero.
 
 
 ## [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
