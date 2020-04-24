@@ -95,7 +95,7 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 
 ## [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
 
-Los comprobantes de egreso se utilizan para registrar aquellas transacciones de salidas de dinero ya sea de cajas o de las cuentas bancarias. 
+Los comprobantes de egreso se utilizan para registrar todas aquellas transacciones, ya sea un egreso, salida de caja o cuentas bancarias. 
 
 ![](egreso1.png) 
 
