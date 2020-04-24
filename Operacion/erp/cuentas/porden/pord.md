@@ -163,11 +163,11 @@ En  [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob
 
 * El sistema posee la funcionalidad, a nivel de autorización de pagos desde PORD (órdenes de pago);  Para control de montos según el nivel que tenga autorizado en **SUSU** 
 
-![](PORD19.png)
+![](pord19.png)
 
 Los rangos se parametrizan en **BRAN** segun: documento concepto.  
 
-![](PORD20.png)
+![](pord20.png)
 
 *************
 
