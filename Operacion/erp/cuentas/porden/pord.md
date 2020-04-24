@@ -73,7 +73,7 @@ Automáticamente se abrirá un formulario en el que se debe activar el check _Mo
 Se realiza la modificación de la fecha y se da click en _Guardar_.  
 
 
-
+![](PORD6.png)
 
 
 En el maestro se puede evidenciar el cambio de fecha en el campo **Fecha de Pago**.
