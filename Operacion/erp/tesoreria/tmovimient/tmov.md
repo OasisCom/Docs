@@ -9,6 +9,7 @@ editable: si
 
 En esta aplicación se realizan los documentos que hayan sido creados para el programa **TMOV** en el básico de documentos **BDOC - Documentos**. Esta aplicación permite filtrar por los diferentes campos que contiene en el maestro, que es la parte superior de la aplicación; en ella se encuentran los datos básicos de cada documento.  
 
+>+ [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
 >+ [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
 
 
@@ -92,9 +93,44 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 **Banco:** Identificación numérica del banco al cual pertenece el cheque.  
 **Plaza:** Ciudad en la que genera el cheque.  
 
+## [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
+
+Los comprobantes de egreso se utilizan para registrar aquellas transacciones de salidas de dinero ya sea de cajas o de las cuentas bancarias.
+
+
+[Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
+
+Los comprobantes de egreso se utilizan para registrar aquellas transacciones de salidas de dinero ya sea de cajas o de las cuentas bancarias. 
+
+![](egreso1.png) 
+
+Damos clic ![](mas.png) para crear un nuevo registro. 
+
+![](egreso2.png) 
+
+**Documento:** CE comprobante de egreso
+**Numero:** Numero automático que el sistema genera como consecutivo de nuestros documentos. 
+**Ubicación:** Ingresar o escoger el Banco o la Caja de donde va a salir el dinero. 
+**Concepto:** Para el ejemplo se coloca CP que corresponde a cuentas por pagar, también podemos utilizar otros conceptos según el pago que vamos a realizar. 
+**Tercero:** Elegir el proveedor respectivo.
+**Total:** Se digita el valor correspondiente al egreso. 
+**Observación:** Descripción adicional.
+
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+
+
+
+
+
+
+
+
+
+
+
 ## [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
 
-La aplicación TMOV permite obtener una vista previa de los comprobantes de egresos (CE), para ello, se debe parametrizar el número de formato para el documento **CE** en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). Este número de formato lo obtenemos al consultar por programa (tmov) en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). El formato se denomina _dw_i_movimiento_tes_pre_. (_Ver aplicaciones BDOC y SPRO_).  
+La aplicación **TMOV** permite obtener una vista previa de los comprobantes de egresos (CE), para ello, se debe parametrizar el número de formato para el documento **CE** en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). Este número de formato lo obtenemos al consultar por programa (tmov) en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). El formato se denomina _dw_i_movimiento_tes_pre_. (_Ver aplicaciones BDOC y SPRO_).  
 
 
 Para ir a la vista previa consultamos por el documento **CE** y seleccionamos el registro a visualizar. Damos clic en el botón ![](lupa.png). 
