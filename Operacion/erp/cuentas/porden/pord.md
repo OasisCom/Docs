@@ -121,19 +121,19 @@ En el maestro se puede evidenciar el cambio de banco en el campo **Caja**.
 Botón que permite la marcación de la Orden de pago, indicando que las cuentas que están marcadas son las que se van a pagar. Para realizar la marcación de la cuenta, se debe hacer click sobre el botón _Marcar_Todo_.  
 
 
-
+![](PORD12.png)
 
 
 Automáticamente, se abrirá un formulario en el que se debe activar el check _Modificar_ para que se habilite el check del campo _Marca_ y permita ser activado, damos click en _Guardar_.  
 
 
-
+![](PORD13.png)
 
 
 Al guardar el cambio, en el maestro se evidencia que la cuenta seleccionada tiene activo el check en el campo _Marca_.  
 
 
-
+![](PORD14.png)
 
 
 ### Ordenar
