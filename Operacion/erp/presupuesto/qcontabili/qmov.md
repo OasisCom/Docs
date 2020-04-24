@@ -22,7 +22,7 @@ Ingresamos a la aplicación y creamos un nuevo registro en el maestro (+). Se cr
 
 Ingresados los datos, damos click en el botón _Guardar_.  
 
-
+![](qmov.png)
 
 En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas contables que se presupuestarán.  
 
