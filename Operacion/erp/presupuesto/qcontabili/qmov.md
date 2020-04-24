@@ -9,8 +9,11 @@ editable: si
 
 La aplicación **QMOV** nos permite registrar el presupuesto de contabilidad, en donde en el detalle ingresaremos las cuentas contables del gasto y los valores que se presupuestarán para las mismas.  
 
-Ingresamos a la aplicación y creamos un nuevo registro en el maestro. Se creará un documento MQ con la ubicación parametrizada previamente en la opción [BUBI - Ubicaciones organizacón](http://docs.oasiscom.com/Operacion/common/borgan/bubi). Seleccionamos del zoom el concepto por el cual se hace el presupuesto.  
+Ingresamos a la aplicación y creamos un nuevo registro en el maestro (+). Se creará un **_Documento_** **MQ** de Movimiento de Presupuesto de contabilidad con la ubicación parametrizada previamente en la opción [BUBI - Ubicaciones organizacón](http://docs.oasiscom.com/Operacion/common/borgan/bubi). Seleccionamos del zoom el concepto por el cual se hace el presupuesto.    
 
+**Ubicación:** la que corresponda.  
+**Fecha:** se debe tener en cuenta que se puede generar un documento por mes o un documento por año.
+**Concepto:** siempre se vaa generar **_Concepto_** **MQ** de movimiento de presupuesto de contabilidad.
 **Tercero:** ingresar el número de identificación del usuario que registra el presupuesto.  
 **Moneda:** el sistema permite registrar presupuestos en varios tipos de moneda como el peso, dolar, entre otras. En este campo ingresamos el número que identifica cada moneda: 0 para pesos colombianos, 1 para dólar. Las monedas se parametrizan en la opción [BMON - Monedas](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
 **Tasa Cambio:** en caso que el presupuesto se realice en otro tipo de moneda diferente al peso colombiano, ingresar la tasa de cambio del día que se registra.  
@@ -19,7 +22,7 @@ Ingresamos a la aplicación y creamos un nuevo registro en el maestro. Se crear�
 
 Ingresados los datos, damos click en el botón _Guardar_.  
 
-![](qmov.png)
+
 
 En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas contables que se presupuestarán.  
 
