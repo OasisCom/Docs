@@ -26,12 +26,12 @@ Ingresados los datos, damos click en el botón _Guardar_.
 
 En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas contables que se presupuestarán.  
 
-![](qmov1.png)
+
 
 **Cuenta:** seleccionar del zoom la cuenta contable a presupuestar.  
 **Naturaleza:** seleccionar la naturaleza de la cuenta contable.  
 **Valor:** ingresar el valor a presupuestar a dicha cuenta contable.  
-**Centro Costo:** seleccionar del zoom el centro de costo al cual se cargará el presupuesto de la cuenta contable seleccionada.  
+**Centro Costo:** seleccionar del zoom el centro de costo al cual se cargará el presupuesto de la cuenta contable seleccionada.  Se puede registrar uno específico si se quiere generar un presupuesto por centro de costo detallado o uno genérico si no se quiere utilizar así.  
 **Negocio:** en caso de que aplique, seleccionar el negocio al cual se relacionará el presupuesto de la cuenta.  
 **Proyecto:** seleccionar el proyecto al cual se relacionará el presupuesto de la cuenta.  
 **Tercero:** ingresar el número de identificación del usuario al cual se le relacionará el presupuesto.  
