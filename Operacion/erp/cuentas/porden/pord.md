@@ -67,7 +67,7 @@ Botón que permite la actualización de la fecha en la que se realizará el pago
 Automáticamente se abrirá un formulario en el que se debe activar el check _Modificar_, el cual habilitará el campo _Fecha de Pago_ y permitará realizar la modificación de esta.  
 
 
-
+![](PORD5.png)
 
 
 Se realiza la modificación de la fecha y se da click en _Guardar_.  
