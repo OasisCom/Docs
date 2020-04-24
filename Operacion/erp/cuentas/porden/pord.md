@@ -88,31 +88,31 @@ En el maestro se puede evidenciar el cambio de fecha en el campo **Fecha de Pago
 Botón que permite la actualización del Banco de donde se realizará el pago. Para realizar el cambio de Banco se debe hacer click sobre el botón Actualizar_Banco.  
 
 
-
+![](PORD8.png)
 
 
 Automáticamente se abrirá un formulario en el que se debe activar el check _Modificar_, el cual habilitará el campo _Caja_ y permitirá realizar la modificación de esta.  
 
 
-
+![](PORD9.png)
 
 
 Se realiza la modificación al número de caja y se da click en _Guardar_.  
 
 
-
+![](PORD10.png)
 
 
 En el maestro se puede evidenciar el cambio de banco en el campo **Caja**.  
 
 
-
+![](PORD11.png)
 
 
 **Nota:** Es importante verificar que en la aplicación [**BUBI - Ubicaciones Organización**](https://github.com/OasisCom/Docs/blob/master/Operacion/common/borgan/bubi.md) en el registro del banco, el check del campo _Cash_ se encuentre activo.  
 
 
-
+![](BUBI1.png)
 
 
 ### Marcar Todo
