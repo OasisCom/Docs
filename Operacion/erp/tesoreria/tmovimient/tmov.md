@@ -213,5 +213,39 @@ Luego de procesar el documento, automáticamente cambia el estado del documento 
 
 ## [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
 
-Este se realiza 
+Esta transacción permite registrar el movimiento para realizar traslados de dinero de una ubicación de tesorería a otra. 
+
+![](egreso1.png) 
+
+Damos clic ![](mas.png) para crear un nuevo registro. 
+
+![](tesoreria1.png)
+
+**Documento:** En este caso seleccionamos CE Comprobante de egreso.   
+**Numero:** Numero automático que el sistema genera como consecutivo de nuestros documentos.   
+**Ubicación:** Ingresar o escoger el Banco o la caja de donde va a salir el dinero.   
+**Concepto:** En este caso se escoge TR ya que se requiere realizar un traslado.   
+**Tercero:** Ingresar el NIT o información que se desee.  
+**Total:** Se digita el valor que se va a trasladar.   
+**Observación:** Descripción adicional. 
+**Cuenta de destino:** Ubicación o cuenta de destino donde se requiere trasladar el dinero.  
+
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+
+Cuando se indica la cuenta de destino y la cuenta de origen, el sistema automáticamente en el detalle nos sugiere las cuentas bancarias, estas cuentas están relacionadas con la ubicación indicada. De donde sale el dinero y el destino del mismo. 
+
+![](tesoreria2.png)
+
+**Nota:** Estas cuentas van relacionadas a las ubicaciones que se ingresaron previamente, por lo que en el detalle no se deben cambiar. 
+
+![](tesoreria3.png)
+
+Por ultimo, se procesa el documento para que la transacción se vea reflejada en el módulo de tesorería. 
+
+![](tesoreria4.png) 
+
+
+
+
+
 
