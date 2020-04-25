@@ -12,6 +12,8 @@ En esta aplicación se realizan los documentos que hayan sido creados para el pr
 >+ [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
 >+ [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
 >+ [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
+>+ [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
+
 
 ![](TMOV1.png)
 
@@ -209,7 +211,7 @@ Luego de procesar el documento, automáticamente cambia el estado del documento 
 
 ![](caja6.png)
 
+## [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
 
-
-
+Este se realiza 
 
