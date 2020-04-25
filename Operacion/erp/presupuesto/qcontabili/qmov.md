@@ -34,10 +34,15 @@ En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas c
 **Centro Costo:** seleccionar del zoom el centro de costo al cual se cargará el presupuesto de la cuenta contable seleccionada.  Se puede registrar uno específico si se quiere generar un presupuesto por centro de costo detallado o uno genérico si no se quiere utilizar así.  
 **Negocio:** en caso de que aplique, seleccionar el negocio al cual se relacionará el presupuesto de la cuenta.  
 **Proyecto:** seleccionar el proyecto al cual se relacionará el presupuesto de la cuenta.  
-**Tercero:** ingresar el número de identificación del usuario al cual se le relacionará el presupuesto.  
+**Tercero:** ingresar el número de identificación del usuario al cual se le relacionará el presupuesto. 
 
-Presupuestadas todas las cuentas contables definidas se deberá procesar el presupuesto desde la barra de herramientas del maestro.  
+Una vez se termine de diligenciar toda la información, tanto a nivel de cuentas del ingreso como del gasto, de acuerdo a lo que se requiera, se puede entrar a aprobar el presupuesto.  Esto lo podría entrar a realizar un rol diferente.  Para esto, se edita el documento ![](qmov4.png) y se le da check en el campo **_Aprobar_**, luego se guarda el registro.  
 
-![](qmov2.png)
+
+![](qmov3.png)
+
+Ahora, se deberá procesar el presupuesto desde la barra de herramientas del maestro.  
+
+
 
 En la aplicación [QRCE - Ejecución presupuestal - Centro de Costo](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcreporte/qrce) se consulta la ejecución del presupuesto registrado en QMOV.  
