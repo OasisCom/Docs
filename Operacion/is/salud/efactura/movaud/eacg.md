@@ -13,7 +13,7 @@ Ingresamos al programa **EACG**
 Se realiza la creación del modelo para la segunda pestaña del detalle  
 
 
-![](ecen4.png)  
+![](eacg1.png)  
 se deja activado el campo:  
 valor conciliado   
 
