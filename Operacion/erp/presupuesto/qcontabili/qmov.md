@@ -47,7 +47,7 @@ Ahora, se deberá procesar el presupuesto desde la barra de herramientas del mae
 
   ![](qmov2.png)
 
-Una vez procesado, se empiezan a realizar las operaciones de la actividad diaria.  Existen dos reportes en donde se puede ver el presupuesto y lo respectivo a nivel de su ejecución.  Para eso está el reporte **QREC - Ejec.Pres.por Cuenta**, en donde se puede ver el presupuesto por cuenta contable.  Para este ejemplo se consulta el periodo 3.  
+Una vez procesado, se empiezan a realizar las operaciones de la actividad diaria.  Existen dos reportes en donde se puede ver el presupuesto y lo respectivo a nivel de su ejecución.  Para eso está el reporte [**QREC - Ejec.Pres.por Cuenta**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcreporte/qrec), en donde se puede ver el presupuesto por cuenta contable.  Para este ejemplo se consulta el periodo 3.  
 
 ![](qmov5.png)
 
