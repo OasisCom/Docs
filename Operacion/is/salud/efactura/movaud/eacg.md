@@ -7,21 +7,17 @@ editable: si
 
 # Acta de conciliación  
 
-Mediante la siguiente aplicación **ECEN:** la **IPS** informa el ingreso del paciente a la **EPS**, se registra **información del afiliado**, detallando datos como: diagnostico, vía de ingreso, servicio, especialidad; **información del egresado:** cantidad de días, diagnostico en el momento de la salida del paciente; e **información del Proceso**: nombre del responsable entre otros datos.  
+En esta opcion **EACG** se genera un documento de conciliación de las glosas que **no** han sido aceptadas o levantadas por el Prestador. Este documento realiza la cancelación de las provisiones generadas por las glosas y genera la cuenta por pagar del valor conciliado a favor de la IPS.  
+Se realiza la validación de la funcionalidad sobre el ambiente productivo de Dusakawi.  
+Ingresamos al programa **EACG**	 
+Se realiza la creación del modelo para la segunda pestaña del detalle  
 
-Se agrega zoom a los siguientes campos marcados.  
-Ajuste sobre campos servicio y diagnostico egreso ya que no se guardaba los datos seleccionados para estos campos.  
 
 ![](ecen4.png)  
+se deja activado el campo:
+valor conciliado
 
 ![](ecen3.png)  
-
-* Se adecua zoom para que solo muestre terceros de salud, debido que anteriormente estaba mostrando terceros en general (afiliado, cliente, proveedor, empleado..)  
-
-![](ecen5.png)  
-
-* Dentro de este mismo zoom de tercero, se agrego el **nombre del servicio** y **nombre de especialidad**, como opciones de búsqueda.    
-![](ecen6.png)  
 
 
 
