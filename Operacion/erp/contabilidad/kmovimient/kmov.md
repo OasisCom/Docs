@@ -14,7 +14,7 @@ Esta aplicación nos permite visualizar los saldos periódicamente de los proyec
 
 El sistema mediante procesos internos genera automáticamente los diferentes comprobantes contables, actualizando consigo las diferentes cuentas contables (débitos y créditos), cuando se realiza un proceso especifico como depreciaciones, amortizaciones o distribución de costos.  
 
-![](KMOV1.png)
+![](KMV1.png)
 
  **Documento:** Tipo de documento.  
  **Número:** Número del documento.  
@@ -29,7 +29,7 @@ El sistema mediante procesos internos genera automáticamente los diferentes com
 
 En la pestaña de detalle se especifica el documento origen por el cual se está generando el comprobante.    
 
-![](KMOV2.png)
+![](kmov2.png)
 
  **Renglón:** Consecutivo del renglón.  
  **Cuenta:** Número de cuenta según PUC (Plan Único de Cuentas).  
