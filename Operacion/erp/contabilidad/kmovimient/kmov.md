@@ -6,14 +6,18 @@ editable: si
 
 ---
 
-## Movimientos - KMOV
+# Movimientos - KMOV
 
 Esta aplicación nos permite visualizar los saldos periódicamente de los proyectos, se puede filtrar por año, cuenta y proyecto. En la aplicación **KMOV** se generan diversos comprobantes, para ello se requieren ciertos datos de entrada como: número de la ubicación que genera el comprobante, identificación alfanumérica del comprobante a generar, valor por el cual se va realizar el movimiento.  
 
-El sistema mediante procesos internos genera automáticamente los diferentes comprobantes contables, actualizando consigo las diferentes cuentas contables (débitos y créditos), cuando se realiza un proceso especifico como depreciaciones, amortizaciones o distribución de costos.    
+* [Nota de Contabilidad](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov#nota-de-contabilidad)
+
+El sistema mediante procesos internos genera automáticamente los diferentes comprobantes contables, actualizando consigo las diferentes cuentas contables (débitos y créditos), cuando se realiza un proceso especifico como depreciaciones, amortizaciones o distribución de costos.  
 
 ![](kmov.png)  
-![](kmov1.png)
+
+![](kmov1.png)  
+
 
  **Documento:** Tipo de documento.  
  **Número:** Número del documento.  
@@ -44,7 +48,7 @@ En la pestaña de detalle se especifica el documento origen por el cual se está
  **BaseRetencion:** Valor de retención que se le aplica a un concepto.  
  
  
-## Nota de Contabilidad  
+## [Nota de Contabilidad](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov#nota-de-contabilidad)  
 
 Las notas de contabilidad se usan para realizar cualquier registro contable para cuentas que no son controladas por módulos del sistema.  
 En este ejemplo, se va a realizar una nota de contabilidad por un mal registro causado en el mes de abril donde se causó el gasto; se causó al gasto de ventas y realmente era un gasto administrativo.  
