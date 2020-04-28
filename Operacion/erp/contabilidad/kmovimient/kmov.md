@@ -28,7 +28,7 @@ El sistema mediante procesos internos genera automáticamente los diferentes com
 
 En la pestaña de detalle se especifica el documento origen por el cual se está generando el comprobante.  
 
-![](KMOV2.png)
+
 
  **Renglón:** Consecutivo del renglón.  
  **Cuenta:** Número de cuenta según PUC (Plan Único de Cuentas).  
