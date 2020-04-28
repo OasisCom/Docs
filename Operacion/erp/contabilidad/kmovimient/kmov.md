@@ -26,9 +26,10 @@ El sistema mediante procesos internos genera automáticamente los diferentes com
  **Nombre tercero:** Nombre del tercero al que se le realiza el documento.  
  **Estado:** Estado del documento: Activo, Procesado, Anulado.  
 
-En la pestaña de detalle se especifica el documento origen por el cual se está generando el comprobante.  
+En la pestaña de detalle se especifica el documento origen por el cual se está generando el comprobante.    
 
-
+![](kmov2.png)  
+![](kmov7.png)
 
  **Renglón:** Consecutivo del renglón.  
  **Cuenta:** Número de cuenta según PUC (Plan Único de Cuentas).  
