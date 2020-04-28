@@ -22,11 +22,11 @@ Ingresamos a la aplicación y creamos un nuevo registro en el maestro (+). Se cr
 
 Ingresados los datos, damos click en el botón _Guardar_.  
 
-
+![](qmov.png)
 
 En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas contables que se presupuestarán.  
 
-![](qmov1.png)
+
 
 **Cuenta:** seleccionar del zoom la cuenta contable a presupuestar.  
 **Naturaleza:** seleccionar la naturaleza de la cuenta contable.  
