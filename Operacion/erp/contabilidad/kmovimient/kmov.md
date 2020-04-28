@@ -12,7 +12,7 @@ Esta aplicación nos permite visualizar los saldos periódicamente de los proyec
 
 El sistema mediante procesos internos genera automáticamente los diferentes comprobantes contables, actualizando consigo las diferentes cuentas contables (débitos y créditos), cuando se realiza un proceso especifico como depreciaciones, amortizaciones o distribución de costos.  
 
-![](KMOV1.png)
+
 
  **Documento:** Tipo de documento.  
  **Número:** Número del documento.  
