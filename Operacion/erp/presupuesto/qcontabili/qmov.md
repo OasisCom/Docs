@@ -45,11 +45,11 @@ Una vez se termine de diligenciar toda la información, tanto a nivel de cuentas
 
 Ahora, se deberá procesar el presupuesto desde la barra de herramientas del maestro.  
 
-  
+  ![](qmov2.png)
 
 Una vez procesado, se empiezan a realizar las operaciones de la actividad diaria.  Existen dos reportes en donde se puede ver el presupuesto y lo respectivo a nivel de su ejecución.  Para eso está el reporte **QREC - Ejec.Pres.por Cuenta**, en donde se puede ver el presupuesto por cuenta contable.  Para este ejemplo se consulta el periodo 3.  
 
-![](qmov5.png)
+
 
 a nivel de la cuenta del gasto se evidencian los $5.000.000,oo presupuestados, $1.770.266,66 ejecutados para un rendimiento del 35.00%.  
 
