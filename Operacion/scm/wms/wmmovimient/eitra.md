@@ -228,3 +228,20 @@ A diferencia de la opción de [Acta Técnica Recepcion](http://docs.oasiscom.com
 
 Hay que recordar que para la parametrización de la lista desplegable del campo Criterio se debe realizar dentro de la aplicación características **(BCRC)**. 
 ![](imagenes/oact3.png)  
+
+* Se crea la vista previa: para visualizar el reporte de fallas en el acta técnica, estas fallas se dividen en dos
+  grandes campos, los defectos técnicos y los defectos administrativos.  
+  Estos dos defectos se pueden visualizar a nivel de aplicativo en el **OACT** en las pestañas correspondientes.  
+  Y finalmente estas pestañas son las que están resumidas en el reporte, clasificando **BCLA** las fallas como: criticas 
+  mayores y menores.  
+  
+  ![](eitra41.png)
+  Al descargar a PDF se visualiza asi:  
+  
+  ![](eitra42.png)  
+  
+  
+
+
+
+
