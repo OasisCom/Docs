@@ -22,11 +22,13 @@ Ingresamos a la aplicación y creamos un nuevo registro en el maestro (+). Se cr
 
 Ingresados los datos, damos click en el botón _Guardar_.  
 
-![](qmov.png)
+![](qmov.png)  
+
+![](qmov1.png)
 
 En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas contables que se presupuestarán.  
 
-![](qmov1.png)
+
 
 **Cuenta:** seleccionar del zoom la cuenta contable a presupuestar.  
 **Naturaleza:** seleccionar la naturaleza de la cuenta contable.  
@@ -39,7 +41,7 @@ En el detalle, agregamos un nuevo renglón en donde relacionaremos las cuentas c
 Una vez se termine de diligenciar toda la información, tanto a nivel de cuentas del ingreso como del gasto, de acuerdo a lo que se requiera, se puede entrar a aprobar el presupuesto.  Esto lo podría entrar a realizar un rol diferente.  Para esto, se edita el documento ![](qmov4.png) y se le da check en el campo **_Aprobar_**, luego se guarda el registro.  
 
 
-![](qmov3.png)
+
 
 Ahora, se deberá procesar el presupuesto desde la barra de herramientas del maestro.  
 
