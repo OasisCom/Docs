@@ -62,7 +62,7 @@ En la pestaña _Evaluación_ del detalle, agregamos un nuevo registro y damos do
 Seguidamente, en el campo _peso_ diligenciaremos el peso que tiene el tipo de evaluación seleccionado.
 
 
-![](rcar6.png)
+
 
 
 **Pestaña experiencia**
