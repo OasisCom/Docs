@@ -5,5 +5,13 @@ permalink: /Operacion/hrm/rhumanos/restructura/
 editable: si
 ---
 
-# ESTRUCTURA
+# ESTRUCTURA  
+
+En esta ventana, se registra la definición de cargos estableciendo un orden jerárquico entre los mismos y estableciendo el tipo de cargo, tipo de perfil al que pertenecen y sueldo.  También se puede registrar la definición de posiciones en la compañía por año.  
+
+Las aplicaciones que se utilizan para estos registros son:  
+
+* [**RCAR - Cargos**]  
+* [**RPOR - Posición**]  
+
 
