@@ -41,7 +41,7 @@ En la pestaña _Competencias_, se diligencian las competencias que deben poseer 
 **Competencia**: se agrega un nuevo registro (+), damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
 
 
-
+![](rcar4.png)
 
 
 **Peso**: digitar el peso que tiene la competencia que se va a evaluar.  
