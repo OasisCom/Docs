@@ -4,9 +4,13 @@ title: Balance de Formatos
 permalink: /Operacion/erp/contabilidad/kformatos/kfor
 editable: si
 ---
-## Balance de Formatos - KFOR
+# Balance de Formatos - KFOR
 
 En esta aplicación el sistema mostrará la información generada anteriormente en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf) , consultamos por año, número de formato asignado en la aplicación [**KBFO - Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo) y damos _Enter_.  
+
+
+>+ [Verificación de medios magnéticos para Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-para-activo-fijo-por-compras)
+>+ [Verificación de medios magnéticos para Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-psra-activo-fijo-por-hmov)
 
 El valor indicado en el maestro debe coincidir con el Balance de Prueba.  
 

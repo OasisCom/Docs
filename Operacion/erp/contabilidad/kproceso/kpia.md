@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kproceso/kpia
 editable: si
 ---
 
-## Inicio Año Contabilidad - KPIA
+# Inicio Año Contabilidad - KPIA
 
 Cuando se ha cerrado el año, en OasisCom debemos iniciar el nuevo año en los módulos del sistema. Para pasar los saldos de un año a otro el módulo de contabilidad se debe ejecutar el proceso **KPIA**, estos saldos se llevarán al periodo 0 del año en cuestión. Recuerde tener creado este periodo en la aplicación **BPER - Periodos** para ejecutar el proceso de cierre de año de manera correcta.
 

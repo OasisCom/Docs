@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Recálculo Contable Mensual - KPRECAL
+# Recalculo Contable Mensual - KPRECAL
 
 OasisCom permite realizar este procedimiento cuando los saldos no son correctos de acuerdo a los movimientos que se hayan hecho sobre una cuenta.
 
