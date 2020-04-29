@@ -72,7 +72,7 @@ Los tipos de experiencia deben ser previamente parametrizados en la aplicación 
 En la pestaña _Experiencia_ del detalle, agregamos un nuevo registro y damos doble click en el zoom del campo _tipo de experiencia_, allí seleccionamos el tipo de experiencia que deben tener los aspirantes al cargo registrado en el maestro y damos clic en _aceptar_.
 
 
-
+![](rcar7.png)
 
 
 Seguidamente, en el campo _peso_ diligenciaremos el peso que debe tener el tipo de experiencia en el proceso de selección.
