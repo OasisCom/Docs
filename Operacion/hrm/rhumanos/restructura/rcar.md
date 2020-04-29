@@ -112,7 +112,7 @@ En la pestaña _educación_, seleccionaremos del zoom el tipo de educación que 
 Finalmente, en el campo _peso_, digitamos el peso que tiene el tipo de educación en el proceso de selección.
 
 
-![](rcar12.png)
+
 
 
 Diligenciada la información de cada pestaña de la aplicación **RCAR – Cargos**, finaliza el proceso de creación de un cargo en OasisCom.
