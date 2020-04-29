@@ -20,3 +20,7 @@ Esta opcion: **Consulta traslados [ICTR]** tiene la funcionalidad al aplicar el 
 ![](ictr2.png)  
 
 
+
+
+
+
