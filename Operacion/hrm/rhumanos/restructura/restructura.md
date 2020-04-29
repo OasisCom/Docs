@@ -11,7 +11,7 @@ En esta ventana, se registra la definición de cargos estableciendo un orden jer
 
 Las aplicaciones que se utilizan para estos registros son:  
 
-* [**RCAR - Cargos**]  
-* [**RPOR - Posición**]  
+* [**RCAR - Cargos**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/restructura/rcar.md)  
+* [**RPOS - Posición**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/restructura/rpos.md)  
 
 
