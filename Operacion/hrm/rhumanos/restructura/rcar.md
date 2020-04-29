@@ -106,7 +106,7 @@ El tipo de educaci贸n se debe parametrizar previamente en la aplicaci贸n RBED 鈥
 En la pesta帽a _educaci贸n_, seleccionaremos del zoom el tipo de educaci贸n que se solicita posea el aspirante al cargo.
 
 
-![](rcar11.png)
+
 
 
 Finalmente, en el campo _peso_, digitamos el peso que tiene el tipo de educaci贸n en el proceso de selecci贸n.
