@@ -33,3 +33,10 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >#### [OasisCom Agro](http://docs.oasiscom.com/Mercadeo/fichas/inserto-OasisCom_agro.pdf)
 >#### [OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/INSERTO POS.pdf)
 >#### [OasisCom Dispensación de medicamentos](http://docs.oasiscom.com/Mercadeo/fichas/Dispensacion-de-medicamentos-Ficha-oasiscom.pdf)
+
+---
+>#### [OasisCom FIN](http://docs.oasiscom.com/Mercadeo/fichas/Software-FIN-Ficha.pdf)
+>#### [OasisCom HRM](http://docs.oasiscom.com/Mercadeo/fichas/HRM-Ficha.pdf)
+>#### [OasisCom CRM](http://docs.oasiscom.com/Mercadeo/fichas/CRM-ficha.pdf)
+>#### [OasisCom Salud](http://docs.oasiscom.com/Mercadeo/fichas/físicos insertos de salud_impreso.pdf)
+
