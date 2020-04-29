@@ -38,7 +38,7 @@ En la pestaña _Competencias_, se diligencian las competencias que deben poseer 
 ![](rcar3.png)
 
 
-**Competencia**: damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro. Se pueden insertar todas las competencias que requiera el cargo.
+**Competencia**: se agrega un nuevo registro (+), damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
 
 
 ![](rcar4.png)

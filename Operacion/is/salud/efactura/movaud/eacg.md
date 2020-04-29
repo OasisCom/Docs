@@ -17,7 +17,10 @@ Se realiza la creación del modelo para la segunda pestaña del detalle
 se deja activado el campo:  
 valor conciliado   
 
-![](ecen3.png)  
+![](eacg2.png)  
+
+
+
 
 
 
