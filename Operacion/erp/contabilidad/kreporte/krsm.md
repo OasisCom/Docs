@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Balance & Motion - KRSM
+# Balance & Motion - KRSM
 
 Este informe nos arroja los saldos y movimientos mes a mes correspondientes al año, cuenta y libro de consulta.  
 

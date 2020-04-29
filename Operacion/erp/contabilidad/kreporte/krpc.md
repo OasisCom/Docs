@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## G Y P Comparativo Por Centro Costo - KRPC
+# G Y P Comparativo Por Centro Costo - KRPC
 
 Genera el balance de prueba por centro de costos, que permite determinar que existe el equilibrio contable para los diferentes registros realizados.  
 

@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Ganancias Y Perdidas Por Negocio - KRGN
+# Ganancias Y Pérdidas Por Negocio - KRGN
 
 Permite realizar el informe de ganancias y pérdidas por negocio con la posibilidad de filtrarlo por un número de cuenta en específico, o realizarlo de manera general.  
 

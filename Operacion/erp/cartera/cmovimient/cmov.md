@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación se encuentra documentado el siguiente proceso:  
 
-[Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar)
+>+ [Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar)
 
 
 En la aplicación **CMOV** se elaboran los movimientos por los diferentes conceptos que afectan las Cuentas por Cobrar. Esta es la pantalla más importante del módulo de cartera, en ella se registran y consultan todos los movimientos que afectan las Cuentas por Cobrar, unos movimientos son elaborados automáticamente por los otros módulos de OASISCOM por medio de las interfaces establecidas y que son parte de la integridad del Sistema de Información.  
@@ -32,9 +32,9 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Tercero:** Número de identificación del tercero responsable del movimiento.  
 **Nombre Tercero:** Nombre del tercero.  
 **Estado:** Estado del documento (Activo, Procesado y Anulado).  
-**Dirección:** Identificación numerica de la dirección del tercero.  
+**Dirección:** Identificación numérica de la dirección del tercero.  
 **Año:** Año del movimiento.  
-**Empleado:** Identificación numérica del empleado enacargado de generar el movimiento.  
+**Empleado:** Identificación numérica del empleado encargado de generar el movimiento.  
 **Moneda:** Campo que indica el tipo de moneda a manejar en la generación de los movimientos.  
 **ExchangeRate:**  (Tipo de cambio) Valor equivalente de la moneda local dependiendo el tipo de moneda manejado en el movimiento.  
 
@@ -50,7 +50,7 @@ En la aplicación **CMOV** se elaboran los movimientos por los diferentes concep
 **Proyecto:** Identificación numérica del proyecto.  
 **Base Retención:** Valor al cual se le debe liquidar la retención que se le aplica de acuerdo al concepto.  
 
-### [Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar)  
+## [Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar)  
 
 Se ingresa a la aplicación **CMOV - Movimientos** de Cuentas por cobrar y se adiciona un nuevo registro **_+_**: en el campo **_documento_** se coloca **_CC_** (de cuentas por cobrar), en el campo **_concepto_** para el ejemplo de la imagen, se coloca **_CN_** (de Cliente nacional),  en el campo **_tercero_** se busca el cliente a quien le vamos a realizar la cuenta por cobrar, en el campo **_total_** se digita el valor de la cuenta por cobrar, luego se guarda.  
 
@@ -77,6 +77,7 @@ Cuando se procesa el registro, no se realiza ningún cruce
 ![](cmov9.png)  
 
 Este registro o movimiento de cruce, se hace desde la opción [Cómo realizar el Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#cómo-realizar-el-cruce-con-las-cuentas-por-cobrar)
+
 
 
 

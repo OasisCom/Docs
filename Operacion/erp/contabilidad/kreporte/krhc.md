@@ -8,11 +8,12 @@ editable: si
 
 ---
 
-## 	Estado Ganancias-Perdidas, *Comparativo* Por Centro De Costo *Padre* - KRHC
+# 	Estado Ganancias-Perdidas, *Comparativo* Por Centro De Costo *Padre* - KRHC
 
-Reporte de Estado de Ganancias y Perdidas, que establece un comparativo por el auxiliar centro de costo *padre*.  
+
+Reporte de Estado de Ganancias y Pérdidas, que establece un comparativo por el auxiliar centro de costo *padre*.  
 Agrupado por centro costo *padre* determina columnas de año-mes comparativos.  
-* filtros de consulta:
+* Filtros de consulta:
 
 
 ![](krhc2.png)
@@ -23,9 +24,10 @@ Agrupado por centro costo *padre* determina columnas de año-mes comparativos.
 **Libro:** De acuerdo a la parametrización del básico de libros -**KLIB**.  
 **Centro de Costo:** según parametrización del  -**BUBI** y básico de Cuentas -**BCUE**.  
 
-* click en consultar.   
+* clic en consultar.   
 
 ![](krhc1.png)
+
 
 
 

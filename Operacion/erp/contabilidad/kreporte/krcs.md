@@ -7,8 +7,8 @@ editable: si
 
 ---
 
-##  Comparación Saldos Terceros vs. Cuotas - KRCS
-Este reporte **[KRCS]** permite la visualización de comparacion contabilidad vs  cuentas por cobrar (CXC) y cuentas por pagar (CXP) por **tercero**; este permite validar posibles diferencias. 
+#  Comparación Saldos Terceros vs. Cuotas - KRCS
+Este reporte **[KRCS]** permite la visualización de comparación contabilidad vs  cuentas por cobrar *(CXC)* y cuentas por pagar *(CXP)* por **tercero**; este permite validar posibles diferencias. 
 
 
 ![](krcs1.png)
