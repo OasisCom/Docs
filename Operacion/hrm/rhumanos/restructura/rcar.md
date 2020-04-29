@@ -96,7 +96,7 @@ En la pestaña _Dotación_, se diligencia el tipo de dotación que se le suminis
 La pestaña _funciones_ no requiere de ninguna parametrización previa, simplemente se diligencian las funciones que se desempeñarán en el cargo registrado en el maestro.
 
 
-
+![](rcar10.png)
 
 
 **Pestaña Educación**
