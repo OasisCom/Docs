@@ -56,7 +56,7 @@ Los tipos de evaluación deben ser previamente parametrizados en la aplicación 
 En la pestaña _Evaluación_ del detalle, agregamos un nuevo registro y damos doble click en el zoom del campo _tipo de evaluación_, allí seleccionamos el tipo de evaluación que aplicará al cargo registrado en el maestro y damos clic en _aceptar_.
 
 
-
+![](rcar5.png)
 
 
 Seguidamente, en el campo _peso_ diligenciaremos el peso que tiene el tipo de evaluación seleccionado.
