@@ -9,7 +9,10 @@ editable: si
 
 En esta aplicación se realizan los documentos que hayan sido creados para el programa **TMOV** en el básico de documentos **BDOC - Documentos**. Esta aplicación permite filtrar por los diferentes campos que contiene en el maestro, que es la parte superior de la aplicación; en ella se encuentran los datos básicos de cada documento.  
 
+>+ [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
 >+ [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
+>+ [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
+>+ [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
 
 
 ![](TMOV1.png)
@@ -92,9 +95,57 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 **Banco:** Identificación numérica del banco al cual pertenece el cheque.  
 **Plaza:** Ciudad en la que genera el cheque.  
 
+## [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
+
+Los comprobantes de egreso se utilizan para registrar todas aquellas transacciones, ya sea un egreso, salida de caja o cuentas bancarias. 
+
+![](egreso1.png) 
+
+Damos clic ![](mas.png) para crear un nuevo registro. 
+
+![](egreso2.png) 
+
+**Documento:** CE comprobante de egreso.   
+**Numero:** Numero automático que el sistema genera como consecutivo de nuestros documentos.   
+**Ubicación:** Ingresar o escoger el Banco o la Caja de donde va a salir el dinero.   
+**Concepto:** Para el ejemplo se coloca CP que corresponde a cuentas por pagar, también podemos utilizar otros conceptos según el pago que vamos a realizar.   
+**Tercero:** Elegir el proveedor respectivo.  
+**Total:** Se digita el valor correspondiente al egreso.   
+**Observación:** Descripción adicional.  
+
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+
+El sistema nos genera automáticamente unas cuentas, estas son sugeridas por el sistema, que se dejan parametrizadas en el Básico de Plantillas. 
+
+![](egreso3.png)
+
+Estas cuentas sugeridas las podemos modificar o podemos agregar registros, dependiendo el tipo de transacción que se requiera realizar. 
+
+**Nota:** La cuenta Banco no se debe modificar,  ya que esta se encuentra relacionada directamente a la ubicación, si se desea cambiar esta cuenta el sistema nos va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación con la que estamos creando el documento.
+
+Luego de causar una factura a proveedor, se realiza un cruce en el campo *DocDocumento* 
+
+![](egreso4.png)
+
+Esto con el fin de que nos quede la trazabilidad de los documentos que vamos cancelando.
+
+![](egreso5.png)
+
+ Escogemos la cuenta que vamos a cancelar. ![](aceptar.png)
+
+Luego de agregar el registro damos clic  ![](ok.png)
+
+
+Ya nos queda relacionada nuestra cuenta por pagar, una vez nos queda las partidas iguales, débitos y créditos procesamos la información. 
+
+![](egreso7.png)
+
+De esta manera nuestra transacción queda lista y estamos afectando nuestro módulo de tesorería con la salida de este dinero.
+
+
 ## [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
 
-La aplicación TMOV permite obtener una vista previa de los comprobantes de egresos (CE), para ello, se debe parametrizar el número de formato para el documento **CE** en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). Este número de formato lo obtenemos al consultar por programa (tmov) en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). El formato se denomina _dw_i_movimiento_tes_pre_. (_Ver aplicaciones BDOC y SPRO_).  
+La aplicación **TMOV** permite obtener una vista previa de los comprobantes de egresos (CE), para ello, se debe parametrizar el número de formato para el documento **CE** en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). Este número de formato lo obtenemos al consultar por programa (tmov) en la aplicación [**SPRO - Programas**](http://docs.oasiscom.com/Operacion/cloud/smetadata/spro#parametrizaci%C3%B3n-de-formatos-de-impresi%C3%B3n). El formato se denomina _dw_i_movimiento_tes_pre_. (_Ver aplicaciones BDOC y SPRO_).  
 
 
 Para ir a la vista previa consultamos por el documento **CE** y seleccionamos el registro a visualizar. Damos clic en el botón ![](lupa.png). 
@@ -104,6 +155,9 @@ Para ir a la vista previa consultamos por el documento **CE** y seleccionamos el
 Obtendremos la siguiente vista previa.  
 
 ![](tmov8.png)
+
+
+* Se ajusta la vista previa del **TMOV**  Dusakawi para el escenario donde tenga FS y glosa.  
 
 * Otro formato del TMOV en su vista preliminar se visualizara así, donde se totalizan sus valores por cada uno de sus libros.  
 
@@ -115,6 +169,80 @@ _PDF_
 
 ![](tmov9.png)
 
+## [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
+
+El recibo de Caja se usa para registrar todos aquellos dineros que se reciben a diario, ya sea en cuentas bancarias o directamente de caja. 
+
+![](egreso1.png) 
+
+Damos clic ![](mas.png) para crear un nuevo registro. 
+
+![](caja1.png)
+
+**Documento:** En este caso seleccionamos RC Recibo de caja.   
+**Numero:** Numero automático que el sistema genera como consecutivo de nuestros documentos.   
+**Ubicación:** Ingresar o escoger el Banco o la caja que se requiera.   
+**Concepto:** Para el ejemplo se coloca CN que corresponde a clientes nacionales, también podemos utilizar otros conceptos esto depende el concepto por el que estemos recibiendo el dinero.   
+**Tercero:** Ingresar el NIT o la cedula del cliente o de la persona que nos esté entregando el dinero.  
+**Total:** Se digita el valor que se está recibiendo.   
+**Observación:** Descripción adicional. 
+**Fecha:** Se recibe el dinero.  
+
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+
+De acuerdo con la parametrización que se realiza previamente en el básico de plantillas, el sistema nos sugiere unas cuentas, estas cuentas sugeridas se pueden modificar u obtener más registros, dependiendo el tipo de transacción que se requiera realizar.
+![](caja2.png)
+
+**Nota:** La cuenta Banco no se debe modificar,  ya que se encuentra relacionada directamente a la ubicación con la que se está creando el documento, si se desea cambiar esta cuenta, el sistema va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación del documento.
+
+En la cuenta por cobrar que se requiere cancelar, o se recibe el dinero, en el campo *DocDocumento* se selecciona la factura que se va a cancelar. ![](aceptar.png)
+
+![](caja3.png)
+
+Luego de seleccionar la factura a cancelar, aceptamos el proceso ![](ok.png)
+
+Si es un recaudo que recibimos y es por concepto de un anticipo, no es necesario realizar el cruce a la trazabilidad en el campo *DocDocumento* esta opción le indica al documento que la factura se está cancelando, pero en dado caso de no tenerlo, se puede hacer el registro y omitimos el paso de  la relación del documento.
+
+Una vez ingresamos esta información y se verifiquen los datos correspondientes, se procesa el documento.  
+
+![](caja5.png)
+
+Luego de procesar el documento, automáticamente cambia el estado del documento que anteriormente estaba activo.
+
+![](caja6.png)
+
+## [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
+
+Esta transacción permite registrar el movimiento para realizar traslados de dinero de una ubicación de tesorería a otra. 
+
+![](egreso1.png) 
+
+Damos clic ![](mas.png) para crear un nuevo registro. 
+
+![](tesoreria1.png)
+
+**Documento:** En este caso seleccionamos CE Comprobante de egreso.   
+**Numero:** Numero automático que el sistema genera como consecutivo de nuestros documentos.   
+**Ubicación:** Ingresar o escoger el Banco o la caja de donde va a salir el dinero.   
+**Concepto:** En este caso se escoge TR ya que se requiere realizar un traslado.   
+**Tercero:** Ingresar el NIT o información que se desee.  
+**Total:** Se digita el valor que se va a trasladar.   
+**Observación:** Descripción adicional. 
+**Cuenta de destino:** Ubicación o cuenta de destino donde se requiere trasladar el dinero.  
+
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+
+Cuando se indica la cuenta de destino y la cuenta de origen, el sistema automáticamente en el detalle nos sugiere las cuentas bancarias, estas cuentas están relacionadas con la ubicación indicada. De donde sale el dinero y el destino del mismo. 
+
+![](tesoreria2.png)
+
+**Nota:** Estas cuentas van relacionadas a las ubicaciones que se ingresaron previamente, por lo que en el detalle no se deben cambiar. 
+
+![](tesoreria3.png)
+
+Por ultimo, se procesa el documento para que la transacción se vea reflejada en el módulo de tesorería. 
+
+![](tesoreria4.png) 
 
 
 

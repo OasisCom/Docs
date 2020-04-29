@@ -5,7 +5,7 @@ permalink: /Operacion/erp/cartera/coperacion/cope
 editable: si
 ---
 
-# COPE- Ordenes Retenidas por Compañía
+# Ordenes Retenidas por Compañía - COPE
 
 La aplicación **COPE** muestra la información de los pedidos retenidos de todas las empresas a las que el usuario tenga permisos, igualmente, la aplicación cuenta con filtros que permiten facilitar la consulta.  
 

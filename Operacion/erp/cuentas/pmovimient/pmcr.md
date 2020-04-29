@@ -5,9 +5,13 @@ permalink: /Operacion/erp/cuentas/pmovimient/pmcr
 editable: si
 ---
 
-## Cruces - PMCR
+# Cruces - PMCR
 
 **Entrada:** La entrada de datos a esta aplicación provienen de la aplicación pmov (movimientos) que resultan de movimientos generados con documentos como: comprobantes de egreso, cuentas por pagar, notas crédito, recibos de caja entre otros.  
+
+En esta aplicación, usted podrá ver cómo se realiza el proceso:  
+
+* [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)
 
 **Proceso:** El proceso que se realiza en esta aplicación es el de cruzar los diferentes documentos que provienen de la aplicación pmov (movimientos), el proceso consiste en buscar el documento que genere la contrapartida del otro para posteriormente confirmarlo y así  saldar el documento que se encuentra pendiente. Al causar los documentes pendientes se actualizan los saldos de las cuentas de los terceros con los que la empresa tiene obligaciones.  
 
@@ -60,6 +64,30 @@ Esta aplicación cuenta con un detalle en donde se pueden identificar los docume
 **Fecha:** Fecha en la que se realiza el cruce.  
 **Valor:** Valor por el cual se realizará el cruce.  
 **Estado:** Estado del documento (Activo, Procesado, Anulado).  
+
+
+## [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
+
+Se consulta la cuenta por pagar: en este caso, vamos a darle continuidad al proceso de la aplicación **PMOV** [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar).  En el campo **_Documento_** se elige la opción **CP** de Cuenta por pagar y en el campo **_Número_** el número de la cuenta por pagar que en este caso es la **_8_**  
+
+![](pmcr5.png)  
+
+En la parte inferior, en el detalle, adicionamos un registro (+); en el campo **_DocDocumento_**, hacemos doble clic y el sistema nos va a relacionar con qué movimiento tipo egreso podemos cruzar la factura y en este caso, elegimos el egreso que acabamos de registrar, guardamos y el sistema nos inserta el registro del cruce.
+
+![](pmcr6.png)  
+![](pmcr7.png)  
+![](pmcr8.png)
+
+Finalmente, se procede a confirmar el cruce    
+
+![](pmcr9.png)
+
+Lo podemos validar desde la cuenta por pagar y para verlo más efectivo, desde el egreso número 8 también se va a ver identificado que el cruce quedó ejecutado correctamente.  De esta manera, se registran los cruces manuales desde esta opción **PMCR** y se hace la causación de cuentas por pagar desde la opción **PMOV - Movimientos**.  
+
+![](pmcr10.png)
+
+
+
 
 
 

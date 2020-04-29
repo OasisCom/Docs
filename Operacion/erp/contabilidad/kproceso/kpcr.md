@@ -5,20 +5,24 @@ permalink: /Operacion/erp/contabilidad/kproceso/kpcr
 editable: si
 ---
 
-## Cierre de Resultados - KPCR
+# Cierre de Resultados - KPCR
 
-En esta opción se realiza el cierre de resultados al finalizar el ejercicio, pero para ello es necesario realizar una serie de parametrizaciones básicas que se describen a continuación.  
+La opción Cierre de Resultados se realiza  al finalizar el cierre de año, pero para ello es necesario realizar una serie de parametrizaciones básicas que se describen a continuación.  
 
-Para esto, dentro de la aplicación **BCUE - Cuentas** es necesario buscar las cuentas de utilidad y perdida del ejercicio, generalmente dentro del plan de cuentas para comerciantes estas cuentas son la 3605 y la 3610 respectivamente.  
+>+ [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr)
+>+ [KPCR - Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados)
+>+ [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov)
 
-Una vez encontremos o agreguemos las cuentas de utilidad y perdida del ejercicio _–recuerde que el nivel de las mismas depende de la política contable de su empresa, sobre todo para definir la imputación de estas cuentas-_ es muy importante fijarse que estas cuentas estén marcadas con el ítem de utilidad en el campo utilidad, ubicado en la zona derecha de la tabla de cuentas contables **BCUE - Cuentas**.  
 
-Cuando se hayan hecho las modificaciones y guardado los cambios correspondientes es el momento de cerrar el año, para esto se ejecuta el proceso de cierre de resultados **KPCR**.  
+Para esto, dentro de la aplicación [**KRPR - Balance de prueba**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr) es necesario buscar las cuentas de ingresos, costos y gastos del balance de prueba, ya que generalmente estas se encuentran aun con saldo.
+
+![](Balance1.png)
+
+Para proceder a realizar el cierre, se ejecuta el proceso de cierre de resultados en la aplicación [KPCR - Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados).  
 
 Al ingresar a esta aplicación, se despliega una ventana como la que se muestra a continuación:  
 
 ![](KPCR.png)
-
 
 Se deberá ingresar la siguiente información:  
 
@@ -27,3 +31,8 @@ Se deberá ingresar la siguiente información:
 **Proceso:** seleccionar de la lista desplegable el proceso al cual se le realizará cierre (Cierre de resultados o cierre de cuentas de balance).  
 **Libro:** Ingresar el libro al cual se le realizará el cierre, 1 para libro IFRS y 0 para el libro contable local. Tener en cuenta que se debe realizar el cierre en los dos libros contables.  
 
+Luego de llenar los campos correspondientes damos clic ![](ejecutar.png) y ejecutamos el proceso. 
+
+El sistema nos genera un documento en el [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov). Luego de realizar el cierre en la aplicación **KMOV - Movimientos**, se procede a consultar el [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr), las cuentas gastos, ingresos, costo de ventas y costo de producción ya nos aparecen cerradas o en cero. 
+
+![](Balance.png)
