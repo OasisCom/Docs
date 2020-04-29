@@ -78,7 +78,7 @@ En la pestaña _Experiencia_ del detalle, agregamos un nuevo registro y damos do
 Seguidamente, en el campo _peso_ diligenciaremos el peso que debe tener el tipo de experiencia en el proceso de selección.
 
 
-
+![](rcar8.png)
 
 
 **Pestaña Dotación**
