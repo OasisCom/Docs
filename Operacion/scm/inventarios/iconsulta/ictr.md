@@ -14,3 +14,9 @@ En el detalle se relaciona cada uno de los articulos y caracteristicas de cada c
 
 ![](ictr1.png)  
 
+Esta opcion: **Consulta traslados [ICTR]** tiene la funcionalidad al aplicar el botón:  
+* cuando se acepte el traslado de mercancía; el sistema genere un **IMOV** de traslado entre posiciones.  
+
+![](ictr2.png)  
+
+
