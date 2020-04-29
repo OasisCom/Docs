@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/krepetitiv/kcga
 editable: si
 ---
 
-## Genera Comprobante Amortización - KCGA
+# Genera Comprobante Amortización - KCGA
 
 En esta opción se generan las amortizaciones, el proceso que se lleva a cabo es el de amortizar los diferentes movimientos sobre las cuentas que son susceptibles de amortización, el proceso comienza cuando se confirma  la orden de generar comprobante de amortización en la aplicación **KCGA** en donde se debe ingresar la fecha del comprobante a generar, este proceso se lleva a cabo durante el periodo definido para la cuenta contable, este proceso permite la actualización del movimiento durante  cada periodo de amortización.
 

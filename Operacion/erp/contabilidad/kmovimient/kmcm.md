@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kmovimient/kmcm
 editable: si
 ---
 
-## Consulta de Movimientos - KMCM
+# Consulta de Movimientos - KMCM
 
 El objetivo de esta aplicación es poder consultar los movimientos realizados en el módulo de contabilidad.
 

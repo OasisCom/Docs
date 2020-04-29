@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/ksaldo/kspp
 editable: si
 ---
 
-## Saldo Periódico Auxiliar Proyecto - KSPP
+# Saldo Periódico Auxiliar Proyecto - KSPP
 
 Esta aplicación nos permite visualizar los saldos periódicamente de los proyectos, se puede filtrar por año, cuenta, proyecto.
 
@@ -46,8 +46,9 @@ En el **Detalle** se encontrarán los siguientes campos:
 **Núm Cheque:** número de cheque.  
 **Libro:** Libro del documento.  
 
-El **KSPP** permite visualizar totales en las columnas 'Anterior', 'Debito', 'Credito' y 'Saldo', con la finalidad de poder consultar los saldos acumulados por proyecto, (verde).  
-Nos permite identificar cuando existen diferencias entre maestro y detalle descuadrando el modulo. (amarillo).  
+El **KSPP** permite visualizar totales en las columnas 'Anterior', 'Debito', 'Crédito' y 'Saldo', con la finalidad de poder consultar los saldos acumulados por proyecto, (Verde).  
+Nos permite identificar cuando existen diferencias entre maestro y detalle descuadrando el modulo. (Amarillo).  
+  
 
 
 ![](kspp3.png)
