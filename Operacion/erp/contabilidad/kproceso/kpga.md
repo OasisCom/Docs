@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kproceso/kpga
 editable: si
 ---
 
-# KPGA - Genera Ajustes
+# Genera Ajustes - KPGA
 
 La aplicación KPGA permite la generación de ajustes de contabilidad multiproposito según las normas internacionales que se configuren por cada empresa. Se generan los ajustes manuales que no son calculados automáticamente.  
 

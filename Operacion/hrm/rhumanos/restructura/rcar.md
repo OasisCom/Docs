@@ -38,7 +38,7 @@ En la pestaña _Competencias_, se diligencian las competencias que deben poseer 
 ![](rcar3.png)
 
 
-**Competencia**: damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro. Se pueden insertar todas las competencias que requiera el cargo.
+**Competencia**: se agrega un nuevo registro (+), damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
 
 
 ![](rcar4.png)
@@ -56,7 +56,7 @@ Los tipos de evaluación deben ser previamente parametrizados en la aplicación 
 En la pestaña _Evaluación_ del detalle, agregamos un nuevo registro y damos doble click en el zoom del campo _tipo de evaluación_, allí seleccionamos el tipo de evaluación que aplicará al cargo registrado en el maestro y damos clic en _aceptar_.
 
 
-![](rcar5.png)
+
 
 
 Seguidamente, en el campo _peso_ diligenciaremos el peso que tiene el tipo de evaluación seleccionado.

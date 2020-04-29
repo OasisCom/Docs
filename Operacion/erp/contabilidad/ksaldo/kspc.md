@@ -1,28 +1,20 @@
 ---
 
 layout: default
-
 title: Saldo Per. Aux. Centroc
-
 permalink: /Operacion/erp/contabilidad/ksaldo/kspc
-
 editable: si
 
 ---
 
 
 
-## Saldo Pereriódico Auxiliar Centro Costo - KSPC
-
+# Saldo Pereriódico Auxiliar Centro Costo - KSPC
 
 
 Esta aplicación nos permite visualizar los saldos periódicamente de los centros de costo, se puede filtrar por año, cuenta, centro de costo.
 
-
-
 ![](KSPC1.png)
-
-
 
 **Centro Costo:** Identificación numérica del centro de costo al cual pertenece la cuenta.  
 **Año:** Año al cual se va a realizar la consulta.  
@@ -31,19 +23,9 @@ Esta aplicación nos permite visualizar los saldos periódicamente de los centro
 **Crédito:** Valor numérico de los movimientos créditos que se realizan durante el periodo.  
 **Saldo:** Valor que tendrá la cuenta después de terminar el periodo.  
 
-
-
 En el **Detalle** se encontrarán los siguientes campos:
 
-
-
-
-
 ![](KSPC2.png)
-
-
-
-
 
 **Documento:** Documentos que soportan el movimiento del maestro.  
 **Numero:** Número de los documentos.  

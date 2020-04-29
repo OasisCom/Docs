@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/krepetitiv/kamo
 editable: si
 ---
 
-## Amortizaciones - KAMO
+# Amortizaciones - KAMO
 
 En esta aplicación se pueden consultar las diferentes amortizaciones que se han realizado en el sistema.  
 

@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kproceso/kpdi
 editable: si
 ---
 
-## Distribución de Costos - KPDI
+# Distribución de Costos - KPDI
 
 Por medio de este proceso se puede realizar una distribución de costos sobre los diferentes centros de costo que maneja la empresa. Esta distribución se realiza automáticamente de acuerdo a criterios establecidos por la empresa.
 

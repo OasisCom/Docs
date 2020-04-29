@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/krepetitiv/kcgr
 editable: si
 ---
 
-## Genera Combrobates Repetitivos - KCGR
+# Genera Combrobates Repetitivos - KCGR
 
 
 

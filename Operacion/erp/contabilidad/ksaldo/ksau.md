@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/ksaldo/ksau
 editable: si
 ---
 
-## Balance Periódico Auxiliar - KSAU
+# Balance Periódico Auxiliar - KSAU
 
 Esta aplicación permite visualizar las cuentas auxiliares periódicamente visualizando el saldo anterior, débito y crédito de acuerdo a la afectación que tuvo la cuenta. Se puede filtrar por periodo, año, cuenta, tercero.
 

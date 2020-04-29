@@ -10,7 +10,7 @@ editable: si
 La opción Cierre de Resultados se realiza  al finalizar el cierre de año, pero para ello es necesario realizar una serie de parametrizaciones básicas que se describen a continuación.  
 
 >+ [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr)
->+ [KPCR - Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados)
+>+ [KPCR-Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr-cierre-de-resultados)
 >+ [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov)
 
 
@@ -18,7 +18,7 @@ Para esto, dentro de la aplicación [**KRPR - Balance de prueba**](http://docs.o
 
 ![](Balance1.png)
 
-Para proceder a realizar el cierre, se ejecuta el proceso de cierre de resultados en la aplicación [KPCR - Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados).  
+Para proceder a realizar el cierre, se ejecuta el proceso de cierre de resultados en la aplicación [KPCR-Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr-cierre-de-resultados).  
 
 Al ingresar a esta aplicación, se despliega una ventana como la que se muestra a continuación:  
 
