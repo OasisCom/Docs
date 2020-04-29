@@ -35,7 +35,7 @@ Las competencias deben estar previamente parametrizadas en la aplicación _RCOM 
 En la pestaña _Competencias_, se diligencian las competencias que deben poseer los aspirantes al cargo.
 
 
-![](rcar3.png)
+
 
 
 **Competencia**: damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro. Se pueden insertar todas las competencias que requiera el cargo.
