@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kmedios/krfd
 editable: si
 ---
 
-## Formatos Detallados - KRFD
+# Formatos Detallados - KRFD
 
 En la aplicación KRFD - Formatos Detallados se valida la información generada al ejecutar anteriormente el proceso en [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf), dicha información es primordial verificarla, puesto que, se cruzará con el módulo de contabilidad para comprobar que esté correcta.  
 
