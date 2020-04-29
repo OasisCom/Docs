@@ -88,7 +88,7 @@ El tipo de dotación se debe parametrizar previamente en la aplicación _RBTD �
 En la pestaña _Dotación_, se diligencia el tipo de dotación que se le suministrará al contratado periódicamente y la cantidad, en caso de que no se realice entrega de dotación, omitir esta pestaña.
 
 
-![](rcar9.png)
+
 
 
 **Pestaña Funciones**
