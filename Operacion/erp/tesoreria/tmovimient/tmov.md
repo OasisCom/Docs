@@ -159,9 +159,12 @@ Obtendremos la siguiente vista previa.
 
 * Se ajusta la vista previa del **TMOV**  Dusakawi para el escenario donde tenga FS y glosa.  
 
+	![](tmov14.png)
+
+
 * Otro formato del TMOV en su vista preliminar se visualizara así, donde se totalizan sus valores por cada uno de sus libros.  
 
-![](tmov10.png)
+	![](tmov10.png)
 
 El formato podrá ser exportado en formato de Excel, PDF o Word.  
 
