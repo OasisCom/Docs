@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación se pueden consultar las diferentes amortizaciones que se han realizado en el sistema.  
 
-![](KAMO.png)
+![](kamo.png)
 
 **Número:** Consecutivo en el cual se hizo el movimiento.  
 **Ubicación:** Identificación numérica de la ubicación que genera el movimiento.  
