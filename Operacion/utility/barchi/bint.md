@@ -11,7 +11,7 @@ Esta aplicación permite cargar o descargar información sobre diferentes escena
 
 BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por medio de la opción de interfaces y realizar su debida confirmación en lote.  
 
-Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
+
 
 ## **Menú**
 
@@ -29,6 +29,12 @@ Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
 13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
+Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
+* ![](bcrc1.png)  
+	se parametriza en **BCRC** caracteristicas en estado activo.  
+	![](bcrc2.png)  
+* Por consulta SQL:
+	![](bcrc3.png)  
 
 # [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
 
