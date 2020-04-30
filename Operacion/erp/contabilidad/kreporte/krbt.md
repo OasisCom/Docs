@@ -26,13 +26,9 @@ Esta aplicación permite obtener un resumen por tercero de las cuentas afectadas
 
 
 **Periodo:** Mes que se desea consultar.  
-
 **Año:** Año que se desea consultar.  
-
 **Libro:** Libro contable por el cual se desee consultar el tercero.  
-
 **Cliente:** Número de identificación del tercero a consultar.  
-
 **Cuenta:** Número de cuenta contable con el que se quiera consultar el tercero.  
 
 
