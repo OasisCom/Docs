@@ -31,7 +31,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 
 Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
 * ![](bcrc1.png)  
-	se parametriza en **BCRC** caracteristicas en estado activo.  
+	Se parametriza en **BCRC** caracteristicas en estado activo.  
 	![](bcrc2.png)  
 * Por consulta SQL:
 	![](bcrc3.png)  
