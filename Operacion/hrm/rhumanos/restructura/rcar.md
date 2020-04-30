@@ -20,7 +20,16 @@ Los campos del maestro de la aplicación los diligenciaremos de la siguiente man
 **Cargo**: digitar el consecutivo del cargo que se está registrando.  
 **Nombre cargo**: nombre del cargo al cual se le realizará proceso de selección.  
 **Escala**: número de escala en la cual se encuentra el cargo. La escala se debe parametrizar previamente en la aplicación RBES – Escalas.  
+
+
+![](rcar13.png)  
+
+
 **Tipo de perfil**: digitar el número de tipo de perfil profesional que deben tener los aspirantes al cargo registrado. Los tipos de perfil se parametrizan en la aplicación _RBPE – Tipos de perfil_.  
+
+
+![](rcar14.png)  
+
 
 Diligenciados los anteriores campos del maestro, damos clic en _guardar_ y continuamos con las pestañas del detalle.
 
