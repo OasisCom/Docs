@@ -14,7 +14,7 @@ La consulta de movimientos permite consultar los movimientos que se realizan en 
 
 
 **Documento:** Tipo de documento.  
-**Número:** El sistema asigna automáticamente el consecutivo de cada documento, según las especificaciones otorgadas al documento en la opción bcns.  
+**Número:** El sistema asigna automáticamente el consecutivo de cada documento, según las especificaciones otorgadas al documento en la opción BCNS.  
 **Ubicación:** Ubicación organizacional que genero el documento.  
 **Concepto:** Código del Concepto por el cual se hace el movimiento. Este define automáticamente la afectación contable del movimiento, por tanto debe estar perfectamente definido.  
 **Fecha:** Fecha en que se realiza el movimiento.  

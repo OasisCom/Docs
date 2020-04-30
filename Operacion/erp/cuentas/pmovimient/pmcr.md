@@ -7,7 +7,7 @@ editable: si
 
 # Cruces - PMCR
 
-**Entrada:** La entrada de datos a esta aplicación provienen de la aplicación pmov (movimientos) que resultan de movimientos generados con documentos como: comprobantes de egreso, cuentas por pagar, notas crédito, recibos de caja entre otros.  
+**Entrada:** La entrada de datos a esta aplicación provienen de la aplicación **PMOV (movimientos)** que resultan de movimientos generados con documentos como: comprobantes de egreso, cuentas por pagar, notas crédito, recibos de caja entre otros.  
 
 En esta aplicación, usted podrá ver cómo se realiza el proceso:  
 
