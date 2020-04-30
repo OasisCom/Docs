@@ -11,6 +11,8 @@ editable: si
 
 # Procesos Especiales
 
+Las aplicaciones utilizadas aquí son:
+
 
 
 
