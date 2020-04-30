@@ -36,7 +36,7 @@ Con esta parametrización, el sistema generará una cuenta por pagar en la aplic
 
 
 
-
+![](krep1.png)
 
 
 
