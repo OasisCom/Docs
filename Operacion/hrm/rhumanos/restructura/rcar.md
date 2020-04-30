@@ -25,7 +25,7 @@ Los campos del maestro de la aplicación los diligenciaremos de la siguiente man
 Diligenciados los anteriores campos del maestro, damos clic en _guardar_ y continuamos con las pestañas del detalle.
 
 
-
+![](rcar2.png)
 
 
 **Pestaña Competencias**
@@ -35,13 +35,13 @@ Las competencias deben estar previamente parametrizadas en la aplicación _RCOM 
 En la pestaña _Competencias_, se diligencian las competencias que deben poseer los aspirantes al cargo.
 
 
-![](rcar3.png)
+
 
 
 **Competencia**: se agrega un nuevo registro (+), damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
 
 
-![](rcar4.png)
+
 
 
 **Peso**: digitar el peso que tiene la competencia que se va a evaluar.  
