@@ -20,6 +20,12 @@ Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**
 
 ![](inbo3.png)
 
+* Para facilitar la consulta de los niveles de stock por bodega, se han agrego los campos:** marca, nombre marca, 		  
+	clasificación, nombre Clasificación**.
+    ![](inbo5.png)
+
+
+
 
 
 

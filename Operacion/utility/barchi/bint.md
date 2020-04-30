@@ -11,6 +11,7 @@ Esta aplicación permite cargar o descargar información sobre diferentes escena
 
 BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por medio de la opción de interfaces y realizar su debida confirmación en lote.  
 
+Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
 
 ## **Menú**
 
