@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: Comprobantes Repetitivos
-permalink: /Operacion/erp/cuentas/pmovimient/pred  
+permalink: /Operacion/erp/cuentas/pmovimient/prep  
 editable: si  
 ---  
 
