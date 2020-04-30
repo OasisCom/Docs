@@ -19,5 +19,7 @@ ejemplo1
 ejemplo2
 ![](inpr1.png)
 
-
+* Para facilitar la consulta de los niveles de stock por producto**INPR**, se han agrego los campos:** marca, nombre marca, 		  
+	clasificación, nombre Clasificación**.
+    ![](.png)
 
