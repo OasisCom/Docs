@@ -12,7 +12,7 @@ La aplicación RCAR – Cargos, permite crear los cargos a los cuales se les va 
 Inicialmente, agregaremos una nueva fila en el maestro y diligenciaremos los datos correspondientes al cargo al cual se le realizará proceso de selección. 
 
 
-![](rcar1.png)
+
 
 
 Los campos del maestro de la aplicación los diligenciaremos de la siguiente manera:
