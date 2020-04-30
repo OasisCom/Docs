@@ -1,19 +1,17 @@
 ---
 layout: default
-title: CONCILIACIÓN TARJETAS DE CRÉDITO  
-permalink: /Operacion/erp/cuentas/pcon/  
+title: Conciliación con Prestadores  
+permalink: /Operacion/erp/cuentas/pconciliac/pcon  
 editable: si  
 ---  
 
-# CONCILIACION TARJETAS DE CRÉDITO  
-
-CONCILIACIÓN -  **PCON**  
+# Conciliación con Prestadores - PCON  
 
 Este manual mostrará el proceso para conciliar las tarjetas de crédito que tienen asociadas a los empleados.  
 
 Para poder realizar el proceso de conciliación se debe tener en cuenta lo siguiente:  
 
-1.	PARAMETRIZACIÓN  
+1.	Parametrización  
 
 La parametrización sólo se debe realizar una sola vez para todo el proceso y es la siguiente:  
 
@@ -100,6 +98,6 @@ Cuando se ejecuta el botón el sistema crea en la aplicación **PMOV** todos los
 Una vez se procesan los documentos en **PMOV** nuevamente se ingresa a **PCON** y se ejecuta el botón de “Conciliación Automática”, allí el sistema conciliará lo que coincida en fecha y valor entre bancos y libros.  
 
 
- ![](tcon1.png)  
+![](tcon1.png)  
 
 ![](tcon2.png)  
