@@ -14,12 +14,12 @@ Verde - el nivel esta entre el reorden y el nivel máximo de la bodega.
 Amarillo – su nivel está en el mínimo de reorden.  
 Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**  
 
-ejemplo1
-![](inpr2.png)
-ejemplo2
-![](inpr1.png)
+* ejemplo1
+	![](inpr2.png)
+* ejemplo2
+	![](inpr1.png)
 
-* Para facilitar la consulta de los niveles de stock por producto**INPR**, se han agrego los campos:** marca, nombre marca, 		  
+* Para facilitar la consulta de los niveles de stock por producto **INPR**, se han agrego los campos:** marca, nombre marca, 		  
 	clasificación, nombre Clasificación**.
-    ![](.png)
+    ![](inpr3.png)
 
