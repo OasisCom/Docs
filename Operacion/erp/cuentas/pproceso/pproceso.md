@@ -5,12 +5,12 @@ permalink: /Operacion/erp/cuentas/pproceso/
 editable: si
 ---
 
-# PROCESOS ESPECIALES  
+# Procesos Especiales  
 
 En este submódulo podrán encontrar las aplicaciones de la generación de los diferentes procesos que se pueden obtener en el módulo de Cuentas por pagar.  
 
 Las aplicaciones que se usan son las siguientes:  
 
-* **IPCF**  - Cambio de fechas  
-* **PPPD**  - Reconstruye cuota y saldos CxC o CxP
+* [**IPCF**](http://docs.oasiscom.com/Operacion/erp/cuentas/pproceso/ipcf)  - Cambio de fechas  
+* [**PPPD**](http://docs.oasiscom.com/Operacion/erp/cuentas/pproceso/pppd)  - Reconstruye cuota y saldos CXC o CXP  
 
