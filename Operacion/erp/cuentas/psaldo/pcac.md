@@ -1,11 +1,8 @@
 ---
 
 layout: default
-
 title: Análisis de Cuentas Vencidas
-
 permalink: /Operacion/erp/cuentas/psaldo/pcac
-
 editable: si
 
 ---

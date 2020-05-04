@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/tmovimient/etrpf
 editable: si
 ---
 
-# ETRPF - Pagos
+# Pagos - ETRPF
 
 Esta aplicación le permite al prestador consultar los pagos de las facturas realizadas por la *EPS.*
 

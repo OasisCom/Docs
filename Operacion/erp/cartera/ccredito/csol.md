@@ -1,11 +1,8 @@
 ---
 
 layout: default
-
 title: Solicitudes de Créditos
-
 permalink: /Operacion/erp/cartera/ccredito/csol
-
 editable: si
 
 ---
@@ -20,7 +17,7 @@ La aplicación CSOL permite realizar solicitudes de crédito y asignar garantía
 
 
 
-* [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)  
+* [Pestaña Graphic CRE](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)  
 * [Cartera Financiera](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#cartera-financiera)  
 > * [BCND - Condiciones de pago](http://docs.oasiscom.com/Operacion/common/bcomer/bcnd)  
 
@@ -84,7 +81,7 @@ Finalmente, procesamos la solicitud del crédito dando click en el botón ![](pr
 
 
 
-# [Pestaña _Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)
+## [Pestaña Graphic CRE_](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#pesta%C3%B1a-graphic-cre)  
 
 
 
@@ -124,7 +121,7 @@ En el siguiente caso, nos indica que el tercero seleccionado tiene saldo en mora
 
 
 
-# [Cartera Financiera](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#cartera-financiera)
+## [Cartera Financiera](http://docs.oasiscom.com/Operacion/erp/cartera/ccredito/csol#cartera-financiera)  
 
 
 
