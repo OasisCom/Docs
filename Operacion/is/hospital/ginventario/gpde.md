@@ -12,4 +12,8 @@ Se crea **GDPE**, esta opción se podrán consultar las dispensaciones ya sean d
 Se tiene configurado botón que muestra los motivos por la que se termina el proceso.  
 ![](gpde1.png)  
 
+La lista sobre este zoom, se muestra de la siguiente característica.  
+El proceso que se realiza sobre el botón de terminar dispensación.  
+Se actualiza el estado indicando el motivo seleccionado sobre el zoom.  
+Parametrización que se debe editar según cada cliente.  
 
