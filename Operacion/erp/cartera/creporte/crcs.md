@@ -21,8 +21,8 @@ Es posible consultar por periodo, año, libro contable (libro 1 - IFRS, libro 0 
 **Cuenta:** digitar la cuenta contable de consulta o seleccionarla del zoom.  
 
 
-El saldo para que esté bien, siempre debe ser Cero (0), o sea, nos indica que está cuadrado el módulo contra la contabilidad.  Esta consulta es muy importante para revisar que el saldo esté en ceros.  
+El campo **_Diferencia_** que es la diferencia entre el campo **_Cartera_** yel camo **_Contabilidad_** siempre debe ser Cero (0), o sea, nos indica que está cuadrado el módulo de **Cartera** contra la contabilidad.  Esta consulta es muy importante para revisar que el saldo esté en ceros.  
+
 
 ![](crcs1.png)
-
 
