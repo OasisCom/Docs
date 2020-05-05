@@ -11,5 +11,5 @@ En este submódulo, se realizan los procesos relacionados con la contratación p
 
 La aplicación que se utiliza en este submódulo es:  
 
-* **HCMA** - Mantenimiento
+* [**HCMA**](http://docs.oasiscom.com/Operacion/erp/activos/hcontrato/hcma) - Mantenimiento
 
