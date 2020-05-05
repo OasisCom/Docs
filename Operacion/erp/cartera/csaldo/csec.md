@@ -7,7 +7,7 @@ editable: si
 
 # Imprime Estados de Cuenta Clientes - CSEC
 
-Esta aplicación permite imprimir el estado de cuenta de nuestros clientes, para ello se debe ingresar el periodo, año e identificación del tercero y pulsar el botón consultar.  
+Esta aplicación permite imprimir el estado de cuenta de nuestros clientes, para ello se debe ingresar el periodo, año e identificación del tercero y pulsar el botón consultar.  Al consultar, muestra el estado de cuenta de cada cliente, los movimientos del periodo y los documentos pendientes o con saldo a la fecha.    
 
 La siguiente grafica ilustra el proceso.  
 
