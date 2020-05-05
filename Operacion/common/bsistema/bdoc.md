@@ -9,7 +9,7 @@ editable: si
 
 
 
-# BDOC - Documentos
+# Documentos - BDOC
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema.
 
