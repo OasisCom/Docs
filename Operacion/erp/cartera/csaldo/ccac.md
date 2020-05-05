@@ -11,10 +11,12 @@ editable: si
 # Análisis de Cartera Vencida - CCAC
 
 
-La aplicación **CCAC** permite consultar mediante filtros la cartera de los clientes, ya sea por días o rangos de la cartera. Por ejemplo, a continuación consultaremos la cartera vencida a noventa días de todos los clientes y mayor a $100.000.  
+La aplicación **CCAC** es un análisis de cartera que nos permite filtrar a través de un período y año determinados, la cartera a la fecha.  En las columnas de la parte derecha se puede ver que el sistema clasifica de acuerdo a la vigencia.  En cada columna se pueden ver los saldos.  
+
+
+![](ccac.png)
 
 
 
-![](CCAC.png)
 
 
