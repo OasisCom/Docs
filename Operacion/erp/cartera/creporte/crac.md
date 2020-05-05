@@ -20,3 +20,9 @@ Reporte en el cual se totaliza los saldos de Cartera e índices de morosidad por
 **Documento:** indicar el documento que se desea consulta.  
 **Libro:** ingresar el libro contable del cual se va a realizar la consulta. (Libro 1 - IFRS, libro 0 - LOCAL).  
 
+Si no se realiza ningún filtro y se consulta la aplicación, relaciona en la parte inferior por cada cliente los documentos con saldo en cartera y las vigencias que tiene cada saldo.  
+
+
+
+
+
