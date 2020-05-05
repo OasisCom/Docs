@@ -11,11 +11,11 @@ En este submódulo se pueden visualizar diferentes clases de reportes relacionad
 
 Algunas de las aplicaciones que se utilizan en este submódulo son:  
 
-* [**HRCS - Comparación de Saldos**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrcs)  
-* [**HRAR - Activos por responsable**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrar)    
-* [**HRDE - Depreciación**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrde)  
-* [**HRIR - Impresión de Rótulos**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrir)   
-* [**HRAC - Activos Fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrac)   
-* [**HRPA - Balance de Prueba Ajustado**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrpa)  
-* [**HRPA1 - Balance de Prueba Ajustado**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrpa1)
+* [**HRCS**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrcs)- Comparación de Saldos  
+* [**HRAR**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrar) - Activos por responsable    
+* [**HRDE**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrde) - Depreciación  
+* [**HRIR**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrir) - Impresión de Rótulos   
+* [**HRAC**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrac) - Activos Fijos   
+* [**HRPA**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrpa) - Balance de Prueba Ajustado  
+* [**HRPA1**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrpa1) - Balance de Prueba Ajustado  
 
