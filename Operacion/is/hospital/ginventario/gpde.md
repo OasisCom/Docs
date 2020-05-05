@@ -17,3 +17,5 @@ El proceso que se realiza sobre el botón de terminar dispensación.
 Se actualiza el estado indicando el motivo seleccionado sobre el zoom.  
 Parametrización que se debe editar según cada cliente.  
 
+![](gpde2.png)  
+
