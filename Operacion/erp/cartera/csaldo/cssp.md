@@ -11,7 +11,7 @@ OasisCom es un sistema en línea, es decir, es afectado por cada uno de los movi
 
 Esta consulta nos permite conocer los saldos de cartera por periodo especifico, año, tercero o cuenta.  En la parte superior (maestro) podemos ver el resumen de cada cliente.  
 
-![](CSSP1.png)
+
 
 **Periodo:** Periodo consultado  
 **Año:** Año del periodo consultado.  
@@ -25,7 +25,7 @@ Esta consulta nos permite conocer los saldos de cartera por periodo especifico, 
 **Crédito:** Total de movimientos crédito del periodo consultado.  
 **Saldo:** Saldo Final del periodo consultado.  
 
-![](CSSP2.png)  
+  
 
 En el detalle podemos ver los movimientos que constituyen cada uno de los saldos.
 
