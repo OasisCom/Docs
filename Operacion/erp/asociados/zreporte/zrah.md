@@ -5,7 +5,7 @@ permalink: /Operacion/erp/asociados/zreporte/zrah
 editable: si
 ---
 
-# ZRAH - Asociados Hábiles
+# Asociados Hábiles - ZRAH
 
 El reporte **ZRAI** permite ver los aportes y ventas por cada asociado que haya cumplido con sus obligaciones.  
 
