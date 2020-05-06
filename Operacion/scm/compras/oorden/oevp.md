@@ -18,13 +18,13 @@ editable: si
 
 
 
-**Datos Generales:** En el maestro del documento de la opción [**OEVP**] se podrán ver los datos generales como el proveedor que se ha evaluado, la fecha de la evaluación, responsable que ejecuto el proceso y el puntaje total obtenido por el proveedor. Los documentos que generemos en esta opción quedaran en estado Activo.
-
+**Datos Generales:** En el maestro del documento de la opción [**OEVP**] se podrán ver los datos generales como el proveedor que se ha evaluado, la fecha de la evaluación, responsable que ejecuto el proceso y el puntaje total obtenido por el proveedor. Los documentos que generemos en esta opción quedaran en estado Activo.  
+Dividiendo este, en periodo de reevaluación, observaciones, productos negociados, reevaluación por criterios y en grandes categorías como lo son calidad del servicio.  
 
 
 ![](imagenes/oevp.png)  
 
-**Valores Generados:** En la pestaña *“Detalle de Formulario”* se podrán ver los valores finales para cada una de las variables involucradas en el proceso.
+**Valores Generados:** En la pestaña *“Detalle de Formulario”* se podrán ver los valores finales para cada una de las variables involucradas en el proceso.  
 
 ![](imagenes/oevp1.png)
 
