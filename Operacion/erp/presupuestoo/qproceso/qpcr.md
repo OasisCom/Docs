@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qproceso/qpcr
 editable: si
 ---
 
-# QPCR - Cierres Presupuestales
+# Cierres Presupuestales - QPCR
 
 La aplicación **QPCR** permite ejecutar el procedimiento que realizará el cierre de los documentos presupuestales seleccionados previamente en la aplicación [**QDCA - Presupuesto Documentos Cierre**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qproceso/qdca). (_Ver aplicación_)  
 

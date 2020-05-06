@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qmovimient/qmovo
 editable: si
 ---
 
-# QMOVO - Movimientos de Presupuesto Oficial
+# Movimientos de Presupuesto Oficial - QMOVO
 
 La aplicación QMOVO permite realizar movimientos en el presupuesto oficial. En el detalle, se puede indicar cual es el objeto del gasto en caso de serlo y el centro de costo al cual se carga.  
 * El Campo 'RecordCommerce' relaciona el  número de solicitud.  
@@ -13,7 +13,7 @@ La aplicación QMOVO permite realizar movimientos en el presupuesto oficial. En 
 
 ![](qmovo.png)
 
-# [Vistas previas de los documentos](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#vistas-previas-de-los-documentos)
+## [Vistas previas de los documentos](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#vistas-previas-de-los-documentos)
 
 Los documentos que se registran en la aplicación QMOVO cuentan con vistas previas que permiten ver la información de forma más clara.  
 
@@ -31,7 +31,7 @@ Documentos:
 
 
 
-### [PI - Presupuesto Inicial](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
+## [PI - Presupuesto Inicial](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
 
 Esta vista previa permite visualizar el estado de las cuentas del presupuesto inicial.  
 
@@ -50,7 +50,7 @@ _En PDF_
 ![](qmovo3.png)
 
 
-### [CD - Certificado Disponibilidad Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
+## [CD - Certificado Disponibilidad Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#cd---certificado-disponibilidad-presupuestal)  
 
 Esta vista previa permite visualizar el estado de los rubros presupuestales.  
 
@@ -69,7 +69,7 @@ _En PDF_
 ![](qmovo6.png)
 
 
-### [RP - Registro Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rp---registro-presupuestal)
+## [RP - Registro Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rp---registro-presupuestal)
 
 Esta vista previa permite visualizar el estado de los rubros presupuestales de dicho documento.  
 
@@ -88,7 +88,7 @@ _En PDF_
 ![](qmovo9.png)
 
 
-### [UD - Incremento de una provisión](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ud---incremento-de-una-provisión)
+## [UD - Incremento de una provisión](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ud---incremento-de-una-provisión)
 
 Esta vista previa permite visualizar el estado de las cuentas de los rubros presupuestales.  
 
@@ -107,7 +107,7 @@ _En PDF_
 ![](qmovo12.png)
 
 
-### [TP - Traslado Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
+## [TP - Traslado Presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#tp---traslado-presupuestal)
 
 Esta vista previa permite visualizar el estado de las cuentas para traslado presupuestal.  
 
@@ -126,7 +126,7 @@ _En PDF_
 ![](qmovo15.png)
 
 
-### [AR - Incremento de registro presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
+## [AR - Incremento de registro presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#ar---incremento-de-registro-presupuestal)
 
 Esta vista previa permite visualizar el estado de las cuentas para incremento presupuestal.  
 
@@ -145,7 +145,7 @@ _En PDF_
 ![](qmovo18.png)
 
 
-### [C3 - Cargue inicial ejecución](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
+## [C3 - Cargue inicial ejecución](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
 
 Esta vista previa permite visualizar el estado de las cuentas del mismo.  
 
@@ -164,7 +164,7 @@ _En PDF_
 ![](qmovo21.png)
 
 
-### [RD - Liberación o anulación de una provisión](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rd---liberación-o-anulación-de-una-provisión)
+## [RD - Liberación o anulación de una provisión](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rd---liberación-o-anulación-de-una-provisión)
 
 Esta vista previa permite visualizar el decremento de CDP de los rubros presupuestales.  
 
@@ -183,7 +183,7 @@ _En PDF_
 ![](qmovo24.png)
 
 
-### [RR - Decremento de registro presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rr---decremento-de-registro-presupuestal)
+## [RR - Decremento de registro presupuestal](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rr---decremento-de-registro-presupuestal)
 
 Esta vista previa permite visualizar el decremento de CRP de los rubros presupuestales.  
 
