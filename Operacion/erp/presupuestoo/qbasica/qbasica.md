@@ -7,6 +7,8 @@ editable: si
 
 # Datos Básicos  
 
+Este módulo comprende los siguientes submódulos:
+
 * [**QPAR**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qbasica/qpar) - Perdidas Presupuestales
 * [**BOBG**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qbasica/bobg) - Objetos de Gasto
 * [**QTIP**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qbasica/qtip) - Tipos de Presupuesto 
