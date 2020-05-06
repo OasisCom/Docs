@@ -5,5 +5,5 @@ permalink: /Operacion/erp/presupuesto/qcontabili/
 editable: si
 ---
 
-# PRESUPUESTO DE CONTABILIDAD
+# Presupuesto de Contabilidad
 

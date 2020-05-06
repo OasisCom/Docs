@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuesto/qcontabili/qmov
 editable: si
 ---
 
-# QMOV - Movimiento de Presupuesto de Contabilidad
+# Movimiento de Presupuesto de Contabilidad - QMOV 
 
 La aplicación **QMOV** nos permite registrar el presupuesto de contabilidad, en donde en el detalle ingresaremos las cuentas contables del gasto y los valores que se presupuestarán para las mismas.  
 
