@@ -5,11 +5,11 @@ permalink: /Operacion/erp/presupuesto/qcreporte/qrec
 editable: si
 ---
 
-# QREC - Ejecución presupuestal por cuenta  
+# Ejecución presupuestal por cuenta - QREC
 
 Esta aplicación sirve para ver el presupuesto por cuenta contable.  
 
-Una vez registrado el presupuesto de contabilidaden la aplicación QMOV - Movimiento de Presupuesto de Contabilidad, se puede ingresar a esta aplicación para ver el presupuesto por cuenta contable.  
+Una vez registrado el presupuesto de contabilidaden la aplicación [**QMOV - Movimiento**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcontabili/qmov) de Presupuesto de Contabilidad, se puede ingresar a esta aplicación para ver el presupuesto por cuenta contable.  
 
 En la ilustración, se consulta el periodo 3  
 

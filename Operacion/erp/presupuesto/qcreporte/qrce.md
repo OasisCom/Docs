@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuesto/qcreporte/qrce
 editable: si
 ---
 
-# QRCE - Ejecución Presupuestal - Centro de Costo
+# Ejecución Presupuestal - Centro de Costo - QRCE
 
 La aplicación **QRCE** permite generar de acuerdo a los criterios de consulta, un reporte con la ejecución financiera especificado por centros de costos.  
 
