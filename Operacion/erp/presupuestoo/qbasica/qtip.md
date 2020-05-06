@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Datos Básicos
-permalink: /Operacion/erp/presupuestoo/qbasica/qpar
+title: Tipos de Presupuesto
+permalink: /Operacion/erp/presupuestoo/qbasica/qtip
 editable: si
 ---
 
-#  Perdidas Presupuestales - QPAR
+#  Tipos de Presupuesto - QTIP
 
 

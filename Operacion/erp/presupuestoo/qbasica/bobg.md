@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Datos Básicos
-permalink: /Operacion/erp/presupuestoo/qbasica/qpar
+title: Objetos de Gasto
+permalink: /Operacion/erp/presupuestoo/qbasica/bobg
 editable: si
 ---
 
-#  Perdidas Presupuestales - QPAR
+#  Objetos de Gasto - BOBG
 
 

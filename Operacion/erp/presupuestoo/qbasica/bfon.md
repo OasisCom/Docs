@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Datos Básicos
-permalink: /Operacion/erp/presupuestoo/qbasica/qpar
+title: Fuentes
+permalink: /Operacion/erp/presupuestoo/qbasica/bfon
 editable: si
 ---
 
-#  Perdidas Presupuestales - QPAR
+#  Fuentes - BFON
 
 
