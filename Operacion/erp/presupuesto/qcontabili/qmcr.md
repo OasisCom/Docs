@@ -5,16 +5,19 @@ permalink: /Operacion/erp/presupuesto/qcontabili/qmcr
 editable: si
 ---
 
-## Cruces Presupuesto - QMCR
+# Cruces Presupuesto - QMCR
 
 
 **Entrada:** La entrada de datos a esta aplicación provienen de la aplicación **QMOVO** para las instancias 1,2,3 (movimientos PRESUPUESTALES). Cuando el escenario sea con las instancias 4 y/o 5 puede ser movimientos desde: QMOVO, PMOV, CMOV, TMOV, TMEN:
+
 * Instancia 1: PI (PRESUPUESTO INICIAL), TP (TRASLADO PRESUPUESTAL), MD (MODIFICACION)etc.  
 * Instancia 2: CD (CERTIFICADO DISPONIBILIDAD PRESUPUESTAL), RD (DECREMENTO DE DISPONIBILIDAD), 		UD (INCREMENTO DE DISPONIBILIDAD) etc.  
 * Instancia 3. RP (REGISTRO PRESUPUESTAL, RR (DECREMENTO DE REGISTRO PRESUPUESTAL), AR (INCREMENTO DE REGISTRO PRESUPUESTAL)etc.  
 * Instancia 4: CP, NB, FP etc.  
 * Instancia 5: CE, DB etc.  
-**nota:** 4, 5 puede ser QMOVO, PMOV, CMOV, TMOV, TMEN etc.  
+
+
+**Nota:** 4, 5 puede ser QMOVO, PMOV, CMOV, TMOV, TMEN etc.  
  ejemplo: comprobantes de egreso, cuentas por pagar, notas crédito, recibos de caja entre otros.  
 
 **Proceso:** Opción para visualizar cruces presupuestales. No existe botones de cruces.
