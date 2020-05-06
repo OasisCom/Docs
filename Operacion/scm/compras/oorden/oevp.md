@@ -18,7 +18,7 @@ editable: si
 
 
 
-**Datos Generales:** En el maestro del documento de la opción [**QEVP**] se podrán ver los datos generales como el proveedor que se ha evaluado, la fecha de la evaluación, responsable que ejecuto el proceso y el puntaje total obtenido por el proveedor. Los documentos que generemos en esta opción quedaran en estado Activo.
+**Datos Generales:** En el maestro del documento de la opción [**OEVP**] se podrán ver los datos generales como el proveedor que se ha evaluado, la fecha de la evaluación, responsable que ejecuto el proceso y el puntaje total obtenido por el proveedor. Los documentos que generemos en esta opción quedaran en estado Activo.
 
 
 
