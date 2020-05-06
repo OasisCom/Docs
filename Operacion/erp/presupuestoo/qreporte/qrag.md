@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrag
 editable: si
 ---
 
-# QRAG - Ejecución General
+# Ejecución General - QRAG
 
 Reporte que muestra la ejecución general del proceso Chip Presupuestal generado previamente en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal).  
 

@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Libro Auxiliar Detallado de Presupuesto Oficial  
-permalink: /Operacion/erp/presupuestoo/qreporte/QRAX  
+permalink: /Operacion/erp/presupuestoo/qreporte/qrax  
 editable: si
 ---
 
-# QRAX -Libro Auxiliar Detallado de Presupuesto Oficial  
+# Libro Auxiliar Detallado de Presupuesto Oficial - QRAX
 
 
 Informe que extrae toda la afectacion contable y si tiene Rubro asociado a la cuenta contable.  
@@ -26,5 +26,5 @@ Se denomina libro auxiliar detallado de Presupuesto Oficial.
 
 ![](QRAX11.png)	 
 
-**QRAX**  
+
 

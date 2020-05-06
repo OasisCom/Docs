@@ -5,9 +5,9 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrag1
 editable: si
 ---
 
-# QRAG1 - Ejecución General
+#  Ejecución General - QRAG1
 
-Reporte **[QRAG1]** que reseña la ejecución mensual presentando los créditos y contra créditos presupuestal.  
+Reporte **QRAG1** que reseña la ejecución mensual presentando los créditos y contra créditos presupuestal.  
 
 Consultamos por periodo, año.  
 

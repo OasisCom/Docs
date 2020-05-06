@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrp1
 editable: si
 ---
 
-# QRP1 - Programación de Gastos
+# Programación de Gastos - QRP1
 
 Reporte que muestra la programación de gastos del proceso Chip Presupuestal generado previamente en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal).  
 
