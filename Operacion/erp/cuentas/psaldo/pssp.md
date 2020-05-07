@@ -38,9 +38,3 @@ La aplicación contiene los siguientes campos en el maestro:
 
 **Nota:** La diferencia entre los Saldos de Cuentas por Pagar y Saldos Periódicos radica en que los últimos son el resultado histórico en los respectivos periodos, conteniendo saldo Inicial del periodo, movimientos tanto Débito como Crédito y el saldo al final de cada periodo histórico, por su parte los saldos de cuentas por pagar, es el saldo actualizado, que contiene los movimientos más inmediatos al momento de la consulta, lo que se conoce como  “Saldo en Línea”.  
 
-
-
-
-
-
-
