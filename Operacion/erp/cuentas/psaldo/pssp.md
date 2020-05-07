@@ -9,7 +9,7 @@ editable: si
 
 OasisCom es un sistema en línea, este es afectado por cada uno de los movimientos realizados, se tienen los saldos periódicos con el fin de facilitar la emisión de estados de cuentas, extractos o balances, para la consolidación de la información con el módulo de Contabilidad.  
 
-Esta aplicacion permite observar saldos de las cuentas por pagar a un periodo determinado.
+Esta aplicación permite observar saldos de las cuentas por pagar a un periodo determinado.
 
 ![](pssp.png)
 
