@@ -73,7 +73,7 @@ Después de verificar estos valores, ingresamos a la aplicación [**Genera Compr
 
 ![](kamo14.png)  
 
-Una vez generado el proceso de **Amortización**, ingresamos a la aplicación [**Movimientos - KMOV**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov) en donde se puede ver que el sistema generó automáticamente un documento **_NK_**.  
+Una vez generado el proceso de **Amortización**, ingresamos a la aplicación [**Movimientos - KMOV**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov) en donde se puede ver que el sistema generó automáticamente un documento **_NK_** con fecha del último día del mes del periodo en que se generó.  
 
 ![](kamo16.png)
 
