@@ -45,10 +45,23 @@ Ahora, se pasa a la parte inferior, al detalle.  Ya parametrizado el documento, 
 
 ![](kamo5.png)
 
-Realizados estos pasos, continuamos con la aplicación [**Motivos - BMOT**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) en la cual vamos a crear un motivo correspondiente.  En el campo **_Documento_** **_NK_** que hace referencia a Nota de contabilidad y en el campo **_Concepto_** **_AM_** de Amortización.  
+Realizados estos pasos, continuamos con la aplicación [**Motivos - BMOT**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) en la cual vamos a crear un motivo correspondiente.  En el campo **_Documento_** **_NK_** que hace referencia a Nota de contabilidad y en el campo **_Concepto_** **_AM_** de Amortización y en el campo **_Motivo_** **_Cero (0)_** de Indefinido.  Es importante tener en cuenta que estas parametrizaciones sólo se deben realizar una vez.  
 
+  
 ![](kamo6.png)  
 
+Ahora, se debe ingresar a la aplicacion [**Movimientos - PMOV**](http://docs.oasiscom.com/Operacion/cuentas/pmovimient/pmov).  Aquí se crea en el campo **_Documento_** un documento **_CP_** de Cuentas por pagar, y debemos tener en cuenta que en la parte inferior, en el detalle están las cuentas que requieren de amortización, en el ejemplo de la ilustración, está la cuenta 17, seleccionamos la cuenta y luego nos dirigimos al campo **_Amortizar Cuenta_**, donde debemos activar el flag para indicar que esa es la cuenta a la que se le realizará la amortización y también al campo **_Amortizar Periodo_**, aquí, se diligencian los periodos a amortizar.  Ahora se guarda el detalle y se procesa la Cuenta por Pagar ![](kamo11.png).    
+
+![](kamo7.png)  
+
+![](kamo8.png)  
+
+![](kamo10.png)  
+
+![](kamo9.png)  
+
+
+El siguiente paso es ingresar a la aplicación **Amortización - KAMO**
 
 
 
