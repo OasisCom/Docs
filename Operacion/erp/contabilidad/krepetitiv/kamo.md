@@ -50,7 +50,7 @@ Realizados estos pasos, continuamos con la aplicación [**Motivos - BMOT**](http
   
 ![](kamo6.png)  
 
-Ahora, se debe ingresar a la aplicacion [**Movimientos - PMOV**](http://docs.oasiscom.com/Operacion/cuentas/pmovimient/pmov).  Aquí se crea en el campo **_Documento_** un documento **_CP_** de Cuentas por pagar, y debemos tener en cuenta que en la parte inferior, en el detalle están las cuentas que requieren de amortización, en el ejemplo de la ilustración, está la cuenta 17, seleccionamos la cuenta y luego nos dirigimos al campo **_Amortizar Cuenta_**, donde debemos activar el flag para indicar que esa es la cuenta a la que se le realizará la amortización y también al campo **_Amortizar Periodo_**, aquí, se diligencian los periodos a amortizar.  Ahora se guarda el detalle y se procesa la Cuenta por Pagar ![](kamo11.png).    
+Ahora, se debe ingresar a la aplicacion [**Movimientos - PMOV**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov).  Aquí se crea en el campo **_Documento_** un documento **_CP_** de Cuentas por pagar, y debemos tener en cuenta que en la parte inferior, en el detalle están las cuentas que requieren de amortización, en el ejemplo de la ilustración, está la cuenta 17, seleccionamos la cuenta y luego nos dirigimos al campo **_Amortizar Cuenta_**, donde debemos activar el flag para indicar que esa es la cuenta a la que se le realizará la amortización y también al campo **_Amortizar Periodo_**, aquí, se diligencian los periodos a amortizar.  Ahora se guarda el detalle y se procesa la Cuenta por Pagar ![](kamo11.png).    
 
 ![](kamo7.png)  
 
@@ -61,7 +61,38 @@ Ahora, se debe ingresar a la aplicacion [**Movimientos - PMOV**](http://docs.oas
 ![](kamo9.png)  
 
 
-El siguiente paso es ingresar a la aplicación **Amortización - KAMO**
+El siguiente paso es ingresar a la aplicación **Amortización - KAMO**, donde se valida que salga el renglón con la cuenta correspondiente.  Se filtra por el campo **_Documento_** y por el campo **_Número_**. Luego, se va al campo **_Valor_** donde se encuentra el valor de la cuenta que se quiere amortizar, el siguiente campo es **_Amortizado_**, este campo se diligencia automáticamente cuando el sistema genera la amortización.  En el campo **_Amortizar Periodos_** se encuentran el número de periodos que se diligenciaron anteriormente en la **_Cuenta por pagar_**.  
+
+![](kamo12.png)  
+
+![](kamo13.png)
+
+Después de verificar estos valores, ingresamos a la aplicación [**Genera Comprobante Amortización - KCGA**](http://docs.oasiscom.com/Operacion/erp/contabilidad/krepetitiv/kcga) en donde se va a generar el proceso de **Amortización**. En esta aplicación se encuentran 4 campos:  **_Periodo_** en donde se diligencia el número correspondiente al mes en el que se generará la amortización; **_Año_**; **_Operación_** donde hay una lista desplegable y en esta se elige la opción **_Amortización_**; **_Libro_**, 1 para IFRS, 0 para Colgaap y 10 para ambos.  Una vez diligenciados estos campos, hacemos clic en la imagen ![](kamo15.png) para generar el proceso de **Amortización**.  
+
+![](kamo14.png)  
+
+Una vez generado el proceso de **Amortización**, ingresamos a la aplicación [**Movimientos - KMOV**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov) en donde se puede ver que el sistema generó automáticamente un documento **_NK_**.  
+
+![](kamo16.png)
+
+Como se puede apreciar en la parte inferior, o detalle, en el campo **_Valor_** está para este ejemplo en $200.000, es decir, el valor de la amortización.  
+
+![](kamo17.png)  
+
+Una vez verificada la información, se puede procesar  
+
+![](kamo18.png)  
+
+Ahora, se regresa a la aplicación **KAMO**; aquí se verifica que la **Amortización** se generó exitosamente y el saldo cambió de manera correcta; para el ejemplo, se puede ver que el campo **_Amortizado_** tiene un valor de $200.000,oo y el campo **_Saldo_** tiene un valor de $800.000,oo  
+
+![](kamo19.png)  
+
+Por último, se ingresa a la aplicación [**Movimientos - PMOV**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov) en donde se puede verificar que los valores de la cuenta 17 (para el ejemplo de la ilustración) cambiaron y en el campo **_Amortizado_**, el valor para el ejemplo está en $200.000 
+
+
+![](kamo20.png)
+
+
 
 
 
