@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Registro Presupuestal por Rubro  
-permalink: /Operacion/erp/presupuestoo/qreporte/QRRR  
+permalink: /Operacion/erp/presupuestoo/qreporte/qrrr  
 editable: si
 ---
 
