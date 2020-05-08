@@ -32,12 +32,23 @@ Se deberá ingresar la siguiente información:
 **Proceso:** seleccionar de la lista desplegable el proceso al cual se le realizará cierre (Cierre de resultados o cierre de cuentas de balance).  
 **Libro:** Ingresar el libro al cual se le realizará el cierre, 1 para libro IFRS y 0 para el libro contable local. Tener en cuenta que se debe realizar el cierre en los dos libros contables.  
 
-Luego de llenar los campos correspondientes damos clic ![](ejecutar.png) y ejecutamos el proceso. 
+Posteriormente se diligencian los campos correspondientes, damos clic ![](ejecutar.png) y ejecutamos el proceso. 
 
 El sistema genera un documento **NK** en el [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov). 
 
 ![](kpcr5.png)
 
-Luego de realizar el cierre en la aplicación **KMOV - Movimientos**, se procede a consultar el [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr), las cuentas gastos, ingresos, costo de ventas y costo de producción ya nos aparecen cerradas o en cero. 
+**Nota:** Las cuentas que genera el documento necesitan de un tercero para ser procesado.
+
+Para crear el tercero clic ![](cr.png) modificar registro. 
+
+![](kpcr6.png)
+
+Luego de seleccionar el tercero, clic ![](guardar.png)guardar cambios. Posteriormente se procesa el documento. 
+
+![](kpcr7.png)
+
+
+Despues de realizar el cierre en la aplicación **KMOV - Movimientos**, se procede a consultar el [KRPR - Balance de Prueba](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr), las cuentas gastos, ingresos, costo de ventas y costo de producción ya aparecen cerradas o en cero. 
 
 ![](Balance.png)
