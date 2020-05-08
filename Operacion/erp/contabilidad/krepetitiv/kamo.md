@@ -45,9 +45,9 @@ Ahora, se pasa a la parte inferior, al detalle.  Ya parametrizado el documento, 
 
 ![](kamo5.png)
 
-Realizados estos pasos, continuamos con la aplicación [**Motivos - BMOT**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) en la cual vamos a crear un motivo correspondiente.  En el campo **_Documento_** **_NK_** que hace referencia a Nota de contabilidad y en el campo **_Concepto_** **_AM_** de Amortización.  
+Realizados estos pasos, continuamos con la aplicación [**Motivos - BMOT**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) en la cual vamos a crear un motivo correspondiente.  En el campo **_Documento_** **_NK_** que hace referencia a Nota de contabilidad y en el campo **_Concepto_** **_AM_** de Amortización y en el campo **_Motivo_** **_Cero (0)_** de Indefinido.  Es importante tener en cuenta que estas parametrizaciones sólo se deben realizar una vez.  
 
-![](kamo6.png)  
+  
 
 
 
