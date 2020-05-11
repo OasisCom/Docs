@@ -13,6 +13,9 @@ La opción Cierre de Resultados se realiza  al finalizar el cierre de año, pero
 >+ [KPCR - Cierre de Resultados](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpcr#kpcr---cierre-de-resultados)
 >+ [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov)
 
+Para esto, dentro de la aplicación [**BCUE - Cuentas**](http://docs.oasiscom.com/Operacion/common/bfinan/bcue) es necesario buscar las cuentas de utilidad y perdida del ejercicio, generalmente dentro del plan de cuentas para comerciantes estas cuentas son la 350 y la 300 respectivamente.  
+
+Una vez encontremos o agreguemos las cuentas de utilidad y perdida del ejercicio _recuerde que el nivel de las mismas depende de la política contable de su empresa, sobre todo para definir la imputación de estas cuentas_ es muy importante fijarse que estas cuentas estén marcadas con el ítem de utilidad en el campo utilidad, ubicado en la zona derecha de la tabla de cuentas contables [**BCUE - Cuentas**.](http://docs.oasiscom.com/Operacion/common/bfinan/bcue)  
 
 Para esto, dentro de la aplicación [**KRPR - Balance de prueba**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr) es necesario buscar las cuentas de ingresos, costos y gastos del balance de prueba, ya que generalmente estas se encuentran aun con saldo.
 
@@ -34,7 +37,7 @@ Se deberá ingresar la siguiente información:
 
 Posteriormente se diligencian los campos correspondientes, damos clic ![](ejecutar.png) y ejecutamos el proceso. 
 
-El sistema genera un documento **NK** en el [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov). 
+El sistema genera un documento **NK** con concepto **UP** en el [KMOV - Movimientos](http://docs.oasiscom.com/Operacion/erp/contabilidad/kmovimient/kmov). 
 
 ![](kpcr5.png)
 
