@@ -13,7 +13,7 @@ Las aplicaciones que utiliza son:
 
 * **Consulta de ventas - FFCV**  
 * **FConsulta de facturas - FFCSF**  
-* **Prefactura genera factura - FPPF* 
+* **Prefactura genera factura - FPPF** 
 * **Prefacturación de validación de actualización - FPVP**  
 * **Facturación - FFAC**  
 
