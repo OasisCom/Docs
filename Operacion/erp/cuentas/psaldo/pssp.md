@@ -11,14 +11,14 @@ OasisCom es un sistema en línea, este es afectado por cada uno de los movimient
 
 Esta aplicación permite observar saldos de las cuentas por pagar a un periodo determinado.
 
-![](pssp1.png)
+![](saldos1.png)
 
 
 Al consultar, en la parte superior resume los saldos pendientes por cada uno de los proveedores. 
 
 En la parte inferior se encuentran los movimientos que constituye cada uno de los saldos. 
 
-![](pssp.png)
+![](saldos.png)
 
 La aplicación contiene los siguientes campos en el maestro:  
 
