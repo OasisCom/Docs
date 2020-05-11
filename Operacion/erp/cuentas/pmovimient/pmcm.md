@@ -9,11 +9,11 @@ editable: si
 
 En esta aplicación se encuentran los movimientos que ha tenido el periodo en el módulo Cuentas por Pagar. Resume los movimientos realizados por empresa, con la respectiva causación.
 
-![](pmcm.png)
+![](movimiento.png)
 
 Esta consulta se puede efectuar por diferentes parámetros de búsqueda (Documento, Número, Ubicación, Concepto, Fecha, Total, Cuenta, Naturaleza, Valor, Tercero, Centro de costo, Estado).  
 
-![](pmcm1.png)
+![](movimiento1.png)
 
 **Documento:** Tipo de documento.  
 **Número:** El sistema asigna automáticamente el consecutivo de cada documento, según las especificaciones otorgadas al documento en la opción BCNS.  
