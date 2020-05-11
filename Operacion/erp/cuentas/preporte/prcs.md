@@ -15,7 +15,7 @@ editable: si
 
 La aplicación **PRCS** nos permite comparar los saldos que se encuentran registrados en el módulo de Cuentas por Pagar con los saldos de Contabilidad y así poder identificar si existe diferencia. 
 
-
+Esta consulta debe tener siempre diferencia en 0. Importante realizar el seguimiento correspondiente mes a mes. 
 
 La aplicación cuenta con algunos filtros que permite hacer más específica la consulta. Si se desean consultar todos los saldos no se ingresa ningún dato y sencillamente se da _Enter_.  
 
@@ -35,8 +35,6 @@ La aplicación cuenta con algunos filtros que permite hacer más específica la 
 
 
 Al realizar la consulta dando clic en el botón _generar_ ![](actualizar.png), el sistema arrojará un reporte como el siguiente:
-
-
 
 
 
