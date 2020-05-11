@@ -45,8 +45,6 @@ Al realizar la consulta dando clic en el botón _generar_ ![](actualizar.png), e
 
 
 
-
-
 ![](PRAU2.png)
 
 
