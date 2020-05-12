@@ -22,7 +22,7 @@ Al ejecutar el boton indicado (terminar_contrato)*, se aplicara para todo el doc
 
 * Para terminar un ítem (detalle) se puede indicar el motivo por el cual se terminó, se crean lista desplegable del BCRC.  
 	Se debe de realizar la siguiente parametrizacion desde el **SPRO** y desde las caracteristicas **BCRC**.  
-	![](vccp.png)  
+	![](vccp4.png)  
 
 
 
