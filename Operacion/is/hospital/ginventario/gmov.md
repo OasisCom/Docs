@@ -12,7 +12,7 @@ editable: si
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.  
 
-![](imov1.png)
+![](gmov1.png)
 
 **Documento:** Nombre de documento parametrizado con anterioridad en la aplicación **BDOC**.  
 **Número:** Numero consecutivo del movimiento.  
@@ -28,6 +28,18 @@ Esta aplicación permite la ejecución de los principales movimientos que afecta
 **Tipo de precio:** Tipo de precio registrado con anterioridad en la aplicación **FBTP**.  
 **Ubicación de destino:** Ubicación a donde será cargado el movimiento de productos.  
 
+* **Creacion de terceros:**  
+	clic derecho sobre el campo afiliado.  
+    despliga el siguiente zoom, para ser editado:  
+    ![](gmov2.png)  
+    Cuando se digite el campo código cliente el sistema debería realizar lo siguiente:
+Si en el campo de código cliente se registran sólo números al darle tab el sistema debe retornar lo mismo en el campo tercero.  
+Iniciamos el proceso dando el en botón de nuevo cliente.  
+Se puede validar que cada vez que se ingresa valores numéricos al darle tab el campo de tercero queda con el mismo valor ingresado.  
+![](gmov3.png)  
+
+
+    
 En el detalle:
 
 ![](imov2.png)
@@ -44,6 +56,8 @@ En el detalle:
 **Vencimiento:** Fecha de vencimiento del producto.  
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos.  
 **Lote:** Si los productos pertenecen a un lote en específico.  
+
+    
 
 
 ![](imov21.png)
