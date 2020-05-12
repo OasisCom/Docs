@@ -27,16 +27,16 @@ Permite validar los registros realizados de las órdenes de compra con status: p
 ![](opop2.png)  
 
 Existen dos formas para terminar una orden:  
-Desde el maestro o por cada uno de los item en el detalle.  
+Desde el **maestro** o por cada uno de los item en el **detalle**.  
 Al ejecutar el boton indicado (terminar_dispensacion)*, se aplicara para todo el documento.  
 
 ![](opop3.png)  
-Le indicaremos el motivo por el cual terminamos la orden.  
+* Para el primer caso desde el maestro:le indicaremos el motivo por el cual terminamos la orden.  
 ![](opop4.png)  
 
-Para terminar un ítem se puede indicar el motivo por el cual se terminó, se crean lista desplegable del BCRC.  
-Se debe de realizar la siguiente parametrizacion desde el **SPRO** y desde las caracteristicas **BCRC**.  
-![](opop5.png)  
+* Para terminar un ítem (detalle) se puede indicar el motivo por el cual se terminó, se crean lista desplegable del BCRC.  
+	Se debe de realizar la siguiente parametrizacion desde el **SPRO** y desde las caracteristicas **BCRC**.  
+	![](opop5.png)  
 
 
 
