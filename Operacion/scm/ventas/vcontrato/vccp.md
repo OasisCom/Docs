@@ -18,11 +18,11 @@ Al ejecutar el boton indicado (terminar_contrato)*, se aplicara para todo el doc
 
 ![](vccp2.png)  
 * Para el primer caso desde el maestro:le indicaremos el motivo por el cual terminamos la orden.  
-![](vpcp4.png)  
+![](vccp3.png)  
 
 * Para terminar un ítem (detalle) se puede indicar el motivo por el cual se terminó, se crean lista desplegable del BCRC.  
 	Se debe de realizar la siguiente parametrizacion desde el **SPRO** y desde las caracteristicas **BCRC**.  
-	![](vpcp5.png)  
+	![](vccp.png)  
 
 
 
