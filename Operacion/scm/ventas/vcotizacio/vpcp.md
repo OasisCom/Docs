@@ -27,7 +27,7 @@ En el detalle se puede visualizar los productos y cantidades que se cotizaron, d
 **Estado:** Estado de la cotización, Activo, Procesado, Anulado.  
 **Valores:** La tabla de valores muestra los estados por los que pasa el valor del producto desde su valor inicial pasando por descuentos, aplicación de impuestos hasta su valor real o final después de todos los ajustes necesarios.  
 
-##Terminacion de cotizacion.##  
+#Terminacion de cotizacion#  
 Existen dos formas para terminar la cotizacion:  
 Desde el **maestro** o por cada uno de los item en el **detalle**.  
 Al ejecutar el boton indicado (terminar_cotizacion)*, se aplicara para todo el documento.  
