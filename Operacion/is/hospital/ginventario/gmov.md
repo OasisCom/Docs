@@ -32,7 +32,7 @@ Esta aplicación permite la ejecución de los principales movimientos que afecta
 	clic derecho sobre el campo afiliado.  
     despliga el siguiente zoom, para ser editado:  
     ![](gmov2.png)  
-    Cuando se digite el campo código cliente el sistema debería realizar lo siguiente:
+    Cuando se digite el campo código cliente el sistema debería realizar lo siguiente:  
 Si en el campo de código cliente se registran sólo números al darle tab el sistema debe retornar lo mismo en el campo tercero.  
 Iniciamos el proceso dando el en botón de nuevo cliente.  
 Se puede validar que cada vez que se ingresa valores numéricos al darle tab el campo de tercero queda con el mismo valor ingresado.  
@@ -43,9 +43,9 @@ Para cuando se ingresa un valor alfanumérico; el sistema realiza la consulta de
 
 
     
-En el detalle:
+En el detalle:  
 
-![](imov2.png)
+![](imov2.png)  
 
 **Renglón:** Renglón de detalle asociado al movimiento.  
 **Producto:** Código asignado al producto, anteriormente parametrizado en **BPRO**.  
@@ -63,7 +63,7 @@ En el detalle:
     
 
 
-![](imov21.png)
+![](imov21.png)  
 
 
 Detalle del **GMOV**.  
