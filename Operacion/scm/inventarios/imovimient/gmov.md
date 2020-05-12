@@ -239,5 +239,3 @@ Posteriormente, se procesa el documento de salida de inventario en IMOV.
 
 
 Conoce el proceso completo de WorkFlow Task [**Aquí**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#workflow-task).  
-
-
