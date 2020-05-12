@@ -35,7 +35,7 @@ Le indicaremos el motivo por el cual terminamos la orden.
 ![](opop4.png)  
 
 Para terminar un ítem se puede indicar el motivo por el cual se terminó, se crean lista desplegable del BCRC.  
-se debe de realizar la siguiente parametrizacion desde el **SPRO** y desde las caracteristicas **BCRC**.  
+Se debe de realizar la siguiente parametrizacion desde el **SPRO** y desde las caracteristicas **BCRC**.  
 ![](opop5.png)  
 
 
