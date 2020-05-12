@@ -11,7 +11,7 @@ La aplicación VCCP permite terminar los contratos que se requiera y se encuentr
 
 ![](vccp.png)
 
-##Terminacion de contrato.##  
+# Terminacion de contrato.#  
 Existen dos formas para terminar la contrato:  
 Desde el **maestro** o por cada uno de los item en el **detalle**.  
 Al ejecutar el boton indicado (terminar_contrato)*, se aplicara para todo el documento.  
