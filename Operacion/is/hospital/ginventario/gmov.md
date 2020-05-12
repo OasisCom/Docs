@@ -49,7 +49,7 @@ En el detalle:
 ![](imov21.png)
 
 
-Detalle del **IMOV**.  
+Detalle del **GMOV**.  
 
 ![](imov22.png)
 
