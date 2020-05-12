@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## KRGA1 - Estado de Ganacias y Pérdidas Ajustado
+# Estado de Ganancias y Pérdidas Ajustado - KRGA1
 
 La aplicación **KRGA1** arroja un reporte de pérdidas y ganancias donde se comparan los valores del _Libro local_, las _Diferencias_ y su respectivo valor en _IFRS_.  
 

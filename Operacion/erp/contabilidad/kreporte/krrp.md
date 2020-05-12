@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Resultados Por Proyecto - KRRP
+# Resultados Por Proyecto - KRRP
 
 Este reporte permite obtener el estado de resultados discriminado por proyecto. Ingresar periodo y año a consultar.  
 

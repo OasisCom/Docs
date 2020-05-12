@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Balance General - KRBG
+# Balance General - KRBG
 
 Este informe nos arroja el balance general de la compañía por periodo.  
 
@@ -18,7 +18,7 @@ Este informe nos arroja el balance general de la compañía por periodo.
 **Nivel:** De acuerdo a la parametrización del básico de Cuentas BCUE.  
 **Libro:** De acuerdo a la parametrización del básico de Libros KLIB.  
 
-Click en el botón consultar.  
+Clic en el botón consultar.  
 
 ![](KRBG2.png)
 

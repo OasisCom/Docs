@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Balance General Ajustadoo - KRBA
+# Balance General Ajustado - KRBA
 
 Este reporte genera el balance general de la empresa.  
 

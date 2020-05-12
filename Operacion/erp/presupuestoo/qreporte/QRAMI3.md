@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Ejecución Mensual Presupuesto de Ingresos Detallado - Apropiación de la Vigencia    
-permalink: /Operacion/erp/presupuestoo/qreporte/QRAMI3  
+permalink: /Operacion/erp/presupuestoo/qreporte/qrami3  
 editable: si
 ---
 
-# QRAMI3 - Ejecución mensual presupuesto de Ingresos Detallado -Apropiación de la Vigencia.   
+# Ejecución mensual presupuesto de Ingresos Detallado -Apropiación de la Vigencia - QRAMI3
 
 
 **QRAMI3**  

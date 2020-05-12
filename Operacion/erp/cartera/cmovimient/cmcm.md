@@ -9,7 +9,7 @@ editable: si
 # Consulta de Movimientos - CMCM
 
 
-El objetivo de esta aplicación es poder consultar los movimientos realizados en el módulo de cartera.
+El objetivo de esta aplicación es poder consultar los movimientos realizados en un periodo determinado del módulo de cartera.
 
 
 ![](CMCM1.png)

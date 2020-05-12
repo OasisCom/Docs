@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrcx
 editable: si
 ---
 
-# QRCX - Contratos
+# Contratos - QRCX
 
 El reporte **QRCX** muestra la ejecución de pagos por cada actividad de acuerdo con el contrato, es decir, que se visualiza el pago realizado mensualmente a cada una.  
 

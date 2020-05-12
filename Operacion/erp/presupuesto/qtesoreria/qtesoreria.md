@@ -5,5 +5,5 @@ permalink: /Operacion/erp/presupuesto/qtesoreria/
 editable: si
 ---
 
-# PRESUPUESTO DE TESORERIA
+# Presupuesto de Tesoreria  
 

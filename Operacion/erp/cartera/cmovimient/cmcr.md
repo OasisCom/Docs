@@ -1,11 +1,8 @@
 ---
 
 layout: default
-
 title: Cruces
-
 permalink: /Operacion/erp/cartera/cmovimient/cmcr
-
 editable: si
 
 ---
@@ -19,7 +16,7 @@ editable: si
 Esta aplicación permite consultar el cruce de cuentas de Cartera, con los respectivos documentos de tesorería o cuentas por pagar para cancelarlas, como también permite el cruce manual de dichos movimientos en los casos que por diferentes motivos no se pudieron efectuar.  
 En esta aplicación, podrá ver documentado el siguiente proceso:  
 
-[Cómo realizar el Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar) 
+>+ [Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#cruce-con-las-cuentas-por-cobrar) 
 
 La parte superior de la aplicación nos muestra el valor inicial y saldo de cada una de las cuentas por cobrar, y la parte inferior nos muestra el movimiento con el cual se cruzó o se canceló dicha Cuenta por Cobrar.  
 
@@ -46,19 +43,12 @@ La parte superior de la aplicación nos muestra el valor inicial y saldo de cada
 
 
 **Periodo:** Hace referencia al mes el cual se desea consultar.  
-
 **Año:** Año al cual pertenece el periodo antes mencionado.  
-
 **Tercero:** Número de identificación del tercero.  
-
 **Documento:** Iniciales que identifican el tipo de comprobante.  
-
 **Número:** Numero con el cual se generó el documento.  
-
 **Ubicación:** Identificación de la ubicación de un punto de la empresa.  
-
 **Cuota:** Número de la cuota, en caso de pactarse pagos por cuotas.  
-
 **Fecha:** Fecha del documento.  
 
 
@@ -72,27 +62,18 @@ La parte superior de la aplicación nos muestra el valor inicial y saldo de cada
 
 
 **Vencimiento:** Al procesar un documento este campo toma la fecha de dicho documento.  
-
 **Valor:** Valor numérico que afecta la cuenta según su naturaleza.  
-
 **Saldo:** Saldo del cruce.  
-
 **Cuenta:** Identificación numérica de las cuentas afectadas, asignada según PUC.  
-
 **Moneda:** Tipo de moneda en la cual se hace el movimiento.  
-
 **Plan:** En este campo se colocara el código del plan del cual se tomaran las cuentas.  
-
 **Naturaleza:** Hace referencia a la naturaleza de la cuenta si es débito o crédito.  
-
 **Dirección:** Corresponde a la dirección del tercero ingresado.  
-
 **Factura:** Número de factura a la cual se le realizará el cruce.  
-
 **Libro:** Número de libro según parametrización en Libros (KLIB).  
 
 
-### [Cómo realizar el Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#como-realizar-el-cruce-con-las-cuentas-por-cobrar)  
+## [Cruce con las Cuentas por Cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmcr#cruce-con-las-cuentas-por-cobrar)  
 
 Desde esta aplicación se llama la cuenta por cobrar (en este caso, se utiliza el ejemplo que se realizó en la opción [Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causacion-de-cuentas-por-cobrar))  
 

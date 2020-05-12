@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## KRBA1 - Balance General Ajustado
+# Balance General Ajustado - KRBA1
 
 La aplicación **KRBA1** arroja un reporte del balance general donde se comparan los valores del _Libro local_, las _Diferencias_ y su respectivo valor en _IFRS_.  
 

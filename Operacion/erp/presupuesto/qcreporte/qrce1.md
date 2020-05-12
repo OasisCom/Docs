@@ -1,11 +1,11 @@
 ---
 layout: default
-title: EJECUCIÓN PRESUPUESTAL - CENTRO DE COSTO PADRE
+title: Ejecución Presupuestal - Centro de Costo Padre
 permalink: /Operacion/erp/presupuesto/qcreporte/qrce1
 editable: si
 ---
 
-# QRCE1 - EJECUCIÓN PRESUPUESTAL - CENTRO DE COSTO PADRE
+# Ejecución Presupuestal - Centro de Costo Padre - QRCE1  
 
 La aplicación **QRCE1** permite generar de acuerdo a los criterios de consulta, un reporte con la ejecución financiera especificado por centros de costo padre.  
 

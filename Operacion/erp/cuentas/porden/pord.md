@@ -5,10 +5,21 @@ permalink: /Operacion/erp/cuentas/porden/pord
 editable: si
 ---
 
-## Orden de Pago - PORD
+# Orden de Pago - PORD
 
-Aplicación que permite consultar las cuentas que están pendientes por pagar e igualmente permite confirmar la orden de pago de cada una de ellas. Contiene los siguientes campos:
+Aplicación que permite consultar las cuentas que están pendientes por pagar e igualmente permite confirmar la orden de pago de cada una de ellas. 
 
+
+
++ [Cambio de Fecha](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#cambio-de-fecha)  
++ [Cambio de Banco](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#cambio-de-banco)  
++ [Marcar Todo](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#marcar-todo)  
++ [Ordenar](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#ordenar)  
++ [Monto Autorizado](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#ordenar)  
+
+
+
+Contiene los siguientes campos:
 
 ![](PORD1.png)
 
@@ -55,7 +66,7 @@ Al procesar el movimiento de cuentas por pagar en la aplicación [**PMOV - Movim
 Cuando el registro de la cuenta por pagar ya es visualizado en la aplicación **PORD –  Orden de Pago**, podemos realizar algunos procesos parametrizados con anterioridad que nos permitirán realizar de manera correcta la confirmación de la orden de pago.  
 
 
-### Cambio de Fecha
+## [Cambio de Fecha](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#cambio-de-fecha)
 
 
 Botón que permite la actualización de la fecha en la que se realizará el pago. Para realizar el cambio de la fecha, se debe hacer clic sobre el botón _Actualiza Fecha_.  
@@ -82,7 +93,7 @@ En el maestro se puede evidenciar el cambio de fecha en el campo **Fecha de Pago
 ![](PORD7.png)
 
 
-### Cambio de Banco
+## [Cambio de Banco](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#cambio-de-banco)
 
 
 Botón que permite la actualización del Banco de donde se realizará el pago. Para realizar el cambio de Banco se debe hacer click sobre el botón Actualizar_Banco.  
@@ -115,7 +126,7 @@ En el maestro se puede evidenciar el cambio de banco en el campo **Caja**.
 ![](BUBI1.png)
 
 
-### Marcar Todo
+## [Marcar Todo](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#marcar-todo)
 
 
 Botón que permite la marcación de la Orden de pago, indicando que las cuentas que están marcadas son las que se van a pagar. Para realizar la marcación de la cuenta, se debe hacer click sobre el botón _Marcar_Todo_.  
@@ -136,7 +147,7 @@ Al guardar el cambio, en el maestro se evidencia que la cuenta seleccionada tien
 ![](PORD14.png)
 
 
-### Ordenar
+## [Ordenar](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#ordenar)
 
 
 Botón que permite la confirmación de la orden, al hacer click sobre este botón el sistema creará automáticamente un registro en la aplicación [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/tesoreria/tmovimient/tmov.md), el cual se compone de un maestro con un detalle específico.  
@@ -159,7 +170,7 @@ En  [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob
 
 ![](PORD17.png)
 
-### Monto Autorizado
+## [Monto Autorizado](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord#ordenar)
 
 * El sistema posee la funcionalidad, a nivel de autorización de pagos desde PORD (órdenes de pago);  Para control de montos según el nivel que tenga autorizado en **SUSU** 
 
@@ -170,9 +181,6 @@ Los rangos se parametrizan en **BRAN** segun: documento concepto.
 ![](pord20.png)
 
 *************
-
-
-
 
 
 **Nota:** Los procesos anteriormente nombrados (cambio de fecha, cambio de banco, marcar todo y ordenar) se pueden realizar de manera masiva, es decir, se pueden seleccionar varios registros y dar click sobre el botón del proceso que deseamos realizar, este proceso se realizará para todos los registros seleccionados, se sugiere que si son muchos registros se realice el último paso (ordenar) por cada uno de los registros o de a tres registros para que el sistema procese más rápido los documentos. Por último, después de rectificar los datos, se debe procesar el registro en la aplicación [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/tesoreria/tmovimient/tmov.md), esto con el fin de que el cruce quede realizado de manera exitosa.  

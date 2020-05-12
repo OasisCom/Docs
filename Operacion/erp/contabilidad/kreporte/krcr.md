@@ -7,9 +7,9 @@ editable: si
 
 ---
 
-## Certificados de Retención - KRCR
+# Certificados de Retención - KRCR
 
-KRCR permite imprimir el certificado de retenciónd en la fuente según el tercero consultado.  
+La aplicación KRCR permite imprimir el certificado de retención en la fuente según el tercero consultado.  
 
 ![](KRCR.png)
 

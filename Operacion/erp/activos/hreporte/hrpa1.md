@@ -5,7 +5,8 @@ permalink: /Operacion/erp/activos/hreporte/hrpa1
 editable: si
 ---
 
-# [**HRPA1 - Balance de Prueba Ajustado**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrpa1)
+
+# Balance de Prueba Ajustado - HRPA1
 
 La aplicación **HRPA1** arroja un reporte de saldos de diferencia entre el esquema del Libro Local, las Diferencias e IFRS con la información del módulo de activos fijos.
 

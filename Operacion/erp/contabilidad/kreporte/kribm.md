@@ -7,8 +7,10 @@ editable: si
 
 ---
 
-## Inventarios y Balances - KRIBM
-Reporte que muestra los estados financieros comparativos entre libros (Multiproposito).  
+# Inventarios y Balances - KRIBM
+
+
+Reporte que muestra los estados financieros comparativos entre libros (Multipropósito).  
 
 
 ![](KRIBM1.png)
@@ -18,9 +20,10 @@ Reporte que muestra los estados financieros comparativos entre libros (Multiprop
 **Nivel:** De acuerdo a la parametrización del básico de Cuentas BCUE.  
 
 
-En el botón exportar a excel, se visualiza asi:  
+En el botón exportar a Excel, se visualiza así:  
 
 ![](KRIBM2.png)
+
 
 
 

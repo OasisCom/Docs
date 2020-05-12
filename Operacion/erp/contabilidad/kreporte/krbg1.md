@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## KRBG1 - Balance General
+# Balance General - KRBG1
 
 Este reporte nos arroja el balance general de la compañía permitiendo filtrar por nivel y libro contable.  
 
@@ -19,7 +19,7 @@ Este reporte nos arroja el balance general de la compañía permitiendo filtrar 
 **Libro:** De acuerdo con la parametrización del básico de Libros **KLIB**.  
 **Tasa de cambio:** ingresar la tasa de cambio por la que se requiere consultar.  
 
-Ingresados los datos damos click en el botón consultar, como filtramos por nivel 1, veremos solamente las cuentas de activo, pasivo, patrimonio y cuentas de orden deudoras y acreedoras.  
+Ingresados los datos damos clic en el botón consultar, como filtramos por nivel 1, veremos solamente las cuentas de activo, pasivo, patrimonio y cuentas de orden deudoras y acreedoras.  
 
 ![](krbg02.png)
 

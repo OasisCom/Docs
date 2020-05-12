@@ -10,7 +10,7 @@ En esta aplicación el sistema mostrará la información generada anteriormente 
 
 
 >+ [Verificación de medios magnéticos para Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-para-activo-fijo-por-compras)
->+ [Verificación de medios magnéticos para Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-psra-activo-fijo-por-hmov)
+>+ [Verificación de medios magnéticos para Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-para-activo-fijo-por-hmov)
 
 El valor indicado en el maestro debe coincidir con el Balance de Prueba.  
 
@@ -38,7 +38,7 @@ Vemos que el sistema tomó el valor de $285.000 que corresponde al IVA de los 2 
 
 ![](kfor4.png)
 
-## [Verificación de medios magnéticos para Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-psra-activo-fijo-por-hmov)
+## [Verificación de medios magnéticos para Activo Fijo por HMOV](http://docs.oasiscom.com/Operacion/erp/contabilidad/kformatos/kfor#verificación-de-medios-magnéticos-para-activo-fijo-por-hmov)
 
 Generados los medios magnéticos previamente en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#medios-magnéticos-para-el-ingreso-de-activo-fijo-por-compras), ingresamos a la aplicación _KFOR - Balance de Formatos_ a validar la información que se generó con las adiciones realizadas.  
 

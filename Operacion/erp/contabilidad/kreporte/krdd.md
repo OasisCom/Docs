@@ -5,9 +5,9 @@ permalink: /Operacion/erp/contabilidad/kreporte/krdd
 editable: si
 ---
 
-# KRDD - Diferencia en tasas por documento
+# Diferencia en tasas por documento - KRDD
 
-El reporte KRDD brinda soporte de cálculo de la diferencia de tasa de cambio por documento.  
+El reporte **KRDD** brinda soporte de cálculo de la diferencia de tasa de cambio por documento.  
 
 ![](krdd.png)
 

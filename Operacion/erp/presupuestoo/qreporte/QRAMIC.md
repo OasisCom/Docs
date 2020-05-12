@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Ejecución mensual presupuesto de Ingresos Detallado - Cuenta por Cobrar  
-permalink: /Operacion/erp/presupuestoo/qreporte/QRAMIC  
+permalink: /Operacion/erp/presupuestoo/qreporte/qramic  
 editable: si
 ---
 
-# QRAMIC - Ejecución mensual presupuesto de Ingresos Detallado - Cuenta por Cobrar  
+# Ejecución mensual presupuesto de Ingresos Detallado - Cuenta por Cobrar - QRAMIC
 
 
 Informe que extrae toda la informacion de la reserva presupuestal.  

@@ -3,10 +3,8 @@
 
 
 layout: default
-
 title: Balance de Prueba por Proyecto
 permalink: /Operacion/erp/contabilidad/kreporte/krprp
-
 editable: si
 
 ---
@@ -19,7 +17,7 @@ En esta opción el sistema permite generar una consulta por pantalla o un inform
 **Año:** Año el cual deseo consultar.  
 **Nivel:** Número del nivel asignado según la parametrización del BCUE.  
 **Libro:** Número de libro asignado según parametrización de KLIB.  
-**Proyecto:** Número del Proyecto, segun BPRY.  
+**Proyecto:** Número del Proyecto, según BPRY.  
 
 ![](krprp1.png)
 
