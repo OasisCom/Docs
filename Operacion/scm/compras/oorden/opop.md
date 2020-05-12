@@ -25,7 +25,7 @@ Permite validar los registros realizados de las órdenes de compra con status: p
 **Estado:** Estado o fase en el que se encuentra la orden de compra.  
 **Status:** Status fase en el que se encuentra la orden de compra.  
 ![](opop2.png)  
-# Terminacion Órdenes Pendientes.  
+# Terminación Órdenes Pendientes.  
 Existen dos formas para terminar una orden:  
 Desde el **maestro** o por cada uno de los item en el **detalle**.  
 Al ejecutar el boton indicado (terminar_dispensacion)*, se aplicara para todo el documento.  
