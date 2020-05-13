@@ -36,7 +36,7 @@ La aplicación **PRAC** permite consultar el reporte de las cuentas por pagar ve
 
 
 
-* **Tercero:** ingresar el número de identificación del tercero del cual se desea realizar la consulta. Si se requiere consultar todos los terceros, dejar este campo en blanco.
+* **Tercero:** ingresar el número de identificación del tercero del cual se desea realizar la consulta. Si se requiere consultar todos los terceros, dejar este campo en blanco.  
 * **Libro:** ingresar el número de libro contable del cual se desea consultar. Libro 1 - IFRS, libro 0 - LOCAL. Si se desea consultar ambos libros dejar el campo en blanco.  
 
 
