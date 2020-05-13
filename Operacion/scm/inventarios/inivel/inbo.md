@@ -25,6 +25,7 @@ Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**
 
 Funcionalidad del zoom en **INBO - INPR**:  
 Este zoom  lista los productos asociados según el producto activo; para elegir cual se debe comprar.  
+Esta parametrizacion aplica de la misma forma para las dos opciones, **INBO - INPR**:  
 
 Se realiza la siguiente parametrización del botón **asignar_producto** en **SPRO:**  
 **DataType**: Se le indica que es de tipo formulario (Grilla/Form)  
@@ -50,6 +51,11 @@ Le damos clic en el botón configurado.
 ![](inbo9.png)  
 
 Podemos validar que se carga de manera correcta la lista.  
+
+![](inbo10.png)  
+Realizamos la actualización dandole en el boton submit.  
+Este zoom  lista los productos asociados según el producto activo; para elegir cual se debe comprar.  
+
 
 
 
