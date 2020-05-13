@@ -5,5 +5,5 @@ permalink: /Operacion/scm/inventarios/
 editable: si
 ---
 
-# INVENTARIOS
+# Inventarios
 

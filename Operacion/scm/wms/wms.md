@@ -5,5 +5,5 @@ permalink: /Operacion/scm/wms/
 editable: si
 ---
 
-# BODEGAS WMS
+# Bodegas WMS
 

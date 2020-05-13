@@ -5,7 +5,7 @@ permalink: /Operacion/scm/distribucion/dfle
 editable: si  
 ---
 
-# DFLE - Fletes  
+# Fletes - DFLE
 
 Aplicación del modulo de Distribución que permite; relacionar el valor del traslado de mercancías en un medio de transporte, asocia facturas o movimientos de inventario de un tercero determinado.  
 En el siguiente formulario relacionamos: documento, número y ubicación que corresponde a las llaves primarias. No pueden ser modificadas después de ser guardados los mencionados campos.  
