@@ -29,17 +29,17 @@ En el campo **"customValidators"** se debe agregar una lista de condiciones lóg
 
 Si se desea hacer una validación de longitud de una cadena, se deben utilizar las funciones "maxLength(value, N)" y "minLength(value, N)" donde N es la longitud que será validada. Adicionalmente, se pueden validar expresiones regulares por medio de la función "evaluateRegex(pattern, value)" donde pattern es la expresión regular que será validada.  
 
-### Parametrizar restricciones maestro tipo A y B
+### Parametrizar restricciones maestro tipo A y B  
 
-![](scam2.png)
+![](scam2.png)  
 
 En la aplicación BBAN:  
 
-![](scam3.png)
+![](scam3.png)  
 
 El error parametrizado se mostrará al momento de guardar si no se cumple alguna de las condiciones parametrizadas.  
 
-![](scam4.png)
+![](scam4.png)  
 
 ### Parametrización "alertas en mensajes de control", en maestros tipo C. 
 
@@ -299,6 +299,8 @@ Muestra de la funcionalidad en **APEM**
 Muestra del **APEM** antes de aplicar la funcionalidad.  
 ![](scam52.png)  
 Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido en **SCAM**.  
+
+![](scam53.png)  
 
 
 
