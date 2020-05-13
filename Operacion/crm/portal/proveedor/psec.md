@@ -7,9 +7,9 @@ editable: si
 
 ---
 
-# Imprime Estados de Cuenta Proveedores
+# Imprime Estados de Cuenta Proveedores - PSEC
 
-Permite consultar y tener estados de cuenta de cada proveedor y la distribución de esos movimientos. 
+Permite consultar, tener estados de cuenta de cada proveedor y la distribución de cada uno de los movimientos realizados. 
 
 Se ingresa año y periodo el cual se requiera consultar. 
 
