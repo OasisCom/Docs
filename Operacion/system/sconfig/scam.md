@@ -281,7 +281,7 @@ Para generar el reporte _ERRCL - Certificado Laboral_, se debe parametrizar en e
 
 ---  
 
-##LISTAS Y BLOQUEO DE PARAMETROS POR MEDIO DE SCAM PARA PROCESOS ESPECIALES.  
+###LISTAS Y BLOQUEO DE PARAMETROS POR MEDIO DE SCAM PARA PROCESOS ESPECIALES.  
 
 1.- En **SPRO**, actualmente se parametrizan las listas, valores por defecto y bloque de los campos para procesos especiales, con el nuevo desarrollo, esa parametrización queda igual, pero se le suma la parametrización del SCAM como se explica a continuación:																																													
 - La parametrización se divide en 2 partes:  
