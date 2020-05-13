@@ -5,5 +5,13 @@ permalink: /Operacion/erp/cuentas/psaldo/
 editable: si
 ---
 
-# SALDOS DE CUENTAS POR PAGAR
+# Saldos de Cuentas por Pagar  
+
+Este submódulo permite ver los saldos de las cuentas que se deben a los proveedores actualizados y además, permite visualizar los saldos anteriores.  
+
+Las aplicaciones que se utilizan en este submódulo son:  
+
+* [**PSSP**](http://docs.oasiscom.com/Operacion/erp/cuentas/psaldo/pssp)  - Saldos por periodo  
+* [**PCAC**](http://docs.oasiscom.com/Operacion/erp/cuentas/psaldo/pcac)  - Análisis de cuentas vencidas  
+* [**EPSEC**](http://docs.oasiscom.com/Operacion/erp/cuentas/psaldo/epsec) - Imprime Estados de Cuenta Proveedores  
 

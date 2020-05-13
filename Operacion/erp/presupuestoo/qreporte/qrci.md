@@ -5,14 +5,14 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrci
 editable: si
 ---
 
-# QRCI - Conciliación
+# Conciliación - QRCI
 
 El reporte **QRCI** muestra la ejecución de conciliaciones cada instancia:  
 
-* DISPONIBILIDAD
-* COMPROMISO
-* OBLIGACIÓN
-* PAGADO
+* Disponibilidad
+* Compromiso
+* Obligación
+* Pagado
 
 Veremos los datos en contabilidad, datos del presupuesto y los datos de ejecución.
 

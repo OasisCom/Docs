@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Estado de Ganancias y Pérdidas - KRGP
+# Estado de Ganancias y Pérdidas - KRGP
 
 Este informe nos arroja el estado de ganancias y pérdidas por periodo.  
 
@@ -17,7 +17,7 @@ Este informe nos arroja el estado de ganancias y pérdidas por periodo.
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  
 
-Ingresar periodo, año y click en consultar.   
+Ingresar periodo, año y clic en consultar.   
 
 ![](KRGP2.png)
 

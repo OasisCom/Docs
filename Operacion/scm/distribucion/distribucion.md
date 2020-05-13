@@ -5,5 +5,5 @@ permalink: /Operacion/scm/distribucion/
 editable: si
 ---
 
-# DISTRIBUCION
+# Distribución
 

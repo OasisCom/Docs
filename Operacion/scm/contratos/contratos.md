@@ -5,5 +5,5 @@ permalink: /Operacion/scm/contratos/
 editable: si
 ---
 
-# CONTRATOS
+# Contratos
 

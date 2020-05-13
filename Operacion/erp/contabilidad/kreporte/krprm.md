@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Balance De Prueba Con Movimientos - KRPRM
+# Balance De Prueba Con Movimientos - KRPRM
 
 Este reporte genera el balance general de la empresa.  
 

@@ -5,5 +5,5 @@ permalink: /Operacion/scm/pos/
 editable: si
 ---
 
-# PUNTO DE VENTA POS
+# Punto de Venta POS
 

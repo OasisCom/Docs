@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qconsulta/qdoc
 editable: si
 ---
 
-# QDOC - Presupuesto Documentos
+# Presupuesto Documentos - QDOC
 
 La aplicación QDOC permite consultar los movimientos realizados al presupuesto por documentos. Filtramos por el documento de consulta. En la parte inferior de la pantalla se refleja el total de cada columna.   
 

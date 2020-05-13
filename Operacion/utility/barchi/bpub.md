@@ -5,9 +5,12 @@ permalink: /Operacion/utility/barchi/bpub
 editable: si
 ---
 
-## Publicaciones - BPUB
+# Publicaciones - BPUB
 
-### Parametrización XML
+>+ [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-xml)
+>+ [Parametrización ACX](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-acx)
+
+## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-xml)
 
 Parametrizado anteriormente el archivo en [**BARC - Archivos**](http://docs.oasiscom.com/Operacion/utility/barchi/barc), en la aplicación BPUB se deberá realizar la parametrización de la publicación para que esta pueda ser visualizada en la opción [**BINT - Inferfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint).  
 
@@ -35,3 +38,6 @@ En el detalle de la aplicación se deberá agregar un nuevo registro y diligenci
 
 
 Realizado lo anterior, se culmina con la parametrización en BPUB y se procede a asignar los permisos para la visulaización y carga o descarga de la publicación en [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol).
+
+## [Parametrización ACX](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-acx)
+

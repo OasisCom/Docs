@@ -5,7 +5,7 @@ permalink: /Operacion/erp/cartera/csaldo/ecssp
 editable: si
 ---
 
-# ECSSP - Saldos de Cartera
+# Saldos de Cartera - ECSSP
 
 Aplicación que permite realizar pago según medio de la transacción.  
 

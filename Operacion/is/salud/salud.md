@@ -16,3 +16,17 @@ Por otra parte, gestión de todo el proceso de aseguramiento de los afiliados a 
 En cuanto al tema de autorizaciones, maneja el registro de los servicios autorizados con la gestión y control de los procedimientos contratados para su posterior validación en la radicación de las facturas.  
 
 Todos estos procesos se integran con consultorios médicos, hospitales, centros de salud IPS, todo en la nube y con acceso desde dispositivo móvil.   
+
+
+## Procesos de acceso de externos a plataforma OasisCom
+
+- [Validación de RIPS](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
+- [Aplicación EEREC](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
+- [Contratos - EECNC](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/eecnc)
+- [Aplicación Solicitud de Autorizaciones Hospitalarias - EESOA](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa)
+- [Aplicación Consulta de Solicitud de Autorizaciones - EERSA](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eersa)
+- [Aplicación de Notificación de Urgencias – EENOU](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou)
+- [Aplicación Consulta de Notificación de Urgencia - EERNU](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eernu)
+- [Aplicación de Solicitud de Referencia - EERCF](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf)
+- [Aplicación de Conciliación de Glosas – EEACO](http://docs.oasiscom.com/Operacion/is/salud/efactura/movaud/eeaco)
+- [Pagos - ETRPF](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/etrpf)

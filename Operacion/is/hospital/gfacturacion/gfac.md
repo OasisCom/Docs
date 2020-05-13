@@ -16,6 +16,11 @@ Realizada la parametrización de tipo de precio en la aplicación [**BUBI - Ubic
 ![](gfac5.png)
 
 
+En cuanto a la aplicación **GMOV**  lo único que cambia es el formulario para creación de doctores es más simple que el de crear cliente, por lo demás cuenta con las mismas funcionalidades.
+
+![](gmov.png)
+
+
 * Al crear un registro, por defecto muestra la ubicación _0_ con el tipo de precio designado para esta como se muestra en la imagen.  
 
 ![](gfac.png)

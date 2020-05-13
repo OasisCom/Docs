@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/tmovimient/tmen
 editable: si
 ---
 
-## Caja Menor - TMEN
+# Caja Menor - TMEN
 
 Esta opción permite administrar los gastos cotidianos de la empresa, para ello se realiza un movimiento de Caja Menor, mediante un documento **CM**. 
 

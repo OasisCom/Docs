@@ -80,9 +80,20 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Pedido:** Compuesto por dos campos donde indica la ubicación y número del pedido que origino la transacción.  
 **Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
 
-Al final del detalle se totaliza las cantidades y valor bruto de los productos facturados, estos valores son calculados a medida que se incluyen nuevos renglones o productos.
+Al final del detalle se totaliza las cantidades y valor bruto de los productos facturados, estos valores son calculados a medida que se incluyen nuevos renglones o productos.  
 
-La opción importar archivo facilita la digitación de los productos y cantidades que componen el detalle mediante la importación (traída) o lectura de un archivo en Excel que los contenga.
+La opción importar archivo facilita la digitación de los productos y cantidades que componen el detalle mediante la importación (traída) o lectura de un archivo en Excel que los contenga.  
+
+**Saldos:**  
+clic derecho sobre el campo producto,  aparece la siguiente ventana:  
+![](ffac25.png)  
+posterior abre el siguiente zoom de seleccion:  
+
+![](ffac26.png)  
+
+
+* Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
 
 ## [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
 

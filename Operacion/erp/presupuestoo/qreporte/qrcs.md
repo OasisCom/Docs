@@ -5,9 +5,9 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrcs
 editable: si
 ---
 
-# QRCS - Contratos
+# Contratos - QRCS
 
-El reporte QRCS permite ver un informe de ejecución de pagos por sector.
+El reporte **QRCS** permite ver un informe de ejecución de pagos por sector.
 
 Ingresamos a la aplicación, filtramos por año y seleccionamos instancia: pagado o compromiso. Damos click en el botón _Generar_.  
 

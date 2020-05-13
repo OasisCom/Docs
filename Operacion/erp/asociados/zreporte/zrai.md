@@ -5,7 +5,7 @@ permalink: /Operacion/erp/asociados/zreporte/zrai
 editable: si
 ---
 
-# ZRAI - Asociados Inhábiles
+# Asociados Inhábiles -  ZRAI
 
 El reporte **ZRAI** permite ver las ventas, cartera y anticipo durante el periodo el cual el asociado se haya consultado.  
 

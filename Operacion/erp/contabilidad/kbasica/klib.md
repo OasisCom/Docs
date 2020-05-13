@@ -5,9 +5,9 @@ permalink: /Operacion/erp/contabilidad/kbasica/klib
 editable: si
 ---
 
-## Libros - KLIB
+# Libros - KLIB
 
-El principal objetivo de la aplicación **KLIB** (multilibro) es permitir la comparación de la información a diferentes niveles, por ejemplo, las NIIF o IFRS y con la contabilidad fiscal.
+El principal objetivo de la aplicación **KLIB** (Multilibro) es permitir la comparación de la información a diferentes niveles, por ejemplo, las NIIF o IFRS y con la contabilidad fiscal.
 
 
 ![](KLIB1.png)

@@ -33,6 +33,10 @@ El proceso de generación de nómina insertará tres documentos en cada generaci
 Para los tres documentos, en la pestaña Detalle se puede ver los conceptos discriminados por empleado. En esta última Imagen se observa el detalle del documento _PV – Provisión_.
 
 
+# Cuotas en Novedades - NNOC
+
+Esta opcion permite la modificacion solamente de la columna **QuantityPeriods**, en el cual se podra ubicar en la novedad requerida, modificar el registro y guardar de forma sencilla.
+![](nnoc1.png)
 
 
 

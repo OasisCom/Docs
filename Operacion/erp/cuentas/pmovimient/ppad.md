@@ -5,14 +5,13 @@ permalink: /Operacion/erp/cuentas/pmovimient/ppad
 editable: si  
 ---  
 
-## Pago Directo - PPAD  
+# Pago Directo - PPAD  
 
-Para las EPS se crea la opción "Pago Directo" [PPAD]; programa el Pago que realiza el Ministerio a los prestadores de salud.  
+Para las EPS se crea la opción Pago Directo - PPAD; programa el Pago que realiza el Ministerio a los prestadores de salud.  
 
 ![](ppad1.png)  
 
 
-****
 
 
 

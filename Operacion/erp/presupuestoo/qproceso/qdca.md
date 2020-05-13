@@ -5,7 +5,7 @@ permalink: /Operacion/erp/presupuestoo/qproceso/qdca
 editable: si
 ---
 
-# QDCA - Presupuesto Documentos Cierre
+# Presupuesto Documentos Cierre - QDCA
 
 La aplicación **QDCA** permite visualizar los documentos de cierre presupuestales y seleccionar los que se requieran pasar al siguiente año.  
 

@@ -5,9 +5,9 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrami
 editable: si
 ---
 
-# QRAMI - Apropiación Ingresos
+# Apropiación Ingresos - QRAMI
 
-La aplicación QRAMI permite ver un reporte mensual de la apropiación de ingresos.  
+La aplicación **QRAMI** permite ver un reporte mensual de la apropiación de ingresos.  
 
 Ingresamos a la aplicación y filtramos por mes y año. Damos click en el botón _Generar_.  
 

@@ -5,5 +5,5 @@ permalink: /Operacion/scm/compras/
 editable: si
 ---
 
-# COMPRAS
+# Compras
 

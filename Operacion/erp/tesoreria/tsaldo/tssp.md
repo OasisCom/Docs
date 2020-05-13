@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/tsaldo/tssp
 editable: si
 ---
 
-## Saldos de Tesorería - TSSP
+# Saldos de Tesorería - TSSP
 
 En esta aplicación se pueden consultar los saldos por periodos de las ubicaciones definidas como cajas, permite filtrar por los diferentes campos que la componen.  
 
@@ -18,10 +18,10 @@ Se puede consultar por Periodo, Año y Ubicación.
 
 **Periodo:** Ingresar el periodo a consultar.  
 **Año:** Ingresar el año de consulta.  
-**Libro:** indicar el libro contable del cual se desea consultar. Libro 1 - IFRS, libro 0 - LOCAL.  
+**Libro:** indicar el libro contable del cual se desea consultar. *Libro 1 - IFRS, libro 0 - LOCAL*   
 **Ubicación:** Indicar la ubicación de la cual se desea realizar la consulta.  
 **Cuenta:** Cuenta contable de la cual se realiza la consulta.  
-**Moneda:** muestra el tipo de moneda utilizada. Los tipos de moneda son parametrizables en la aplicación **BMON**.  
+**Moneda:** muestra el tipo de moneda utilizada. Los tipos de moneda son parametrizables en la aplicación [**BMON**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
 **Anterior:** Valor numérico de la cuenta antes de iniciar el periodo.  
 **Débito:** Valor numérico de movimientos debito realizados durante el periodo.  
 **Crédito:** Valor numérico de movimientos crédito realizados durante el periodo.  
