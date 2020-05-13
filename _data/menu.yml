@@ -429,8 +429,16 @@
           subitems:
             - text: Presupuesto de Contabilidad
               url: /Operacion/erp/presupuesto/qcontabili/
+              subitems:
+              - text: Movimientos de Presupuesto de Contabilidad
+                url: /Operacion/erp/presupuesto/qcontabili/qmov                                                       
             - text: Reportes Ppto Cont
               url: /Operacion/erp/presupuesto/qcreporte/
+              subitems:
+              - text: Ejecución Presupuestal por Cuenta
+                url: /Operacion/erp/presupuesto/qcreporte/qrec               
+              - text: Ejecución Presupuestal - Centro de Costo
+                url: /Operacion/erp/presupuesto/qcreporte/qrce              
             - text: Presupuesto de Tesoreria
               url: /Operacion/erp/presupuesto/qtesoreria/
             - text: Reportes
