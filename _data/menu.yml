@@ -919,7 +919,6 @@
               subitems:
               - text: Presupuesto de Compras
                 url: /Operacion/scm/compras/oconsulta/qmovc                
-                
         - text: Contratos
           url: /Operacion/scm/contratos/
           subitems:
