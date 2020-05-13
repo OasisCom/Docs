@@ -297,6 +297,8 @@ Muestra de la funcionalidad en **APEM**
 ![](scam51.png)  
 
 Muestra del **APEM** antes de aplicar la funcionalidad.  
+![](scam52.png)  
+Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido en **SCAM**.  
 
 
 
