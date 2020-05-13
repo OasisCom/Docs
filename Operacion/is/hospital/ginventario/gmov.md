@@ -15,20 +15,13 @@ editable: si
 # Movimientos de Inventario - GMOV
 
 
-
-
-
 ## [**GMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
 
 
 
-Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.  
+Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
 
-
-
-![](gmov1.png)
-
-
+![](gmov1.png)  
 
 **Documento:** Nombre de documento parametrizado con anterioridad en la aplicación **BDOC**.  
 
