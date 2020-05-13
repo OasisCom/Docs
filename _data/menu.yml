@@ -786,7 +786,7 @@
                 url: /Operacion/scm/facturacion/qvconsulta/qvpv
               - text: Punto de Venta - Producto
                 url: /Operacion/scm/facturacion/qvconsulta/qvpp
-            - text: Resportes de Presupuesto
+            - text: Reportes de Presupuesto
               url: /Operacion/scm/facturacion/qvreporte/
               subitems:
               - text: Segmento
