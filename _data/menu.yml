@@ -280,6 +280,8 @@
               subitems:
               - text: Suspensiones
                 url: /Operacion/erp/cartera/coperacion/cosu
+              - text: Ordenes Retenidas por Compañía
+                url: /Operacion/erp/cartera/coperacion/cope                
               - text: Pedidos Retenidos
                 url: /Operacion/erp/cartera/coperacion/copr
             - text: Creditos
@@ -341,6 +343,8 @@
               subitems:
               - text: Saldos
                 url: /Operacion/erp/cuentas/psaldo/pssp
+              - text: Análisis de Cuentas Vencidas
+                url: /Operacion/erp/cuentas/psaldo/pcac                
             - text: Movimientos
               url: /Operacion/erp/cuentas/pmovimient/
               subitems:
@@ -362,6 +366,10 @@
               subitems:
               - text: Orden de Pago
                 url: /Operacion/erp/cuentas/porden/pord
+              - text: Orden de Pago por Empresa
+                url: /Operacion/erp/cuentas/porden/pore                
+              - text: Pago Directo
+                url: /Operacion/erp/cuentas/porden/ppad                               
             - text: Procesos Especiales
               url: /Operacion/erp/cuentas/pproceso/
               subitems:
@@ -380,6 +388,8 @@
                 url: /Operacion/erp/cuentas/preporte/prau
               - text: Auxiliar de Cuentas Vencidas
                 url: /Operacion/erp/cuentas/preporte/prac
+              - text: Cruces - Diferencia en Cambio
+                url: /Operacion/erp/cuentas/preporte/prcd                
               - text: Cruces
                 url: /Operacion/erp/cuentas/preporte/prcr
               - text: Documento Equivalente
@@ -393,37 +403,17 @@
               url: /Operacion/erp/activos/hbasica/
               subitems:
               - text: Activos
-                url: /Operacion/erp/activos/hbasica/hact
-              - text: Detalle de Activos
-                url: /Operacion/erp/activos/hbasica/hacd
-              - text: Saldos por Periodo
-                url: /Operacion/erp/activos/hbasica/hassa
-              - text: Contratos de Arriendo
-                url: /Operacion/erp/activos/hbasica/haco
-              - text: Seguros
-                url: /Operacion/erp/activos/hbasica/hasg
-              - text: Avalúos
-                url: /Operacion/erp/activos/hbasica/haav
-              - text: Mantenimiento
-                url: /Operacion/erp/activos/hbasica/hama
-              - text: Impuestos
-                url: /Operacion/erp/activos/hbasica/haim                              
+                url: /Operacion/erp/activos/hbasica/hact               
             - text: Saldos
               url: /Operacion/erp/activos/hsaldo/
               subitems:
               - text: Saldos de Activos
-                url: /Operacion/erp/activos/hsaldo/hssp
-              - text: Saldo periódico por localización
-                url: /Operacion/erp/activos/hsaldo/hssl                
+                url: /Operacion/erp/activos/hsaldo/hssp               
             - text: Movimientos
               url: /Operacion/erp/activos/hmovimient/
               subitems:
               - text: Movimientos
-                url: /Operacion/erp/activos/hmovimient/hmov
-              - text: Consulta de Movimientos
-                url: /Operacion/erp/activos/hmovimient/hmcm
-              - text: Novedad del Activo
-                url: /Operacion/erp/activos/hmovimient/hnov             
+                url: /Operacion/erp/activos/hmovimient/hmov             
             - text: Contratos
               url: /Operacion/erp/activos/hcontrato/
             - text: Inventario Físico
@@ -432,13 +422,7 @@
               url: /Operacion/erp/activos/hproceso/
               subitems:
               - text: Depreciación
-                url: /Operacion/erp/activos/hproceso/hpde
-              - text: Inicio de año Activos Fijos
-                url: /Operacion/erp/activos/hproceso/hpia
-              - text: Genera Ajustes
-                url: /Operacion/erp/activos/hproceso/hpga
-              - text: Recálculo mensual de activos
-                url: /Operacion/erp/activos/hproceso/hprecal               
+                url: /Operacion/erp/activos/hproceso/hpde                          
             - text: Reportes
               url: /Operacion/erp/activos/hreporte/
               subitems:
@@ -449,13 +433,7 @@
               - text: Balance de Prueba Ajustado
                 url: /Operacion/erp/activos/hreporte/hrpa
               - text: Balance de Prueba Ajustado - HRPA1
-                url: /Operacion/erp/activos/hreporte/hrpa1
-              - text: Comparación de Saldos
-                url: /Operacion/erp/activos/hreporte/hrcs
-              - text: Activos por Responsable
-                url: /Operacion/erp/activos/hreporte/hrar
-              - text: Depreciación
-                url: /Operacion/erp/activos/hreporte/hrde                                
+                url: /Operacion/erp/activos/hreporte/hrpa1               
         - text: Presupuesto
           url: /Operacion/erp/presupuesto/
           subitems:
@@ -470,7 +448,9 @@
               - text: Ejecución Presupuestal por Cuenta
                 url: /Operacion/erp/presupuesto/qcreporte/qrec               
               - text: Ejecución Presupuestal - Centro de Costo
-                url: /Operacion/erp/presupuesto/qcreporte/qrce              
+                url: /Operacion/erp/presupuesto/qcreporte/qrce
+              - text: Ejecución Presupuestal - Costo Padre
+                url: /Operacion/erp/presupuesto/qcreporte/qrce1                
             - text: Presupuesto de Tesoreria
               url: /Operacion/erp/presupuesto/qtesoreria/
             - text: Reportes
@@ -543,6 +523,10 @@
                 url: /Operacion/erp/presupuestoo/qreporte/qram1
               - text: Apropiacion Ingresos
                 url: /Operacion/erp/presupuestoo/qreporte/qrami
+              - text: Ejecución Mensual Presupuesto Apropiación de la Vigencia
+                url: /Operacion/erp/presupuestoo/qreporte/qrami3
+              - text: Ejecución Mensual Presupuesto Cuenta por Cobrar
+                url: /Operacion/erp/presupuestoo/qreporte/qramic                
               - text: Apropiacion Reservas
                 url: /Operacion/erp/presupuestoo/qreporte/qrarn
               - text: Saldos Documentos Pto
@@ -555,6 +539,32 @@
                 url: /Operacion/erp/presupuestoo/qreporte/qrpc1
               - text: Resumen de Movimientos
                 url: /Operacion/erp/presupuestoo/qreporte/qrrm
+              - text: Ejecución General
+                url: /Operacion/erp/presupuestoo/qreporte/qrag                
+              - text: Ejecución General
+                url: /Operacion/erp/presupuestoo/qreporte/qrag1
+              - text: Contratos
+                url: /Operacion/erp/presupuestoo/qreporte/qrcx                
+              - text: Ejecución Presupuestal
+                url: /Operacion/erp/presupuestoo/qreporte/qrne
+              - text: Ejecución de Gastos
+                url: /Operacion/erp/presupuestoo/qreporte/qrp2
+              - text: Programación de Ingresos
+                url: /Operacion/erp/presupuestoo/qreporte/qrp3                
+              - text: Ejecución de Ingresos
+                url: /Operacion/erp/presupuestoo/qreporte/qrp4
+              - text: Registro Presupuestal por Rubro
+                url: /Operacion/erp/presupuestoo/qreporte/qrrr
+              - text: Libro Auxiliar Detallado de Presupuesto
+                url: /Operacion/erp/presupuestoo/qreporte/qrax
+              - text: Ejecución de Presupuesto por Centro de Costo
+                url: /Operacion/erp/presupuestoo/qreporte/qrcc
+              - text: Conciliación
+                url: /Operacion/erp/presupuestoo/qreporte/qrci
+              - text: Contratos
+                url: /Operacion/erp/presupuestoo/qreporte/qrcs
+              - text: Contratos
+                url: /Operacion/erp/presupuestoo/qreporte/qrct                               
         - text: Asociados
           url: /Operacion/erp/asociados/
           subitems:
@@ -562,12 +572,26 @@
               url: /Operacion/erp/asociados/zbasica/
             - text: Saldos
               url: /Operacion/erp/asociados/zsaldo/
+              subitems:
+              - text: Habilidad 
+                url: /Operacion/erp/asociados/zreporte/zhab             
             - text: Movimientos
               url: /Operacion/erp/asociados/zmovimient/
             - text: Procesos Especiales
               url: /Operacion/erp/asociados/zproceso/
             - text: Reportes
               url: /Operacion/erp/asociados/zreporte/
+              subitems:
+              - text: Asociados Hábiles 
+                url: /Operacion/erp/asociados/zreporte/zrah
+              - text: Asociados Inhábiles   
+                url: /Operacion/erp/asociados/zreporte/zrai                
+              - text: Certificados de Aportes    
+                url: /Operacion/erp/asociados/zreporte/zrce
+              - text: Libro de Accionistas    
+                url: /Operacion/erp/asociados/zreporte/zrla1                
+              - text: Libro de Asociados    
+                url: /Operacion/erp/asociados/zreporte/zrla2                          
     - text: Logistica SCM
       url: /Operacion/scm/
       subitems:
@@ -890,6 +914,12 @@
                 url: /Operacion/scm/compras/oreporte/orkp
               - text: Libro de Compras
                 url: /Operacion/scm/compras/oreporte/orlc
+            - text: Consultas
+              url: /Operacion/scm/compras/oconsulta/
+              subitems:
+              - text: Presupuesto de Compras
+                url: /Operacion/scm/compras/oconsulta/qmovc                
+                
         - text: Contratos
           url: /Operacion/scm/contratos/
           subitems:
@@ -1215,6 +1245,11 @@
               url: /Operacion/hrm/rhumanos/rexpediente/
             - text: Estructura
               url: /Operacion/hrm/rhumanos/restructura/
+              subitems:
+              - text: Cargos
+                url: /Operacion/hrm/rhumanos/restructura/rcar              
+              - text: Posición
+                url: /Operacion/hrm/rhumanos/restructura/rpos              
             - text: Seleccion
               url: /Operacion/hrm/rhumanos/rseleccion/
             - text: Capacitacion
@@ -1358,6 +1393,8 @@
                 url: /Operacion/crm/portal/cliente/eeson              
             - text: Proveedores
               url: /Operacion/crm/portal/proveedor/
+              - text: Imprime Estados de Cuenta Proveedores
+                url: /Operacion/crm/portal/proveedor/epsec              
             - text: Empleados
               url: /Operacion/crm/portal/empleado/
             - text: Servicio
@@ -2154,6 +2191,14 @@
     - text: Movil
       url: /Operacion/movil/
       subitems:
+        - text: Movimientos
+          url: /Operacion/movil/wmmoviment
+          subitems:
+            - text: Movimientos de inventario - Móvil
+              url: /Operacion/movil/wmmoviment/mimov
+            - text: Works Mobile
+              url: /Operacion/movil/wmmoviment/mitra  
+      subitems:
         - text: Faturas
           url: /Operacion/movil/jfac
         - text: Turnos
@@ -2166,26 +2211,6 @@
           url: /Operacion/movil/bter
         - text: Productos
           url: /Operacion/movil/bpro
-        - text: Inventario Físico Móvil
-          url: /Operacion/movil/ifisico
-          subitems:
-            - text: Prepara Inventario Físico - Móvil
-              url: /Operacion/movil/ifisico/ifpi
-            - text: Asignación de responsable - Móvil
-              url: /Operacion/movil/ifisico/ifis
-            - text: Calcula diferencias - Móvil
-              url: /Operacion/movil/ifisico/ifcd
-            - text: Diferencias - Móvil
-              url: /Operacion/movil/ifisico/ifdi
-            - text: Genera ajustes - Móvil
-              url: /Operacion/movil/ifisico/ifaj          
-        - text: Movimientos
-          url: /Operacion/movil/wmmoviment
-          subitems:
-            - text: Movimientos de inventario - Móvil
-              url: /Operacion/movil/wmmoviment/mimov
-            - text: Works Mobile
-              url: /Operacion/movil/wmmoviment/mitra          
 - text: Implantacion
   url: /Implantacion/
   subitems:

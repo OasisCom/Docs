@@ -142,9 +142,42 @@ Ahora, se procede a procesar
 
 ![](oord8.png)  
 
-En este momento, se ingresa a la aplicación [Facturas de compra - OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac).  En el campo **_Documento_** se selecciona **_FP_** de Facturas proveedor, en el campo **_Ubicación_** Cero (0) y en el campo **_Concepto_** también **_FP_** de Facturas proveedor 
+En este momento, se ingresa a la aplicación [Facturas de compra - OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac).  En el campo **_Documento_** se selecciona **_FP_** de Facturas de compra, en el campo **_Ubicación_** Cero (0) y en el campo **_Concepto_** también **_FP_** de Facturas proveedor, en el campo **_Motivo_** cero (0) de indefinido, en el campo **_Tercero_**, se busca y selecciona el mismo tercero de la Orden de compra, en los campos **_CondiciónPago_** y **_TipoPrecio_** el método de pago, en el campo **_FacturaChar_** se tiene la posibilidad de insertar el prefijo o código que se utiizará en las facturas; claramente eso varía según la empresa.  
+
+![](oord9.png)  
+
+![](oord10.png)
+
+Ahora, se va a relacionar la Orden de compra al diligenciar los siguientes campos:  
+
+![](oord11.png)  
+
+Se regresa a la Orden de compra y se verifica el **_Documento_** que se tiene:  
+
+![](oord12.png)  
+
+![](oord13.png)
+
+Luego, se verifica el campo **_Ubicación_** en la Orden de compra  
+
+![](oord14.png)  
+
+![](oord15.png)
+
+Después de diligenciar estos dos campos, se abre el Zoom en el campo **_Número1_** y se selecciona la Orden de compra;en caso de que no se sepa cuál es, se regresa a la aplicación **OORD** y se verifica el número  
+
+![](oord16.png)  
+
+![](oord17.png)
+
+Después de diligenciar estos campos, se guarda el registro.  Como se puede ver en el ejemplo, automáticamente carga el detalle con los mismos datos de la Orden de compra; lo que evidencia que hizo la relación correctamente.  
+
+![](oord18.png)  
+
+En este momento, se procesa el Documento
 
 
+![](oord19.png)
 
 
 
