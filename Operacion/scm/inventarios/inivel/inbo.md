@@ -23,7 +23,7 @@ Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**
 * Para facilitar la consulta de los niveles de stock por bodega, se han agrego los campos: **marca, nombre marca, clasificación, nombre clasificación**.  
     ![](inbo5.png)  
 
-# Funcionalidad del zoom en **INBO - INPR**:  
+##Funcionalidad del zoom en **INBO - INPR**:  
 Este zoom  lista los productos asociados según el producto activo; para elegir cual se debe comprar.  
 Esta parametrizacion aplica de la misma forma, para las dos opciones, **INBO - INPR**:  
 
