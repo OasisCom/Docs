@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presupuesto de Compras
-permalink: /Operacion/erp/presupuesto/qcompras/qmovc
+permalink: /Operacion/scm/compras/oconsulta/qmovc
 editable: si
 ---
 
