@@ -1394,7 +1394,7 @@
             - text: Proveedores
               url: /Operacion/crm/portal/proveedor/
               - text: Imprime Estados de Cuenta Proveedores
-                url: /Operacion/crm/portal/proveedor/epsec              
+                url: /Operacion/crm/portal/proveedor/epsec                
             - text: Empleados
               url: /Operacion/crm/portal/empleado/
             - text: Servicio
