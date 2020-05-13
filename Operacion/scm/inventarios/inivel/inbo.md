@@ -44,12 +44,12 @@ Los dos siguientes campos son para indicarle, sobre cuales campos que son parte 
 ![](inbo8.png)  
 Teniendo clara la configuración del botón:  
 Ingresamos al programa **INBO:**  
-seleccionamos el producto 200013 ya que se tiene configurado.  
-le damos clic en el botón configurado.  
+Seleccionamos el producto 200013 ya que se tiene configurado.  
+Le damos clic en el botón configurado.  
 
 ![](inbo9.png)  
 
-
+Podemos validar que se carga de manera correcta la lista.  
 
 
 
