@@ -9,7 +9,9 @@ editable: si
 
 
 Para poder continuar con el proceso de selección, previamente se deben encontrar registrados en la aplicación **BTER – Terceros**, los aspirantes que se postularon al cargo registrado anteriormente en la aplicación **RCAR – Cargos**. 
-Los registros en la aplicación **BTER** de los aspirantes al cargo, deben tener activo el flag de _Empleado_, de no ser así, se tendrán inconvenientes en el proceso de selección al momento de crear el expediente.
+Los registros en la aplicación **BTER** de los aspirantes al cargo, deben tener activo el flag de _Empleado_, de no ser así, se tendrán inconvenientes en el proceso de selección al momento de crear el expediente.  
+
+![](rsel6.png)
 
 Registrados los aspirantes en la aplicación **BTER**, ingresamos a la aplicación **SREL – Selección** y agregamos un nuevo registro en el maestro, diligenciamos el número de identificación de la persona que solicita la vacante y el número de identificación de la persona que la autoriza y damos click en _guardar_.
 

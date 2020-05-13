@@ -220,6 +220,13 @@ Con el fin de consultar los registros creados por concepto recepción en la apli
 Se podrá crear un registro nuevo a través de la opción ***oact*** de forma sencilla.
 ![](imagenes/oact1.png)  
 
+**Detalle:**  
+Se relacionan los productos y se descripcion.  
+Vida util: este campo realiza el calculo, cuando no se conoce la fecha de fabricación; se toma que la vida útil del medicamento es de 2 años o 24 meses. Y se refleja en EITRA.  
+
+![](oact1.png)
+![](oact2.png)
+
 **Tipos de Defectos**  
 
 A diferencia de la opción de [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion) en esta aplicación se pueden crear tanto Defectos Técnicos como Defectos Administrativos en las pestañas del detalle.
