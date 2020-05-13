@@ -1,7 +1,7 @@
 ---
 layout: default  
 title:  Pago Directo  
-permalink: /Operacion/erp/cuentas/pmovimient/ppad  
+permalink: /Operacion/erp/cuentas/porden/ppad  
 editable: si  
 ---  
 
