@@ -23,9 +23,9 @@ Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**
 * Para facilitar la consulta de los niveles de stock por bodega, se han agrego los campos: **marca, nombre marca, clasificación, nombre clasificación**.  
     ![](inbo5.png)  
 
-Funcionalidad del zoom en **INBO - INPR**:  
+# Funcionalidad del zoom en **INBO - INPR**:  
 Este zoom  lista los productos asociados según el producto activo; para elegir cual se debe comprar.  
-Esta parametrizacion aplica de la misma forma para las dos opciones, **INBO - INPR**:  
+Esta parametrizacion aplica de la misma forma, para las dos opciones, **INBO - INPR**:  
 
 Se realiza la siguiente parametrización del botón **asignar_producto** en **SPRO:**  
 **DataType**: Se le indica que es de tipo formulario (Grilla/Form)  
@@ -53,7 +53,7 @@ Le damos clic en el botón configurado.
 Podemos validar que se carga de manera correcta la lista.  
 
 ![](inbo10.png)  
-Realizamos la actualización dandole en el boton submit.  
+Realizamos la actualización aplicando el boton submit.  
 Este zoom  lista los productos asociados según el producto activo; para elegir cual se debe comprar.  
 
 
