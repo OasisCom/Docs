@@ -277,4 +277,29 @@ Al abrir la opción (en este caso la ERRCL - Certificado Laboral) la aplicación
 
 Para generar el reporte _ERRCL - Certificado Laboral_, se debe parametrizar en el _SPER - Perfil_ el tercero de un documento existente en la opción _NCNT - Contratos_.  
 
-![](scam38.png)
+![](scam38.png)  
+
+---
+
+##LISTAS Y BLOQUEO DE PARAMETROS POR MEDIO DE SCAM PARA PROCESOS ESPECIALES.
+
+1.- En **SPRO**, actualmente se parametrizan las listas, valores por defecto y bloque de los campos para procesos especiales, con el nuevo desarrollo, esa parametrización queda igual, pero se le suma la parametrización del SCAM como se explica a continuación:																																													
+- La parametrización se divide en 2 partes:  
+
+•	La primera para las listas del proceso especial, estas listas pueden definirse de 2 formas, la primera mediante una consulta a la base de datos (Query) definida en el campo QUERYSQL del **SCAM**, la cual debe tener únicamente 3 campos; el valor a enviar como parámetro, el texto a mostrar en la lista, y el nombre del parámetro que tomara estos datos, dicho nombre del parámetro debe ir en minúscula. La segunda forma para definir una lista es utilizando el **BCRC**, se crea un maestro **BCRC** con el programid del proceso especial y a dicho maestro se le definen en el detalle todos los datos de los campos que se van a manejar para el proceso especial, es decir, que si en el proceso especial hay 2 campos tipo lista, en el BCRC se definirán los valores que se tomaran en ambos campos. Para el **BCRC**, la parametrización tomada son los 3 campos del detalle: código, nombre característica y nombre característica 1, los cuales definen el valor a enviar, el nombre en el listado y el nombre del parámetro que tomara el dato.	
+•	La segunda parte de la parametrización en **SCAM**, es para los bloqueos de campos, Zooms y Valores por defecto, dicha parametrización es por campos independientes, es decir, un registro en el **SCAM** por cada campos que se requiera parametrizar. En esta definición, simplemente se crea el registro en SCAM con el nombre del campo, igual que como se define en el **SPRO**, con su valor por defecto, check de habilitación, y nombre del zoom que tomara, de ser requerido.																													
+Luego de hacer la parametrización en **SCAM**, no se requiere salir de la aplicación para ver los cambios, pues el proceso especial verifica los datos, cuando va a abrir nuevamente la opción.
+Solo se requiere salir de la sesión actual, si se realizan cambios en el **SPRO**.  
+PARAMETROS EN SCAM PARA EL APEM.  
+![](scam50.png)  
+
+Muestra de la funcionalidad en **APEM**  
+![](scam51.png)  
+
+Muestra del **APEM** antes de aplicar la funcionalidad.  
+![](scam52.png)  
+Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido en **SCAM**.  
+
+
+
+
