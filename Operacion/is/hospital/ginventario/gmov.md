@@ -9,11 +9,8 @@ editable: si
 # Movimientos de Inventario - GMOV
 
 
-## [**GMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
-
-
-
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
+
 
 ![](gmov1.png)  
 
@@ -278,8 +275,6 @@ Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:
 ![](mord10.png)
 
 
-
-
 # Movimientos de Inventario - GMOV
 
 
@@ -338,12 +333,6 @@ Se puede validar que cada vez que se ingresa valores numéricos al darle tab el 
 
 
 Para cuando se ingresa un valor alfanumérico; el sistema realiza la consulta del consecutivo del documento BT = BASICO TERCEROS.  
-
-
-
-
-
-
 
     
 
@@ -516,10 +505,7 @@ Una vez creada la orden de servicio y los productos correspondientes, se debe re
 Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:  
 
 
-
 ![](mord8.png)
-
-
 
 
 
@@ -548,13 +534,3 @@ Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:
 
 
 ![](mord10.png)
-
-
-
-
-
-
-
-
-
->>>>>>> origin/master
