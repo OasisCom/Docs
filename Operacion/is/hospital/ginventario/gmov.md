@@ -5,12 +5,9 @@ permalink: /Operacion/is/hospital/ginventario/gmov
 editable: si
 ---
 
-
 # Movimientos de Inventario - GMOV
 
-
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
-
 
 ![](gmov1.png)  
 
@@ -63,16 +60,10 @@ Se puede validar que cada vez que se ingresa valores numéricos al darle tab el 
 
 
 Para cuando se ingresa un valor alfanumérico; el sistema realiza la consulta del consecutivo del documento BT = BASICO TERCEROS.  
-
-    
-
+---
 En el detalle:  
 
-
-
 ![](imov2.png)  
-
-
 
 **Renglón:** Renglón de detalle asociado al movimiento.  
 
@@ -98,35 +89,11 @@ En el detalle:
 
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
-
-
-    
-
-
-
-
-
 ![](imov21.png)  
-
-
-
-
 
 Detalle del **GMOV**.  
 
-
-
 ![](imov22.png)
-
-
-
-
-
-* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
-
-
-![](imov23.png)
-
 
 
 ## [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)
