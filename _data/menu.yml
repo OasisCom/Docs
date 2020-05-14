@@ -891,7 +891,7 @@
                 url: /Operacion/scm/compras/oproceso/oplf
               - text: Genera Factura de Compra
                 url: /Operacion/scm/compras/oproceso/opgf
-            - text: Resportes
+            - text: Reportes
               url: /Operacion/scm/compras/oreporte/
               subitems:
               - text: Requerimiento vs Compra vs Venta
