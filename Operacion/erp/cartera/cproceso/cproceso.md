@@ -13,9 +13,10 @@ editable: si
 
 
 
-# Procesos Especiales
+# Procesos Especiales  
 
 
+En esta sección podrán encontrar las aplicaciones de la generación de los diferentes procesos que se pueden obtener en el módulo de cartera.  
 
 Las aplicaciones utilizadas aquí son:
 
