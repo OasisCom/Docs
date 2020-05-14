@@ -670,6 +670,20 @@ Una vez visualicemos el mensaje "Empaque terminado correctamente" Finalizaremos 
 
 ![](Imagenes/Mitra9.png)  
 
+#Registro de Conteos - MIFIS  
+Esta aplicación permite el registro de los diferentes conteos, presentando además los datos de la toma de cada registro como la fecha, ubicación del punto donde se realizó el conteo, cantidad del producto contado, y características inherentes a cada producto como presentación, vencimiento, control etc.  
+
+En **MIFIS** se debe registrar los conteos realizados del inventario, al ingresar se debe consultar por fecha y ubicación.  
+El registro de conteos es posible realizarlo por clasificacion.  
+![](mifis1.png)  
+El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la parametrizacion existente.  
+
+![](mifis2.png)  
+
+Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
+
+
+
 
 
 
