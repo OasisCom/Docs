@@ -53,14 +53,13 @@ Si en el campo de código cliente se registran sólo números al darle tab el si
 
 Iniciamos el proceso dando el en botón de nuevo cliente.  
 
-Se puede validar que cada vez que se ingresa valores numéricos al darle tab el campo de tercero queda con el mismo valor ingresado.  
+Se puede validar que cada vez que se ingresa valores numéricos al darle tab el campo de tercero queda con el mismo valor ingresado.   
 
-![](gmov3.png)  
-
-
+![](gmov3.png)   
 
 Para cuando se ingresa un valor alfanumérico; el sistema realiza la consulta del consecutivo del documento BT = BASICO TERCEROS.  
----
+
+
 En el detalle:  
 
 ![](imov2.png)  
