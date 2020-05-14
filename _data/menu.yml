@@ -533,7 +533,7 @@
                 url: /Operacion/erp/presupuestoo/qreporte/qrda
               - text: Saldos Documentos Pto
                 url: /Operacion/erp/presupuestoo/qreporte/qrda1
-              - text: Ejecucion de Gastos (SCHIP)
+              - text: Ejecucion de Gastos
                 url: /Operacion/erp/presupuestoo/qreporte/qrp1
               - text: Plan de Compras
                 url: /Operacion/erp/presupuestoo/qreporte/qrpc1
