@@ -1,6 +1,6 @@
 ---
 layout: default  
-title:Programas Especiales   
+title: Programas Especiales   
 permalink: /Operacion/is/salud/ebasica/epes  
 editable: si  
 ---  

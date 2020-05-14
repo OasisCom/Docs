@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proveedores
-permalink:/Operacion/is/salud/efactura/movaud/eeaco
+permalink: /Operacion/is/salud/efactura/movaud/eeaco
 editable: si
 ---
 
