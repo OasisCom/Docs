@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Solicitud de Autorización
-permalink:/Operacion/is/salud/eautorizacion/movaut/esoa
+permalink: /Operacion/is/salud/eautorizacion/movaut/esoa
 editable: si
 ---
 
 
 # ESOA - Solicitud de Autorizaciones
 
-m
+
 >+ [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
 >+ [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
 >+ [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
