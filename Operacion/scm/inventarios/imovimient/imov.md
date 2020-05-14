@@ -7,20 +7,60 @@ editable: si
 
 # Movimientos de Inventario - IMOV
 
+
 **Menú**
 
-1. [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)  
-2. [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
-3. [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
-4. [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
-5. [**Ingreso de mercancía importada**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada)  
-6. [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
+
+>+ [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
+>+ [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
+>+ [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
+>+ [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
+>+ [**Ingreso de mercancía importada**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada)  
+>+ [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
 
 
 
 ## [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.  
+
+Ingresamos a la aplicación y creamos un nuevo registro **+**. 
+
+![](imova.png)
+
+En este caso se realiza una entrada a inventarios 
+
+![](imova1.png)
+
+* **Documento:** En este caso se escoge la opcion *EN* que hace referencia a Entradas de Inventario.
+
+![](imova2.png)
+
+* **Ubicación:** Número de ubicación de la empresa en donde se encuentra el producto, esto se parametriza previamente en la aplicación **BUBI**.   
+* **Concepto:** Este debe ser igual al documento, en este caso *EN*.  
+* **Tercero:** Seleccionar tercero correspondiente. 
+
+![](imova3.png)
+
+Para realizar el detalle, se adiciona un nuevo registro, en el campo producto, se selecciona el producto el cual se requiere realizar la entrada al inventario, ya sea con el ZOOM o diligenciando el consecutivo del producto. La cantidad del producto y costo unitario es el valor por unidad del producto seleccionado, ![](guardar.png) se guarda el detalle.  
+
+Antes de procesar el registro se debe ingresar a la aplicación **ICKU** para verificar entradas de ese producto en el inventario. 
+
+![](icku1.png)
+
+Para realizar esta verificación se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligencio en el registro. 
+
+![](icku2.png)
+
+Filtrando el registro nos dirigimos al campo entradas, para este caso este producto tiene 200 entradas a inventario. En el detalle se puede evidenciar los movimientos de inventario realizados con este producto como especificaciones como el tercero, la fecha de movimiento, cantidades y tambien el documento, para verificar si es una entrada o una salida. 
+
+Luego de verificar el producto en esta aplicación, en la aplicacion **IMOV** se procesa ![](procesar.png) el movimiento.
+
+Al momento de procesar el documento, automaticamente se ve afectado el campo entradas en la aplicación **ICKU**. 
+
+![](icku3.png)
+
+*****
 
 ![](imov1.png)
 
@@ -56,14 +96,15 @@ En el detalle:
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
 ***********************
-* Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en linea'. 
-Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:  
-* Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta sacar.  
+* Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en línea'. 
+Se inserta el renglón nuevo en el detalle, con el producto y sus características propias, se guarda y al dar clic al botón:  
+* Escenario uno: este emitirá su saldo al final del renglón, siempre y cuando el saldo en línea sea inferior al que intenta sacar.  
 
 
 ![](imov21.png)
 
-## [Pestaña Contabilización Resumida]  
+## [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#pestaña-contabilización-resumida)
+
 
 Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
 
@@ -74,7 +115,7 @@ Detalle del **IMOV**.
 ![](imov22.png)
 
 
-* Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
+* Escenario dos: su saldo en línea permite realizar la transacción, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en línea para este producto.  
 
 
 ![](imov23.png)
@@ -83,7 +124,7 @@ Detalle del **IMOV**.
 
 La funcionalidad de _Vista Previa_ muestra los movimientos de inventario despachado, relacionando la información diligenciada en la aplicación.  
 
-Para acceder a la vista previa, seleccionamos un registro del maestro de la aplicación y damos click en el botón _Presentación preliminar_ ![](lupa.png) ubicado en la barra de herramientas.  
+Para acceder a la vista previa, seleccionamos un registro del maestro de la aplicación y damos clic en el botón _Presentación preliminar_ ![](lupa.png) ubicado en la barra de herramientas.  
 
 ![](imov9.png)
 
@@ -142,7 +183,7 @@ Para consultar los documentos filtraremos por la fecha en que se realizó el inv
 
 En la aplicación se generó un documento _EN - Entradas al inventario_ por concepto _EA - Entrada por ajuste_, el cual corresponde a las unidades que se encuentran físicamente pero que no estaban registradas en el sistema. Por otro lado, también se generó el documento _SA - Salidas del inventario_ por concepto _SA - Salida por ajuste_, el cual corresponde a las unidades de más que se encuentran registradas en el sistema pero que no existen físicamente. En el detalle de cada documento se podrán ver los productos a los cuales se les realizó ajuste.  
 
-Validada la información procesamos los documentos dando click en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas, esto permitirá que el inventario sea ajustado correctamente.  
+Validada la información procesamos los documentos dando clic en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas, esto permitirá que el inventario sea ajustado correctamente.  
 
 ![](imov8.png)
 
@@ -182,7 +223,7 @@ La entrada de inventarios se ingresa con moneda 0 correspondiente a pesos. Se de
 
 ![](imov16.png)
 
-Diligenciado el formulario damos click en el botón _Guardar_. El sistema al guardar el maestro arrojará automáticamente el detalle de la importación con los costos por producto en pesos colombianos.  
+Diligenciado el formulario damos clic en el botón _Guardar_. El sistema al guardar el maestro arrojará automáticamente el detalle de la importación con los costos por producto en pesos colombianos.  
 
 ![](imov17.png)
 
@@ -239,3 +280,4 @@ Posteriormente, se procesa el documento de salida de inventario en IMOV.
 
 
 Conoce el proceso completo de WorkFlow Task [**Aquí**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/morden/mord#workflow-task).  
+
