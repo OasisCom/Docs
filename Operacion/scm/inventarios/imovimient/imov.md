@@ -12,6 +12,7 @@ editable: si
 
 
 >+ [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
+>+ [**Creación de Nuevo registro - IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-de-nuevo-registro---imov)  
 >+ [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
 >+ [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
 >+ [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
@@ -23,44 +24,6 @@ editable: si
 ## [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.  
-
-Ingresamos a la aplicación y creamos un nuevo registro **+**. 
-
-![](imova.png)
-
-En este caso se realiza una entrada a inventarios 
-
-![](imova1.png)
-
-* **Documento:** En este caso se escoge la opcion *EN* que hace referencia a Entradas de Inventario.
-
-![](imova2.png)
-
-* **Ubicación:** Número de ubicación de la empresa en donde se encuentra el producto, esto se parametriza previamente en la aplicación **BUBI**.   
-* **Concepto:** Este debe ser igual al documento, en este caso *EN*.  
-* **Tercero:** Seleccionar tercero correspondiente. 
-
-![](imova3.png)
-
-Para realizar el detalle, se adiciona un nuevo registro, en el campo producto, se selecciona el producto el cual se requiere realizar la entrada al inventario, ya sea con el ZOOM o diligenciando el consecutivo del producto. La cantidad del producto y costo unitario es el valor por unidad del producto seleccionado, ![](guardar.png) se guarda el detalle.  
-
-Antes de procesar el registro se debe ingresar a la aplicación **ICKU** para verificar entradas de ese producto en el inventario. 
-
-![](icku1.png)
-
-Para realizar esta verificación se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligencio en el registro. 
-
-![](icku2.png)
-
-Filtrando el registro nos dirigimos al campo entradas, para este caso este producto tiene 200 entradas a inventario. En el detalle se puede evidenciar los movimientos de inventario realizados con este producto como especificaciones como el tercero, la fecha de movimiento, cantidades y tambien el documento, para verificar si es una entrada o una salida. 
-
-Luego de verificar el producto en esta aplicación, en la aplicacion **IMOV** se procesa ![](procesar.png) el movimiento.
-
-Al momento de procesar el documento, automaticamente se ve afectado el campo entradas en la aplicación **ICKU**. 
-
-![](icku3.png)
-
-*****
 
 ![](imov1.png)
 
@@ -95,13 +58,17 @@ En el detalle:
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos.  
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
-***********************
-* Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en línea'. 
+
+**Nota:** Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en línea'. 
 Se inserta el renglón nuevo en el detalle, con el producto y sus características propias, se guarda y al dar clic al botón:  
 * Escenario uno: este emitirá su saldo al final del renglón, siempre y cuando el saldo en línea sea inferior al que intenta sacar.  
 
 
 ![](imov21.png)
+
+
+
+
 
 ## [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#pestaña-contabilización-resumida)
 
@@ -141,6 +108,45 @@ Al exportarlo en formato PDF.
 La información de la sección de _Talla_: cantidad, código antiguo, talla y color, el sistema la toma de los registros de la aplicación [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro).  
 
 ![](imov19.png)
+
+
+## [**Creación de Nuevo registro - IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-de-nuevo-registro---imov)
+
+Ingresamos a la aplicación **IMOV** crear un nuevo registro **+**. 
+
+![](imova.png)
+
+En este caso se realiza una entrada a inventarios 
+
+![](imova1.png)
+
+* **Documento:** En este caso se escoge la opción *EN* que hace referencia a Entradas de Inventario.
+
+![](imova2.png)
+
+* **Ubicación:** Número de ubicación de la empresa en donde se encuentra el producto, esto se parametriza previamente en la aplicación **BUBI**.   
+* **Concepto:** Este debe ser igual al documento, en este caso *EN*.  
+* **Tercero:** Seleccionar tercero correspondiente. 
+
+![](imova3.png)
+
+Para realizar el detalle, se adiciona un nuevo registro, en el campo producto, se selecciona el producto el cual se requiere realizar la entrada al inventario, ya sea con el ZOOM o diligenciando el consecutivo del producto. La cantidad del producto y costo unitario es el valor por unidad del producto seleccionado, ![](guardar.png) se guarda el detalle.  
+
+Antes de procesar el registro se debe ingresar a la aplicación **ICKU** para verificar entradas de ese producto en el inventario. 
+
+![](icku1.png)
+
+Para realizar esta verificación se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligencio en el registro. 
+
+![](icku2.png)
+
+Filtrando el registro nos dirigimos al campo entradas, para este caso este producto tiene 200 entradas a inventario. En el detalle se puede evidenciar los movimientos de inventario realizados con este producto como especificaciones como el tercero, la fecha de movimiento, cantidades y también el documento, para verificar si es una entrada o una salida. 
+
+Luego de verificar el producto en esta aplicación, en la aplicación **IMOV** se procesa ![](procesar.png) el movimiento.
+
+Al momento de procesar el documento, automáticamente se ve afectado el campo entradas en la aplicación **ICKU**. 
+
+![](icku3.png)
 
 
 ## [Producción](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)
