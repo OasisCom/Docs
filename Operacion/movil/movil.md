@@ -682,7 +682,7 @@ El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la para
 
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
 
-
+---
 
 
 
