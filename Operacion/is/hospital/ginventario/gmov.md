@@ -51,7 +51,7 @@ Esta aplicación permite la ejecución de los principales movimientos que afecta
 
 Si en el campo de código cliente se registran sólo números al darle tab el sistema debe retornar lo mismo en el campo tercero.  
 
-Iniciamos el proceso dando el en botón de nuevo cliente.  
+Iniciamos el proceso dando en el botón de nuevo cliente.  
 
 Se puede validar que cada vez que se ingresa valores numéricos al darle tab el campo de tercero queda con el mismo valor ingresado.   
 
