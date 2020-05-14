@@ -1,16 +1,9 @@
-
 ---
-
 layout: default
-
 title: Movimientos de inventario
-
 permalink: /Operacion/is/hospital/ginventario/gmov
-
 editable: si
-
 ---
-
 
 
 # Movimientos de Inventario - GMOV
