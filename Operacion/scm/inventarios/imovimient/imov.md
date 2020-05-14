@@ -13,8 +13,8 @@ editable: si
 
 >+ [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
 >+ [**Creación Entradas y Salidas de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-entradas-y-salidas-de-inventario)
->>[**Entradas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#entradas-de-inventario)  
->>[**Salidas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salidas-de-inventario)  
+>>* [**Entradas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#entradas-de-inventario)  
+>>* [**Salidas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salidas-de-inventario)  
 >+ [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
 >+ [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
 >+ [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
@@ -67,9 +67,6 @@ Se inserta el renglón nuevo en el detalle, con el producto y sus característic
 
 
 ![](imov21.png)
-
-
-
 
 
 ## [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#pestaña-contabilización-resumida)
@@ -153,6 +150,7 @@ Al momento de procesar el documento, automáticamente se ve afectado el campo en
 ![](icku3.png)
 
 ### [**Salidas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salidas-de-inventario)  
+
 
 
 
