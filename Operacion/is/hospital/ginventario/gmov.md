@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 
 layout: default
@@ -13,7 +13,7 @@ editable: si
 
 
 
-# Movimientos de Inventario - GMOV1
+# Movimientos de Inventario - GMOV
 
 
 ## [**GMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
