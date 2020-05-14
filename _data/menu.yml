@@ -1390,8 +1390,8 @@
                 url: /Operacion/crm/portal/cliente/eaopo
               - text: WEB Application Affiliates
                 url: /Operacion/crm/portal/cliente/eeson              
-            - text: Proveedores
-              url: /Operacion/crm/portal/proveedor/
+              - text: Proveedores
+                url: /Operacion/crm/portal/proveedor/
               - text: Imprime Estados de Cuenta Proveedores
                 url: /Operacion/crm/portal/proveedor/epsec                
             - text: Empleados
