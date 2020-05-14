@@ -12,7 +12,7 @@ editable: si
 
 
 >+ [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)
->+ [**Creación de Nuevo registro - IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-de-nuevo-registro---imov)  
+>+ [**Creación Entradas y Salidas de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-entradas-y-salidas-de-inventario)
 >+ [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
 >+ [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
 >+ [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
@@ -110,7 +110,7 @@ La información de la sección de _Talla_: cantidad, código antiguo, talla y co
 ![](imov19.png)
 
 
-## [**Creación de Nuevo registro - IMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-de-nuevo-registro---imov)
+## [**Creación Entradas y Salidas de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-entradas-y-salidas-de-inventario)
 
 Ingresamos a la aplicación **IMOV** crear un nuevo registro **+**. 
 
