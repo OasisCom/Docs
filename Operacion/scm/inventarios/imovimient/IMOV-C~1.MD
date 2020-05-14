@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Movimientos de inventario
-permalink: /Operacion/is/hospital/ginventario/gmov
+permalink: /Operacion/iss/hospital/ginventario/gmov
 editable: si
 ---
 
