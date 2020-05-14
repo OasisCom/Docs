@@ -64,12 +64,6 @@ Se puede validar que cada vez que se ingresa valores numéricos al darle tab el 
 
 Para cuando se ingresa un valor alfanumérico; el sistema realiza la consulta del consecutivo del documento BT = BASICO TERCEROS.  
 
-
-
-
-
-
-
     
 
 En el detalle:  
@@ -131,16 +125,11 @@ Detalle del **GMOV**.
 * Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
 
 
-
-
-
 ![](imov23.png)
 
 
 
 ## [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)
-
-
 
 La funcionalidad de _Vista Previa_ muestra los movimientos de inventario despachado, relacionando la información diligenciada en la aplicación.  
 
@@ -149,41 +138,25 @@ La funcionalidad de _Vista Previa_ muestra los movimientos de inventario despach
 Para acceder a la vista previa, seleccionamos un registro del maestro de la aplicación y damos click en el botón _Presentación preliminar_ ![](lupa.png) ubicado en la barra de herramientas.  
 
 
-
 ![](imov9.png)
-
 
 
 En seguida, se podrá ver el documento del movimiento de inventario seleccionado.  
 
 
-
 El documento podrá ser exportado en formato de Excel, PDF o Word.  
-
-
 
 ![](imov10.png)
 
-
-
 Al exportarlo en formato PDF.  
 
-
-
 ![](imov11.png)
-
-
 
 La información de la sección de _Talla_: cantidad, código antiguo, talla y color, el sistema la toma de los registros de la aplicación [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro).  
 
 
 
 ![](imov19.png)
-
-
-
-
-
 
 
 Cabe resaltar que, si al momento de realizar este registro no recordamos el número del pedido, en el campo número 1 se puede realizar doble clic y el sistema abre una ventana emergente con los pedidos relacionados a ese tercero y en esa respectiva ubicación:  
@@ -208,15 +181,7 @@ Al guardar el registro el sistema nos arroja automáticamente el detalle de acue
 
 Se procesa el registro   
 
-
-
 ![](imov6.png)
-
-
-
-
-
-
 
 
 
@@ -226,16 +191,14 @@ Para verificar que el inventario haya sido ajustado correctamente ingresaremos a
 
 
 
-## [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
-
+## **Salida de inventario por una orden de compra**
 
 
 Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción **IMOV – Movimientos de Inventario**.  
 
 
 
-[**Salida de inventario en GMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov)
-
+**Salida de inventario en GMOV**
 
 
 Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:  
@@ -369,32 +332,15 @@ En el detalle:
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
 
-
-    
-
-
-
-
-
 ![](imov21.png)  
-
-
-
 
 
 Detalle del **GMOV**.  
 
-
-
 ![](imov22.png)
 
 
-
-
-
 * Escenario dos: su saldo en linea permite realizar la transaccion, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en linea para este producto.  
-
-
 
 
 
@@ -498,7 +444,7 @@ Una vez creada la orden de servicio y los productos correspondientes, se debe re
 
 
 
-[**Salida de inventario en GMOV**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov)
+**Salida de inventario en GMOV**
 
 
 
