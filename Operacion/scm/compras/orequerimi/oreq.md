@@ -45,7 +45,12 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
  Su funcionabilidad se establece apartir de la parametrizacion del documento: **[BDOC]**, concepto **[BCON]**, plantilla **[BPLA]** o en su defecto: 
  Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
 
-![](oreq3.png)
+![](oreq3.png)  
+
+
+ ## [Cómo hacer un requerimiento, una cotización y relacionarlos](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotizacion-y-relacionarlos)  
+ 
+ Se ingresa a la aplicación **OREQ** y se adiciona un nuevo registro (+)
 
 
 
