@@ -5,7 +5,7 @@ permalink: /Operacion/scm/ventas/
 editable: si
 ---
 
-# VENTAS  
+# Ventas  
 
 Su objetivo es el control de los clientes, los pedidos y las cotizaciones garantizando
 una adecuada atención de estos y un seguimiento oportuno, para ello cuenta con el

@@ -14,9 +14,7 @@ Esta aplicación permite observar saldos de las cuentas por pagar a un periodo d
 ![](saldos1.png)
 
 
-Al consultar, en la parte superior resume los saldos pendientes por cada uno de los proveedores. 
-
-En la parte inferior se encuentran los movimientos que constituye cada uno de los saldos. 
+Al consultar, en la parte superior resume los saldos pendientes por cada uno de los proveedores.  En la parte inferior se encuentran los movimientos que constituye cada uno de los saldos.  
 
 ![](saldos.png)
 

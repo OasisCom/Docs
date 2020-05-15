@@ -15,5 +15,4 @@ Las aplicaciones que se utilizan en este submódulo son:
 * [**PMCM**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcm)  - Consulta de movimientos  
 * [**PMCR**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr)  - Cruces  
 * [**PREP**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/prep)  - Comprobantes repetitivos
-* [**PPAD**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/ppad) - Pago Directo
 

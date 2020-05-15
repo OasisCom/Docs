@@ -118,9 +118,66 @@ En el detalle del **OORD**, se relaciona la descripción de los productos requer
 
  
 
- ![](oord3.png)
+ ![](oord3.png)  
+ 
+ 
+## [**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)  
+ 
+ En la aplicación **OORD**, se adiciona un nuevo registro (+), se abre el zoom en el campo **_Documento_** y se selecciona la opción **_OC_** de Ordenes de compra, en el campo **_Ubicación_** Cero (0) y en el campo **_Concepto_** también **_OC_** de Ordenes de compra, en el campo **_Motivo_** Cero (0), en el campo **_Tercero_** se selecciona el tercero (también con el Zoom) al que le se le realiza la orden de compra, en el campo **_Condición pago_** la forma cómo se realiza el pago y se guarda el registro.  
+ 
+ 
+![](oord4.png)  
+
+![](oord5.png)  
 
 
+Ahora, se procede a realizar el detalle.  Se adiciona un nuevo registro (+).  En el campo **_Producto_** se selecciona del Zoom el producto deseado; el campo **_Cantidad_** se diligencia de acuerdo con la necesidad y el campo **_Precio_** con el valor y se guarda.  
+
+
+![](oord6.png)  
+
+Ahora, se procede a procesar  
+
+![](oord7.png)  
+
+![](oord8.png)  
+
+En este momento, se ingresa a la aplicación [Facturas de compra - OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac).  En el campo **_Documento_** se selecciona **_FP_** de Facturas de compra, en el campo **_Ubicación_** Cero (0) y en el campo **_Concepto_** también **_FP_** de Facturas proveedor, en el campo **_Motivo_** cero (0) de indefinido, en el campo **_Tercero_**, se busca y selecciona el mismo tercero de la Orden de compra, en los campos **_CondiciónPago_** y **_TipoPrecio_** el método de pago, en el campo **_FacturaChar_** se tiene la posibilidad de insertar el prefijo o código que se utiizará en las facturas; claramente eso varía según la empresa.  
+
+![](oord9.png)  
+
+![](oord10.png)
+
+Ahora, se va a relacionar la Orden de compra al diligenciar los siguientes campos:  
+
+![](oord11.png)  
+
+Se regresa a la Orden de compra y se verifica el **_Documento_** que se tiene:  
+
+![](oord12.png)  
+
+![](oord13.png)
+
+Luego, se verifica el campo **_Ubicación_** en la Orden de compra  
+
+![](oord14.png)  
+
+![](oord15.png)
+
+Después de diligenciar estos dos campos, se abre el Zoom en el campo **_Número1_** y se selecciona la Orden de compra;en caso de que no se sepa cuál es, se regresa a la aplicación **OORD** y se verifica el número  
+
+![](oord16.png)  
+
+![](oord17.png)
+
+Después de diligenciar estos campos, se guarda el registro.  Como se puede ver en el ejemplo, automáticamente carga el detalle con los mismos datos de la Orden de compra; lo que evidencia que hizo la relación correctamente.  
+
+![](oord18.png)  
+
+En este momento, se procesa el Documento
+
+
+![](oord19.png)
 
 
 

@@ -1,19 +1,82 @@
 ---
 
 
+
+
+
+
+
+
+
+
+
 layout: default
+
+
+
+
+
+
+
+
+
 
 
 title: Móvil
 
 
+
+
+
+
+
+
+
+
+
 permalink: /Operacion/movil/
+
+
+
+
+
+
+
+
+
 
 
 editable: si
 
 
+
+
+
+
+
+
+
+
+
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -25,7 +88,43 @@ editable: si
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Apariencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvil)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37,7 +136,43 @@ OasisCom Móvil ofrece una nueva presentación en su interfaz gráfica, mostrand
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Para el sistema Android el menú se visualiza en la parte superior.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -49,7 +184,43 @@ Para el sistema Android el menú se visualiza en la parte superior.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Para el sistema IOS el menú se visualiza en la parte inferior de la pantalla.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -61,7 +232,43 @@ Para el sistema IOS el menú se visualiza en la parte inferior de la pantalla.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Pestaña _Configuración_.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,7 +283,52 @@ Pestaña _Configuración_.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#registro-en-oasiscom-móvil)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +340,43 @@ Ahora los usuarios podrán realizar su proceso de registro a OasisCom desde disp
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ingresamos a la aplicación móvil y accedemos al botón _Registrarse_.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -100,7 +388,43 @@ Ingresamos a la aplicación móvil y accedemos al botón _Registrarse_.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Allí debemos diligenciar el formulario de registro.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,7 +436,43 @@ Allí debemos diligenciar el formulario de registro.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](registro2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -124,7 +484,43 @@ Al diligenciar el formulario y dar click en el botón _Registro_, la aplicación
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](registro3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -136,7 +532,43 @@ Si el usuario ingresa información erronea o deja campos sin diligenciar, el sis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](registro4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -148,7 +580,43 @@ Si el usuario ingresa información erronea o deja campos sin diligenciar, el sis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](registro6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -160,7 +628,43 @@ Si el usuario ingresa información erronea o deja campos sin diligenciar, el sis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Los usuarios podrán iniciar sesión con faceboook a OasisCom desde cualquier dispositivo móvil. Función disponible en versiones Android desde la 4.3.1. y IOS desde la versión 9.3.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -172,7 +676,43 @@ Los usuarios podrán iniciar sesión con faceboook a OasisCom desde cualquier di
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La aplicación solicitará las credenciales de usuario correspondientes.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -184,7 +724,43 @@ La aplicación solicitará las credenciales de usuario correspondientes.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La sesión será iniciada.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -199,7 +775,52 @@ La sesión será iniciada.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/#ingreso-a-la-aplicación-móvil)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -211,7 +832,43 @@ Ingresar usuario y clave en la aplicación OASISCOM MOVIL.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](movil.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -223,7 +880,43 @@ Una vez ingresemos a la aplicación, en la parte superior izquierda encontramos 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](movil1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -235,7 +928,43 @@ Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente co
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](movil2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -247,7 +976,43 @@ Al hacer click o tocar en _Menú_ se desplegrá una ventana como la siguiente co
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La versión móvil de OasisCom cuenta con la funcionalidad de tableros de control para la visualización de indicadores al igual que en la versión web.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -259,7 +1024,43 @@ La versión móvil de OasisCom cuenta con la funcionalidad de tableros de contro
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Haciendo click en el menú _Home_ se podrán visualizar los tableros de control:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -271,7 +1072,43 @@ Haciendo click en el menú _Home_ se podrán visualizar los tableros de control:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 En el menú desplegable superior, se podrán elegir las opciones disponibles y así mismo el tablero se visualizará:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -283,7 +1120,43 @@ En el menú desplegable superior, se podrán elegir las opciones disponibles y a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Los tableros son dinámicos, por lo que permiten seleccionar el tipo de información de datos específicos haciendo click en ella. Esto aplica tanto para sistema operativo Android como para IOS.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -295,7 +1168,43 @@ Los tableros son dinámicos, por lo que permiten seleccionar el tipo de informac
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Si se desea recargar el tablero, en caso de que se haya actualizado información, el botón ![](carga.png) cumple con dicha funcionalidad.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -307,7 +1216,43 @@ Si se desea recargar el tablero, en caso de que se haya actualizado información
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Haciendo click en el menú _Home_ se podrán visualizar los tableros de control:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -319,7 +1264,43 @@ Haciendo click en el menú _Home_ se podrán visualizar los tableros de control:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 En el menú desplegable superior, se podrán elegir las opciones disponibles y así mismo el tablero se visualizará:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -358,7 +1339,124 @@ En el menú desplegable superior, se podrán elegir las opciones disponibles y a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/movil#editar-perfil-de-usuario)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -370,7 +1468,43 @@ En la opción _Editar Perfil de Usuario_, el usuario tendrá la posibilidad de c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Para realizar alguno de estos cambios, damos click en el botón ![](configuracion.png) y seleccionamos la opción _Editar Perfil de Usuario_.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -382,7 +1516,43 @@ Para realizar alguno de estos cambios, damos click en el botón ![](configuracio
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A continuación, se podrá realizar los cambios de perfil que requiera el usuario y guardarlos dando click en el botón ![](guardar.png).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -394,7 +1564,43 @@ A continuación, se podrá realizar los cambios de perfil que requiera el usuari
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -406,7 +1612,43 @@ OasisCom Móvil permite realizar cambio de empresa en caso de que el usuario ten
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Para hacer el cambio de empresa se debe dar click en el botón ![](configuracion.png) y seleccionar la opción _Cambiar empresa_.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -418,7 +1660,43 @@ Para hacer el cambio de empresa se debe dar click en el botón ![](configuracion
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las empresas a las que se encuentra asociado y realizar el respectivo cambio. Se debe tener en cuenta que al realizar una modificación al perfil, la aplicación cerrará sesión con elf in de guardar los cambios.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -433,7 +1711,52 @@ Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/#acerca-de) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -445,7 +1768,43 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](movil17.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -457,7 +1816,43 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Consulta de precios](http://docs.oasiscom.com/Operacion/movil/#consulta-de-precios)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -466,7 +1861,34 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 Se debe de parametrizar el Perfil desde web:  
 
 
+
+
+
+
+
+
+
+
+
 En el detalle del perfil, se inserta el código del usuario, el campo tipo como: favorito y en programa= [MFCPR].  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -478,7 +1900,43 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Al abrir desde el móvil la visualización es la siguiente.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -490,7 +1948,43 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Realizando la consulta con el lector del código de barras, retorna la información del producto.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -504,51 +1998,225 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
+
+
+
 ## [Recoleccion Inventarios Oasiscom Movil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 ## Movil con camara.  
 
+
+
+
+
+
+
 Esta funcionalidad esta diseñada inicialmente para el **MITRA e IMOV** (inventarios).   
+
+
+
+
+
+
+
+
+
 
 
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
 
+
+
+
+
+
+
 ![](mitra3.png)  
+
+
+
+
+
+
 
 Posterior, realiza el ingreso a la opcion **MITRA:**  
 
+
+
+
+
+
+
 ![](mitra4.png)  
+
+
+
+
+
+
 
 Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
 
+
+
+
+
+
+
 ![](mitra5.png)  
 
+
+
+
+
+
+
 Realiza el scanneo de la posicion:   
+
+
+
+
+
+
 
 ![](MITRA7.png)  
 
 
+
+
+
+
+
+
+
+
+
 Para el siguiente ejemplo se realiza el scanneo para la posicion cero (0).  
+
+
+
+
+
+
 
 ![](MITRA8.png)  
 
 
+
+
+
+
+
+
+
+
+
 En la pestaña producto, realiza el scanneo:  
+
+
+
+
+
+
 
 ![](mitra9.png)  
 
+
+
+
+
+
+
 La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking) se almacenen según la trazabilidad, cuando se cierre la aplicación.   
+
+
+
 Dicha funcionalidad para el caso donde los pedido **recolectados** (PI) se almacenen y no se pierdan cuando se cierra la aplicación o dado el caso donde por alguna razón **no** se finalizó la digitación de la recolección y se desea posterior volver a retomar la tarea de recolectar cada uno de los productos y existen gran cantidad de ítems en el detalle del pedido.  
+
+
+
+
+
+
+
+
+
 
 
 * Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
 
 
+
+
+
+
+
+
+
+
+
 https://barcode.tec-it.com/es/?data=7702484075873  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -560,10 +2228,64 @@ https://barcode.tec-it.com/es/?data=7702484075873
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](mitra11.png)  
 
 
+
+
+
+
+
+
+
+
+
 Finalizando el proceso de scanneo con camara.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -578,7 +2300,43 @@ Finalizando el proceso de scanneo con camara.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -590,10 +2348,55 @@ Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Posterior, realiza el ingreso a la opcion **MITRA:**  
 
 
+
+
+
+
+
+
+
+
+
 ![](mitra13.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -605,7 +2408,43 @@ Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la con
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](mitra14.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -614,7 +2453,34 @@ Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la con
 Realiza el scanneo de la posicion:   
 
 
+
+
+
+
+
+
+
+
+
 ![](mitra15.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -626,7 +2492,43 @@ En la pestaña producto, realiza el scanneo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](mitra16.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -638,37 +2540,480 @@ Finalizando el proceso de piking.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](mitra17.png)  
+
+
+
+
+
+
+
+
+
 
 
 Al igual que para el Picking **(PI)** para el Packing **(PA)** también se puede realizar la lectura de código con el móvil.  
 
+
+
+
+
+
+
 Se ingresa al dispositivo dentro de la opción **Mitra** y se realiza el proceso de creación del Packing **(PA)**, en el campo Numero 1 se coloca el número del Picking **(PI)** relacionado a los productos que se van a empacar.
+
+
+
+
+
+
 
 ![](Imagenes/Mitra11.png)  
 
 
+
+
+
+
+
+
+
+
+
 El siguiente paso es realizar la asignación de los productos a las diferentes ubicaciones o cajas para ser empacadas.
+
+
+
+
+
+
 
 ![](Imagenes/Mitra22.png)  
 
+
+
+
+
+
+
 Ahora selecionamos el tipo de despacho para los productos, ya sea **Parcial** o **Total**  
 
+
+
+
+
+
+
 ![](Imagenes/Mitra3.png)  
+
+
+
 Una vez realizado este paso, procedemos a colocar las cantidades por cada una de las cajas, es importante saber que si seleccionamos un despacho parcial, él nos va a mostrar la cantidad de unidades pendientes para el empaque del producto.  
+
+
+
+
+
+
 
 ![](Imagenes/Mitra4.png)  
 
+
+
+
+
+
+
 Una vez se asignen los productos vamos a poder ver el espacio de trabajo de los productos pendientes de asignación y los que se encuentran empacados.
 
+
+
+
+
+
+
 ![](Imagenes/Mitra66.png)  
+
+
+
 Una vez realizado el proceso de distribución de los productos, damos clic en el botón terminar
+
+
+
+
+
+
 
 ![](Imagenes/Mitra8.png)  
 
+
+
+
+
+
+
 Una vez visualicemos el mensaje "Empaque terminado correctamente" Finalizaremos con el proceso de Packing **(PA)**.
 
+
+
+
+
+
+
 ![](Imagenes/Mitra9.png)  
+
+
+
+
+
+
+
+#Registro de Conteos - MIFIS  
+
+
+
+Esta aplicación permite el registro de los diferentes conteos, presentando además los datos de la toma de cada registro como la fecha, ubicación del punto donde se realizó el conteo, cantidad del producto contado, y características inherentes a cada producto como presentación, vencimiento, control etc.  
+
+
+
+
+
+
+
+En **MIFIS** se debe registrar los conteos realizados del inventario, al ingresar se debe consultar por fecha y ubicación.  
+
+
+
+El registro de conteos es posible realizarlo por **clasificación**.  
+
+
+
+![](mifis1.png)  
+
+
+
+El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la parametrizacion existente.  
+
+
+
+
+
+
+
+![](mifis2.png)  
+
+
+
+
+
+
+
+Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -13,5 +13,4 @@ editable: si
 
 Este módulo comprende los siguientes submódulos:
 
-* [**QMOVC**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcompras/qmovc) - Presupuesto De Compras  
 

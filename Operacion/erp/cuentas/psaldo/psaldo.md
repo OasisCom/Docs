@@ -13,5 +13,5 @@ Las aplicaciones que se utilizan en este submódulo son:
 
 * [**PSSP**](http://docs.oasiscom.com/Operacion/erp/cuentas/psaldo/pssp)  - Saldos por periodo  
 * [**PCAC**](http://docs.oasiscom.com/Operacion/erp/cuentas/psaldo/pcac)  - Análisis de cuentas vencidas  
-* [**EPSEC**](http://docs.oasiscom.com/Operacion/erp/cuentas/psaldo/epsec) - Imprime Estados de Cuenta Proveedores  
+
 

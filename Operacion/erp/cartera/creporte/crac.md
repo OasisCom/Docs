@@ -14,7 +14,7 @@ Reporte en el cual se totaliza los saldos de Cartera e índices de morosidad por
 
 
 **Periodo:** mes del cual se desea realizar la consulta.  
-**Año:** año de consulta.
+**Año:** año de consulta.  
 **Tercero:** número de identificación del tercero a consultar.  
 **Cuenta:** cuenta contable a consultar.  
 **Documento:** indicar el documento que se desea consulta.  

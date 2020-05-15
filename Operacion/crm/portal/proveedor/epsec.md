@@ -2,7 +2,7 @@
 
 layout: default
 title: Imprime Estados de Cuenta Proveedores - EPSEC
-permalink: /Operacion/erp/cuentas/psaldo/epsec
+permalink: /Operacion/crm/portal/proveedor/epsec
 editable: si
 
 ---

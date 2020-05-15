@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solicitud de Autorización
-permalink:/Operacion/is/salud/eautorizacion/movaut/esoa
+permalink: /Operacion/is/salud/eautorizacion/movaut/esoa
 editable: si
 ---
 
@@ -148,7 +148,7 @@ Diligenciada en su totalidad la autorización, se debe procesar desde la barra d
 
 ![](Imagen 23 esoa.png)
 
-
+md
 
 
 

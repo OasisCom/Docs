@@ -5,5 +5,5 @@ permalink: /Operacion/scm/importacion/
 editable: si
 ---
 
-# IMPORTACIONES
+# Importaciones
 

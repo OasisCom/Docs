@@ -5,7 +5,15 @@ permalink: /Operacion/scm/compras/ofactura/ofac
 editable: si
 ---
 
-# Facturas de Compra - OFAC
+# Facturas de Compra - OFAC  
+
+En esta aplicación, además de ver su operación básica, podemos ver una explicación de los siguientes procesos:  
+
+* [Manejo de IVA en Activos Fijos](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos)  
+* [Ingreso de Activo Fijo por Compras OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#ingreso-de-activo-fijo-por-compras-ofac)  
+* [Contabilización de Fletes](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#contabilización-de-fletes)
+* [Control por Proveedor](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#control-por-proveedor)  
+* 
 
 
 La aplicación OFAC permite el registro de las facturas de compra, con todas sus características. La factura puede tener un recibo de inventario anterior, o generar el respectivo movimiento con la entrada de inventario.  
@@ -204,4 +212,10 @@ Finalmente, en la aplicación **BCNT - Controles** podemos consultar los número
 ![](ofac13.png)
 
 
-* **Importante:** El sistema validara la RETENCION acumulada diaria, por cada una de las ubicaciones en **OFAC** que esten procesados, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OFAC**.  
+* **Importante:** El sistema validara la RETENCION acumulada diaria, por cada una de las ubicaciones en **OFAC** que esten procesados, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OFAC**.   
+
+## [Relación con la Orden de Compra](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#relación-con-la-orden-de-compra)  
+
+Las facturas se pueden relacionar con las Órdenes de compra.  Si usted quiere conocer el proceso completo, por favor diríjase a:  
+
+[**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
