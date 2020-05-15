@@ -121,7 +121,7 @@ En el detalle del **OORD**, se relaciona la descripción de los productos requer
  ![](oord3.png)  
  
  
- ## [Cómo relacionar una orden de compra con una factura](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)  
+## [Cómo relacionar una orden de compra con una factura](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)  
  
  En la aplicación **OORD**, se adiciona un nuevo registro (+), se abre el zoom en el campo **_Documento_** y se selecciona la opción **_OC_** de Ordenes de compra, en el campo **_Ubicación_** Cero (0) y en el campo **_Concepto_** también **_OC_** de Ordenes de compra, en el campo **_Motivo_** Cero (0), en el campo **_Tercero_** se selecciona el tercero (también con el Zoom) al que le se le realiza la orden de compra, en el campo **_Condición pago_** la forma cómo se realiza el pago y se guarda el registro.  
  
