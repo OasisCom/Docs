@@ -55,6 +55,11 @@ En el detalle de los productos y cantidades que se van a cotizar, desde su preci
  Se insertan los debitos que afectaran presupuestalmente, registrar los auxilires contable: centro costo, negocio, proyecto; como se ilustra.  
  
  ![](ocot3.png)
+ 
+ 
+ Las cotizaciones se encuentran directamente relacionadas con los requerimientos de compra.  Si está interesado en conocer el proceso completo de cómo se pueden relacionar estos dos procesos, por favor diríjase a:  
+ 
+ [**Cómo hacer un requerimiento y una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-y-una-cotización-y-relacionarlos) 
 
 
 
