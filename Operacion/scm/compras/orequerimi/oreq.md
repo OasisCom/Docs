@@ -48,7 +48,7 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
 ![](oreq3.png)  
 
 
- ## [Cómo hacer un requerimiento, una cotización y relacionarlos](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotizacion-y-relacionarlos)  
+ ## [Cómo hacer un requerimiento, una cotización y relacionarlos](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-,-una-cotizacion-y-relacionarlos)  
  
  Se ingresa a la aplicación **OREQ** y se adiciona un nuevo registro (+).  En el campo **_Documento_** se busca por Zoom y se escoge la opción **RQ** de Requerimientos de compras; en el campo **_Concepto_** también se selecciona **RQ**; en el campo **_Tercero_** se selecciona el tercero mediante el zoom y se guarda el registro.  
  
