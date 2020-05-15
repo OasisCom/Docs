@@ -50,7 +50,42 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
 
  ## [Cómo hacer un requerimiento, una cotización y relacionarlos](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotizacion-y-relacionarlos)  
  
- Se ingresa a la aplicación **OREQ** y se adiciona un nuevo registro (+)
+ Se ingresa a la aplicación **OREQ** y se adiciona un nuevo registro (+).  En el campo **_Documento_** se busca por Zoom y se escoge la opción **RQ** de Requerimientos de compras; en el campo **_Concepto_** también se selecciona **RQ**; en el campo **_Tercero_** se selecciona el tercero mediante el zoom y se guarda el registro.  
+ 
+ ![](oreq4.png)  
+ 
+ ![](oreq5.png)  
+ 
+ ![](oreq6.png)  
+ 
+ Luego de diligenciada la parte superior o maestro, se procede a diligenciar la parte inferior o detalle.  En el campo **_Producto_**, se selecciona el producto, el cual debe estar ya parametrizado en la aplicación **[BPRO]** y se diligencia el campo **_Cantidad_** en caso de ser necesario.  Ahora se guarda el detalle.  
+ 
+![](oreq7.png)  
+
+Posteriormente, se procesa el registro.  
+
+![](oreq8.png)  
+ 
+Si la empresa requiere que una persona en específico apruebe la cotización, esto se puede hacer en la aplicación **[ORAR]** de Aprobación de requerimientos.  
+
+Ahora se ingresa a la aplicación **[OCOT]** de Cotizaciones.  Se adiciona un nuevo registro (+).  En el campo **_Documento_** se seleciona **CO** de Cotización de compra; en el campo **_Concepto_** tambièn **CO**; en el campo **_Tercero_** se selecciona el mismo tercero de la aplicación **OREQ**.  
+
+![](oreq9.png)  
+
+![](oreq10.png)  
+
+Luego de diligenciados estos campos, se procede a relacionar el requerimiento con la cotización.  Se inicia con el campo **_Documento1_**.  De ser necesario, se verifica en la aplicación **OREQ** el **_Documento_** y se registra **RQ** y luego en el campo **_Ubicación1_** se registra el mismo ID diligenciado en el campo **_Ubicación_** de la aplicación **OREQ**.  Posteriormente se diligencia el campo **_Número1_**; en este campo, se puede abrir el zoom y seleccionar el requerimiento o si se sabe el número se puede registrar sin necesidad de abrir el zoom y se procede a guardar el registro.  
+
+![](oreq11.png)  
+
+Se guarda el registro y se ve que el sistema trae automáticamente el detalle. Se procede a verificar el detalle y si efectivamente es lo que se quiere cotizar, se procesa el registro.  
+
+![](oreq12.png)  
+
+![](oreq13.png)  
+
+De igual forma que en el anterior proceso, si se necesita que una persona en específico apruebe la cotización, esto se puede parametrizar en la aplicación **[OCAC]** de Aprobación de compras.
+ 
 
 
 
