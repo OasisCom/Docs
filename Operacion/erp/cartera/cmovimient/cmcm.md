@@ -16,7 +16,7 @@ El objetivo de esta aplicación es poder consultar los movimientos realizados en
 
 **Periodo:** mes en el cual se realizó el movimiento.  
 **Año:** año en el cual se realizó el movimiento.  
-**Libro:** libro contable en el que se realizó el movimiento de cartera. Libro contable 1 - IFRS, libro contable 0 - LOCAL.
+**Libro:** libro contable en el que se realizó el movimiento de cartera. Libro contable 1 - IFRS, libro contable 0 - LOCAL.  
 **Documento:** Especificación del documento origen que da comienzo al movimiento.  
 **Concepto:** Identificación alfanumérica del concepto por el cual se realiza el documento.  
 **Número:** Consecutivo en el cual se generó el movimiento.  
