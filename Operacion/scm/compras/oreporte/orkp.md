@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reportes
+title: Cumplimiento del proveedor
 permalink: /Operacion/scm/compras/oreporte/orkp
 editable: si
 ---
