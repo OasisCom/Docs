@@ -15,7 +15,7 @@ A través de la validación por rango de fechas, de un producto determinado y de
 **Fecha inicial:** Fecha inicial desde donde se desea realizar la consulta.  
 **Fecha final:** Fecha final hasta donde se desea realizar la consulta.  
 
-  
+![](orop1.png)
 
 ![](orop2.png)
 
