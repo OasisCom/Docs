@@ -12,5 +12,5 @@ Tiene como objeto el registro de las facturas de compra.  De la misma forma perm
 Las aplicaciones que se utilizan son:  
 
 * **Facturas de compra - OFAC**  
-* **Consultas de factura - OFCF**
+* **Consulta de facturas - OFCF**
 
