@@ -22,7 +22,7 @@ En la sección maestro de la aplicación, permite realizar el registro y control
 
 
 
-![](oord1.png)
+
 
 
 
