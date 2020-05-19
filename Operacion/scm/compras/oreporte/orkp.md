@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reportes
+title: Cumplimiento del proveedor
 permalink: /Operacion/scm/compras/oreporte/orkp
 editable: si
 ---
@@ -8,6 +8,7 @@ editable: si
 # Cumplimiento del Proveedor - ORKP
 
 Reporte que permite visualizar el cumplimiento por proveedor, filtrando por Cliente, Fecha inicial y Fecha final.  
+
 
 ![](orkp1.png)
 

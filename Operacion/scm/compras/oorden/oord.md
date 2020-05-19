@@ -68,7 +68,7 @@ En el detalle del **OORD**, se relaciona la descripción de los productos requer
 
 
 
-![](oord2.png)
+
 
 
 
@@ -129,6 +129,8 @@ En el detalle del **OORD**, se relaciona la descripción de los productos requer
 ![](oord4.png)  
 
 ![](oord5.png)  
+
+![](oord.png)  
 
 
 Ahora, se procede a realizar el detalle.  Se adiciona un nuevo registro (+).  En el campo **_Producto_** se selecciona del Zoom el producto deseado; el campo **_Cantidad_** se diligencia de acuerdo con la necesidad y el campo **_Precio_** con el valor y se guarda.  
