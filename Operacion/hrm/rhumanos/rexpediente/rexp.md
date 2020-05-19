@@ -52,7 +52,7 @@ Agregamos un nuevo registro, el campo _tipo referencia_ se diligencia con la let
 Si es necesario, se agregan más registros.
 
 
-
+![](rexp5.png)
 
 
 **Pestaña Familiares**
