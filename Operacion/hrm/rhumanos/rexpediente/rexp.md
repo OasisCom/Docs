@@ -13,7 +13,7 @@ Para iniciar el proceso de _Expediente_, no es necesario crear un nuevo registro
 En el campo _Tercero_, filtramos por el número de identificación con el cual fue registrado el tercero en la anterior aplicación **BTER**, y la información del maestro se diligenciará de manera automática.
 
 
-![](rexp1.png)
+
 
 
 Seguidamente, nos dirigimos al detalle a diligenciar la información de cada pestaña.
