@@ -23,7 +23,7 @@ Seguidamente, nos dirigimos al detalle a diligenciar la información de cada pes
 Agregamos un nuevo registro y en el campo _tipo educación_, seleccionamos el tipo de educación que corresponde al tercero al cual le estamos creando el expediente. Los tipos de educación deben estar previamente parametrizados en **RBED – Tipos de educación**.
 
 
-
+![](rexp2.png)
 
 
 En los siguientes campos, ingresamos el nombre de donde se realizaron dichos estudios, al igual que la ubicación geográfica. Finalmente, seleccionamos la fecha inicial y final en que se realizó el estudio y damos click en el botón _guardar_.
