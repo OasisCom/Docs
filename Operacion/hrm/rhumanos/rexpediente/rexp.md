@@ -29,7 +29,7 @@ Agregamos un nuevo registro y en el campo _tipo educación_, seleccionamos el ti
 En los siguientes campos, ingresamos el nombre de donde se realizaron dichos estudios, al igual que la ubicación geográfica. Finalmente, seleccionamos la fecha inicial y final en que se realizó el estudio y damos click en el botón _guardar_.
 
 
-![](rexp3.png)
+
 
 
 **Pestaña Experiencia**
