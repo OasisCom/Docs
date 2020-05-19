@@ -68,7 +68,7 @@ En el detalle del **OORD**, se relaciona la descripción de los productos requer
 
 
 
-
+![](oord2.png)
 
 
 
