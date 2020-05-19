@@ -10,7 +10,7 @@ editable: si
 La aplicación **OREQ** requerimiento de compras; puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
 Este documento es interno por lo que no debe ser utilizada como Orden de Compra.  
 
->+ [**Cómo hacer un requerimiento, una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-,-una-cotización-y-relacionarlos)
+>+ [**Cómo hacer un requerimiento una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotización-y-relacionarlos)
 
 Como todas las aplicaciones de OasisCom se encuentran dividida en secciones: maestro y detalle; en el maestro permite el registro del encabezado de los requerimientos hechos por la empresa; en la parte inferior se divide en pestañas: Detalle, Distribución y Presupuesto
 
@@ -56,7 +56,7 @@ Su funcionabilidad se establece a partir de la parametrización del documento: [
 ![](oreq3.png)  
 
 
-## [**Cómo hacer un requerimiento, una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-,-una-cotización-y-relacionarlos)  
+## [**Cómo hacer un requerimiento una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotización-y-relacionarlos)  
 
 
  Se ingresa a la aplicación [**OREQ**]() y se adiciona un nuevo registro (+).  En el campo **_Documento_** se busca por Zoom y se escoge la opción **RQ** de Requerimientos de compras; en el campo **_Concepto_** también se selecciona **RQ**; en el campo **_Tercero_** se selecciona el tercero mediante el zoom y se guarda el registro.  

@@ -59,7 +59,7 @@ En la pestaña **Presupuesto:** Su funcionabilidad se establece a partir de la p
 
 Las cotizaciones se encuentran directamente relacionadas con los requerimientos de compra.  Si está interesado en conocer el proceso completo de cómo se pueden relacionar estos dos procesos, por favor diríjase a:  
 
-[**Cómo hacer un requerimiento, una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-y-una-cotización-,-relacionarlos) 
+[**Cómo hacer un requerimiento una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotización-y-relacionarlos) 
 
 
 
