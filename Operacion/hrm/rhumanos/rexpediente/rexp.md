@@ -70,7 +70,7 @@ Los tipos de dotación se parametrizan en la aplicación **RBTD – Tipos de Dot
 Ingresamos el tipo de dotación, la talla, el color, la cantidad y guardamos el registro.
 
 
-
+![](rexp7.png)
 
 
 **Pestaña Anotaciones**
