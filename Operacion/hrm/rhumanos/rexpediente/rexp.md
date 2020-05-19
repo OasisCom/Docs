@@ -80,7 +80,7 @@ En la pestaña _Anotaciones_ diligenciamos lo relacionado a la parte disciplinar
 En el campo _tipo de anotación_ diligenciamos el código correspondiente al tipo de anotación relacionada con la hoja de vida del contratado y damos click en _guardar_.
 
 
-
+![](rexp8.png)
 
 **Pestaña Cursos**
 
