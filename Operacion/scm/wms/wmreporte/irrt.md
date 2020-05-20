@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Formulario técnico de recepción
-permalink: /Operacion/scm/wms/wmmovimient/irrt
+permalink: /Operacion/scm/wms/wmreporte/irrt
 editable: si
 ---
 
