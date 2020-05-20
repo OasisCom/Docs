@@ -5,6 +5,6 @@ permalink: /Operacion/scm/inventarios/isaldo/ispm
 editable: si
 ---
 
-# Saldos por Bodega - ISPM  
+# Saldos por localización y marca - ISPM  
 
 Aplicación que permite la consulta
