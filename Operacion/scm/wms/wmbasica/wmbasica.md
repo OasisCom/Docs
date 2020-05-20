@@ -11,5 +11,5 @@ En esta sección podrán encontrar las aplicaciones de parametrización del mód
 
 Esta ventana utiliza la aplicación:  
 
-* * [**Localizaciones - IBLO**](http://docs.oasiscom.com/Operacion/scm/wms/wmbasica/iblo)
+* [**Localizaciones - IBLO**](http://docs.oasiscom.com/Operacion/scm/wms/wmbasica/iblo)
 
