@@ -40,9 +40,9 @@ En los siguientes campos, diligenciamos el nombre de la empresa en la cual se de
 
 
 
-
-
 ![](rexp4.png)
+
+
 
 
 **Pestaña Referencias**
