@@ -13,5 +13,5 @@ Las aplicaciones que se utilizan en esta ventana son:
 
 * [**Inicio año inventarios - IPIA**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/ipia)  
 * [**Genera transferencia - IPTR**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iptr)  
-* [**Pendiente remisión - IPIA**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iprp)  
+* [**Pendiente remisión - IPRP**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iprp)  
 
