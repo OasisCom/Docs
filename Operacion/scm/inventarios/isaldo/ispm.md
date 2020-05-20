@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Saldos por localización y marca
-permalink: /Operacion/scm/inventarios/isaldo/ispb
+permalink: /Operacion/scm/inventarios/isaldo/ispm
 editable: si
 ---
 
