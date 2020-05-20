@@ -11,7 +11,7 @@ En el inventario físico, existen dos clases de escenarios:
 
 • ESCENARIO 1: Inventario Físico, el cual incluye el siguiente proceso:
 
-* [**Prepara inventario diario - IFPI**](http://docs.oasiscom.com/Operacion/inventarios/ifisico/ifpi)      
+* [**Prepara inventario diario - IFPI**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi)      
 * [**Planilla para conteo Físico - IRIF**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/irif)      
 * [**Registro de conteos - IFIS**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis)    
 * [**Calcula diferencias - IFCD**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd)    
