@@ -1,13 +1,8 @@
 ---
 
-
-
 layout: default
-
 title: Reevaluación Proveedores
-
 permalink: /Operacion/scm/compras/oorden/oevp
-
 editable: si
 
 ---
