@@ -11,5 +11,4 @@ En esta sección podrán encontrar las aplicaciones de parametrización del mód
 
 Las aplicaciones de esta ventana son:  
 
-* **Conceptos consumo - IBCC**
-
+* [**Conceptos consumo - IBCC**](http://docs.oasiscom.com/Operacion/scm/inventarios/ibasica/ibcc)
