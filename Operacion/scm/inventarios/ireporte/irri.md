@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irri
 editable: si
 ---
 
-# IRRI - Rotación de Inventarios
+# Rotación de Inventarios - IRRI
 
 El reporte IRRI permite visualizar información referente al cálculo de rotación de inventario del proceso de niveles de stock.  
 
