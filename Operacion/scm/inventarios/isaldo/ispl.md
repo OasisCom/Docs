@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saldos
+title: Saldos por localización
 permalink: /Operacion/scm/inventarios/isaldo/ispl
 editable: si
 ---
