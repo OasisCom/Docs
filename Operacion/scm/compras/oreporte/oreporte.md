@@ -5,20 +5,20 @@ permalink: /Operacion/scm/compras/oreporte/
 editable: si
 ---
 
-# REPORTES  
+# Reportes  
 
 Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con filtros y ordenamiento dinámico.  
 
 Algunas aplicaciones para reportes de compras son:  
 
-* **Requerimiento vs compra vs venta - ORCV**  
-* **Requerimientos pendientes - OREP**  
-* **Ranking de proveedor - ORRP**  
-* **Compras por producto - ORCR**  
-* **Órdenes pendientes - OROP**  
-* **Resumen de compras - ORRC**  
-* **Informe de requerimientos - ORRE**  
-* **Órdenes por proveedor - ORPP**  
-* **Cumplimiento del proveedor - ORKP**  
-* **Libro de compras - ORLC**
+* [**ORCV**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orcv) - Requerimiento vs compra vs venta  
+* [**OREP**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orep) - Requerimientos pendientes  
+* [**ORRP**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orrp) - Ranking de proveedor  
+* [**ORCR**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orcr) - Compras por producto  
+* [**OROP**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orop) - Órdenes pendientes  
+* [**ORRC**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orrc) - Resumen de compras  
+* [**ORRE**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orre) - Informe de requerimientos  
+* [**ORPP**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orpp) - Órdenes por proveedor  
+* [**ORKP**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orkp) - Cumplimiento del proveedor  
+* [**ORLC**](http://docs.oasiscom.com/Operacion/scm/compras/oreporte/orlc) - Libro de compras  
 

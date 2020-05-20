@@ -5,7 +5,7 @@ permalink: /Operacion/scm/compras/oreporte/brcs
 editable: si
 ---
 
-# BRCS - Cupos por Sello
+# Cupos por Sello - BRCS
 
 El reporte **BRCS** muestra los saldos de cupos de sellos por tercero.  
 
