@@ -5,5 +5,7 @@ permalink: /Operacion/scm/wms/wmbasica/
 editable: si
 ---
 
-# DATOS BASICOS
+# DATOS BASICOS  
+
+En esta sección podrán encontrar las aplicaciones de parametrización del módulo de bodega.
 
