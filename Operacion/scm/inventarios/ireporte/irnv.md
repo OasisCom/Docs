@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irnv
 editable: si
 ---
 
-# IRNV - Niveles de Stock por Ubicación
+# Niveles de Stock por Ubicación - IRNV
 
 La aplicación IRNV permite la consulta de los niveles de stock por ubicación.  
 
