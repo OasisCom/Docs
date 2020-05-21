@@ -9,6 +9,10 @@ editable: si
 
 Pantalla maestra que sirve para adicionar, modificar y consultar las diferentes cotizaciones que ha elaborado la empresa a los clientes. Para ello el cliente debe estar creado previamente en la básica o maestro de terceros, no se pueden realizar cotizaciones a clientes que no existan o que no se le contengan sus datos básicos.
 
+>+ [**Cálculo de precio bajo márgenes**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cálculo-de-precio-bajo-márgenes)
+>+ [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#itemchanged-campos-precio-y-porcentaje-de-descuento)
+
+
 El maestro contiene la información básica tanto de la empresa como del cliente al cual se le cotiza, con las posibles condiciones comerciales con las que dicho cliente será vinculado como cliente de la empresa.
 
 ![](vcot1.png)
