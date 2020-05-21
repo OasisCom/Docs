@@ -5,11 +5,12 @@ permalink: /Operacion/common/btercer/bran
 editable: si
 ---
 
-## Rangos - BRAN
+# Rangos - BRAN
+
+Para realizar el inventario cíclico es necesario parametrizar previamente en la aplicación **BRAN** los rangos de los valores que corresponden al total de inventario y que se tendrán en cuenta al momento de generar dicho inventario.
+
 
 ## [Inventario Cíclico](http://docs.oasiscom.com/Operacion/common/btercer/bran#inventario-cíclico)
-
-Para realizar el inventario cíclico es necesario parametrizar previamente en la aplicación **BRAN** los rangos de los valores que corresponden al total de inventario y que se tendrán en cuenta al momento de generar dicho inventario.  
 
 Agregamos un nuevo registro y diligenciamos los siguientes campos.  
 
