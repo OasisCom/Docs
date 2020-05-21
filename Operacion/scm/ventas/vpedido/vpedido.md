@@ -5,14 +5,14 @@ permalink: /Operacion/scm/ventas/vpedido/
 editable: si
 ---
 
-# PEDIDOS  
+# Pedidos  
 
 Registro de pedidos validación las condiciones de crédito, control de existencias de inventarios, disponibilidad de crédito y descuentos ofrecidos, entre otros.  
 
 Las aplicaciones que se utilizan en esta ventana son:  
 
-* **Pedidos - VPED**  
-* **Pedidos pendientes - VPPP**  
-* **Aprobación de pedidos - VPPR**  
-* **Balance and Prices by Location - VPSA**
+* [**VPED**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped) - Pedidos
+* [**VPPP**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vppp) - Pedidos pendientes
+* [**VPPR**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vppr) - Aprobación de pedidos
+* [**VPSA**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vpsa) - alance and Prices by Location
 
