@@ -5,11 +5,11 @@ permalink: /Operacion/scm/pos/jcajero/mjfacm
 editable: si
 ---
 
-# MJFACM - Facturas
+# Facturas - MJFACM
 
 La aplicación **MJFACM** del módulo POS, permite crear las facturas de venta de los servicios prestados por Lavaderos de Vehículos.  
 
-Para crear una factura nueva damos click en el botón ![](nueva.png).  
+Para crear una factura nueva damos clic en el botón ![](nueva.png).  
 
 ![](mjfacm.png)
 

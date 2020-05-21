@@ -5,9 +5,16 @@ permalink: /Operacion/scm/pos/jcajero/ejfac
 editable: si
 ---
 
-# EJFAC - Facturas
+# Facturas - EJFAC
 
 La aplicación **EJFAC** es la versión Post-Touch para facturación, adaptable para tablets y dispositivos móviles, cumpliendo con la misma función de la versión web.  
+
+
+>+ [**Detalle**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/ejfac#detalle)
+>+ [**Pago**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/ejfac#pago)
+>+ [**Botones**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/ejfac#botones)
+
+
 
 Los campos que sean de fondo azul indican que tienen zoom, en el cual pueden consultar datos relacionados con el nombre del campo, para acceder se hace doble click sobre el mismo.  
 
@@ -46,7 +53,7 @@ Ingresados los anteriores datos, damos click en el botón _Guardar_ ![](guardar.
 
 ![](ejfac12.png)
 
-### Detalle
+## [**Detalle**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/ejfac#detalle)
 
 En la parte inferior de la ventana se encuentra la pestaña _Detalle_, en donde se seleccionará el producto correspondiente al documento que se realiza, ya sea que se factura o se realiza devolución.  
 
@@ -67,7 +74,7 @@ Si se desean agregar más productos, se vuelve a buscar en el campo _ProductId_ 
 Para eliminar algún producto de la lista se debe dar click sobre el mismo.  
 
 
-### Pago
+## [**Pago**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/ejfac#pago)
 
 Seguidamente se encuentra la pestaña _Pago (Payment)_, la cual permite realizar la modificación de la forma de pago de la factura, en el campo forma de pago se debe modificar la misma, puede ser efectivo, débito, crédito entre otros, esto se parametriza previamente en el sistema en la aplicación [**BFOR - Formas de Pago**](http://docs.oasiscom.com/Operacion/common/bcomer/bfor).  
 
@@ -92,56 +99,56 @@ Por ejemplo, si una parte del documento se pagará en efectivo, se deberá selec
 
 Diligenciado el formulario de la pestaña _Pago_ procedemos a procesar la factura dando click en el botón _Procesar_  ![](procesar.png).
 
-### Botones
+## [**Botones**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/ejfac#botones)
 
 ![](botones.png)
 
 
-#### Nuevo ![](nuevo.png)
+>+ Nuevo ![](nuevo.png)
 
 Permite adicionar un formulario para crear un nuevo documento.  
 
-#### Guardar ![](guardar.png)
+>+ Guardar ![](guardar.png)
 
 Permite guardar los cambios que se hayan realizado en el documento.  
 
-#### Procesar ![](procesar.png)
+>+ Procesar ![](procesar.png)
 
 Botón que permite confirmar o procesar el documento.  
 
-#### Reversar ![](reversar.png)
+>+ Reversar ![](reversar.png)
 
 Cuando el documento se encuentra en estado _Procesado_, este botón permite reversarlo y poder realizar cambios.  
 
-#### Anular ![](anular.png)
+>+ Anular ![](anular.png)
 
 Este botón permite anular el documento que se generó. El documento pasará a estado _Anulado_.
 
-#### Traer Información ![](traer.png)
+>+ Traer Información ![](traer.png)
 
 Botón que permite traer a la aplicación todos los documentos generados en la misma.  
 
-#### Vista Preliminar ![](vista.png)
+>+ Vista Preliminar ![](vista.png)
 
 Al dar click en este botón se podrá ver en vista preliminar el documento generado.  
 
-#### Imprimir ![](imprimir.png)
+>+ Imprimir ![](imprimir.png)
 
 Botón que permite convertir a formato PDF el documento generado e imprimirlo.  
 
-#### Refrescar ![](refrescar.png)
+>+ Refrescar ![](refrescar.png)
 
 Al dar click en este botón la ventana de la aplicación será refrescada y mostrará el formulario sin datos.  
 
-#### Anterior ![](devolver.png)
+>+ Anterior ![](devolver.png)
 
 Este botón permite devolverse al documento anterior.  
 
-#### Número de página ![](pagina.png)
+>+ Número de página ![](pagina.png)
 
 Indica la página en la cual se encuentra el documento.  
 
-#### Siguiente ![](pagina.png)
+>+ Siguiente ![](pagina.png)
 
 Este botón permite pasar al documento siguiente.  
 

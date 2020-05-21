@@ -97,7 +97,7 @@ Posteriormente damos click sobre el botón _Guardar_.
 
 ![](bfor51.png)  
 
-### [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)  
+## [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)  
 
 En la pestaña “Detalle” en la parte inferior de la aplicación, existe la opción de inserción de producto mediante el lector de código de barras, este funciona ubicándose en el campo producto y utilizando el lector se realiza la lectura del código de barras del producto, si dado el escenario: el producto ya fue registrado en otro renglon; el sistema realiza la suma del producto en el mismo renglon; de esta manera se registra la venta del producto y se completará la información en los campos Nombre Producto, Cantidad, Precio y %Descuento (Si aplica). Igualmente, en caso de no contar con el lector del código de barras en el campo producto se puede registrar manualmente el código del producto y al dar TAB se diligencian los campos de nombre de producto, cantidad precio y %Descuento (Si aplica), si el producto no trae asociado un % descuento, podemos ingresarlo manualmente y este se aplicará solo al producto al que se ingresó.  
 
@@ -136,13 +136,13 @@ Existe una funcionabilidad al digitar Enter sobre uno de estos campos: Price (Pr
 
 ![](jfacc13.png)
 
-### [Cambio de campos con credenciales](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambio-de-campos-con-credenciales)
+## [Cambio de campos con credenciales](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambio-de-campos-con-credenciales)
 
 Esta funcionalidad permite al usuario la modificación de los campos _Precio_, _% Descuento_ y _Descuento_ cuando dichos campos estén bloqueados, donde pedirá credenciales de usuario y permita la modificación de los mismos.  
 
 ![](jfac24.png)
 
-##### Parametrización
++ Parametrización
 
 Para poder modificar dichos campos primero se debe realizar una parametrizacion en la opcion [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran), en donde por documento y por rol definimos que rangos de valores tiene permitido el usuario ingresar.   
 
@@ -163,7 +163,7 @@ Seguidamente, en la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Oper
 
 En campo renglón, indicar a que tab queremos afectar, es decir, el **Renglón 0** afectará al maestro y el **Renglon 1** al primer tab del detalle, y así con los que se deseen.  
 
-##### Proceso
++ Proceso
 
 Una vez realizadas las parametrizaciones en las anteriores aplicaciones, vamos a verificar el funcionamiento en la opcion **JFAC - Facturas**.  
 
@@ -209,7 +209,7 @@ Si ingresamos un valor entre los rangos permitidos, el sistema dejará ingresar 
 
 _**Nota:** En la opcion del BRAN - Rangos, se pueden parametrizar diferentes Rangos a diferentes Roles, pero si un usuario tiene más de un Rol, el sistema tomará el de menor jerarquía, es decir, si un usuario tiene el Rol 18, y el Rol 100, tomará la parametrización del Rol 18._  
 
-### [Pestaña _Pago_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-pago)
+## [Pestaña _Pago_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-pago)
 
 Permite realizar la modificación de la forma de pago de la factura, en el campo forma de pago se debe modificar la misma, puede ser efectivo, débito, crédito entre otros, esto se parametriza previamente en el sistema en la aplicación BFOR. Igualmente, en esta pestaña se puede consultar el valor de la factura y el impuesto del mismo.  
 
@@ -248,7 +248,7 @@ Al procesar, el registro sobre el maestro se puede evidenciar los campos Valor B
 En caso de tener parametrizada la forma de pago Nómina, se puede tener la opción de imprimir un voucher que nos indica el nombre del tercero y el valor a descontar por nómina, cómo se muestra a continuación.  Dando click sobre el botón “Imprimir Colilla”.  
 
 
-### [Pestaña _Garantías_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-garantías)
+## [Pestaña _Garantías_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-garantías)
 
 A través de esta pestaña el usuario podrá asignar garantías a los productos facturados en el maestro.  
 
@@ -273,7 +273,7 @@ Al crear una factura en JFAC e ingresar al zoom para seleccionar el producto, po
 
 El proceso de _Fidelización de Clientes_ permite que por cada compra que realice un cliente, este acumule puntos que podrá redimir en una próxima compra.  
 
-#### Parametrización
++ Parametrización
 
 Inicialmente se requiere hacer la siguiente parametrización.  
 
@@ -310,7 +310,7 @@ En la aplicación **BFOR** se debe parametrizar la forma de pago _Redención Pun
 * Las formas de pago **tipo puntos** para su redención, valida la cuenta contable correspondiente y **saldos en puntos de fidelización de clientes** por diferentes cuentas contables.  
 
 
-#### Proceso Fidelización de Clientes  
++ Proceso Fidelización de Clientes  
 
 De acuerdo con la parametrización anterior, en la aplicación **JFAC** se realizará la factura de venta al cliente registrado en la aplicación [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter#parametrizaci%C3%B3n-fidelizaci%C3%B3n-de-clientes).  
 

@@ -5,9 +5,12 @@ permalink: /Operacion/scm/pos/jcajero/mjfacr
 editable: si
 ---
 
-# MJFACR - Facturas (Restaurante)
+# Facturas (Restaurante) - MJFACR
 
-La aplicación MJFACR permite la creación de facturas (similar a la opción MJFAC), con la diferencia que se realiza por localizaciones, es decir, por las mesas existentes del lugar.  
+La aplicación **MJFACR** permite la creación de facturas (similar a la opción MJFAC), con la diferencia que se realiza por localizaciones, es decir, por las mesas existentes del lugar.  
+
+* [División de cuentas tipo Restaurante](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#División-de-cuentas-tipo-Restaurante)
+* [Impresión de facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#impresión-de-facturas)
 
 En la opción **MJFAC**, se visualizan las mesas que se tengan en la parametrización de la ubicación, esto para que se puedan realizar facturas acorde a la cantidad de mesas.  
 
@@ -33,11 +36,11 @@ Al seleccionar los productos del pedido, damos click en el botón _Ordenar_ y el
 
 Para efectuar el pago de la factura, damos click en el botón _Pagar_, seleccionamos la forma de pago, ingresamos el valor y damos click en el botón ![](guardar1.png). Este guardará la forma de pago y calculará el valor de cambio en caso de que aplique.  
 
-Damos click en _Pagar_.  
+Damos clic en _Pagar_.  
 
 ![](mjfacr4.png)
 
-Al dar click en el botón _Pagar_ la factura será procesada automáticamente.  
+Al dar clic en el botón _Pagar_ la factura será procesada automáticamente.  
 
 ![](mjfacr19.png)
 
