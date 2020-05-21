@@ -5,10 +5,10 @@ permalink: /Operacion/scm/inventarios/ibasica/
 editable: si
 ---
 
-# DATOS BASICOS  
+# Datos Basicos  
 
 En esta sección podrán encontrar las aplicaciones de parametrización del módulo de inventarios.  
 
 Las aplicaciones de esta ventana son:  
 
-* [**Conceptos consumo - IBCC**](http://docs.oasiscom.com/Operacion/scm/inventarios/ibasica/ibcc)
+* [**IBCC**](http://docs.oasiscom.com/Operacion/scm/inventarios/ibasica/ibcc) - Conceptos consumo
