@@ -5,7 +5,7 @@ permalink: /Operacion/scm/importacion/ybasica/ybmo
 editable: si
 ---
 
-# YBMO -  Modos de Transporte
+# Modos de Transporte - YBMO
 
 En la aplicación YBMO se parametrizan los modos de transporte para la importación o exportación de mercancía.  
 
