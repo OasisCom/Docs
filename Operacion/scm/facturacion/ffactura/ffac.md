@@ -7,7 +7,16 @@ editable: si
 
 # Facturas - FFAC
 
-La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
+La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. 
+
+>+ [Pestaña Detalle](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-detalle)
+>+ [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
+>+ [Pestaña Contabilización](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)
+>+ [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
+>+ [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
+
+
+Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
 
 Cuando se procesa un documento de facturación de ventas y este tiene retención de ICA (RIC), el sistema llevará el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta que para esto la retención de ICA va a aplicar por dirección en el documento FC o el que corresponda para factura de venta.  
 
@@ -163,7 +172,7 @@ Se crea la pestaña “contabilización resumida” donde se **totalizan** los v
 
 ![](ffac21.png)
 
-# [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
+## [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 
 Este proceso permite enlazar en la opción **FFAC** los documentos de las exportaciones _XEXP_ para así poder terminar con el ciclo de la exportación.  
 
@@ -202,7 +211,7 @@ Al procesar la factura, se podrá visualizar la actualización de las exportacio
 
 ![](ffac11.png)
 
-# [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
+## [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
 
 Al generar una factura de venta se debe asignar una moneda con la cual se realizará la transacción. A dicha moneda, es posible parametrizarle el grupo de cuentas contables de las cuales dependerá. Las monedas se parametrizan en la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
 
