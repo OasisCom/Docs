@@ -317,9 +317,9 @@ Se muestra parametrización realizada desde el **SPRO**
 Se muestra parametrización en el detalle  
 Se resalta los campos argumento y datos  
 ![](spro2.png)   
-Hasta aca la parametrización desde el **SPRO**.  
+**Hasta aca la parametrización desde el SPRO**.  
 
-* Nos ubicamos en el **SCAM**, sobre el mismo programa  
+Nos ubicamos en el **SCAM**, sobre el mismo programa  
  ![](scam48.png)   
 **TabId:** Se indica el Identificador el Tab donde se mostrará el botón 													
 **FieldId:** Identificador del botón a crear, se puede colocar el indicador que uno desee	
@@ -330,7 +330,13 @@ Hasta aca la parametrización desde el **SPRO**.
 **Condición:** Se hace referencia al campo Modelo del **SPRO**	
 
 **ItemChange:** Se hace referencia al campo Vista del **SPRO**		
-**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON		
+**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON  
+
+ ![](scam49.png)   
+
+**QuerySQL:** Se coloca de igual manera como en el campo del **SPRO**  
+**Tipo:** Se crea una opción "BOTON".  
+
 
 
 
