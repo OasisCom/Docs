@@ -314,6 +314,10 @@ Se realiza mejora sobre el botón tipo consulta genérica
 ARGUMENTO = js_InformationControl  
 Se muestra parametrización realizada desde el SPRO  
 ![](spro1.png)   
+Se muestra parametrización en el detalle  
+Se resalta los campos argumento y datos  
+![](spro2.png)   
+
 
 
 
