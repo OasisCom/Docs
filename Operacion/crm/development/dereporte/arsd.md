@@ -5,9 +5,9 @@ permalink: /Operacion/crm/development/dereporte/arsd
 editable: si
 ---
 
-# ARSD - Monitoreo de Desarrollo
+# Monitoreo de Desarrollo -  ARSD
 
-La aplicación ARSD permite realizar seguimiento detallado a las actividades de desarrollo por estado.  
+La aplicación **ARSD** permite realizar seguimiento detallado a las actividades de desarrollo por estado.  
 
 Se realiza el filtro por el número de versión.  
 
