@@ -335,7 +335,33 @@ Nos ubicamos en el **SCAM**, sobre el mismo programa
  ![](scam49.png)   
 
 **QuerySQL:** Se coloca de igual manera como en el campo del **SPRO**  
-**Tipo:** Se crea una opción "BOTON".  
+**Tipo:** Se crea una opción "BOTON".   
+
+Ya configurado nos ubicamos en el **VPED**  
+
+ ![](vped1.png)   
+ Vista anterior que se tenía sobre este tipo de botón  
+ Se tenía una ventana de tipo alerta  
+ La cual se cerraba automáticamente y no era fácil ver la información   
+ 
+ ![](vped2.png)   
+ Actualmente se realiza el cambio sobre la ventana, para que este de manera fija  
+ Esta ventana realiza paginación en caso se retorne más de un registro  
+ ![](vped3.png)   
+Si se requiere que soporte alguna imagen, se debe tener en cuenta lo siguiente.    
+
+A nivel del query que se parametrice.  
+Tener como indicador del campo imagen con el siguiente alias.  
+
+IMAGE_CONVERT  
+
+ 
+ 
+
+
+ 
+
+
 
 
 
