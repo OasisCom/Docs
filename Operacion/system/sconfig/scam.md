@@ -321,32 +321,32 @@ Se resalta los campos argumento y datos
 
 Nos ubicamos en el **SCAM**, sobre el mismo programa  
  ![](scam48.png)   
-**TabId:** Se indica el Identificador el Tab donde se mostrará el botón 													
-**FieldId:** Identificador del botón a crear, se puede colocar el indicador que uno desee	
+**TabId:** Se indica el Identificador el Tab donde se mostrará el botón. 													
+**FieldId:** Identificador del botón a crear, se puede colocar el indicador que uno desee.	
 
-**Idioma:** Se recomienda dejar un único lenguaje para este tipo de botones		
-**Descripción:** Hace referencia al campo argumento que se tiene en el **SPRO**		
-**Defecto:** Se usa de igual manera que se usa en el **SPRO**													
-**Condición:** Se hace referencia al campo Modelo del **SPRO**	
+**Idioma:** Se recomienda dejar un único lenguaje para este tipo de botones.		
+**Descripción:** Hace referencia al campo argumento que se tiene en el **SPRO.**		
+**Defecto:** Se usa de igual manera que se usa en el **SPRO.**													
+**Condición:** Se hace referencia al campo Modelo del **SPRO.**	
 
-**ItemChange:** Se hace referencia al campo Vista del **SPRO**		
-**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON  
+**ItemChange:** Se hace referencia al campo Vista del **SPRO.**		
+**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON. 
 
  ![](scam49.png)   
 
-**QuerySQL:** Se coloca de igual manera como en el campo del **SPRO**  
-**Tipo:** Se crea una opción "BOTON".   
+**QuerySQL:** Se coloca de igual manera como en el campo del **SPRO.**  
+**Tipo:** Se crea una opción "BOTON."   
 
-Ya configurado nos ubicamos en el **VPED**  
+Ya configurado nos ubicamos en el **VPED**.  
 
  ![](vped1.png)   
- Vista anterior que se tenía sobre este tipo de botón  
- Se tenía una ventana de tipo alerta  
- La cual se cerraba automáticamente y no era fácil ver la información   
+ Vista anterior que se tenía sobre este tipo de botón.  
+ Se tenía una ventana de tipo alerta.  
+ La cual se cerraba automáticamente y no era fácil ver la información.   
  
  ![](vped2.png)   
- Actualmente se realiza el cambio sobre la ventana, para que este de manera fija  
- Esta ventana realiza paginación en caso se retorne más de un registro  
+ Actualmente se realiza el cambio sobre la ventana, para que este de manera fija.  
+ Esta ventana realiza paginación en caso se retorne más de un registro.  
  ![](vped3.png)   
 Si se requiere que soporte alguna imagen, se debe tener en cuenta lo siguiente.    
 
