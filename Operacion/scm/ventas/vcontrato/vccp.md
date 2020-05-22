@@ -5,13 +5,13 @@ permalink: /Operacion/scm/ventas/vcontrato/vccp
 editable: si
 ---
 
-# Contratos pendientes
+# Contratos pendientes - VCCP
 
-La aplicación VCCP permite terminar los contratos que se requiera y se encuentren pendientes.  
+La aplicación **VCCP** permite terminar los contratos que se requiera y se encuentren pendientes.  
 
 ![](vccp.png)
 
-# Terminación de contrato.  
+## Terminación de contrato.  
 Existen dos formas para terminar la contrato:  
 Desde el **maestro** o por cada uno de los item en el **detalle**.  
 Al ejecutar el boton indicado (terminar_contrato)*, se aplicara para todo el documento.  
