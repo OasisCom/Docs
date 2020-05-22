@@ -345,7 +345,19 @@ Ya configurado nos ubicamos en el **VPED**
  La cual se cerraba automáticamente y no era fácil ver la información   
  
  ![](vped2.png)   
+ Actualmente se realiza el cambio sobre la ventana, para que este de manera fija  
+ Esta ventana realiza paginación en caso se retorne más de un registro  
+ ![](vped3.png)   
+Si se requiere que soporte alguna imagen, se debe tener en cuenta lo siguiente.    
+
+A nivel del query que se parametrice.  
+Tener como indicador del campo imagen con el siguiente alias.  
+
+IMAGE_CONVERT  
+
  
+ 
+
 
  
 
