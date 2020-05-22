@@ -335,7 +335,19 @@ Nos ubicamos en el **SCAM**, sobre el mismo programa
  ![](scam49.png)   
 
 **QuerySQL:** Se coloca de igual manera como en el campo del **SPRO**  
-**Tipo:** Se crea una opción "BOTON".  
+**Tipo:** Se crea una opción "BOTON".   
+
+Ya configurado nos ubicamos en el **VPED**  
+
+ ![](vped1.png)   
+ Vista anterior que se tenía sobre este tipo de botón  
+ Se tenía una ventana de tipo alerta  
+ La cual se cerraba automáticamente y no era fácil ver la información   
+ 
+ ![](vped2.png)   
+ 
+
+ 
 
 
 
