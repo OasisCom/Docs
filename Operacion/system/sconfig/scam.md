@@ -307,6 +307,9 @@ Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido
 
 ![](scam53.png)   
 
+--
+Se realiza mejora sobre el botón tipo consulta genérica  
+
 
 
 
