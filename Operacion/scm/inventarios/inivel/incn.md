@@ -7,6 +7,8 @@ editable: si
 
 # Calcular Niveles de Stock - INCN  
 
+Los niveles de stock y el cálculo de los mismos permiten a la empresa saber cómo se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).
+
 
 * [**Parametrización**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#parametrización) 
 >* [**Conceptos de Consumo IBCC**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#conceptos-de-consumo-ibcc)
@@ -24,9 +26,6 @@ editable: si
 
 
 ## [**Parametrización**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#parametrización)   
-
-
-Los niveles de stock y el cálculo de los mismos permiten a la empresa saber cómo se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).   
 
 Antes de iniciar el proceso, es importante tener en cuenta que los productos deben estar con el flags del campo stock activo en la aplicación **BPRO**, para que el sistema los identifique al momento de realizar el proceso. 
 
