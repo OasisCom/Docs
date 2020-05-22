@@ -281,9 +281,10 @@ Para generar el reporte _ERRCL - Certificado Laboral_, se debe parametrizar en e
 
 ---  
 
-###LISTAS Y BLOQUEO DE PARAMETROS POR MEDIO DE SCAM PARA PROCESOS ESPECIALES.  
+#LISTAS Y BLOQUEO DE PARAMETROS POR MEDIO DE SCAM PARA PROCESOS ESPECIALES.  
 
-1.- En **SPRO**, actualmente se parametrizan las listas, valores por defecto y bloque de los campos para procesos especiales, con el nuevo desarrollo, esa parametrización queda igual, pero se le suma la parametrización del SCAM como se explica a continuación:																																													
+1.- En **SPRO**, actualmente se parametrizan las listas, valores por defecto y bloque de los campos para procesos especiales, con el nuevo desarrollo, esa parametrización queda igual, pero se le suma la parametrización del SCAM como se explica a continuación:  
+
 - La parametrización se divide en 2 partes:  
 
 •	La primera para las listas del proceso especial, estas listas pueden definirse de 2 formas, la primera mediante una consulta a la base de datos (Query) definida en el campo QUERYSQL del **SCAM**, la cual debe tener únicamente 3 campos; el valor a enviar como parámetro, el texto a mostrar en la lista, y el nombre del parámetro que tomara estos datos, dicho nombre del parámetro debe ir en minúscula. La segunda forma para definir una lista es utilizando el **BCRC**, se crea un maestro **BCRC** con el programid del proceso especial y a dicho maestro se le definen en el detalle todos los datos de los campos que se van a manejar para el proceso especial, es decir, que si en el proceso especial hay 2 campos tipo lista, en el **BCRC** se definirán los valores que se tomaran en ambos campos. Para el **BCRC**, la parametrización tomada son los 3 campos del detalle: código, nombre característica y nombre característica 1, los cuales definen el valor a enviar, el nombre en el listado y el nombre del parámetro que tomara el dato.	
@@ -305,6 +306,42 @@ Muestra del **APEM** antes de aplicar la funcionalidad.
 Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido en **SCAM**.   
 
 ![](scam53.png)   
+
+
+#Parametrización botón tipo consulta genérica desde SCAM.  
+
+Se realiza mejora sobre el botón tipo consulta genérica  
+ARGUMENTO = js_InformationControl  
+Se muestra parametrización realizada desde el **SPRO**  
+![](spro1.png)   
+Se muestra parametrización en el detalle  
+Se resalta los campos argumento y datos  
+![](spro2.png)   
+**Hasta aca la parametrización desde el SPRO**.  
+
+Nos ubicamos en el **SCAM**, sobre el mismo programa  
+ ![](scam48.png)   
+**TabId:** Se indica el Identificador el Tab donde se mostrará el botón 													
+**FieldId:** Identificador del botón a crear, se puede colocar el indicador que uno desee	
+
+**Idioma:** Se recomienda dejar un único lenguaje para este tipo de botones		
+**Descripción:** Hace referencia al campo argumento que se tiene en el **SPRO**		
+**Defecto:** Se usa de igual manera que se usa en el **SPRO**													
+**Condición:** Se hace referencia al campo Modelo del **SPRO**	
+
+**ItemChange:** Se hace referencia al campo Vista del **SPRO**		
+**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON  
+
+ ![](scam49.png)   
+
+**QuerySQL:** Se coloca de igual manera como en el campo del **SPRO**  
+**Tipo:** Se crea una opción "BOTON".  
+
+
+
+
+
+
 
 
 
