@@ -308,7 +308,7 @@ Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido
 ![](scam53.png)   
 
 
-#Parametrización botón tipo consulta genérica desde SCAM.  
+##Parametrización botón tipo consulta genérica desde SCAM.  
 
 Se realiza mejora sobre el botón tipo consulta genérica  
 ARGUMENTO = js_InformationControl  
