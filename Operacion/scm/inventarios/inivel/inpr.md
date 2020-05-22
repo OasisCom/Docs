@@ -9,19 +9,26 @@ editable: si
 
 Aplicación que permite la consulta de los niveles de stock por producto, en los cuales se ve reflejado los niveles en los saldos por cada producto.  
 
-**Azul - indica que el nivel de la bodega esta arriba del nivel máximo.  
-Verde - el nivel esta entre el reorden y el nivel máximo de la bodega.  
-Amarillo – su nivel está en el mínimo de reorden.  
-Rojo – el nivel de la bodega esta por debajo del nivel mínimo.**  
+* [Funcionalidad del zoom en INBO - INPR](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/inpr)
 
-* ejemplo1
+
+**Azul** - indica que el nivel de la bodega esta arriba del nivel máximo.  
+**Verde** - el nivel esta entre el reorden y el nivel máximo de la bodega.  
+**Amarillo** – su nivel está en el mínimo de reorden.  
+**Rojo** – el nivel de la bodega esta por debajo del nivel mínimo.  
+
+* Ejemplo1
 	![](inpr2.png)
-* ejemplo2
+* Ejemplo2
 	![](inpr1.png)
 
 * Para facilitar la consulta de los niveles de stock por producto **INPR**, se han agrego los campos: **marca, nombre marca, clasificación, nombre Clasificación**.  
     ![](inpr3.png)   
-### Funcionalidad del zoom en **INBO - INPR**:
+
+
+
+## [Funcionalidad del zoom en INBO - INPR](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/inpr)
+
 Este zoom  lista los productos asociados según el producto activo; para elegir cual se debe comprar.  
 Esta parametrizacion aplica de la misma forma, para las dos opciones, **INBO - INPR**:  
 

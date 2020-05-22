@@ -9,6 +9,9 @@ editable: si
 
 Aplicación que permite la consulta de saldos periódicos por localización.
 
++ [Inventario Periódico e Inventario Cíclico](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl#inventario-periódico-e-inventario-cíclico)
+
+
 ![](ispl1.png)
 
 **Periodo:**  Hace referencia al mes de la consulta.  

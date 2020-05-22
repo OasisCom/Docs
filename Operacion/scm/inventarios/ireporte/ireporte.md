@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/
 editable: si
 ---
 
-# REPORTES  
+# Reportes  
 
 Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con filtros y ordenamiento dinámico.  
 

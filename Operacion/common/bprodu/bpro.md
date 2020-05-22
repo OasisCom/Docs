@@ -5,9 +5,18 @@ permalink: /Operacion/common/bprodu/bpro
 editable: si
 ---
 
-# PRODUCTOS - BPRO
+# Productos - BPRO
 
 En esta aplicación se deben parametrizar todos los productos o servicios que ofrece nuestra organización con sus respectivas características.  
+
+* [Pestaña Empaque](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#pestaña-empaque)
+* [Pestaña Presupuesto](http://docs.oasiscom.com/Operacion/common/bprodu/bpro##pestaña-presupuesto)
+* [Producción](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#producción)
+* [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#secuencia-de-consecutivos)
+* [Parametrización Proceso Compra de Café](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-proceso-compra-de-café)
+* [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-para-el-módulo-activos-fijos)
+
+
 
 ![](bpro1.png)
 
@@ -32,13 +41,13 @@ En esta aplicación se deben parametrizar todos los productos o servicios que of
 
 Esta aplicación nos permite realizar la parametrización de todos los servicios y/o productos (materia prima, suministro, terminados, activos fijos) con sus respectivas características, por lo tanto, se explicara los procesos que interfieren con dicha aplicación y una explicación general.  
 
-### [Pestaña Empaque](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#pestaña-empaque)
+## [Pestaña Empaque](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#pestaña-empaque)
 
 La pestaña _Empaque_ en la aplicación BPRO permite tener el registro de cada código de barras (EAN) que represente una unidad de empaque. Esta parametrización será el insumo de validación para el proceso de picking en el WMS.  
 
 ![](bpro11.png)
 
-## Pestaña Presupuesto  
+## [Pestaña Presupuesto](http://docs.oasiscom.com/Operacion/common/bprodu/bpro##pestaña-presupuesto)  
 
 Se crea esta pestaña, la cual permitirá relacionar a cada producto, en la compra la afectación presupuestal.  
 Debe de documentar los campos: Partida, Objeto Gasto, Centro de Costo, Fuente.

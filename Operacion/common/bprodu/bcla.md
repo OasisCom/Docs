@@ -5,9 +5,13 @@ permalink: /Operacion/common/bprodu/bcla
 editable: si
 ---
 
-# CLASIFICACIONES - BCLA
+# Clasificaciones - BCLA
 
 En esta aplicación se clasifican los productos o servicios de acuerdo a nuestras necesidades. Por ejemplo, si es una empresa de alimentos puede ser: Lácteos, cereales, granos, frutas, entre otros.  
+
+* [Producción](http://docs.oasiscom.com/Operacion/common/bprodu/babc#producción)
+* [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#parametrización-para-el-módulo-activos-fijos)
+
 
 ![](bcla3.png)
 
@@ -18,7 +22,7 @@ Los campos de grupo y tipo de impuesto como lo hemos visto anteriormente nos def
 
 Esta aplicación perimite realizar parametrización para diferentes procesos del sistema OasisCom, cómo lo son clasificaciones de productos terminados, materia prima, de activos fijos entre otros. Por lo tanto, se realizará una explicación de esta aplicación para los procesos que interfieran con la misma y una general de la explicación de los campos.
 
-## Producción
+## [Producción](http://docs.oasiscom.com/Operacion/common/bprodu/babc#producción)
 
 Iniciamos con la parametrización de la clasificación del producto, esto se realiza en la aplicación **BCLA**, estas clasificaciones son de acuerdo a las necesidades del cliente y se deben parametrizar antes del producto. Los productos terminados deben tener una clasificación diferente de 0 para diligenciar los costos estándar del proceso de producción.  
 
@@ -27,7 +31,7 @@ Adicionamos un registro nuevo, indicamos el id de la clasificación, el nivel y 
 
 ![](bcla1.png)![](bcla2.png)  
 
-### [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#parametrización-para-el-módulo-activos-fijos)
+## [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#parametrización-para-el-módulo-activos-fijos)
 
 En esta aplicación se crean cada una de las clasificaciones tipo activo fijo.  Para esto es necesario tener en cuenta:  
 
