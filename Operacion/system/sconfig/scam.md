@@ -312,11 +312,27 @@ Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido
 
 Se realiza mejora sobre el botón tipo consulta genérica  
 ARGUMENTO = js_InformationControl  
-Se muestra parametrización realizada desde el SPRO  
+Se muestra parametrización realizada desde el **SPRO**  
 ![](spro1.png)   
 Se muestra parametrización en el detalle  
 Se resalta los campos argumento y datos  
 ![](spro2.png)   
+Hasta aca la parametrización desde el **SPRO**.  
+
+* Nos ubicamos en el **SCAM**, sobre el mismo programa  
+ ![](scam48.png)   
+**TabId:** Se indica el Identificador el Tab donde se mostrará el botón 													
+**FieldId:** Identificador del botón a crear, se puede colocar el indicador que uno desee	
+
+**Idioma:** Se recomienda dejar un único lenguaje para este tipo de botones		
+**Descripción:** Hace referencia al campo argumento que se tiene en el **SPRO**		
+**Defecto:** Se usa de igual manera que se usa en el **SPRO**													
+**Condición:** Se hace referencia al campo Modelo del **SPRO**	
+
+**ItemChange:** Se hace referencia al campo Vista del **SPRO**		
+**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON		
+
+
 
 
 
