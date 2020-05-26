@@ -34,7 +34,9 @@ Para realizar el proceso de Diferencia en cambio, primero se debe realizar el pr
 
 Se selecciona el tipo de moneda, para el ejemplo de la ilustración, dólar.  
 
+
 ![](bmon3.png)  
+
 
 Luego, se va al detalle y se adiciona una nueva fila (+).  En el campo **_Moneda_** se diligencia el código correspondiente a la moneda, que para el caso de la ilustración es 1; en el campo **_Fecha_** se diligencia el último día del mes; en el campo **_Valor_**, se diligencia el valor en el que se encuentra el dólar(para este caso) en el mes y se guarda el registro. 
 
