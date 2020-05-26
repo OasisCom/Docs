@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación se puede ver la parametrización del proceso:  
 
-*
+* [**Diferencia en cambio**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon#diferencia-en-cambio)
 
 La aplicación **BMON** Monedas, permite registrar los diferentes tipos de monedas que se utilizarán en las operaciones de la empresa.  
 
@@ -29,7 +29,7 @@ En el detalle de la aplicación **BMON** llamado Tasa de Cambio, se registra el 
 ![](bmon2.png)  
 
 
-##    
+##  [**Diferencia en cambio**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon#diferencia-en-cambio)    
 
 Para realizar el proceso de Diferencia en cambio, primero se debe realizar el proceso de parametrización de la moneda desde esta aplicación **BMON**.  
 
