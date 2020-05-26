@@ -5,7 +5,7 @@ permalink: /Operacion/scm/pos/jreporte/jrdc
 editable: si
 ---
 
-# JRDC - Planilla de Control Diario
+# Planilla de Control Diario - JRDC
 
 El reporte **JRDC** permite ver las operaciones realizadas a un vehículo por día.  
 

@@ -5,11 +5,11 @@ permalink: /Operacion/scm/pos/jreporte/jrem
 editable: si
 ---
 
-# JREM - Ventas por Empleado
+# Ventas por Empleado - JREM
 
 El reporte **JREM** permite ver las ventas realizadas por cada empleado filtrando por fecha y ubicación.  
 
-Ingresamos a la aplicación, consultamos por la fecha y ubicación deseada y damos click en el botón _Generar_.  
+Ingresamos a la aplicación, consultamos por la fecha y ubicación deseada y damos clic en el botón _Generar_.  
 
 ![](jrem.png)
 
