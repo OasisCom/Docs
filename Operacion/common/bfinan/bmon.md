@@ -9,7 +9,7 @@ editable: si
 
 La aplicación **BMON** Monedas, permite registrar los diferentes tipos de monedas que se utilizarán en las operaciones de la empresa.  
 
-
+![](bmon1.png)
 
 **Moneda:** Consecutivo que asigna el sistema a las diferentes monedas que se registren. Este número será el que identifique a cada moneda en las diferentes aplicaciones que requieran especificar tipo de moneda.  
 **Nombre moneda:** Nombre de la moneda que se registra.  
