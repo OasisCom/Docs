@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/freporte/frps
 editable: si
 ---
 
-# FRPS - Saldos en Línea por Ubicación
+# Saldos en Línea por Ubicación - FRPS
 
 El reporte **FRPS** muestra el listado de precios con saldos de inventario por ubicación.  
 

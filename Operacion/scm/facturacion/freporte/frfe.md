@@ -5,11 +5,11 @@ permalink: /Operacion/scm/facturacion/freporte/frfe
 editable: si
 ---
 
-# FRFE - Reporte Facturación Electrónica
+# Reporte Facturación Electrónica - FRFE
 
 El reporte **FRFE** permite ver el estado de envío de las facturas electrónicas creadas por empresa.  
 
-Ingresamos a la aplicación y filtramos por el número de compañía a consultar, seleccionamos el status de las facturas que se desean ver y la fecha. Damos click en el botón ![](actualizar.png) _Generar_.  
+Ingresamos a la aplicación y filtramos por el número de compañía a consultar, seleccionamos el status de las facturas que se desean ver y la fecha. Damos clic en el botón ![](actualizar.png) _Generar_.  
 
 ![](frfe.png)
 
