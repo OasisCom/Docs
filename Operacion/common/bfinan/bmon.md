@@ -21,7 +21,7 @@ En el detalle de la aplicación **BMON** llamado Tasa de Cambio, se registra el 
 **Fecha:** Fecha en la cual se registra la tasa de cambio.  
 **Valor:** Valor por el cual se efectúa la tasa de cambio.  
 
-![](bmon2.png)
+
 
 
 
