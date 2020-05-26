@@ -14,4 +14,4 @@ Está integrado por los módulos:
 * [**VCNT**](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt) - Contratos de Venta
 * [**VAJO**](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vajo) - Ajuste a Contratos
 * [**VCRC**](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcrc) - Renueva Contrato
-* [**VCCP**](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/) - Contratos pendientes
+* [**VCCP**](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vccp) - Contratos pendientes
