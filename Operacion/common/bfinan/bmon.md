@@ -22,6 +22,6 @@ En el detalle de la aplicación **BMON** llamado Tasa de Cambio, se registra el 
 **Valor:** Valor por el cual se efectúa la tasa de cambio.  
 
 
-
+![](bmon2.png)
 
 
