@@ -7,6 +7,8 @@ editable: si
 
 # Precios - FPRE
 
+
+
 ## Parametrización Descuentos
 
 Primero se crearán varios productos y su respectiva lista de precios que servirán como ejemplo para realizar la parametrización de cada uno de los tipos de precio creados.  
