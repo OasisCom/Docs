@@ -28,6 +28,7 @@ En el detalle de la aplicación **BMON** llamado Tasa de Cambio, se registra el 
 
 ![](bmon2.png)  
 
+
 ##  [Diferencia en cambio](http://docs.oasiscom.com/Operacion/common/bfinan/bmon#Diferencia-en-cambio)  
 
 Para realizar el proceso de Diferencia en cambio, primero se debe realizar el proceso de parametrización de la moneda desde esta aplicación **BMON**.  
