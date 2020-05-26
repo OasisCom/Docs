@@ -9,9 +9,9 @@ editable: si
 
 En esta aplicación se lleva a cabo el proceso de diferencia en cambio, para ello debe realizarse una serie de parametrizaciones, las cuales se indican a continuación.
 
-![](KPDC1.png)
 
-Para efectuar el proceso de diferencia en cambio, en primer lugar, parametrizaremos el tipo de moneda en la aplicación _BMON – Moneda_, para conocer la parametrización por favor diríjase a la aplicación **BMON**.
+
+Para efectuar el proceso de diferencia en cambio, en primer lugar, parametrizaremos el tipo de moneda en la aplicación _BMON – Moneda_, para conocer la parametrización por favor diríjase a [**Diferencia en cambio**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon#diferencia-en-cambio).
 
 
 Parametrizado el tipo de moneda en la aplicación **BMON**, ingresamos a la aplicación **KPDC** en donde ejecutaremos la Diferencia en Cambio.
