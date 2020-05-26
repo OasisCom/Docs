@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación se puede ver la parametrización del proceso:  
 
-* [Diferencia en cambio](http://docs.oasiscom.com/Operacion/common/bfinan/bmon#Diferencia-en-cambio) 
+* [Diferencia en cambio](http://docs.oasiscom.com/Operacion/common/bfinan/bmon#Diferencia-en-cambio)
 
 La aplicación **BMON** Monedas, permite registrar los diferentes tipos de monedas que se utilizarán en las operaciones de la empresa.  
 
