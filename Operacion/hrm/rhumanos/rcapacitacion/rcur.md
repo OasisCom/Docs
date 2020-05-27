@@ -27,7 +27,7 @@ Allí se ingresa el código que se le asignará al tipo de curso y el nombre. Es
 En los siguientes campos:
 
 
-![](rcur2.png)
+
 
 
 **Teacher Id**: diligenciar el número de identificación de la persona que estará a cargo del curso.  
