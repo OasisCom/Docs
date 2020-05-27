@@ -30,7 +30,7 @@ Diligenciados los campos damos clic en el botón ejecutar.
 
 ![](KPDC6.png)
 
-Ejecutado el proceso, el sistema automáticamente creará un documento **NK** con concepto **DC** en la aplicación **_KMOV_**, allí se debe verificar que el proceso se haya generado correctamente y que las cuentas contables en el detalle del documento sean las correctas. Una vez verificado lo anterior, se debe procesar el documento. 
+Ejecutado el proceso, el sistema automáticamente creará un documento **NK** con concepto **DC** en la aplicación [**Movimientos - KMOV**], allí se debe verificar que el proceso se haya generado correctamente y que las cuentas contables en el detalle del documento sean las correctas. Una vez verificado lo anterior, se debe procesar el documento. 
 
 
 
