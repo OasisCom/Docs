@@ -15,6 +15,17 @@ Aplicación **EPRE**  extrae la información de las prescripciones originadas de
 
 Definicion **MIPRES:** código que permite a los profesionales de salud reportar la prescripción de tecnologías en salud no financiadas, con recursos de la UPC o servicios complementarios. como se ilustra resaltado.  
 
+Creación de botón para consumo reporte de entrega por número de prescripción, proceso MIPRES.  
+
+![](epre2.png)  
+
+
+![](epre3.png)  
+
+
+
+
+
 
 
 
