@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irvp
 editable: si
 ---
 
-# IRVP - Valorización Periódica por Ubicación
+# Valorización Periódica por Ubicación - IRVP
 
 
 El reporte **IRVP** permite ver los saldos periódicos de inventario por ubicación. El reporte cuenta con unos filtros que permiten facilitar y definir mejor la consulta.  

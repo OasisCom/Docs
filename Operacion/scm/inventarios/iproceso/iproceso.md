@@ -5,13 +5,13 @@ permalink: /Operacion/scm/inventarios/iproceso/
 editable: si
 ---
 
-# PROCESOS ESPECIALES  
+# Procesos Especiales  
 
 En esta sección podrán encontrar las aplicaciones de la generación de los diferentes procesos que se pueden obtener en el módulo de inventarios.  
 
 Las aplicaciones que se utilizan en esta ventana son:  
 
-* [**Inicio año inventarios - IPIA**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/ipia)  
-* [**Genera transferencia - IPTR**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iptr)  
-* [**Pendiente remisión - IPRP**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iprp)  
+* [**IPIA**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/ipia) - Inicio año inventarios
+* [**IPTR**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iptr) - Genera transferencia
+* [**IPRP**](http://docs.oasiscom.com/Operacion/scm/inventarios/iproceso/iprp) - Pendiente remisión
 
