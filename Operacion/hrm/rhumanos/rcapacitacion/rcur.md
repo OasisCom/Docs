@@ -11,7 +11,7 @@ editable: si
 La aplicación **RCUR – Cursos**, permite registrar los cursos planeados para el mes. Para iniciar, ingresamos a la aplicación **RCUR** y parametrizamos los cursos previstos.
 
 
-![](rcur1.png)
+
 
 
 Agregamos un nuevo registro y diligenciamos los campos correspondientes:  
