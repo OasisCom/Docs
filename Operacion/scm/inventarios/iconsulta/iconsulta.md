@@ -11,7 +11,8 @@ Es posible personalizar el contenido de las consultas del sistema para visualiza
 
 Las aplicaciones con las que se pueden realizar consultas son:  
 
-* [**Productos empresa - IPRE**](http://docs.oasiscom.com/Operacion/scm/inventarios/iconsulta/ipre)  
-* [**Kardex por cliente - ICSL**](http://docs.oasiscom.com/Operacion/scm/inventarios/iconsulta/icsl)
+* [**IPRE**](http://docs.oasiscom.com/Operacion/scm/inventarios/iconsulta/ipre) - Productos empresa
+* [**ICSL**](http://docs.oasiscom.com/Operacion/scm/inventarios/iconsulta/icsl) - Kardex por cliente
+* [**ICTR**](http://docs.oasiscom.com/Operacion/scm/inventarios/iconsulta/ictr) - Consulta de Traslados
 
 
