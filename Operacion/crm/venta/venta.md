@@ -5,5 +5,5 @@ permalink: /Operacion/crm/venta/
 editable: si
 ---
 
-# VENTAS
+# Ventas
 

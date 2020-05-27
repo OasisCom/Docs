@@ -58,7 +58,7 @@ En el detalle se encuentran dos pestañas: _oportunidades_ y _tareas_. La pesta�
 En la pestaña  _Tareas_ se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.  
 
 
-**********
+
 
 
 
