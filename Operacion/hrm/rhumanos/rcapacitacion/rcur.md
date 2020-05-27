@@ -35,7 +35,7 @@ En los siguientes campos:
 **Maximum Student**: número máximo de estudiantes que pueden realizar el curso.  
 
 
-
+![](rcur3.png)
 
 
 **Competencia**: Código de la competencia que será reforzada con el curso. Las competencias deben estar previamente parametrizadas en la aplicación **RCOM – Competencias**.  
