@@ -2538,7 +2538,7 @@ Finalizando el proceso de piking.
 
 
 
-
+Adecuación para que las observaciones del detalle del VPED sean notificados al momento de hacer el proceso del PICKING, si el cliente solicita un producto con características especiales (color); el sistema indique que ese producto tiene comentarios y se pueda ver las observaciones diligenciadas en el detalle del VPED.  
 
 
 
