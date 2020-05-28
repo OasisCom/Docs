@@ -1414,11 +1414,26 @@
               - text: Oportunidades
                 url: /Operacion/crm/portal/cliente/eaopo
               - text: WEB Application Affiliates
-                url: /Operacion/crm/portal/cliente/eeson              
-              - text: Proveedores
-                url: /Operacion/crm/portal/proveedor/
+                url: /Operacion/crm/portal/cliente/eeson
+            - text: Proveedores
+              url: /Operacion/crm/portal/proveedor/
+              subitems:                
               - text: Imprime Estados de Cuenta Proveedores
-                url: /Operacion/crm/portal/proveedor/epsec                
+                url: /Operacion/crm/portal/proveedor/epsec
+              - text: Certificados de Retención
+                url: /Operacion/crm/portal/proveedor/ekrcr
+              - text: Solicitud de Autorizaciones Hospitalarias
+                url: /Operacion/crm/portal/proveedor/eesoa
+              - text: Consulta de Solicitud de Autorizaciones
+                url: /Operacion/crm/portal/proveedor/eersa
+              - text: Notificación de Urgencias 
+                url: /Operacion/crm/portal/proveedor/eenou
+              - text: Consulta de Notificación de Urgencia 
+                url: /Operacion/crm/portal/proveedor/eernu                
+              - text: Solicitud de Referencia  
+                url: /Operacion/crm/portal/proveedor/eercf
+              - text: Consulta Referencia y Contrareferencia 
+                url: /Operacion/crm/portal/proveedor/eercr                
             - text: Empleados
               url: /Operacion/crm/portal/empleado/
             - text: Servicio
