@@ -182,7 +182,7 @@ Se visualiza la siguiente ventana:
 
 ##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
 
-Para conocer el proceso completo, por favor diríjase a: [Cómo-relacionar-un-pedido-a-una-cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización) en **VCOT**  
+Para conocer el proceso completo, por favor diríjase a: [Cómo relacionar un pedido a una cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización) en **VCOT**  
 
 
 
