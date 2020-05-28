@@ -5,7 +5,7 @@ permalink: /Operacion/crm/venta/aprospecto/acon
 editable: si
 ---
 
-# ACON - Contactos  
+# Contactos - ACON
 
 La Aplicacion **ACON** realiza el repositorio de datos al "Prospecto"; su funcionabilidad esta basada en el mismo **APRO**  a los clientes potenciales de una empresa. Se trata de una persona que ya mostró interés por tu marca, producto o servicio. Puede que se haya subscrito a un boletín o directamente se haya puesto en contacto contigo para recibir más información. En esta aplicacion **ACON** se realiza y documenta la mayor cantidad de datos del futuro cliente; que podra ser convertdo automaticamente en oportunidad **AOPO**.  
 La prospección es el primer paso del proceso de ventas, puede que se convierta o no en un cliente, sin embargo tendrá que seguir una serie de pasos hasta llegar a ese punto. El primer punto de partida es la calificación de prospectos, donde el vendedor determina si el prospecto cuenta con todas las características para convertirse en cliente.
@@ -58,7 +58,7 @@ En el detalle se encuentran dos pestañas: _oportunidades_ y _tareas_. La pesta�
 En la pestaña  _Tareas_ se verán las actividades que se han ejecutado relacionadas con la gestión a dicho contacto del maestro.  
 
 
-**********
+
 
 
 

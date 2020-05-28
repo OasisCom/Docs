@@ -5,5 +5,5 @@ permalink: /Operacion/scm/distribucion/dbasica/
 editable: si
 ---
 
-# DATOS BASICOS
+# Datos Basicos
 

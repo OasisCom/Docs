@@ -7,7 +7,7 @@ editable: si
 
 # Renueva Contrato - VCRC
 
-La aplicación VCRC permite consultar los contratos de venta y así mismo renovarlos siendo el caso.  
+La aplicación **VCRC** permite consultar los contratos de venta y así mismo renovarlos siendo el caso.  
 
 ![](vcrc1.png)
 

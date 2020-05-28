@@ -5,11 +5,11 @@ permalink: /Operacion/scm/wms/wmbasica/
 editable: si
 ---
 
-# DATOS BASICOS  
+# Datos Basicos  
 
 En esta sección podrán encontrar las aplicaciones de parametrización del módulo de bodega.  
 
 Esta ventana utiliza la aplicación:  
 
-* [**Localizaciones - IBLO**](http://docs.oasiscom.com/Operacion/scm/wms/wmbasica/iblo)
+* [**IBLO**](http://docs.oasiscom.com/Operacion/scm/wms/wmbasica/iblo) - Localizaciones
 

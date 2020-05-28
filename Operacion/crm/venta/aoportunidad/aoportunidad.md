@@ -5,5 +5,9 @@ permalink: /Operacion/crm/venta/aoportunidad/
 editable: si
 ---
 
-# OPORTUNIDADES
+# Oportunidades
 
+Está integrado por los módulos:
+
+* [**AOPO**](http://docs.oasiscom.com/Operacion/crm/venta/aoportunidad/aopo) - Oportunidades
+* [**EAOPO**](http://docs.oasiscom.com/Operacion/crm/venta/aoportunidad/eaopo) - Oportunidades

@@ -5,5 +5,14 @@ permalink: /Operacion/crm/
 editable: si
 ---
 
-# CLIENTES CRM
+# Clientes CRM
 
+Está integrado por los módulos:
+
+* [**Ventas**](http://docs.oasiscom.com/Operacion/crm/venta/)
+* [**Mercadeo**](http://docs.oasiscom.com/Operacion/crm/mercadeo/)
+* [**Servicio**](http://docs.oasiscom.com/Operacion/crm/servicio/)
+* [**Help Desk**](http://docs.oasiscom.com/Operacion/crm/helpdesk/)
+* [**Desarrollo**](http://docs.oasiscom.com/Operacion/crm/development/)
+* [**Proyectos**](http://docs.oasiscom.com/Operacion/crm/proyecto/)
+* [**Portales**](http://docs.oasiscom.com/Operacion/crm/portal/)

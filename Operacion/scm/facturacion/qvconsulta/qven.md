@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qven
 editable: si
 ---
 
-# Sale Pivot - QVEN
+# Venta Pivot - QVEN
 
 La aplicación **QVEN** – Sales pivot permite consultar reportes de ventas por clientes según la necesidad.
 

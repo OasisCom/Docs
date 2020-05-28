@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvdu
 editable: si
 ---
 
-# QVDU - Diarias por punto de venta
+# Diarias por punto de venta - QVDU
 
 La aplicación **QVDU** permite consultar la relación de ventas diarias por punto de venta.  
 

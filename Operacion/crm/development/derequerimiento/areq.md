@@ -5,9 +5,13 @@ permalink: /Operacion/crm/development/derequerimiento/areq
 editable: si
 ---
 
-# AREQ - Requerimientos
+# Requerimientos - AREQ
 
-La aplicación AREQ permite registrar los requerimientos y asignarlos a los connsultores para su ejecución.  
+La aplicación **AREQ** permite registrar los requerimientos y asignarlos a los connsultores para su ejecución.  
+
+* [Esquema de Work Flow](http://docs.oasiscom.com/Operacion/crm/development/derequerimiento/areq#esquema-de-work-flow)
+* [Terminación de tareas](http://docs.oasiscom.com/Operacion/crm/development/derequerimiento/areq#terminación-de-tareas)
+
 
 ## [Esquema de Work Flow](http://docs.oasiscom.com/Operacion/crm/development/derequerimiento/areq#esquema-de-work-flow)
 
@@ -54,7 +58,7 @@ Si la suma de las ejecuciones supera la planeación por ende queda terminada la 
 
 ![](areq6.png)
 
-### Terminación de tareas
+## [Terminación de tareas](http://docs.oasiscom.com/Operacion/crm/development/derequerimiento/areq#terminación-de-tareas)
 
 La tarea también puede ser tarminada manualmente, es _Status_ cambiará a T (Terminado).  
 

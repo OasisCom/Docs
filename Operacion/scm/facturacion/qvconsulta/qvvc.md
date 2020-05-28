@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvvc
 editable: si
 ---
 
-# QVVC - Clasificación por Vendedor
+# Clasificación por Vendedor - QVVC
 
 La aplicación **QVVC** permite consultar las ventas de cada asesor comercial por clasificación.  
 

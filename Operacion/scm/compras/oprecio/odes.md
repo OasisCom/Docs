@@ -5,7 +5,7 @@ permalink: /Operacion/scm/compras/oprecio/odes
 editable: si
 ---
 
-# ODES - Precio de Café
+# Precio de Café - ODES
 
 En la aplicación **ODES** se debe registrar diariamente el precio del café por cada producto.  
 

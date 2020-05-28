@@ -5,5 +5,9 @@ permalink: /Operacion/crm/venta/apartner/
 editable: si
 ---
 
-# PARTNERS
+# Partners
+
+Está integrado por los módulos:
+
+* [**APAR**](http://docs.oasiscom.com/Operacion/crm/venta/apartner/apar) - Partners
 

@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/iconsulta/ipre
 editable: si
 ---
 
-# IPRE - Productos Empresas
+# Productos Empresas - IPRE
 
 La aplicación **IPRE** permite consultar información a cerca del inventario, datos detallados, ordenes pendientes y pedidos pendientes del producto seleccionado en el maestro. La aplicación mostrará la información de todas las empresas a las que el usuario tenga permiso de acceso.  
 

@@ -15,7 +15,8 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Verificación de Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
 >+ [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
 >+ [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
->+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped)
+>+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
+>+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)
 
 
 
@@ -163,7 +164,7 @@ El botón **info_ventas** en el detalle de la opción _VPED_, permite visualizar
 
 ![](vped14.png)
 
-## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped)
+## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)
 
 Esta función permite ver el saldo por ubicación del detalle de un producto en especifico.
 
@@ -176,7 +177,12 @@ Se visualiza la siguiente ventana:
 ![](vped55.png)
 
 * Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
-* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda. 
+
+
+##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
+
+Para conocer el proceso completo, por favor diríjase a: [Cómo-relacionar-un-pedido-a-una-cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización) en **VCOT**  
 
 
 

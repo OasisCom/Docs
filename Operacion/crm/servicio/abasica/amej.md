@@ -5,7 +5,7 @@ permalink: /Operacion/crm/servicio/abasica/amej
 editable: si  
 ---  
 
-# MEJORA - AMEJ   
+# Mejora - AMEJ   
 
 ![](amej1.png)  
 

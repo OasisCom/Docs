@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvcd
 editable: si
 ---
 
-# Daily Punto Venta - Clasification - QVCD
+# Diarias por Punto  de Venta - QVCD
 
 La aplicación **QVCD** permite visualizar la clasificación de los productos por los puntos de venta.
 

@@ -5,5 +5,5 @@ permalink: /Operacion/crm/development/dereporte/
 editable: si
 ---
 
-# REPORTES
+# Reportes
 

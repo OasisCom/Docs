@@ -2538,7 +2538,7 @@ Finalizando el proceso de piking.
 
 
 
-
+Adecuación para que las observaciones del detalle del VPED sean notificados al momento de hacer el proceso del PICKING, si el cliente solicita un producto con características especiales (color); el sistema indique que ese producto tiene comentarios y se pueda ver las observaciones diligenciadas en el detalle del VPED.  
 
 
 
@@ -2723,8 +2723,11 @@ El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la para
 
 
 
+Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para realizar el filtro de responsable. Adicional se cambia visualmente la estructura visual del MIFIS.  
 
+![](mifis3.png)  
 
+![](mifis4.png)  
 
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
 

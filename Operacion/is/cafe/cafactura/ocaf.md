@@ -172,6 +172,15 @@ Adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de
 
 * **Importante:** El sistema validara la RETENCION acumulada diaria, por cada una de las ubicaciones en **OCAF** que esten procesadas, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OCAF**.  
 
+## [Variable de Bonificación]
+Cuando el factor de rendimiento determina que el café es muy bueno calidad AAA, entonces se le paga un valor adicional, sin que  supere un tope que en este  caso se indica en el WVAR.  
+Ajuste a café AAA, se adicionan variable de tope WVAR para evaluar directamente en el descuento, que la bonificación por factor no supere el valor indicado en la variable.  
+
+
+
+
+
+
 
 
 

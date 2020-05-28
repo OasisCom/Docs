@@ -5,15 +5,15 @@ permalink: /Operacion/scm/pos/jreporte/jrci
 editable: si
 ---
 
-# JRCI - Comprobante de Informe Diario
+# Comprobante de Informe Diario - JRCI
 
 El reporte **JRCI** permite visualizar la información diaria por ubicación de los turnos registrados en **JTUR - Turnos**.  
 
-Ingresamos a la aplicación JRCI e ingresamos la _ubicación_ que corresponde al punto de venta de consulta y la fecha.  
+Ingresamos a la aplicación **JRCI** e ingresamos la _ubicación_ que corresponde al punto de venta de consulta y la fecha.  
 
 ![](jrci.png)
 
-Ahora generamos el reporte dando click en el botón ![](actualizar.png).  
+Ahora generamos el reporte dando clic en el botón ![](actualizar.png).  
 
 ![](jrci1.png)
 

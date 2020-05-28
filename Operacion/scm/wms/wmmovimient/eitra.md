@@ -9,7 +9,14 @@ editable: si
 
 La aplicación **EITRA** permite realizar movimientos logísticos.  
 
-## [Recoleccion]
+* [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
+* [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
+* [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
+* [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
+* [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
+
+
+## [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
 La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
 
 Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PI - Recoleccion_.  

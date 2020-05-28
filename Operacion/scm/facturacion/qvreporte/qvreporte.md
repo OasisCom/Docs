@@ -5,17 +5,17 @@ permalink: /Operacion/scm/facturacion/qvreporte/
 editable: si
 ---
 
-# REPORTES DE PRESUPUESTO DE VENTAS    
+# Reportes de Presupuesto de Ventas  
 
 
 Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con filtros y ordenamiento dinámico.  
 
 Algunas aplicaciones para reportes de presupuesto de ventas son:  
 
-* **Segmento - QRSE**  
-* **Cliente por ciclo - QRTC**  
-* **Producto por ciclo - QRPC**  
-* **Empresa por ciclo - QRMC**  
-* **Presupuesto vendedor - QRVE**    
-* **Ventas por vendedor - QRVV**
+* [**QRSE**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvreporte/qrse) - Segmento
+* [**QRTC**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvreporte/qrtc) - Cliente por ciclo
+* [**QRPC**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvreporte/qrpc) - Producto por ciclo
+* [**QRMC**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvreporte/qrmc) - Empresa por ciclo
+* [**QRVE**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvreporte/qrve) - Presupuesto vendedor
+* [**QRVV**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvreporte/qrvv) - Ventas por vendedor
 
