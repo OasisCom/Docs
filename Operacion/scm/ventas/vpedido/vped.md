@@ -16,7 +16,7 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
 >+ [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
 >+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)  
->+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vped#cómo-relacionar-un-pedido-a-una-cotización)
+>+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)
 
 
 
@@ -180,7 +180,7 @@ Se visualiza la siguiente ventana:
 * Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda. 
 
 
-##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vped#cómo-relacionar-un-pedido-a-una-cotización)  
+##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
 
 Para conocer el proceso completo, por favor diríjase a: [Cómo-relacionar-un-pedido-a-una-cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización) en **VCOT**
 
