@@ -115,7 +115,7 @@ Si se trata de guardar la información sin dar tab, el sistema debe mostrar el m
 
 ![](vcot11.png)  
 
-##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización)  
+## [Cómo-relacionar-un-pedido-a-una-cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización)  
 
 Se ingresa a esta aplicación **VCOT** y se adiciona un nuevo registro (+).  En el campo **_Documento_** se abre el Zoom y se escoge la opción **_CT_** de Cotizaciones;  luego se abre el Zoom del campo **_Concepto_** y de nuevo se elige la opción **_CT_** de Cotizaciones; en el campo **_Tercero_** diligenciamos el NIT o cédula del tercero, en este caso el proveedor; ahora siguen los campos **_Tipo de precio_** y **_Condición de pago_** en los que se despliega un menú con diferentes opciones para elegir la pactada.  Se guarda el registro.
 
