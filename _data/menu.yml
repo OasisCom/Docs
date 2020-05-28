@@ -976,6 +976,8 @@
                 url: /Operacion/scm/inventarios/imovimient/imcm
               - text: Movimiento Contable
                 url: /Operacion/scm/inventarios/imovimient/immc
+              - text: Recepción de Mercancía
+                url: /Operacion/scm/inventarios/imovimient/imre                
             - text: Inventario Fisico 
               url: /Operacion/scm/inventarios/ifisico/
               subitems:
@@ -1022,6 +1024,10 @@
               subitems:
               - text: Inicio Año Inventarios
                 url: /Operacion/scm/inventarios/iproceso/ipia
+              - text: Genera Transferencia
+                url: /Operacion/scm/inventarios/iproceso/iptr
+              - text: Pendiente Remisión
+                url: /Operacion/scm/inventarios/iproceso/iprp                
             - text: Reportes
               url: /Operacion/scm/inventarios/ireporte/
               subitems:
@@ -1070,8 +1076,16 @@
               url: /Operacion/scm/wms/wmbasica/
             - text: Movimientos
               url: /Operacion/scm/wms/wmmovimient/
+              subitems:
+              - text: Trabajos Web
+                url: /Operacion/scm/wms/wmmovimient/eitra
+              - text: Trabajos
+                url: /Operacion/scm/wms/wmmovimient/itra                
             - text: Reportes
               url: /Operacion/scm/wms/wmreporte/
+              subitems:
+              - text: Formulario Técnico de Recepción
+                url: /Operacion/scm/wms/wmreporte/irrt             
         - text: Importaciones
           url: /Operacion/scm/importacion/
           subitems:
@@ -1242,6 +1256,9 @@
               url: /Operacion/hrm/rhumanos/rbasica/
             - text: Expediente
               url: /Operacion/hrm/rhumanos/rexpediente/
+              subitems:
+              - text: Expediente
+                url: /Operacion/hrm/nomina/nreporte/rexp              
             - text: Estructura
               url: /Operacion/hrm/rhumanos/restructura/
               subitems:
