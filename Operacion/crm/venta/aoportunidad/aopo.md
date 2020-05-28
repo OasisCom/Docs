@@ -5,7 +5,7 @@ permalink: /Operacion/crm/venta/aoportunidad/aopo
 editable: si
 ---
 
-# AOPO - Oportunidades
+# Oportunidades - AOPO
 
 La aplicación AOPO permite registrar las oportunidades de negocio que puedan surgir de las diferentes campañas comerciales.  
 
