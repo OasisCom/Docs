@@ -19,7 +19,7 @@ editable: si
 
 Aplicación que permite elaborar facturas o devoluciones que se realicen en el punto de venta, estas son discriminadas por turnos para tener control sobre la cantidad de cajeros existentes.  
 
-![](jfac2.png)
+
 
 **Documento:** Documento parametrizado con anterioridad en el sistema. Este documento puede ser FA (Factura) o DE (Devolución).  
 **Número:** Consecutivo de documento automático.  
