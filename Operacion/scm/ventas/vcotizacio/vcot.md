@@ -125,7 +125,6 @@ Se ingresa a esta aplicación **VCOT** y se adiciona un nuevo registro (+).  En 
 
 Ahora, se pasa a diligenciar la parte inferior o detalle.  Se abre un nuevo registro (+).  En el campo **_Producto_** se abre el Zoom y se selecciona el producto a cotizar, se pulsa **_tab_** y la cantidad y el precio se diligencian automáticamente y se guarda el detalle.  
 
-
 ![](vcot13.png)  
 
 
