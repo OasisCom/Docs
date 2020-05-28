@@ -2723,8 +2723,11 @@ El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la para
 
 
 
+Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para realizar el filtro de responsable. Adicional se cambia visualmente la estructura visual del MIFIS.  
 
+![](mifis3.png)  
 
+![](mifis4.png)  
 
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
 
