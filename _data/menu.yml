@@ -869,9 +869,7 @@
               - text: Aprobación de Compras - OCAC
                 url: /Operacion/scm/compras/ocotizacio/ocac
               - text: Aprobación de Compras - OCAE
-                url: /Operacion/scm/compras/ocotizacio/ocae
-              - text: Aprobación de Compras - OCAT
-                url: /Operacion/scm/compras/ocotizacio/ocat                
+                url: /Operacion/scm/compras/ocotizacio/ocae               
             - text: Ordenes de Compra
               url: /Operacion/scm/compras/oorden/
               subitems:
