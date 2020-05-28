@@ -866,8 +866,12 @@
               subitems:
               - text: Cotizaciones
                 url: /Operacion/scm/compras/ocotizacio/ocot
-              - text: Aprobacion de Compras
+              - text: Aprobación de Compras - OCAC
                 url: /Operacion/scm/compras/ocotizacio/ocac
+              - text: Aprobación de Compras - OCAE
+                url: /Operacion/scm/compras/ocotizacio/ocae
+              - text: Aprobación de Compras - OCAT
+                url: /Operacion/scm/compras/ocotizacio/ocat                
             - text: Ordenes de Compra
               url: /Operacion/scm/compras/oorden/
               subitems:
@@ -875,6 +879,10 @@
                 url: /Operacion/scm/compras/oorden/oord
               - text: Ajuste de Ordenes de Compra
                 url: /Operacion/scm/compras/oorden/oajo
+              - text: Reevaluación de Proveedores
+                url: /Operacion/scm/compras/oorden/oevp
+              - text: Órdenes Pendientes
+                url: /Operacion/scm/compras/oorden/opop                
             - text: Facturas
               url: /Operacion/scm/compras/ofactura/
               subitems:
@@ -1300,6 +1308,8 @@
               subitems:
               - text: Prospectos
                 url: /Operacion/crm/venta/aprospecto/apro
+              - text: Contactos
+                url: /Operacion/crm/venta/aprospecto/acon                
             - text: Oportunidades
               url: /Operacion/crm/venta/aoportunidad/
               subitems:
