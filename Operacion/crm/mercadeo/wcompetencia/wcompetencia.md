@@ -5,5 +5,5 @@ permalink: /Operacion/crm/mercadeo/wcompetencia/
 editable: si
 ---
 
-# COMPETENCIA
+# Competencia
 

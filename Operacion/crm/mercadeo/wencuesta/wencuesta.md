@@ -5,5 +5,5 @@ permalink: /Operacion/crm/mercadeo/wencuesta/
 editable: si
 ---
 
-# ENCUESTAS
+# Encuestas
 
