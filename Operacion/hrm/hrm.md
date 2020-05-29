@@ -5,5 +5,5 @@ permalink: /Operacion/hrm/
 editable: si
 ---
 
-# RECURSOS HUMANOS HRM
+# Recursos Humanos HRM
 
