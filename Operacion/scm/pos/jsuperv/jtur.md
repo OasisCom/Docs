@@ -7,7 +7,7 @@ editable: si
 
 # Turnos - JTUR
 
-Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno **JTUR**.  
+Aplicación cuya funcionalidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno **JTUR**.  
 
 ![](jtur1.png)  
 
@@ -32,10 +32,10 @@ Aplicación cuya funcionabilidad es resumir las transacciones realizadas en un d
 
 ![](jtur3.png)  
 
-Desde el basico de documentos **BDOC** se parametrizan los: Abonos, sobrantes, faltantes etc. Que podrán ser editados en el detalle del turno **JTUR**.  
+Desde el basico de documentos **BDOC** se parametrizan los: abonos, sobrantes, faltantes etc. que podrán ser editados en el detalle del turno **JTUR**.  
 
 
-Para revisar cuanto facturó el cajero en su turno, ingresamos a revisar el turno en la aplicación **JTUR** - Turnos, nos dirigimos al menú y seleccionamos la opción.  
+Para revisar cuánto facturó el cajero en su turno, ingresamos a revisar el turno en la aplicación **JTUR** - Turnos, nos dirigimos al menú y seleccionamos la opción.  
 
 
 * Existen dos formas de realizar la apertura del turno: una es realizar la primera factura de venta y al confirmarla, automáticamente se abre el **JTUR**. La segunda forma es desde el **JTUR** realizar la inserción y guardar.  
@@ -51,7 +51,7 @@ La forma correcta de confirmar o procesar un turno es realizar la equivalencia e
 ![](jtur2.png)
 
 Se realiza Adecuación en el detalle del **JTUR (turnos)**, donde permite seleccionar las formas de pago para los recaudos realizados en abonos de efectivo; por conceptos como separación de mercancía.  
-Para este escenario se agrego el campo **forma de pago** en el detalle del **JTUR**.   
+Para este escenario se agregó el campo **forma de pago** en el detalle del **JTUR**.   
 
 ![](jtur5.png)  
 
