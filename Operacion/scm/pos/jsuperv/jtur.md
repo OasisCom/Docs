@@ -69,7 +69,10 @@ En caso de que el cierre de caja no cuadre, se puede realizar un faltante o sobr
 
 
 
+![](jtur8.png)  
 
+
+![](jtur9.png)  
 
 
 
