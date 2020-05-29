@@ -75,4 +75,7 @@ En caso de que el cierre de caja no cuadre, se puede realizar un faltante o sobr
 ![](jtur9.png)  
 
 
+Ahora se revisa la aplicación **Turno pago - JRTP**.  En esta aplicación hay varios campos, pero se consulta por el campo **_Número_** y se escribe el mismo número de turno.  En este, se ve cuántas facturas están asociadas al turno.  Estas facturas están discriminadas por fecha, 
+
+
 
