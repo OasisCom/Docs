@@ -91,7 +91,7 @@ Al realizar una factura en JFAC, es posible relacionar una solicitud de crédito
 
 Posteriormente damos click sobre el botón _Guardar_.  
 
-![](jfac11.png)  
+  
 
 * Cuando realizamos el guardado del maestro de la factura; el sistema lleva el cursor al primer renglón del producto, para seguir editando la factura insertando los productos y características de esta.  
 
