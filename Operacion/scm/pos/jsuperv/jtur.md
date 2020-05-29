@@ -9,7 +9,7 @@ editable: si
 
 Aplicación cuya funcionalidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno **JTUR**.  
 
-  
+![](jtur1.png)  
 
 **Documento:** parametrizado desde el **BDOC.**  
 **Número:** Consecutivo de documento automático.  
