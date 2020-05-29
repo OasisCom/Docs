@@ -7,25 +7,26 @@ editable: si
 
 # Calendario - GCAL
 
+La opción **GCAL - Calendario**, muestra la planeación actual de los recursos. 
+
 
 * [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
 
 
-
-La opción **GCAL - Calendario**, muestra la planeación actual de los recursos, cada registro corresponde a la disponibilidad del doctor dependiendo la hora y el día. 
+Cada registro corresponde a la disponibilidad del doctor, dependiendo la hora y el día. 
 
 ![](gcal1.png)
 
 
-Cada registro corresponde a la disponibilidad en una hora y fecha determinada para un recurso. Estos registros pueden estar en cuatro diferentes status:  
+Cada registro corresponde a la disponibilidad en una hora y fecha determinada para un recurso. Estos registros pueden estar en cuatro diferentes estatus:  
 
 * Libre  
 * Asignado  
 * Paciente en sala  
 * En atención  
 
-Estos estados van cambiando dependiendo de la acción realizada por un usuario para asignar una cita a un paciente, indicar la llegada de un paciente o indicar que ya se está atendiendo al mismo. A continuación, se describen las acciones para el respectivo proceso de asignación y consulta de citas:  
+Estos estados van cambiando, dependiendo de la acción realizada por un usuario para asignar una cita a un paciente, indicar la llegada de un paciente o indicar que ya se está atendiendo al mismo. A continuación, se describen las acciones para el respectivo proceso de asignación y consulta de citas:  
 
 En la botonera de esta opción, se encuentran los siguientes botones:  
 
@@ -52,6 +53,16 @@ El primer botón ![](gcal3.png) (Crear Cita) permite asignar una cita a un pacie
 **Id Afiliado**: se deberá ingresar el documento de identificación del paciente.  
 
 El paciente debe estar previamente creado en la aplicación **BTER - Terceros**, es decir, se debe crear un registro diligenciando los campos correspondientes. 
+
+![](gl1.png)
+
+Dado el caso que el afiliado no se encuentre se creara el tercero dando clic en crear tercero.
+
+![](gl2.png)
+
+Dando clic en agregar nuevo registro, diligenciamos los campos de datos basicos requeridos. 
+
+![](gl3.png)
 
 Luego de diligenciar los campos, se procede a guardar el registro dando clic en el botón _guardar_.  
 
@@ -85,10 +96,8 @@ Se debe tener en cuenta que el funcionamiento de este botón se cumple únicamen
 El último botón ![](gcal13.png) (Cancelar_Cita) cumple la función de reversar un registro que se encuentre en status **ASIGNADO** al status **LIBRE** y adicionalmente, reversa y anula el registro correspondiente creado en la opción **GCIT - Citas**.
 
 
-![](gcal14.png)
+![](gcal14.png)     ![](gcal15.png)
 
-
-![](gcal15.png)
 
 ## [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * Opcion-1.  
@@ -114,7 +123,7 @@ Se ejecuta el botón **Copago**, permitiendo que cuando el status de un registro
 
 ![](gcal27.png)
 
-Al ejecutar el boton **Copago** desplega una ventana, donde editara el **Valor** a pagar y el numero de la **autorizacion** y el proceso finaliza al guardar, donde se emite la factura.   
+Al ejecutar el botón **Copago** desplegar una ventana, donde editara el **Valor** a pagar y el numero de la **autorización** y el proceso finaliza al guardar, donde se emite la factura.   
 
 ![](gcal28.png)
 
@@ -124,13 +133,14 @@ Al ejecutar el boton **Copago** desplega una ventana, donde editara el **Valor**
 
 En la aplicación **GCAL** al momento de crear una nueva consulta mediante el botón ![](consulta.png), el sistema validará si dicho registro tiene una factura procesada por concepto del pago de la cita (cuota moredadora) en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) para posteriormente, crear la consulta en la aplicación [**GCON - Consultas**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado).  
 
-En GCAL damos click en el botón ![](consulta.png) para crear la nueva consulta, el registro se debe encontrar en status _Ingreso Paciente_.  
+En GCAL damos clic en el botón ![](consulta.png) para crear la nueva consulta, el registro se debe encontrar en status _Ingreso Paciente_.  
 
 ![](gcal21.png)
 
 El sistema arrojará un mensaje de control indicando que la consulta fue creada exitosamente. Inmediatamente, se abrirá la aplicación [**GCON - Consultas**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado). (_Ver aplicación_)  
 
 ![](gcal22.png)
+
 
 
 
