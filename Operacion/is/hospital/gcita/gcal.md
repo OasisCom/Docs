@@ -5,21 +5,25 @@ permalink: /Operacion/is/hospital/gcita/gcal
 editable: si
 ---
 
-# CALENDARIO - GCAL
+# Calendario - GCAL
 
 
-La opción **GCAL - Calendario**, muestra la planeación actual de los recursos (Doctores) que se encuentran asociados a la entidad.  
+* [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
+* [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
 
+
+
+La opción **GCAL - Calendario**, muestra la planeación actual de los recursos, cada registro corresponde a la disponibilidad del doctor dependiendo la hora y el día. 
 
 ![](gcal1.png)
 
 
 Cada registro corresponde a la disponibilidad en una hora y fecha determinada para un recurso. Estos registros pueden estar en cuatro diferentes status:  
 
-•	Libre  
-•	Asignado  
-•	Paciente en sala  
-•	En atención  
+* Libre  
+* Asignado  
+* Paciente en sala  
+* En atención  
 
 Estos estados van cambiando dependiendo de la acción realizada por un usuario para asignar una cita a un paciente, indicar la llegada de un paciente o indicar que ya se está atendiendo al mismo. A continuación, se describen las acciones para el respectivo proceso de asignación y consulta de citas:  
 
@@ -49,7 +53,7 @@ El primer botón ![](gcal3.png) (Crear Cita) permite asignar una cita a un pacie
 
 El paciente debe estar previamente creado en la aplicación **BTER - Terceros**, es decir, se debe crear un registro diligenciando los campos correspondientes. 
 
-Luego de diligenciar los campos, se procede a guardar el registro dando click en el botón _guardar_.  
+Luego de diligenciar los campos, se procede a guardar el registro dando clic en el botón _guardar_.  
 
 
 ![](gcal7.png)
@@ -86,14 +90,14 @@ El último botón ![](gcal13.png) (Cancelar_Cita) cumple la función de reversar
 
 ![](gcal15.png)
 
-### [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
+## [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * Opcion-1.  
 El botón **Pagar Cita** ![](gcal18.png), permite que cuando el status de un registro sea _PACIENTE EN SALA_, se pueda realizar el pago de la cita (cuota moderadora). Se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_ con el producto asociado a la cita parametrizado en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  
 
 
 ![](gcal19.png)
 
-Al dar click, se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_.  
+Al dar clic, se generará un documento en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) en estado _Activo_.  
 
 ![](gcal20.png)
 
