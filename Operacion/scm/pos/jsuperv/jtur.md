@@ -58,7 +58,10 @@ Para este escenario se agregó el campo **forma de pago** en el detalle del **JT
 
 Para realizar el cierre del turno, buscamos el número de identificación del turno en la factura para colocarlo en el campo **_Número_** de esta aplicación **JTUR**.  En el detalle se pueden observar las facturas asociadas a este turno. Al lado del detalle, encontramos la pestaña **_Pago_**; en esta pestaña encontramos el total de las facturas realizadas por turno, discriminando la forma de pago de cada una y el valor. Una vez validada esta información con el cajero y verificado que físicamente tenga el mismo dinero en las diferentes modalidades de pago, se procesa el registro para realizar el cierre de caja. De esta manera, no podrán ingresar más facturas a este turno sino que se creará un turno diferente.  
 
+![](jtur6.png)  
 
+
+![](jtur7.png)  
 
 
 
