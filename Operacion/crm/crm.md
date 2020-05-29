@@ -7,6 +7,8 @@ editable: si
 
 # Clientes CRM
 
+Rastree clientes potenciales, cierre oportunidades y obtenga pronósticos precisos.
+
 Está integrado por los módulos:
 
 * [**Ventas**](http://docs.oasiscom.com/Operacion/crm/venta/)
