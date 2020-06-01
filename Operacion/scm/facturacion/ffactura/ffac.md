@@ -110,7 +110,7 @@ posterior abre el siguiente zoom de seleccion:
 
 Registro de la forma de pago de dicha factura, en las ventas a crédito estos datos son diligenciados automáticamente. Esta pestaña es de vital importancia para facturas con pago de contado para el registro de la cantidad en efectivo y / o cheque(s) con la cual se cancela la factura, el sistema se acomoda a las últimas disposiciones legales de pago con tarjeta de crédito donde se debe indicar el monto de IVA que causan los productos facturados.
 
-
+![](ffac6.png)
 
 **Ubicación:** Ubicación desde la cual se factura el producto.  
 **Renglón:** Consecutivo de formas de pago.  
@@ -123,7 +123,7 @@ Registro de la forma de pago de dicha factura, en las ventas a crédito estos da
 **Doc Número:** Número del documento relacionado con la factura.  
 **Doc Ubicación:** Ubicación del documento relacionado con la factura.  
 
-
+![](ffac7.png)
 
 
 **Tarjeta:** Tarjeta con la cual se realizó el pago, en caso tal que haya sido con tarjeta.  
