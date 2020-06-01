@@ -24,7 +24,7 @@ Cuando se procesa un documento de facturación de ventas y este tiene retención
 Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha de las facturas de venta, acumulando por el dia.  
 
 
-
+![](ffac1.png)
 
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
 **Ubicación:** Número de la ubicación a la cual se va a realizar una factura.  
