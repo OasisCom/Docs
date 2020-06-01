@@ -159,7 +159,7 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Centro costo:** Centro de costo al cual afecta el movimiento.  
 **Proyecto:** Número de proyecto asociado.  
 
-
+![](ffac9.png)
 
 **Negocio:** Número de negocio asociado.  
 **Base retención:** Valor base sobre el cual se realizó la retención.  
