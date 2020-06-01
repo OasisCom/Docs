@@ -172,7 +172,7 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 
 Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
 
-![](ffac21.png)
+
 
 ## [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 
