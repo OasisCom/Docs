@@ -95,10 +95,12 @@ La opción importar archivo facilita la digitación de los productos y cantidade
 
 **Saldos:**  
 clic derecho sobre el campo producto,  aparece la siguiente ventana:  
-![](ffac25.png)  
+
+  
+
 posterior abre el siguiente zoom de seleccion:  
 
-![](ffac26.png)  
+  
 
 
 * Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
