@@ -46,7 +46,7 @@ Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha
 **Número:** Número del documento asociado a la factura.  
 **Ubicación1:** Número de la ubicación asociada a la factura.  
 
-![](ffac3.png)
+
 
 **Observación:** Para el manejo de aclaraciones adicionales.  
 **Comprobante Fiscal:** para las transacciones de República Dominicana, por medio de un cálculo automático se obtiene el número de comprobante fiscal. El sistema no habilitará este campo para que sea editado manualmente.  
