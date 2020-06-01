@@ -64,7 +64,7 @@ Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha
 
 Listado de productos facturados con sus cantidades y precios. Totales en cantidades y costo total de la mercancía.  
 
-![](ffac4.png)
+
 
 **Renglón:** Número que identifica cada fila o registro del detalle. No pueden existir dos números de renglón repetidos.  
 **Producto:** Código y nombre del producto asignado en **BPRO**.  
@@ -77,7 +77,7 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Unidad medida:** Unidad de medida del producto.  
 **Bodega:** Código de la bodega que hizo el despacho de los productos incluidos en la factura.  
 
-![](ffac5.png)
+
 
 
 **Localización:** Código de la localización (sección de la bodega) donde estaban ubicados los productos.  
