@@ -36,7 +36,7 @@ Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha
 **Vendedor:** Nombre de la persona que realizó la venta, se utiliza este campo para la generación de las comisiones por ventas correspondientes.  
 **Dirección:** Código de la sucursal o agencia del cliente.  
 
-![](ffac2.png)
+
 
 **Tipo de Precio:** Tipo de precio con el cual se liquidó o liquidará la factura, la toma por defecto del tipo de precio definido al cliente.  
 **% Descuento:** Es el porcentaje de descuento comercial que se le va a liquidar a esta factura, que afectará todos los productos de esta factura.  
