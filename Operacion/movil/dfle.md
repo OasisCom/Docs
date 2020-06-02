@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fletes
-permalink: /Operacion/movil/dfle
+permalink: /Operacion/scm/distribucion/ddespacho/dfle
 editable: si
 ---
 

@@ -5,7 +5,7 @@ permalink: /Operacion/crm/portal/cliente/
 editable: si
 ---
 
-# CLIENTES
+# Clientes
 
 El portal de clientes consta de 3 aplicaciones en donde el usuario que inició sesión puede ver únicamente su información correspondiente a saldo de cartera, estado de cuenta del cliente y colocación de pedidos, para poder consultas estas aplicaciones se debe crear un rol que se llame Portal de Clientes y otorgarle a los clientes permisos a estas aplicaciones, así mismo en el SUSU - Usuario se debe tener asociada la cédula a la persona que corresponde (campo tercero), esto con el fin que sólo se pueda ver la información del usuario que se logea:
 
