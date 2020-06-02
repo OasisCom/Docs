@@ -403,8 +403,8 @@ Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingres
 
 Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec).  
 
-
-Se crean dos interfaces BINT, puntualmente para el proceso de dispensacion de medicamentos; para generar los anexos 12 y 13 con el mismo esquema que manejan las aplicaciones IRMCD (distribución de medicamentos controlados) y el IRMCP (puntos de venta medicamentos controlados).  
+--
+Se crean dos interfaces **BINT**, puntualmente para el proceso de **dispensacion de medicamentos**; para generar los anexos 12 y 13 con el mismo esquema que manejan las aplicaciones **IRMCD** (distribución de medicamentos controlados) y el **IRMCP** (puntos de venta medicamentos controlados).  
 
 
 
