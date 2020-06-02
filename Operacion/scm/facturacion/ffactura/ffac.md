@@ -182,13 +182,13 @@ Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activ
 
 Documento EX en estado Activo con renglón en el detalle Procesado.  
 
-![](xexp.png)
+
 
 Es posible asociar varias exportaciones en una sola factura, para ello inicialmente debemos asociar un documento de una exportación en el maestro y las demás las relacionaremos en el detalle.  
 
 Para asociar la exportación en el maestro de la factura, ingresamos el documento, el número de consecutivo y la ubicación.  
 
-![](ffac10.png)
+
 
 En el detalle, agregamos un nuevo renglón e ingresamos el producto de la factura para posteriormente validar el zoom de exportaciones pendientes.  
 
