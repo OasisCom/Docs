@@ -103,6 +103,7 @@ Para ingresar a OasisCom primero debe crear una cuenta como se muestra a continu
 **Empresa:** Ente administrativo legalmente constituido.  
 **Telefono** Dispositivo movil, fijo extension.  
 **Contraseña:** Contraseña de su elección.  
+**Confirmar contraseña**: alfanumerico que incluya numero y/o mayusculas, por seguridad.  
 
 Dar clic en registro  
 
