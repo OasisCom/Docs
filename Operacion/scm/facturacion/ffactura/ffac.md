@@ -180,18 +180,24 @@ Se crea la pestaña “contabilización resumida” donde se **totalizan** los v
 
 Se ingresa a la aplicación y se adiciona un nuevo registro (+).  En el campo **_Documento_** se selecciona a través del Zoom la opción **_FC_** que se refiere a Factura de Venta, en el campo **_Concepto_** se selecciona también **_FC_** Factura Cliente que hacen referencia a lo mismo, en el campo **_Motivo_** se escribe Cero (0), en el campo **_tercero_**, se diligencia el documento de la persona a quien se realiza la venta, el cual ya debe estar parametrizado en la aplicación **Terceros - BTER**, en el campo **_Condición de pago_** se encuentra una lista desplegable con las diferentes condiciones de pago; estas deben estar parametrizadas con anterioridad en la aplicación **Condiciones de pago - BCND**.  A continuación, aparece otro campo llamado **_TipoPrecio_** también con una lista desplegable, este campo funciona igual que el anterior y debe estar previamente parmetrizado en la aplicación **Tipos de precio - FBTP**.  Diligenciado por completo el registro, se guarda.  
 
+![](ffac27.png)
 
+Ahora, se crea el detalle.  Se agrega un nuevo registro (+).  En el campo **_Producto_** se abre el zoom y se elige el producto que se va a vender (producto que ya debe estar parametrizado en la aplicación **Productos - BPRO**, al dar tab, el sistema trae automáticamente el nombre del producto, en el campo **_Cantidad_** se diligencia la cantidad que se va a vender, en el campo **_Precio_**, el precio (que ya debe estar parametrizado en la aplicación **Precios - FPRE**, se guarda el registro.  Ahora se procesa la factura de venta.  Los campos **_Impuesto_** (se diligencia de acuerdo con la parametrzación en **Productos - BPRO** y **_Total_** se diligencian automáticamente.  
 
-Ahora, se crea el detalle.  Se agrega un nuevo registro (+).  En el campo **_Producto_** se abre el zoom y se elige el producto que se va a vender (producto que ya debe estar parametrizado en la aplicación **Productos - BPRO**, al dar tab, el sistema trae automáticamente el nombre del producto, en el campo **_Cantidad_** se diligencia la cantidad que se va a vender, en el campo **_Precio_**, el precio (que ya debe estar parametrizado en la aplicación **Precios - FPRE**, se guarda el registro.  
+![](ffac28.png)  
 
-Ahora se procesa la factura de venta.  Los campos **_Impuesto_** (se diligencia de acuerdo con la parametrzación en **Productos - BPRO** y **_Total_** se diligencian automáticamente.
+![](ffac29.png)  
 
 
 Luego, se ingresa a la aplicación **Consulta de facturas - FFCF** para consultar la factura realizada anteriormente con el mismo número y Documento de la factura.
 
+![](ffcf3.png)  
+
 
 Finalmente se verifica la salida del producto que se está facturando.  Esto se hace ingresando a la aplicación **Kárdex por Ubicación - ICKU**.  Aquí, se consulta por el número de consecutivo del producto.
 
+
+![](icku2.png)  
 
 
 
