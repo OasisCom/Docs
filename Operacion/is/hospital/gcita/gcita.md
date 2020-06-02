@@ -5,5 +5,5 @@ permalink: /Operacion/is/hospital/gcita/
 editable: si
 ---
 
-# CITAS
+# Citas
 
