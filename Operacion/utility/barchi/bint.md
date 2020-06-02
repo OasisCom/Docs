@@ -391,16 +391,20 @@ En el campo publicación, seleccione el proceso de *“Carga de Rips”*.
 
 Una vez seleccionado, en el campo *Operation* seleccione la opción *Upload.*  
 
-Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingresar la siguiente información: 
+Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingresar la siguiente información:  
 
-+ **Recibo** número empleado en el archivo de RIPS.
-+ **Código Super** número de habilitación de su entidad.
-+ **Régimen** especifique si es subsidiado *(S)* o contributivo *(C)*.
++ **Recibo** número empleado en el archivo de RIPS.  
++ **Código Super** número de habilitación de su entidad.  
++ **Régimen** especifique si es subsidiado *(S)* o contributivo *(C)*.  
 
-*Es importante que los archivos sean cargados en formato .zip.*
+*Es importante que los archivos sean cargados en formato .zip.*  
 
-![](Imagen 2 BINT.png)
+![](Imagen 2 BINT.png)  
 
-Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
+Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec).  
+
+
+Se crean dos interfaces BINT, puntualmente para el proceso de dispensacion de medicamentos; para generar los anexos 12 y 13 con el mismo esquema que manejan las aplicaciones IRMCD (distribución de medicamentos controlados) y el IRMCP (puntos de venta medicamentos controlados).  
+
 
 
