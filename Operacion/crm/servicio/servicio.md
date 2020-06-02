@@ -7,6 +7,9 @@ editable: si
 
 # Servicio
 
+El servicio al cliente de alta calidad puede ser un elemento promocional para actividades, como descuentos, anuncios o ventas personales. Se ha encontrado que los clientes son sensibles a los servicios que reciben del proveedor, esto significa que los clientes eventualmente lograrán menores costos de inventario.
+
+
 Está integrado por los módulos:
 
 * [**Datos Basicos**](http://docs.oasiscom.com/Operacion/crm/servicio/abasica/)
