@@ -11,7 +11,9 @@ La función de facturación en las empresas es uno de los ejes principales de su
 
 >+ [Pestaña Detalle](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-detalle)
 >+ [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
->+ [Pestaña Contabilización](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)
+>+ [Pestaña Contabilización](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)  
+>+ [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización-resumida) 
+>+ [Cómo realizar una factura de venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#cómo-realizar-una-factura-de-venta)
 >+ [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 >+ [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
 
@@ -168,17 +170,36 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
 
-## [Pestaña Contabilización Resumida]  
+## [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización-resumida)  
 
 Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
 
-![](ffac21.png)
+![](ffac21.png)  
+
+## [Cómo realizar una factura de venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#cómo-realizar-una-factura-de-venta)  
+
+Se ingresa a la aplicación y se adiciona un nuevo registro (+).  En el campo **_Documento_** se selecciona a través del Zoom la opción **_FC_** que se refiere a Factura de Venta, en el campo **_Concepto_** se selecciona también **_FC_** Factura Cliente que hacen referencia a lo mismo, en el campo **_Motivo_** se escribe Cero (0), en el campo **_tercero_**, se diligencia el documento de la persona a quien se realiza la venta, el cual ya debe estar parametrizado en la aplicación **Terceros - BTER**, en el campo **_Condición de pago_** se encuentra una lista desplegable con las diferentes condiciones de pago; estas deben estar parametrizadas con anterioridad en la aplicación **Condiciones de pago - BCND**.  A continuación, aparece otro campo llamado **_TipoPrecio_** también con una lista desplegable, este campo funciona igual que el anterior y debe estar previamente parmetrizado en la aplicación **Tipos de precio - FBTP**.  Diligenciado por completo el registro, se guarda.  
+
+
+
+Ahora, se crea el detalle.  Se agrega un nuevo registro (+).  En el campo **_Producto_** se abre el zoom y se elige el producto que se va a vender (producto que ya debe estar parametrizado en la aplicación **Productos - BPRO**, al dar tab, el sistema trae automáticamente el nombre del producto, en el campo **_Cantidad_** se diligencia la cantidad que se va a vender, en el campo **_Precio_**, el precio (que ya debe estar parametrizado en la aplicación **Precios - FPRE**, se guarda el registro.  
+
+Ahora se procesa la factura de venta.  Los campos **_Impuesto_** (se diligencia de acuerdo con la parametrzación en **Productos - BPRO** y **_Total_** se diligencian automáticamente.
+
+
+Luego, se ingresa a la aplicación **Consulta de facturas - FFCF** para consultar la factura realizada anteriormente con el mismo número y Documento de la factura.
+
+
+Finalmente se verifica la salida del producto que se está facturando.  Esto se hace ingresando a la aplicación **Kárdex por Ubicación - ICKU**.  Aquí, se consulta por el número de consecutivo del producto.
+
+
+
 
 ## [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 
 Este proceso permite enlazar en la opción **FFAC** los documentos de las exportaciones _XEXP_ para así poder terminar con el ciclo de la exportación.  
 
-Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicaicón FFAC para así ser facturado.  
+Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicación FFAC para así ser facturado.  
 
 Documento EX en estado Activo con renglón en el detalle Procesado.  
 
