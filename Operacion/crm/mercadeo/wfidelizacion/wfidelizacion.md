@@ -8,6 +8,8 @@ editable: si
 # Fidelización
 
 
+Está integrado por los módulos:
+
 * [**AMOV**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/amov) - Movimientos puntos
 * [**ASSP**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wfidelizacion/assp) - Saldos de clientes
 

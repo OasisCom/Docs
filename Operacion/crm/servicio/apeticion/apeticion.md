@@ -5,5 +5,9 @@ permalink: /Operacion/crm/servicio/apeticion/
 editable: si
 ---
 
-# PETICIONES
+# Peticiones
+
+Está integrado por los módulos:
+
+* [**ARAC**](http://docs.oasiscom.com/Operacion/crm/servicio/apeticion/arac) - Peticiones
 

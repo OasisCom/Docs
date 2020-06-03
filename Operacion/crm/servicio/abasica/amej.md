@@ -36,7 +36,7 @@ Esta opcion **AMEJ** al adicionar abre un formulario con estos campos a editar:
   
 Se finaliza el documento guardando el maestro con la mejora.  
 
-********
+
 
 
 

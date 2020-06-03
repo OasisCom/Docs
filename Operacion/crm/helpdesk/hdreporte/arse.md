@@ -5,7 +5,7 @@ permalink: /Operacion/crm/helpdesk/hdreporte/arse
 editable: si
 ---
 
-# ARSE - Monitoreo de Actividades
+# Monitoreo de Actividades - ARSE
 
 La aplicación **ARSE** permite realizar seguimiento a la planeación y ejecución por actividades.  
 
