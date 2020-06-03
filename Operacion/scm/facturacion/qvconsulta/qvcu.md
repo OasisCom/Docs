@@ -10,6 +10,7 @@ editable: si
 La aplicación **QVCU**  - Cliente y Ubicacion, permite visualizar las ubicaciones, describiendo la cantidad de productos facturados y el valor total de facturación.
 
 ![](qvcu3.png)
+
 **Periodo:** Mes de consulta.  
 **Año:** Año de consulta.  
 **Tercero:** Cliente creado en el basico de terceros BTER.  
