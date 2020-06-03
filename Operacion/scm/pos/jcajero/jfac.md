@@ -16,7 +16,6 @@ editable: si
 * [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)
 
 
-## [**MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#MANUAL-DE-PARAMETRIZACION-EXENCION-DE-IVA-EN-OASISCOM.pdf)
 ## [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
 
 Aplicación que permite elaborar facturas o devoluciones que se realicen en el punto de venta, estas son discriminadas por turnos para tener control sobre la cantidad de cajeros existentes.  
