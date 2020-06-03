@@ -7,7 +7,8 @@ editable: si
 
 # Facturas - JFAC
 
-**Menú**
+**Menú**  
+
 ####[MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#MANUAL-DE-PARAMETRIZACION-EXENCION-DE-IVA-EN-OASISCOM.pdf)
 * [JFAC - Facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
 * [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)
