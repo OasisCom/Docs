@@ -5,5 +5,4 @@ permalink: /Operacion/common/
 editable: si
 ---
 
-# COMUNES
-
+# Comunes

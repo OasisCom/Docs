@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oportunidades
-permalink: /Operacion/crm/venta/aoportunidad/eaopo
+permalink: /Operacion/crm/portal/cliente/eaopo
 editable: si
 ---
 

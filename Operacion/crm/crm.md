@@ -7,7 +7,7 @@ editable: si
 
 # Clientes CRM
 
-Rastree clientes potenciales, cierre oportunidades y obtenga pronósticos precisos.
+Rastree clientes potenciales, cierre oportunidades y obtenga pronósticos precisos. La gestión eficiente de las relaciones con los clientes y la garantía de los elementos básicos de cualquier crecimiento comercial pueden mejorar la experiencia de compra de los usuarios y construir relaciones sólidas con ellos, retenerlos y aumentar la rentabilidad.
 
 Está integrado por los módulos:
 

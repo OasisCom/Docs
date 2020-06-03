@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Precio de Café
-permalink: /Operacion/scm/compras/oprecio/odes
+permalink: /Operacion/is/cafe/caprecio/odes  
 editable: si
 ---
 

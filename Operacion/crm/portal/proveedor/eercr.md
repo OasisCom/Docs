@@ -7,9 +7,9 @@ editable: si
 
 ---
 
-# EERCR - 
+# Solicitud de Referencia y Contrareferencia - EERCR
 
-Por medio de la aplicación **EERCR** podemos consultar información generada de la aplicación [**EERCF - Aplicación de Solicitud de Referencia**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf) 
+Por medio de la aplicación **EERCR** podemos consultar información generada de la aplicación [**EERCF - Solicitud de Referencia**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf) 
 
 ![](Imagen 2 eercf.png)
 

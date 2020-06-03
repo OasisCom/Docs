@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Fletes
-permalink: /Operacion/movil/dfle
+permalink: /Operacion/scm/distribucion/ddespacho/dfle
 editable: si
 ---
 
-# DFLE - Fletes - móvil.
+# Fletes móvil - DFLE
 
 La aplicación **DFLE - Fletes** permite ver la cantiadad total de tiquetes vendidos por cada vehículo en el día, el valor de cada uno y el valor total.  
 

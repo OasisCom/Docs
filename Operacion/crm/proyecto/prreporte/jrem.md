@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ventas por empleado
-permalink: /Operacion/scm/pos/jreporte/jrem
+permalink: /Operacion/crm/proyecto/prreporte/jrem
 editable: si
 ---
 
@@ -13,11 +13,11 @@ Ingresamos a la aplicación, consultamos por la fecha y ubicación deseada y dam
 
 ![](jrem.png)
 
-Al consultar el reporte tendremos una vista como la siguiente. El reporte puede ser exportado en formato PDF, Word o Excel.  
+Al consultar el reporte tendremos una vista como la siguiente. El reporte puede ser exportado en formato *PDF, Word o Excel.*  
 
 ![](jrem1.png)
 
-En formato PDF.  
+En formato *PDF.*  
 
 ![](jrem2.png)
 
