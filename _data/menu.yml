@@ -450,7 +450,9 @@
               - text: Ejecución Presupuestal - Centro de Costo
                 url: /Operacion/erp/presupuesto/qcreporte/qrce
               - text: Ejecución Presupuestal - Costo Padre
-                url: /Operacion/erp/presupuesto/qcreporte/qrce1                
+                url: /Operacion/erp/presupuesto/qcreporte/qrce1
+              - text: Ejecución Presupuestal por centro de costo - QVCP1
+                url: /Operacion/erp/presupuesto/qcreporte/qvcp1                
             - text: Presupuesto de Tesoreria
               url: /Operacion/erp/presupuesto/qtesoreria/
             - text: Reportes
@@ -656,6 +658,8 @@
                 url: /Operacion/scm/ventas/vreporte/vrvp
               - text: Separada Pedido vs Separada Inventario
                 url: /Operacion/scm/ventas/vreporte/vrps
+              - text: Seguimiento de pedidos
+                url: /Operacion/scm/ventas/vreporte/vrse                
         - text: Facturacion
           url: /Operacion/scm/facturacion/
           subitems:
@@ -771,7 +775,9 @@
               - text: Saldos en línea por ubicación
                 url: /Operacion/scm/facturacion/freporte/frps
               - text: Ventas por bonos
-                url: /Operacion/scm/facturacion/freporte/frvb                
+                url: /Operacion/scm/facturacion/freporte/frvb
+              - text: Facturación resumida
+                url: /Operacion/scm/facturacion/freporte/frfr                
             - text: Presupuesto de Ventas
               url: /Operacion/scm/facturacion/qventas/
               subitems:
@@ -861,6 +867,8 @@
                 url: /Operacion/scm/pos/jreporte/jrtd
               - text: Turno Pago
                 url: /Operacion/scm/pos/jreporte/jrtp
+              - text: Planilla de control diario
+                url: /Operacion/scm/pos/jreporte/jrdc                
         - text: Compras
           url: /Operacion/scm/compras/
           subitems:
@@ -985,6 +993,8 @@
                 url: /Operacion/scm/inventarios/iconsulta/ipre
               - text: Kardex por Cliente
                 url: /Operacion/scm/inventarios/iconsulta/icsl
+              - text: Consulta de traslados
+                url: /Operacion/scm/inventarios/iconsulta/ictr                
             - text: Movimientos
               url: /Operacion/scm/inventarios/imovimient/
               subitems:
@@ -1158,10 +1168,20 @@
               url: /Operacion/scm/distribucion/dbasica/
             - text: Fletes
               url: /Operacion/scm/distribucion/ddespacho/
+              subitems:
+              - text: Fletes por compañía
+                url: /Operacion/scm/distribucion/ddespacho/dflc
+              - text: Fletes
+                url: /Operacion/scm/distribucion/ddespacho/dfle                
             - text: Novedades
               url: /Operacion/scm/distribucion/dnovedad/
             - text: Reportes
               url: /Operacion/scm/distribucion/dreporte/
+              subitems:
+              - text: Facturación por cliente
+                url: /Operacion/scm/distribucion/dreporte/drfa
+              - text: Libro de despachos
+                url: /Operacion/scm/distribucion/dreporte/drld                
     - text: Recursos Humanos HRM
       url: /Operacion/hrm/
       subitems:
@@ -1364,6 +1384,11 @@
               url: /Operacion/crm/mercadeo/wcomunicacion/
             - text: Fidelizacion
               url: /Operacion/crm/mercadeo/wfidelizacion/
+              subitems:
+              - text: Movimientos Puntos
+                url: /Operacion/crm/mercadeo/wfidelizacion/amov
+              - text: Saldos de clientes
+                url: /Operacion/crm/mercadeo/wfidelizacion/assp                
             - text: Competencia
               url: /Operacion/crm/mercadeo/wcompetencia/
             - text: Encuestas
@@ -1421,6 +1446,9 @@
               url: /Operacion/crm/proyecto/prriesgos/
             - text: Reportes
               url: /Operacion/crm/proyecto/prreporte/
+              subitems:
+              - text: Monitoreo de Desarrollo
+                url: /Operacion/crm/proyecto/prreporte/jrem              
         - text: Portales
           url: /Operacion/crm/portal/
           subitems:
@@ -1978,6 +2006,9 @@
           subitems:
             - text: Precios
               url: /Operacion/is/cafe/caprecio/
+              subitems:
+              - text: Precio de café
+                url: /Operacion/is/cafe/caprecio/odes              
             - text: Ordenes
               url: /Operacion/is/cafe/capedido/
             - text: Facturas
