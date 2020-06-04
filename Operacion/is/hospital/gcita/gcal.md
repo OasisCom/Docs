@@ -11,6 +11,7 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 
 
 * [Creación de citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-citas-médicas)
+* [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
 * [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
 
@@ -121,6 +122,24 @@ Regresamos a la aplicación **GCAL** damos clic en el botón ![](cambio.png) y r
 
 ![](go4.png)
 
+
+## [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
+
+En caso de que un paciente cancele una cita médica seleccionamos el paciente que va a cancelar la cita y luego damos clic ![](seleccionar.png)
+
+![](cancelar.png)
+
+**Nota:** Para cancelar la cita correctamente, el Status del registro debe estar en *Asignado.* 
+
+El status paso de ser *Asignado* a *Libre.* 
+
+Para validar que la cita se canceló correctamente, en el campo *Id recurso* damos clic derecho, se despliegan dos opciones, seleccionamos *Ir a citas.* 
+
+![](cancelar2.png)
+
+Nos dirigimos a la aplicación **GCIT** consultamos por número de documento del paciente, este estado debe aparecer *Anulado*. 
+
+![](cancelar3.png) 
 
 
 ## [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)

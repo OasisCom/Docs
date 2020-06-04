@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/gbasica/gdoc
 editable: si
 ---
 
-# DOCTORES - GDOC
+# Doctores - GDOC
 
 
 Esta opción es utilizada para realizar la gestión de los doctores que prestarán servicios de salud y brindarán consultas médicas a los pacientes de acuerdo a su especialidad. En la aplicación **GDOC – Doctores**, se realiza la creación de los mismos, así:

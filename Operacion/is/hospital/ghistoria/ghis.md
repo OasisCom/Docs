@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/ghistoria/ghis
 editable: si
 ---
 
-# HISTORIAS - GHIS
+# Historias - GHIS
 
 
 La opción **GHIS - Historias**, reseña información correspondiente a la historia clínica de los pacientes que han sido atendidos. Esta opción es únicamente para consulta, es decir, no se permite edición y/o eliminación de la información que aquí se visualiza. Se puede ver entonces la siguiente información en cuanto al maestro:  
@@ -17,17 +17,18 @@ La opción **GHIS - Historias**, reseña información correspondiente a la histo
 **Ubicación**: indica la sede en la cual el paciente fue atendido.  
 **Fecha**: enseña la fecha de la consulta médica.  
 **Hora**: indica la hora en la que el paciente ingresó a la consulta.  
-**Tercero y Nombre Tercero**: hacen referencia al número de identificación del paciente y el nombre del mismo respectivamente.  
+**Tercero y Nombre Tercero**: hacen referencia al número de identificación del paciente y el nombre de este respectivamente.  
 **Id Recurso**: enseña el número de identificación del especialista que atendió al paciente.  
 
 Si se desliza la barra lateral se pueden encontrar con los demás campos descritos a continuación.  
 
-**Diagnóstico**: hace referencia al dictamen dado por el médico al paciente que atendió. Este se mostrará como un código dentro de esta opción, si desea consultar el significado del mismo, puede realizarlo desde la aplicación **EBDI - Diagnóstico**.  
+**Diagnóstico**: hace referencia al dictamen dado por el médico al paciente que atendió. Este se mostrará como un código dentro de esta opción, si desea consultar el significado de este, puede realizarlo desde la aplicación **EBDI - Diagnóstico**.  
 **Periodo**: enseña el mes en el cual se originó la historia.  
 **Año**: enseña el año en el cual se originó la historia.  
-***************
 
-Si deseamos editar el maestro **GHIS** se visulizara tipo formulario como se ilustra:
+
+
+**Nota:** Si se desea editar el maestro **GHIS** se visualizara tipo formulario como se ilustra:
 
 ![](ghis3.png)
 
@@ -46,7 +47,8 @@ El último campo que corresponde a **Obligatorio**, es un check que indica si es
 
 De esta manera se realizan los procesos de administración de productos, doctores, recursos, generación de calendario, la asignación de citas y consultas médicas y la consulta de la historia clínica de los pacientes.  
 
-**************
+
+
 
 
 
