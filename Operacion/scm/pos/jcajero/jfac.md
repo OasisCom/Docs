@@ -9,7 +9,8 @@ editable: si
 
 **Menú**  
 
- [MANUAL EXENCION DE IVA](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/MANUAL-EXENCION-DE-IVA.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
+ [MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/MANUAL-DE-PARAMETRIZACION-EXENCION-DE-IVA-EN-OASISCOM.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
+Descargar PDF.  
 * [JFAC - Facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
 * [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)
 * [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
