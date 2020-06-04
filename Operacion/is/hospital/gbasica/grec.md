@@ -16,6 +16,9 @@ A partir del maestro:
 ![](grec1.png)
 
 
+Se adiciona un nuevo registro (+)  
+
+
 **Id recurso**: se debe ingresar el código del recurso, teniendo en cuenta que este número no es un consecutivo pero que debe ser exclusivo para cada recurso creado.  
 **Nombre recurso**: se ingresa el nombre del recurso.  
 **Tercero**: se deberá ingresar el código del tercero (cliente) al que aplicará el recurso, se puede seleccionar desde el zoom, o bien, insertarlo manualmente. Si el tercero es ‘0’ quiere decir que el recurso que se está creando puede ser usado por todos los terceros existentes.  
