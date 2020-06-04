@@ -29,13 +29,13 @@ Para generar el calendario de un recurso (Doctor), se deberá ingresar a la opci
 **Id Recurso**: se deberá ingresar el número de identificación del doctor sobre el cuál se generará el calendario, teniendo en cuenta los parámetros anteriormente ingresados y que estos deben concordar con el registro de la opción **GREC – Recursos**.  
 
 
-![](gpga4.png)
+
 
 
 Posteriormente, se dará clic en el botón. ![](gpga5.png) 
 
 
-![](gpga6.png)
+
 
 
 Hecho esto, para verificar que el calendario ha sido creado correctamente, se deberá abrir la opción **GCAL - Calendario** y en el campo _Id Recurso_ ingresar el número de identificación del doctor sobre el cual se generó el calendario, es decir, el mismo ingresado en la opción **GPGA – Generar Calendario**.  
