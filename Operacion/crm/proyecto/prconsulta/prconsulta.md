@@ -5,5 +5,5 @@ permalink: /Operacion/crm/proyecto/prconsulta/
 editable: si
 ---
 
-# CONSULTAS
+# Consultas
 
