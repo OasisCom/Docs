@@ -14,7 +14,7 @@ Para generar el calendario de un recurso (Doctor), se deberá ingresar a la opci
 ![](gpga1.png)
 
 
-**Fecha Ini** y **Date Final** se deberá ingresar las mismas fechas de inicio y fin que fueron ingresadas en el registro del detalle de la opción **GREC – Recursos**.  
+**Fecha Ini** y **Date Final** se deberán ingresar las mismas fechas de inicio y fin que fueron ingresadas en el registro del detalle de la opción **GREC – Recursos**.  
 
 
 ![](gpga2.png)

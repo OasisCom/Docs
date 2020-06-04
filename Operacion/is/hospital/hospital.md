@@ -5,5 +5,5 @@ permalink: /Operacion/is/hospital/
 editable: si
 ---
 
-# HOSPITAL
+# Hospital
 

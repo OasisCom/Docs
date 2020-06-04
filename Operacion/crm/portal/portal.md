@@ -12,6 +12,7 @@ Ayuda a diseñar los procesos internos más efectivos y optimiza las acciones de
 Está integrado por los módulos:
 
 * [**Clientes**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/)
+* [**Proveedores**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/)
 * [**Empleados**](http://docs.oasiscom.com/Operacion/crm/portal/empleado/)
 * [**Servicio**](http://docs.oasiscom.com/Operacion/crm/portal/servicios/)
 
