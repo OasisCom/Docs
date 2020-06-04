@@ -14,6 +14,8 @@ Esta opción es utilizada para realizar la gestión de los doctores que prestar�
 ![](gdoc1.png)
 
 
+Se adiciona un nuevo registro (+)  
+
 **Tercero**: se debe ingresar el número de identificación del doctor.  
 **Tipo Cliente**: se podrá seleccionar entre las opciones el tipo de identificación del doctor: (cédula, Nit, extranjería, tarjeta de identidad, otro, registro civil).  
 
@@ -45,7 +47,9 @@ _Retirado_: Este estado indica que el doctor ya no realiza ningún tipo de funci
 ![](gdoc4.png)
 
 
-Cabe aclarar que esta opción también permite la _edición_ y _eliminación_ de registros. Esta última función solamente podrá ser efectuada únicamente si el doctor a eliminar no se encuentra referenciado en ningún proceso de otra opción, es decir, que no esté siendo utilizado.
+Cabe aclarar que esta opción también permite la _edición_ y _eliminación_ de registros. Esta última función solamente podrá ser efectuada únicamente si el doctor a eliminar no se encuentra referenciado en ningún proceso de otra opción, es decir, que no esté siendo utilizado.  
+
+Finalmente, se guarda el registro.
 
 
 
