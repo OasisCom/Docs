@@ -32,6 +32,10 @@ Si se desliza la barra lateral se pueden encontrar con los demás campos descrit
 
 ![](ghis3.png)
 
+1. En esta primera parte se tiene una lista filtrable con los pacientes, estos pacientes son los mismos de la opción **GPAC,** en esta lista podremos buscar por el nombre del Paciente, *el filtro empieza a buscar después de validar que hallas 4 caracteres en la lista. 
+2. En esta sección vemos a detalle datos relevantes del paciente. 
+3. Esta sección veremos las historias clínicas a las cuales están asociadas al paciente. 
+4. Por último tendremos el detalle de cada historia clínica, este detalle al momento de no tener nada, mostrara un mensaje.  
 
 
 En cuanto al detalle se pueden visualizar los siguientes campos:  
