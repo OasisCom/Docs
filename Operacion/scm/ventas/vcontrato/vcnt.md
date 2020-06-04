@@ -10,7 +10,7 @@ editable: si
 
 
 * [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
-* [Contratos de Venta - Cápita, Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita,-evento)
+* [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)
 
 ## [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
 
@@ -53,8 +53,8 @@ La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamad
 
 **Producto:** Producto que se requiere facturar, en este caso hablamos de una implementación. 
 **Cantidad:** Cantidad de contratos del producto que se va adquirir por parte del cliente.  
-**Precio:** Precio registrado en el contrato del producto adquirido por el cliente.
-**Factura:** Activamos el campo ![](fag) y guardamos los cambios ![](guardar1)
+**Precio:** Precio registrado en el contrato del producto adquirido por el cliente.  
+**Factura:** Activamos el campo ![](fag.png) y guardamos los cambios ![](guardar1.png)  
 
 ![](5.png)
 
@@ -64,7 +64,7 @@ Por último se debe confirmar el contrato de venta procesándolo. Así quedara e
 
 
 
-## [Contratos de Venta - Cápita, Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita,-evento)
+## [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)
 
 
 ### Parametrizacion:  
