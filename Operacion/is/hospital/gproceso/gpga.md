@@ -43,7 +43,7 @@ Hecho esto, para verificar que el calendario ha sido creado correctamente, se de
 Al consultar, puede verse una serie de registros generados los cuales corresponden a la planeación del recurso de acuerdo a su horario laboral y el intervalo de tiempo que tendrá disponibilidad para atender a los pacientes.
 
 
-![](gpga7.png)
+
 
 
 
