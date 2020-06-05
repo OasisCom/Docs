@@ -5,7 +5,7 @@ permalink: /Operacion/crm/portal/proveedor/eenou
 editable: si
 ---
 
-# EENOU - Aplicación de Notificación de Urgencias
+# Aplicación de Notificación de Urgencias - EENOU
 
 En la aplicación **EENOU** se registran las urgencias de los pacientes. El prestador del servicio debe reistrar todas las notificaciones de urgencia, donde se debe especificar datos básicos del afiliado y  motivo de la urgencia. 
 

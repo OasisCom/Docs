@@ -17,11 +17,11 @@ Datos de entrada para la consulta:
 **Ubicacion:**   parametrizacion realizada en BUBI.  
 **Numero:**  consecutivo.  
 **Fecha inicial:**  rango inicial de data.  
-**Fecha final: ** rango final de data.  
+**Fecha final:** rango final de data.  
 **Concepto:**   parametrizacion realizada desde el BCON y BDOC.   
-**Cliente: **  parametrizacion realizada en basico de terceros BTER.   
-**Empleado: **  parametrizacion realizada en basico de terceros BTER.  
-**Vendedor: ** parametrizacion realizada en basico de terceros BTER.  
+**Cliente:**  parametrizacion realizada en basico de terceros BTER.   
+**Empleado:**  parametrizacion realizada en basico de terceros BTER.  
+**Vendedor:** parametrizacion realizada en basico de terceros BTER.  
 
 
 ![](ARAC2.png)  
