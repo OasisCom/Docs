@@ -31,7 +31,7 @@ Adicionamos un nuevo renglón, en el campo _tercero_ digitamos o consultamos en 
 
 
 
-
+![](rcap2.png)
 
 
 
