@@ -1398,6 +1398,9 @@
               url: /Operacion/crm/mercadeo/wencuesta/
             - text: Reportes
               url: /Operacion/crm/mercadeo/wreporte/
+              subitems:
+              - text: Peticiones
+                url: /Operacion/crm/mercadeo/wreporte/arac              
         - text: Servicio
           url: /Operacion/crm/servicio/
           subitems:
@@ -1423,6 +1426,9 @@
               url: /Operacion/crm/helpdesk/hdactividad/
             - text: Reportes
               url: /Operacion/crm/helpdesk/hdreporte/
+              subitems:
+              - text: Monitoreo de actividades
+                url: /Operacion/crm/helpdesk/hdreporte/arse              
         - text: Desarrollo
           url: /Operacion/crm/development/
           subitems:
@@ -1440,11 +1446,16 @@
         - text: Proyectos
           url: /Operacion/crm/proyecto/
           subitems:
-            - text: Datos Basicos
+            - text: Datos Básicos
               url: /Operacion/crm/proyecto/prbasica/
-            - text: Planeacion
+              subitems:
+              - text: Proyectos
+                url: /Operacion/crm/proyecto/prbasica/apry
+              - text: Recursos
+                url: /Operacion/crm/proyecto/prbasica/arec                
+            - text: Planeación
               url: /Operacion/crm/proyecto/prplaneacion/
-            - text: Ejecucion
+            - text: Ejecución
               url: /Operacion/crm/proyecto/prejecucion/
             - text: Consultas
               url: /Operacion/crm/proyecto/prconsulta/
