@@ -1322,11 +1322,16 @@
                 url: /Operacion/hrm/rhumanos/restructura/rcar              
               - text: Posición
                 url: /Operacion/hrm/rhumanos/restructura/rpos              
-            - text: Seleccion
+            - text: Selección
               url: /Operacion/hrm/rhumanos/rseleccion/
-            - text: Capacitacion
+            - text: Capacitación
               url: /Operacion/hrm/rhumanos/rcapacitacion/
-            - text: Evaluacion
+              subitems:
+              - text: Cursos
+                url: /Operacion/hrm/rhumanos/rcapacitacion/rcur
+              - text: Capacitación
+                url: /Operacion/hrm/rhumanos/rcapacitacion/rcap                
+            - text: Evaluación
               url: /Operacion/hrm/rhumanos/revaluacion/
             - text: Bienestar
               url: /Operacion/hrm/rhumanos/rbienestar/
@@ -1355,9 +1360,7 @@
               url: /Operacion/crm/venta/aprospecto/
               subitems:
               - text: Prospectos
-                url: /Operacion/crm/venta/aprospecto/apro
-              - text: Contactos
-                url: /Operacion/crm/venta/aprospecto/acon                
+                url: /Operacion/crm/venta/aprospecto/apro                
             - text: Oportunidades
               url: /Operacion/crm/venta/aoportunidad/
               subitems:
@@ -1404,6 +1407,9 @@
               url: /Operacion/crm/servicio/aagenda/
             - text: Contactos
               url: /Operacion/crm/servicio/acontacto/
+              subitems:
+              - text: Contactos
+                url: /Operacion/crm/servicio/acontacto/acon              
             - text: Peticiones
               url: /Operacion/crm/servicio/apeticion/
             - text: Actividades
@@ -2248,6 +2254,9 @@
               url: /Operacion/utility/calidad/baudit/
             - text: Mejora
               url: /Operacion/utility/calidad/amejora/
+              subitems:
+                - text: Oportunidades de mejora
+                  url: /Operacion/utility/calidad/amejora/amej              
         - text: Interfaces
           url: /Operacion/utility/barchi/
         - text: Sincronizacion
