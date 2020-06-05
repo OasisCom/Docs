@@ -5,5 +5,5 @@ permalink: /Operacion/crm/proyecto/prplaneacion/
 editable: si
 ---
 
-# PLANEACION
+# Planeación
 

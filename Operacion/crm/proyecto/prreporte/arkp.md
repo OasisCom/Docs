@@ -5,7 +5,7 @@ permalink: /Operacion/crm/proyecto/prreporte/arkp
 editable: si
 ---
 
-# ARKP - Kanban Proyectos
+# Kanban Proyectos - ARKP
 
 El reporte ARKP permite visualizar los proyectos por fase e identificar el estado en el que se encuentra cada uno: _Activo, Planeado, Ejecutado, Terminado o Congelado_.  
 

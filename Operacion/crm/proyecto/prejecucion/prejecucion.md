@@ -5,5 +5,5 @@ permalink: /Operacion/crm/proyecto/prejecucion/
 editable: si
 ---
 
-# EJECUCION
+# Ejecución
 
