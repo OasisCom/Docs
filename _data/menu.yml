@@ -1464,7 +1464,10 @@
             - text: Reportes
               url: /Operacion/crm/proyecto/prreporte/
               subitems:
-              - text: Monitoreo de Desarrollo
+              - text: Kanban Proyectos
+                url: /Operacion/crm/proyecto/prreporte/arkp              
+              subitems:
+              - text: Ventas por empleado
                 url: /Operacion/crm/proyecto/prreporte/jrem              
         - text: Portales
           url: /Operacion/crm/portal/
