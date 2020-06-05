@@ -30,7 +30,7 @@ En la parte inferior de la aplicación, en el detalle, registraremos todos los i
 Adicionamos un nuevo renglón, en el campo _tercero_ digitamos o consultamos en el zoom el número de identificación de la persona a registrar, seguidamente, en el campo _asistencia_ activamos el flag en caso de que la persona haya asistido a la capacitación, de lo contrario no, y por último en el campo _valor_ digitamos una nota evaluativa, es decir, la nota que obtuvo la persona que asistió a la capacitación.  
 
 
-![](rcap2.png)
+
 
 
 
