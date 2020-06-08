@@ -12,9 +12,9 @@ Permite la elaboración de las autoliquidaciones a las diferentes entidades exte
 
 Las aplicaciones que se usan en esta categoría son:  
 
-* [**Generar aportes - NAGE**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/nage)  
-* [**Aportes - NAUT**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/naut)  
-* [**Planilla integrada - NAPI**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/napi)
+* [**Generar aportes - NAGE**](http://docs.oasiscom.com/Operacion/hrm/nomina/naporte/nage)  
+* [**Aportes - NAUT**](http://docs.oasiscom.com/Operacion/hrm/nomina/naporte/naut)  
+* [**Planilla integrada - NAPI**](http://docs.oasiscom.com/Operacion/hrm/nomina/naporte/napi)
 
 
 
