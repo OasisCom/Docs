@@ -5,9 +5,17 @@ permalink: /Operacion/is/hospital/gconsulta/gact
 editable: si
 ---
 
-# GACT - Actividades
+# Actividades - GACT
 
 En esta aplicación podemos registrar las diferentes actividades que se pueden encontrar en un hospital, veterinaria entre otros. Aqui vamos a explicar diferentes actividades que se pueden presentar en una veterinaria.  
+
+
+* [Guardería](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact#guardería)
+* [Vacunación](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact#vacunación)
+* [Desparasitación](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact#desparasitación)
+* [Peluquería](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact#peluquería)
+* [Peluquería - Baño Medicado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gact#peluquería---baño-medicado)
+
 
 Al procesar el documento en el maestro, el sistema creará automáticamente la factura en la opción [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac).  
 
