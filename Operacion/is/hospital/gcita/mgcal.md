@@ -1,18 +1,22 @@
 ---
 layout: default
 title: Calendario de Usuario
-permalink: /Operacion/system/sacceso/mgcal
+permalink: /Operacion/is/hospital/gcita/mgcal
 editable: si
 ---
 
-# MGCAL - Calendario de Usuario
+# Calendario de Usuario - MGCAL
 
 
-La opción MGCAL - Calendario de Usuario, muestra la planeación actual de los recursos (Doctores) que se encuentran asociados a la entidad de forma más dinámica y sencilla.  
+La opción **MGCAL - Calendario de Usuario,** muestra la planeación actual de los recursos (Doctores) que se encuentran asociados a la entidad de forma más dinámica y sencilla.  
+
+* [Cancelar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#cancelar-cita)
+* [Inasistencia](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#inasistencia)
+
 
 En la aplicación se visualiza los horarios del día los cuales puenden estar en cuatro status diferentes:  
 
-* Libre  
+>* Libre  
 * Asignado  
 * Paciente en sala  
 * En atención  
@@ -31,7 +35,7 @@ A continuación diligenciamos los datos del formulario y damos click en el botó
 
 ![](mgcal3.png)
 
-En el momento en que llegue el paciente a cumplir su cita, se deberá dar click en el botón **_Llegada_**.  
+En el momento en que llegue el paciente a cumplir su cita, se deberá dar clic en el botón **_Llegada_**.  
 
 ![](mgcal4.png)
 
@@ -55,7 +59,7 @@ En GCON - Consultas.
 
 ![](mgcal9.png)
 
-### Cancelar Cita
+## [Cancelar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#cancelar-cita)
 
 Para cancelar una cita, esta se debe encontrar en status _ASIGNADO_.  
 
@@ -65,7 +69,7 @@ Ingresamos a la cita y damos click en el botón **_Cancelar Cita_**.
 
 ![](mgcal11.png)
 
-### Inasistencia 
+## [Inasistencia](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#inasistencia) 
 
 Para reportar que el paciente no asistió a la cita, ingresamos a la cita asignada y damos click en el botón **_Inasistencia_**.  
 

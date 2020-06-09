@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/gbasica/grec
 editable: si
 ---
 
-# RECURSOS - GREC
+# Recursos - GREC
 
 
 Esta aplicación funciona para realizar la administración de recursos tanto físicos como humanos de empresas tipo IPS. En la aplicación **GREC – Recursos**, se realiza la creación de los mismos, así:  
@@ -18,7 +18,10 @@ A partir del maestro:
 
 Se adiciona un nuevo registro (+)  
 
-
+**Ubicación**:  Se debe ingresar el código de la ubicación donde se va a prestar el servicio.  
+**Nombre Ubicación**: Se ingresa el nombre de la ubicación del código anterior.  
+**Servicio**: Se ingresa el código del servicio que se va a prestar.  
+**Nombre servicio**: Se ingresa el nombre del servicio de acuerdo con el código.
 **Id recurso**: se debe ingresar el código del recurso, teniendo en cuenta que este número no es un consecutivo pero que debe ser exclusivo para cada recurso creado.  
 **Nombre recurso**: se ingresa el nombre del recurso.  
 **Tercero**: se deberá ingresar el código del tercero (cliente) al que aplicará el recurso, se puede seleccionar desde el zoom, o bien, insertarlo manualmente. Si el tercero es ‘0’ quiere decir que el recurso que se está creando puede ser usado por todos los terceros existentes.  
@@ -57,7 +60,7 @@ Luego de haber diligenciado el registro del maestro, se pasa al detalle en donde
 **Hora Inicial y Hora Final**: indican el horario de trabajo del recurso, en este caso, este trabajará desde las 07:00 hasta las 18:00.  
 **Intervalo**: indica cada cuanto el recurso atenderá pacientes (en caso de que sea un doctor), entonces en este caso, será cada 30 minutos.  
 
-Posteriormente se guarda el registro correspondiente dando click en el botón indicado en la imagen:  
+Posteriormente se guarda el registro correspondiente dando clic en el botón indicado en la imagen:  
 
 
 ![](grec6.png)

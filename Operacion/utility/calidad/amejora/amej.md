@@ -1,7 +1,7 @@
 ---  
 layout: default  
 title: Mejora  
-permalink: /Operacion/crm/servicio/abasica/amej  
+permalink: /Operacion/utility/calidad/amejora/amej  
 editable: si  
 ---  
 

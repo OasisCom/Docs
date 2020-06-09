@@ -5,7 +5,7 @@ permalink: /Operacion/crm/portal/proveedor/eersa
 editable: si
 ---
 
-# EERSA - Aplicación Consulta de Solicitud de Autorizaciones
+# Aplicación Consulta de Solicitud de Autorizaciones - EERSA
 
 El prestador de servicios o externo (IPS - Hospital) puede consultar con el número de identificación del afiliado en la aplicación **EERSA – Consulta Solicitud Autorización,** si ya se le ha generado la autorización del servicio e imprimirla de ser necesario.
 
