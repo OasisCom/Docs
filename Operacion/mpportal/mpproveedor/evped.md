@@ -29,6 +29,10 @@ En el detalle, existe una pestaña Productos, en donde configuraremos nuestros p
 
 ![](evped5.png)  
 
+Ahora en el EVPED, cuando tenemos nuestra configuración, podemos empezar a manipular los productos, en donde agregamos al carrito de compras.  
+
+![](evped6.png)  
+
 
 
 
