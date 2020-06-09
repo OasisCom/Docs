@@ -1426,7 +1426,7 @@ Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta po
     
     Si la consulta retorna mas de un registro, puede paginar la busqueda del registro que desea consultar.  
     
-    ![](jfac13.png)  
+    ![](jfac13.png)
 
 ## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)
 
