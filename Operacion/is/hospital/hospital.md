@@ -7,7 +7,7 @@ editable: si
 
 # Hospital
 
-Está integrado por los módulos:
+El  módulo  de  hospital  está  conformado  por  una  serie  de  opciones,  las  cuales permiten  a  un operario  de  una  entidad  de  salud  (IPS)  poder  realizar  la  gestión  de procesos tales como asignación de citas, administración de recursos, productos, personal y  realización  de  consultas  médicas.  Cada  una  de  estas  opciones  y  procesos  serán descritas más a detalle a continuación:
 
 * [**Datos Basicos**](http://docs.oasiscom.com/Operacion/is/hospital/gbasica/)
 * [**Contratos**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/)

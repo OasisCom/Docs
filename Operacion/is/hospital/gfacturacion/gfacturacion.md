@@ -5,5 +5,9 @@ permalink: /Operacion/is/hospital/gfacturacion/
 editable: si
 ---
 
-# FACTURACION
+# Facturación
+
+Está integrado por los módulos:
+
+* 
 
