@@ -1428,7 +1428,7 @@ Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta po
     
     ![](jfac13.png)
     
-    ## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)
+## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)
 
 Se requiere que la configuración presente en las grillas para personalización también esté presente en los zooms, sin afectar el funcionamiento de los mismos. La personalización tiene la misma función que en las grillas, de ocultar y mover los campos de la misma.  
 Los botones resaltados guardan o borran la personalización de cada uno de los zoom, por usuario.  
