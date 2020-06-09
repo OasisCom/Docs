@@ -5,9 +5,11 @@ permalink: /Operacion/is/hospital/gconsulta/glab
 editable: si
 ---
 
-# GLAB - Laboratorio
+# Laboratorio - GLAB
 
 En esta aplicación se pueden registrar todos los laboratorios médicos que se realicen a un paciente. Se debe adicionar un registro de la siguiente manera:
+
+![](laboratorio.png)
 
 **Documento:** Documento LH correspondiente a laboratorios  
 **Número:** Número del laboratorio (consecutivo del sistema)  

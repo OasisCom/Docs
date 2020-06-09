@@ -5,9 +5,15 @@ permalink: /Operacion/is/hospital/gconsulta/gcon
 editable: si
 ---
 
-# GCON - Consultas
+# Consultas - GCON
 
 La aplicación GCON permite visualizar y crear consultas médicas, allí se registran los datos generales de la consulta como lo son: nombre del paciente, diagnóstico, fecha de la consulta, entre otros.   Proceso creado con la finalidad de poder registrar y tener seguimiento de la hora en la que es aplicado un medicamento a un paciente.  
+
+* [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
+* [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
+
+
+## [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
 
 En la pestaña _Form Detail_, se verá un formulario el cual es parametrizable por el tipo de consulta que se requiera ver, la parametrización de los formularios se realiza en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creaci%C3%B3n-formularios).(_Ver aplicación_)
 
@@ -17,7 +23,7 @@ En la pestaña _Detalle_ se asociarán los medicamentos y servicios que se requi
 
 ![](gcon2.png)
 
-Finalmente, procesamos el registro dando click en el botón ![](procesar.png).  
+Finalmente, procesamos el registro dando clic en el botón ![](procesar.png).  
 
 
 ## [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
