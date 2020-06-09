@@ -87,7 +87,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
 45. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
 46. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
- [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)  
+47. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
