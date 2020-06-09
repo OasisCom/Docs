@@ -21,7 +21,7 @@ Al confirmar el pedido, le llegará un correo electrónico al usuario con la sig
 
 ![](evped2.png)  
 
-##Forma de parametrizar los productos.  
+## Forma de parametrizar los productos.  
 Al final del maestro el campo nuevo, Ecommerce, el cual si no está activo los productos no se visualizarán, es necesario mantener activo.  
  
 ![](evped3.png)  
