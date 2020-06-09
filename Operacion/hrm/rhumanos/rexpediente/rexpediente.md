@@ -11,7 +11,7 @@ En esta ventana se almacena la información de las diferentes personas que posee
 
 La aplicación que se utiliza es:  
 
-* [**Expediente - REXP**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/nexpediente/rexp)  
+* [**Expediente - REXP**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rexpediente/rexp)  
 
 
 
