@@ -18,6 +18,9 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >##### [OasisCom MRP](http://docs.oasiscom.com/Mercadeo/fichas/Ficha MRP.pdf)
 >##### [OasisCom DSS](http://docs.oasiscom.com/Mercadeo/fichas/Ficha DSS.pdf)
 >##### [OasisCom Salud](http://docs.oasiscom.com/Mercadeo/fichas/Ficha SALUD.pdf)
+>##### [OasisCom E-Commerce](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Ecommerce.pdf)
+>
+
 
 ---
 >#### [OasisCom Productos Complementarios](http://docs.oasiscom.com/Mercadeo/fichas/físico soluciones avanzadas_impreso.pdf)

@@ -2176,15 +2176,13 @@ La opción MITRA, tiene la funcionalidad para el escenario donde los pedido reco
 
 Dicha funcionalidad para el caso donde los pedido **recolectados** (PI) se almacenen y no se pierdan cuando se cierra la aplicación o dado el caso donde por alguna razón **no** se finalizó la digitación de la recolección y se desea posterior volver a retomar la tarea de recolectar cada uno de los productos y existen gran cantidad de ítems en el detalle del pedido.  
 
+Para generar correctamente el proceso de **empacado de mercancía (TI x PA)** se debe previamente crear un pedido asignar el recolector, crear el Picking (TI x PI).  
+Teniendo los pasos anteriores debidamente procesados se crea un nuevo documento Ti por concepto PA en con el pedido creado.  
+Se da al botón continuar el cual cargara el detalle con los productos del pedido.  
+Se debe dar clic en el botón de leer localización para agregar el código de la caja.  
+Para luego empezar a leer los códigos de los productos y así hacer el empacado bien sea parcial o total.  
 
-
-
-
-
-
-
-
-
+![](mitra18.png)  
 
 * Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
 
