@@ -1448,6 +1448,8 @@ Al entrar con otro usuario no muestra la personalización, ya que aplica unicame
 
 ## [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
 
+Para colocar los filtros tipo argument en exportadores dinámicos: el filtro funciona únicamente al realizar la consulta final del proceso de exportación dinámica, es decir al presionar el botón de aceptar en el **BINT**, al realizar la vista previa del exportador no se verá reflejado la aplicación del filtro; sino únicamente al exportar la información final.  
+
 Es necesario para los exportadores dinámicos que contengan configuración de registros tipo parámetro que los pinte previos a la visualización de los campos posibles a seleccionar.  
 Se modifica el desarrollo de exportación dinámica para que al tener parametrizado detalles tipo argument en el **BARC**, sean visibles y sirvan como filtro para la publicación en cuestión.  
 
