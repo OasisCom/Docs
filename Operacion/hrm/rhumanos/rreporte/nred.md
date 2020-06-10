@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Detalle Lista de Empleados
+title: Lista detallada de Empleados
 permalink: /Operacion/hrm/rhumanos/rreporte/nred
 editable: si
 ---
 
-# DETALLE LISTA DE EMPLEADOS  
+# LISTA DETALLADA DE EMPLEADOS  
