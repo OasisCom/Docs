@@ -88,6 +88,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 46. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
 47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
 48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
+49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
