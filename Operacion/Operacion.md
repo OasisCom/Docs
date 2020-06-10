@@ -87,7 +87,8 @@ A continuación se realizará la explicación de la operatividad básica del sis
 45. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
 46. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
 47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
-48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)  
+48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
+49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -1428,7 +1429,7 @@ Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta po
     
     ![](jfac13.png)
     
-## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)
+## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
 
 Se requiere que la configuración presente en las grillas para personalización también esté presente en los zooms, sin afectar el funcionamiento de los mismos. La personalización tiene la misma función que en las grillas, de ocultar y mover los campos de la misma.  
 Los botones resaltados guardan o borran la personalización de cada uno de los zoom, por usuario.  
@@ -1444,6 +1445,26 @@ Ocultar y mover los campos de la misma grilla.
 ![](zoom3.png)  
 
 Al entrar con otro usuario no muestra la personalización, ya que aplica unicamente por usuario.  
+
+## [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
+
+Para colocar los filtros tipo argument en exportadores dinámicos: el filtro funciona únicamente al realizar la consulta final del proceso de exportación dinámica, es decir al presionar el botón de aceptar en el **BINT**, al realizar la vista previa del exportador no se verá reflejado la aplicación del filtro; sino únicamente al exportar la información final.  
+
+Es necesario para los exportadores dinámicos que contengan configuración de registros tipo parámetro que los pinte previos a la visualización de los campos posibles a seleccionar.  
+Se modifica el desarrollo de exportación dinámica para que al tener parametrizado detalles tipo argument en el **BARC**, sean visibles y sirvan como filtro para la publicación en cuestión.  
+
+[imagen 1].  
+![](bint1.png)  
+Dicha parametrización se realiza por medio del **BARC**, en el detalle, con el tipo argument.  
+
+![](bint2.png)  
+
+Luego de tener la parametrización, se mostrará el filtro al inicio de la interfaz de la publicación asociada desde el **BINT** como se muestra en la imagen 1.  
+
+Una vez realizada la consulta preliminar en el exportador dinámico con el botón execute query, se muestra una grilla, y para la exportación final de los datos se presionará el botón aceptar. en este momento es que los filtros mostrados y parametrizados desde el **BARC** como arguments toman efecto en la consulta final.  
+
+![](bint3.png)  
+
 
 
 
