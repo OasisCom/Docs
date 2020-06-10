@@ -1446,6 +1446,14 @@ Ocultar y mover los campos de la misma grilla.
 
 Al entrar con otro usuario no muestra la personalización, ya que aplica unicamente por usuario.  
 
+## [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
+
+Es necesario para los exportadores dinámicos que contengan configuración de registros tipo parámetro que los pinte previos a la visualización de los campos posibles a seleccionar.  
+Se modifica el desarrollo de exportación dinámica para que al tener parametrizado detalles tipo argument en el **BARC**, sean visibles y sirvan como filtro para la publicación en cuestión.  
+
+[imagen 1].
+![](bint1.png)  
+
 
 
 
