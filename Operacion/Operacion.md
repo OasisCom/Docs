@@ -1451,8 +1451,18 @@ Al entrar con otro usuario no muestra la personalización, ya que aplica unicame
 Es necesario para los exportadores dinámicos que contengan configuración de registros tipo parámetro que los pinte previos a la visualización de los campos posibles a seleccionar.  
 Se modifica el desarrollo de exportación dinámica para que al tener parametrizado detalles tipo argument en el **BARC**, sean visibles y sirvan como filtro para la publicación en cuestión.  
 
-[imagen 1].
+[imagen 1].  
 ![](bint1.png)  
+Dicha parametrización se realiza por medio del **BARC**, en el detalle, con el tipo argument.  
+
+![](bint2.png)  
+
+Luego de tener la parametrización, se mostrará el filtro al inicio de la interfaz de la publicación asociada desde el **BINT** como se muestra en la imagen 1.  
+
+Una vez realizada la consulta preliminar en el exportador dinámico con el botón execute query, se muestra una grilla, y para la exportación final de los datos se presionará el botón aceptar. en este momento es que los filtros mostrados y parametrizados desde el **BARC** como arguments toman efecto en la consulta final.  
+
+![](bint3.png)  
+
 
 
 
