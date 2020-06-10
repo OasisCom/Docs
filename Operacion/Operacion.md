@@ -87,7 +87,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 45. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
 46. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
 47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
-48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)  
+48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -1428,7 +1428,7 @@ Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta po
     
     ![](jfac13.png)
     
-## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#Personalizacion-de-zoom)
+## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
 
 Se requiere que la configuración presente en las grillas para personalización también esté presente en los zooms, sin afectar el funcionamiento de los mismos. La personalización tiene la misma función que en las grillas, de ocultar y mover los campos de la misma.  
 Los botones resaltados guardan o borran la personalización de cada uno de los zoom, por usuario.  
