@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Cargue Lista de Uniformes
+title: Listado Uniformes - Posición
 permalink: /Operacion/hrm/rhumanos/rreporte/rrcu
 editable: si
 ---
 
-# CARGUE LISTA DE UNIFORMES  
+# LISTADO UNIFORMES - POSICIÓN
