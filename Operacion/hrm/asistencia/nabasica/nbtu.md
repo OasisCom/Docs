@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Datos Basicos
-permalink: /Operacion/hrm/asistencia/nabasica/nbtu
+title: Turnos
+permalink: /Operacion/hrm/nomina/nabasica/nbtu
 editable: si
 ---
 
