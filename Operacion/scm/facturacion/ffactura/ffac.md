@@ -19,6 +19,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 >+ [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)
 
 
+
 Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
 
 Cuando se procesa un documento de facturación de ventas y este tiene retención de ICA (RIC), el sistema llevará el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta que para esto la retención de ICA va a aplicar por dirección en el documento FC o el que corresponda para factura de venta.  
@@ -266,7 +267,7 @@ Este proceso también aplica para las facturas por compras, en donde el código 
 ![](bgru1.png)  
 
 
-## [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)  
+## [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)   
 
 Para realizar el proceso de Devolución de una Factura de Venta, primero se realiza la factura de Venta como ya se había indicado con **_Documento: FC_**, **_Ubicación: 1_**, **_Concepto: FC_**, relacionando también **_Cliente_**, **_Condición de Pago_** y demás características ya explicadas arriba para este documento. Se guarda el maestro y en el detalle, se relaciona el producto digitando el código si se conoce, o dando click derecho y eligiendo la opción _Ver Saldo por Ubicación_ y en este Zoom se filtran todos los productos que se necesiten y que tengan cantidad disponible para facturar, se adiciona el registro y aparece la cantidad correcta en el detalle.  Luego, se procesa el documento.  La devolución se realiza a través de esta misma aplicación pero con **_Documento_** y **_Concepto_** diferentes.  Se debe tener en cuenta el número de la factura y la Ubicación.  
 
