@@ -15,6 +15,6 @@ Las aplicaciones que maneja son:
 * [**Liquidaciones de Conceptos - NPLP**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nplp)  
 * [**Programación de Puesto - NPUE**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/npue)  
 * [**Asistencia - NASI**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nasi)  
-* [**Asistencia - NRAS**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nras)  
+* [**Programación de Turnos - NPRT**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nprt)  
 * [**Tiempo Récord - NREL**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nrel)
 
