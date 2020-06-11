@@ -23,7 +23,7 @@ Luego de haber realizado los pasos anteriores diligenciamos el periodo, el año 
 ![](icci1.png)
 
 
-Para validar el promedio ingresamos a la aplicación [ICKU - Kardex por Ubicación](http://docs.oasiscom.com/Operacion/scm/inventarios/icosto/icku).
+Para validar el promedio, ingresamos a la aplicación [ICKU - Kardex por Ubicación](http://docs.oasiscom.com/Operacion/scm/inventarios/icosto/icku).
 
 
 
