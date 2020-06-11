@@ -7,14 +7,16 @@ editable: si
 
 # BCUE - Cuentas
 
-La aplicación **BCUE** permite parametrizar el Plan Único de Cuentas (PUC). En el cual se pueden ver todas sus cuentas y subcuentas, facilitando su búsqueda, puesto que, permite filtrar por cuenta, nivel, padre, nombre de cuenta, naturaleza, tipo, tipo de impuesto, entre otros.  
+La aplicación **BCUE** permite parametrizar el Plan Único de Cuentas (PUC). 
 
-![](bcue1.png)
 
 * [Parametrización cuenta importaciones](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-cuenta-importaciones)
 * [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-para-el-módulo-activos-fijos)
 * [Parametrización Proceso de Costeo](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-proceso-de-costeo)
 
+En el cual se pueden ver todas sus cuentas y subcuentas, facilitando su búsqueda, puesto que, permite filtrar por cuenta, nivel, padre, nombre de cuenta, naturaleza, tipo, tipo de impuesto, entre otros.  
+
+![](bcue1.png)
 
 ## [Parametrización cuenta importaciones](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue#parametrización-cuenta-importaciones)
 
