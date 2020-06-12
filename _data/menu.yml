@@ -1339,7 +1339,7 @@
               url: /Operacion/hrm/rhumanos/rexpediente/
               subitems:
               - text: Expediente
-                url: /Operacion/hrm/nomina/nreporte/rexp              
+                url: /Operacion/hrm/rhumanos/rexpediente/rexp              
             - text: Estructura
               url: /Operacion/hrm/rhumanos/restructura/
               subitems:
@@ -1349,6 +1349,9 @@
                 url: /Operacion/hrm/rhumanos/restructura/rpos              
             - text: Selección
               url: /Operacion/hrm/rhumanos/rseleccion/
+              subitems:
+              - text: Selección
+                url: /Operacion/hrm/rhumanos/rseleccion/rsel               
             - text: Capacitación
               url: /Operacion/hrm/rhumanos/rcapacitacion/
               subitems:
@@ -1360,10 +1363,38 @@
               url: /Operacion/hrm/rhumanos/revaluacion/
             - text: Bienestar
               url: /Operacion/hrm/rhumanos/rbienestar/
+              subitems:
+              - text: Eventos
+                url: /Operacion/hrm/rhumanos/rbienestar/reve              
             - text: Salud
               url: /Operacion/hrm/rhumanos/rsalud/
             - text: Reportes
               url: /Operacion/hrm/rhumanos/rreporte/
+              subitems:
+              - text: Certificado
+                url: /Operacion/hrm/rhumanos/rreporte/rcer 
+              - text: Evaluación empleado
+                url: /Operacion/hrm/rhumanos/rreporte/rrer
+              - text: Perfiles
+                url: /Operacion/hrm/rhumanos/rreporte/rper
+              - text: Capacitación de empleados
+                url: /Operacion/hrm/rhumanos/rreporte/rrca
+              - text: Listado uniformes - posición
+                url: /Operacion/hrm/rhumanos/rreporte/rrcu
+              - text: Cambio posición por periodo
+                url: /Operacion/hrm/rhumanos/rreporte/nrcc
+              - text: Lista detallada de empleados
+                url: /Operacion/hrm/rhumanos/rreporte/nred                
+              - text: Retiro de empleados por periodo
+                url: /Operacion/hrm/rhumanos/rreporte/nrre                
+              - text: Listado de empleados
+                url: /Operacion/hrm/rhumanos/rreporte/rrem
+              - text: Empleados por ubicación
+                url: /Operacion/hrm/rhumanos/rreporte/rrue                
+              - text: Evaluaciones
+                url: /Operacion/hrm/rhumanos/rreporte/rrev
+              - text: Evaluaciones detalladas
+                url: /Operacion/hrm/rhumanos/rreporte/rred                            
         - text: Asistencia
           url: /Operacion/hrm/asistencia/
           subitems:
