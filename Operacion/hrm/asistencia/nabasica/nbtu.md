@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Turnos
-permalink: /Operacion/hrm/nomina/nabasica/nbtu
+permalink: /Operacion/hrm/nomina/nbasica/nbtu
 editable: si
 ---
 
