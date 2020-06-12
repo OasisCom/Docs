@@ -1310,6 +1310,31 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/hrm/rhumanos/rbasica/
+              subitems:
+              - text: Competencias
+                url: /Operacion/hrm/rhumanos/rbasica/rcom
+              - text: Tipo de curso
+                url: /Operacion/hrm/rhumanos/rbasica/rbcu                
+              - text: Tipo de educación
+                url: /Operacion/hrm/rhumanos/rbasica/rbed                 
+              - text: Tipo de evaluación
+                url: /Operacion/hrm/rhumanos/rbasica/rbev              
+              - text: Tipo de experiencia
+                url: /Operacion/hrm/rhumanos/rbasica/rbex
+              - text: Tipos de perfiles
+                url: /Operacion/hrm/rhumanos/rbasica/rbpe
+              - text: Tipos de anotación
+                url: /Operacion/hrm/rhumanos/rbasica/rbta
+              - text: Escalas
+                url: /Operacion/hrm/rhumanos/rbasica/rbes
+              - text: Tipo de dotación
+                url: /Operacion/hrm/rhumanos/rbasica/rbtd
+              - text: Tipo de familiar
+                url: /Operacion/hrm/rhumanos/rbasica/rbtf
+              - text: Tipo de riesgo
+                url: /Operacion/hrm/rhumanos/rbasica/rbtr
+              - text: Profesiones
+                url: /Operacion/hrm/rhumanos/rbasica/rbpr                                
             - text: Expediente
               url: /Operacion/hrm/rhumanos/rexpediente/
               subitems:
