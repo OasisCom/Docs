@@ -1,13 +1,25 @@
 ---
+
 layout: default
 title: Laboratorio
 permalink: /Operacion/is/hospital/gconsulta/glab
 editable: si
+
 ---
 
-# GLAB - Laboratorio
+
+
+# Laboratorio - GLAB
+
+
 
 En esta aplicación se pueden registrar todos los laboratorios médicos que se realicen a un paciente. Se debe adicionar un registro de la siguiente manera:
+
+
+
+![](laboratorio.png)
+
+
 
 **Documento:** Documento LH correspondiente a laboratorios  
 **Número:** Número del laboratorio (consecutivo del sistema)  
@@ -21,11 +33,21 @@ En esta aplicación se pueden registrar todos los laboratorios médicos que se r
 **Diagnóstico:** Se debe determinar un diagnóstico previo a la cita  
 **Ambito:** Se puede elegir entre ambulatorio, hospitalario o ugrnecias  
 
+
+
 En los campos Documento1, Número 1 y Ubicación 1 se puede asociar la consulta bajo la cual se autorizaron los laboratorios.
+
+
 
 ![](laboratorios.png)
 
+
+
 En la parte del detalle se debe registrar el resultado obtenido en cada uno de los exámenes realizados, por ejemplo, leucocitos, linfocitos, glucosa, entre otras. Esta parametrización de que exámenes se deben realizar en el laboratorio se parametrizan en la aplicación BMOT - Motivos.
 
+
+
 ![](detallelaboratorios.png)
+
+
 

@@ -31,8 +31,8 @@ En los siguientes campos:
 
 
 **Profesor**: diligenciar el número de identificación de la persona que estará a cargo del curso.  
-**Minimum Student**: número mínimo de estudiantes que realizarán el curso.  
-**Maximum Student**: número máximo de estudiantes que pueden realizar el curso.  
+**Mínimo de estudiantes**: número mínimo de estudiantes que realizarán el curso.  
+**Máximo de estudiantes**: número máximo de estudiantes que pueden realizar el curso.  
 
 
 ![](rcur3.png)

@@ -23,24 +23,24 @@ Para este ejemplo crearemos un contrato con el concepto de implementaciones.  Ag
 
 ![](2.png)
 
-**Documento:** En este campo seleccionamos *CV* que hace referencia a contratos de ventas. 
-**Ubicación:** Número de ubicación de la empresa la cual realiza el documento. 
-**Concepto:** Seleccionamos el concepto del contrato de venta, en este caso es *IM* que corresponde a implementación. 
-**Fecha:** Fecha en que se está creando el contrato 
-**Tercero:** Identificación numérica del tercero al que se le realizará el contrato.  
-**Vendedor:** Identificación numérica de la persona que se encargó de realizar la venta. 
-**Fecha inicial:** Fecha la cual se inicia el contrato. 
+**Documento:** En este campo seleccionamos *CV* que hace referencia a contratos de ventas.  
+**Ubicación:** Número de ubicación de la empresa la cual realiza el documento.  
+**Concepto:** Seleccionamos el concepto del contrato de venta, en este caso es *IM* que corresponde a implementación.  
+**Fecha:** Fecha en que se está creando el contrato.  
+**Tercero:** Identificación numérica del tercero al que se le realizará el contrato.   
+**Vendedor:** Identificación numérica de la persona que se encargó de realizar la venta.  
+**Fecha inicial:** Fecha la cual se inicia el contrato.  
 **Fecha final:** Fecha final del contrato. Para este ejemplo como se requiere facturar una implementación es una única factura.  
-**Tipo de liquidación:** Maestro
-**Negocio:** Hace referencia a lo que se esta cobrando, en este caso es una implementación. Estos negocios se parametrizan en la aplicación **BNEG- básico de negocios**
-**Proyecto:** Esta previamente parametrizado en la aplicación **BPRY - básico de proyectos**
-**Tipo de contrato:** Tipo de contrato de venta, en este caso seleccionamos venta de servicio.  
-**PeriodType:** Tipo de periodo facturación. En caso de que la factura fuera trimestral, semestral, anual en el campo Duración se debe seleccionar a cuantos periodos se requiere generar la factura.
+**Tipo de liquidación:** Maestro.  
+**Negocio:** Hace referencia a lo que se esta cobrando, en este caso es una implementación. Estos negocios se parametrizan en la aplicación **BNEG- básico de negocios**  
+**Proyecto:** Esta previamente parametrizado en la aplicación **BPRY - básico de proyectos**  
+**Tipo de contrato:** Tipo de contrato de venta, en este caso seleccionamos venta de servicio.   
+**PeriodType:** Tipo de periodo facturación. En caso de que la factura fuera trimestral, semestral, anual en el campo Duración se debe seleccionar a cuantos periodos se requiere generar la factura.  
 **CycleBliling:** Ciclo de facturación. Cuando se requiere generar el ciclo de facturación.  
-**Renovación:** Como es una única factura sin renovar. 
-**Lastinvoice:** fecha de la última factura emitida.  
-**NextInvoice:** fecha de la siguiente factura a emitir.  
-**Observación:** observación sobre el contrato si existe.  
+**Renovación:** Como es una única factura sin renovar.  
+**Lastinvoice:** fecha de la última factura emitida.   
+**NextInvoice:** fecha de la siguiente factura a emitir.   
+**Observación:** observación sobre el contrato si existe.   
 
 
 Luego de llenar los datos requeridos damos clic en guardar. ![](guardar.png)
@@ -51,14 +51,14 @@ La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamad
 
 ![](4.png)
 
-**Producto:** Producto que se requiere facturar, en este caso hablamos de una implementación. 
+**Producto:** Producto que se requiere facturar, en este caso hablamos de una implementación.  
 **Cantidad:** Cantidad de contratos del producto que se va adquirir por parte del cliente.  
 **Precio:** Precio registrado en el contrato del producto adquirido por el cliente.  
 **Factura:** Activamos el campo ![](fag.png) y guardamos los cambios ![](guardar1.png)  
 
 ![](5.png)
 
-Por último se debe confirmar el contrato de venta procesándolo. Así quedara el registro en el sistema. 
+Por último se debe confirmar el contrato de venta procesándolo. Así quedara el registro en el sistema.  
 
 ![](6.png)
 

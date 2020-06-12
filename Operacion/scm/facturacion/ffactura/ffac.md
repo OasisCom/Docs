@@ -15,7 +15,9 @@ La función de facturación en las empresas es uno de los ejes principales de su
 >+ [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización-resumida) 
 >+ [Cómo realizar una factura de venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#cómo-realizar-una-factura-de-venta)
 >+ [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
->+ [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
+>+ [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)  
+>+ [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)
+
 
 
 Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
@@ -262,4 +264,38 @@ Podemos ver que la moneda 0 tiene asignado el grupo de cuentas 0. A continuació
 
 Este proceso también aplica para las facturas por compras, en donde el código de consulta será _CXP_ correspondiente a cuentas por pagar.  
 
-![](bgru1.png)
+![](bgru1.png)  
+
+
+## [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)   
+
+Para realizar el proceso de Devolución de una Factura de Venta, primero se realiza la factura de Venta como ya se había indicado con **_Documento: FC_**, **_Ubicación: 1_**, **_Concepto: FC_**, relacionando también **_Cliente_**, **_Condición de Pago_** y demás características ya explicadas arriba para este documento. Se guarda el maestro y en el detalle, se relaciona el producto digitando el código si se conoce, o dando click derecho y eligiendo la opción _Ver Saldo por Ubicación_ y en este Zoom se filtran todos los productos que se necesiten y que tengan cantidad disponible para facturar, se adiciona el registro y aparece la cantidad correcta en el detalle.  Luego, se procesa el documento.  La devolución se realiza a través de esta misma aplicación pero con **_Documento_** y **_Concepto_** diferentes.  Se debe tener en cuenta el número de la factura y la Ubicación.  
+
+![](ffac30.png)  
+
+Se adiciona un nuevo registro (+) y en el campo **_Documento_**, se coloca la opción **_DV_** de Devolución Venta, en el campo **_Ubicación_** se coloca la misma ubicación de la factura a la que le vamos a realizar la devolución, en el campo **_Concepto_** también se coloca **_DV_** de Devoluciones, en el campo **_Tercero_** el mismo cliente de la factura de la que se va a realizar la devolución:  
+
+![](ffac31.png)  
+
+En la parte inferior, en los campos **_Documento1_**, **_Ubicación1_** y **_Número1_**, se relaciona la factura a la que se le va a realizar la nota crédito o devolución.  En **_Documento1: FC_**, **_Ubicación1: 1_**, en **_Número1_** se escribe el número de la factura sin espacios o darle click en el Zoom y buscarla y se guarda el registro.  
+
+![](ffac32.png)
+
+En la pantalla ya aparece el registro de la factura y el de la devolución con el mismo detalle de la factura:  
+
+![](ffac33.png)  
+
+En el campo **_Cantidad_** del detalle se selecciona si se va a realizar la devolución por todas las unidades facturadas o por menor cantidad:  
+
+![](ffac34.png)  
+
+Para este ejemplo, se hace por la misma cantidad facturada.  Se guarda el registro del detalle y enseguida se procesa.  
+
+![](ffac35.png)  
+
+![](ffac36.png)  
+
+
+Posteriormente, se puede validar en la aplicación **Saldos por Localización - ISPL** o algún reporte que muestre los _Saldos de Inventario_, si efectivamente la devolución quedó correcta.  Ingresamos a la aplicación **ISPL**, colocamos los datos de **_Periodo_**, **_Producto_** y **_Ubicación_** y nos muestra las _Entradas_, _Salidas_ y el _Saldo en Cantidad de Unidades_. 
+
+![](ffac37.png)

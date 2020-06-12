@@ -5,5 +5,5 @@ permalink: /Operacion/is/
 editable: si
 ---
 
-# SOLUCIONES INDUSTRIA
+# Soluciones Industria
 

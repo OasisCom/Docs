@@ -5,11 +5,11 @@ permalink: /Operacion/system/sconfig/scam
 editable: si
 ---
 
-# SCAM - Campos
+# Campos - SCAM
 
 La aplicación SCAM permite la configuración de reglas de negocio, control, tipos de campos y su obligatoriedad por empresa.  
 
-### Parametrizar nueva restricción
+## Parametrizar nueva restricción
 
 Para parametrizar una nueva restricción, es necesario diligenciar el _programa_, el _tab_ al cual pertenece el campo (0 para el maestro y para los detalles el RowId de la parametrización del spro), el _nombre del campo_ (con la ayuda del comando Shift + F11), el _código del lenguaje_ (1 Inglés, 2 Español y 5 Portugues).  
 
@@ -29,7 +29,7 @@ En el campo **"customValidators"** se debe agregar una lista de condiciones lóg
 
 Si se desea hacer una validación de longitud de una cadena, se deben utilizar las funciones "maxLength(value, N)" y "minLength(value, N)" donde N es la longitud que será validada. Adicionalmente, se pueden validar expresiones regulares por medio de la función "evaluateRegex(pattern, value)" donde pattern es la expresión regular que será validada.  
 
-### Parametrizar restricciones maestro tipo A y B  
+## Parametrizar restricciones maestro tipo A y B  
 
 ![](scam2.png)  
 
@@ -41,7 +41,7 @@ El error parametrizado se mostrará al momento de guardar si no se cumple alguna
 
 ![](scam4.png)  
 
-### Parametrización "alertas en mensajes de control", en maestros tipo C. 
+## Parametrización "alertas en mensajes de control", en maestros tipo C. 
 
 Desde la opción campos **SCAM** se establece la parametrización en la columna: Tipo, como CONSULTA REQUERIDO según sea el programa. El sistema lanzara un mensaje de control, para que el usuario establezca los filtros de búsqueda.  
 
@@ -63,7 +63,7 @@ Y el proceso finaliza con la validacion, al entrar al TMOV y al aplicar una cons
 ![](scam47.png)  
 
 
-### Parametrización restricciones maestros tipo C
+## Parametrización restricciones maestros tipo C
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
 
@@ -77,7 +77,7 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ![](scam7.png)
 
-### Parametrización detalles opciones tipo B y C
+## Parametrización detalles opciones tipo B y C
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
 
@@ -91,7 +91,7 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ![](scam10.png)
 
-### Parametrización Zoom
+## Parametrización Zoom
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
 
@@ -107,7 +107,7 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ![](scam14.png)
 
-### [Parametrizar Valores por Defectos](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrizar-valores-por-defectos)
+## [Parametrizar Valores por Defectos](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrizar-valores-por-defectos)
 
 Esta nueva funcionalidad permite declarar valores por defecto sobre campos (Listas, Fechas, Flags, etc) de aplicaciones de parametrización básica sin detalle como lo son: BBAN, BCOL. También para aplicaciones de parametrización que contengan detalle, como: BPRO, BTER, BDOC, BUBI, entre otras. Igualmente, para aplicaciones de movimientos o transacciones como lo son: CMOV, TMOV, KMOV, etc.  
 
@@ -174,7 +174,7 @@ Después de realizar la parametrización, al crear un registro el campo aparecer
 ![](scam25.png)
 
 
-### [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
+## [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
 
 Esta funcionalidad permite enseñar mensajes de error en los campos previamente parametrizados, mientras se esté editando un registro y no solamente cuando se de click en el botón _Guardar_.
 
