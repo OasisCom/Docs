@@ -1344,12 +1344,42 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/hrm/asistencia/nabasica/
+              subitems:
+              - text: Tiempos
+                url: /Operacion/hrm/asistencia/nabasica/nbre               
             - text: Control de Asistencia
               url: /Operacion/hrm/asistencia/nasistenci/
+              subitems:              
+              - text: Programación de turnos
+                url: /Operacion/hrm/asistencia/nasistenci/nncal
+              - text: Liquidaciones de Conceptos
+                url: /Operacion/hrm/asistencia/nasistenci/nplp
+              - text: Porgramación de puestos
+                url: /Operacion/hrm/asistencia/nasistenci/npue
+              - text: Asistencia
+                url: /Operacion/hrm/asistencia/nasistenci/nasi
+              - text: Tiempo récord
+                url: /Operacion/hrm/asistencia/nasistenci/nrel                                
             - text: Procesos Especiales
               url: /Operacion/hrm/asistencia/naproceso/
+              subitems:              
+              - text: Confirma asistencia
+                url: /Operacion/hrm/asistencia/naproceso/naca
+              - text: Genera novedades
+                url: /Operacion/hrm/asistencia/naproceso/nagn
+              - text: Liquidación de turnos
+                url: /Operacion/hrm/asistencia/naproceso/nlit
+              - text: Inicio programación
+                url: /Operacion/hrm/asistencia/naproceso/npip
+              - text: Programación de turnos
+                url: /Operacion/hrm/asistencia/naproceso/nptp                             
             - text: Reportes
               url: /Operacion/hrm/asistencia/nareporte/
+              subitems:              
+              - text: Asistencia
+                url: /Operacion/hrm/asistencia/nareporte/nras
+              - text: Programación faltantes
+                url: /Operacion/hrm/asistencia/nareporte/nrpf                
     - text: Clientes CRM
       url: /Operacion/crm/
       subitems:
