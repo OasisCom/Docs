@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Turnos
-permalink: /Operacion/hrm/asistencia/nabasica/nbtu
+permalink: /Operacion/hrm/nomina/nbasica/nbtu
 editable: si
 ---
 
-# NBTU - Turnos
+# Turnos NBTU  
 
 ## [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/hrm/asistencia/nabasica/nbtu#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)
 
@@ -16,6 +16,3 @@ En el detalle de esta opción se deben incluir los días de la semana con su res
 ![](nbtu.png)
 
 A continuación, ingresaremos a la aplicación [**NCNT - Contratos de Nómina**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos) en donde se definirá el turno por defecto del empleado.  
-
-
-
