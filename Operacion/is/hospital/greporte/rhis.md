@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/greporte/rhis
 editable: si
 ---
 
-# RHIS - Historias
+# Historias - RHIS
 
 La aplicación RHIS permite la visualización de información relacionada a la historia clinica de un paciente en un rango de fechas.  
 

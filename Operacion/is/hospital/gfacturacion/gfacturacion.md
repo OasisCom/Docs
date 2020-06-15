@@ -9,5 +9,5 @@ editable: si
 
 Está integrado por los módulos:
 
-* 
+* [**GFAC**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) - Facturas
 
