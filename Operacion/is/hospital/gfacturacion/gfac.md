@@ -14,7 +14,7 @@ editable: si
 
 
 
-# [Verificación parametrización Tipo de Precio](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#verificación-parametrización-tipo-de-precio)
+## [Verificación parametrización Tipo de Precio](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#verificación-parametrización-tipo-de-precio)
 
 Realizada la parametrización de tipo de precio en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi), podemos validar en la aplicación **GFAC**, que al agregar un nuevo registro e ingresar en el campo _Ubicación_, la ubicación  en la cual se realizó la parametrización, este trae automáticamente en el campo _Tipo de Precio_ el definido en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).  
 
