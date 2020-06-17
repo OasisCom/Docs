@@ -1468,6 +1468,18 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 ## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
+validamos la parametrizacion, para estos casosos practicos, realizamos  y verificamos la parametrizacion de BBAN para las tipo A.  
+Ingresamos al programa  SCAM.  
+
+![](scam.png)  
+
+A continuacion en verde se muestran las llaves que siempre deben de tener este valor y en rojo las que son para cada cas, primero evaluaremos los de los tipos rdlc .  
+
+![](scam1.png)  
+
+Ingresamos al BBAN para verificar la previa,  
+
+![](bban1.png)  
 
 
 
