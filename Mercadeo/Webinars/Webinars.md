@@ -16,17 +16,11 @@ editable: si
 
 ### Bienvenido
 
-## Capacitación para Aliados:
----
->##### [Capacitación: Factura Electrónica:](http://docs.oasiscom.com/Mercadeo/Webinars) ![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
->>##### [Capacitación: Factura Electrónica - Presentación](http://docs.oasiscom.com/Mercadeo/Webinars/PresentaciónAliados.ppsx)
->##### [Capacitación: Factura Electrónica - Guia de apoyo](http://docs.oasiscom.com/Mercadeo/Webinars/GuíaApoyoCapacitaciónAliados.pdf)
->##### [Capacitación: Factura Electrónica - Instructivo Factura Electrónica Fase II](http://docs.oasiscom.com/Mercadeo/Webinars/FACTURA-ELECTRONICA-FASE II.pdf)
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
-
->##### [WEBINAR: Home Office desde el punto de vista Gerencial - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion webinar Home Office.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: ¿Cómo gestionar transacciones en OasisCom los 3 días sin IVA?  - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM DEF.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Home Office desde el punto de vista Gerencial - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion webinar Home Office.pdf)
 >##### [WEBINAR: Gestión de Nómina en OasisCom - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar-gestion-nomina.pdf)
 >##### [WEBINAR: Pasos para la generación de Medios Magnéticos - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-madios-magneticos-2020.pdf)
 >##### [WEBINAR: Transformación Digital como ventaja competitiva - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-transformacion-digital-feb.pdf)
@@ -38,6 +32,12 @@ editable: si
 >##### [Webinar: Tips para la preparación de Medios Magnéticos en OasisCom - Presentacion](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar28-03-2019.pptx)
 >##### [Webinar: Cómo operar en tu punto de venta con OasisCom - Memoria](https://mailchi.mp/e6b06f6c236a/memorias-webinar-pos-cmo-operar-tu-punto-de-venta-con-oasiscom)
 
+## Capacitación para Aliados:
+---
+>##### [Capacitación: Factura Electrónica:](http://docs.oasiscom.com/Mercadeo/Webinars) ![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>>##### [Capacitación: Factura Electrónica - Presentación](http://docs.oasiscom.com/Mercadeo/Webinars/PresentaciónAliados.ppsx)
+>##### [Capacitación: Factura Electrónica - Guia de apoyo](http://docs.oasiscom.com/Mercadeo/Webinars/GuíaApoyoCapacitaciónAliados.pdf)
+>##### [Capacitación: Factura Electrónica - Instructivo Factura Electrónica Fase II](http://docs.oasiscom.com/Mercadeo/Webinars/FACTURA-ELECTRONICA-FASE II.pdf)
 
 
 

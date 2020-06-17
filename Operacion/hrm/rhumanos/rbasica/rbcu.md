@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tipo de curso
-permalink: /Operacion/hrm/rhumanos/rbasican/rbcu
+permalink: /Operacion/hrm/rhumanos/rbasica/rbcu
 editable: si
 ---
 
