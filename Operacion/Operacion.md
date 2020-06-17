@@ -1481,6 +1481,35 @@ Ingresamos al BBAN para verificar la previa,
 
 ![](bban1.png)  
 
+El sistema debe de respetar las vistas previas parametrizadas en  SPRO,  si en el SCAM no tiene vistas previas parametrizadas, el va y busca en el SPRO, primero SCAM luego SPRO.   
+
+![](spro1.png)  
+
+Para levantar este formato, dejamos Inhabilitado la parametrizacion del SCAM.  
+
+![](bban2.png)  
+
+* **Para el ejemplo de las ventanas tipo B, tenemos la siguiente parametrizacion:**  
+
+Ingresamos al ACON.  
+Esto para ver la parametrizacion que es necesaria.  
+
+![](scam2.png)  
+y el query que requiere los tipo template:  
+
+![](scam3.png)  
+
+![](spro2.png)  
+
+validamos la vistra previa del ACON.  
+
+![](acon.png)  
+
+Para levantar el reporte rdlc , deshabilitamos el check.
+
+![](scam4.png)  
+
+
 
 
 
