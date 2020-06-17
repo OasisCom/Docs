@@ -7,7 +7,7 @@ editable: si
 
 # Hospitalización
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 * [**GADM**](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm) - Admisiones
 * [**GHOS**](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/ghos) - Hospitalización
