@@ -1466,6 +1466,10 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 ![](bint3.png)  
 
+## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
+
+
+
 
 
 
