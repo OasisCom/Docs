@@ -7,7 +7,7 @@ editable: si
 
 # Citas
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 * [**GCIT**](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcit) - Citas 
 * [**GCAL**](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal) - Calendario 

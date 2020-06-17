@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/ecntpre/movpre/ecac
 editable: si
 ---
 
-# ECAC - Ajustes contratos prestación
+# Ajustes contratos prestación - ECAC
 
 >+ [Detalle de la aplicación ECAC – Ajustes Contratos Prestación](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecac#detalle-de-la-aplicación-ecac---ajustes-contratos-prestación)
 

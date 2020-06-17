@@ -7,7 +7,7 @@ editable: si
 
 # Farmacia
 
-Está integrado por los módulos:
+Está integrado por las apliaciones:
 
 * [**GMOV**](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov) - Movimientos de Inventario
 * [**GPDE**](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gpde) - Dispensaciones Pendiente por Entrega

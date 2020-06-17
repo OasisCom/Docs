@@ -7,7 +7,7 @@ editable: si
 
 # Reportes
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 * [**GRAD**](http://docs.oasiscom.com/Operacion/is/hospital/greporte/grad) - Detailed Attention
 * [**GRMP**](http://docs.oasiscom.com/Operacion/is/hospital/greporte/grmp) - Medicamentos por Paciente
