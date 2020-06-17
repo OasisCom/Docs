@@ -17,7 +17,7 @@ Los siguientes procesos se encuentran documentados en esta aplicación:
 >+ [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
 >+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-económicas)  
 >+ [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar) 
->+ [Aprobación de Gerencia en aplicaciones PMOV - OFAC ](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
+>+ [Aprobación de Gerencia en aplicaciones PMOV - OFAC](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
 
 
 ![](PMOV1.png)
@@ -198,7 +198,7 @@ De igual manera, si se tienen parametrizadas previamente las plantillas, el sist
 En este momento, ya se puede ir a la aplicación **PMCR - Cruces** para realizar el proceso de cruce.  Para conocer el proceso completo, favor dirigirse a: [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
 
 
-## [Aprobación de Gerencia en aplicaciones PMOV - OFAC ](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
+## [Aprobación de Gerencia en aplicaciones PMOV - OFAC](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
 
 Adecuación en compras [OFAC] y cuentas por pagar [PMOV] para que lleven una aprobación de jefe encargado antes de ser procesadas. Previa parametrización en procesos [SPRC], documentos [BDOC], motivos [BMOT]. Se configuro un botón en el maestro del PMOV, OFAC según sea el caso, el cual se encarga de actualizar el Status de Movimiento para proceder con su confirmación.  
 Parametrizacion:  
