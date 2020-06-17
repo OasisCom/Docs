@@ -401,7 +401,7 @@ Parametrizacion:
 
 4.Para aprobar los documentos se configuro un botón en el maestro del **PMOV - OFAC** según sea el caso el cual se encarga de actualizar el **Status** de Movimiento para proceder con su confirmación.   El botón y la edición del campo status se puede restringir su acceso o modificación desde configuración del **SROL**.  
 
-![](pmov29.png)  
+![](pmov1.png)  
 
 ![](ofac1.png)  
 
