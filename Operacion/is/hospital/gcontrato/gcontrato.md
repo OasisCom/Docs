@@ -7,7 +7,7 @@ editable: si
 
 # Contratos
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 * [**GCNT**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcnt) - Contratos  
 * [**GCAC**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcac) - Ajustes a Contratos  

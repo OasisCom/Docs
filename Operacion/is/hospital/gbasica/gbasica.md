@@ -9,7 +9,7 @@ editable: si
 
 En este módulo de datos básicos, se parametriza la información general utilizada como base de la operación del módulo.
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 * [**GPAC**](http://docs.oasiscom.com/Operacion/is/hospital/gbasica/gpac) - Pacientes
 * [**GPRO**](http://docs.oasiscom.com/Operacion/is/hospital/gbasica/gpro) - Productos

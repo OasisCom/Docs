@@ -89,6 +89,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
 48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
 49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
+50. [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -1464,6 +1465,53 @@ Luego de tener la parametrización, se mostrará el filtro al inicio de la inter
 Una vez realizada la consulta preliminar en el exportador dinámico con el botón execute query, se muestra una grilla, y para la exportación final de los datos se presionará el botón aceptar. en este momento es que los filtros mostrados y parametrizados desde el **BARC** como arguments toman efecto en la consulta final.  
 
 ![](bint3.png)  
+
+## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
+
+validamos la parametrizacion, para estos casosos practicos, realizamos  y verificamos la parametrizacion de BBAN para las tipo A.  
+Ingresamos al programa  SCAM.  
+
+![](scam.png)  
+
+A continuacion en verde se muestran las llaves que siempre deben de tener este valor y en rojo las que son para cada cas, primero evaluaremos los de los tipos rdlc .  
+
+![](scam1.png)  
+
+Ingresamos al BBAN para verificar la previa,  
+
+![](bban1.png)  
+
+El sistema debe de respetar las vistas previas parametrizadas en  SPRO,  si en el SCAM no tiene vistas previas parametrizadas, el va y busca en el SPRO, primero SCAM luego SPRO.   
+
+![](spro1.png)  
+
+Para levantar este formato, dejamos Inhabilitado la parametrizacion del SCAM.  
+
+![](bban2.png)  
+
+* **Para el ejemplo de las ventanas tipo B, tenemos la siguiente parametrizacion:**  
+
+Ingresamos al ACON.  
+Esto para ver la parametrizacion que es necesaria.  
+
+![](scam2.png)  
+y el query que requiere los tipo template:  
+
+![](scam3.png)  
+
+![](spro2.png)  
+
+validamos la vistra previa del ACON.  
+
+![](acon.png)  
+
+Para levantar el reporte rdlc , deshabilitamos el check.
+
+![](scam4.png)  
+
+![](acon2.png)  
+
+
 
 
 
