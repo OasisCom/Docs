@@ -16,8 +16,7 @@ En esta aplicación, además de ver su operación básica, podemos ver una expli
 * [Ingreso de Activo Fijo por Compras OFAC](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#ingreso-de-activo-fijo-por-compras-ofac)  
 * [Contabilización de Fletes](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#contabilización-de-fletes)
 * [Control por Proveedor](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#control-por-proveedor)  
-* [Relación con la Orden de Compra](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#relación-con-la-orden-de-compra)  
-
+* [Relación con la Orden de Compra](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#relación-con-la-orden-de-compra) 
 * [Aprobacion de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobacion-de-gerencia-en-aplicaciones-ofac-pmov)  
 
 
