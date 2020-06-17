@@ -17,6 +17,7 @@ Los siguientes procesos se encuentran documentados en esta aplicación:
 >+ [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
 >+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-económicas)  
 >+ [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar) 
+>+ [Aprobación de Gerencia en aplicaciones PMOV - OFAC ](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
 
 
 ![](PMOV1.png)
