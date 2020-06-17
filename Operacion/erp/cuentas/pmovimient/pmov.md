@@ -198,6 +198,28 @@ De igual manera, si se tienen parametrizadas previamente las plantillas, el sist
 En este momento, ya se puede ir a la aplicación **PMCR - Cruces** para realizar el proceso de cruce.  Para conocer el proceso completo, favor dirigirse a: [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
 
 
+## [Aprobación de Gerencia en aplicaciones PMOV - OFAC ](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
+
+Adecuación en compras [OFAC] y cuentas por pagar [PMOV] para que lleven una aprobación de jefe encargado antes de ser procesadas. Previa parametrización en procesos [SPRC], documentos [BDOC], motivos [BMOT]. Se configuro un botón en el maestro del PMOV, OFAC según sea el caso, el cual se encarga de actualizar el Status de Movimiento para proceder con su confirmación.  
+Parametrizacion:  
+
+1.Se debe configurar un proceso **[SPRC]**, que contenga en la columna código del maestro el código **APR**, y adicional automático el primer status que puede asumir el movimiento.  
+
+![](sprc1.png)  
+
+2.Se debe asociar este nuevo proceso al documento pertinente.  Adicional se deben configurar los status para este documento que permitirán identificar la aprobación previa **[BDOC]**  
+
+![](bdoc1.png)  
+
+3.Para controlar y evitar confirmar documentos sin aprobación se debe incluir esta validación en **[BMOT]**.  El error (7945) asociado ya se encuentra creado en Azure y en la BD sql desarrollo.  
+
+![](bmot.png)  
+
+
+
+
+
+
 
 
 
