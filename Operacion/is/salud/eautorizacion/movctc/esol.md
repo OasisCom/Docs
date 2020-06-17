@@ -52,8 +52,22 @@ Se ingresan los datos indicando la entrega.
 Se especifica la fecha máxima de entrega.  
 Cantidad total a entregar.  
 
-
 ![](esol6.png)  
+
+Para reportar a **MIPRES** el direccionamiento le damos en aceptar.  
+Al realizar este proceso se tendrá el registro de todos los direccionamientos realizados desde este programa.  
+para la visualización de estos registros nos ubicamos sobre el tab de direccionamiento.  
+
+Adicionalmente se cambia el botón de anulación de direccionamiento sobre este tab.  
+
+![](esol7.png)  
+
+Para realizar este proceso se requiere de previa configuración de token al cual tiene acceso el cliente.  
+
+Por tal motivo se realiza documentación con las indicaciones anteriores.
+anteriormente **no** se podían controlar todos los direccionamientos que se podían realizar de la solicitud.  
+
+
 
 
 
