@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tipos de Perfil
-permalink: /Operacion/hrm/rhumanos/rbasican/rbpe
+permalink: /Operacion/hrm/rhumanos/rbasica/rbpe
 editable: si
 ---
 

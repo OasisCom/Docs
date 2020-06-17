@@ -15,11 +15,11 @@ En este submódulo, se realizan las operaciones relacionadas con la afiliación 
 
 Este submódulo está compuesto por:  
 
-* Consultas        
-* Aportantes    
-* Afiliaciones      
-* Procesos      
-* Reportes    
+* [**Consultas**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/conafi/)
+* [**Aportantes**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movadm/)
+* [**Afiliaciones**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/)
+* [**Procesos**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/proafi/)
+* [**Reportes**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/)
 
 
 ![](flujograma.png)

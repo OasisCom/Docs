@@ -7,6 +7,8 @@ editable: si
 
 # Datos Basicos
 
+En este módulo de datos básicos, se parametriza la información general utilizada como base de la operación del módulo.
+
 Está integrado por los módulos:
 
 * [**GPAC**](http://docs.oasiscom.com/Operacion/is/hospital/gbasica/gpac) - Pacientes

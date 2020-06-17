@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/eafiliacion/conafi/eeapo
 editable: si
 ---
 
-# Formulario de Empleadores_web - EEAPO
+# Formulario de Empleadores web - EEAPO
 
 Permite registrar los afiliados aportantes al régimen contributivo en WEB
 

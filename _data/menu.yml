@@ -1310,11 +1310,36 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/hrm/rhumanos/rbasica/
+              subitems:
+              - text: Competencias
+                url: /Operacion/hrm/rhumanos/rbasica/rcom
+              - text: Tipo de curso
+                url: /Operacion/hrm/rhumanos/rbasica/rbcu                
+              - text: Tipo de educación
+                url: /Operacion/hrm/rhumanos/rbasica/rbed                 
+              - text: Tipo de evaluación
+                url: /Operacion/hrm/rhumanos/rbasica/rbev              
+              - text: Tipo de experiencia
+                url: /Operacion/hrm/rhumanos/rbasica/rbex
+              - text: Tipos de perfiles
+                url: /Operacion/hrm/rhumanos/rbasica/rbpe
+              - text: Tipos de anotación
+                url: /Operacion/hrm/rhumanos/rbasica/rbta
+              - text: Escalas
+                url: /Operacion/hrm/rhumanos/rbasica/rbes
+              - text: Tipo de dotación
+                url: /Operacion/hrm/rhumanos/rbasica/rbtd
+              - text: Tipo de familiar
+                url: /Operacion/hrm/rhumanos/rbasica/rbtf
+              - text: Tipo de riesgo
+                url: /Operacion/hrm/rhumanos/rbasica/rbtr
+              - text: Profesiones
+                url: /Operacion/hrm/rhumanos/rbasica/rbpr                                
             - text: Expediente
               url: /Operacion/hrm/rhumanos/rexpediente/
               subitems:
               - text: Expediente
-                url: /Operacion/hrm/nomina/nreporte/rexp              
+                url: /Operacion/hrm/rhumanos/rexpediente/rexp              
             - text: Estructura
               url: /Operacion/hrm/rhumanos/restructura/
               subitems:
@@ -1322,29 +1347,95 @@
                 url: /Operacion/hrm/rhumanos/restructura/rcar              
               - text: Posición
                 url: /Operacion/hrm/rhumanos/restructura/rpos              
-            - text: Seleccion
+            - text: Selección
               url: /Operacion/hrm/rhumanos/rseleccion/
-            - text: Capacitacion
+              subitems:
+              - text: Selección
+                url: /Operacion/hrm/rhumanos/rseleccion/rsel               
+            - text: Capacitación
               url: /Operacion/hrm/rhumanos/rcapacitacion/
-            - text: Evaluacion
+              subitems:
+              - text: Cursos
+                url: /Operacion/hrm/rhumanos/rcapacitacion/rcur
+              - text: Capacitación
+                url: /Operacion/hrm/rhumanos/rcapacitacion/rcap                
+            - text: Evaluación
               url: /Operacion/hrm/rhumanos/revaluacion/
             - text: Bienestar
               url: /Operacion/hrm/rhumanos/rbienestar/
+              subitems:
+              - text: Eventos
+                url: /Operacion/hrm/rhumanos/rbienestar/reve              
             - text: Salud
               url: /Operacion/hrm/rhumanos/rsalud/
             - text: Reportes
               url: /Operacion/hrm/rhumanos/rreporte/
+              subitems:
+              - text: Certificado
+                url: /Operacion/hrm/rhumanos/rreporte/rcer 
+              - text: Evaluación empleado
+                url: /Operacion/hrm/rhumanos/rreporte/rrer
+              - text: Perfiles
+                url: /Operacion/hrm/rhumanos/rreporte/rper
+              - text: Capacitación de empleados
+                url: /Operacion/hrm/rhumanos/rreporte/rrca
+              - text: Listado uniformes - posición
+                url: /Operacion/hrm/rhumanos/rreporte/rrcu
+              - text: Cambio posición por periodo
+                url: /Operacion/hrm/rhumanos/rreporte/nrcc
+              - text: Lista detallada de empleados
+                url: /Operacion/hrm/rhumanos/rreporte/nred                
+              - text: Retiro de empleados por periodo
+                url: /Operacion/hrm/rhumanos/rreporte/nrre                
+              - text: Listado de empleados
+                url: /Operacion/hrm/rhumanos/rreporte/rrem
+              - text: Empleados por ubicación
+                url: /Operacion/hrm/rhumanos/rreporte/rrue                
+              - text: Evaluaciones
+                url: /Operacion/hrm/rhumanos/rreporte/rrev
+              - text: Evaluaciones detalladas
+                url: /Operacion/hrm/rhumanos/rreporte/rred                            
         - text: Asistencia
           url: /Operacion/hrm/asistencia/
           subitems:
             - text: Datos Basicos
               url: /Operacion/hrm/asistencia/nabasica/
+              subitems:
+              - text: Tiempos
+                url: /Operacion/hrm/asistencia/nabasica/nbre               
             - text: Control de Asistencia
               url: /Operacion/hrm/asistencia/nasistenci/
+              subitems:              
+              - text: Programación de turnos
+                url: /Operacion/hrm/asistencia/nasistenci/nncal
+              - text: Liquidaciones de Conceptos
+                url: /Operacion/hrm/asistencia/nasistenci/nplp
+              - text: Porgramación de puestos
+                url: /Operacion/hrm/asistencia/nasistenci/npue
+              - text: Asistencia
+                url: /Operacion/hrm/asistencia/nasistenci/nasi
+              - text: Tiempo récord
+                url: /Operacion/hrm/asistencia/nasistenci/nrel                                
             - text: Procesos Especiales
               url: /Operacion/hrm/asistencia/naproceso/
+              subitems:              
+              - text: Confirma asistencia
+                url: /Operacion/hrm/asistencia/naproceso/naca
+              - text: Genera novedades
+                url: /Operacion/hrm/asistencia/naproceso/nagn
+              - text: Liquidación de turnos
+                url: /Operacion/hrm/asistencia/naproceso/nlit
+              - text: Inicio programación
+                url: /Operacion/hrm/asistencia/naproceso/npip
+              - text: Programación de turnos
+                url: /Operacion/hrm/asistencia/naproceso/nptp                             
             - text: Reportes
               url: /Operacion/hrm/asistencia/nareporte/
+              subitems:              
+              - text: Asistencia
+                url: /Operacion/hrm/asistencia/nareporte/nras
+              - text: Programación faltantes
+                url: /Operacion/hrm/asistencia/nareporte/nrpf                
     - text: Clientes CRM
       url: /Operacion/crm/
       subitems:
@@ -1355,9 +1446,7 @@
               url: /Operacion/crm/venta/aprospecto/
               subitems:
               - text: Prospectos
-                url: /Operacion/crm/venta/aprospecto/apro
-              - text: Contactos
-                url: /Operacion/crm/venta/aprospecto/acon                
+                url: /Operacion/crm/venta/aprospecto/apro                
             - text: Oportunidades
               url: /Operacion/crm/venta/aoportunidad/
               subitems:
@@ -1395,6 +1484,9 @@
               url: /Operacion/crm/mercadeo/wencuesta/
             - text: Reportes
               url: /Operacion/crm/mercadeo/wreporte/
+              subitems:
+              - text: Peticiones
+                url: /Operacion/crm/mercadeo/wreporte/arac              
         - text: Servicio
           url: /Operacion/crm/servicio/
           subitems:
@@ -1404,6 +1496,9 @@
               url: /Operacion/crm/servicio/aagenda/
             - text: Contactos
               url: /Operacion/crm/servicio/acontacto/
+              subitems:
+              - text: Contactos
+                url: /Operacion/crm/servicio/acontacto/acon              
             - text: Peticiones
               url: /Operacion/crm/servicio/apeticion/
             - text: Actividades
@@ -1417,6 +1512,9 @@
               url: /Operacion/crm/helpdesk/hdactividad/
             - text: Reportes
               url: /Operacion/crm/helpdesk/hdreporte/
+              subitems:
+              - text: Monitoreo de actividades
+                url: /Operacion/crm/helpdesk/hdreporte/arse              
         - text: Desarrollo
           url: /Operacion/crm/development/
           subitems:
@@ -1434,11 +1532,16 @@
         - text: Proyectos
           url: /Operacion/crm/proyecto/
           subitems:
-            - text: Datos Basicos
+            - text: Datos Básicos
               url: /Operacion/crm/proyecto/prbasica/
-            - text: Planeacion
+              subitems:
+              - text: Proyectos
+                url: /Operacion/crm/proyecto/prbasica/apry
+              - text: Recursos
+                url: /Operacion/crm/proyecto/prbasica/arec                
+            - text: Planeación
               url: /Operacion/crm/proyecto/prplaneacion/
-            - text: Ejecucion
+            - text: Ejecución
               url: /Operacion/crm/proyecto/prejecucion/
             - text: Consultas
               url: /Operacion/crm/proyecto/prconsulta/
@@ -1447,7 +1550,9 @@
             - text: Reportes
               url: /Operacion/crm/proyecto/prreporte/
               subitems:
-              - text: Monitoreo de Desarrollo
+              - text: Kanban Proyectos
+                url: /Operacion/crm/proyecto/prreporte/arkp              
+              - text: Ventas por empleado
                 url: /Operacion/crm/proyecto/prreporte/jrem              
         - text: Portales
           url: /Operacion/crm/portal/
@@ -2248,6 +2353,9 @@
               url: /Operacion/utility/calidad/baudit/
             - text: Mejora
               url: /Operacion/utility/calidad/amejora/
+              subitems:
+                - text: Oportunidades de mejora
+                  url: /Operacion/utility/calidad/amejora/amej              
         - text: Interfaces
           url: /Operacion/utility/barchi/
         - text: Sincronizacion

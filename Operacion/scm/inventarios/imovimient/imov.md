@@ -336,19 +336,12 @@ Una vez validada la información del pedido se procesa el documento y se realiza
 
 
 **Documento:** SA correspondiente a salida de inventario.  
-
 **Ubicación:** 3 correspondiente a la ubicación de donde saldrá la mercancía.  
-
 **Concepto:** TR correspondiente a traslado.  
-
 **Tercero:** Tercero correspondiente.  
-
 **Ubicación Destino:** 1 La ubicación a la que se requiere llevar la mercancía.  
-
 **Documento1:** LD Documento del pedido creado automáticamente en **LPED**.  
-
 **Número1:** 2 Número del pedido correspondiente al campo anterior.  
-
 **Ubicación1:** 1 Ubicación del pedido correspondiente al campo anterior.  
 
 
@@ -393,9 +386,7 @@ Se procesa el registro
 
 En la aplicación **IMOV** se validarán los documentos de ajuste generados por la aplicación [**IFAJ - Genera Ajustes**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), estos deberán ser procesados con el fin de adecuar correctamente el inventario realizado.  
 
-
-
-Para consultar los documentos filtraremos por la fecha en que se realizó el inventario.  
+Estos documentos se pueden procesar con el fin de adecuar el inventario realizado. Para consultar los documentos filtraremos por la fecha en que se realizó el inventario.  
 
 
 
@@ -405,6 +396,8 @@ Para consultar los documentos filtraremos por la fecha en que se realizó el inv
 
 En la aplicación se generó un documento _EN - Entradas al inventario_ por concepto _EA - Entrada por ajuste_, el cual corresponde a las unidades que se encuentran físicamente pero que no estaban registradas en el sistema. Por otro lado, también se generó el documento _SA - Salidas del inventario_ por concepto _SA - Salida por ajuste_, el cual corresponde a las unidades de más que se encuentran registradas en el sistema pero que no existen físicamente. En el detalle de cada documento se podrán ver los productos a los cuales se les realizó ajuste.  
 
+
+![](imovv.png)
 
 
 Validada la información procesamos los documentos dando clic en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas, esto permitirá que el inventario sea ajustado correctamente.  

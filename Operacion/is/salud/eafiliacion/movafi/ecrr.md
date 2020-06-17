@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/eafiliacion/movafi/ecrr
 editable: si
 ---
 
-# ECRR - Resumen Correciones 2.6
+# Resumen Correciones 2.6 - ECRR
 
 La aplicación **[ECRR]** **Resumen Correciones 2.6** muestra el resumen de correcciones del proceso 2.6  .
 

@@ -14,7 +14,7 @@ En esta sección podrán encontrar las aplicaciones de parametrización del mód
 * [**Tipo de Educación - RBED**](http://docs.oasiscom.com/Operacion/hrm/rhumanosrnbasica/rbed)  
 * [**Tipo de Evaluación - RBEV**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbev)  
 * [**Tipo de Experiencia - RBEX**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbex)  
-* [**Tipos de Perfil - RBPE**](http://docs.oasiscom.com/Operacion/hrm/rhumanosrnbasica/rbpe)  
+* [**Tipos de Perfil - RBPE**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbpe)  
 * [**Tipos de Anotación - RBTA**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbta)  
 * [**Escalas - RBES**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbes)  
 * [**Tipo de Dotación - RBTD**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbtd)  

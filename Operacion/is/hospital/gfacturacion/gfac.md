@@ -7,7 +7,14 @@ editable: si
 
 # Facturas - GFAC
 
-### Verificación parametrización Tipo de Precio
+
+* [Verificación parametrización Tipo de Precio](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#verificación-parametrización-tipo-de-precio)
+* [Consultas dinámicas](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#consultas-dinámicas)
+* [Detalle](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#detalle)
+
+
+
+## [Verificación parametrización Tipo de Precio](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#verificación-parametrización-tipo-de-precio)
 
 Realizada la parametrización de tipo de precio en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi), podemos validar en la aplicación **GFAC**, que al agregar un nuevo registro e ingresar en el campo _Ubicación_, la ubicación  en la cual se realizó la parametrización, este trae automáticamente en el campo _Tipo de Precio_ el definido en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi).  
 
@@ -35,10 +42,10 @@ Realización de una consulta dinámica en la aplicación _GFAC - Facturas_.
 
 ![](gfac2.png)
 
-### Detalle - GFAC
+## [Detalle](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#detalle) 
 
 * Existe una funcionabilidad en el detalle del **GFAC** con el boton: 'saldos de inventarios en linea'. 
-Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:  
+Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar clic al boton:  
 * Escenario uno: este emitira su saldo al final del renglon, siempre y cuando el saldo en linea sea inferior al que intenta facturar.  
 
 
