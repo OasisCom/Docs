@@ -382,3 +382,7 @@ Las facturas se pueden relacionar con las Órdenes de compra.  Si usted quiere c
 
 [**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
 
+## [Aprobacion de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobacion-de-gerencia-en-aplicaciones-ofac-pmov)  
+
+
+
