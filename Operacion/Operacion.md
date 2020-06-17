@@ -1509,6 +1509,8 @@ Para levantar el reporte rdlc , deshabilitamos el check.
 
 ![](scam4.png)  
 
+![](acon2.png)  
+
 
 
 
