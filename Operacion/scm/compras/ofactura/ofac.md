@@ -384,5 +384,25 @@ Las facturas se pueden relacionar con las Órdenes de compra.  Si usted quiere c
 
 ## [Aprobacion de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobacion-de-gerencia-en-aplicaciones-ofac-pmov)  
 
+Adecuación en compras [OFAC] y cuentas por pagar [PMOV] para que lleven una aprobación de jefe encargado antes de ser procesadas. Previa parametrización en procesos [SPRC], documentos [BDOC], motivos [BMOT]. Se configuro un botón en el maestro del PMOV, OFAC según sea el caso, el cual se encarga de actualizar el Status de Movimiento para proceder con su confirmación.  
+Parametrizacion:  
+
+1.Se debe configurar un proceso **[SPRC]**, que contenga en la columna código del maestro el código **APR**, y adicional automático el primer status que puede asumir el movimiento.  
+
+![](sprc1.png)  
+
+2.Se debe asociar este nuevo proceso al documento pertinente.  Adicional se deben configurar los status para este documento que permitirán identificar la aprobación previa **[BDOC]**  
+
+![](bdoc1.png)  
+
+3.Para controlar y evitar confirmar documentos sin aprobación se debe incluir esta validación en **[BMOT]**.  El error (7945) asociado ya se encuentra creado en Azure y en la BD sql desarrollo.  
+
+![](bmot.png)  
+
+4.Para aprobar los documentos se configuro un botón en el maestro del **PMOV - OFAC** según sea el caso el cual se encarga de actualizar el **Status** de Movimiento para proceder con su confirmación.   El botón y la edición del campo status se puede restringir su acceso o modificación desde configuración del **SROL**.  
+
+![](pmov29.png)  
+
+![](ofac1.png)  
 
 
