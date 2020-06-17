@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/ecntpre/movpre/epaq
 editable: si
 ---
 
-# EPAQ - Reclutamiento de Escenarios
+# Reclutamiento de Escenarios - EPAQ
 
 >+ [Detalle de la aplicación EPAQ - Escenarios](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/epaq#detalle-de-la-aplicación-epaq---escenarios)
 
