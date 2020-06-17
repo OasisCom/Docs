@@ -403,6 +403,6 @@ Parametrizacion:
 
 ![](pmov1.png)  
 
-![](ofac1.png)  
+![](ofac39.png)  
 
 
