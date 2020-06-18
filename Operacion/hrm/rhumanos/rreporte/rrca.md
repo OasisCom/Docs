@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/rrca
 editable: si
 ---
 
-# CAPACITACION DE EMPLEADOS  
+# Capacitación de empleados - RRCA  
