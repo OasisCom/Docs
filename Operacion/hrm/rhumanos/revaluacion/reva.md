@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/revaluacion/reva
 editable: si
 ---
 
-# EVALUACION - REVA
+# Evaluación - REVA
 
 
 En la aplicación **REVA – Evaluación** evaluaremos las competencias por cada empleado. Iniciaremos ingresando a la aplicación y adicionando un nuevo registro.  
