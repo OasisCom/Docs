@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rsalud/rsal
 editable: si
 ---
 
-# SALUD OCUPACIONAL 
+# Salud ocupacional - RSAL  
