@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/rcer
 editable: si
 ---
 
-# CERTIFICADO    
+# Certificado - RCER    
