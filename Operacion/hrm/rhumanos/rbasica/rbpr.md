@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbpr
 editable: si
 ---
 
-# PROFESIONES - RBPR  
+# Profesiones - RBPR  
 
 En esta aplicación se pueden definir la variedad de profesiones que presentan los empleadosy/o aspirantes de la compañía. 
 
