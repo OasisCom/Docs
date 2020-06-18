@@ -14,4 +14,4 @@ Este registro se realiza especificando los datos básicos del evento como lo es 
 Posteriormente, en el detalle del evento se relacionan los asistentes o inscritos al mismo, por lo tanto se debe indicar en el campo Asistencia ()si fue efectiva o ( ) no. Para los casos en que la actividad sea financiada en conjunto empresa-empleados, se indica el valor aportado por cada empleado y en el campo  _Valor_ y las observaciones a que haya lugar.  
 
 
-![](reve.png)
+![](reve1.png)
