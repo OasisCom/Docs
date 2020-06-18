@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rcapacitacion/rcap
 editable: si
 ---
 
-# CAPACITACION - RCAP
+# Capacitación - RCAP
 
 
 En la aplicación **RCAP**, realizaremos el registro de las capacitaciones de la organización. Iniciaremos ingresando a la aplicación **RCAP – Capacitación** y adicionaremos un nuevo registro.
