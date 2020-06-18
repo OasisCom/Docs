@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rexpediente/rexp
 editable: si
 ---
 
-# EXPEDIENTE - REXP
+# Expediente - REXP
 
 
 Para iniciar el proceso de _Expediente_, no es necesario crear un nuevo registro en el maestro de la aplicación, debido a que el tercero al cual se le creará el expediente ya se encuentra marcado como _empleado_ en la parametrización realizada anteriormente en la aplicación **BTER – Terceros**. 
