@@ -7,6 +7,9 @@ editable: si
 
 # Contratos
 
+Documento obligatorio para todas las instituciones de salud, ya sean públicas, privadas u otras. Mejorar y garantizar la calidad de la organización de salud. 
+
+
 Está integrado por las aplicaciones:
 
 * [**GCNT**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcnt) - Contratos  
