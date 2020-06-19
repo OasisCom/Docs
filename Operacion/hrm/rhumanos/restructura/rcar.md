@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/restructura/rcar
 editable: si
 ---
 
-# CARGOS - RCAR
+# Cargos - RCAR
 
 La aplicación RCAR – Cargos, permite crear los cargos a los cuales se les va a realizar el proceso de selección en la empresa.  
  

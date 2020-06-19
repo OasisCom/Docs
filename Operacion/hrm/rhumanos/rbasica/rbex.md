@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbex
 editable: si
 ---
 
-# TIPO DE EXPERIENCIA - RBEX  
+# Tipo de experiencia - RBEX  
 
 Clasificación de las áreas o campos laborales en que se han desempeñado los empleados. 
 

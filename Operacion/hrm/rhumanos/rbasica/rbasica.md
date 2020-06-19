@@ -11,7 +11,7 @@ En esta sección podrán encontrar las aplicaciones de parametrización del mód
 
 * [**Competencias - RCOM**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rcom)  
 * [**Tipo de Curso - RBCU**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbcu)  
-* [**Tipo de Educación - RBED**](http://docs.oasiscom.com/Operacion/hrm/rhumanosrnbasica/rbed)  
+* [**Tipo de Educación - RBED**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbed)  
 * [**Tipo de Evaluación - RBEV**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbev)  
 * [**Tipo de Experiencia - RBEX**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbex)  
 * [**Tipos de Perfil - RBPE**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rbasica/rbpe)  

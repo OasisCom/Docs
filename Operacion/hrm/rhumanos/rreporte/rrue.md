@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/rrue
 editable: si
 ---
 
-# EMPLEADOS POR UBICACIÓN  
+# Empleados por ubicación - RRUE  

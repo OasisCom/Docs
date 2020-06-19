@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbed
 editable: si
 ---
 
-# TIPO DE EDUCACIÓN - RBED  
+# Tipo de educación - RBED  
 
 Se definen los niveles de educación que puede tener un empleado. Ejemplo: Bachillerato, formación universitaria, diplomado, etc.  
 
