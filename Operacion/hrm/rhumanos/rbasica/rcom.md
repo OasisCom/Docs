@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rcom
 editable: si
 ---
 
-# COMPETENCIAS - RCOM  
+# Competencias - RCOM  
 
 En esta aplicación, se definen todas y cada una de las competencias evaluadas para el alcance de los objetivos individuales y de la organización.  
 

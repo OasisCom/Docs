@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/nred
 editable: si
 ---
 
-# LISTA DETALLADA DE EMPLEADOS  
+# Lista detallada de empleados - NRED  

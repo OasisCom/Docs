@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/nrre
 editable: si
 ---
 
-# RETIRO DE EMPLEADOS POR PERIODO  
+# Retiro de empleados por periodo - NRRE  

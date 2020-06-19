@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/rred
 editable: si
 ---
 
-# EVALUACIONES DETALLADAS  
+# Evaluaciones detalladas - RRED  

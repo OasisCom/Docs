@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbtr
 editable: si
 ---
 
-# TIPO DE RIESGO - RBTR  
+# Tipo de riesgo - RBTR  
 
 Es el registro de todos los riesgos a los que están expuestos los empleados de las diferentes áreas.  
 

@@ -11,11 +11,15 @@ En la aplicación IRIF se podrá descargar la planilla para conteo físico que s
 
 Para consultar la planilla de conteo, filtraremos por la ubicación en donde se encuentran los productos y la fecha en la cual se realiza el inventario. Dicha ubicación y fecha deberán ser las mismas con las que se generó el inventario en la aplicación [**IFPI - Prepara Inventario Diario**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifpi).  
 
+
 ![](irif1.png)
+
 
 Al consultar dando clic en el botón _Generar_ ![](actualizar.png), el sistema arrojará la planilla, la cual cuenta con tres campos (Cont 1, Cont 2, Cont 3) en los cuales los usuarios reponsables de realizar el inventario ingresarán las cantidades contadas por producto. La planilla podrá ser descargada en formato de Excel, PDF o Word).  
 
+
 ![](irif2.png)
+
 
 Esta planilla facilitará el ingreso de información en la aplicación [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis) en la cual se debe registrar el conteo de los productos.  
 

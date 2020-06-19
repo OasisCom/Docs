@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbtf
 editable: si
 ---
 
-# TIPO DE FAMILIAR - RBTF  
+# Tipo de familiar - RBTF  
 
 Es la definición de los tipos de parentesco familiar. 
 

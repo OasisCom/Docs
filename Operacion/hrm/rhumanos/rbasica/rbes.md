@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbes
 editable: si
 ---
 
-# ESCALAS - RBES  
+# Escalas - RBES  
 
 Definición de las diferentes escalas salariales que tenga la compañía.  
 

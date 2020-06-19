@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbpe
 editable: si
 ---
 
-# TIPOS DE PERFIL - RBPE  
+# Tipos de perfil - RBPE  
 
 Se definen las características generales de los perfiles para los diferentes cargos.
 

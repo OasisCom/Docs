@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbcu
 editable: si
 ---
 
-# TIPO DE CURSO - RBCU  
+# Tipo de curso - RBCU  
 
 Corresponde a la relación de todos los cursos que imparte la empresa a sus empleados.   
 

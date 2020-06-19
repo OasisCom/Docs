@@ -17,7 +17,7 @@ En esta aplicación, además de ver su operación básica, podemos ver una expli
 * [Contabilización de Fletes](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#contabilización-de-fletes)
 * [Control por Proveedor](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#control-por-proveedor)  
 * [Relación con la Orden de Compra](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#relación-con-la-orden-de-compra) 
-* [Aprobación de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobacion-de-gerencia-en-aplicaciones-ofac-pmov)  
+* [Aprobación de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobación-de-gerencia-en-aplicaciones-ofac-pmov)  
 
 
 
@@ -379,9 +379,9 @@ Las facturas se pueden relacionar con las Órdenes de compra.  Si usted quiere c
 
 
 
-[**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
+[**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)  
 
-## [Aprobación de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobacion-de-gerencia-en-aplicaciones-ofac-pmov)  
+## [Aprobación de Gerencia en aplicaciones OFAC, PMOV](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#aprobación-de-gerencia-en-aplicaciones-ofac-pmov)  
 
 Adecuación en compras [OFAC] y cuentas por pagar [PMOV] para que lleven una aprobación de jefe encargado antes de ser procesadas. Previa parametrización en procesos [SPRC], documentos [BDOC], motivos [BMOT]. Se configuro un botón en el maestro del PMOV, OFAC según sea el caso, el cual se encarga de actualizar el Status de Movimiento para proceder con su confirmación.  
 Parametrizacion:  

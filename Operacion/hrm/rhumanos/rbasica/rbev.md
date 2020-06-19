@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rbasica/rbev
 editable: si
 ---
 
-# TIPO DE EVALUACIÓN - RBEV  
+# Tipo de evaluación - RBEV  
 
 Definición de las diferentes evaluaciones que considere realizar la compañía a sus empleados.  
 
