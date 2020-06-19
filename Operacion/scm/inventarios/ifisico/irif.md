@@ -18,7 +18,7 @@ Para consultar la planilla de conteo, filtraremos por la ubicación en donde se 
 Al consultar dando clic en el botón _Generar_ ![](actualizar.png), el sistema arrojará la planilla, la cual cuenta con tres campos (Cont 1, Cont 2, Cont 3) en los cuales los usuarios reponsables de realizar el inventario ingresarán las cantidades contadas por producto. La planilla podrá ser descargada en formato de Excel, PDF o Word).  
 
 
-![](irif2.png)
+
 
 
 Esta planilla facilitará el ingreso de información en la aplicación [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis) en la cual se debe registrar el conteo de los productos.  
