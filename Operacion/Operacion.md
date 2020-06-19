@@ -1468,8 +1468,8 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 ## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
-validamos la parametrizacion, para estos casosos practicos, realizamos  y verificamos la parametrizacion de BBAN para las tipo A.  
-Ingresamos al programa  SCAM.  
+Validamos la parametrizacion, para estos casos practicos, realizamos  y verificamos la parametrizacion de **BBAN** para las tipo A.  
+Ingresamos al programa  **SCAM**.  
 
 ![](scam.png)  
 
@@ -1477,21 +1477,21 @@ A continuacion en verde se muestran las llaves que siempre deben de tener este v
 
 ![](scam1.png)  
 
-Ingresamos al BBAN para verificar la previa,  
+Ingresamos al **BBAN** para verificar la previa,  
 
 ![](bban1.png)  
 
-El sistema debe de respetar las vistas previas parametrizadas en  SPRO,  si en el SCAM no tiene vistas previas parametrizadas, el va y busca en el SPRO, primero SCAM luego SPRO.   
+El sistema debe de respetar las vistas previas parametrizadas en  SPRO,  si en el **SCAM** no tiene vistas previas parametrizadas, el va y busca en el **SPRO**, primero **SCAM** luego **SPRO**.   
 
 ![](spro1.png)  
 
-Para levantar este formato, dejamos Inhabilitado la parametrizacion del SCAM.  
+Para levantar este formato, dejamos Inhabilitado la parametrizacion del **SCAM**.  
 
 ![](bban2.png)  
 
 * **Para el ejemplo de las ventanas tipo B, tenemos la siguiente parametrizacion:**  
 
-Ingresamos al ACON.  
+Ingresamos al **ACON**.  
 Esto para ver la parametrizacion que es necesaria.  
 
 ![](scam2.png)  
@@ -1501,7 +1501,7 @@ y el query que requiere los tipo template:
 
 ![](spro2.png)  
 
-validamos la vistra previa del ACON.  
+validamos la vistra previa del **ACON**.  
 
 ![](acon.png)  
 
