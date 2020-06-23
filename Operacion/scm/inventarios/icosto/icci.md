@@ -26,7 +26,12 @@ Luego de haber realizado los pasos anteriores diligenciamos el periodo, el año 
 
 
 Para validar el promedio, ingresamos a la aplicación [ICKU - Kardex por Ubicación](http://docs.oasiscom.com/Operacion/scm/inventarios/icosto/icku).
+Normalmente las diferencias se ven en el detalle.
+
+![](icci2.png)  
 
 
-![](icci2.png)
+Es bueno verificar el movimiento también en el [Balance de Prueba - KRPR](http://docs.oasiscom.com/Operacion/erp/contabilidad/kreporte/krpr).  
+
+Cabe resaltar, que si se tienen muchos movimientos, es mejor realizar este proceso en las noches, para no afectar la labor de los demás usuarios.  
 
