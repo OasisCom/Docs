@@ -11,7 +11,7 @@ El proceso **IFCD** calcula las diferencias entre el conteo físico realizado po
 
 Se ingresarán los datos de fecha y ubicación.  
 
-
+![](ifcd1.png)
 
 
 **Fecha:** ingresar la fecha en la que se realizó el inventario físico.  
@@ -20,7 +20,7 @@ Se ingresarán los datos de fecha y ubicación.
 
 Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png) y el sistema arrojará un mensaje de control informando que el proceso fue ejecutado satisfactoriamente.  
 
-
+![](ifcd2.png)
 
 Generado el proceso anterior, ingresaremos a la aplicación  [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis#validación-de-diferencias-en-inventario) en donde se validarán las diferencias de inventario encontradas por el sistema OasisCom, estas se podrán ver en el campo _Diferencia_.  
 
