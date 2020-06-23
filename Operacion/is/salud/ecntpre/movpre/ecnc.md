@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/ecntpre/movpre/ecnc
 editable: si
 ---
 
-# ECNC - Contratos prestación de servicios
+# Contratos prestación de servicios - ECNC
 
 >+ [Detalle de la aplicación ECNC – Contratos Prestación de Servicios](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecnc#detalle-de-la-aplicación-ecnc---contratos-prestación-de-servicios)
 

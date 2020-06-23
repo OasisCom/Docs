@@ -7,7 +7,10 @@ editable: si
 
 # Contratos
 
-Está integrado por los módulos:
+Documento obligatorio para todas las instituciones de salud, ya sean públicas, privadas u otras. Mejorar y garantizar la calidad de la organización de salud. 
+
+
+Está integrado por las aplicaciones:
 
 * [**GCNT**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcnt) - Contratos  
 * [**GCAC**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcac) - Ajustes a Contratos  

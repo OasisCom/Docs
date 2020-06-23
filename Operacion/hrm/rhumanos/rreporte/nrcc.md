@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/rhumanos/rreporte/nrcc
 editable: si
 ---
 
-# CAMBIO DE POSICIÓN POR PERIODO  
+# Cambio de posición por periodo - NRCC  

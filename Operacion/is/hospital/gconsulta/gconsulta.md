@@ -9,11 +9,11 @@ editable: si
 
 
 
-# Servicio
+# Servicios
 
 
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 
 

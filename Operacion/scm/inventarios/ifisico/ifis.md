@@ -24,11 +24,11 @@ Generado anteriormente el proceso de la aplicación [**IFPI - Prepara Inventario
 
 ![](ifis2.png)
 
-En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Estos datos corresponden a la información que se ingresó en la planilla descargada desde la aplicación [**IRIF - Plantilla Para Conteo Físico**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/irif).  
+En el campo _Cantidad 1_ se ingresará por cada artículo el número de productos encontrados en el inventario realizado. Si el inventario lo va a realizar más de una persona, los usuarios ingresarán las cantidades en los campos _Cantidad 2_ y _Cantidad 3_. Estos datos corresponden a la información que se ingresó en la planilla descargada desde la aplicación [**IRIF - Plantilla Para Conteo Físico**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/irif). Aquí también podemos ver el campo _Real_ que es la cantidad real que se tiene dentro del sistema.  No es necesario realizar el conteo de todas las referencias, se puede contar solamente una parte.  Si en las cantidades aparece un -1.00, significa que no fue contado y por lo tanto, no genera diferencias. 
 
 Al ingresar un número en el campo _Cantidad 1_, es necesario dar clic en el botón _Guardar_ de la barra de herramientas u oprimir la tecla _Enter_ para que el registro sea guardado.  
 
-Ingresadas las cantidades de cada artículo, nos dirigiremos a la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), la cual nos ayudará a calcular las diferencias de existencias encontradas por el sistema en su base de datos con las ingresadas por el usuario.  
+Ingresadas las cantidades de cada artículo (este es el paso más largo ya que se debe realizar el conteo físico, nos dirigiremos a la aplicación [**IFCD - Calcula Diferencias**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifcd), la cual nos ayudará a calcular las diferencias de existencias encontradas por el sistema en su base de datos con las ingresadas por el usuario.  
 
 
 ## [Inventario Cíclico](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis#inventario-cíclico)

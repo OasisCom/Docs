@@ -81,8 +81,13 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Unidad medida:** Unidad de medida del producto.  
 **Bodega:** Código de la bodega que hizo el despacho de los productos incluidos en la factura.  
 
-![](ffac5.png)
+![](ffac5.png)  
 
+Se adecua la funcionalidad de facturación en bloque, esto se verá reflejado al asociar los TI X DS en el detalle del FFAC por medio del zoom de bodega “Facturación x Bloque”.  
+
+![](detalle1.png)  
+zoom.
+![](zoom1.png)  
 
 **Localización:** Código de la localización (sección de la bodega) donde estaban ubicados los productos.  
 **Característica:** Código de la característica que se puede atribuir al producto si aplica.  

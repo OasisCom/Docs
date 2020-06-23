@@ -17,6 +17,7 @@ En esta sección podrán encontrar las aplicaciones de parametrización del mód
 * [**Acumulados - NBAC**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbac)  
 * [**Retención en la fuente - NBRT**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbrt)  
 * [**Motivos de liquidación - NBMO**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbmo)  
+* [**Turnos - NBTU**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtu)
 * [**Empleados - NBEM**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem)  
 * [**Contratos de nómina - NCNT**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt)
 

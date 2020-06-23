@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rseleccion/rsel
 editable: si
 ---
 
-# SELECCION - RSEL
+# Selección - RSEL
 
 
 Para poder continuar con el proceso de selección, previamente se deben encontrar registrados en la aplicación **BTER – Terceros**, los aspirantes que se postularon al cargo registrado anteriormente en la aplicación **RCAR – Cargos**. 

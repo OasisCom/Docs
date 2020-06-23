@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/rcapacitacion/rcur
 editable: si
 ---
 
-# CURSOS - RCUR
+# Cursos - RCUR
 
 
 La aplicación **RCUR – Cursos**, permite registrar los cursos planeados para el mes. Para iniciar, ingresamos a la aplicación **RCUR** y parametrizamos los cursos previstos.
