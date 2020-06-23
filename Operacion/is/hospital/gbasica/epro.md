@@ -4,7 +4,7 @@ layout: default
 
 title: Productos
 
-permalink: /Operacion/is/salud/gbasica/epro
+permalink: /Operacion/is/salud/ebasica/epro
 
 editable: si
 
