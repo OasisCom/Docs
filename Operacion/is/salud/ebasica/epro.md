@@ -26,7 +26,7 @@ Esta opción es usada para administrar los productos (medicamentos) y servicios 
 
 
 
-![](EPRO1.png)
+![](epro1.png)
 
 
 
@@ -40,7 +40,7 @@ Esta opción es usada para administrar los productos (medicamentos) y servicios 
 
 
 
-Cabe aclarar que esta opción también permite la _edición_ y _eliminación_ de registros. Esta última función solamente podrá ser efectuada únicamente si el producto a eliminar no se encuentra referenciado en ningún proceso de otra opción, es decir, que no esté siendo utilizado.  
+Cabe aclarar que esta opción también permite la _edición_ y _eliminación_ de registros. Esta última función solamente podrá ser efectuada si el producto a eliminar no se encuentra referenciado en ningún proceso de otra opción, es decir, que no esté siendo utilizado.  
 
 
 
@@ -48,9 +48,9 @@ Cabe aclarar que esta opción también permite la _edición_ y _eliminación_ de
 
 
 
-* En la parte inferior existen pestañas como:**Tarifas**, **sustitutos**, **componentes**, **clasificacion**,  **Diagnostico**.  
+* En la parte inferior existen pestañas como:**Tarifas**, **sustitutos**, **componentes**, **clasificacion**,  **Diagnóstico**.  
 
-* Para la pestaña de **Registros** su funcionalidad esta basada para diferenciar los niveles que maneja el Invima. Dónde un medicamento puede tener dos niveles o tres segun sea el caso.  
+* Para la pestaña de **Registros**, su funcionalidad es diferenciar los niveles que maneja el Invima, donde un medicamento puede tener dos niveles o tres según sea el caso.  
 
 
 
