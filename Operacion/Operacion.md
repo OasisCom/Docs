@@ -1472,8 +1472,11 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 ![](bint5.png)  
 
-![](b.png)  
+![](bint6.png)  
 
+![](bint7.png)  
+
+Al ejecutar aceptar y ejecutar, se dará como resultado el archivo con los datos en el formato seleccionado. y con esto se concluye el funcionamiento del exportador dinámico.  
 
 ## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
