@@ -2736,8 +2736,11 @@ Se agrega Botón al editar un registro en la opcion **VPED**.
 
 ![](vped2.png)  
 Al dar clic abre la nueva página de adjuntos con los archivos previamente cargados en sobre el registro se da clic en el botón abrir archivo el cual abre el explorador de archivos del celular y permite elegir el archivo deseado con un peso máximo de 2 MG.  
+
 ![](vped3.png)  
+
 Abre los adjuntos a cargar.  
+
 ![](vped4.png)  
 
 carga correcta.  
