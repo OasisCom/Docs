@@ -667,13 +667,15 @@
               url: /Operacion/scm/facturacion/fbasica/
               subitems:
               - text: Tipos de Precio
-                url: /Operacion/scm/facturacion/fbasica/fctp
+                url: /Operacion/scm/facturacion/fbasica/fbtp
               - text: Tipos de Descuento
                 url: /Operacion/scm/facturacion/fbasica/fbtd
               - text: Tipos de Comision
                 url: /Operacion/scm/facturacion/fbasica/fbpc
               - text: Resoluciones
                 url: /Operacion/scm/facturacion/fbasica/fres
+              - text: Log Bint
+                url: /Operacion/scm/facturacion/fbasica/fpfe                               
             - text: Precios
               url: /Operacion/scm/facturacion/fprecio/
               subitems:
@@ -2019,6 +2021,10 @@
               subitems:
                 - text: Contratos
                   url: /Operacion/is/hospital/gcontrato/gcnt
+                - text: Ajustes a Contratos
+                  url: /Operacion/is/hospital/gcontrato/gcac
+                - text: Renueva Contrato
+                  url: /Operacion/is/hospital/gcontrato/gcrc                  
             - text: Historia Clinica
               url: /Operacion/is/hospital/ghistoria/
               subitems:
@@ -2044,6 +2050,8 @@
                   url: /Operacion/is/hospital/gconsulta/gima
                 - text: Cirugias
                   url: /Operacion/is/hospital/gconsulta/gcir
+                - text: Actividades
+                  url: /Operacion/is/hospital/gconsulta/gact                  
             - text: Hospitalizacion
               url: /Operacion/is/hospital/ghospital/
               subitems:
