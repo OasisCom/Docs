@@ -1466,6 +1466,15 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 ![](bint3.png)  
 
+**NOTA:**Se agrega funcionalidad de filtros a exportador dinámico, basado en parametrización de argument en BARC, sustitución de variables y creación de filtros. definición de origen de datos con funciones o querys.  
+
+![](bint4.png)  
+
+![](bint5.png)  
+
+![](b.png)  
+
+
 ## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
 Validamos la parametrizacion, para estos casos practicos, realizamos  y verificamos la parametrizacion de **BBAN** para las tipo A.  
