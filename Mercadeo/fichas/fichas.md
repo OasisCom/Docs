@@ -42,4 +42,5 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >#### [OasisCom HRM](http://docs.oasiscom.com/Mercadeo/fichas/HRM-Ficha.pdf)
 >#### [OasisCom CRM](http://docs.oasiscom.com/Mercadeo/fichas/CRM-ficha.pdf)
 >#### [OasisCom Salud](http://docs.oasiscom.com/Mercadeo/fichas/físicos insertos de salud_impreso.pdf)
+>#### [OasisCom Salud IPS ](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Software-IPS.pdf)
 
