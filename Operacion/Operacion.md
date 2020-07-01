@@ -1478,6 +1478,14 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 Al ejecutar aceptar y ejecutar, se dará como resultado el archivo con los datos en el formato seleccionado. y con esto se concluye el funcionamiento del exportador dinámico.  
 
+* Desde esta interface podemos extraer información de Cartera financiera.  
+Se crea nueva interface BINT 23, para el proceso de cartera financiera, tomando la información del CCRE, donde podrá ver reflejado la información de los clientes para las cuentas 1615% a corte de mes.  
+
+![](bint8.png)  
+
+Formato aseguradora, para el proceso de cartera financiera.  
+
+
 ## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
 Validamos la parametrizacion, para estos casos practicos, realizamos  y verificamos la parametrizacion de **BBAN** para las tipo A.  
