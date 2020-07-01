@@ -5,7 +5,9 @@ permalink: /Operacion/erp/tesoreria/tconciliac/tcon
 editable: si
 ---
 
-# Conciliación - TCON  
+# Conciliación - TCON 
+
+Esta aplicación nos ayuda a realizar las conciliaciones bancarias.  Para ello, se deben seguir los siguientes pasos:  
 
 Se adiciona un nuevo registro.  En el campo _Documento_ el sistema trae las letras **_KT_** de conciliación bancaria, no le indicamos el _Número_ ya que el sistema lo da automáticamente, en el campo _Ubicación_ se busca por zoom la ubicación del banco al que le vamos a realizar el proceso, en los campos _Fecha original_ y _Fecha_ se escribe el rango de fechas del extracto bancario de donde se va a hacer la conciliación, en el campo _Concepto_ también el sistema arroja el concepto **_KT_** de conciliación bancaria.  No se llena ningún otro campo.  Se procede a guardar el registro.    
 
