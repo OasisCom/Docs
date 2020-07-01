@@ -7,7 +7,7 @@ editable: si
 
 # Cumplimiento de Presupuesto Anual Montos - ORCP
 
-Extrae la información por un lapso de tiempo dado, ejemplo marzo-mayo, marzo-agosto, etc, en el cual visualiza, el avance en el cumplimiento de los contratos de compra con los proveedores anualizado.
+Extrae la información por un lapso de tiempo (PERIODO), en el cual visualiza, el avance en el cumplimiento de los contratos de compra con los proveedores anualizado.
 
 ![](orcp1.png)  
 
