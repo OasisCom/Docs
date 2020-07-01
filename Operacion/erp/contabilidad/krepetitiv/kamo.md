@@ -67,13 +67,13 @@ Para realizar este proceso, se debe ingresar primero a la aplicación [**Cuentas
 
 
 
- ![](kamo1.png)
+ ![](KAMO1.png)
 
 
 
 
 
-![](kamo2.png)  
+![](KAMO2.png)  
 
 
 
