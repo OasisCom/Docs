@@ -28,7 +28,8 @@ Se define como incorporación de tecnologías de la información y las comunicac
 **Direccion:** Campo adicionado con la finalidad de seleccionar el destino de pago.  
 **Total:** Valor total de la transacción.  
 **EdiMark:** Permite seleccionar los documentos a los cuales se desea realizar la transacción.  
-**Edi:** Muestra los documentos que ya se realizó la transacción.  
+**Edi:** Muestra los documentos que ya se realizó la transacción. 
+
 
 ##  [**Proceso de Gerencia electrónica**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge#proceso-de-gerencia-electrónica)  
 
