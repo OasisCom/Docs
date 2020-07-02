@@ -68,7 +68,6 @@ En el detalle del documento **CM** se relacionan los conceptos que han sido desi
 
 Se adiciona un nuevo registro (+) en el maestro.  En el campo _Documento_ se ingresa la opción **_CM_** de Caja menor, en el campo _Ubicación_ **_1_**, en el campo _Fecha_, el día que se le da apertura a la caja menor, en el campo _Concepto_ **_CM_** de caja menor, en el campo _Tercero_, a través del zoom, se busca a la persona responsable de la caja menor, en el campo _Observación_ colocamos el nombre de la caja menor o el destino para el cual va a ser utilizada y finalmente se da click en _Guardar_.  
 
-
 ![](TMEN4.png)  
 
 ![](TMEN5.png) 
