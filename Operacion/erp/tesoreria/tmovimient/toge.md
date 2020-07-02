@@ -7,7 +7,7 @@ editable: si
 
 # Ordena Gerencia Electrónica - TOGE  
 
-* [**Proceso de Gerencia electrónica**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge#proceso-de-gerencia-electrónica)
+>+ [Proceso de Gerencia Electrónica](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge#proceso-de-gerencia-electrónica)
 
 Permite definir los documentos que se utilizarán en el momento de generar la gerencia electrónica.  
 Se define como incorporación de tecnologías de la información y las comunicaciones en la administración pública y privada. Esto tiene dos vertientes: desde un punto de vista intraorganizativo transformar las oficinas tradicionales, convirtiendo los procesos en papel, en procesos electrónicos.
@@ -31,7 +31,7 @@ Se define como incorporación de tecnologías de la información y las comunicac
 **Edi:** Muestra los documentos que ya se realizó la transacción. 
 
 
-##  [**Proceso de Gerencia electrónica**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge#proceso-de-gerencia-electrónica)  
+## [Proceso de Gerencia Electrónica](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/toge#proceso-de-gerencia-electrónica)  
 
 El fin de este proceso es que OASISCOM permita generar el archivo plano de los diferentes pagos que se realizan a terceros y que este archivo plano sirva para subirlo directamente a la plataforma del banco para realizar los pagos pertinentes.  
 
