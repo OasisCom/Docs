@@ -240,7 +240,7 @@ El sistema calculara automáticamente el valor; lanzando un mensaje resaltado en
 
 
 
-* Existe una funcionabilidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'.  
+* Existe una funcionalidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'.  
 
 Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:   
 
