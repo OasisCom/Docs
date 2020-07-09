@@ -222,11 +222,11 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 
 
-En ella se almacena la forma de pago **[BFOR]** que se parametrizo, al tercero tipo cliente en el **[BTER]**.  
+En ella se almacena la forma de pago, la cual se parametriza en la aplicación **[BFOR]** , al tercero tipo cliente en el **[BTER]**.  
 
 Para el escenario donde la forma de pago es mayor al precio de la factura existe el campo llamado **cambio**.  
 
-El sistema calculara automáticamente el valor; lanzando un mensaje resaltado en azul, como se ilustra.  
+El sistema calculará automáticamente el valor; lanzando un mensaje resaltado en azul, como se ilustra.  
 
 
 
