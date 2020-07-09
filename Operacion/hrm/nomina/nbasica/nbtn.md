@@ -9,7 +9,7 @@ editable: si
 
 
 
-* [**Parametrización de los tipos de nómina**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtn#parametrización-de-los-tipos-de-nómina)  
+*   
 
 
 En esta opción es posible incluir los tipos de nómina necesarios en el proceso.
