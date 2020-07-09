@@ -8,7 +8,8 @@ editable: si
 # TIPOS DE NÓMINA - NBTN  
 
 
->+ [Parametrización de los tipos de nómina](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtn#parametrización-de-los-tipos-de-nómina)
+
+* [**Parametrización de los tipos de nómina**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtn#parametrización-de-los-tipos-de-nómina)  
 
 
 En esta opción es posible incluir los tipos de nómina necesarios en el proceso.
@@ -31,7 +32,7 @@ Cada tipo de nómina lleva asociados algunos de los conceptos creados en la opci
 
 
 
-## [Parametrización de los tipos de nómina](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtn#parametrización-de-los-tipos-de-nómina)  
+## [**Parametrización de los tipos de nómina**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtn#parametrización-de-los-tipos-de-nómina)    
 
 En esta aplicación se parametrizan todos los tipos de nómina.  En el campo _Tipo de nómina_ se diligencian todos los tipos de nómina. Hay que resaltar que el código no se debe repetir porque el sistema arrojará de inmediato una alerta de error.  El siguiente campo es _Nombre del tipo de nómina_, en este se diligencia el nombre del tipo de nómina que se está parametrizando; luego, sigue el campo _Vinculación_, en este campo se diligencia la inicial predeterminada para cada tipo de nómina; en el campo _Periodo_, se diligencia la inicial que identifica el periodo de la liquidación de la nómina, que sería **_Q_** de quincenal o **_M_** de mensual o **_E_** si es un tipo de nómina especial; el campo _Aporte_, se diligencia teniendo en cuenta si aplica o no al tipo de nómina en su liquidación; el campo _Provisión_, de igual manera se diligencia si aplica o no al tipo de nómina y el campo _Pago_, también varía dependiendo del tipo de nómina.  
 
