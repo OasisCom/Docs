@@ -235,7 +235,7 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 #### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
 
-Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](http://docs.oasiscom.com/Operacion/system/sacceso/asop). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).  
+Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**Soporte - ASOP**](http://docs.oasiscom.com/Operacion/system/sacceso/asop). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).  
 
 ![](SOPORTE.png)
 
