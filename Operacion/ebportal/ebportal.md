@@ -378,17 +378,17 @@ A continuación, se describen la funcionalidad del campo Ebill:
 •	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  Es decir, aplica para algunas empresas que facturan un tope bastante alto, así que la DIAN les da un permiso especial para que puedan facturar en producción de manera asíncrona, es decir, mandar en batch esas facturas.
 •	**Ebill ver. 2 Azure:** Es exclusivo para los clientes que tienen OASISCOM como su ERP y tienen una instalación propia, se parametriza la validación Azure para que la información viaje primero hacia la nube de OASIS para hacer el proceso de envío al adquiriente y DIAN, tanto en habilitación como en producción.  
 
-En el detalle se debe parametrizar el campo código externo   
+En el detalle, hay una pestaña que se llama _Conceptos_.  En esta, aparecen cada uno de los conceptos, tanto de las facturas como de las notas. Es importante tener en cuenta la parametrización del _Código externo_ y _Código externo 1_.  Los dos deben estar parametrizados en los conceptos que usa la empresa.  Para el código externo, las posibilidades que hay, son: _Factura de venta_, _Factura de exportación_, _Factura por contingencia facturador_, _Factura por contingencia DIAN_, _Nota crédito_ o _Nota débito_, entonces aquí se parametrizan los conceptos que tiene la DIAN con respecto a las facturas, a las notas.     
 
 ![](ebportal62.png)  
 
-Adicional a esto también se debe parametrizar el campo código externo1.  
+En cuanto al campo código externo1, se define o se entra a detallar con respecto al campo anterior, a qué se refiere exactamente; es decir, las tres primeras opciones (Aiu, Estándar, Mandatos) son para facturas de venta o cualquier otro tipo de facturas.  Si en el campo anterior elegí _Nota crédito_, en este campo debo elegir si es para facturas de Fase I, si es una nota crédito de antes de ser facturador electrónico o una factura de Fase 2 que ya está reportada en la DIAN.  Es importante resaltar que si es un documento sin referencia, el _Concepto_ es **DS**, **D1** para documentos de Fase 1 y **DV** para facturas de Fase II.  De la misma forma, sucede para las notas crédito: **NS** sin referencia, **N1** para Fase I y **NF** para Fase II.  También cabe aclarar que una nota, ya sea débito o crédito, siempre va asociada a una factura
 
 ![](ebportal63.png)  
 
-Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para     facturas de venta y/o facturas de exportaciones.  
+  
 **Terceros:**  
-En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
+En el básico de terceros **[BTER]**, hay que tener en cuenta que al iniciar el proceso, siempre debe haber mínimo 3 terceros que son el tercero de la empresa que es facturador electrónico: en este, en el campo _Entidad anterior_ se debe referenciar el número de la matrícula mercantil, el tercero cero y el tercero de **OASISCOM.**  
 Puede descargar **aquí** el tercero de OasisCom   
 
 ![](ebportal64.png)  
