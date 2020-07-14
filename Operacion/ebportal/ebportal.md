@@ -17,7 +17,7 @@ editable: si
 
 **Menú**  
 
-1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
+1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 2. [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
 3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
@@ -55,7 +55,6 @@ Plantilla al _Rechazar_ una factura.
 ![](ebportal2.png)
 
 **Nota:** las plantillas de envío de correos se visualizarán con el logo de la empresa de donde el usuario se encuentre en sesión.  
-
 
 ## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
 
@@ -356,28 +355,28 @@ Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o res
 2.	PARAMETRIZACIÓN   
 
 **Ubicación**   
-Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
+Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto, quiere decir que si necesitamos crear un nuevo municipio, debo crearlo y validar que su departamento exista también para poderlos asociar.  En la ilustración, vemos que para el hijo _Unicentro_, debe existir el padre _Medellín_ y a su vez, para el hijo _Medellín_ debe existir el padre _Antioquia_.  
 
 ![](ebportal21.png)  
 
 **Documentos**  
-Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito).  
+Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito), cada uno con su respectivos _Conceptos_.  Se debe tener en cuenta, que a pesar que en el proceso de inicialización, ya se encuentran creados estos tres productos,  es que siempre tengan asociado su proceso en habilitación y una vez en producción los documentos reales deben tener el proceso asociado.  Para _Facturas_ en proceso de habilitación es **2015**, para las _Notas crédito_ **2016** y para las _Notas débito_ **2017**.   
 Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
 
 ![](ebportal22.png)  
 
-En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.   
+En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.  Se parametriza de acuerdo a la fase o proceso en el que nos encontremos con los documentos   
 
 ![](ebportal61.png)  
 
 A continuación, se describen la funcionalidad del campo Ebill:  
-•	**No Ebill:** Hace referencia a los documentos que no corresponden a documentos electrónicos.  
-•	**Ebill ver. 1 Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I.  
+•	**No Ebill:** Hace referencia a los documentos que no corresponden a documentos electrónicos y por tanto, no se reportan a la DIAN.  
+•	**Ebill ver. 1 Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I, es la fase antes de habilitación previa de factura electrónica.  
 •	**Ebill ver. 2 Síncrono Producción:** Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase II.  
 •	**Ebill ver. 2 Síncrono Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). De este modo nos permite visualizar los rechazos de la transacción en caso de existir, pero no alimenta el tablero (diagrama de barras) en la página de habilitación de la DIAN.  
 •	**Ebill ver. 2 Asíncrono Testid Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). Esta opción envía a la DIAN así existan rechazos sobre la transacción y alimenta el Tablero (diagrama de barras). En caso de enviar documentos y aparecer en la pagina de la DIAN rechazados aconsejamos cambiar al modo anterior (Ebill ver. 2 Síncrono Habilitación), para validar el motivo del rechazo.  
-•	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  
-•	**Ebill ver. 2 Azure:**  Corresponde a los documentos electrónicos de un cliente de OASIS ONPREMISE que se encuentre reportando sus facturas a la nube de Azure para hacer el proceso de envió al adquiriente y DIAN, tanto en habilitación como en producción.  
+•	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  Es decir, aplica para algunas empresas que facturan un tope bastante alto, así que la DIAN les da un permiso especial para que puedan facturar en producción de manera asíncrona, es decir, mandar en batch esas facturas.
+•	**Ebill ver. 2 Azure:** Es exclusivo para los clientes que tienen OASISCOM como su ERP y tienen una instalación propia, se parametriza la validación Azure para que la información viaje primero hacia la nube de OASIS para hacer el proceso de envío al adquiriente y DIAN, tanto en habilitación como en producción.  
 
 En el detalle se debe parametrizar el campo código externo   
 
