@@ -235,7 +235,7 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 #### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
 
-Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
+Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**Soporte - ASOP**](http://docs.oasiscom.com/Operacion/system/sacceso/asop). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**Monitoring Cases - ASEG**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).  
 
 ![](SOPORTE.png)
 
@@ -243,7 +243,7 @@ Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y
 #### [**Comentarios**](http://docs.oasiscom.com/Operacion/#comentarios)  
 
 
-Al dar click en la opción _Comentarios_ se abrirá la aplicación [**APQR - Comentarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/apqr.md), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
+Al dar click en la opción _Comentarios_ se abrirá la aplicación [**Comentarios - APQR**](http://docs.oasiscom.com/Operacion/system/sacceso/apqr), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
 
 ![](COMENTARIOS.png)
 

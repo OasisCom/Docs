@@ -17,7 +17,7 @@ editable: si
 
 **Menú**  
 
-1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
+1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 2. [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
 3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
@@ -55,7 +55,6 @@ Plantilla al _Rechazar_ una factura.
 ![](ebportal2.png)
 
 **Nota:** las plantillas de envío de correos se visualizarán con el logo de la empresa de donde el usuario se encuentre en sesión.  
-
 
 ## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
 
@@ -356,40 +355,40 @@ Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o res
 2.	PARAMETRIZACIÓN   
 
 **Ubicación**   
-Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
+Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto, quiere decir que si necesitamos crear un nuevo municipio, debo crearlo y validar que su departamento exista también para poderlos asociar.  En la ilustración, vemos que para el hijo _Unicentro_, debe existir el padre _Medellín_ y a su vez, para el hijo _Medellín_ debe existir el padre _Antioquia_.  
 
 ![](ebportal21.png)  
 
 **Documentos**  
-Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito).  
+Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito), cada uno con su respectivos _Conceptos_.  Se debe tener en cuenta, que a pesar que en el proceso de inicialización, ya se encuentran creados estos tres productos,  es que siempre tengan asociado su proceso en habilitación y una vez en producción los documentos reales deben tener el proceso asociado.  Para _Facturas_ en proceso de habilitación es **2015**, para las _Notas crédito_ **2016** y para las _Notas débito_ **2017**.   
 Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
 
 ![](ebportal22.png)  
 
-En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.   
+En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.  Se parametriza de acuerdo a la fase o proceso en el que nos encontremos con los documentos   
 
 ![](ebportal61.png)  
 
 A continuación, se describen la funcionalidad del campo Ebill:  
-•	**No Ebill:** Hace referencia a los documentos que no corresponden a documentos electrónicos.  
-•	**Ebill ver. 1 Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I.  
+•	**No Ebill:** Hace referencia a los documentos que no corresponden a documentos electrónicos y por tanto, no se reportan a la DIAN.  
+•	**Ebill ver. 1 Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I, es la fase antes de habilitación previa de factura electrónica.  
 •	**Ebill ver. 2 Síncrono Producción:** Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase II.  
 •	**Ebill ver. 2 Síncrono Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). De este modo nos permite visualizar los rechazos de la transacción en caso de existir, pero no alimenta el tablero (diagrama de barras) en la página de habilitación de la DIAN.  
 •	**Ebill ver. 2 Asíncrono Testid Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). Esta opción envía a la DIAN así existan rechazos sobre la transacción y alimenta el Tablero (diagrama de barras). En caso de enviar documentos y aparecer en la pagina de la DIAN rechazados aconsejamos cambiar al modo anterior (Ebill ver. 2 Síncrono Habilitación), para validar el motivo del rechazo.  
-•	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  
-•	**Ebill ver. 2 Azure:**  Corresponde a los documentos electrónicos de un cliente de OASIS ONPREMISE que se encuentre reportando sus facturas a la nube de Azure para hacer el proceso de envió al adquiriente y DIAN, tanto en habilitación como en producción.  
+•	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  Es decir, aplica para algunas empresas que facturan un tope bastante alto, así que la DIAN les da un permiso especial para que puedan facturar en producción de manera asíncrona, es decir, mandar en batch esas facturas.
+•	**Ebill ver. 2 Azure:** Es exclusivo para los clientes que tienen OASISCOM como su ERP y tienen una instalación propia, se parametriza la validación Azure para que la información viaje primero hacia la nube de OASIS para hacer el proceso de envío al adquiriente y DIAN, tanto en habilitación como en producción.  
 
-En el detalle se debe parametrizar el campo código externo   
+En el detalle, hay una pestaña que se llama _Conceptos_.  En esta, aparecen cada uno de los conceptos, tanto de las facturas como de las notas. Es importante tener en cuenta la parametrización del _Código externo_ y _Código externo 1_.  Los dos deben estar parametrizados en los conceptos que usa la empresa.  Para el código externo, las posibilidades que hay, son: _Factura de venta_, _Factura de exportación_, _Factura por contingencia facturador_, _Factura por contingencia DIAN_, _Nota crédito_ o _Nota débito_, entonces aquí se parametrizan los conceptos que tiene la DIAN con respecto a las facturas, a las notas.     
 
 ![](ebportal62.png)  
 
-Adicional a esto también se debe parametrizar el campo código externo1.  
+En cuanto al campo código externo1, se define o se entra a detallar con respecto al campo anterior, a qué se refiere exactamente; es decir, las tres primeras opciones (Aiu, Estándar, Mandatos) son para facturas de venta o cualquier otro tipo de facturas.  Si en el campo anterior elegí _Nota crédito_, en este campo debo elegir si es para facturas de Fase I, si es una nota crédito de antes de ser facturador electrónico o una factura de Fase 2 que ya está reportada en la DIAN.  Es importante resaltar que si es un documento sin referencia, el _Concepto_ es **DS**, **D1** para documentos de Fase 1 y **DV** para facturas de Fase II.  De la misma forma, sucede para las notas crédito: **NS** sin referencia, **N1** para Fase I y **NF** para Fase II.  También cabe aclarar que una nota, ya sea débito o crédito, siempre va asociada a una factura
 
 ![](ebportal63.png)  
 
-Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para     facturas de venta y/o facturas de exportaciones.  
+  
 **Terceros:**  
-En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
+En el básico de terceros **[BTER]**, hay que tener en cuenta que al iniciar el proceso, siempre debe haber mínimo 3 terceros que son el tercero de la empresa que es facturador electrónico: en este, en el campo _Entidad anterior_ se debe referenciar el número de la matrícula mercantil, el tercero cero y el tercero de **OASISCOM.**  
 Puede descargar **aquí** el tercero de OasisCom   
 
 ![](ebportal64.png)  
