@@ -40,7 +40,7 @@ Enseguida de la pestaña _Conceptos_, existe otra pestaña llamada _Funciones_. 
 ![](nbtn5.png)  
 
 
-A continuación, se debe ingresar a la aplicación **Programación - NPRO**(http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/npro) para continuar con el proceso de la nómina.
+A continuación, se debe ingresar a la aplicación [**Programación - NPRO**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/npro) para continuar con el proceso de la nómina.
 
 
 
