@@ -390,7 +390,9 @@ En cuanto al campo código externo1, se define o se entra a detallar con respect
   
 **Terceros:**  
 En el básico de terceros **[BTER]**, hay que tener en cuenta que al iniciar el proceso, siempre debe haber mínimo 3 terceros que son el tercero de la empresa que es facturador electrónico, el tercero cero y el tercero de **OASISCOM.**  
-Puede descargar **aquí** el tercero de OasisCom. En la aplicación **BTER**, también hay un campo que se llama _Tipo de impuestos_, en este campo es donde se le asigna al tercero su responsabilidad fiscal.   
+En la aplicación **BTER**, también hay un campo que se llama _Tipo de impuestos_, en este campo es donde se le asigna al tercero su responsabilidad fiscal.   
+
+Puede descargar **aquí** el tercero de OasisCom.
 
 ![](ebportal64.png)  
 
