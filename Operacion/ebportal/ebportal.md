@@ -360,7 +360,8 @@ Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe con
 ![](ebportal21.png)  
 
 **Documentos**  
-Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito), cada uno con su respectivos _Conceptos_.  Se debe tener en cuenta, que a pesar que en el proceso de inicialización, ya se encuentran creados estos tres productos,  es que siempre tengan asociado su proceso en habilitación y una vez en producción los documentos reales deben tener el proceso asociado.  Para _Facturas_ en proceso de habilitación es **2015**, para las _Notas crédito_ **2016** y para las _Notas débito_ **2017**.   
+Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito), cada uno con su respectivos _Conceptos_.  Se debe tener en cuenta, que a pesar que en el proceso de inicialización, ya se encuentran creados estos tres productos,  es que siempre tengan asociado su proceso en habilitación y una vez en producción los documentos reales deben tener el proceso asociado.  Para _Facturas_ en proceso de habilitación es **2015**, para las _Notas crédito_ **2016** y para las _Notas débito_ **2017**. 
+
 Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
 
 ![](ebportal22.png)  
@@ -388,8 +389,8 @@ En cuanto al campo código externo1, se define o se entra a detallar con respect
 
   
 **Terceros:**  
-En el básico de terceros **[BTER]**, hay que tener en cuenta que al iniciar el proceso, siempre debe haber mínimo 3 terceros que son el tercero de la empresa que es facturador electrónico: en este, en el campo _Entidad anterior_ se debe referenciar el número de la matrícula mercantil, el tercero cero y el tercero de **OASISCOM.**  
-Puede descargar **aquí** el tercero de OasisCom   
+En el básico de terceros **[BTER]**, hay que tener en cuenta que al iniciar el proceso, siempre debe haber mínimo 3 terceros que son el tercero de la empresa que es facturador electrónico, el tercero cero y el tercero de **OASISCOM.**  
+Puede descargar **aquí** el tercero de OasisCom. En la aplicación **BTER**, también hay un campo que se llama _Tipo de impuestos_, en este campo es donde se le asigna al tercero su responsabilidad fiscal.   
 
 ![](ebportal64.png)  
 
@@ -420,54 +421,60 @@ En la aplicación de contactos **[ACON]** debe estar creado el contacto cero 0.
 En la aplicación de tipos de contactos **[ABTC]** debe estar creado Tipo contacto cero 0.   
 
 ![](ebportal72.png)  
+
+
 **Tipos de Impuestos:**  
-En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impuesto 99, el cual se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades y régimen correspondiente de la empresa creada.  
+En el básico de Tipos de Impuestos **[BTIM]** por defecto siempre se crean 5: 0 - tipo impuestos genéricos, 99 - impuesto empresa, 100 - régimen simplificado, 200 - régimen común y 300 - gran contribuyente. Si hay alguno que no esté, se puede crear, pero teniendo en cuenta que se le debe colocar también en los terceros. El tipo de impuesto 99 (para la empresa) se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades en el campo _Código externo_ (los campos que aparecen aquí, Gran contribuyente, autorretenedor, agente de retención IVA, régimen simple de tributación o sino es ninguno de estos, el No aplica, son los definidos por la DIAN y OASIS los va actualizando en el momento en que la DIAN realice algún cambio) y régimen correspondiente de la empresa creada.  
 
 ![](ebportal73.png)  
 
 **Motivos:**  
-En el básico de motivos **[BMOT]** deben de estar parametrizados los motivos de cada documento en el campo Código externo. Los 5 primeros corresponden a los motivos que se deben asociar a los documentos de las notas crédito y los siguientes 4 corresponden a los motivos que se deben asociar a las notas débito.  
+A pesar de que deben existir para todos los documentos, tanto para facturas como para notas débito y notas crédito, para las notas débito y crédito, estos motivos tienen una parametrización adicionalen el campo _Código externo_ y debe referenciar a qué motivo corresponde esa nota que estoy haciendo.  Los 5 primeros corresponden a los motivos que se deben asociar a los documentos de las notas crédito (Devolución parcial de los bienes y/o no aceptación parcial del servicio, anulación de factura electrónica, rebaja o descuento parcial o total, ajuste de precio, otros-notas crédito) y los siguientes 4 corresponden a los motivos que se deben asociar a las notas débito (intereses, gastos por cobrar, cambio del valor, otros-notas débito).  En el básico de motivos **[BMOT]** deben de estar parametrizados los motivos de cada documento en el campo Código externo.   
 
 ![](ebportal75.png)  
 
 **Condiciones de Pago:**  
-En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el campo Código externo.  
+Ya hay unas creadas por defecto o paramtrizadas previamente en el proceso de implementación; en el básico de condiciones de pago **[BCND]** debe de estar parametrizado el campo Código externo.  En el campo _Código externo_ debe decir si es **Crédito** o **Contado**.
 
 ![](ebportal76.png)  
 
 **Formas de Pago:**  
-En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo.  
+También se tienen ya unas definidas, también se pueden crear más o validar si las que están creadas se usan. En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo. Las opciones que nos da este campo _Código externo_ son: **Efectivo, Tarjeta crédito, tarjeta débito, cheque, acuerdo mutuo (otro)**.  
 
 ![](ebportal77.png)  
+
 **Unidades de Medida:**  
-En el básico de Unidades de Medida **[BMED]** debe de estar parametrizado el campo código externo.  
+También existen unas por defecto pero se podrían dejar solamente las que utiliza la empresa. En el básico de Unidades de Medida **[BMED]** debe de estar parametrizado el campo código externo.  
 
 ![](ebportal78.png)  
 
-**Resoluciones:**  
-En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de las resoluciones según datos de la DIAN para los documentos de facturación electrónica teniendo en cuenta los campos.  
+La anterior fue la parametrización básica y ahora se realiza una parametrización más específica
 
-•	Documento: Documento de Factura al que pertenece la resolución (FC2, FC, etc.)  
-•	Ubicación: Código de la Ubicación en Oasis  
+**Resoluciones:**  
+En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de las resoluciones según datos de la DIAN para los documentos de facturación electrónica teniendo en cuenta los campos.  Tanto en el proceso de habilitación como en producción, se debe tener en cuenta que se debe parametrizar absolutamente toda la información que se tiene sobre la resolución.  
+
+•	Documento: Documento de Factura al que pertenece la resolución (FC2, FC, etc.).    
+•	Ubicación: Código de la Ubicación en Oasis (1 cuando hay una sola ubicación).    
+•	Nombre de la ubicación: El sistema lo trae por defecto.  
 •	Caja: Siempre dejar uno (1).  
-•	ResolutionId: Número de la Resolución expedida en la DIAN  
-•	Prefijo: Prefijo asociado a la resolución, en caso de no tener se deja vacío  
-•	Inicial: Número inicial de resolución  
-•	Final: Número final de resolución  
-•	Pronunciamiento: Clave técnica otorgada por la DIAN en cada resolución  
-•	F. Inicial Resolución: Fecha Inicial de la resolución  
-•	F. Final Resolución: Fecha Final de la resolución  
-•	Fecha Final: Fecha Final de la resolución  
-•	Estado: Dejar Activo  
+•	ResolutionId: Número de la Resolución expedida en la DIAN.    
+•	Prefijo: Prefijo asociado a la resolución, en caso de no tener se deja vacío.    
+•	Inicial: Número del rango inicial de resolución.    
+•	Final: Número final de resolución.    
+•	Pronunciamiento: Clave técnica otorgada por la DIAN en cada resolución.    
+•	F. Inicial Resolución: Fecha Inicial de la resolución.    
+•	F. Final Resolución: Fecha Final de la resolución.    
+•	Fecha Final: Fecha Final de la resolución (la misma fecha del campo anterior, esto sirve para algunos procesos internos del sistema).    
+•	Estado: La resolución que está vigente, siempre debe estar en estado Activo.  En el momento en que se acabe la resolución por fecha o por rango y se cree una nueva, entonces se crea un nuevo registro (+) y cuando se termine de crear, el anterior se pasa a estado Procesado.  
 
 ![](ebportal79.png)  
 
 **Empresas:**  
-En la aplicación de Empresa **[SEMP]** parametrizar el TestSetId dado por la Dian para las pruebas de habilitación en el campo TestId.  
+En la aplicación de Empresa **[SEMP]** parametrizar el TestSetId dado por la Dian para las pruebas de habilitación en el campo TestId. A este TestId es que las facturas que yo haga de prueba, va a ir a alimentar ese dashboard, entonces es como la asociación que tienen entre el proceso de habilitación del proveedor tecnológico con la DIAN. Cuando se pasa al proceso de producción ya no es necesario.   
 
 ![](ebportal80.png)  
 
-Se debe relacionar el correo electrónico que se usará como máscara para el envío de correos electrónicos a los adquirientes en el campo EMailOutput.  
+Es importante tener en cuenta que a pesar de que los correos de salida se hacen a través de un servidor masivo de OASIS, es importante tener en cuenta que en el campo _EmailOutput_, se debe digitar un correo electrónico que se usa de máscara para que los correos que les llegan a sus clientes, les lleguen como si este correo los enviara para que se pueda tener toda la trazabilidad.    
 
 ![](ebportal81.png)  
 
@@ -476,9 +483,10 @@ Se debe relacionar la información de la empresa como dirección, teléfonos, ci
 ![](ebportal82.png)  
 
 
+**Procesos:**  
+En la aplicación de Procesos **[SPRC]**, se tienen los procesos mencionados con anterioridad, es decir, 2015, 2016 y 2017.  Estos procesos, mientras se está en fase de habilitación, deben tener referenciado el Documento de pruebas **FC2, DV2, NF2**.  Es muy importante que todos tengan sus detalles correspondientes para que el proceso haga las actualizaciones de Status correspondientes.  Una vez se habilitan, terminan su proceso de Pruebas, en el momento de entrar a producción, se relaciona el documento real.  Si hay que crear un nuevo proceso, por ejemplo 2018, en el detalle toca asociar los Status.  
 
-
-
+![](ebportal83.png)
 
 
 
