@@ -36,5 +36,15 @@ Para poder validar la afectación contable, una vez se tenga la nómina procesad
 
 Para nuestro ejemplo, vemos que el concepto de sueldo (SUE) fue aplicado correctamente en la cuenta parametrizada para el tipo de gasto de producción y el centro de costo 11.  
 
-![](kmcm.png)
+![](kmcm.png)  
+
+** Botón en NNOM para crear comprobantes de egreso según la fiducia por la que se le paga al empleado**
+* la parametrización que se debe realizar para que el sistema pueda realizar la distribución de acuerdo al proyecto en el módulo de nómina.  
+
+Se parametrizan los proyectos, y se le asigna la ubicación fiducia.  
+
+![](bpry1.png)  
+
+A los contratos **NCNT** se les asigna en el detalle el proyecto BPRY. Para este caso 11.
+
 
