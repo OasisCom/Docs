@@ -182,6 +182,13 @@ Al finalizar el traslado de los productos, el sistema arroja el mensaje de contr
 
 ![](mjfacr27.png)  
 
+Posterior, se ingresa a la mesa 6 y selecciona la opción unir mesa y seleccionamos la 11.  
+
+![](mjfacr28.png)  
+
+La misma acción con la mesa 8  
+ 
+![](mjfacr29.png)  
 
 
 
