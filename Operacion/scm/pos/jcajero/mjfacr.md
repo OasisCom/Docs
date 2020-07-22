@@ -11,7 +11,7 @@ La aplicación **MJFACR** permite la creación de facturas (similar a la opción
 
 * [División de cuentas tipo Restaurante](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#División-de-cuentas-tipo-Restaurante)
 * [Impresión de facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#impresión-de-facturas)
-* [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
+* [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)
 
 En la opción **MJFAC**, se visualizan las mesas que se tengan en la parametrización de la ubicación, esto para que se puedan realizar facturas acorde a la cantidad de mesas.  
 
@@ -159,7 +159,8 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 
 * Importante: la aplicacion **MJFACR** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc).  
 
-## [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
+
+## [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)
 
 Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
 Este tipo de escenarios es muy común en restaurantes donde se tienen que atender reuniones sociales de diversos tipos; y el tiempo de llegada de cada participante es diferente  
