@@ -14,6 +14,8 @@ La aplicación **MJFACR** permite la creación de facturas (similar a la opción
 
 * [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)  
 
+* [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)  
+
 En la opción **MJFAC**, se visualizan las mesas que se tengan en la parametrización de la ubicación, esto para que se puedan realizar facturas acorde a la cantidad de mesas.  
 
 Una de las caracteristicas del **MJFACR**, es que cuando se crean facturas el color cambia a _naranja_ y con un texto indica si está **Disponible** u **Ocupada**.  
@@ -168,6 +170,8 @@ En **MJFACR** existe el campo comanda; donde adicional puede cambiar la condici�
 
 
 ## [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)
+
+##[Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)  
 
 
 Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
