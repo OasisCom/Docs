@@ -158,6 +158,12 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 ![](mjfacr18.png)
 
 * Importante: la aplicacion **MJFACR** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc).  
+****
+
+En **MJFACR** existe el campo comanda; donde adicional puede cambiar la condición de pago, para facturarle a clientes o empleados a crédito.
+
+
+****
 
 
 ## [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#Unir_mesas)
