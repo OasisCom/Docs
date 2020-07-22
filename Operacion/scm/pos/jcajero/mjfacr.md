@@ -159,14 +159,17 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 
 * Importante: la aplicacion **MJFACR** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc).  
 
-## * [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
+## [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
 
 Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
-
-realizaremos este ejemplo:  
+Este tipo de escenarios es muy común en restaurantes donde se tienen que atender reuniones sociales de diversos tipos; y el tiempo de llegada de cada participante es diferente  
+Realizaremos este ejemplo:  
 Se utilizan 4 mesas las cuales se unirán a la mesa 11.  
+Cada una de las mesas tiene diversos productos en cada una de las comandas o facturas.  
 
 ![](mjfacr24.png)  
+
+
 
 
 
