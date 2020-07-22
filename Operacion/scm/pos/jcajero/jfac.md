@@ -108,7 +108,9 @@ Una vez damos clic en la segunda opción del menú de Zoom, vemos que se muestra
 
 ![](jfac5.png)
 
+Sobre el zoom de creación rápida de tercero, se agrega el campo de **teléfono** para que se pueda filtrar, así como evitar estar seleccionando el tipo de filtro, también se activa el evento de búsqueda al dar **enter.**  
 
+![](jfac46.png)
 
 **“Crear Cliente”**  
 
