@@ -38,7 +38,7 @@ Para nuestro ejemplo, vemos que el concepto de sueldo (SUE) fue aplicado correct
 
 ![](kmcm.png)  
 
-###Botón en NNOM para crear comprobantes de egreso según la fiducia por la que se le paga al empleado.
+## Botón en NNOM para crear comprobantes de egreso según la fiducia por la que se le paga al empleado.  
 La parametrización que se debe realizar para que el sistema pueda realizar la distribución de acuerdo al proyecto en el módulo de nómina.  
 
 Se parametrizan los proyectos, y se le asigna la ubicación fiducia.  
