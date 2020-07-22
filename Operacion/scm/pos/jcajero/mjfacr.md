@@ -172,7 +172,6 @@ En **MJFACR** existe el campo comanda; donde adicional puede cambiar la condici�
 
 
 
-
 Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
 Este tipo de escenarios es muy común en restaurantes donde se tienen que atender reuniones sociales de diversos tipos; y el tiempo de llegada de cada participante es diferente  
 Realizaremos este ejemplo:  
