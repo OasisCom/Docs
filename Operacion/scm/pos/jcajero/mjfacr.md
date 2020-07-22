@@ -161,7 +161,7 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 
 ## * [Unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
 
-
+Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
 
 
 
