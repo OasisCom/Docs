@@ -39,7 +39,7 @@ Para nuestro ejemplo, vemos que el concepto de sueldo (SUE) fue aplicado correct
 ![](kmcm.png)  
 
 ** Botón en NNOM para crear comprobantes de egreso según la fiducia por la que se le paga al empleado**
-* la parametrización que se debe realizar para que el sistema pueda realizar la distribución de acuerdo al proyecto en el módulo de nómina.  
+La parametrización que se debe realizar para que el sistema pueda realizar la distribución de acuerdo al proyecto en el módulo de nómina.  
 
 Se parametrizan los proyectos, y se le asigna la ubicación fiducia.  
 
@@ -60,3 +60,5 @@ Al ejecutarlo, este nos genera los comprobantes de egreso en tesorería **TMOV**
 Se puede generar el archivo plano de las tres interfaces de salida de datos para las fiducias. Por medio del **BINT**.  
 
 ![](bint1.png)  
+
+
