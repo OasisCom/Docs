@@ -190,6 +190,8 @@ La misma acción con la mesa 8
  
 ![](mjfacr29.png)  
 
+Aclaracion la mesa padre (11) a la cual intentamos llevar los productos y unir las otras mesas; debe de tener productos en la factura o comanda para poder realizar el traslado y finalizar el proceso de **UNIR MESAS.**   
+
 
 
 
