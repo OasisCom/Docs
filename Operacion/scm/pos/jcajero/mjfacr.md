@@ -169,6 +169,20 @@ Cada una de las mesas tiene diversos productos en cada una de las comandas o fac
 
 ![](mjfacr24.png)  
 
+Se resalta el boton que realiza la accion de unir los productos a otra mesa.
+en el encabezado de la factura.  
+
+![](mjfacr25.png)  
+
+Al ejecutar el botón abre la siguiente ventana, donde dado el caso podemos pasar uno o todos los productos de la mesa 3 a la mesa padre que es la numero 11.  
+
+![](mjfacr26.png)  
+
+Al finalizar el traslado de los productos, el sistema arroja el mensaje de control donde nos indica: productos movidos correctamente.  
+
+![](mjfacr27.png)  
+
+
 
 
 
