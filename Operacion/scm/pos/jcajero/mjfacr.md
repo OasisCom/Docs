@@ -163,5 +163,11 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 
 Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
 
+realizaremos este ejemplo:  
+Se utilizan 4 mesas las cuales se unirán a la mesa 11.  
+
+![](mjfacr24.png)  
+
+
 
 
