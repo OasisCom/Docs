@@ -45,6 +45,18 @@ Se parametrizan los proyectos, y se le asigna la ubicación fiducia.
 
 ![](bpry1.png)  
 
-A los contratos **NCNT** se les asigna en el detalle el proyecto BPRY. Para este caso 11.
+A los contratos **NCNT** se les asigna en el detalle el proyecto BPRY. Para este caso 11.  
 
+![](ncnt4.png)  
 
+Cuando la nomina este en estado procesado, se habilita el botón: **Genera_Pago_en_Tesoreria** 
+
+![](nnom1.png)  
+
+Al ejecutarlo, este nos genera los comprobantes de egreso en tesorería **TMOV**.
+
+![](tmov2.png)  
+
+Se puede generar el archivo plano de las tres interfaces de salida de datos para las fiducias. Por medio del **BINT**.  
+
+![](bint1.png)  
