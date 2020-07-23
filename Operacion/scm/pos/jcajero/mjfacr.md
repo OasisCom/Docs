@@ -166,8 +166,8 @@ En **MJFACR** existe el campo comanda; donde adicional puede cambiar la condici√
 
 ![](mjfacr30.png)  
 
-
- [unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)  
+******
+## [unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
 
 
 
