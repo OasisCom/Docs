@@ -194,7 +194,7 @@ Cuando la factura ya esté hecha, ingreso a la aplicación **Log-BINT - FPFE**. 
 
 ![](ebportal88.png)  
 
-Se utiliza el comando ctrl F y aquí se evidencia la factura para poderla transmitir a Oasiscom.  Se selecciona y se oprime el primer botón de la derecha: _Marcar todo_  
+Se utiliza el comando **Ctrl F** y aquí se evidencia la factura para poderla transmitir a Oasiscom.  Se selecciona y se oprime el primer botón de la derecha: _Marcar todo_  
 
 ![](ebportal89.png)  
 
@@ -210,9 +210,33 @@ Aquí también se filtra por el número de la factura y se evidencia que la fact
 
 ![](ebportal92.png)  
 
-Ahora, en esta parte
+Ahora, en esta parte, se valida cómo se pasa una factura de OasisR3 a Oasiscom descargando el archivo XML.  Una vez se tiene la factura ya lista y procesada, se pasa de nuevo a la aplicación **Log-BINT - FPFE** y se filtra por el número de factura y se hace aplica el comando **Ctrl F**.  Estando en este punto, se selecciona el registro y se da click en la opción _Marcar todo_.  Aparece el aviso de control _Proceso terminado_ y se da click en aceptar.    
 
+![](ebportal93.png)  
 
+Luego, se oprime el botón _Generar archivo XML_.  El sistema solicita que se guarde el archivo y se puede asignar el nombre que se desee.  Aparece el aviso de control _Proceso terminado_ y se da click en aceptar.  
+
+![](ebportal94.png)  
+
+![](ebportal95.png)
+
+![](ebportal96.png)  
+
+Una vez terminado el proceso, se accede a Oasiscom y se ingresa a la aplicación **Interfaces - BINT**.  En el campo _Publicación_, se selecciona la opción **951 - Subida factura Oasiscom XML Ver 2 Ebill**, se habilita la opción para buscar el archivo y poderlo cargar. Una vez cargado el archivo, se da click en _Aceptar y Ejecutar_.  Sale un aviso de control informando que la Factura fue enviada correctamente.  
+
+![](ebportal97.png)  
+
+![](ebportal98.png)  
+
+![](ebportal99.png)  
+
+![](ebportal100.png)  
+
+![](ebportal101.png)  
+
+Para validar esta factura, se ingresa a la aplicación **Facturas de venta - EBFFAC** y se filtra por el número del documento.  Como se puede apreciar en la ilustración, ya está cargada la factura y el campo _Status dian_ aparece como **_Envío Exitoso_**.  
+
+![](ebportal102.png) 
 
 ## [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)
 
