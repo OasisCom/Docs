@@ -184,7 +184,7 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal20.png)
 ![](ebportal244.png)  
 
-### [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-R3)  
+### [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)  
 
 Para iniciar el proceso de Facturación electrónica en la versión R3 de Oasiscom, se crea una factura normal con el _Documento_ correspondiente y el _Número_ de documento.  Cabe resaltar que la factura debe estar en _Estado_ **_Procesado_** para poderla transmitir a Oasiscom en Azure.
 
