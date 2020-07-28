@@ -125,6 +125,21 @@ Una vez distribuídos los productos en las cajas, el sistema deshabilitará los 
 
 En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
 
+**Impresión de Rótulos**  
+
+Esta funcionalidad se puede encontrar en la lista de botones en la función de **PA - Empaque**, opción *Imprimir Rotulo*.  
+![](imagenes/eitra8.png)
+Una vez damos clic en este botón se visualiza una vista previa de los datos del rotulo del pedido que deseamos realizar.  
+![](imagenes/eitra9.png)
+Posterior a esto nos muestra la opción para poder imprimirlo ya sea directamente o algún otro formato como PDF.  
+![](imagenes/eitra10.png)
+
+También es importante conocer que dentro de la aplicación **ITRA - Trabajos** encontramos esta misma funcionalidad de impresión de rótulos.  
+![](imagenes/eitra11.png)
+
+Al dar clic en el botón imprimir rotulo ubicado en el detalle del registro se visualizará la opción para imprimir el rotulo en el formato que se desee.  
+![](imagenes/eitra12.png)
+
 
 
 ## [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
