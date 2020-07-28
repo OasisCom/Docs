@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reportes
+title: Libro de compras
 permalink: /Operacion/scm/compras/oreporte/orlc
 editable: si
 ---

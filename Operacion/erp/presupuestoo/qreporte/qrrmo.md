@@ -5,10 +5,10 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrrmo
 editable: si
 ---
 
-# QRRMO - Movimientos de Presupuesto
+# Movimientos de Presupuesto - QRRMO
 
 
-El reporte QRRMO permite ver un informe de movimientos de presupuesto.  
+El reporte **QRRMO** permite ver un informe de movimientos de presupuesto.  
 
 Ingresamos a la aplicación, filtramos por documento, número y ubicación. Damos click en el botón _Generar_.  
 

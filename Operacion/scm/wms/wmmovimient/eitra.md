@@ -1,15 +1,22 @@
 ---
 layout: default
-title: Movimientos
+title: Trabajos Web
 permalink: /Operacion/scm/wms/wmmovimient/eitra
 editable: si
 ---
 
-# EITRA - Trabajos Web
+# Trabajos Web - EITRA
 
 La aplicación **EITRA** permite realizar movimientos logísticos.  
 
-## [Recoleccion]
+* [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
+* [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
+* [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
+* [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
+* [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
+
+
+## [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
 La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
 
 Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PI - Recoleccion_.  
@@ -235,6 +242,13 @@ Con el fin de consultar los registros creados por concepto recepción en la apli
 Se podrá crear un registro nuevo a través de la opción ***oact*** de forma sencilla.
 ![](imagenes/oact1.png)  
 
+**Detalle:**  
+Se relacionan los productos y se descripcion.  
+Vida util: este campo realiza el calculo, cuando no se conoce la fecha de fabricación; se toma que la vida útil del medicamento es de 2 años o 24 meses. Y se refleja en EITRA.  
+
+![](oact1.png)
+![](oact2.png)
+
 **Tipos de Defectos**  
 
 A diferencia de la opción de [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion) en esta aplicación se pueden crear tanto Defectos Técnicos como Defectos Administrativos en las pestañas del detalle.
@@ -243,3 +257,20 @@ A diferencia de la opción de [Acta Técnica Recepcion](http://docs.oasiscom.com
 
 Hay que recordar que para la parametrización de la lista desplegable del campo Criterio se debe realizar dentro de la aplicación características **(BCRC)**. 
 ![](imagenes/oact3.png)  
+
+* Se crea la vista previa: para visualizar el reporte de fallas en el acta técnica, estas fallas se dividen en dos
+  grandes campos, los defectos técnicos y los defectos administrativos.  
+  Estos dos defectos se pueden visualizar a nivel de aplicativo en el **OACT** en las pestañas correspondientes.  
+  Y finalmente estas pestañas son las que están resumidas en el reporte, clasificando **BCLA** las fallas como: criticas 
+  mayores y menores.  
+  
+  ![](eitra41.png)
+  Al descargar a PDF se visualiza asi:  
+  
+  ![](eitra42.png)  
+  
+  
+
+
+
+

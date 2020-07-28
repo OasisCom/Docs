@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvcp
 editable: si
 ---
 
-# Customer - Product - QVCP
+# Cliente Producto - QVCP
 
 La aplicación Cliente – Producto **QVCP** permite visualizar que cliente adquirió que producto, describiendo la cantidad de productos facturados a dicho cliente y el valor total de facturación. Igualmente en caso de devolución, arroja la cantidad de productos devueltos y el valor total de devolución.
 

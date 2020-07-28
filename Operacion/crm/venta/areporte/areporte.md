@@ -5,5 +5,5 @@ permalink: /Operacion/crm/venta/areporte/
 editable: si
 ---
 
-# REPORTES
+# Reportes
 

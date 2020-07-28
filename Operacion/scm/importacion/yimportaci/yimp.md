@@ -5,14 +5,16 @@ permalink: /Operacion/scm/importacion/yimportaci/yimp
 editable: si
 ---
 
-# YIMP - Importaciones
+# Importaciones - YIMP
+
+Se dará a conocer el proceso de importaciones y la parametrización requerida para ejecutarlo. 
 
 
-## [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)
+* [Parametrización](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#parametrización)
+* [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)
 
-A continuación, se dará a conocer el proceso de importaciones y la parametrización requerida para ejecutarlo.  
 
-### Parametrización
+### [Parametrización](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#parametrización)
 
 Para realizar el proceso de importaciones es necesario realizar previamente la parametrización de las siguientes aplicaciones. (_Ver cada aplicación_).  
 
@@ -64,7 +66,7 @@ Es necesario que a la cuenta creada de importaciones se parametrice el módulo _
 ![](yimp5.png)
 
 
-### Proceso de importaciones
+## [Proceso de importaciones](http://docs.oasiscom.com/Operacion/scm/importacion/yimportaci/yimp#proceso-de-importaciones)
 
 _**Orden de Compra**_  
 

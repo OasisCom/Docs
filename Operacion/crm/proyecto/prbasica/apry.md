@@ -5,7 +5,7 @@ permalink: /Operacion/crm/proyecto/prbasica/apry
 editable: si
 ---
 
-# APRY - Proyectos
+# Proyectos - APRY
 
 La aplicación **APRY** permite crear la planeación de cada proyecto, asignar los recursos humanos que estarán involucrados en el mismo e incluir los costos del proyecto.  
 

@@ -7,86 +7,85 @@ editable: si
 
 # Contratos de Venta - VCNT
 
-La aplicación VCNT permite realizar el registro de los contratos de venta.  
 
-![](vcnt1.png)
 
-**Documento:** doble clic y seleccionar tipo de documento CV – Contratos de venta.  
-**Número:** número generado automáticamente.  
+* [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
+* [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)
+
+## [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
+
+
+La aplicación **VCNT** permite realizar el registro de los contratos de venta. 
+
+![](1.png)
+
+Para este ejemplo crearemos un contrato con el concepto de implementaciones.  Agregamos un nuevo registro **+**.  
+
+![](2.png)
+
+**Documento:** En este campo seleccionamos *CV* que hace referencia a contratos de ventas.  
 **Ubicación:** Número de ubicación de la empresa la cual realiza el documento.  
-**Fecha:** fecha en que se registra el contrato de venta.  
-**Concepto:** doble clic y seleccionar el concepto del contrato de venta.  
-**Tercero:** identificación numérica del tercero al que se le realizará el contrato.  
-**Nombre Tercero:** nombre del tercero al que se le realizará el contrato.  
-**Estado:** Estado del contrato: Activo, Procesado, Anulado.  
+**Concepto:** Seleccionamos el concepto del contrato de venta, en este caso es *IM* que corresponde a implementación.  
+**Fecha:** Fecha en que se está creando el contrato.  
+**Tercero:** Identificación numérica del tercero al que se le realizará el contrato.   
+**Vendedor:** Identificación numérica de la persona que se encargó de realizar la venta.  
+**Fecha inicial:** Fecha la cual se inicia el contrato.  
+**Fecha final:** Fecha final del contrato. Para este ejemplo como se requiere facturar una implementación es una única factura.  
+**Tipo de liquidación:** Maestro.  
+**Negocio:** Hace referencia a lo que se esta cobrando, en este caso es una implementación. Estos negocios se parametrizan en la aplicación **BNEG- básico de negocios**  
+**Proyecto:** Esta previamente parametrizado en la aplicación **BPRY - básico de proyectos**  
+**Tipo de contrato:** Tipo de contrato de venta, en este caso seleccionamos venta de servicio.   
+**PeriodType:** Tipo de periodo facturación. En caso de que la factura fuera trimestral, semestral, anual en el campo Duración se debe seleccionar a cuantos periodos se requiere generar la factura.  
+**CycleBliling:** Ciclo de facturación. Cuando se requiere generar el ciclo de facturación.  
+**Renovación:** Como es una única factura sin renovar.  
+**Lastinvoice:** fecha de la última factura emitida.   
+**NextInvoice:** fecha de la siguiente factura a emitir.   
+**Observación:** observación sobre el contrato si existe.   
 
-![](vcnt2.png)
 
-**Vendedor:** identificación numérica del vendedor.  
-**Tipo precio:** doble clic y seleccionar tipo de precio.  
-**%Descuento:** Porcentaje del descuento que se haya acordado.  
-**Condición pago:** doble clic y seleccionar condición de pago del contrato.  
-**Initial Date:** fecha inicial del contrato.  
-**Fecha final:** fecha final del contrato.  
-**Moneda:** moneda en la que se acuerda el contrato.  
+Luego de llenar los datos requeridos damos clic en guardar. ![](guardar.png)
 
-![](vcnt3.png)
-
-**Tipo contrato:** tipo de contrato de venta - V.  
-**Period Type:** Tipo de periodo.  
-**CycleBilling:** ciclo de facturación.  
-**Lastinvoice:** fecha de la última factura emitida.  
-**NextInvoice:** fecha de la siguiente factura a emitir.  
-
-![](vcnt4.png)
-
-**Observación:** observación sobre el contrato si existe.  
-**ProjectId:** número del proyecto.  
-**Bruto:** valor bruto del contrato.  
-**Descuento:** valor en cifras del descuento acordado.  
-**Subtotal:** resta del valor bruto menos el descuento.  
-**TaxSale:** valor del impuesto sobre el contrato.  
-**Total:** suma del subtotal más el impuesto.  
-**Retención:** valor de retención (si aplica).  
+![](3.png)
 
 La aplicación **VCNT** Contratos de venta consta de una ventana inferior llamada _Detalle_ en la cual se puede observar información más explícita del contrato seleccionado.
 
-![](vcnt5.png)
+![](4.png)
 
-**Renglón:** número del renglón, se genera automáticamente.  
-**Producto:** Número asignado al contrato a registrar, parametrizado previamente en BPO.  
-**Nombre producto:** Nombre de contrato a registrar, parametrizado previamente en **BPRO.**  
-**Cantidad:** cantidad de contratos del producto que se va adquirir por parte del cliente.  
-**Precio:** precio registrado en el contrato del producto adquirido por el cliente.  
-**%Imp:** porcentaje de impuesto que tiene el producto.  
-**%descuento:** porcentaje del descuento acordado para el contrato.  
-**Estado:** Estado del contrato: Activo, Procesado, Anulado.  
-**Tipo Contrato:** según tipo de contrato: Venta, arriendo.  
+**Producto:** Producto que se requiere facturar, en este caso hablamos de una implementación.  
+**Cantidad:** Cantidad de contratos del producto que se va adquirir por parte del cliente.  
+**Precio:** Precio registrado en el contrato del producto adquirido por el cliente.  
+**Factura:** Activamos el campo ![](fag.png) y guardamos los cambios ![](guardar1.png)  
 
-![](vcnt6.png)
+![](5.png)
 
-**ProductPurchaseId:** Identificación del producto de compra.  
-**Vencimiento:** Fecha de vencimiento del producto.  
-**Tipo Precio:** doble clic y seleccionar tipo de precio.  
+Por último se debe confirmar el contrato de venta procesándolo. Así quedara el registro en el sistema.  
 
-Los datos de los campos _Tipo de periodo_, _Duración_, _Ejecutado_, _Última Factura_ y _Próxima Factura_ se toman de cada renglón del detalle, ya que se puede tener un mismo contrato con renglones de productos y servicios con diferentes vigencias de facturación pero con un solo contrato (suscripción).  
-
-![](vcnt7.png)
-
-* En el detalle al finalizar el cursor a la derecha;  encontrar el campo 'DirectionId' en detalle de la opción **VCNT**, el cula posee zoom de busqueda.  
-
-![](vcnt9.png)
-
-
-****
+![](6.png)
 
 
 
+## [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)
 
 
+### Parametrizacion:  
 
+El cliente maneja 2 tipo de contratos de venta para cada tercero **(Cápita - Evento)**, Esto por el programa **VCNT.**  
 
+![](vcnt11.png)  
 
+Sobre los conceptos del Programa **GMOV** (Programa **BDOC** - Detalle Conceptos), se tiene configurado a que tipo pertenece si es Cápita o Evento.  
 
+![](vcnt12.png)  
 
+Teniendo la anterior parametrizacion, se explica:  
+Se realizar una personalizacion o customizacion sobre el Concepto del **GMOV** (Se muestra como Servicios).  
 
+Para este proceso se toma como retrives tanto el concepto como el tercero (Resaltados en Amarillo).  
+
+Esto para retornar el Contrato de venta del tercero, que son los campos de referencia.(Resaltados en Rojo).  
+
+![](vcnt13.png)  
+
+Dado que por el concepto configurado del GMOV, tenemos identificado a que tipo pertenece **Capita o Evento**.
+
+Se realiza la búsqueda del contrato de venta cada vez que se cambie el valor sobre el campo.  

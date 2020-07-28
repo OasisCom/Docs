@@ -5,7 +5,7 @@ permalink:  /Operacion/common/btercer/bter
 editable: si
 ---
 
-# TERCEROS - BTER
+# Terceros - BTER
 
 **Menú**
 

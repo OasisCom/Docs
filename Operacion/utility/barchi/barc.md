@@ -7,7 +7,12 @@ editable: si
 
 ## Archivos - BARC
 
-### Parametrización XML
+>+ [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
+>+ [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
+>+ [Parametrización ACX]((http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-acx)
+
+
+## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
 
 Para la generación o descarga de un archivo en formato _.XML_ a través de un formato _.XSD_ se deben realizar las siguientes parametrizaciones iniciales en BARC:  
 
@@ -126,7 +131,7 @@ Terminada la parametrización del maestro, se procede con el detalle:
 Hecho esto, se ha culminado con la parametrización en la opción BARC y se podrá continuar, al igual que con la bajada de archivos, con la parametrización en [**BPUB - Publicaciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bpub) y  [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol).
 
 
-# [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
+## [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
 
 El propósito de esta nueva funcionalidad es permitir que un cliente pueda cargar de forma masiva imágenes a los productos que desea ofertar en el módulo del MarketPlace desde OasisCom. Estas imágenes deberán estar contenidas en un archivo comprimido cuyo nombre deben ser ya sea el código del producto, o bien, el código antiguo del mismo de acuerdo a las especificaciones descritas en este documento.  
 
@@ -193,4 +198,23 @@ Si el campo _Formula_ del detalle SI contiene la consulta especificada, las imá
 ![](barc19.png)
 
 Para verificar el funcionamiento de la parametrización realizada y así mismo cargar las imágenes, ingresamos a la aplicación [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#carga-de-imágenes-al-marketplace). (_Ver aplicación_)  
+
+## [Parametrización ACX]((http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-acx)
+
+En el BARC, se realiza la parametrización del archivo de acuerdo con la estructura, donde se divide en 2, una sección con los datos de registro y la otra con la actualización que la contiene el proceso que interpreta el plano para ser cargado.
+
+![](Imagen 1 barc.png)
+
+![](Imagen 2 barc.png)
+
+![](Imagen 3 barc.png)
+
+![](Imagen 4 barc.png)
+
+**Nota:** El archivo *ACX,* que se conoce viene separado por coma (,) y cada segmento tiene un significado.
+
+![](Imagen 5 barc.png)
+
+![](Imagen 6 barc.png)
+
 

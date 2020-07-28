@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Movimientos: Función No Valida
-permalink: /Soporte/funcionnovalida
+title: Movimientos Función No Valida
+permalink: Soporte/funcionnovalida
 editable: si
 ---
 

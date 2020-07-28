@@ -5,7 +5,7 @@ permalink: /Operacion/scm/ventas/vpedido/vpsa
 editable: si
 ---
 
-# VPSA - Saldos y Precios por Ubicación
+# Saldos y Precios por Ubicación -  VPSA
 
 
 La aplicación **VPSA** permite consultar la lista de precios por ubicación y los saldos de inventario.  

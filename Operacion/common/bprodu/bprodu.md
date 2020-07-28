@@ -5,5 +5,5 @@ permalink: /Operacion/common/bprodu/
 editable: si
 ---
 
-# PRODUCTOS
+# Productos
 

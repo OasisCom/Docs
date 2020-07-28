@@ -5,5 +5,5 @@ permalink: /Operacion/scm/exportaciones/
 editable: si
 ---
 
-# EXPORTACIONES
+# Exportaciónes
 

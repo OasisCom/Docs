@@ -5,5 +5,5 @@ permalink: /Operacion/is/transporte/dibasica/
 editable: si
 ---
 
-# DATOS BASICOS
+# Datos Basicos
 

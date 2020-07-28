@@ -5,7 +5,7 @@ permalink: /Operacion/common/bfinan/bpry
 editable: si
 ---
 
-# BPRY - Proyectos
+# Proyectos - BPRY
 
 Permite registrar los diferentes proyectos en los que trabajará la empresa.  
 
@@ -36,8 +36,6 @@ Permite registrar los diferentes proyectos en los que trabajará la empresa.
 
 
 
-
-****
 
 
 

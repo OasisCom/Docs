@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kproceso/kprt
 editable: si
 ---
 
-## Reserva Técnica - KPRT
+# Reserva Técnica - KPRT
 
 
 

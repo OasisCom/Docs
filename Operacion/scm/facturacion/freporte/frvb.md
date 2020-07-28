@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/freporte/frvb
 editable: si
 ---
 
-# FRVB - Ventas por Bonos
+# Ventas por Bonos - FRVB
 
 El reporte **FRVB** permite consultar la facturación que ha sido realizada con bonos.  
 

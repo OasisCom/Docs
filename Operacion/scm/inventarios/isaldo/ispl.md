@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saldos
+title: Saldos por localización
 permalink: /Operacion/scm/inventarios/isaldo/ispl
 editable: si
 ---
@@ -8,6 +8,9 @@ editable: si
 # Saldos por Localización - ISPL
 
 Aplicación que permite la consulta de saldos periódicos por localización.
+
++ [Inventario Periódico e Inventario Cíclico](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl#inventario-periódico-e-inventario-cíclico)
+
 
 ![](ispl1.png)
 

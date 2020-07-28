@@ -5,5 +5,10 @@ permalink: /Operacion/is/hospital/ginventario/
 editable: si
 ---
 
-# FARMACIA
+# Farmacia
+
+Está integrado por las apliaciones:
+
+* [**GMOV**](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov) - Movimientos de Inventario
+* [**GPDE**](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gpde) - Dispensaciones Pendiente por Entrega
 

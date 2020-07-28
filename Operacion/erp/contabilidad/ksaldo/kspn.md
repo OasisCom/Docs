@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/ksaldo/kspn
 editable: si
 ---
 
-## Saldo Periódico Auxiliar Negocio - KSPN
+# Saldo Periódico Auxiliar Negocio - KSPN
 
 Esta aplicación nos permite visualizar los saldos periódicos filtrando por negocio. Los negocios deben estar parametrizados en la aplicación [**BNEG - Negocios**](http://docs.oasiscom.com/Operacion/common/bfinan/bneg).
 

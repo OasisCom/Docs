@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/iconsulta/icsl
 editable: si
 ---
 
-# ICSL - Kardex por Cliente
+# Kardex por Cliente - ICSL
 
 La aplicación **ICSL** permite visualizar los saldos de inventario por tercero.  
 

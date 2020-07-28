@@ -15,7 +15,14 @@ Se crea programa **Censo hospitalario** **[EECEN]**, enfocado para los prestador
 
 Mediante la siguiente aplicación **ECEN:** la **IPS** informa el ingreso del paciente a la **EPS**, se registra **información del afiliado**, detallando datos como: diagnostico, vía de ingreso, servicio, especialidad; **información del egresado:** cantidad de días, diagnostico en el momento de la salida del paciente; e **información del Proceso**: nombre del responsable entre otros datos.  
 
-![](ecen3.png)  
+![](eecen3.png)  
+
+* El campo tercero se le realiza adecuación agregando los campos: **nombre del servicio y nombre de especialidad.** Para facilitar la búsqueda en el zoom.  
+
+ ![](eecen2.png)  
+
+
+
 
 
 

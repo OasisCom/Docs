@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irfs
 editable: si
 ---
 
-# IRFS - Sales Vs. Purchase Forecast
+# Sales Vs Purchase Forecast - IRFS
 
 El reporte de la aplicación **IRFS** muestra las proyecciones de ventas vs. las compras previstas de inventario disponible.  
 

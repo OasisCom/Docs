@@ -5,9 +5,9 @@ permalink: /Operacion/is/salud/eafiliacion/conafi/esra
 editable: si
 ---
 
-# ESRA - Resumen Afiliado
+# Resumen Afiliado - ESRA
 
-La opción ESRA es una aplicación únicamente de consulta que permite verificar el resumen de afiliación, pila, log, compensación de los usuarios.  
+La opción **ESRA** es una aplicación únicamente de consulta que permite verificar el resumen de afiliación, pila, log, compensación de los usuarios.  
 
 Consultamos por periodo y año.  
 

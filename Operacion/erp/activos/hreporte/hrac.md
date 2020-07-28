@@ -5,7 +5,7 @@ permalink: /Operacion/erp/activos/hreporte/hrac
 editable: si
 ---
 
-# [**HRAC - Activos Fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrac)
+# [**Activos Fijos - HRAC**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrac)
 
 El reporte **HRAC** permite ver un resumen con las características del activo fijo consultado, es decir, permite ver la hoja de vida del activo fijo.  Recordemos que la hoja de vida se debe registrar en la aplicación **HACT - Activos**. Este puede ser exportado en formato PDF, Word o Excel.  
 

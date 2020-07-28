@@ -5,9 +5,9 @@ permalink: /Operacion/erp/tesoreria/tsaldo/tsse
 editable: si
 ---
 
-# TSSE - Saldos por empresa
+# Saldos por empresa - TSSE
 
-La aplicación TSSE muestra los movimientos de cartera agrupados por modena de la opción [**TMOV - Movimientos de Tesorería**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov), de las diferentes compañías a las que el usuario tenga permisos de ingreso.  
+La aplicación TSSE muestra los movimientos de cartera agrupados por móneda de la opción [**TMOV - Movimientos de Tesorería**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov), de las diferentes compañías a las que el usuario tenga permisos de ingreso.  
 
 En el detalle, podemos ver los diferentes movimientos de cartera de la empresa seleccionada en el maestro, por cada una de las ubicaciones existentes en la misma.  
 

@@ -12,6 +12,7 @@ Esta aplicación permite cargar o descargar información sobre diferentes escena
 BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por medio de la opción de interfaces y realizar su debida confirmación en lote.  
 
 
+
 ## **Menú**
 
 1. [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)  
@@ -28,6 +29,15 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
 13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 
+* Mejora en los tiempos de respuesta.  
+Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
+
+Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
+* ![](bcrc1.png)  
+	Se parametriza en **BCRC** caracteristicas en estado activo.  
+	![](bcrc2.png)  
+* Por consulta SQL:
+	![](bcrc3.png)  
 
 # [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
 
@@ -384,16 +394,20 @@ En el campo publicación, seleccione el proceso de *“Carga de Rips”*.
 
 Una vez seleccionado, en el campo *Operation* seleccione la opción *Upload.*  
 
-Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingresar la siguiente información: 
+Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingresar la siguiente información:  
 
-+ **Recibo** número empleado en el archivo de RIPS.
-+ **Código Super** número de habilitación de su entidad.
-+ **Régimen** especifique si es subsidiado *(S)* o contributivo *(C)*.
++ **Recibo** número empleado en el archivo de RIPS.  
++ **Código Super** número de habilitación de su entidad.  
++ **Régimen** especifique si es subsidiado *(S)* o contributivo *(C)*.  
 
-*Es importante que los archivos sean cargados en formato .zip.*
+*Es importante que los archivos sean cargados en formato .zip.*  
 
-![](Imagen 2 BINT.png)
+![](Imagen 2 BINT.png)  
 
-Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec)
+Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec).  
+
+--
+Se crean dos interfaces **BINT**, puntualmente para el proceso de **dispensacion de medicamentos**; para generar los anexos 12 y 13 con el mismo esquema que manejan las aplicaciones **IRMCD** (distribución de medicamentos controlados) y el **IRMCP** (puntos de venta medicamentos controlados).  
+
 
 

@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/rhumanos/restructura/rcar
 editable: si
 ---
 
-# CARGOS - RCAR
+# Cargos - RCAR
 
 La aplicación RCAR – Cargos, permite crear los cargos a los cuales se les va a realizar el proceso de selección en la empresa.  
  
@@ -20,7 +20,16 @@ Los campos del maestro de la aplicación los diligenciaremos de la siguiente man
 **Cargo**: digitar el consecutivo del cargo que se está registrando.  
 **Nombre cargo**: nombre del cargo al cual se le realizará proceso de selección.  
 **Escala**: número de escala en la cual se encuentra el cargo. La escala se debe parametrizar previamente en la aplicación RBES – Escalas.  
+
+
+![](rcar13.png)  
+
+
 **Tipo de perfil**: digitar el número de tipo de perfil profesional que deben tener los aspirantes al cargo registrado. Los tipos de perfil se parametrizan en la aplicación _RBPE – Tipos de perfil_.  
+
+
+![](rcar14.png)  
+
 
 Diligenciados los anteriores campos del maestro, damos clic en _guardar_ y continuamos con las pestañas del detalle.
 
@@ -38,7 +47,7 @@ En la pestaña _Competencias_, se diligencian las competencias que deben poseer 
 ![](rcar3.png)
 
 
-**Competencia**: damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro. Se pueden insertar todas las competencias que requiera el cargo.
+**Competencia**: se agrega un nuevo registro (+), damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
 
 
 ![](rcar4.png)

@@ -10,7 +10,6 @@ editable: si
 Se define el número en el cual se encuentra el consecutivo de cada uno de los documentos parametrizados en **BDOC**. Sirve para definir el consecutivo inicial o hacer alguna actualización que desee el usuario sobre los consecutivos, esta se va actualizando automáticamente a medida que se inserte un nuevo documento de los definidos en la opción documentos. En caso que en el documento se haya definido que maneja varias ubicaciones o maneja niveles, entonces la pantalla nos permitirá definir a que ubicación se está haciendo referencia con el consecutivo, en caso contrario la oficina siempre va a aparecer en cero (0) y el sistema no dejará parar en este sitio.  
 
 >+ [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos)
->+ [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#parametrización-archivo-acx)
 
 ![](bcns1.png)
 
@@ -29,8 +28,6 @@ Para realizar la parametrización de la funcionalidad, inicialmente ingresamos a
 ![](bcns2.png)
 
 Seguidamente, debemos ingresar a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos) a consultar el documento y activar el flag de _Automático_ para que los consecutivos sean asignados por el sistema. (_Ver aplicación_)
-
-## [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#parametrización-archivo-acx)
 
 
 

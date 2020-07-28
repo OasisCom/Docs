@@ -5,7 +5,7 @@ permalink: /Operacion/common/btercer/bdir
 editable: si
 ---
 
-# BDIR - Direcciones
+# Direcciones - BDIR
 
 La aplicación BDIR permite registrar las fincas y especificar sus caracteristicas. En el detalle se ingresan los sellos de calidad que posea cada finca y  en la siguiente pestaña del detalle caracteristicas de los lotes.  
 

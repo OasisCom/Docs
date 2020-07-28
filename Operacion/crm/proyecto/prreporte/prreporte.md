@@ -5,5 +5,10 @@ permalink: /Operacion/crm/proyecto/prreporte/
 editable: si
 ---
 
-# REPORTES
+# Reportes
+
+Está integrado por los módulos:
+
+* [**ARKP**](http://docs.oasiscom.com/Operacion/crm/proyecto/prreporte/arkp) - Kanban Proyectos
+* [**JREM**](http://docs.oasiscom.com/Operacion/crm/proyecto/prreporte/jrem) - Ventas por Empleado
 

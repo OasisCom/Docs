@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/eafiliacion/movafi/eliq
 editable: si
 ---
 
-# Liquidaciones  -ELIQ
+# Liquidaciones  - ELIQ
 
 ## [Archivos de Conciliación](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/eliq#archivos-de-conciliación)
 

@@ -5,11 +5,11 @@ permalink: /Operacion/erp/activos/hbasica/hact
 editable: si
 ---
 
-# [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#hact-activos)
+# Activos - HACT
 
 * [**HACT - Activos**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#hact-activos)  
 * [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)  
-* [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)
+* [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)  
 
 En la aplicación HACT se valida la creación de los activos fijos ingresados previamente en la aplicación [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov) y se editan las características de este.
 
@@ -28,7 +28,7 @@ Procedemos a ingresar las características del activo fijo.
 
 Deslizamos la ventana hacia la derecha y diligenciamos los campos pertinentes.
 
-### [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)
+## [**Sección Adquisición**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#seccion-adquisicion)
 
 ![](hact2.png)
 
@@ -58,7 +58,7 @@ En la pestaña **_Distribución_** se distribuye el gasto de la depreciación pa
 
 ![](hact7.png)  
 
-### [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)  
+## [**Entrada del activo desde OFAC**](http://docs.oasiscom.com/Operacion/erp/activos/hbasica/hact#entrada-del-activo-desde-ofac)  
 
 Desde la aplicación OFAC se hace el ingreso del activo cuando se compra.  
 
@@ -70,18 +70,18 @@ Una vez procesado, el sistema genera un consecutivo que se le asigna al activo f
 
 (Para ver el proceso completo de la entrada del activo por OFAC, favor remitirse a: [**OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac))
 
-Después de procesado el ingreso y validada la contabilización, se entra a la aplicación HACT para completar la hoja de vida del activo fijo que acabamos de comprar.  Se ingresa con el número de consecutivo que asignó el sistema
+Después de procesado el ingreso y validada la contabilización, se entra a la aplicación HACT para completar la hoja de vida del activo fijo que acabamos de comprar.  Se ingresa con el número de consecutivo que asignó el sistema.  
 
 ![](hact10.png)
 
-En el maestro se escriben los datos dependiendo del activo que sea, por ejemplo, si es un vehículo, si es un activo intangible, si es un inmueble o si es un mueble y enser
+En el maestro se escriben los datos dependiendo del activo que sea, por ejemplo, si es un vehículo, si es un activo intangible, si es un inmueble o si es un mueble y enser.  
 
 ![](hact11.png)
 ![](hact12.png)
 ![](hact13.png)
 ![](hact14.png)
 
-En la parte inferior o detalle, vemos características de depreciación, podemos escribir si se deprecia o no y qué clase de depreciación tiene; estos datos los toma el sistema de la parametrización del grupo contable
+En la parte inferior o detalle, vemos características de depreciación, podemos escribir si se deprecia o no y qué clase de depreciación tiene; estos datos los toma el sistema de la parametrización del grupo contable.  
 
 ![](hact15.png)
 
@@ -95,5 +95,5 @@ Finalmente, se guarda el registro.
 
 Después de este proceso, se ingresa a la aplicación HSSP para validar los saldos del activo.
 
-(Para conocer el proceso de validación de los saldos de activos, favor remitirse a: [**HSSP - Saldos por periodo**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp))
+Para conocer el proceso de validación de los saldos de activos, favor remitirse a: [**HSSP - Saldos por periodo**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp)
 

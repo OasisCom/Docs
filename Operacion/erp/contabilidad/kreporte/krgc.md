@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Ganancias y Pérdidas por Centro Costo - KRGC
+# Ganancias y Pérdidas por Centro Costo - KRGC
 
 Genera el reporte de ganancias y pérdidas según el centro de costo que se consulte.  
 

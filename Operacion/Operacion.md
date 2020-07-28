@@ -55,38 +55,41 @@ A continuación se realizará la explicación de la operatividad básica del sis
 19. [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)  
 20. [Visualización de adjuntos](http://docs.oasiscom.com/Operacion/#visualizaci%C3%B3n-de-adjuntos)  
 21. [Control de Adjuntos](http://docs.oasiscom.com/Operacion/#control-de-adjuntos)  
-21. [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)  
-22. [Vista zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)  
-23. [Creación de cliente mediante zoom](http://docs.oasiscom.com/Operacion/#creaci%C3%B3n-de-cliente-mediante-un-zoom)  
-24. [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)  
-25. [Vista formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)  
-26. [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)  
-27. [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)  
-28. [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-autom%C3%A1ticos)  
-29. [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)  
-30. [Envío de correo electrónico OasisCom](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-correo-electr%C3%B3nico-oasiscom)  
-31. [Envío de reportes por correo electrónico](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-reportes-por-correo-electr%C3%B3nico)  
-32. [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)  
-33. [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)  
-34. [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)  
-35. [Fijar pestañas](http://docs.oasiscom.com/Operacion/#fijar-pesta%C3%B1as)  
-36. [Foro](http://docs.oasiscom.com/Operacion/#foro)  
-37. [Temas](http://docs.oasiscom.com/Operacion/#temas)  
-38. [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)  
-39. [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)  
-39.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
-39.2 [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)  
-39.3 [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)  
-39.4 [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)  
-39.5 [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opci%C3%B3n)  
-39.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
-40. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
-41. [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
-42. [Adjuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
-43. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
-44. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
-45. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
-46. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
+22. [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)  
+23. [Vista zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)  
+24. [Creación de cliente mediante zoom](http://docs.oasiscom.com/Operacion/#creaci%C3%B3n-de-cliente-mediante-un-zoom)  
+25. [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)  
+26. [Vista formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)  
+27. [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)  
+28. [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)  
+29. [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-autom%C3%A1ticos)  
+30. [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)  
+31. [Envío de correo electrónico OasisCom](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-correo-electr%C3%B3nico-oasiscom)  
+32. [Envío de reportes por correo electrónico](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-reportes-por-correo-electr%C3%B3nico)  
+33. [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)  
+34. [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)  
+35. [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)  
+36. [Fijar pestañas](http://docs.oasiscom.com/Operacion/#fijar-pesta%C3%B1as)  
+37. [Foro](http://docs.oasiscom.com/Operacion/#foro)  
+38. [Temas](http://docs.oasiscom.com/Operacion/#temas)  
+39. [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)  
+40. [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)  
+40.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
+40.2 [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)  
+40.3 [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)  
+40.4 [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)  
+40.5 [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opci%C3%B3n)  
+40.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
+41. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
+42. [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
+43. [Adjuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
+44. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
+45. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
+46. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
+47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
+48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
+49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
+50. [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -98,12 +101,16 @@ En el explorador de internet se debe ingresar al siguiente link http://app.oasis
 Para ingresar a OasisCom primero debe crear una cuenta como se muestra a continuación:  
 
 **Nombre Usuario:** Correo electrónico.  
+**Pais:** Nacionalidad.  
 **Nombres y Apellidos:** Nombre completo de la persona que se registrará.  
+**Empresa:** Ente administrativo legalmente constituido.  
+**Telefono** Dispositivo movil, fijo extension.  
 **Contraseña:** Contraseña de su elección.  
+**Confirmar contraseña**: alfanumerico que incluya numero y/o mayusculas, por seguridad.  
 
 Dar clic en registro  
 
-![](Registro2.png)
+![](login.png)
 
 Al dar clic en registro, se abre la siguiente ventana
 
@@ -228,7 +235,7 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 #### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
 
-Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
+Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**Soporte - ASOP**](http://docs.oasiscom.com/Operacion/system/sacceso/asop). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**Monitoring Cases - ASEG**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).  
 
 ![](SOPORTE.png)
 
@@ -236,7 +243,7 @@ Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y
 #### [**Comentarios**](http://docs.oasiscom.com/Operacion/#comentarios)  
 
 
-Al dar click en la opción _Comentarios_ se abrirá la aplicación [**APQR - Comentarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/apqr.md), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
+Al dar click en la opción _Comentarios_ se abrirá la aplicación [**Comentarios - APQR**](http://docs.oasiscom.com/Operacion/system/sacceso/apqr), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
 
 ![](COMENTARIOS.png)
 
@@ -1421,6 +1428,114 @@ Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta po
     
     Si la consulta retorna mas de un registro, puede paginar la busqueda del registro que desea consultar.  
     
-    ![](jfac13.png)  
+    ![](jfac13.png)
+    
+## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
+
+Se requiere que la configuración presente en las grillas para personalización también esté presente en los zooms, sin afectar el funcionamiento de los mismos. La personalización tiene la misma función que en las grillas, de ocultar y mover los campos de la misma.  
+Los botones resaltados guardan o borran la personalización de cada uno de los zoom, por usuario.  
+
+![](zoom1.png)  
+
+Ocultar y mover columnas dentro de zoom.  
+
+![](zoom2.png)  
+
+Ocultar y mover los campos de la misma grilla.  
+
+![](zoom3.png)  
+
+Al entrar con otro usuario no muestra la personalización, ya que aplica unicamente por usuario.  
+
+## [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
+
+Para colocar los filtros tipo argument en exportadores dinámicos: el filtro funciona únicamente al realizar la consulta final del proceso de exportación dinámica, es decir al presionar el botón de aceptar en el **BINT**, al realizar la vista previa del exportador no se verá reflejado la aplicación del filtro; sino únicamente al exportar la información final.  
+
+Es necesario para los exportadores dinámicos que contengan configuración de registros tipo parámetro que los pinte previos a la visualización de los campos posibles a seleccionar.  
+Se modifica el desarrollo de exportación dinámica para que al tener parametrizado detalles tipo argument en el **BARC**, sean visibles y sirvan como filtro para la publicación en cuestión.  
+
+[imagen 1].  
+![](bint1.png)  
+Dicha parametrización se realiza por medio del **BARC**, en el detalle, con el tipo argument.  
+
+![](bint2.png)  
+
+Luego de tener la parametrización, se mostrará el filtro al inicio de la interfaz de la publicación asociada desde el **BINT** como se muestra en la imagen 1.  
+
+Una vez realizada la consulta preliminar en el exportador dinámico con el botón execute query, se muestra una grilla, y para la exportación final de los datos se presionará el botón aceptar. en este momento es que los filtros mostrados y parametrizados desde el **BARC** como arguments toman efecto en la consulta final.  
+
+![](bint3.png)  
+
+**NOTA:**Se agrega funcionalidad de filtros a exportador dinámico, basado en parametrización de argument en BARC, sustitución de variables y creación de filtros. definición de origen de datos con funciones o querys.  
+
+![](bint4.png)  
+
+![](bint5.png)  
+
+![](bint6.png)  
+
+![](bint7.png)  
+
+Al ejecutar aceptar y ejecutar, se dará como resultado el archivo con los datos en el formato seleccionado. y con esto se concluye el funcionamiento del exportador dinámico.  
+
+* Desde esta interface podemos extraer información de Cartera financiera.  
+Se crea nueva interface BINT 23, para el proceso de cartera financiera, tomando la información del CCRE, donde podrá ver reflejado la información de los clientes para las cuentas 1615% a corte de mes.  
+
+![](bint8.png)  
+
+Formato aseguradora, para el proceso de cartera financiera.  
+
+
+## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
+
+Validamos la parametrizacion, para estos casos practicos, realizamos  y verificamos la parametrizacion de **BBAN** para las tipo A.  
+Ingresamos al programa  **SCAM**.  
+
+![](scam.png)  
+
+A continuacion en verde se muestran las llaves que siempre deben de tener este valor y en rojo las que son para cada cas, primero evaluaremos los de los tipos rdlc .  
+
+![](scam1.png)  
+
+Ingresamos al **BBAN** para verificar la previa,  
+
+![](bban1.png)  
+
+El sistema debe de respetar las vistas previas parametrizadas en  SPRO,  si en el **SCAM** no tiene vistas previas parametrizadas, el va y busca en el **SPRO**, primero **SCAM** luego **SPRO**.   
+
+![](spro1.png)  
+
+Para levantar este formato, dejamos Inhabilitado la parametrizacion del **SCAM**.  
+
+![](bban2.png)  
+
+* **Para el ejemplo de las ventanas tipo B, tenemos la siguiente parametrizacion:**  
+
+Ingresamos al **ACON**.  
+Esto para ver la parametrizacion que es necesaria.  
+
+![](scam2.png)  
+y el query que requiere los tipo template:  
+
+![](scam3.png)  
+
+![](spro2.png)  
+
+validamos la vistra previa del **ACON**.  
+
+![](acon.png)  
+
+Para levantar el reporte rdlc , deshabilitamos el check.
+
+![](scam4.png)  
+
+![](acon2.png)  
+
+
+
+
+
+
+
 
 

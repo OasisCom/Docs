@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/freporte/fruc
 editable: si
 ---
 
-# Rentabilidad por Cliente
+# Rentabilidad por Cliente - FRUC
 
 Este reporte genera la rentabilidad por los diferentes clientes ya que dependiendo de las políticas de la empresa existen diferentes tipos de precios para los clientes donde el volumen puede jugar un factor importante en la determinación de la utilidad o rentabilidad de dicha relación comercial.
 

@@ -7,7 +7,20 @@ editable: si
 
 # Facturas - FFAC
 
-La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
+La función de facturación en las empresas es uno de los ejes principales de su actividad comercial, por ello de esta aplicación y su funcionamiento depende en gran parte el desempeño de la empresa. 
+
+>+ [Pestaña Detalle](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-detalle)
+>+ [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
+>+ [Pestaña Contabilización](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización)  
+>+ [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización-resumida) 
+>+ [Cómo realizar una factura de venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#cómo-realizar-una-factura-de-venta)
+>+ [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
+>+ [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)  
+>+ [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)
+
+
+
+Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
 
 Cuando se procesa un documento de facturación de ventas y este tiene retención de ICA (RIC), el sistema llevará el dato de la ubicación geográfica a la tabla de contabilización. Se debe tener en cuenta que para esto la retención de ICA va a aplicar por dirección en el documento FC o el que corresponda para factura de venta.  
 
@@ -68,8 +81,13 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Unidad medida:** Unidad de medida del producto.  
 **Bodega:** Código de la bodega que hizo el despacho de los productos incluidos en la factura.  
 
-![](ffac5.png)
+![](ffac5.png)  
 
+Se adecua la funcionalidad de facturación en bloque, esto se verá reflejado al asociar los TI X DS en el detalle del FFAC por medio del zoom de bodega “Facturación x Bloque”.  
+
+![](detalle1.png)  
+zoom.
+![](zoom1.png)  
 
 **Localización:** Código de la localización (sección de la bodega) donde estaban ubicados los productos.  
 **Característica:** Código de la característica que se puede atribuir al producto si aplica.  
@@ -80,9 +98,22 @@ Listado de productos facturados con sus cantidades y precios. Totales en cantida
 **Pedido:** Compuesto por dos campos donde indica la ubicación y número del pedido que origino la transacción.  
 **Proyecto:** Parametrizacion que se realiza en basico de proyectos **[BPRY]**.  
 
-Al final del detalle se totaliza las cantidades y valor bruto de los productos facturados, estos valores son calculados a medida que se incluyen nuevos renglones o productos.
+Al final del detalle se totaliza las cantidades y valor bruto de los productos facturados, estos valores son calculados a medida que se incluyen nuevos renglones o productos.  
 
-La opción importar archivo facilita la digitación de los productos y cantidades que componen el detalle mediante la importación (traída) o lectura de un archivo en Excel que los contenga.
+La opción importar archivo facilita la digitación de los productos y cantidades que componen el detalle mediante la importación (traída) o lectura de un archivo en Excel que los contenga.  
+
+**Saldos:**  
+clic derecho sobre el campo producto,  aparece la siguiente ventana:  
+
+ ![](ffac25.png) 
+
+posterior abre el siguiente zoom de seleccion:  
+
+  ![](ffac26.png)
+
+
+* Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda.  
 
 ## [Pestaña Pago](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-pago)
 
@@ -146,17 +177,42 @@ La pestaña de Contabilización permite visualizar la contabilización que reali
 **Amortizar periodos:** Cantidad de periodos de amortización.  
 **Amortizado:** Valor amortizado.  
 
-## [Pestaña Contabilización Resumida]  
+## [Pestaña Contabilización Resumida](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#pestaña-contabilización-resumida)  
 
 Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
 
-![](ffac21.png)
+![](ffac21.png)  
 
-# [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
+## [Cómo realizar una factura de venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#cómo-realizar-una-factura-de-venta)  
+
+Se ingresa a la aplicación y se adiciona un nuevo registro (+).  En el campo **_Documento_** se selecciona a través del Zoom la opción **_FC_** que se refiere a Factura de Venta, en el campo **_Concepto_** se selecciona también **_FC_** Factura Cliente que hacen referencia a lo mismo, en el campo **_Motivo_** se escribe Cero (0), en el campo **_tercero_**, se diligencia el documento de la persona a quien se realiza la venta, el cual ya debe estar parametrizado en la aplicación **Terceros - BTER**, en el campo **_Condición de pago_** se encuentra una lista desplegable con las diferentes condiciones de pago; estas deben estar parametrizadas con anterioridad en la aplicación **Condiciones de pago - BCND**.  A continuación, aparece otro campo llamado **_TipoPrecio_** también con una lista desplegable, este campo funciona igual que el anterior y debe estar previamente parmetrizado en la aplicación **Tipos de precio - FBTP**.  Diligenciado por completo el registro, se guarda.  
+
+![](ffac27.png)
+
+Ahora, se crea el detalle.  Se agrega un nuevo registro (+).  En el campo **_Producto_** se abre el zoom y se elige el producto que se va a vender (producto que ya debe estar parametrizado en la aplicación **Productos - BPRO**, al dar tab, el sistema trae automáticamente el nombre del producto, en el campo **_Cantidad_** se diligencia la cantidad que se va a vender, en el campo **_Precio_**, el precio (que ya debe estar parametrizado en la aplicación **Precios - FPRE**, se guarda el registro.  Ahora se procesa la factura de venta.  Los campos **_Impuesto_** (se diligencia de acuerdo con la parametrzación en **Productos - BPRO** y **_Total_** se diligencian automáticamente.  
+
+![](ffac28.png)  
+
+![](ffac29.png)  
+
+
+Luego, se ingresa a la aplicación **Consulta de facturas - FFCF** para consultar la factura realizada anteriormente con el mismo número y Documento de la factura.
+
+![](ffcf3.png)  
+
+
+Finalmente se verifica la salida del producto que se está facturando.  Esto se hace ingresando a la aplicación **Kárdex por Ubicación - ICKU**.  Aquí, se consulta por el número de consecutivo del producto.
+
+
+![](icku2.png)  
+
+
+
+## [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 
 Este proceso permite enlazar en la opción **FFAC** los documentos de las exportaciones _XEXP_ para así poder terminar con el ciclo de la exportación.  
 
-Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicaicón FFAC para así ser facturado.  
+Cuando se tiene un documento _EX - Exportaciones_ en estado _Procesado_ o _Activo_, y algún renglón en el detalle está procesado, se podrá asociar dicho documento **EX** a un documento **FA** en la aplicación FFAC para así ser facturado.  
 
 Documento EX en estado Activo con renglón en el detalle Procesado.  
 
@@ -191,7 +247,7 @@ Al procesar la factura, se podrá visualizar la actualización de las exportacio
 
 ![](ffac11.png)
 
-# [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
+## [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)
 
 Al generar una factura de venta se debe asignar una moneda con la cual se realizará la transacción. A dicha moneda, es posible parametrizarle el grupo de cuentas contables de las cuales dependerá. Las monedas se parametrizan en la aplicación [**BMON - Monedas**](http://docs.oasiscom.com/Operacion/common/bfinan/bmon).  
 
@@ -213,4 +269,38 @@ Podemos ver que la moneda 0 tiene asignado el grupo de cuentas 0. A continuació
 
 Este proceso también aplica para las facturas por compras, en donde el código de consulta será _CXP_ correspondiente a cuentas por pagar.  
 
-![](bgru1.png)
+![](bgru1.png)  
+
+
+## [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)   
+
+Para realizar el proceso de Devolución de una Factura de Venta, primero se realiza la factura de Venta como ya se había indicado con **_Documento: FC_**, **_Ubicación: 1_**, **_Concepto: FC_**, relacionando también **_Cliente_**, **_Condición de Pago_** y demás características ya explicadas arriba para este documento. Se guarda el maestro y en el detalle, se relaciona el producto digitando el código si se conoce, o dando click derecho y eligiendo la opción _Ver Saldo por Ubicación_ y en este Zoom se filtran todos los productos que se necesiten y que tengan cantidad disponible para facturar, se adiciona el registro y aparece la cantidad correcta en el detalle.  Luego, se procesa el documento.  La devolución se realiza a través de esta misma aplicación pero con **_Documento_** y **_Concepto_** diferentes.  Se debe tener en cuenta el número de la factura y la Ubicación.  
+
+![](ffac30.png)  
+
+Se adiciona un nuevo registro (+) y en el campo **_Documento_**, se coloca la opción **_DV_** de Devolución Venta, en el campo **_Ubicación_** se coloca la misma ubicación de la factura a la que le vamos a realizar la devolución, en el campo **_Concepto_** también se coloca **_DV_** de Devoluciones, en el campo **_Tercero_** el mismo cliente de la factura de la que se va a realizar la devolución:  
+
+![](ffac31.png)  
+
+En la parte inferior, en los campos **_Documento1_**, **_Ubicación1_** y **_Número1_**, se relaciona la factura a la que se le va a realizar la nota crédito o devolución.  En **_Documento1: FC_**, **_Ubicación1: 1_**, en **_Número1_** se escribe el número de la factura sin espacios o darle click en el Zoom y buscarla y se guarda el registro.  
+
+![](ffac32.png)
+
+En la pantalla ya aparece el registro de la factura y el de la devolución con el mismo detalle de la factura:  
+
+![](ffac33.png)  
+
+En el campo **_Cantidad_** del detalle se selecciona si se va a realizar la devolución por todas las unidades facturadas o por menor cantidad:  
+
+![](ffac34.png)  
+
+Para este ejemplo, se hace por la misma cantidad facturada.  Se guarda el registro del detalle y enseguida se procesa.  
+
+![](ffac35.png)  
+
+![](ffac36.png)  
+
+
+Posteriormente, se puede validar en la aplicación **Saldos por Localización - ISPL** o algún reporte que muestre los _Saldos de Inventario_, si efectivamente la devolución quedó correcta.  Ingresamos a la aplicación **ISPL**, colocamos los datos de **_Periodo_**, **_Producto_** y **_Ubicación_** y nos muestra las _Entradas_, _Salidas_ y el _Saldo en Cantidad de Unidades_. 
+
+![](ffac37.png)

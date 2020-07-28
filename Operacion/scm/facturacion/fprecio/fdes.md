@@ -1,13 +1,27 @@
 ---
+
 layout: default
 title: Precios
 permalink: /Operacion/scm/facturacion/fprecio/fdes
 editable: si
+
 ---
 
 # Descuentos - FDES
 
 Permite registrar los descuentos comerciales establecidos con los clientes.
+
+* [Parametrización liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-liquidación-por-vencimiento)
+* [Motor de Promociones](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#motor-de-promociones)
+* [Descuento en Valor](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-valor)
+* [Obsequios](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#obsequios)
+* [Descuento en Precio](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-precio)
+* [Descuento en Porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-porcentaje)
+* [Descuento por volumen en porcentaje](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-por-volumen-en-porcentaje)
+* [Descuento por volumen en valor](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-por-volumen-en-valor)
+* [Descuento en porcentaje con control de cantidad](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#descuento-en-porcentaje-con-control-de-cantidad)
+* [Parametrización fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-fidelización-de-clientes)
+
 
 ![](fdes1.png)
 
@@ -160,7 +174,8 @@ Se debe tener en cuenta que si el estado del descuento es **INACTIVO** (opción 
 
 ![](fdes20.png) 
 
-## [OBSEQUIOS]  
+## [Obsequios](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#obsequios)
+
 Para el escenario donde se entrega el producto como tipo obsequio, se debe de parametrizar el **FBTD** tipos de descuento. Para los conceptos que son tipo de escala (aplica para varios obsequios) y unico (exclusivo obsequio), como se ilustran los campos; el sistema solo permitira un solo registro de regalo de todos los que se configuren en el programa **FDES.**  
 
 ![](fdes150.png)  

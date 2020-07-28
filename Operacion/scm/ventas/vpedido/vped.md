@@ -5,14 +5,23 @@ permalink: /Operacion/scm/ventas/vpedido/vped
 editable: si
 ---
 
-# Menú
-
-- [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Ver-Saldo-Por-Ubicación)
+# Pedidos - VPED
 
 
-# VPED - Pedidos
+Esta aplicación contiene una pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa.
 
-Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa. Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
+
+>+ [**Consultas dinámicas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
+>+ [**Verificación de Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
+>+ [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
+>+ [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
+>+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
+>+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
+>+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura) 
+
+
+
+Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
 ![](vped1.png)
@@ -156,7 +165,7 @@ El botón **info_ventas** en el detalle de la opción _VPED_, permite visualizar
 
 ![](vped14.png)
 
-## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped)
+## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)
 
 Esta función permite ver el saldo por ubicación del detalle de un producto en especifico.
 
@@ -166,9 +175,47 @@ Para ver esta información se debe dar clic derecho sobre el detalle del product
 
 Se visualiza la siguiente ventana:
 
-![](vped54.png)
+![](vped55.png)
+
+* Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda. 
 
 
+##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
 
+Para conocer el proceso completo, por favor diríjase a: [Cómo relacionar un pedido a una cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización) en **VCOT**   
+
+
+##  [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)   
+
+Ingresamos a la aplicación **Pedidos - VPED**.  En esta aplicación se consulta el pedido por cualquier campo que se desee.  Cuando ya se tenga el registro, se va al campo **_Status_**; para poder realizar la factura, se debe liberar la retención del pedido, para esto, se consulta la aplicación **Pedidos retenidos - COPR**, aquí también se puede consultar por cualquiera de los campos.  En esta aplicación se encuentran 6 botones idénticos pero todos tienen una función diferente: el primer botón **_Libera Cartera_**, el segundo **_Devuelve cartera_**, el tercero **_Rechaza cartera_**, el cuarto **_Libera comercial_**, el quinto **_Devuelve comercial_** y el sexto **_Rechaza comercial_**.  Como el pedido en este caso tiene el Status **_Libera comercial_**, se elige este botón, al seleccionar esta opción, desaparece el registro.  
+
+![](vped56.png)  
+
+![](vped57.png)  
+
+![](vped58.png)  
+
+![](vped59.png)  
+
+![](vped60.png)  
+
+
+Ahora se regresa al pedido en la aplicación **Pedidos - VPED**, se refresca la aplicación y el Status cambia a **_Pendiente por despacho_**, es decir que ya quedó liberado del _Retenido por comercial_, cabe aclarar que esta _Retención_ es parametrizable, en este caso depende totalmente de la empresa y de la parametrización que esta tenga; si la empresa no tiene ningún tipo de _Retención_ parametrizada, se puede omitir este paso.  
+
+![](vped61.png)  
+
+
+Ahora se procede a crear la factura.  Para esto, se ingresa a la aplicación **Facturas - FFAC** y se adiciona un nuevo registro (+), se diligencia el campo **_Documento_** donde mediante el Zoom se puede elegir la opción **_FC_** de Factura de ventas, **_Ubicación Cero (0)_** y en el **_Concepto_** también se elige la opción **_FC_** Factura Clientes, campo **_Motivo Cero(0)_** y en el campo **_Tercero_** se le elige el mismo tercero con el que se realizó el pedido.  
+
+![](vped62.png)  
+
+
+En este momento se pasa a relacionar la Factura con el Pedido.  Este proceso es exactamente igual al de Relacionar una Cotización con un Pedido: se diligencia el campo **_Documento1_** (se verifica el documento del pedido en **Pedidos - VPED**, luego, el campo **Ubicación1_** que también se verifica en **Pedidos - VPED_**; diligenciados estos dos campos, se abre el Zoom en el campo **_Número1_** y se selecciona el Pedido realizado.  Diligenciados estos campos, se guarda el registro.  Y finalmente, se procesa la Factura.  En este momento se puede apreciar que el proceso fue satisfactorio.  
+
+![](vped63.png)  
+
+
+![](vped64.png)
 
 

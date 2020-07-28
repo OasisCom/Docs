@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Reportes de Presupuesto de Tesoreria
+title: Reportes de Presupuesto
 permalink: /Operacion/erp/presupuesto/qtreporte/
 editable: si
 ---
 
-# REPORTES DE PRESUPUESTO DE TESORERIA
+# Reportes de Presupuesto 
 

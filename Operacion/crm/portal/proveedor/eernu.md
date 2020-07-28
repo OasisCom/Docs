@@ -5,7 +5,7 @@ permalink: /Operacion/crm/portal/proveedor/eernu
 editable: si
 ---
 
-# EERNU - Aplicación Consulta de Notificación de Urgencia
+# Consulta de Notificación de Urgencia - EERNU
 
 Por medio de la aplicación **EERNU** podemos consultar, las notificaciones de urgencia generadas en la aplicación [**EENOU - Solicitud de Autorizaciones Hospitalarias.**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou)  
 

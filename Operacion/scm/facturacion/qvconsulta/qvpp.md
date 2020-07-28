@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvpp
 editable: si
 ---
 
-# Point of Sale - Product - QVPP
+# Punto de Venta Producto - QVPP
 
 La aplicación **QVPP** – Punto de venta – Producto, permite ver la información relacionada entre la ubicación, que es el punto de venta, y el producto facturado. Arroja la cantidad de productos facturados a cada ubicación y el valor total de facturación. Igualmente, en caso de devolución muestra las cantidades devueltas y el valor total de dicha devolución.
 

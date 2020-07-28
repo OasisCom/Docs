@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/imovimient/iprp
 editable: si
 ---
 
-# IPRP - Remisiones Pendientes.  
+# Remisiones Pendientes - IPRP
 
 Se crea opcion tipo B, donde se listan las remisiones pendientes posee la funcionalidad de terminarlas a nivel general o por item registrado en la remision. 
 En esta aplicación permite dar por terminada a nivel general o por items las remisiones pendientes.  

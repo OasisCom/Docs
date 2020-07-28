@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/freporte/frcv1
 editable: si
 ---
 
-# FRCV1 - Costo de Ventas por Clasificación
+# Costo de Ventas por Clasificación - FRCV1
 
 Reporte de facturación, permite realizar filtros por clasificación, marca, ubicación; totaliza costos agrupados por clasificación.  
 filtros de consulta:  
@@ -25,7 +25,6 @@ Este informe detalla el costo de venta unitario y total; discrimina el valor del
 ![](frcv12.png)
 
 
-***********
 
 
 

@@ -5,9 +5,9 @@ permalink: /Operacion/erp/activos/hreporte/hrpa
 editable: si
 ---
 
-# [**HRPA - Balance de Prueba Ajustado**](http://docs.oasiscom.com/Operacion/erp/activos/hreporte/hrpa)
+# Balance de Prueba Ajustado - HRPA 
 
-La aplicación **HRPA** arroja un reporte de saldos en esquema multi libro con la información del módulo de activos fijos. Se observará la información tanto para Libro Local como para IFRS y las diferencias encontradas.  
+La aplicación **HRPA** arroja un reporte de saldos en esquema multi libro con la información del módulo de activos fijos. Se observará la información tanto para Libro Local como para **IFRS** y las diferencias encontradas.  
 
 Se realiza el filtro por periodo y año.  
 

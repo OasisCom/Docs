@@ -6,7 +6,7 @@ editable: si
 ---
 
 
-# **ETER** - Prestadores  
+# Prestadores - ETER
 
 >+ [Detalle de la aplicación ETER - Prestadores](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/conpre/eter#detalle-de-la-aplicación-eter---prestadores)
 

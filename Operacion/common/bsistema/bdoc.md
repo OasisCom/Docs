@@ -9,7 +9,7 @@ editable: si
 
 
 
-# BDOC - Documentos
+# Documentos - BDOC
 
 Todo el sistema y los módulos basan su operación en una serie de documentos que facilitan la operación y con los cuales se realiza el control de cada uno de los pasos que se llevan a cabo en el sistema.
 
@@ -23,6 +23,8 @@ Todo el sistema y los módulos basan su operación en una serie de documentos qu
 >+ [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
 >+ [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
 >+ [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
+>+ [**Parametrización Proceso de Costeo**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-de-costeo)
+
 
 Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  
 
@@ -282,3 +284,8 @@ En el **BCON,** se crea el concepto LM con nombre *LMA.*
 
 ![](Imagen 3 bdoc..png)
 
+## [**Parametrización Proceso de Costeo**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-de-costeo)
+
+En esta aplicación se debe activar el flag promedio de los documentos que deben afectar el costo del producto. 
+
+![](costeo1.png)

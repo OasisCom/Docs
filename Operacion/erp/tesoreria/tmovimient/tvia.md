@@ -5,13 +5,13 @@ permalink: /Operacion/erp/tesoreria/tmovimient/tvia
 editable: si
 ---
 
-## TVIA - Formato Solicitud Itinerario y Viáticos 
+# Formato Solicitud Itinerario y Viáticos -  TVIA
 
 
 Aplicación de movimientos, donde se registran solicitudes de itinerario y viajes y legalizaciones de estos.  
 Contablemente sus contrapartidas son cartera contra el gasto. En las legalizaciones se detallan los diferentes conceptos como: alimentación, tiquetes, hotel, trasportes etc. tipo débitos contra el gasto.  
 
-No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACION**.
+No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACIÓN**.
 
 >+ [BDOC Documentos Viáticos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
 >+ [Parametrización características - Legalización Viáticos](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)

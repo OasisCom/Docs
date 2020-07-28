@@ -5,11 +5,11 @@ permalink: /Operacion/system/sconfig/scam
 editable: si
 ---
 
-# SCAM - Campos
+# Campos - SCAM
 
 La aplicación SCAM permite la configuración de reglas de negocio, control, tipos de campos y su obligatoriedad por empresa.  
 
-### Parametrizar nueva restricción
+## Parametrizar nueva restricción
 
 Para parametrizar una nueva restricción, es necesario diligenciar el _programa_, el _tab_ al cual pertenece el campo (0 para el maestro y para los detalles el RowId de la parametrización del spro), el _nombre del campo_ (con la ayuda del comando Shift + F11), el _código del lenguaje_ (1 Inglés, 2 Español y 5 Portugues).  
 
@@ -29,19 +29,19 @@ En el campo **"customValidators"** se debe agregar una lista de condiciones lóg
 
 Si se desea hacer una validación de longitud de una cadena, se deben utilizar las funciones "maxLength(value, N)" y "minLength(value, N)" donde N es la longitud que será validada. Adicionalmente, se pueden validar expresiones regulares por medio de la función "evaluateRegex(pattern, value)" donde pattern es la expresión regular que será validada.  
 
-### Parametrizar restricciones maestro tipo A y B
+## Parametrizar restricciones maestro tipo A y B  
 
-![](scam2.png)
+![](scam2.png)  
 
 En la aplicación BBAN:  
 
-![](scam3.png)
+![](scam3.png)  
 
 El error parametrizado se mostrará al momento de guardar si no se cumple alguna de las condiciones parametrizadas.  
 
-![](scam4.png)
+![](scam4.png)  
 
-### Parametrización "alertas en mensajes de control", en maestros tipo C. 
+## Parametrización "alertas en mensajes de control", en maestros tipo C. 
 
 Desde la opción campos **SCAM** se establece la parametrización en la columna: Tipo, como CONSULTA REQUERIDO según sea el programa. El sistema lanzara un mensaje de control, para que el usuario establezca los filtros de búsqueda.  
 
@@ -63,7 +63,7 @@ Y el proceso finaliza con la validacion, al entrar al TMOV y al aplicar una cons
 ![](scam47.png)  
 
 
-### Parametrización restricciones maestros tipo C
+## Parametrización restricciones maestros tipo C
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
 
@@ -77,7 +77,7 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ![](scam7.png)
 
-### Parametrización detalles opciones tipo B y C
+## Parametrización detalles opciones tipo B y C
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
 
@@ -91,7 +91,7 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ![](scam10.png)
 
-### Parametrización Zoom
+## Parametrización Zoom
 
 Ingresamos a la aplicación SCAM y realizamos los cambios deseados.  
 
@@ -107,7 +107,7 @@ El error parametrizado se mostrará al momento de guardar en caso tal que no se 
 
 ![](scam14.png)
 
-### [Parametrizar Valores por Defectos](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrizar-valores-por-defectos)
+## [Parametrizar Valores por Defectos](http://docs.oasiscom.com/Operacion/system/sconfig/scam#parametrizar-valores-por-defectos)
 
 Esta nueva funcionalidad permite declarar valores por defecto sobre campos (Listas, Fechas, Flags, etc) de aplicaciones de parametrización básica sin detalle como lo son: BBAN, BCOL. También para aplicaciones de parametrización que contengan detalle, como: BPRO, BTER, BDOC, BUBI, entre otras. Igualmente, para aplicaciones de movimientos o transacciones como lo son: CMOV, TMOV, KMOV, etc.  
 
@@ -174,7 +174,7 @@ Después de realizar la parametrización, al crear un registro el campo aparecer
 ![](scam25.png)
 
 
-### [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
+## [Mensajes de error en tiempo de edición](http://docs.oasiscom.com/Operacion/system/sconfig/scam#mensajes-de-error-en-tiempo-de-edición)
 
 Esta funcionalidad permite enseñar mensajes de error en los campos previamente parametrizados, mientras se esté editando un registro y no solamente cuando se de click en el botón _Guardar_.
 
@@ -277,4 +277,100 @@ Al abrir la opción (en este caso la ERRCL - Certificado Laboral) la aplicación
 
 Para generar el reporte _ERRCL - Certificado Laboral_, se debe parametrizar en el _SPER - Perfil_ el tercero de un documento existente en la opción _NCNT - Contratos_.  
 
-![](scam38.png)
+![](scam38.png)  
+
+---  
+
+#LISTAS Y BLOQUEO DE PARAMETROS POR MEDIO DE SCAM PARA PROCESOS ESPECIALES.  
+
+1.- En **SPRO**, actualmente se parametrizan las listas, valores por defecto y bloque de los campos para procesos especiales, con el nuevo desarrollo, esa parametrización queda igual, pero se le suma la parametrización del SCAM como se explica a continuación:  
+
+- La parametrización se divide en 2 partes:  
+
+•	La primera para las listas del proceso especial, estas listas pueden definirse de 2 formas, la primera mediante una consulta a la base de datos (Query) definida en el campo QUERYSQL del **SCAM**, la cual debe tener únicamente 3 campos; el valor a enviar como parámetro, el texto a mostrar en la lista, y el nombre del parámetro que tomara estos datos, dicho nombre del parámetro debe ir en minúscula. La segunda forma para definir una lista es utilizando el **BCRC**, se crea un maestro **BCRC** con el programid del proceso especial y a dicho maestro se le definen en el detalle todos los datos de los campos que se van a manejar para el proceso especial, es decir, que si en el proceso especial hay 2 campos tipo lista, en el **BCRC** se definirán los valores que se tomaran en ambos campos. Para el **BCRC**, la parametrización tomada son los 3 campos del detalle: código, nombre característica y nombre característica 1, los cuales definen el valor a enviar, el nombre en el listado y el nombre del parámetro que tomara el dato.	
+
+
+•	La segunda parte de la parametrización en **SCAM**, es para los bloqueos de campos, Zooms y Valores por defecto, dicha parametrización es por campos independientes, es decir, un registro en el **SCAM** por cada campos que se requiera parametrizar. En esta definición, simplemente se crea el registro en **SCAM** con el nombre del campo, igual que como se define en el **SPRO**, con su valor por defecto, check de habilitación, y nombre del zoom que tomara, de ser requerido.  
+
+
+Luego de hacer la parametrización en **SCAM**, no se requiere salir de la aplicación para ver los cambios, pues el proceso especial verifica los datos, cuando va a abrir nuevamente la opción.  
+Solo se requiere salir de la sesión actual, si se realizan cambios en el **SPRO**.  
+PARAMETROS EN SCAM PARA EL APEM.   
+![](scam50.png)  
+
+Muestra de la funcionalidad en **APEM**  
+![](scam51.png)  
+
+Muestra del **APEM** antes de aplicar la funcionalidad.  
+![](scam52.png)  
+Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido en **SCAM**.   
+
+![](scam53.png)   
+
+
+##Parametrización botón tipo consulta genérica desde SCAM.  
+
+Se realiza mejora sobre el botón tipo consulta genérica  
+ARGUMENTO = js_InformationControl  
+Se muestra parametrización realizada desde el **SPRO**  
+![](spro1.png)   
+Se muestra parametrización en el detalle  
+Se resalta los campos argumento y datos  
+![](spro2.png)   
+**Hasta aca la parametrización desde el SPRO**.  
+
+Nos ubicamos en el **SCAM**, sobre el mismo programa  
+ ![](scam48.png)   
+**TabId:** Se indica el Identificador el Tab donde se mostrará el botón. 													
+**FieldId:** Identificador del botón a crear, se puede colocar el indicador que uno desee.	
+
+**Idioma:** Se recomienda dejar un único lenguaje para este tipo de botones.		
+**Descripción:** Hace referencia al campo argumento que se tiene en el **SPRO.**		
+**Defecto:** Se usa de igual manera que se usa en el **SPRO.**													
+**Condición:** Se hace referencia al campo Modelo del **SPRO.**	
+
+**ItemChange:** Se hace referencia al campo Vista del **SPRO.**		
+**Infocar:** Se toma coloca los campos de Argumento y Datos del ProgramDetailDetail en formato JSON. 
+
+ ![](scam49.png)   
+
+**QuerySQL:** Se coloca de igual manera como en el campo del **SPRO.**  
+**Tipo:** Se crea una opción "BOTON."   
+
+Ya configurado nos ubicamos en el **VPED**.  
+
+ ![](vped1.png)   
+ Vista anterior que se tenía sobre este tipo de botón.  
+ Se tenía una ventana de tipo alerta.  
+ La cual se cerraba automáticamente y no era fácil ver la información.   
+ 
+ ![](vped2.png)   
+ Actualmente se realiza el cambio sobre la ventana, para que este de manera fija.  
+ Esta ventana realiza paginación en caso se retorne más de un registro.  
+ ![](vped3.png)   
+Si se requiere que soporte alguna imagen, se debe tener en cuenta lo siguiente.    
+
+A nivel del query que se parametrice.  
+Tener como indicador del campo imagen con el siguiente alias.  
+
+IMAGE_CONVERT  
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
