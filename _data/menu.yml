@@ -1396,7 +1396,9 @@
               - text: Evaluaciones
                 url: /Operacion/hrm/rhumanos/rreporte/rrev
               - text: Evaluaciones detalladas
-                url: /Operacion/hrm/rhumanos/rreporte/rred                            
+                url: /Operacion/hrm/rhumanos/rreporte/rred
+              - text: Certificado de trabajo
+                url: /Operacion/hrm/rhumanos/rreporte/rrct                
         - text: Asistencia
           url: /Operacion/hrm/asistencia/
           subitems:
