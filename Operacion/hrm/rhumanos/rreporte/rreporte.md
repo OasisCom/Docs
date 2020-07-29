@@ -22,5 +22,6 @@ Algunas aplicaciones para reportes son:
 * [**Listado de Empleados - RREM**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rreporte/rrem)  
 * [**Empleados por Ubicación - RRUE**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rreporte/rrue)  
 * [**Evaluaciones - RREV**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rreporte/rrev)  
-* [**Evaluaciones Detalladas - RRED**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rreporte/rred)
+* [**Evaluaciones Detalladas - RRED**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rreporte/rred)  
+* [**Certificado de Trabajo - RRCT**](http://docs.oasiscom.com/Operacion/hrm/rhumanos/rreporte/rrct)  
 
