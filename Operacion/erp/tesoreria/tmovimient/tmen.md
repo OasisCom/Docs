@@ -5,7 +5,11 @@ permalink: /Operacion/erp/tesoreria/tmovimient/tmen
 editable: si
 ---
 
-# Caja Menor - TMEN
+# Caja Menor - TMEN  
+
+
+>+ [Proceso para crear la caja menor](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen#proceso-para-crear-la-caja-menor)  
+
 
 Esta opción permite administrar los gastos cotidianos de la empresa, para ello se realiza un movimiento de Caja Menor, mediante un documento **CM**. 
 
@@ -58,6 +62,43 @@ En el detalle del documento **CM** se relacionan los conceptos que han sido desi
 **Estado:** Estado de documento, activo, procesado, anulado.  
 **Motivo:** número que identifica un documento para casos especiales a nivel contable, se puede parametrizar los documentos por conceptos en la aplicación BDOC, los motivos se parametrizan desde la aplicación BPLA.  
 **Observación:** Referente al detalle del movimiento de la caja menor.  
+
+
+## [Proceso para crear la caja menor](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen#proceso-para-crear-la-caja-menor)  
+
+Se adiciona un nuevo registro (+) en el maestro.  En el campo _Documento_ se ingresa la opción **_CM_** de Caja menor, en el campo _Ubicación_ **_1_**, en el campo _Fecha_, el día que se le da apertura a la caja menor, en el campo _Concepto_ **_CM_** de caja menor, en el campo _Tercero_, a través del zoom, se busca a la persona responsable de la caja menor, en el campo _Observación_ colocamos el nombre de la caja menor o el destino para el cual va a ser utilizada y finalmente se da click en _Guardar_.  
+
+![](TMEN4.png)  
+
+![](TMEN5.png) 
+
+En el detalle, se adiciona un nuevo registro (+), en el campo _Fecha_, se coloca la fecha del soporte que se tiene para registrar en la caja menor, en el campo _Tercero_, mediante el zoom se busca el nombre del tercero correspondiente a la factura que se va a registrar, en el campo _Concepto_, para este ejemplo, **_PA_** que corresponde a papelería, en el campo _Naturaleza_ **_Débito_**, en el campo _Valor_, el valor correspondiente a la factura, en el campo _Centro de costo_, el que corresponda que también se busca mediante el zoom porque ya está previamente parametrizado, el campo _Negocio_, se llena de igual manera que el campo Centro de Costo, y en el campo _Observación_, se coloca el nombre del concepto o motivo de la compra.  Luego, se hace click en _Guardar_.
+
+![](TMEN6.png)  
+
+![](TMEN7.png)  
+
+![](TMEN8.png)  
+
+![](TMEN9.png)  
+
+![](TMEN10.png)  
+
+![](TMEN11.png)  
+
+Para hacer el registro del IVA, se realiza el mismo proceso; igual _fecha_, mismo _tercero_, _Concepto_ **_IV_**, se llena el campo _Base retención_, el mismo centro de costo y el mismo negocio y se da click en _Guardar_.  
+
+![](TMEN12.png)  
+
+Si se tienen más facturas por registrar, se registran de la misma forma y posteriormente se procesa el registro desde el maestro para confirmar la caja menor.  
+
+![](TMEN13.png)  
+
+En la parte inferior, en la pestaña _Contabilidad_, se puede ver el registro detallado de la transacción en relación a cuentas contables.  
+
+![](TMEN14.png)  
+
+Finalmente, se procede a realizar el reembolso de la _Caja Menor_.  
 
 
 

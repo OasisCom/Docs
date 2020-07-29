@@ -235,7 +235,7 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 #### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
 
-Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**ASOP - Soporte**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**ASEG - Monitoring Cases**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/asop.md).  
+Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**Soporte - ASOP**](http://docs.oasiscom.com/Operacion/system/sacceso/asop). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**Monitoring Cases - ASEG**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).  
 
 ![](SOPORTE.png)
 
@@ -243,7 +243,7 @@ Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y
 #### [**Comentarios**](http://docs.oasiscom.com/Operacion/#comentarios)  
 
 
-Al dar click en la opción _Comentarios_ se abrirá la aplicación [**APQR - Comentarios**](https://github.com/OasisCom/Docs/blob/master/Operacion/System/sacceso/apqr.md), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
+Al dar click en la opción _Comentarios_ se abrirá la aplicación [**Comentarios - APQR**](http://docs.oasiscom.com/Operacion/system/sacceso/apqr), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
 
 ![](COMENTARIOS.png)
 
@@ -1465,6 +1465,26 @@ Luego de tener la parametrización, se mostrará el filtro al inicio de la inter
 Una vez realizada la consulta preliminar en el exportador dinámico con el botón execute query, se muestra una grilla, y para la exportación final de los datos se presionará el botón aceptar. en este momento es que los filtros mostrados y parametrizados desde el **BARC** como arguments toman efecto en la consulta final.  
 
 ![](bint3.png)  
+
+**NOTA:**Se agrega funcionalidad de filtros a exportador dinámico, basado en parametrización de argument en BARC, sustitución de variables y creación de filtros. definición de origen de datos con funciones o querys.  
+
+![](bint4.png)  
+
+![](bint5.png)  
+
+![](bint6.png)  
+
+![](bint7.png)  
+
+Al ejecutar aceptar y ejecutar, se dará como resultado el archivo con los datos en el formato seleccionado. y con esto se concluye el funcionamiento del exportador dinámico.  
+
+* Desde esta interface podemos extraer información de Cartera financiera.  
+Se crea nueva interface BINT 23, para el proceso de cartera financiera, tomando la información del CCRE, donde podrá ver reflejado la información de los clientes para las cuentas 1615% a corte de mes.  
+
+![](bint8.png)  
+
+Formato aseguradora, para el proceso de cartera financiera.  
+
 
 ## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
 
