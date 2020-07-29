@@ -13,6 +13,10 @@ Al hacer click en _Generar_, aparece el consolidado.
 
 ![](rrct.png)  
 
-![](rrct1.png)
+![](rrct1.png)  
+
+Este reporte se puede exportar o imprimir  
+
+![](rrct2.png)
 
 
