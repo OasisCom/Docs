@@ -25,7 +25,8 @@ editable: si
 5.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
 5.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 5.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)  
-5.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)
+5.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)  
+5.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)
 6. [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)  
 7. [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
 7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)  
@@ -236,7 +237,48 @@ Una vez terminado el proceso, se accede a Oasiscom y se ingresa a la aplicación
 
 Para validar esta factura, se ingresa a la aplicación **Facturas de venta - EBFFAC** y se filtra por el número del documento.  Como se puede apreciar en la ilustración, ya está cargada la factura y el campo _Status dian_ aparece como **_Envío Exitoso_**.  
 
-![](ebportal102.png) 
+![](ebportal102.png)  
+
+### [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)  
+
+Los **On Premise** son clientes de Oasis que tienen el ERP, pero lo tienen en su instalación propia.  En este caso, se indicará cómo desde la instalación propia, se debe generar el proceso de facturación y cómo se hace el respectivo seguimiento.  
+
+![](ebportal103.png)
+
+Para esta ilustración, se está en una base **On Premise**.  Se crea una factura (+), la cual para el proceso de habilitación, como se explica en la parametrización, el _Documento_ es **_FC2_**, pero si fuera un proceso de producción, se usan los documentos que se tienen definidos para ello.  La _Ubicación_, por la que normalmente se generan las facturas.  Se llenan todos los datos pertinentes de la factura y finalmente se guarda.  
+
+![](ebportal104.png)  
+
+![](ebportal105.png)
+
+En el detalle, se adicionan los registros que se requieren y al final, se guarda.  
+
+![](ebportal106.png)  
+
+En este momento, si todo se encuentra correcto, cuando se confirma el documento, esta factura se debe visualizar en la plataforma de **Azure**.  
+
+![](ebportal107.png)  
+
+Al confirmarla, se verifica que efectivamente llegó a la plataforma de **Azure** y también a la DIAN.  Se entra a la plataforma de **Azure**, la cual se encuentra en app.oasiscom.com, sobre la misma empresa y se revisa en la aplicación **Facturas - EBFFAC** que la factura se encuentre cargada y enviada a la DIAN con éxito.  Se consulta con el mismo número y ahí se ve la factura con la misma información que se registró en el **On Premise** y en el campo _Stauts Dian_, aparece **_Envío exitoso_**.  
+
+![](ebportal108.png)  
+
+En la aplicación **Mailing-Lists(Listas de Correo) - SMEN**, se puede verificar el envío a los adquirientes, en el campo _Argumento_ se puede filtrar la factura  
+
+![](ebportal109.png)  
+
+En la pantalla, me muestra quién envió el correo, el destino al que se envía, asunto, y sus respectivos adjuntos.  En el campo _Status_, me muestra el estado de envío.  
+
+![](ebportal110.png)
+
+Si en algún momento se queda en _Enviando mensaje_, lo que se puede hacer si de pronto es porque no hay un e-mail relacionado a ese tercero, se corrige la información en el básico de terceros (**Terceros - BTER**), colocarle el e-mail correspondiente y oprimir el botón _Reenviar correo_ en la aplicación **Facturas - EBFFAC**.  
+
+![](ebportal111.png)  
+
+El sistema crea otro seguimiento en la aplicación **Mailing-Lists(Listas de Correo) - SMEN** con ese mismo número de factura y con los datos corregidos.  
+
+![](ebportal112.png) 
+
 
 ## [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)
 
