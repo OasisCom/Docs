@@ -27,7 +27,7 @@ editable: si
 5.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)  
 5.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)  
 5.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)  
-5.6 [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom-en-Azure)
+5.6 [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom-en-azure)
 6. [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)  
 7. [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
 7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)  
@@ -280,7 +280,7 @@ El sistema crea otro seguimiento en la aplicación **Mailing-Lists(Listas de Cor
 
 ![](ebportal112.png)  
 
-### [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom-en-Azure)  
+### [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom-en-azure)  
 
 Se hace una factura en cualquiera de las aplicaciones **Facturas - JFAC** o **Facturas - FFAC** (+).  Para la ilustración, tomamos la factura número 15 que ya está creada y se encuentra en _Estado_ **Activo_**.  Al momento de confirmar o _Procesar_ la factura, el documento se emite a la DIAN y posteriormente al adquiriente.  Una vez el proceso termina, sale el aviso de _Transacción exitosa_.  
 
