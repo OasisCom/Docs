@@ -12,7 +12,7 @@ Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se 
 >+ [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas)
 
 
-Los pedidos pueden ser retenidos por Cartera o por Comercial. Para liberar un pedido que se encuentre retenido por cartera se debe validar con el área de cobranza si es viable liberar dicho pedido, de ser así seleccionamos el pedido y damos clic en el botón superior de la barra de herramientas _Liberar_Cartera_. 
+Los pedidos pueden ser retenidos por Cartera o por Comercial. Para liberar un pedido que se encuentre retenido por cartera se debe validar con el área de cobranza si es viable liberar dicho pedido. 
 
 
 ![](COPR.png)
