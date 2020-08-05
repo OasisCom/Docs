@@ -11,6 +11,7 @@ En la aplicación COPR – Pedidos retenidos, quedan los pedidos que han sido re
 Para que el sistema tenga en cuenta este tipo de controles, se debe realizar una parametrización previa, la cual se explica a continuación. Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.  
 
 
+>+ [Parametrización en Ubicaciones BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-ubicaciones-bubi)
 >+ [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#proceso-pedidos-retenidos-copr)
 >+ [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas)
 
