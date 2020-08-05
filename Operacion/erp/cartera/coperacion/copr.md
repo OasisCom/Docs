@@ -37,14 +37,13 @@ Los pedidos pueden ser retenidos por Cartera o por Comercial. Para liberar un pe
 **Cupo:** Capacidad de crédito otorgada al tercero.  
 **Pronto pago:** Descuento establecido por pronto pago.  
 
-
-## [Parametrización aplicación Básico Ubicaciones - BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-aplicación-básico-ubicaciones-bubi)  
+## [Parametrización aplicación Básico Ubicaciones - BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-aplicación-básico-ubicaciones-bubi)
 
 En la aplicación BUBI – Básico de Ubicaciones, se debe activar el flag del campo “ApprovesOrder” para el pedido con el cual se requiere tener este control de aprobación, como se muestra en la siguiente imagen:  
 
 ![](copr2.png)  
 
-## [Parametrización aplicación Empresas - SEMP](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-aplicación-empresas-semp)  
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas) 
 
 Adicional a la parametrización que se debe realizar en la aplicación BUBI – Básico de ubicaciones, en la aplicación SEMP-Empresas, se deben realizar las siguientes parametrizaciones para que el sistema tenga en cuenta los controles que se requieren.  Primero, encontramos los campos “Validate Credit” y “Validate Comercial”, para los cuales, de acuerdo con el control que se requiera, se deben activar ambos o únicamente uno de ellos, con el cual, el sistema hará la validación correspondiente.  
 
@@ -54,7 +53,7 @@ Luego, en los campos “RoleReceivablesId” y “RoleCommercialId” se deben d
 
 ![](copr4.png)  
 
-## [Proceso aplicación Pedidos Retenidos - COPR](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#proceso-aplicación-pedidos-retenidos-copr)  
+## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas) 
 
 Con base a estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos. En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial. Como ejemplo, en la siguiente imagen, se aprecia que el pedido se encuentra retenido por cartera, pero en cuanto al proceso comercial sí cumple.  
 
