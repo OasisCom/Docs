@@ -55,7 +55,7 @@ Luego, en los campos “RoleReceivablesId” y “RoleCommercialId” se deben d
 
 ## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#proceso-pedidos-retenidos-copr)
 
-Con base a estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos. En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial. Como ejemplo, en la siguiente imagen, se aprecia que el pedido se encuentra retenido por cartera, pero en cuanto al proceso comercial sí cumple.  
+Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos. En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial. Como ejemplo, en la siguiente imagen, se aprecia que el pedido se encuentra retenido por cartera, pero en cuanto al proceso comercial sí cumple.  
 
 ![](copr5.png)  
 
