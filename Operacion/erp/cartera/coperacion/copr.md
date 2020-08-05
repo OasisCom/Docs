@@ -11,7 +11,8 @@ En la aplicación COPR – Pedidos retenidos, quedan los pedidos que han sido re
 Para que el sistema tenga en cuenta este tipo de controles, se debe realizar una parametrización previa, la cual se explica a continuación. Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.  
 
 >+ [Parametrización en Ubicaciones BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-ubicaciones-bubi)  
->+ [Parametrización en Empresas SEMP](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-empresas-semp)
+>+ [Parametrización en Empresas SEMP](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-empresas-semp)  
+>+ [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#proceso-pedidos-retenidos-copr)
 >+ [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas)
 
 
@@ -52,7 +53,7 @@ Luego, en los campos “RoleReceivablesId” y “RoleCommercialId” se deben d
 
 ![](copr4.png)  
 
-
+## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#proceso-pedidos-retenidos-copr)
 
 Con base a estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos. En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial. Como ejemplo, en la siguiente imagen, se aprecia que el pedido se encuentra retenido por cartera, pero en cuanto al proceso comercial sí cumple.  
 
