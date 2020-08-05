@@ -10,7 +10,7 @@ editable: si
 En la aplicación COPR – Pedidos retenidos, quedan los pedidos que han sido retenidos por distintos motivos, ya sea por comercial o por cartera. Por ejemplo, un pedido puede quedar retenido en caso de que se le haya cambiado el precio o se haya realizado un descuento sobre el mismo, o porque el cliente que lo solicita ya no cuenta con cupo o tiene la cartera vencida.
 Para que el sistema tenga en cuenta este tipo de controles, se debe realizar una parametrización previa, la cual se explica a continuación. Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.  
 
-
+>+ [Parametrización en Ubicaciones BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-ubicaciones-bubi)
 >+ [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas)
 
 
@@ -35,6 +35,7 @@ Los pedidos pueden ser retenidos por Cartera o por Comercial. Para liberar un pe
 **Cupo:** Capacidad de crédito otorgada al tercero.  
 **Pronto pago:** Descuento establecido por pronto pago.  
 
+## [Parametrización en Ubicaciones BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-ubicaciones-bubi)
 
 En la aplicación BUBI – Básico de Ubicaciones, se debe activar el flag del campo “ApprovesOrder” para el pedido con el cual se requiere tener este control de aprobación, como se muestra en la siguiente imagen:  
 
