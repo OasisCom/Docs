@@ -10,8 +10,8 @@ editable: si
 En la aplicación COPR – Pedidos retenidos, quedan los pedidos que han sido retenidos por distintos motivos, ya sea por comercial o por cartera. Por ejemplo, un pedido puede quedar retenido en caso de que se le haya cambiado el precio o se haya realizado un descuento sobre el mismo, o porque el cliente que lo solicita ya no cuenta con cupo o tiene la cartera vencida.
 Para que el sistema tenga en cuenta este tipo de controles, se debe realizar una parametrización previa, la cual se explica a continuación. Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.  
 
->+ [Parametrización aplicación Básico Ubicaciones - BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-aplicación-básico-ubicaciones-bubi)  
->+ [Parametrización aplicación Empresas - SEMP](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-aplicación-empresas-semp)  
+* [**Verificación de saldos de activos fijos ingresados por OFAC - Facturas de compra**](http://docs.oasiscom.com/Operacion/erp/activos/hsaldo/hssp#verificación-de-saldos-de-activos-fijos-ingresados-por-ofac---facturas-de-compra)  
+>+ [**Parametrización aplicación Empresas - SEMP**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-aplicación-empresas-semp)  
 >+ [Proceso aplicación Pedidos Retenidos - COPR](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#proceso-aplicación-pedidos-retenidos-copr)
 >+ [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas)
 
