@@ -1892,7 +1892,7 @@ ORDEN: 1
 
 
 
-* Al abrir desde el móvil la visualización es la siguiente.  
+* Ingresa el código de barras o EAN correspondiente.  
 
 
 
@@ -1916,7 +1916,7 @@ ORDEN: 1
 
 
 
-![](movil34.png)  
+![](mov34.png)  
 
 
 
@@ -1940,7 +1940,7 @@ ORDEN: 1
 
 
 
-* Realizando la consulta con el lector del código de barras, retorna la información del producto.   
+* El sistema le retorna: el precio del producto y el tipo de precio. Si el producto posee diferentes listas de precios (FBTP), cada vez que realice la consulta en las diferentes listas, este el precio se actualizara.   
 
 
 
@@ -1964,7 +1964,8 @@ ORDEN: 1
 
 
 
-![](movil35.png)  
+![](mov35.png)  
+De esta forma se parametriza la consulta de precios en dispositivo movil.  
 
 
 
