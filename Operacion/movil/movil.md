@@ -1858,43 +1858,17 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 
 
-Se debe de parametrizar el Perfil desde web:  
+Para poder hacer uso del verificador de precios desde el dispositivo móvil: primero se debe realizar la respectiva parametrización en la opción SPER (perfil). En el detalle:  
+Usuario: se debe colocar el con el que se ingreso  
+TIPO: "Fijo"  
+PROGRAMA: "mfcpr"  
+ORDEN: 1  
 
 
 
 
 
-
-
-
-
-
-
-En el detalle del perfil, se inserta el código del usuario, el campo tipo como: favorito y en programa= [MFCPR].  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](movil33.png)  
+![](mov33.png)  
 
 
 
