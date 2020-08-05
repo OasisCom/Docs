@@ -10,7 +10,8 @@ editable: si
 En la aplicación COPR – Pedidos retenidos, quedan los pedidos que han sido retenidos por distintos motivos, ya sea por comercial o por cartera. Por ejemplo, un pedido puede quedar retenido en caso de que se le haya cambiado el precio o se haya realizado un descuento sobre el mismo, o porque el cliente que lo solicita ya no cuenta con cupo o tiene la cartera vencida.
 Para que el sistema tenga en cuenta este tipo de controles, se debe realizar una parametrización previa, la cual se explica a continuación. Esta aplicación se utiliza para _liberar, rechazar, o devolver_ pedidos que se hayan generado anteriormente.  
 
->+ [Parametrización en Ubicaciones BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-ubicaciones-bubi)
+>+ [Parametrización en Ubicaciones BUBI](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-ubicaciones-bubi)  
+>+ [Parametrización en Empresas SEMP](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-empresas-semp)
 >+ [Consultas dinámicas](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas)
 
 
@@ -41,7 +42,7 @@ En la aplicación BUBI – Básico de Ubicaciones, se debe activar el flag del c
 
 ![](copr2.png)  
 
-
+## [Parametrización en Empresas SEMP](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#parametrización-en-empresas-semp)
 
 Adicional a la parametrización que se debe realizar en la aplicación BUBI – Básico de ubicaciones, en la aplicación SEMP-Empresas, se deben realizar las siguientes parametrizaciones para que el sistema tenga en cuenta los controles que se requieren.  Primero, encontramos los campos “Validate Credit” y “Validate Comercial”, para los cuales, de acuerdo con el control que se requiera, se deben activar ambos o únicamente uno de ellos, con el cual, el sistema hará la validación correspondiente.  
 
