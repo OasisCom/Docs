@@ -15,7 +15,7 @@ Adquiere todo el material del repositorio de Partners aquí:
 ###### [Contrato Referidor OasisCom.docx](http://docs.oasiscom.com/Partners/Contrato Referidor OasisCom.docx)
 ###### [Comparativo Planes SaaS OasisCom.xlsx](http://docs.oasiscom.com/Partners/Comparativo Planes SaaS OasisCom.xlsx)
 
-
+###### [Ficha - Conoce nuestro programa partner](http://docs.oasiscom.com/Partners/Conoce nuestro programa partner.pdf)
 
 ---------------------------------------------------------------
 
