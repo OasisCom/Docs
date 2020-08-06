@@ -29,3 +29,21 @@ Ingresamos a la opción bint (interfaces) y bajo la publicación #30 CARGUE CONC
 
 ![](pcon7.png)  
 
+Se ingresa a la opción PCON Conciliación con prestadores, se consulta bajo documento KP (CONCILIACION CXP), concepto KP (CONCILIACION), y el numero NIT del proveedor, el movimiento creado automáticamente en estado ACTIVO.   
+
+![](pcon8.png)  
+
+En la pestaña PROVEEDOR, el sistema relaciona la información contenida en el archivo plano del proveedor.  
+
+![](pcon9.png)  
+En la pestaña LIBROS, el sistema relaciona los movimientos que a la fecha de conciliación tienen saldo.   
+
+![](pcon10.png)  
+
+Si al momento de la carga y creación automática del documento KP, el sistema encuentra registros que concilian, en la pestaña Proveedor, con la pestaña Libros, los registros se marcaran con chek en la columna CONCILIADO.  
+
+![](pcon11.png)  
+
+
+
+
