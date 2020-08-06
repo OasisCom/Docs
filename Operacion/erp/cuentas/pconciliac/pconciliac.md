@@ -45,6 +45,15 @@ Si al momento de la carga y creación automática del documento KP, el sistema e
 ![](pcon11.png)  
 ![](pcon12.png)  
 
+Si en el momento de la conciliación se identifican registros dentro del sistema que no han sido cruzados, y se realiza el movimiento, para actualizar la información de la pestaña Libros, se debe ejecutar el botón Conciliación_Automatica, que se encuentra en la parte superior de la aplicación PCON.  
+
+![](pcon13.png)  
+
+Una vez terminada la conciliación con el proveedor se procede a procesar el movimiento KP y desde la vista preliminar se obtiene el certificado de conciliación.  
+
+![](pcon14.png)  
+
+
 
 
 
