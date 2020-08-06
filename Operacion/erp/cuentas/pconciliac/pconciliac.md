@@ -25,3 +25,7 @@ El archivo Excel debe tener la estructura que se relaciona en la siguiente image
 
 ![](pcon6.png)  
 
+Ingresamos a la opción bint (interfaces) y bajo la publicación #30 CARGUE CONCILIACIÓN CARTERA, se sube el archivo plano del proveedor y se digita en el campo ClientId el numero NIT del proveedor, seguido del botón Aceptar y Ejecutar.  
+
+![](pcon7.png)  
+
