@@ -43,6 +43,7 @@ En la pestaña LIBROS, el sistema relaciona los movimientos que a la fecha de co
 Si al momento de la carga y creación automática del documento KP, el sistema encuentra registros que concilian, en la pestaña Proveedor, con la pestaña Libros, los registros se marcaran con chek en la columna CONCILIADO.  
 
 ![](pcon11.png)  
+![](pcon12.png)  
 
 
 
