@@ -55,8 +55,9 @@ En esta aplicación se puede realizar la parametrización de formularios se debe
 **Zoom:** Se debe activar el flag en caso que el campo vaya actuar como zoom, es decir, que se seleccionen las opciones que se encuentran allí parametrizadas.  
 
 ![](ejemploflormulario.png)  
-**PARAMETRIZACIÓN DE TABS.**
-Podemos cargar los diferentes detalles que son parametrizados por el BMOT de manera dinámica:  
+**PARAMETRIZACIÓN DE TABS.**  
+
+Podemos cargar los diferentes detalles que son parametrizados por el **BMOT** de manera dinámica:  
 tomamos como ejemplo esta opcion: tener en cuenta que este programa es el mismo que el **EPES**, por la cual la parametrización y los documentos van direccionados a este.  
 A nivel del **SPRO** se configuran los tabs.  
 
