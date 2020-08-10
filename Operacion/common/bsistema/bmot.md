@@ -74,13 +74,15 @@ Datos del documento
 Afiliado y cliente ( IPS)  
 Responsable  
 Fecha  
-Como podemos ver y validar se cargan los diferentes detalles que son parametrizados por el BMOT de manera dinámica.  
+Como podemos ver y validar se cargan los diferentes detalles que son parametrizados por el BMOT de manera dinámica.   
+
 ![](bmot19.png)  
+
 Se realiza la carga de los detalles sobre una tabla sencilla y amigable para mejor visualización por parte del usuario de la IPS.  
 Esto así, ya que se pueden tener varios registros según el servicio para un gestante mes a mes.  
 Se mostrará una ventana emergente que mostrara el formulario dinámico, según parametrización realizada sobre el **BMOT**.  
 
-
+![](bmot20.png)  
 
 
 
