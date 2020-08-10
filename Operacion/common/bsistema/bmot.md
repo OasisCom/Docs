@@ -54,7 +54,15 @@ En esta aplicación se puede realizar la parametrización de formularios se debe
 **Posición Columna:** Aquí se debe registrar el número de la columna en la cual se requiere ver el campo  
 **Zoom:** Se debe activar el flag en caso que el campo vaya actuar como zoom, es decir, que se seleccionen las opciones que se encuentran allí parametrizadas.  
 
-![](ejemploflormulario.png)
+![](ejemploflormulario.png)  
+**PARAMETRIZACIÓN DE TABS.**
+Podemos cargar los diferentes detalles que son parametrizados por el BMOT de manera dinámica:  
+Debemos tener en cuenta que este programa es el mismo que el EPES, por la cual la parametrización y los documentos van direccionados a este.  
+A nivel del SPRO se configuran los tabs.  
+
+![](spro1.png)  
+
+
 
 ## [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
 
