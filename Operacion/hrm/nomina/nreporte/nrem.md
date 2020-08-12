@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Entidades por Empleado
-permalink: /Operacion/hrm/nomina/nreporte/nren
+title: Empleados
+permalink: /Operacion/hrm/nomina/nreporte/nrem
 editable: si
 ---
 
