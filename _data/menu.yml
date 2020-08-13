@@ -1286,7 +1286,7 @@
               - text: Comprobante Movimiento Contable
                 url: /Operacion/hrm/nomina/nreporte/nrmc
               - text: Comprobantes de Pago Vacaciones
-                url: /Operacion/hrm/nomina/nreporte/nrvc
+                url: /Operacion/hrm/nomina/nreporte/nrcv
               - text: Comprobantes de Pago
                 url: /Operacion/hrm/nomina/nreporte/nrco
               - text: Cumpleaños
