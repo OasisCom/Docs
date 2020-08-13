@@ -11,6 +11,7 @@ Cuenta con gran variedad de reportes para que usted emita. Estos cuentan con fil
 
 Algunas aplicaciones para reportes en esta ventana son:  
 
+* [**Empleados - NREM**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrem) 
 * [**Entidades por empleado - NREN**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nren)  
 * [**Planilla de nómina - NRPL**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrpl)  
 * [**Certificados de retención - NRCR**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrcr)  

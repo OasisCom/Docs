@@ -19,7 +19,9 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
->##### [WEBINAR: ¿Cómo gestionar transacciones en OasisCom los 3 días sin IVA?  - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM DEF.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Las ventajas del E-commerce en una sociedad Digital  - Memorias](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar E-Commerce.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+>##### [WEBINAR: ¿Cómo gestionar transacciones en OasisCom los 3 días sin IVA?  - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM DEF.pdf)
 >##### [WEBINAR: Home Office desde el punto de vista Gerencial - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion webinar Home Office.pdf)
 >##### [WEBINAR: Gestión de Nómina en OasisCom - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar-gestion-nomina.pdf)
 >##### [WEBINAR: Pasos para la generación de Medios Magnéticos - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/webinar-madios-magneticos-2020.pdf)

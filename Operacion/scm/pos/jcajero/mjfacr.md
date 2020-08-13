@@ -44,6 +44,7 @@ Damos clic en _Pagar_.
 ![](mjfacr4.png)
 
 Al dar clic en el botón _Pagar_ la factura será procesada automáticamente.  
+Se adecua el proceso de confirmación de facturas electrónicas, para que pueda funcionar en la confirmación de **MJFAC** y **MJFACR**, dentro de la misma transacción al procesarla. Puedan ser validadas y enviadas a la DIAN y al adquiriente.  
 
 ![](mjfacr19.png)
 
