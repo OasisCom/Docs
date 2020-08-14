@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrem
 editable: si
 ---
 
-# EMPLEADOS - NREM  
+# Empleados - NREM  
 
 En esta aplicación, se pueden ver todos los datos básicos de los empleados que hay en nuestra nómina.  
 
