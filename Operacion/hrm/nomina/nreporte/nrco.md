@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrco
 editable: si
 ---
 
-# COMPROBANTES DE PAGO - NRCO
+# Comprobantes de pago - NRCO
 
 
 Esta es la opción que nos permite visualizar los comprobantes de pago, se puede consultar por empleado o por número de nómina.
