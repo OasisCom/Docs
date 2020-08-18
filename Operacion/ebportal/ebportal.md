@@ -5,7 +5,7 @@ permalink: /Operacion/ebportal/
 editable: si
 ---
 
-# FACTURA ELECTRONICA
+# Factura Electronica
 
 ---
 ### Factura Electrónica
@@ -31,6 +31,12 @@ editable: si
 7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
 8. [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)  
+9. [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)
+9.1 [Aplicación BDOC – Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc---básico-de-documentos)
+9.2 [Aplicación BMOT – Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot---motivos)
+9.3 [Aplicación BPLA – Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla---plantillas)
+9.4 [Aplicación FRES – Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres---resoluciones)
+
      
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
@@ -476,40 +482,71 @@ Se debe relacionar la información de la empresa como dirección, teléfonos, ci
 
 ![](ebportal82.png)  
 
+## [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)
+
+En el siguiente manual se realiza la explicación de la parametrización que se debe realizar para la creación de los documentos equivalentes, indicando en cuáles aplicaciones se debe realizar este proceso. 
+
+A continuación, se explica cómo realizar la parametrización para los documentos soporte sobre las adquisiciones efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente.
+Los documentos definidos para realizar esta parametrización se relacionan a continuación:
+
++ PE = PMOV – Movimientos
++ EF = OFAC – Facturas de compra
++ CS = OCAF - Compras de café
 
 
+### [Aplicación BDOC – Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc---básico-de-documentos)
+
+Estos documentos, con sus respectivos conceptos deben ser parametrizados en la aplicación **BDOC – Básico de documentos.** 
+
+![](manual 1.png)
+
+Se deben diligenciar los campos señalados de la siguiente manera:
+
++ **Documento:** En este campo se deben parametrizar los documentos mencionados **(PE, EF o CS).**
++ **Nombre documento:** Los documentos deben denominarse expresamente con el nombre *"Documento soporte en adquisiciones efectuadas a no obligados a facturar".*
++ **Ebill:** En este campo los documentos deben marcarse como *“Documento Electrónico”.* Lo anterior con el fin de que, además del funcionamiento normal del documento, este empiece a exigir y controlar las resoluciones.
+
+En el detalle de la aplicación **BDOC,** en la pestaña *“Conceptos”* se deben crear los respectivos conceptos.
 
 
+### [Aplicación BMOT – Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot---motivos)
+
+En la aplicación **BMOT – Motivos** se debe crear el motivo correspondiente para cada documento y concepto creado. 
+
+![](manual 2.png)
 
 
+### [Aplicación BPLA – Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla---plantillas)
+
+Una vez se realice la parametrización en las aplicaciones **BDOC – Básico de documentos** y **BMOT - Motivos,** en la aplicación **BPLA – Plantillas** se debe realizar la parametrización de las plantillas que apliquen para los documentos creados que van a funcionar para los sujetos no obligados a expedir *Factura de Venta.*
+
+![](manual 3.png)
 
 
+### [Aplicación FRES – Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres---resoluciones)
 
+En la aplicación **FRES – Resoluciones** se debe diligenciar la información que se encuentra en la resolución que envía la **DIAN.** 
 
+![](manual 4.png)
 
+Los campos se deben diligenciar de la siguiente manera:
 
++ **Documento:** Debe ir el documento que se utilice para el proceso de compras a sujetos no obligados a expedir Factura de Venta
++ **Ubicación:** Se debe diligenciar la ubicación correspondiente. 
++ **Caja:** Se debe diligenciar el número 1.
++ **Resolution ID:** En este campo se diligencia el número de resolución que se encuentra en el documento que envía la DIAN.
++ **Prefijo:** En este campo se debe diligenciar el prefijo en caso de que éste se encuentre asociado, si no se maneja predijo se deja vacío este campo. Es importante tener en cuenta que, si se diligencia un prefijo, este debe ser exclusivo para el proceso de documentos soporte.
++ **Inicial y Final:** Se debe diligenciar el rango respectivo.
++ **Fecha inicial de resolución:** En este campo se digita la fecha inicial desde donde comprende la resolución.
++ **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
++ **Estado:** El estado debe ser *“Activo”.*
 
+### [Aplicación BCNS – Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns---consecutivos)
 
+Una vez se realice la parametrización en la aplicación **FRES – Resoluciones,** se deben parametrizar los consecutivos en la aplicación **BCNS – Consecutivos** en el campo *“Número”* para que inicien de acuerdo con el rango inicial solicitado en la **DIAN,** digitando de igual forma el documento y la ubicación a la que pertenece. 
 
+![](manual 5.png)
 
+**Importante:** Adicional a la información presentada anteriormente sobre la parametrización que se debe realizar para los documentos equivalentes, es importante que se tenga en cuenta lo indicado por la **DIAN** en el comunicado de prensa N° 55 del 21 de julio del 2020, el cual se relaciona a continuación:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx
