@@ -31,11 +31,11 @@ editable: si
 7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
 8. [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)  
-9. [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)
-9.1 [Aplicación BDOC – Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc---básico-de-documentos)
-9.2 [Aplicación BMOT – Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot---motivos)
-9.3 [Aplicación BPLA – Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla---plantillas)
-9.4 [Aplicación FRES – Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres---resoluciones)
+9. [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)  
+9.1 [Aplicación BDOC – Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc---básico-de-documentos)  
+9.2 [Aplicación BMOT – Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot---motivos)  
+9.3 [Aplicación BPLA – Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla---plantillas)  
+9.4 [Aplicación FRES – Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres---resoluciones)  
 
      
 
@@ -523,7 +523,7 @@ Una vez se realice la parametrización en las aplicaciones **BDOC – Básico de
 ![](manual 3.png)
 
 
-### [Aplicación FRES – Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres---resoluciones)
+### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres--resoluciones)
 
 En la aplicación **FRES – Resoluciones** se debe diligenciar la información que se encuentra en la resolución que envía la **DIAN.** 
 
