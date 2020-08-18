@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrst
 editable: si
 ---
 
-# RESUMEN MENSUAL TERCERO - NRST
+# Resumen mensual tercero - NRST
 
 
 Esta opción permite ver un resumen mensual de la nómina de los empleados. Se puede filtrar por número de identificación del empleado o consultar todos al tiempo.

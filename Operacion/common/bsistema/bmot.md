@@ -54,7 +54,38 @@ En esta aplicación se puede realizar la parametrización de formularios se debe
 **Posición Columna:** Aquí se debe registrar el número de la columna en la cual se requiere ver el campo  
 **Zoom:** Se debe activar el flag en caso que el campo vaya actuar como zoom, es decir, que se seleccionen las opciones que se encuentran allí parametrizadas.  
 
-![](ejemploflormulario.png)
+![](ejemploflormulario.png)  
+**PARAMETRIZACIÓN DE TABS.**  
+
+Podemos cargar los diferentes detalles que son parametrizados por el **BMOT** de manera dinámica:  
+tomamos como ejemplo esta opcion: tener en cuenta que este programa es el mismo que el **EPES**, por la cual la parametrización y los documentos van direccionados a este.  
+A nivel del **SPRO** se configuran los tabs.  
+
+![](spro1.png)  
+Cada renglón del tab debe tener relación con el motivo desde el **BMOT.**  
+Se omite el motivo 0 (cero), esto porque los registros sobre el maestro siempre quedaran en 0.  
+Los demás motivos son para tener configurado el programa de manera dinámica, al tener relación con el tab, se toma la parametrización en el detalle del motivo ( form- detail).  
+
+![](bmot18.png)  
+Retomamos el programa EEPES (programas especiales) que está enfocado en las gestantes, que usara la IPS.  
+Al tener múltiples servicios sobre una madre gestante, y diferentes capturas de datos sobre cada servicio.  
+
+A nivel de maestro se mantiene a como se tenía anteriormente, que son la siguiente información.  
+Datos del documento  
+Afiliado y cliente ( IPS)  
+Responsable  
+Fecha  
+Como podemos ver y validar se cargan los diferentes detalles que son parametrizados por el BMOT de manera dinámica.   
+
+![](bmot19.png)  
+
+Se realiza la carga de los detalles sobre una tabla sencilla y amigable para mejor visualización por parte del usuario de la IPS.  
+Esto así, ya que se pueden tener varios registros según el servicio para un gestante mes a mes.  
+Se mostrará una ventana emergente que mostrara el formulario dinámico, según parametrización realizada sobre el **BMOT**.  
+
+![](bmot20.png)  
+
+
 
 ## [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
 

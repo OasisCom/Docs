@@ -9,8 +9,11 @@ editable: si
 
 La aplicación **MJFACR** permite la creación de facturas (similar a la opción MJFAC), con la diferencia que se realiza por localizaciones, es decir, por las mesas existentes del lugar.  
 
-* [División de cuentas tipo Restaurante](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#División-de-cuentas-tipo-Restaurante)
-* [Impresión de facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#impresión-de-facturas)
+* [División de cuentas tipo Restaurante](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#División-de-cuentas-tipo-Restaurante)  
+* [Impresión de facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#impresión-de-facturas)  
+
+* [unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)  
+
 
 En la opción **MJFAC**, se visualizan las mesas que se tengan en la parametrización de la ubicación, esto para que se puedan realizar facturas acorde a la cantidad de mesas.  
 
@@ -41,6 +44,7 @@ Damos clic en _Pagar_.
 ![](mjfacr4.png)
 
 Al dar clic en el botón _Pagar_ la factura será procesada automáticamente.  
+Se adecua el proceso de confirmación de facturas electrónicas, para que pueda funcionar en la confirmación de **MJFAC** y **MJFACR**, dentro de la misma transacción al procesarla. Puedan ser validadas y enviadas a la DIAN y al adquiriente.  
 
 ![](mjfacr19.png)
 
@@ -157,6 +161,50 @@ Si el proceso funciona correctamente el sistema mostrará el ícono de la impres
 ![](mjfacr18.png)
 
 * Importante: la aplicacion **MJFACR** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc).  
+****
+
+En **MJFACR** existe el campo comanda; donde adicional puede cambiar la condición de pago, para facturarle a clientes o empleados a crédito.  
+
+![](mjfacr30.png)  
+
+******
+## [unir mesas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfacr#unir-mesas)
+
+
+
+Esta funcionalidad permite unir mesas, en la opción de restaurantes **MJFACR** y trasladar los productos a una sola mesa, se crea botón para realizar esta acción.  
+Este tipo de escenarios es muy común en restaurantes donde se tienen que atender reuniones sociales de diversos tipos; y el tiempo de llegada de cada participante es diferente  
+Realizaremos este ejemplo:  
+Se utilizan 4 mesas las cuales se unirán a la mesa 11.  
+Cada una de las mesas tiene diversos productos en cada una de las comandas o facturas.  
+
+![](mjfacr24.png)  
+
+Se resalta el boton que realiza la accion de unir los productos a otra mesa.
+en el encabezado de la factura.  
+
+![](mjfacr25.png)  
+
+Al ejecutar el botón abre la siguiente ventana, donde dado el caso podemos pasar uno o todos los productos de la mesa 3 a la mesa padre que es la numero 11.  
+
+![](mjfacr26.png)  
+
+Al finalizar el traslado de los productos, el sistema arroja el mensaje de control donde nos indica: productos movidos correctamente.  
+
+![](mjfacr27.png)  
+
+Posterior, se ingresa a la mesa 6 y selecciona la opción unir mesa y seleccionamos la 11.  
+
+![](mjfacr28.png)  
+
+La misma acción con la mesa 8  
+ 
+![](mjfacr29.png)  
+
+Aclaracion la mesa padre (11) a la cual intentamos llevar los productos y unir las otras mesas; debe de tener productos en la factura o comanda para poder realizar el traslado y finalizar el proceso de **UNIR MESAS.**   
+
+
+
 
 
 

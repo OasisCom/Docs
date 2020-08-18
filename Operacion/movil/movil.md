@@ -1858,19 +1858,23 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 
 
-Se debe de parametrizar el Perfil desde web:  
+Para poder hacer uso del verificador de precios desde el dispositivo móvil: primero se debe realizar la respectiva parametrización en la opción SPER (perfil). En el detalle:  
+Usuario: se debe colocar el con el que se ingreso  
+TIPO: "Fijo"  
+PROGRAMA: "mfcpr"  
+ORDEN: 1  
 
 
 
 
 
+![](mov33.png)  
 
 
 
 
 
 
-En el detalle del perfil, se inserta el código del usuario, el campo tipo como: favorito y en programa= [MFCPR].  
 
 
 
@@ -1888,13 +1892,13 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+* Ingresa el código de barras o EAN correspondiente.  
 
 
 
 
 
 
-![](movil33.png)  
 
 
 
@@ -1912,13 +1916,13 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+![](mov34.png)  
 
 
 
 
 
 
-* Al abrir desde el móvil la visualización es la siguiente.  
 
 
 
@@ -1936,13 +1940,13 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
+* El sistema le retorna: el precio del producto y el tipo de precio. Si el producto posee diferentes listas de precios (FBTP), cada vez que realice la consulta en las diferentes listas, este el precio se actualizara.   
 
 
 
 
 
 
-![](movil34.png)  
 
 
 
@@ -1960,37 +1964,8 @@ En el detalle del perfil, se inserta el código del usuario, el campo tipo como:
 
 
 
-
-
-
-
-
-
-* Realizando la consulta con el lector del código de barras, retorna la información del producto.   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](movil35.png)  
+![](mov35.png)  
+De esta forma se parametriza la consulta de precios en dispositivo movil.  
 
 
 
@@ -2729,6 +2704,23 @@ Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para real
 
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
 
+
+## Adjuntos en opcion movil **VPED** - Pedidos.  
+
+Se agrega Botón al editar un registro en la opcion **VPED**.  
+
+![](vped2.png)  
+Al dar clic abre la nueva página de adjuntos con los archivos previamente cargados en sobre el registro se da clic en el botón abrir archivo el cual abre el explorador de archivos del celular y permite elegir el archivo deseado con un peso máximo de 2 MG.  
+
+![](vped3.png)  
+
+Abre los adjuntos a cargar.  
+
+![](vped4.png)  
+
+carga correcta.  
+
+![](vped5.png)  
 
 
 

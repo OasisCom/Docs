@@ -108,7 +108,9 @@ Una vez damos clic en la segunda opción del menú de Zoom, vemos que se muestra
 
 ![](jfac5.png)
 
+Sobre el zoom de creación rápida de tercero, se agrega el campo de **teléfono** para que se pueda filtrar, así como evitar estar seleccionando el tipo de filtro, también se activa el evento de búsqueda al dar **enter.**  
 
+![](jfac46.png)
 
 **“Crear Cliente”**  
 
@@ -222,11 +224,11 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 
 
-En ella se almacena la forma de pago **[BFOR]** que se parametrizo, al tercero tipo cliente en el **[BTER]**.  
+En ella se almacena la forma de pago, la cual se parametriza en la aplicación **[BFOR]** , al tercero tipo cliente en el **[BTER]**.  
 
 Para el escenario donde la forma de pago es mayor al precio de la factura existe el campo llamado **cambio**.  
 
-El sistema calculara automáticamente el valor; lanzando un mensaje resaltado en azul, como se ilustra.  
+El sistema calculará automáticamente el valor; lanzando un mensaje resaltado en azul, como se ilustra.  
 
 
 
@@ -240,7 +242,7 @@ El sistema calculara automáticamente el valor; lanzando un mensaje resaltado en
 
 
 
-* Existe una funcionabilidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'.  
+* Existe una funcionalidad en el detalle del **JFAC** con el boton: 'saldos de inventarios en linea'.  
 
 Se inserta el renglon nuevo en el detalle, con el producto y sus caracteristicas propias, se guarda y al dar click al boton:   
 
