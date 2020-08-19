@@ -51,9 +51,17 @@ El primer botón ![](gcal3.png) (Crear Cita) permite asignar una cita a un pacie
 **Tipo Consulta**: se deberá seleccionar la opción que corresponda de las mostradas en la lista desplegable:  
 
 
-![](gcal6.png)
+![](gcal6.png)  
+Este **tipo de consultas** pueden ser parametrizadas desde el BDOC (básico de documentos) de la siguiente forma:  
+![](tipocon.png)  
+En **BDOC:** tomamos ejemplo RX -Exámenes. Ingresamos en el maestro el documento y en detalle el concepto, como se ilustra.  
+![](bdoc1.png)  
+Aca se finaliza la parametrización de los tipo de consulta.  
+Dado el escenario (1) si se ejecuta el botón de crear consulta en **GCAL**.  
+El sistema crea un registro en la opción **GIMA (imágenes)**.  
+![](gima1.png)  
 
-
+Si es diferente al escenario (1), se sigue el proceso:  
 **Motivo Consulta**: al igual que el campo anterior, se debe seleccionar de una lista desplegable.  
 **Id Afiliado**: se deberá ingresar el documento de identificación del paciente.  
 

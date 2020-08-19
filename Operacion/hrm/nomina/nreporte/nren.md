@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nren
 editable: si
 ---
 
-# ENTIDADES POR EMPLEADO - NREN
+# Entidades por empleado - NREN
 
 
 Este reporte muestra las entidades que tienen asociadas cada empleado, es decir, en las que está afiliado, indicando la fecha en que ingresó a la entidad y el código respectivo.

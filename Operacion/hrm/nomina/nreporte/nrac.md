@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrac
 editable: si
 ---
 
-# ACUMULADOS - NRAC
+# Acumulados - NRAC
 
 
 Esta opción permite ver los acumulados que se han ido almacenando en la opción **NNSP – Saldos** acumulados, agrupándolos por tercero y distinguiendo los números de nómina en que se realizaron.
