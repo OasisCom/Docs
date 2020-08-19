@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Inicio año Cartera
-permalink: /Operacion/erp/cartera/cproceso/cpia
+title: Inicio de Día
+permalink: /Operacion/erp/cartera/cproceso/cpid
 editable: si
 ---
 
