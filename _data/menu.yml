@@ -1286,7 +1286,7 @@
               - text: Comprobante Movimiento Contable
                 url: /Operacion/hrm/nomina/nreporte/nrmc
               - text: Comprobantes de Pago Vacaciones
-                url: /Operacion/hrm/nomina/nreporte/nrvc
+                url: /Operacion/hrm/nomina/nreporte/nrcv
               - text: Comprobantes de Pago
                 url: /Operacion/hrm/nomina/nreporte/nrco
               - text: Cumpleaños
@@ -1396,7 +1396,9 @@
               - text: Evaluaciones
                 url: /Operacion/hrm/rhumanos/rreporte/rrev
               - text: Evaluaciones detalladas
-                url: /Operacion/hrm/rhumanos/rreporte/rred                            
+                url: /Operacion/hrm/rhumanos/rreporte/rred
+              - text: Certificado de trabajo
+                url: /Operacion/hrm/rhumanos/rreporte/rrct                
         - text: Asistencia
           url: /Operacion/hrm/asistencia/
           subitems:

@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrsm
 editable: si
 ---
 
-# RESUMEN MENSUAL - NRSM
+# Resumen mensual - NRSM
 
 
 En esta opción se puede visualizar un resumen mensual de la nómina distribuido en los diferentes conceptos. Se consulta por el año correspondiente.
