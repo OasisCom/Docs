@@ -2747,6 +2747,10 @@ La opcion **ISPH** permite validar que el inventario haya sido ajustado correcta
 **Salida:** Número de unidades que salen del inventario en un periodo.  
 **Saldo cantidad:** Cantidad existente de unidades de un producto en determinado periodo.  
 
+Desde la opción web podemos validar la data.  
+
+![](isph1.png)  
+
 
 
 
