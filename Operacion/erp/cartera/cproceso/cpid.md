@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Inicio de Día
+title: Cálculo Rotación de Cartera
 permalink: /Operacion/erp/cartera/cproceso/cpid
 editable: si
 ---
 
-# Inicio de Día - CPID  
+# Cálculo Rotación de Cartera - CPID  
 
 Proceso en el cual se actualizan al día variables como el cálculo de los días de rotación de cartera.  
 
