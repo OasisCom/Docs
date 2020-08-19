@@ -39,3 +39,11 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 
 ---
 >#### [OasisCom Productos Complementarios](http://docs.oasiscom.com/Mercadeo/fichas/físico soluciones avanzadas_impreso.pdf)
+
+>## OasisCom Fichas formato PPTX
+>#### [Producto FIN](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo FIN.pptx)
+>#### [Producto SCM](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo SCM.pptx)
+>#### [Producto HRM](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo HRM.pptx)
+>#### [Producto HRM](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo HRM.pptx)
+>#### [Producto CRM](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo CRM.pptx)
+>#### [Producto DSS](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo DSS.pptx)
