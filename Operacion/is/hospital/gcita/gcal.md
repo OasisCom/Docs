@@ -51,7 +51,9 @@ El primer botón ![](gcal3.png) (Crear Cita) permite asignar una cita a un pacie
 **Tipo Consulta**: se deberá seleccionar la opción que corresponda de las mostradas en la lista desplegable:  
 
 
-![](gcal6.png)
+![](gcal6.png)  
+Este **tipo de consultas** pueden ser parametrizadas desde el BDOC (básico de documentos) de la siguiente forma:  
+![](tipocon.png)
 
 
 **Motivo Consulta**: al igual que el campo anterior, se debe seleccionar de una lista desplegable.  

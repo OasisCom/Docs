@@ -58,7 +58,7 @@ En esta aplicación se puede realizar la parametrización de formularios se debe
 **PARAMETRIZACIÓN DE TABS.**  
 
 Podemos cargar los diferentes detalles que son parametrizados por el **BMOT** de manera dinámica:  
-tomamos como ejemplo esta opcion: tener en cuenta que este programa es el mismo que el **EPES**, por la cual la parametrización y los documentos van direccionados a este.  
+Tomamos como ejemplo esta opcion: tener en cuenta que este programa es el mismo que el **EPES**, por la cual la parametrización y los documentos van direccionados a este.  
 A nivel del **SPRO** se configuran los tabs.  
 
 ![](spro1.png)  
