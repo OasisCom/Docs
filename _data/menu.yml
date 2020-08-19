@@ -298,12 +298,10 @@
                 url: /Operacion/erp/cartera/cproceso/cpin
               - text: Reclasificacionde Cuentas por Pagar
                 url: /Operacion/erp/cartera/cproceso/cpre
-              - text: Inicio de Dia
+              - text: Cálculo Rotación de Cartera
                 url: /Operacion/erp/cartera/cproceso/cpid
               - text: Carga Informacion para Datacredito
                 url: /Operacion/erp/cartera/cproceso/cpcd
-              - text: Calculo Rotacion de Cartera
-                url: /Operacion/erp/cartera/cproceso/cpcr
             - text: Reportes
               url: /Operacion/erp/cartera/creporte/
               subitems:
