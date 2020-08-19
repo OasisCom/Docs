@@ -550,4 +550,4 @@ Una vez se realice la parametrización en la aplicación **FRES – Resoluciones
 
 **Importante:** Adicional a la información presentada anteriormente sobre la parametrización que se debe realizar para los documentos equivalentes, es importante que se tenga en cuenta lo indicado por la **DIAN** en el comunicado de prensa N° 55 del 21 de julio del 2020, el cual se relaciona a continuación:
 
-https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx
+[https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx]()
