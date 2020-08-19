@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrcu
 editable: si
 ---
 
-# CUMPLEAÑOS - NRCU
+# Cumpleaños - NRCU
 
 
 En este reporte filtramos por mes y podemos observar los empleados que cumplen años en dicha consulta.
