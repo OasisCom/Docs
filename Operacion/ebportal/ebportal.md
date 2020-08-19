@@ -32,10 +32,10 @@ editable: si
 7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
 8. [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)  
 9. [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)  
-9.1 [Aplicación BDOC – Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc---básico-de-documentos)  
-9.2 [Aplicación BMOT – Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot---motivos)  
-9.3 [Aplicación BPLA – Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla---plantillas)  
-9.4 [Aplicación FRES – Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres---resoluciones)  
+9.1 [Aplicación BDOC–Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-básico-de-documentos)  
+9.2 [Aplicación BMOT–Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot-motivos)  
+9.3 [Aplicación BPLA-Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla-plantillas)  
+9.4 [Aplicación FRES-Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
 
      
 
@@ -494,7 +494,7 @@ Los documentos definidos para realizar esta parametrización se relacionan a con
 + CS = OCAF - Compras de café
 
 
-### [Aplicación BDOC – Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc---básico-de-documentos)
+### [Aplicación BDOC-Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-básico-de-documentos)
 
 Estos documentos, con sus respectivos conceptos deben ser parametrizados en la aplicación **BDOC – Básico de documentos.** 
 
@@ -509,21 +509,21 @@ Se deben diligenciar los campos señalados de la siguiente manera:
 En el detalle de la aplicación **BDOC,** en la pestaña *“Conceptos”* se deben crear los respectivos conceptos.
 
 
-### [Aplicación BMOT – Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot---motivos)
+### [Aplicación BMOT-Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot-motivos)
 
 En la aplicación **BMOT – Motivos** se debe crear el motivo correspondiente para cada documento y concepto creado. 
 
 ![](manual 2.png)
 
 
-### [Aplicación BPLA – Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla---plantillas)
+### [Aplicación BPLA-Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla-plantillas)
 
 Una vez se realice la parametrización en las aplicaciones **BDOC – Básico de documentos** y **BMOT - Motivos,** en la aplicación **BPLA – Plantillas** se debe realizar la parametrización de las plantillas que apliquen para los documentos creados que van a funcionar para los sujetos no obligados a expedir *Factura de Venta.*
 
 ![](manual 3.png)
 
 
-### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres--resoluciones)
+### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)
 
 En la aplicación **FRES – Resoluciones** se debe diligenciar la información que se encuentra en la resolución que envía la **DIAN.** 
 
@@ -541,7 +541,7 @@ Los campos se deben diligenciar de la siguiente manera:
 + **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
 + **Estado:** El estado debe ser *“Activo”.*
 
-### [Aplicación BCNS – Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns---consecutivos)
+### [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)
 
 Una vez se realice la parametrización en la aplicación **FRES – Resoluciones,** se deben parametrizar los consecutivos en la aplicación **BCNS – Consecutivos** en el campo *“Número”* para que inicien de acuerdo con el rango inicial solicitado en la **DIAN,** digitando de igual forma el documento y la ubicación a la que pertenece. 
 
