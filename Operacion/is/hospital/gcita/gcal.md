@@ -53,7 +53,8 @@ El primer botón ![](gcal3.png) (Crear Cita) permite asignar una cita a un pacie
 
 ![](gcal6.png)  
 Este **tipo de consultas** pueden ser parametrizadas desde el BDOC (básico de documentos) de la siguiente forma:  
-![](tipocon.png)
+![](tipocon.png)  
+En **BDOC:** tomamos ejemplo RX -Exámenes. Ingresamos en el maestro el documento y en detalle el concepto, como se ilustra.  
 
 
 **Motivo Consulta**: al igual que el campo anterior, se debe seleccionar de una lista desplegable.  
