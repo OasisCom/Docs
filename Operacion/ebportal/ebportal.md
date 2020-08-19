@@ -12,7 +12,7 @@ editable: si
 
 >###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)  
 >###### [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)  
->###### [Manual Documentos Equivalentes (descargar)](http://docs.oasiscom.com/Operacion/ebportal/manual-documentos-equivalentes.pdf)
+>###### [Manual Documentos Equivalentes (descargar)](http://docs.oasiscom.com/Operacion/ebportal/manual-documentos-equivalentess.pdf)
 ---
 
 **Menú**  
@@ -36,6 +36,7 @@ editable: si
 9.2 [Aplicación BMOT–Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot-motivos)  
 9.3 [Aplicación BPLA-Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla-plantillas)  
 9.4 [Aplicación FRES-Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
+9.5 [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
 
      
 
@@ -523,7 +524,7 @@ Una vez se realice la parametrización en las aplicaciones **BDOC – Básico de
 ![](manual 3.png)
 
 
-### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)
+### [Aplicación FRES-Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
 
 En la aplicación **FRES – Resoluciones** se debe diligenciar la información que se encuentra en la resolución que envía la **DIAN.** 
 
@@ -541,7 +542,7 @@ Los campos se deben diligenciar de la siguiente manera:
 + **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
 + **Estado:** El estado debe ser *“Activo”.*
 
-### [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)
+### [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
 
 Una vez se realice la parametrización en la aplicación **FRES – Resoluciones,** se deben parametrizar los consecutivos en la aplicación **BCNS – Consecutivos** en el campo *“Número”* para que inicien de acuerdo con el rango inicial solicitado en la **DIAN,** digitando de igual forma el documento y la ubicación a la que pertenece. 
 
