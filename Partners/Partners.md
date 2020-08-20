@@ -15,7 +15,8 @@ Adquiere todo el material del repositorio de Partners aquí:
 ###### [Contrato Referidor OasisCom.pdf](http://docs.oasiscom.com/Partners/Contrato Referidor OasisCom.pdf)
 ###### [Comparativo Planes SaaS OasisCom.xlsx](http://docs.oasiscom.com/Partners/Comparativo Planes SaaS OasisCom.xlsx)
 
-###### [Ficha - Conoce nuestro programa partner](http://docs.oasiscom.com/Partners/Conoce nuestro programa partner.pdf)
+###### [Ficha - Conoce nuestro programa partner](http://docs.oasiscom.com/Partners/Conoce nuestro programa partner.pdf)  
+###### [Formato Contrato de Alianza Estratégica.pdf](http://docs.oasiscom.com/Partners/Formato Contrato de Alianza Estratégica.pdf)
 
 ---------------------------------------------------------------
 
