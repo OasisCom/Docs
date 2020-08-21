@@ -4,7 +4,7 @@ title: Soporte
 permalink: /Soporte/
 editable: si
 ---
-# SOPORTE
+# Soporte
 
 En esta sección encontrarán las incidencias frecuentes que se pueden presentar en el sistema Oasis, cómo lo son:
 
@@ -24,4 +24,5 @@ En esta sección encontrarán las incidencias frecuentes que se pueden presentar
 14. Ubicación no definida como caja.  
 15. Parametrización de alertas.  
 16. BGRU - Asignación de cuentas
-17. Al realizar un ingreso por ZNOV, los datos en BTER se ven truncados
+17. Al realizar un ingreso por ZNOV, los datos en BTER se ven truncados  
+18. [Actualización Oasis R3](http://docs.oasiscom.com/Desarrollo/descargarversionr3)  

@@ -28,6 +28,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
 13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
+14. [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
 
 * Mejora en los tiempos de respuesta.  
 Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
@@ -410,4 +411,35 @@ Cargado el archivo, consulte la información del recibo ingresando a la aplicaci
 Se crean dos interfaces **BINT**, puntualmente para el proceso de **dispensacion de medicamentos**; para generar los anexos 12 y 13 con el mismo esquema que manejan las aplicaciones **IRMCD** (distribución de medicamentos controlados) y el **IRMCP** (puntos de venta medicamentos controlados).  
 
 
+## [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
 
+* Resolución 64 (18 Jun 2020)
+* Resolución 75 (08 Jul 2020)
+* Resolución 81 (29 Jul 2020)
+
+
+**Encabezado**	elemento **CAB**
+
+![](sin iva.png)  
+
+**Contenido** elemento **Ventas**
+
+![](sin iva 2.png)
+
+**Contenido** elemento **descbien**
+
+![](sin iva 3.png)
+
+Se creo el **BINT** 914 para generar el archivo en formato *XML.*  
+
+![](sin iva 4.png)
+
+El sistema genera el archivo en *XML.*  
+
+![](sin iva 5.png)
+
++ Para lo anterior es necesario que el cliente defina en la aplicación **BPRO** el genero del bien al que pertenece este se define en el campo Gamma de la pestaña características así:
+
+![](sin iva 6.png)
+
+Este archivo es el que se debe cargar en la plataforma Muisca, aunque a la fecha la Dirección de Impuestos y Aduanas Nacionales **DIAN**, no ha habilitado la opcion de cargar este documento en la plataforma Muisca y tampoco ha emitido un prevalidador. 
