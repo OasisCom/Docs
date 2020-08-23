@@ -25,6 +25,9 @@ editable: si
 5.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
 5.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 5.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)  
+5.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)
+5.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)
+5.6 [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasis-en-azure)
 6. [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)  
 7. [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
 7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)  
@@ -103,6 +106,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](ebportal53.png)
 ![](ebportal54.png)
 ![](ebportal55.png)
+![](ebportal561.png)
 
 
 ### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
@@ -114,10 +118,10 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
 Los datos relacionados al color:  
-* **azul** corresponde al Adquiriente.   
-* **color** gris del vendedor.   
-* **amarillo** son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas.  
-* y los asociados al color **verde** en el detalle.    
+* **Azul** corresponde al Adquiriente.   
+* **Color** gris del vendedor.   
+* **Amarillo** son los que irán diligenciados en el maestro de la aplicación FFAC - Facturas.  
+* Los asociados al color **verde** en el detalle.    
 
 
 ![](ebportal11.png)  
@@ -138,6 +142,18 @@ Al eliminar los anteriores renglones deberá quedar así:
 Para convertir el archivo en formato **.CVS** vamos a _Archivo ![](flecha.png) Guardar como ![](flecha.png) Elegimos una ubicación ![](flecha.png) Asignamos un nombre ![](flecha.png) Tipo: CSV (delimitado por comas) ![](flecha.png) Guardar_.   
 
 ![](ebportal14.png)
+
+Una vez guardado, se ingresa a la aplicación **Interfaces - BINT**, se selecciona la publicación 961 (SUBIDA FACTURA ELECTRÓNICA FASE II (PLANO)), se selecciona el archivo que se guardó en .csv y se da clic en *Aceptar y Ejecutar* y el sisema genera un mensaje de control.
+
+![](portal1.png)
+
+Posteriormente, se ingresa a la aplicación **Facturas de venta - ebffac.** En esta aplicación se valida que estén todas las facturas de acuerdo al consecutivo, estén en Envío existoso y estén cargadas en **OASIS.**
+
+![](portal2.png)
+
+En la pestaña *Ejecutado,* se entra a validar si el envío efectivamente se realizó con éxito a la DIAN y la hora en la que se realizó el envío.
+
+![](portal3.png)
 
 **_IMPORTANTE:_** Convertido el archivo en formato _.CVS_, este se debe abrir en el editor de texto y eliminar el último espacio en blanco.  
 
@@ -179,7 +195,109 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal20.png)
 ![](ebportal244.png)  
 
+## [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)
 
+Para iniciar el proceso de Facturación electrónica en la versión R3 de Oasiscom, se crea una factura normal con el *Documento* correspondiente y el *Número* de documento. Cabe resaltar que la factura debe estar en *Estado Procesado* para poderla transmitir a Oasiscom en Azure.
+
+![](factura1.png)
+
+Cuando la factura ya esté hecha, ingreso a la aplicación **Log-BINT - FPFE.** Una vez en esta aplicación, se filtra por el número de la factura.
+
+![](factura2.png)
+
+Se utiliza el comando **Ctrl F** y aquí se evidencia la factura para poderla transmitir a Oasiscom. Se selecciona y se oprime el primer botón de la derecha: *Marcar todo*
+
+![](factura3.png)
+
+Finalmente, se oprime el botón _**Envía transacciones automáticamente**_ y aparece un aviso de control diciendo que el proceso ha terminado.
+
+![](factura4.png)
+
+Una vez terminado el proceso, nos dirigimos a Oasiscom e ingresamos a la aplicación **Facturas de venta - EBFFAC**
+
+![](factura5.png)
+
+Aquí también se filtra por el número de la factura y se evidencia que la factura se transmitió de manera correcta y se verifica que el campo Status _**DIAN**_ sea _**Envío exitoso**_
+
+![](factura6.png)
+
+Ahora, en esta parte, se valida cómo se pasa una factura de OasisR3 a Oasiscom descargando el archivo XML. Una vez se tiene la factura ya lista y procesada, se pasa de nuevo a la aplicación **Log-BINT - FPFE** y se filtra por el número de factura y se hace aplica el comando **Ctrl F.** Estando en este punto, se selecciona el registro y se da clic en la opción *Marcar todo*. Aparece el aviso de control *Proceso terminado* y se da clic en aceptar.
+
+![](factura7.png)
+
+Luego, se oprime el botón *Generar archivo XML.* El sistema solicita que se guarde el archivo y se puede asignar el nombre que se desee. Aparece el aviso de control *Proceso terminado* y se da clic en aceptar.
+
+![](factura8.png)
+
+![](factura9.png)
+
+![](factura10.png)
+
+Una vez terminado el proceso, se accede a Oasiscom y se ingresa a la aplicación **Interfaces - BINT**. En el campo *Publicación,* se selecciona la opción **951 - Subida factura Oasiscom XML Ver 2 Ebill**, se habilita la opción para buscar el archivo y poderlo cargar. Una vez cargado el archivo, se da clic en *Aceptar y Ejecutar*. Sale un aviso de control informando que la Factura fue enviada correctamente.
+
+![](factura11.png)
+
+![](factura12.png)
+
+![](factura13.png)
+
+![](factura14.png)
+
+![](factura15.png)
+
+Para validar esta factura, se ingresa a la aplicación **Facturas de venta - EBFFAC** y se filtra por el número del documento. Como se puede apreciar en la ilustración, ya está cargada la factura y el campo Status dian aparece como _**Envío Exitoso.**_
+
+![](factura16.png)
+
+## [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)
+
+Los **On Premise** son clientes de Oasis que tienen el ERP, pero lo tienen en su instalación propia. En este caso, se indicará cómo desde la instalación propia, se debe generar el proceso de facturación y cómo se hace el respectivo seguimiento.
+
+![](factura17.png)
+
+Para esta ilustración, se está en una base **On Premise.** Se crea una factura (+), la cual para el proceso de habilitación, como se explica en la parametrización, el *Documento* es **FC2**, pero si fuera un proceso de producción, se usan los documentos que se tienen definidos para ello. La *Ubicación*, por la que normalmente se generan las facturas. Se llenan todos los datos pertinentes de la factura y finalmente se guarda.
+
+![](factura18.png)
+
+![](factura19.png)
+
+En el detalle, se adicionan los registros que se requieren y al final, se guarda. 
+
+![](factura20.png)
+
+En este momento, si todo se encuentra correcto, cuando se confirma el documento, esta factura se debe visualizar en la plataforma de **Azure.**
+
+![](factura21.png)
+
+Al confirmarla, se verifica que efectivamente llegó a la plataforma de **Azure** y también a la DIAN. Se entra a la plataforma de **Azure**, la cual se encuentra en app.oasiscom.com, sobre la misma empresa y se revisa en la aplicación **Facturas - EBFFAC** que la factura se encuentre cargada y enviada a la DIAN con éxito. Se consulta con el mismo número y ahí se ve la factura con la misma información que se registró en el **On Premise** y en el campo *Stauts Dian,* aparece _**Envío exitoso.**_
+
+![](factura22.png)
+
+En la aplicación **Mailing-Lists(Listas de Correo) - SMEN**, se puede verificar el envío a los adquirientes, en el campo *Argumento* se puede filtrar la factura.
+
+![](factura23.png)
+
+En la pantalla, me muestra quién envió el correo, el destino al que se envía, asunto, y sus respectivos adjuntos. En el campo *Status*, me muestra el estado de envío.
+
+![](factura24.png)
+
+Si en algún momento se queda en *Enviando mensaje*, lo que se puede hacer si de pronto es porque no hay un e-mail relacionado a ese tercero, se corrige la información en el básico de terceros (**Terceros - BTER**), colocarle el e-mail correspondiente y oprimir el botón *Reenviar* correo en la aplicación **Facturas - EBFFAC.**
+
+![](factura25.png)
+
+El sistema crea otro seguimiento en la aplicación **Mailing-Lists(Listas de Correo) - SMEN** con ese mismo número de factura y con los datos corregidos.
+
+![](factura26.png)
+
+## [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-el)
+
+Se hace una factura en cualquiera de las aplicaciones **Facturas - JFAC** o **Facturas - FFAC** (+). Para la ilustración, tomamos la factura número 15 que ya está creada y se encuentra en _**Estado Activo**_. Al momento de confirmar o *Procesar* la factura, el documento se emite a la DIAN y posteriormente al adquiriente. Una vez el proceso termina, sale el aviso de *Transacción exitosa.*
+
+![](factura27.png)
+
+Posteriormente, se ingresa a la aplicación **Facturas de venta - EBFFAC** para validar que la factura se haya enviado con éxito a la DIAN. Se filtra por el número del documento y se verifica que el campo *Status Dian* sea _**Envío exitoso.**_
+
+![](factura28.png)
 
 ## [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)
 
