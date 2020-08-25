@@ -2723,7 +2723,7 @@ carga correcta.
 ![](vped5.png)  
 ---
 
-## Balance por localizacion y marca  **ISPH**.  
+## Balance por localizacion y marca - **ISPH**.  
 Se crea la aplicación de ISPH Balance por localización y marca, desde dispositivos Móvil. Tipo consulta.  
 
 La opcion **ISPH** permite validar que el inventario haya sido ajustado correctamente, esto luego de haber **procesado** los documentos de entradas y salidas anteriormente en la aplicación **IMOV - Movimientos de Inventarios**.  
