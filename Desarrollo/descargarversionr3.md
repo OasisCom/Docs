@@ -5,8 +5,9 @@ permalink: /Desarrollo/descargarversionr3
 editable: si
 ---
 
+# Actualización Oasis R3
 
-**Utiliza este link para descargar la version Oasis R3** [**AQUÍ**](http://docs.oasiscom.com/Desarrollo/OasisR3.rar)
+Utiliza este link para descargar la versión  [**Actualización R3 20082020**](http://docs.oasiscom.com/Desarrollo/actualización-r3-20082020.rar)
 
 
 
