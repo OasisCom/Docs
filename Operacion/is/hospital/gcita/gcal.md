@@ -73,9 +73,9 @@ Dado el caso que el afiliado no se encuentre se creara el tercero dando clic en 
 
 ![](gl2.png)
 
-Dando clic en agregar nuevo registro, diligenciamos los campos de datos básicos requeridos. 
-
-![](gl3.png)
+Dando clic en agregar nuevo registro (paciente, diligenciamos los datos básicos requeridos. 
+Se adiciono el campo zona: para diferenciar el tipo poblacional y presentacion de RIPS.  
+![](gca13.png)
 
 Luego de diligenciar los campos, se procede a guardar el registro dando clic en el botón _guardar_. ![](guardar.png)  
 
