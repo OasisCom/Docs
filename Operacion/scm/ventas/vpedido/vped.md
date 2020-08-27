@@ -219,7 +219,7 @@ En este momento se pasa a relacionar la Factura con el Pedido.  Este proceso es 
 
 ![](vped64.png)  
 
-##  [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
+## [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 
 
 
