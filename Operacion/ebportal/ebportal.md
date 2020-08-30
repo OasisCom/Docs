@@ -691,19 +691,19 @@ El siguiente manual se crea de acuerdo con la resolución # 0042 expedida por la
 
 A continuación, se explica el paso a paso de cómo realizar la parametrización para terceros no obligados a expedir factura de venta
 
-### [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)
+### [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
 
 Luego se debe ingresar a la aplicación SROL - Roles, en el rol que corresponda. En el detalle en la pestaña programas se debe añadir un nuevo registro y agregar el programa ODEQ – Documento equivalente. 
 
 ![](odeq1.png)
 
-### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)
+### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)  
 
 En la aplicación WVAR - Variables, esta variable debe ser creada para que el sistema identifique que se debe crear un documento EQ. 
 
 ![](odeq2.png)
 
-### [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)
+### [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
 
 A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ y en la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
 
@@ -711,8 +711,8 @@ A nivel de la aplicación BDOC – Básico de documento, también debe ser cread
 
 ![](odeq4.png)
 
-## [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)
-### [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)
+## [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)   
+### [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
 
 En la aplicación BDOC – Básico de documentos, se parametrizan los documentos existentes por los que se registran las compras (FP, CP y CF) ya sea a nivel de producto o a nivel de servicios, estos documentos deben estar marcados en el campo EBILL con la opción “Genera Documento Equivalente”. 
 
@@ -722,14 +722,14 @@ Al momento de confirmar las compras por las diferentes aplicaciones de OasisCom,
 
 ![](odeq6.png)
 
-### [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)
-#### [Aplicación BTER-Tercero](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bter-tercero)
+### [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)  
+#### [Aplicación BTER-Tercero](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bter-tercero)  
 
 Para realizar la validación de los proveedores no obligados a expedir factura de venta, primero se debe validar en la aplicación BTER - Terceros y verificar el tipo de impuesto. 
 
 ![](odeq7.png)
 
-#### [Aplicación BTIM–Tipos de Impuestos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-btim-tipos-de-impuestos)
+#### [Aplicación BTIM–Tipos de Impuestos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-btim-tipos-de-impuestos)  
 
 El tipo de impuesto es el que nos indica si el proveedor está obligado o no a expedir factura de venta, el campo que nos indica lo mencionado anteriormente, es el campo declarante. Para verificar este proceso ingresamos a la aplicación BTIM - Tipos de Impuestos y filtramos por el número de impuesto del tercero. 
 
@@ -737,8 +737,8 @@ El tipo de impuesto es el que nos indica si el proveedor está obligado o no a e
 
 **Nota:** Si el campo declarante se encuentra con el check, quiere decir que el tercero que tenga ese tipo de impuesto está obligado a expedir factura de venta y todo lo que se adquiera con este tercero no se va a ver reflejado en la aplicación ODEQ – Documento Equivalente. Si se realiza la compra a un tercero y el tipo de impuesto que tiene relacionado no cuenta con el check, los movimientos se verán reflejados en la aplicación ODEQ - Documento Equivalente. 
 
-## [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)
-### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)
+## [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)    
+### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)   
 
 En la aplicación FRES – Resoluciones se debe diligenciar la información que se encuentra en la resolución que envía la DIAN sobre documento soporte. 
 
@@ -756,14 +756,14 @@ Los campos se deben diligenciar de la siguiente manera:
 + **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
 + **Estado:** El estado debe ser “Activo”.
 
-### [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)
+### [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
 
 Una vez se realice la parametrización en la aplicación FRES – Resoluciones, se deben parametrizar los consecutivos en la aplicación BCNS – Consecutivos en el campo “Número” para que inicien de acuerdo con el rango inicial solicitado en la DIAN, digitando de igual forma el documento EQ y la ubicación a la que pertenece.
 
 ![](odeq10.png)
 
 
-## [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)
+## [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
 
 Una vez se realicen las parametrizaciones mencionadas anteriormente, el sistema en la aplicación ODEQ – Documentos Equivalentes crea el documento EQ, proveniente de aquellas compras realizadas a los sujetos no obligados a expedir factura de venta, respetando la numeración parametrizada de acuerdo con la resolución.
 
