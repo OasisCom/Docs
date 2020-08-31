@@ -612,7 +612,7 @@
                 url: /Operacion/scm/ventas/vpedido/vped
               - text: Pedidos Pendientes
                 url: /Operacion/scm/ventas/vpedido/vppp
-              - text: Aprovacion de Pedidos
+              - text: Aprobación de Pedidos
                 url: /Operacion/scm/ventas/vpedido/vppr
               - text: Balance y Precios por Ubicacion
                 url: /Operacion/scm/ventas/vpedido/vpsa
