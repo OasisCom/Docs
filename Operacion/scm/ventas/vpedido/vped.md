@@ -221,6 +221,11 @@ En este momento se pasa a relacionar la Factura con el Pedido.  Este proceso es 
 
 ## [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 
+En esta sección, se explica el manejo de la mercancía separada y su efecto en la factura de venta.  Es importante tener en cuenta que este proceso aplica en las empresas que cuentan con varios vendedores y que realizan pedidos de mercancía desde diferentes ubicaciones y necesitan reservar o apartar una determinada cantidad de producto para asegurarse que no vaya a ser apartada o vendida por otro vendedor.  El primer paso es asegurar que la parametrización donde se va a realizar el pedido y la factura se encuentre correcta.  La forma correcta es que en la aplicación **Ubicaciones Organización - BUBI**, el campo _Separada_ debe estar con el _check_ activado.  
+
+![](vped65.png)
+
+
 
 
 
