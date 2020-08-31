@@ -40,6 +40,16 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 ---
 >#### [OasisCom Productos Complementarios](http://docs.oasiscom.com/Mercadeo/fichas/físico soluciones avanzadas_impreso.pdf)
 
+
+---
+>## OasisCom Alianzas
+>###[Partner Distribuidor](http://docs.oasiscom.com/Mercadeo/fichas/Partner-distribuidor.pdf)
+>###[Partner Referidor](http://docs.oasiscom.com/Mercadeo/fichas/Partner-referidor.pdf)
+>###[Partner Integrador](http://docs.oasiscom.com/Mercadeo/fichas/Partner-integrador.pdf)
+
+
+
+---
 >## OasisCom Fichas formato PPTX
 >#### [ERP](http://docs.oasiscom.com/Mercadeo/fichas/ERP.pptx)
 >#### [Producto FIN](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo FIN.pptx)
