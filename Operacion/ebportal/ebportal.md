@@ -760,7 +760,7 @@ Los campos se deben diligenciar de la siguiente manera:
 
 Una vez se realice la parametrización en la aplicación FRES – Resoluciones, se deben parametrizar los consecutivos en la aplicación BCNS – Consecutivos en el campo “Número” para que inicien de acuerdo con el rango inicial solicitado en la DIAN, digitando de igual forma el documento EQ y la ubicación a la que pertenece.
 
-![](odeq10.png)
+![](manual 5.png)
 
 
 ## [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
