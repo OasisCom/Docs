@@ -7,7 +7,7 @@ editable: si
 
 # Actualización Oasis R3
 
-Utiliza este link para descargar la versión  [**Actualización R3 20082020**](http://docs.oasiscom.com/Desarrollo/actualización-r3-31082020.rar)
+Utiliza este link para descargar la versión  [**Actualización R3 31082020**](http://docs.oasiscom.com/Desarrollo/actualización-r3-31082020.rar)
 
 
 
