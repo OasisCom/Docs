@@ -116,7 +116,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
-
+>###### [EbooK: SCM e E-Commerce | Crecimiento conjunto acelerado.](http://docs.oasiscom.com/Mercadeo/e-books/Ebook- SCM e E-commerce.pdf)
 
 >###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)
 
