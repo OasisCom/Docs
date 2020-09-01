@@ -1995,7 +1995,7 @@ De esta forma se parametriza la consulta de precios en dispositivo movil.
 
 
 
-## [Ordenes de compra OORD para dispositivos movil](http://docs.oasiscom.com/Operacion/movil/#Ordenes_de_compra_OORD_para_dispositivos_movil)  
+## [Ordenes de compra OORD para dispositivos movil](http://docs.oasiscom.com/Operacion/movil/#Ordenes-de-compra-OORD-para-dispositivos-movil)  
 
 Esta aplicación permite la generación y registro de las órdenes de compra. Realiza la liquidación correspondiente para su posterior control con las entradas por compra. Permite observar las órdenes de compra pendientes por recibir.  
 
