@@ -43,9 +43,11 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 
 ---
 >## OasisCom Alianzas
->###[Partner Distribuidor](http://docs.oasiscom.com/Mercadeo/fichas/Partner-distribuidor.pdf)
->###[Partner Referidor](http://docs.oasiscom.com/Mercadeo/fichas/Partner-referidor.pdf)
->###[Partner Integrador](http://docs.oasiscom.com/Mercadeo/fichas/Partner-integrador.pdf)
+>####[Partner Distribuidor](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Partner-Distribuidor.pdf)
+>
+>####[Partner Referidor](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Partner-Referidor.pdf)
+>
+>####[Partner Integrador](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Partner-Integrador.pdf)
 
 
 
