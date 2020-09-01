@@ -61,3 +61,4 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >#### [Producto MRP](http://docs.oasiscom.com/Mercadeo/fichas/ERP-Módulo MRP.pptx)
 >#### [Producto CRM](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo CRM.pptx)
 >#### [Producto DSS](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo DSS.pptx)
+>#### [Producto Salud IPS](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-salud-IPS.pptx)
