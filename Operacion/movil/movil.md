@@ -1997,6 +1997,36 @@ De esta forma se parametriza la consulta de precios en dispositivo movil.
 
 ## [Ordenes de compra OORD para dispositivos movil](http://docs.oasiscom.com/Operacion/movil/#Ordenes_de_compra_OORD_para_dispositivos_movil)  
 
+Esta aplicación permite la generación y registro de las órdenes de compra. Realiza la liquidación correspondiente para su posterior control con las entradas por compra. Permite observar las órdenes de compra pendientes por recibir.  
+
+Esta opción OORD cuenta con la misma funcionalidad y campos que en versión web.  
+Maestro: se agrega el encabezado del documento, su ubicación, el numero es automático, edita el concepto con el tercero correspondiente a la orden de compra.  
+
++ **Documento:** Nombre del documento.  
++ **Numero:** Número consecutivo de orden de compra. El programa lo asigna automáticamente.  
++ **Ubicación:** Identificación y nombre del lugar desde donde se efectúa la orden de compra.   
++ **Fecha:** Fecha cuando se efectúa la orden. El sistema asigna la fecha actual por defecto.  
++ **Tercero:** Código del proveedor a quien se le envía la orden de compra.  
++ **Nombre Tercero:** Nombre del proveedor a quien se le envía la orden de compra. 
++ **Localización:** Identificación y nombre del lugar desde donde se efectúa el requerimiento de compra.  
+
+![](oord1.png)  
+
+En el detalle del OORD, se relaciona la descripción de los productos requeridos por la empresa y se están solicitando al proveedor.  
+
++ **Renglón:** Número de cada fila de pedido de productos a solicitar dentro del requerimiento.  
++ **Producto:** Código del producto que se requiere.  
++ **Nombre Producto:** Nombre del producto que se requiere.  
++ **Cantidad:** Cantidad requerida del producto.  
++ **Precio:** Precio al que se va a comprar el producto.  
++ **%Imp:** Porcentaje de impuesto.  
++ **% Descuento:** Porcentaje de descuento por producto.  
++ **Total:** Valor total de cada producto.  
++ **Unidad Medida:** Unidad de medida de cada producto.  
++ **Recibida:** Número de productos recibidos.  
++ **Requerimiento:** Identificación del requerimiento correspondiente.  
++ **Estado:**	Estado en el que se encuentra cada producto. 
+
 ## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
 
 
