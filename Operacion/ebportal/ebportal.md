@@ -40,6 +40,20 @@ editable: si
 9.3 [Aplicación BPLA-Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla-plantillas)  
 9.4 [Aplicación FRES-Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
 9.5 [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
+10. [Manual Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#manual-documento-soporte)  
+10.1 [Habilitación de la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#habilitación-de-la-aplicación-odeq)  
+10.1.1 [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
+10.1.2 [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
+10.1.3 [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
+10.2 [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)  
+10.2.1 [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
+10.2.2 [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)  
+10.2.2.1 [Aplicación BTER-Tercero](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bter-tercero)  
+10.2.2.2 [Aplicación BTIM–Tipos de Impuestos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-btim-tipos-de-impuestos)  
+10.2.3 [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)  
+10.2.3.1 [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
+10.2.3.2 [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
+10.3 [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
 
      
 
@@ -668,3 +682,99 @@ Una vez se realice la parametrización en la aplicación **FRES – Resoluciones
 
 **Importante:** Adicional a la información presentada anteriormente sobre la parametrización que se debe realizar para los documentos equivalentes, es importante que se tenga en cuenta lo indicado por la **DIAN** en el comunicado de prensa N° 55 del 21 de julio del 2020, el cual se relaciona a continuacion:
 [https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx](https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx)
+
+## [Manual Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#manual-documento-soporte)
+
+El siguiente manual se crea de acuerdo con la resolución # 0042 expedida por la DIAN, donde se realiza la explicación sobre la parametrización realizada para llevar un control sobre las compras que se realicen a terceros no obligados a expedir factura de venta. 
+
+## [Habilitación de la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#habilitación-de-la-aplicación-odeq)
+
+A continuación, se explica el paso a paso de cómo realizar la parametrización para terceros no obligados a expedir factura de venta
+
+### [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
+
+Luego se debe ingresar a la aplicación SROL - Roles, en el rol que corresponda. En el detalle en la pestaña programas se debe añadir un nuevo registro y agregar el programa ODEQ – Documento equivalente. 
+
+![](odeq1.png)
+
+### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)  
+
+En la aplicación WVAR - Variables, esta variable debe ser creada para que el sistema identifique que se debe crear un documento EQ. 
+
+![](odeq2.png)
+
+### [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
+
+A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ y en la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
+
+![](odeq3.png)
+
+![](odeq4.png)
+
+## [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)   
+### [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
+
+En la aplicación BDOC – Básico de documentos, se parametrizan los documentos existentes por los que se registran las compras (FP, CP y CF) ya sea a nivel de producto o a nivel de servicios, estos documentos deben estar marcados en el campo EBILL con la opción “Genera Documento Equivalente”. 
+
+![](odeq5.png)
+
+Al momento de confirmar las compras por las diferentes aplicaciones de OasisCom, el sistema identifica que debe crear automáticamente el documento EQ en la aplicación ODEQ – Documento equivalente.
+
+![](odeq6.png)
+
+### [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)  
+#### [Aplicación BTER-Tercero](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bter-tercero)  
+
+Para realizar la validación de los proveedores no obligados a expedir factura de venta, primero se debe validar en la aplicación BTER - Terceros y verificar el tipo de impuesto. 
+
+![](odeq7.png)
+
+#### [Aplicación BTIM–Tipos de Impuestos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-btim-tipos-de-impuestos)  
+
+El tipo de impuesto es el que nos indica si el proveedor está obligado o no a expedir factura de venta, el campo que nos indica lo mencionado anteriormente, es el campo declarante. Para verificar este proceso ingresamos a la aplicación BTIM - Tipos de Impuestos y filtramos por el número de impuesto del tercero. 
+
+![](odeq8.png)
+
+**Nota:** Si el campo declarante se encuentra con el check, quiere decir que el tercero que tenga ese tipo de impuesto está obligado a expedir factura de venta y todo lo que se adquiera con este tercero no se va a ver reflejado en la aplicación ODEQ – Documento Equivalente. Si se realiza la compra a un tercero y el tipo de impuesto que tiene relacionado no cuenta con el check, los movimientos se verán reflejados en la aplicación ODEQ - Documento Equivalente. 
+
+## [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)    
+### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)   
+
+En la aplicación FRES – Resoluciones se debe diligenciar la información que se encuentra en la resolución que envía la DIAN sobre documento soporte. 
+
+![](odeq9.png)
+
+Los campos se deben diligenciar de la siguiente manera:
+
++ **Documento:** Debe ir el documento que se utilice para el proceso de compras a sujetos no obligados a expedir Factura de Venta, para este caso el documento que debe ser diligenciado es EQ. 
++ **Ubicación:** Se debe diligenciar la ubicación correspondiente. 
++ **Caja:** Se debe diligenciar el número 1.
++ **Resolution ID:** En este campo se diligencia el número de resolución que se encuentra en el documento que envía la DIAN.
++ **Prefijo:** En este campo se debe diligenciar el prefijo en caso de que éste se encuentre asociado, si no se maneja prefijo se deja vacío este campo. Es importante tener en cuenta que, si se diligencia un prefijo, este debe ser exclusivo para el proceso de documentos soporte.
++ **Inicial y Final:** Se debe diligenciar el rango respectivo.
++ **Fecha inicial de resolución:** En este campo se digita la fecha inicial desde donde comprende la resolución.
++ **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
++ **Estado:** El estado debe ser “Activo”.
+
+### [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
+
+Una vez se realice la parametrización en la aplicación FRES – Resoluciones, se deben parametrizar los consecutivos en la aplicación BCNS – Consecutivos en el campo “Número” para que inicien de acuerdo con el rango inicial solicitado en la DIAN, digitando de igual forma el documento EQ y la ubicación a la que pertenece.
+
+![](manual 5.png)
+
+
+## [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
+
+Una vez se realicen las parametrizaciones mencionadas anteriormente, el sistema en la aplicación ODEQ – Documentos Equivalentes crea el documento EQ, proveniente de aquellas compras realizadas a los sujetos no obligados a expedir factura de venta, respetando la numeración parametrizada de acuerdo con la resolución.
+
+**Nota:** El sistema controla que el consecutivo que se asigne al documento EQ se encuentre acorde con la resolución parametrizada. 
+
+![](odeq11.png)
+
+Para identificar si la factura llegó o no, en los campos documento 1, número 1 y ubicación 1, se ve relacionado el documento original. 
+
+![](odeq12.png)
+
+En el detalle encontramos el producto, la cantidad, el precio, el total y la observación que se hayan registrado previamente. 
+
+![](odeq13.png)
