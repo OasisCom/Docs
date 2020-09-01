@@ -225,7 +225,23 @@ En esta sección, se explica el manejo de la mercancía separada y su efecto en 
 
 ![](vped65.png)
 
+Luego, se procede a realizar el pedido.  Se adiciona un nuevo registro (+).  En el campo _Documento_ se escribe **_PD_** de Pedidos; en el campo _Ubicación_, la ubicación definida; en el campo _Concepto_ **_PD_** de Pedidos; en el campo _Cliente_, el número de documento del cliente; se guarda el registro.
 
+![](vped66.png)  
 
+En el detalle, en el zoom del producto, se da click derecho y la opción _Ver saldo por Ubicación detallado_ y se toma el producto que se desea. Para la ilustración, hay 119 unidades disponibles del producto escogido y se separan 10 unidades. Se adiciona en el registro y en el detalle queda agregado correctamente y después se procesa.  
 
+![](vped67.png)  
+
+Posteriormente, se ingresa a la aplicación **Aprobación de Pedidos - VPPR** y con el número del pedido, se hace la aprobación.  Se hace click en el tercer botón: _Aprueba_Pedido_.  
+
+![](vped68.png)  
+
+Ahora se ingresa a la aplicación **Facturas - FFAC** y se crea la factura.  En el campo _Documento_, **_FC_** de Factura de venta, en el campo _Ubicación_, la misma ubicación; en el campo _Concepto_, **_FC_**; en el campo _Tercero_, el mismo cliente del pedido.  Y en la parte inferior, se procede a relacionar el Documento. En el campo _Documento1_, **_PD_**, en el campo _Ubicación1_, la misma ubicación; y en el campo _Número1_, el número del pedido.  Se llena también el campo _Condición de pago_ y se guarda el registro.  El sistema hereda en el detalle, la misma información del pedido. Se revisa la respectiva parametrización en las pestañas _Detalle_ y _Pago_ y se procesa la factura.  
+
+![](vped69.png)  
+
+Se puede confirmar que luego de procesado el pedido, se había actualizado el campo _Separada_ en el detalle a Diez (10).  Se actualiza el mismo documento y ahora el campo se actualiza a la cantidad Cero (0), debido a que la cantidad ya no está separada sino facturada.  
+
+![](vped70.png) 
 
