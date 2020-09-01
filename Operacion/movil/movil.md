@@ -1995,7 +1995,7 @@ De esta forma se parametriza la consulta de precios en dispositivo movil.
 
 
 
-
+## [Ordenes de compra OORD para dispositivos movil](http://docs.oasiscom.com/Operacion/movil/#Ordenes_de_compra_OORD_para_dispositivos_movil)  
 
 ## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
 
