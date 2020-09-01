@@ -239,9 +239,13 @@ Posteriormente, se ingresa a la aplicación **Aprobación de Pedidos - VPPR** y 
 
 Ahora se ingresa a la aplicación **Facturas - FFAC** y se crea la factura.  En el campo _Documento_, **_FC_** de Factura de venta, en el campo _Ubicación_, la misma ubicación; en el campo _Concepto_, **_FC_**; en el campo _Tercero_, el mismo cliente del pedido.  Y en la parte inferior, se procede a relacionar el Documento. En el campo _Documento1_, **_PD_**, en el campo _Ubicación1_, la misma ubicación; y en el campo _Número1_, el número del pedido.  Se llena también el campo _Condición de pago_ y se guarda el registro.  El sistema hereda en el detalle, la misma información del pedido. Se revisa la respectiva parametrización en las pestañas _Detalle_ y _Pago_ y se procesa la factura.  
 
-![](vped69.png)  
+![](vped69.png) 
+
+![](vped70.png) 
 
 Se puede confirmar que luego de procesado el pedido, se había actualizado el campo _Separada_ en el detalle a Diez (10).  Se actualiza el mismo documento y ahora el campo se actualiza a la cantidad Cero (0), debido a que la cantidad ya no está separada sino facturada.  
 
-![](vped70.png) 
+![](vped71.png)  
+
+![](vped72.png) 
 
