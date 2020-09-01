@@ -2010,9 +2010,11 @@ Maestro: se agrega el encabezado del documento, su ubicación, el numero es auto
 + **Nombre Tercero:** Nombre del proveedor a quien se le envía la orden de compra. 
 + **Localización:** Identificación y nombre del lugar desde donde se efectúa el requerimiento de compra.  
 
-![](oord1.png)  
+![](oord2.png)  
 
 En el detalle del OORD, se relaciona la descripción de los productos requeridos por la empresa y se están solicitando al proveedor.  
+
+![](oord3.png)  
 
 + **Renglón:** Número de cada fila de pedido de productos a solicitar dentro del requerimiento.  
 + **Producto:** Código del producto que se requiere.  
