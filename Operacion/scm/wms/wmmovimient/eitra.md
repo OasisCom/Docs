@@ -159,17 +159,19 @@ Para realizar el registro de un almacenamiento de mercancía, ingresamos a la ap
 
 ![](eitra8.png)
 
-El documento para los movimientos en la aplicación EITRA siempre será _TI_ y por lo tanto el sistema no lo dejará modificar.  
+El **Documento** para los movimientos en la aplicación EITRA siempre será _TI_ y por lo tanto el sistema no lo dejará modificar.  
 
-**Ubicación Id:** seleccionamos del zoom la ubicación en la cual se está registrando el almacenamiento.  
+**Número:** el sistema genera el consecutivo automáticamente
+**Ubicación:** seleccionamos del zoom la ubicación en la cual se está registrando el almacenamiento, es decir, el número que representa la bodega en la que voy a ingresar los productos.  
 **Concepto:** abrimos el zoom y seleccionamos el concepto _AL - Almacenamiento_.  
 
 ![](eitra9.png)
 
-**Motivo Id:** ingresamos motivo 0.  
-**Fecha:** seleccionar la fecha en la cual se realiza el registro.  
-**Número Id1:** abrimos el zoom y seleccionamos el pedido del cual realizaremos el almacenamiento de la mercancía. Al seleccionar el pedido, los campos _Cliente Id, Documento Id1_ y _Location Id1_ se diligenciarán automáticamente.  
+**Fecha:** seleccionar la fecha en la cual se realiza el almacenamiento.    
 
+**Fecha:** se registra el NIT del proveedor.  
+
+Posteriormente, se registran la información del Documento Referente:
 ![](eitra10.png)  
 
 Diligenciados los datos damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando el número de consecutivo con el cual se registró.  
