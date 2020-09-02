@@ -221,7 +221,7 @@ En este momento se pasa a relacionar la Factura con el Pedido.  Este proceso es 
 
 ## [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 
-En esta sección, se explica el manejo de la mercancía separada y su efecto en la factura de venta.  Es importante tener en cuenta que este proceso aplica en las empresas que cuentan con varios vendedores y que realizan pedidos de mercancía desde diferentes ubicaciones y necesitan reservar o apartar una determinada cantidad de producto para asegurarse que no vaya a ser apartada o vendida por otro vendedor.  El primer paso es asegurar que la parametrización donde se va a realizar el pedido y la factura se encuentre correcta.  La forma correcta es que en la aplicación **Ubicaciones Organización - BUBI**, el campo _Separada_ debe estar con el _check_ activado.  
+En esta sección, se explica el manejo de la mercancía separada y su efecto en la factura de venta.  Es importante tener en cuenta que este proceso aplica en las empresas que cuentan con varios vendedores, que realizan pedidos de mercancía desde diferentes ubicaciones y necesitan reservar o apartar una determinada cantidad de producto para asegurarse que no vaya a ser apartada o vendida por otro vendedor.  El primer paso es asegurar que la parametrización donde se van a realizar el pedido y la factura se encuentre correcta.  La forma correcta es que en la aplicación **Ubicaciones Organización - BUBI**, el campo _Separada_ debe estar con el _check_ activado.  
 
 ![](vped65.png)
 
@@ -229,7 +229,7 @@ Luego, se procede a realizar el pedido.  Se adiciona un nuevo registro (+).  En 
 
 ![](vped66.png)  
 
-En el detalle, en el zoom del producto, se da click derecho y la opción _Ver saldo por Ubicación detallado_ y se toma el producto que se desea. Para la ilustración, hay 119 unidades disponibles del producto escogido y se separan 10 unidades. Se adiciona en el registro y en el detalle queda agregado correctamente y después se procesa.  
+En el detalle, en el zoom del producto, se da click derecho, escogiendo la opción _Ver saldo por Ubicación detallado_: aquí, se toma el producto que se desea. Para la ilustración, hay 119 unidades disponibles del producto escogido, se separan 10 unidades. Se adiciona en el registro. En el detalle queda agregado correctamente. Después se procesa.  
 
 ![](vped67.png)  
 
@@ -237,7 +237,7 @@ Posteriormente, se ingresa a la aplicación **Aprobación de Pedidos - VPPR** y 
 
 ![](vped68.png)  
 
-Ahora se ingresa a la aplicación **Facturas - FFAC** y se crea la factura.  En el campo _Documento_, **_FC_** de Factura de venta, en el campo _Ubicación_, la misma ubicación; en el campo _Concepto_, **_FC_**; en el campo _Tercero_, el mismo cliente del pedido.  Y en la parte inferior, se procede a relacionar el Documento. En el campo _Documento1_, **_PD_**, en el campo _Ubicación1_, la misma ubicación; y en el campo _Número1_, el número del pedido.  Se llena también el campo _Condición de pago_ y se guarda el registro.  El sistema hereda en el detalle, la misma información del pedido. Se revisa la respectiva parametrización en las pestañas _Detalle_ y _Pago_ y se procesa la factura.  
+Ahora se ingresa a la aplicación **Facturas - FFAC** para crear la factura.  En el campo _Documento_, **_FC_** de Factura de venta, en el campo _Ubicación_, la misma ubicación; en el campo _Concepto_, **_FC_**; en el campo _Tercero_, el mismo cliente del pedido.  En la parte inferior, se procede a relacionar el Documento. En el campo _Documento1_, **_PD_**, en el campo _Ubicación1_, la misma ubicación; en el campo _Número1_, el número del pedido.  Se llena también el campo _Condición de pago_ y se guarda el registro.  El sistema hereda en el detalle, la misma información del pedido. Se revisa la respectiva parametrización en las pestañas _Detalle_ y _Pago_ y se procesa la factura.  
 
 ![](vped69.png) 
 
