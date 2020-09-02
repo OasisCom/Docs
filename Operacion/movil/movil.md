@@ -2737,7 +2737,13 @@ Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para real
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
 ## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/movil/#proceso-pedidos-retenidos-copr)  
 
-Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos.   En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial.   El segundo escenario es es cuanto al proceso comercial se cumple.  
+Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos.   En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial.   El segundo escenario es es cuando al proceso comercial se cumple (SI).  
+
+![](copr1.png)  
+
+**Nota:** Dependiendo del proceso por el cual haya sido retenido el pedido, en la aplicación **COPR** - Pedidos retenidos se puede dejar un comentario especificando dicho motivo, para que el vendedor pueda identificar, por ejemplo, por qué el pedido fue devuelto o rechazado.  
+
+![](copr2.png)  
 
 ## Adjuntos en opcion movil VPED - Pedidos.  
 
