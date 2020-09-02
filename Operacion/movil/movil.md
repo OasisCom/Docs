@@ -2735,9 +2735,9 @@ Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para real
 ![](mifis4.png)  
 
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
+## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/movil/#proceso-pedidos-retenidos-copr)  
 
-
-## Adjuntos en opcion movil **VPED** - Pedidos.  
+## Adjuntos en opcion movil VPED - Pedidos.  
 
 Se agrega Botón al editar un registro en la opcion **VPED**.  
 
