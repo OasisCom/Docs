@@ -229,9 +229,25 @@ Luego, se procede a realizar el pedido.  Se adiciona un nuevo registro (+).  En 
 
 ![](vped66.png)  
 
-En el detalle, en el zoom del producto, se da click derecho, escogiendo la opción _Ver saldo por Ubicación detallado_: aquí, se toma el producto que se desea. Para la ilustración, hay 119 unidades disponibles del producto escogido, se separan 10 unidades. Se adiciona en el registro. En el detalle queda agregado correctamente. Después se procesa.  
+En el detalle, en el zoom del producto, se da click derecho, escogiendo la opción _Ver saldo por Ubicación detallado_  
 
-![](vped67.png)  
+![](vped30.png)  
+
+Aquí, se toma el producto que se desea. Para la ilustración, hay 119 unidades disponibles del producto escogido, se separan 10 unidades. 
+
+![](vped31.png)  
+
+![](vped32.png)
+
+Se adiciona en el registro. En el detalle queda agregado correctamente.  
+
+![](vped33.png)  
+
+![](vped34.png)
+
+Después se procesa.  
+
+![](vped35.png)  
 
 Posteriormente, se ingresa a la aplicación **Aprobación de Pedidos - VPPR** y con el número del pedido, se hace la aprobación.  Se hace click en el tercer botón: _Aprueba_Pedido_.  
 
