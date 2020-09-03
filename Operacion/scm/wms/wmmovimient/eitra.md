@@ -161,7 +161,7 @@ Para realizar el registro de un almacenamiento de mercancía, ingresamos a la ap
 
 El **Documento** para los movimientos en la aplicación EITRA siempre será _TI_ y por lo tanto el sistema no lo dejará modificar.  
 
-**Número:** el sistema genera el consecutivo automáticamente
+**Número:** el sistema genera el consecutivo automáticamente.  
 **Ubicación:** seleccionamos del zoom la ubicación en la cual se está registrando el almacenamiento, es decir, el número que representa la bodega en la que voy a ingresar los productos.  
 **Concepto:** abrimos el zoom y seleccionamos el concepto _AL - Almacenamiento_.  
 
@@ -178,7 +178,7 @@ Para esta ilustración, se crea un _Documento_ de entrada **_EN_**, en la _Ubica
 
 ![](eitra10.png)  
 
-Diligenciados los datos damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando que la transacción fue exitosa.  
+Diligenciados los datos, damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando que la transacción fue exitosa.  
 
 ![](eitra11.png)  
 
