@@ -188,8 +188,6 @@ A continuación, nos dirigimos a la pestaña _Detalle_ en donde realizaremos la 
 
 Para realizar el almacenamiento en las bodegas damos click en el botón ![](boton1.png).  Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento.  
 
-![](eitra12.png)  
-
 * Las posiciones en color _**Verde**_ o _**Naranja_**, son bodegas disponibles para almacenar mercancía ya que su capacidad no ha llegado al 100%.  
 
 * Las posiciones en color _**Rojo**_ son bodegas no disponibles ya que están con su capacidad al 100%.  
