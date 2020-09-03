@@ -198,9 +198,11 @@ De igual manera, si se conoce el número o el nombre de la posición, se puede i
 
 ![](eitra32.png)
 
-Una vez definida la posición, se da click en la posición y el sistema muestra otra ventana en la que se indica la cantidad de unidades a ingresar o almacenar.  Para la ilustración, se van a almacenar 5 unidades en una posición.  Después de dar click en aceptar, aparece un aviso indicando que: _Se agregaron las cantidades a esta posición_.  
+Una vez definida la posición, se da click en la posición y el sistema muestra otra ventana en la que se indica la cantidad de unidades a ingresar o almacenar.  Para la ilustración, se van a almacenar 5 unidades en una posición.  
 
 ![](eitra33.png)  
+
+Después de dar click en aceptar, aparece un aviso indicando que: _Se agregaron las cantidades a esta posición_.   
 
 ![](eitra34.png)  
 
@@ -224,7 +226,7 @@ Finalizado el almacenamiento, aparece en la parte inferior, el botón _Terminar 
 
 ![](eitra14.png)  
 
-Si me doy cuenta que algún producto no quedó almacenado en el lugar correcto, puedo borrar con el botón ![](eitra29.png) y volver a almacenarlos.  
+Si me doy cuenta que algún producto no quedó almacenado en el lugar correcto, puedo borrar con el botón ![](eitra12.png) y volver a almacenarlos.  
 
 ![](eitra39.png)
 
