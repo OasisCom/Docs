@@ -20,7 +20,7 @@ editable: si
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
 
->##### [WEBINAR: Documentos equivalentes según la norma de la DIAN - Memorias](http://docs.oasiscom.com/Mercadeo/Webinar-DOC-Soporte.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Documentos equivalentes según la norma de la DIAN - Memorias](http://docs.oasiscom.com/Mercadeo//Webinars/Webinar-DOC-Soporte.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
 >##### [WEBINAR: Las ventajas del E-commerce en una sociedad Digital  - Memorias](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar E-Commerce.pdf)
 
