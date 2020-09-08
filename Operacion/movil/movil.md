@@ -2538,7 +2538,7 @@ En la pestaña producto, realiza el scanneo:
 
 
 
-se permite ingresar observaciones desde la aplicación móvil en el proceso del picking desde el MITRA.
+Permite ingresar observaciones desde la aplicación móvil en el proceso del picking desde el MITRA.  
 ![](mitra16.2.png)  
 
 Finalizando el proceso de piking.  
