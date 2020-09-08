@@ -10,7 +10,8 @@ editable: si
 
 
 * [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
-* [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)
+* [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)  
+* [Contratos de Venta - Dispensación de medicamentos](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---dispensación-de-medicamentos)
 
 ## [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
 
@@ -89,3 +90,27 @@ Esto para retornar el Contrato de venta del tercero, que son los campos de refer
 Dado que por el concepto configurado del GMOV, tenemos identificado a que tipo pertenece **Capita o Evento**.
 
 Se realiza la búsqueda del contrato de venta cada vez que se cambie el valor sobre el campo.  
+
+## [Contratos de Venta - Dispensación de medicamentos](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---dispensación-de-medicamentos)  
+
+En esta sección, se explica la creación de un Contrato de venta para dispensación de medicamentos.  Ingresando a esta aplicación **VCNT**, se adiciona un nuevo registro (+), se utiliza el _Documento_ **CV**; la _Ubicación_ que corresponda; _Concepto_ **DP** que corresponde a _**Dispensación de medicamentos**_; en _Fecha_, la fecha de registro del Contrato; en el campo _Tercero_, el tercero que corresponda; el _Vendedor_, si se tiene; en el _Tipo de precio_, se elige del menú (para la ilustración, se elige _**Evento**_); en el campo _Fecha Inicial_, se escribe la fecha inicial del contrato; y en _Fecha final_, la fecha final del contrato; en el campo _Contrato Cliente_, la referencia como tal del contrato; en el campo _Remisión factura_, se escribe cómo se va a facturar el contrato, es decir, si por ejemplo por cada dispensación se va a generar una factura o si se va a esperar todas las dispensaciones del mes para generar una sola factura (para la ilustración, se elige _Pre-factura_); en el campo _Tipo liquidación_, siempre se debe elegir la opción _**Maestro**_; en el campo _Clase_, se debe elegir si es un Contrato **_Capitado_** o un Contrato de _**Evento**_; en el campo _TipoContrato_, se elige la opción _**Dispensación**_; en el campo _NoAfiliados_, la cantidad de afiliados; y en el campo _Asegurado_, el valor del contrato.  Finalmente, se guarda el registro.  
+
+![](vcnt14.png)  
+
+En la parte inferior, en la pestaña _Detalle_, se adiciona un registro (+) y se registra únicamente el _Producto_ Cero (0), con _Cantidad_ Cero (0), _TipoContrato_ _**D**_ correspondiente a **Dispensación** y nuevamente su _T.Precio_ tipo de precio.  Se guarda el registro.  
+
+![](vcnt15.png)   
+
+En la pestaña _Ubicaciones_, se adiciona un registro (+) y se registra _UbicaciónUse_ Cero (0), el mismo _Cupo_ (muy importante resaltar que debe coincidir con el que se registró en el _Maestro_, también de nuevo en _T.Precio_ _**Evento**_.  Se guarda el registro.  
+
+![](vcnt16.png)  
+
+Con estos pasos, se termina el registro del contrato y se puede procesar.   
+
+![](vcnt17.png)   
+
+En este momento, ya queda listo el contrato para iniciar el proceso de Dispensación de medicamentos. 
+
+
+
+
