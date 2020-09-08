@@ -161,35 +161,34 @@ Para realizar el registro de un almacenamiento de mercancía, ingresamos a la ap
 
 El **Documento** para los movimientos en la aplicación EITRA siempre será _TI_ y por lo tanto el sistema no lo dejará modificar.  
 
-**Número:** el sistema genera el consecutivo automáticamente
+**Número:** el sistema genera el consecutivo automáticamente.  
 **Ubicación:** seleccionamos del zoom la ubicación en la cual se está registrando el almacenamiento, es decir, el número que representa la bodega en la que voy a ingresar los productos.  
 **Concepto:** abrimos el zoom y seleccionamos el concepto _AL - Almacenamiento_.  
 
 ![](eitra9.png)
 
 **Fecha:** seleccionar la fecha en la cual se realiza el almacenamiento.    
+**Tercero:** se registra el NIT del proveedor.  
 
-**Fecha:** se registra el NIT del proveedor.  
+![](eitra20.png)
 
-Posteriormente, se registran la información del Documento Referente:  
+Posteriormente, se registra la información del Documento Referente:  
 
 Para esta ilustración, se crea un _Documento_ de entrada **_EN_**, en la _Ubicación_ **111**, se crea la entrada con el _Número_ **81**.  
 
 ![](eitra10.png)  
 
-Diligenciados los datos damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando que la transacción fue exitosa.  
+Diligenciados los datos, damos click en el botón _Guardar_. El sistema arrojará un mensaje de control indicando que la transacción fue exitosa.  
 
 ![](eitra11.png)  
 
-A continuación, nos dirigimos a la pestaña _Detalle_ en donde realizaremos la distribución del almacenamiento de la mercancía. En esta pestaña se puede visualizar la siguiente información:  El producto y la cantidad de producto que se va a almacenar.  También se encuentran 2 botones en la parte derecha. El primero, sirve para agregar cantidades parciales y el segundo para agregar la cantidad total en una posición.  En esta zona se deberán trasladar los productos (que están a la izquierda) que se desean almacenar en las posiciones que tienen definidas las bodegas.  
+A continuación, nos dirigimos a la pestaña _Detalle_ en donde realizaremos la distribución del almacenamiento de la mercancía. En esta pestaña se puede visualizar la siguiente información:  El producto y la cantidad de producto que se va a almacenar.  También se encuentran 2 botones en la parte derecha. El primero, sirve para agregar cantidades parciales ![](boton1.png) y el segundo para agregar la cantidad total en una posición ![](boton2.png).  
 
-Para realizar el almacenamiento en las bodegas damos click en el botón ![](boton1.png).  
+![](eitra31.png)  
 
-![](eitra12.png)  
+Para realizar el almacenamiento en las bodegas damos click en el botón ![](boton1.png).  Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento.  
 
-Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento. 
-
-* Las posiciones en color _**Verde**_ o _**Naranja_**, son bodegas disponibles para almacenar mercancía ya que su capacidad no ha llegado al 100%.  
+* Las posiciones en color _**Verde**_ o **_Naranja_**, son bodegas disponibles para almacenar mercancía ya que su capacidad no ha llegado al 100%.  
 
 * Las posiciones en color _**Rojo**_ son bodegas no disponibles ya que están con su capacidad al 100%.  
 
@@ -197,32 +196,51 @@ Se abrirá una ventana en donde se visualizarán las bodegas de almacenamiento.
 
 De igual manera, si se conoce el número o el nombre de la posición, se puede ingresar en el campo _Buscar Posición_, de lo contrario, se da click en las flechas que se encuentran en la parte inferior derecha para que el sistema muestre todas las posiciones que contiene la bodega.  
 
+![](eitra32.png)
 
+Una vez definida la posición, se da click en la posición y el sistema muestra otra ventana en la que se indica la cantidad de unidades a ingresar o almacenar.  Para la ilustración, se van a almacenar 5 unidades en una posición.  
 
-Una vez definida la posición, se da click en la posición y el sistema muestra otra ventana en la que se indica la cantidad de unidades a ingresar o almacenar.  Para la ilustración, se van a almacenar 5 unidades en una posición.  Después de dar click en aceptar, aparece un aviso indicando que _Se agregaron las cantidades a esta posición_. Como son 15 unidades en total, se agregan 10 unidades en otra posición.  Luego de dar click en aceptar, aparece otro aviso que indica que _Ya se agregaron todas las cantidades de este producto_ y además una ventana mostrando las cantidades y la posición donde quedaron almacenadas; además, la ventana inicial donde se muestra que hay 0 productos para almacenar.
+![](eitra33.png)  
 
-Para el otro producto de la ventana, se da click en el botón ![](eitra29.png) que es para almacenar todo en una misma ubicación y aparece el avisto de control indicando que  _Ya se agregaron todas las cantidades de este producto_ y la ventana que muestra los productos y la posición donde quedaron almacenados, además, la ventana inicial donde se muestra que hay 0 productos para almacenar
+Después de dar click en aceptar, aparece un aviso indicando que: _Se agregaron las cantidades a esta posición_.   
 
+![](eitra34.png)  
+
+Como son 15 unidades en total, se agregan 10 unidades en otra posición.  
+
+![](eitra35.png)  
+
+Luego de dar click en aceptar, aparece otro aviso que indica que _Ya se agregaron todas las cantidades de este producto_ y además una ventana mostrando las cantidades y la posición donde quedaron almacenadas; además, la ventana inicial donde se muestra que hay 0 productos para almacenar.  
+
+![](eitra36.png)
+ 
+Para el otro producto de la ventana, se da click en el botón ![](boton2.png) que es para almacenar todo en una misma ubicación.  
+
+![](eitra37.png)
+
+Aparece el aviso de control indicando que  _Ya se agregaron todas las cantidades de este producto_ y la ventana que muestra los productos y la posición donde quedaron almacenados; además, la ventana inicial donde se muestra que hay 0 productos para almacenar.   
+
+![](eitra38.png)
 
 Finalizado el almacenamiento, aparece en la parte inferior, el botón _Terminar almacenamiento_.  Cuando ya se está seguro de que todo quedó almacenado en el lugar correcto, se da click en este botón.    
 
 ![](eitra14.png)  
 
-Si me doy cuenta que algún producto no quedó almacenado en el lugar correcto, puedo borrar con el botón ![](eitra29.png) y volver a almacenarlos.  
+Si me doy cuenta que algún producto no quedó almacenado en el lugar correcto, puedo borrar con el botón ![](eitra12.png) y volver a almacenarlos.  
+
+![](eitra39.png)
 
 Después de dar click en el botón _Terminar almacenamiento_, el sistema arroja un aviso que dice: _Almacenamiento terminado correctamente_ y se creará un registro (campo _Número_) por cada localización de las bodegas seleccionadas.  
 
-
+![](eitra40.png)
 
 Este registro, aparece en el detalle de la aplicación **Trabajos - ITRA**, en donde filtraremos por el número de consecutivo del registro.  
 
 ![](eitra15.png)
 
-Esta misma información, también se puede corroborar a través de la aplicación **Saldos por localización - ISPL**, se consulta por _Producto_ y _Ubicación_
+Esta misma información, también se puede corroborar a través de la aplicación **Saldos por localización - ISPL**, se consulta por _Producto_ y _Ubicación_.  
 
-Finalmente, procesamos el documento.  
-
-![](eitra16.png)
+![](eitra43.png)
 
 ## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
 
