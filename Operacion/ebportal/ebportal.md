@@ -707,11 +707,25 @@ En la aplicación WVAR - Variables, esta variable debe ser creada para que el si
 
 ### [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
 
-A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ y en la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
+A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ. 
 
-![](odeq3.png)
+**Importante:** En el campo programa debe ir diligenciado la aplicación que vamos a requerir, en este caso la aplicación ODEQ. En el campo ebill se debe seleccionar la opción NO EBILL, únicamente para el documento EQ lleva esta opción. 
 
-![](odeq4.png)
+![](eq01.png)
+
+En el detalle la pestaña status debe ir diligenciado el concepto N. 
+
+![](eq02.png)
+
+En la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
+
+![](eq03.png)
+
+### [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)
+
+En la aplicación BPRO -Productos, se debe añadir un nuevo registro y crear el producto numero 1, para utilizar este modelo en aplicación PMOV y TMEN. No es necesario ponerle nombre al producto, en el campo inventario Terminado y en el estado activo.
+
+![](eq04.png)
 
 ## [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)   
 ### [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
