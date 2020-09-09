@@ -93,6 +93,8 @@ Nótese que al momento de crear la cita el estatus del registro de la opción **
 
 ![](gcal9.png)
 
+Este campo nos valida si la cita este campo es por la ESP o Particular.  
+![](gcal19.1.png)  
 
 Creada la cita se debe actualizar la hora de llegada, cabe aclarar que este botón se utiliza únicamente cuando el *Status* del registro es asignado, donde se indica que el paciente se encuentra en sala, listo para ser atendido. Para actualizar la hora de llegada damos clic en el botón ![](actualizar.png). 
 
