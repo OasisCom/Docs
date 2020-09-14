@@ -178,6 +178,31 @@ Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:
 
 
 
-![](mord10.png)
+![](mord10.png)  
+
+
+Dispensación de medicamentos  
+
+Hay que tener en cuenta que debe existir un Contrato previamente creado en la aplicación **VCNT**.  
+
+Para el proceso de dispensación de medicamentos, se adiciona un nuevo registro (+).  En el campo _Documento_, siempre se elige la opción **_ST_** que corresponde a **Salidas de Inventario**; en el campo _Ubicación_, el código de la farmacia que corresponda;  en el campo _Servicios_, el servicio que corresponda.  En este campo, es importante tener en cuenta que si se escoge la opción _**Capitado**_, es porque se va a dispensar algo del **Contrato de Cápita** y si se elige el de **Evento** es para dispensar algo del **Contrato de Evento**.  Para el ejemplo en este caso, se selecciona uno de _**Evento**_;  en el campo _Tipo de Consulta_, se elige del menú el que corresponda.  Para el ejemplo, se escoge la opción _**Embarazada**_.  
+
+
+Regresando al registro en la aplicación **GMOV**, Los campos  _Servicios_ y _Tipo de Consulta_, son parametrizables en la opción **BDOC**.  Al ingresar a la aplicación, se elige el _Documento_ **_ST_** y en la parte inferior, aparecen todos los _Conceptos_ y en el campo _**Tipo**_, se elige si es **Capitado** o **Evento**.  
+
+
+En el campo _Fecha_, se escribe la fecha del registro de la Dispensación;  el campo _Tercero_, se toma automáticamente de la aplicación **SUSU**, de lo que se tiene registrado en el _Usuario_, en el campo **_Organización_**.  
+
+Retomando **GMOV**, en el campo _ID Afiliado_, se registra la cédula del afiliado.  En este campo, se puede entrar a buscar o se escribe si ya se conoce.  Al dar tab, el sistema diligencia el nombre, la EPS que tiene asociada.  El Contrato es el que ya se registró con anterioridad y el que está asociado al _Servicio_ porque es _Evento_ y al _Tercero_ que ha sido seleccionado.  
+
+En el campo _Doctor_, se registra el número de documento del doctor si se conoce o se puede buscar; en el campo FormulaDate, va la fecha en la que se registra la fórmula; en el campo _Fórmula_, se registra el número de referencia de la fórmula; en el campo _Diagnóstico_, se busca por Zoom el diagnóstico que aparece en la fórmula; en el campo _FechaEntrega_, la fecha en la que se entrega el medicamento; si la dispensación se hace a domicilio, se activa el check.  
+
+
+Se guarda el registro.  
+
+
+En la parte inferior, se entra a asociar los productos que corresponden. Se adiciona un registro(+).  En el campo _Producto_, se da click derecho y se elige la tercera opción: _Seleccionar productos para agregar al detalle_
+
+
 
 
