@@ -113,6 +113,10 @@ Se creará un documento _IM_ por concepto IM y se completará el formulario con 
 **Puerto de destino:** nombre del puerto o aeropuerto a donde llegará la mercancía.  
 **Containers:** cantidad de containers en los que viene la mercancía.  
 
+Si el cliente lo prefiere, puede ingresar los valores de manera manual, sino, el sistema también lo puede calcular.  
+
+La pre-liquidación se puede realizar todas las veces que sea necesario.  
+
 Diligenciado el formulario damos click en _Guardar_.  
 
 Al dar click en _Guardar_, el sistema trae el detalle con los productos de la orden de compra, cantidades y precios.  
@@ -127,13 +131,13 @@ El sistema arrojará un mensaje de confirmación y creará el renglón 0 en el d
 
 ![](yimp12.png)
 
-En la siguiente pestaña del detalle podremos ver el cálculo de los conceptos por producto.  
+En la siguiente pestaña del detalle podremos ver el cálculo de los conceptos por producto.  El sistema hace el cálculo de cuánto le corresponde a cada producto por concepto.  En el campo _Valor1_, el sistema indica el valor en moneda extranjera y en el campo _Valor_, el valor en pesos colombianos.  Cada compañía elige cuáles son los conceptos a utilizar.  
 
 ![](yimp13.png)
 
 **_Nota:_** Si se requiere modificar algún dato del maestro, es necesario volver a dar click en el botón _**Liquidación Importación**_.  
 
-Verificada la información tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
+Verificada la información, es decir, cuando ya se esté seguro o ya tengamos los documentos o estén contabilizados, por ejemplo, factura del proveedor, gastos de transporte y seguros (que son los primeros en llegar; los demás se pueden ir calculando de acuerdo al histórico) tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
 
 ![](yimp14.png)
 
@@ -152,14 +156,20 @@ Diligenciado el formulario damos click en el botón _Guardar_. El sistema al gua
 
 ![](imov17.png)
 
-Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle **Contabilización**.  
+Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle **Contabilización**. Existen dos formas de contabilizar la mercancía: puede ser contra _Mercancías no fabricadas_; a otras compañías les gusta pasar primero la mercancía por una cuenta que se llama _Mercancía en tránsito_ y se hace la entrada a _Mercancías por nacionalizar_.  Cuando ya esté nacionalizada, se hace un traslado.   
 
-![](imov18.png)
+![](imov18.png)  
+
+De esta manera, ya disponemos del inventario con un costo para poderlo facturar, remisionar, trasladar dentro de las diferentes bodegas, localizaciones o ubicaciones. 
 
 _**Validación de liquidaciones**_  
 
-Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información de la liquidación total en la aplicación _YLIQ - Liquidaciones_. Consultamos por el proyecto que esté asociado a la importación.  
+Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información de la liquidación total en la aplicación _YLIQ - Liquidaciones_. Consultamos por el proyecto que esté asociado a la importación.  Esta aplicación es importante porque nos permite validar en cuánto proyectamos el ingreso de la mercancía y cuánto realmente ingresó.
 
-![](yliq.png)
+![](yliq.png)  
+
+Existen aplicaciones para controlar el proceso de importación, por ejemplo el reporte **YRRI - Resumen de importaciones**, nos dice en qué estado se encuentran las importaciones, ya que algunas pueden estar en orden de compra, otras en tránsito, otras pueden estar en puerto y otras en tránsito interno; entonces el control se puede llevar a través de esta aplicación.  
+
+![](yimp15.png)
 
 Aquí finaliza el proceso de importaciones en OasisCom.  
