@@ -5,10 +5,11 @@ permalink: /Operacion/is/hospital/ginventario/gmov
 editable: si
 ---
 
-* [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)  
-
 
 # Movimientos de Inventario - GMOV
+
+
+* [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
 
@@ -310,7 +311,7 @@ Al dar click en procesar, el sistema en la dispensación original, en la pestañ
 
 ![](gmov41.png)  
 
-Cuando se empieza a realizar el proceso de las programaciones mensuales, aparecerá también con el Estado _Terminado_ e indicando cuál fue la dispensación que se generó.
+Cuando se empieza a realizar el proceso de las programaciones mensuales, aparecerán también con el Estado _Terminado_ e indicando cuál fue la dispensación que se generó.
 
 
 
