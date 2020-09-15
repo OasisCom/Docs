@@ -5,6 +5,9 @@ permalink: /Operacion/is/hospital/ginventario/gmov
 editable: si
 ---
 
+* [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)  
+
+
 # Movimientos de Inventario - GMOV
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
@@ -181,27 +184,143 @@ Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:
 ![](mord10.png)  
 
 
-Dispensación de medicamentos  
+## [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)  
 
 Hay que tener en cuenta que debe existir un Contrato previamente creado en la aplicación **VCNT**.  
 
 Para el proceso de dispensación de medicamentos, se adiciona un nuevo registro (+).  En el campo _Documento_, siempre se elige la opción **_ST_** que corresponde a **Salidas de Inventario**; en el campo _Ubicación_, el código de la farmacia que corresponda;  en el campo _Servicios_, el servicio que corresponda.  En este campo, es importante tener en cuenta que si se escoge la opción _**Capitado**_, es porque se va a dispensar algo del **Contrato de Cápita** y si se elige el de **Evento** es para dispensar algo del **Contrato de Evento**.  Para el ejemplo en este caso, se selecciona uno de _**Evento**_;  en el campo _Tipo de Consulta_, se elige del menú el que corresponda.  Para el ejemplo, se escoge la opción _**Embarazada**_.  
 
+![](gmov5.png)  
 
-Regresando al registro en la aplicación **GMOV**, Los campos  _Servicios_ y _Tipo de Consulta_, son parametrizables en la opción **BDOC**.  Al ingresar a la aplicación, se elige el _Documento_ **_ST_** y en la parte inferior, aparecen todos los _Conceptos_ y en el campo _**Tipo**_, se elige si es **Capitado** o **Evento**.  
+Nota: En la aplicación **GMOV**, Los campos  _Servicios_ y _Tipo de Consulta_, son parametrizables en la opción **BDOC**.  Al ingresar a la aplicación, se elige el _Documento_ **_ST_** y en la parte inferior, aparecen todos los _Conceptos_ y en el campo _**Tipo**_, se elige si es **Capitado** o **Evento**.  
 
+![](gmov6.png)  
 
-En el campo _Fecha_, se escribe la fecha del registro de la Dispensación;  el campo _Tercero_, se toma automáticamente de la aplicación **SUSU**, de lo que se tiene registrado en el _Usuario_, en el campo **_Organización_**.  
+Continuando con el registro en **GMOV**, en el campo _Fecha_, se escribe la fecha del registro de la Dispensación;  el campo _Tercero_, se toma automáticamente de la aplicación **SUSU**, de lo que se tiene registrado en el _Usuario_, en el campo **_Organización_**. 
+
+![](gmov7.png)  
+
+![](gmov8.png)  
 
 Retomando **GMOV**, en el campo _ID Afiliado_, se registra la cédula del afiliado.  En este campo, se puede entrar a buscar o se escribe si ya se conoce.  Al dar tab, el sistema diligencia el nombre, la EPS que tiene asociada.  El Contrato es el que ya se registró con anterioridad y el que está asociado al _Servicio_ porque es _Evento_ y al _Tercero_ que ha sido seleccionado.  
 
+![](gmov9.png)
+
 En el campo _Doctor_, se registra el número de documento del doctor si se conoce o se puede buscar; en el campo FormulaDate, va la fecha en la que se registra la fórmula; en el campo _Fórmula_, se registra el número de referencia de la fórmula; en el campo _Diagnóstico_, se busca por Zoom el diagnóstico que aparece en la fórmula; en el campo _FechaEntrega_, la fecha en la que se entrega el medicamento; si la dispensación se hace a domicilio, se activa el check.  
 
+![](gmov10.png)  
 
 Se guarda el registro.  
 
+![](gmov11.png)  
 
-En la parte inferior, se entra a asociar los productos que corresponden. Se adiciona un registro(+).  En el campo _Producto_, se da click derecho y se elige la tercera opción: _Seleccionar productos para agregar al detalle_
+![](gmov12.png)
+
+En la parte inferior, se entra a asociar los productos que corresponden. Se adiciona un registro(+).  En el campo _Producto_, se da click derecho y se elige la tercera opción: _Seleccionar productos para agregar al detalle_  
+
+![](gmov13.png)  
+
+La anterior selección, permite que el sistema muestre el inventario que hay disponible en la farmacia.  
+
+![](gmov14.png)  
+
+En este ejemplo, se elige un producto. El sistema muestra la cantidad y se resigtra la cantidad que se va a dispensar.  
+
+![](gmov15.png)  
+
+![](gmov16.png)  
+
+![](gmov17.png)  
+
+En el campo _Requerida_ en la parte inferior, se registra la misma cantidad (para el ejemplo, 2), se diligencian los campos _Duración_, _Frecuencia_ y se guarda el registro.  
+
+![](gmov18.png)  
+
+![](gmov19.png)  
+
+Hay medicamentos que pueden quedar pendientes, por ejemplo, en la farmacia solo había 3 unidades disponibles pero la fórmula decía que requería de 5 unidades.  El proceso a seguir es el siguiente: se adiciona un nuevo registro (+) o producto con el mismo proceso que se acaba de explicar arriba.  Pero ahora en el campo _Cantidad_, se digita 3 que es la cantidad que hay en la farmacia de existencia y en el campo _Requerida_ se digita 5 que es la requerida en la fórmula.  Se digitan igual los campos _Duración_ y _Frecuencia_ y se guarda el registro.  
+
+![](gmov20.png)  
+
+También existe la posibilidad de la programación.  La programación es un tratamiento que se debe dar en la fórmula.  Cuando se necesita un medicamento por 2, 3 meses o más.  Se adiciona un registro (+), se busca el medicamento, se hace el mismo proceso; se llenan los mismos campos de _Cantidad_, _Requerida_, _Duración_, _Frecuencia_.  Al lado derecho, se encuentra un campo llamado _Frec.Meses_: en este, se escribe por cuántos meses adicionales se va a realizar la entrega de ese medicamento.  En el ejemplo, el campo se llena con el número 2 ya que el tratamiento es para 3 meses.  Luego, se guarda el registro.
+
+![](gmov21.png)  
+
+![](gmov22.png)  
+
+Adicionalmente, se ejecuta el botón que se llama _Programación/Pendiente_.  
+
+![](gmov23.png)  
+
+![](gmov24.png)  
+
+El sistema, en la pestaña _Programación_, suministra la siguiente información: Para el producto que quedo pendiente (campo _Tipo_), se deben entregar 2 (campo _Requerida_) dentro de las siguientes 48 horas (campo _ScheduledDate_); y para el producto que quedó programado (campo _Tipo_), se deben entregar 10 (campo _Requerida_) en un mes (campo _ScheduledDate_).  
+
+![](gmov25.png)  
+
+Ahora, se procesa la dispensación.  
+
+![](gmov26.png)  
+
+Si se quiere entrar a registrar el pendiente cuando ya se tenga, entonces se adiciona un nuevo registro (+) en el maestro, se registra la fórmula, se da _tab_ y el sistema trae automáticamente todos los datosque se tenían en esa fórmula.  Adicionalmente, trae en los campos _DocDocumentoId_, _DocNúmero_ y _DocUbicación_, la relación del documento original.  Si se requiere modificar algo, se hace, sino, se guarda el registro.  
+
+![](gmov27.png)  
+
+Se procede a buscar la fórmula. Se señalan los registros y se procede a cambiar la fecha a la dispensación que se acaba de generar.  
+
+![](gmov28.png)  
+
+![](gmov29.png)  
+
+![](gmov30.png)  
+
+![](gmov31.png)  
+
+![](gmov32.png)  
+
+![](gmov33.png)  
+
+Se señala el registro y se da click en editar o modificar registro.  
+
+![](gmov34.png)  
+
+Para que quede con la fecha del día siguiente.  
+
+![](gmov35.png)
+
+Es importante resaltar que las fechas que tiene en cuenta el programa en cuanto a pendientes y programadas, son las del campo _FechaEntrega_; es decir, si la programación se hace para dentro de un mes, en este campo debe estar la fecha del mes siguiente.  En el ejemplo, se va a dejar la fecha del día siguiente para asumir que se realiza la entrega del pendiente y se guarda el registro.  
+
+![](gmov36.png)  
+
+Al dar click en guardar, el sistema trae el pendiente con sus 2 unidades para el ejemplo y luego se procesa el registro.  
+
+![](gmov37.png)  
+
+Se le debe decir al sistema de qué lote y vencimiento se va a sacar el producto o medicamento.  
+
+![](gmov38.png)  
+
+Se da clik en guardar y luego en procesar.  
+
+![](gmov39.png)  
+
+![](gmov40.png)  
+
+Al dar click en procesar, el sistema en la dispensación original, en la pestaña _Progrmación_, dice que el _Pendiente_, se encuentra en Estado _Terminado_ y asocia con la dispensación con la que se realizó esa entrega.  
+
+![](gmov41.png)  
+
+Cuando se empieza a realizar el proceso de las programaciones mensuales, aparecerá también con el Estado _Terminado_ e indicando cuál fue la dispensación que se generó.
+
+
+
+
+
+
+
+
+
+
 
 
 
