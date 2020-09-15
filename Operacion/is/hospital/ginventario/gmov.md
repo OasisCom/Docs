@@ -187,7 +187,7 @@ Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:
 
 ## [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)  
 
-Hay que tener en cuenta que debe existir un Contrato previamente creado en la aplicación **VCNT**.  
+Hay que tener en cuenta que debe existir un Contrato previamente creado en la aplicación **VCNT** [Contratos de Venta - Dispensación de medicamentos](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---dispensación-de-medicamentos) .  
 
 Para el proceso de dispensación de medicamentos, se adiciona un nuevo registro (+).  En el campo _Documento_, siempre se elige la opción **_ST_** que corresponde a **Salidas de Inventario**; en el campo _Ubicación_, el código de la farmacia que corresponda;  en el campo _Servicios_, el servicio que corresponda.  En este campo, es importante tener en cuenta que si se escoge la opción _**Capitado**_, es porque se va a dispensar algo del **Contrato de Cápita** y si se elige el de **Evento** es para dispensar algo del **Contrato de Evento**.  Para el ejemplo en este caso, se selecciona uno de _**Evento**_;  en el campo _Tipo de Consulta_, se elige del menú el que corresponda.  Para el ejemplo, se escoge la opción _**Embarazada**_.  
 
