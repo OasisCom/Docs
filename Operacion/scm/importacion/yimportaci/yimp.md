@@ -137,7 +137,7 @@ En la siguiente pestaña del detalle podremos ver el cálculo de los conceptos p
 
 **_Nota:_** Si se requiere modificar algún dato del maestro, es necesario volver a dar click en el botón _**Liquidación Importación**_.  
 
-Verificada la información, es decir, cuando ya se esté seguro o ya tengamos los documentos o estén contabilizados, por ejemplo, factura del proveedor, gastos de transporte y seguros (que son los primeros en llegar) tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
+Verificada la información, es decir, cuando ya se esté seguro o ya tengamos los documentos o estén contabilizados, por ejemplo, factura del proveedor, gastos de transporte y seguros (que son los primeros en llegar; los demás se pueden ir calculando de acuerdo al histórico) tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
 
 ![](yimp14.png)
 
@@ -156,14 +156,20 @@ Diligenciado el formulario damos click en el botón _Guardar_. El sistema al gua
 
 ![](imov17.png)
 
-Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle **Contabilización**.  
+Finalmente, procesamos el documento **EN** y verificamos la pestaña del detalle **Contabilización**. Existen dos formas de contabilizar la mercancía: puede ser contra _Mercancías no fabricadas_; a otras compañías les gusta pasar primero la mercancía por una cuenta que se llama _Mercancía en tránsito_ y se hace la entrada a _Mercancías por nacionalizar_.  Cuando ya esté nacionalizada, se hace un traslado.   
 
-![](imov18.png)
+![](imov18.png)  
+
+De esta manera, ya disponemos del inventario con un costo para poderlo facturar, remisionar, trasladar dentro de las diferentes bodegas, localizaciones o ubicaciones. 
 
 _**Validación de liquidaciones**_  
 
-Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información de la liquidación total en la aplicación _YLIQ - Liquidaciones_. Consultamos por el proyecto que esté asociado a la importación.  
+Una vez finalice la causación de las facturas asociadas a la importación, se debe validar la información de la liquidación total en la aplicación _YLIQ - Liquidaciones_. Consultamos por el proyecto que esté asociado a la importación.  Esta aplicación es importante porque nos permite validar en cuánto proyectamos el ingreso de la mercancía y cuánto realmente ingresó.
 
-![](yliq.png)
+![](yliq.png)  
+
+Existen aplicaciones para controlar el proceso de importación, por ejemplo el reporte **YRRI - Resumen de importaciones**, nos dice en qué estado se encuentran las importaciones, ya que algunas pueden estar en orden de compra, otras en tránsito, otras pueden estar en puerto y otras en tránsito interno; entonces el control se puede llevar a través de esta aplicación.  
+
+![](yimp15.png)
 
 Aquí finaliza el proceso de importaciones en OasisCom.  
