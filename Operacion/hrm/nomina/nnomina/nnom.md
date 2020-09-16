@@ -75,6 +75,14 @@ Respuesta del sistema, a consulta_monet_2:
 
 ![](bint5.png)  
 
+• Registro de pago del adelanto y la deducción al empleado:
+Publicacion de carga.
+Operacion upload.
+
+![](bint6.png)  
+
+
+
 
 
 
