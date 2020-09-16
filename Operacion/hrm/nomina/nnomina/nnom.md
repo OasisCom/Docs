@@ -67,6 +67,12 @@ Respuesta del sistema, a consulta_monet_1:
 
 ![](bint3.png)  
 
+•	Segundo Request para obtener información detallada del usuario:  
+
+![](bint4.png)  
+
+Respuesta del sistema, a consulta_monet_2:  
+
 
 
 
