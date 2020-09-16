@@ -45,7 +45,7 @@ En la parte inferior encontramos 3 pestañas.  La primera pestaña es _Empleados
 Esta opcion permite la modificacion solamente de la columna **QuantityPeriods**, en el cual se podra ubicar en la novedad requerida, modificar el registro y guardar de forma sencilla.
 ![](nnoc1.png)  
 
-#[**Integración de nómina OASISCOM con MONET**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina#integracion_de_nomina_oasiscom_con_monet)  
+[**Integración de nómina OASISCOM con MONET**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina#integracion_de_nomina_oasiscom_con_monet)  
 
 **Objetivo:**   
 
