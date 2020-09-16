@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrnl
 editable: si
 ---
 
-# Novedades sin Liquidar - NRNL
+# Novedades sin Liquidar - NRNL  
 
 
 Reporte **NRNL**, el cual retorna todas las novedades que no están incluidas en una liquidación de nómina, adicional se verifica si el retiro tiene una nómina de liquidación pertinente.  
@@ -13,9 +13,9 @@ Reporte **NRNL**, el cual retorna todas las novedades que no están incluidas en
 Parámetros de entrada:  
 Periodo, año, conceptos, empleado.  
 
-![](nrnl1.png)
+![](nrnl1.png)  
 
-![](nrnl2.png)
+![](nrnl2.png)  
 
 
 
