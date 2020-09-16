@@ -43,7 +43,54 @@ En la parte inferior encontramos 3 pestañas.  La primera pestaña es _Empleados
 # Cuotas en Novedades - NNOC
 
 Esta opcion permite la modificacion solamente de la columna **QuantityPeriods**, en el cual se podra ubicar en la novedad requerida, modificar el registro y guardar de forma sencilla.
-![](nnoc1.png)
+![](nnoc1.png)  
+
+[**Integración de nómina OASISCOM con MONET**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/nnom)  
+
+**Objetivo:**   
+
+El procedimiento se encarga de crear la Cuenta por Cobrar (CMOV) al empleado, la novedad (NNOV) de descuento en la nómina con las diferentes cuotas y la Cuenta por pagar (PMOV) a **Monet** por parte de la compañía que utilice los servicios.   
+
+Se realiza proceso de respuesta del servicio para integración con **Monet** que se necesita que las respuestas puedan ser en XML o JSON.   
+
+Con la integración con el software de nómina del cliente, Monet puede acceder a datos del empleado mediante APIs de tiempo real o en batches para determinar los saldos a adelantar e ingresar datos de deducciones de nómina a través de un API como novedades en el sistema.  
+
+A través de la interface (BINT) de OASISCOM:  
+
+![](bint1.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
