@@ -73,6 +73,8 @@ Respuesta del sistema, a consulta_monet_1:
 
 Respuesta del sistema, a consulta_monet_2:  
 
+![](bint5.png)  
+
 
 
 
