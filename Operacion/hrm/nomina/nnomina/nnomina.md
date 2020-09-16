@@ -18,7 +18,7 @@ Las aplicaciones que se usan en esta ventana son:
 * [**Saldos acumulados - NNSP**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/nnsp)  
 * [**Consulta nómina - NNCP**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/nncp)  
 * [**Consulta detalle detalle - NNCD**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/nncd)   
-* [**Integración de nómina OASISCOM con MONET**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina/nnom)  
+* [**Integración de nómina OASISCOM con MONET**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnomina#integracion_de_nomina_oasiscom_con_monet)  
 
 
 
