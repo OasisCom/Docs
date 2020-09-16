@@ -144,6 +144,9 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 ### Factura Electrónica
 
+>###### [Calendario de Implementación Factura Electrónica](http://docs.oasiscom.com/Mercadeo/e-books/calendario-factura-electronica.pdf) 
+
+
 
 >###### [Preguntas frecuentes Factura Electrónica - Validación Previa](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-factura-electronica-validacion-previa.pdf) 
 
