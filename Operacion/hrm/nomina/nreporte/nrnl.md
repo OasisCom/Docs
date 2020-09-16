@@ -13,9 +13,11 @@ reporte NRNL, el cual retorna todas las novedades que no están incluidas en una
 Parámetros de entrada:  
 Periodo, año, conceptos, empleado.  
 
-![](nrco1.png)
+![](nrnl1.png)
+
+![](nrnl2.png)
 
 
-Desde esta aplicación se pueden imprimir estos comprobantes para ello se debe configurar la impresora de acuerdo al tamaño del papel que se desee utilizar.
+
 
 
