@@ -63,6 +63,12 @@ A través de la interface (BINT) de OASISCOM:
 
 ![](bint2.png)  
 
+Respuesta del sistema, a consulta_monet_1:  
+
+![](bint3.png)  
+
+
+
 
 
 
