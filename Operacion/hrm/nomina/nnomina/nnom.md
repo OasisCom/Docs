@@ -59,6 +59,9 @@ A través de la interface (BINT) de OASISCOM:
 
 ![](bint1.png)  
 
+•	Primer Request para comienzo de proceso de autenticación:  
+
+![](bint2.png)  
 
 
 
