@@ -75,12 +75,29 @@ Respuesta del sistema, a consulta_monet_2:
 
 ![](bint5.png)  
 
-• Registro de pago del adelanto y la deducción al empleado:
-Publicacion de carga.
-Operacion upload.
+• Registro de pago del adelanto y la deducción al empleado:  
+Publicacion de carga.  
+Operacion upload.  
 
 ![](bint6.png)  
 
+Selecciona el archivo y clic Aceptar y Ejecutar:  
+
+El sistema automáticamente realiza tres acciones:  
+
+* Crea la Cuenta por Cobrar (CMOV) al empleado. Nota debito por concepto anticipo a empleados.  
+
+![](cmov1.png)  
+
+* Crea la novedad (NNOV) de descuento en la nómina con las diferentes cuotas; concepto préstamo.  
+
+![](nnov1.png)  
+
+* Crea la Cuenta por pagar (PMOV) a **Monet** por parte de la compañía que utilice estos servicios.  
+
+![](pmov1.png)  
+
+De esta forma se lleva a feliz término la integración del módulo de nómina OASISCOM con el servicio MONET.  
 
 
 
