@@ -16,6 +16,8 @@ La aplicación **EITRA** permite realizar movimientos logísticos.
 * [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
 
 
+Para todo este proceso, se parte de la elaboración de un pedido que se crea con anticipación, el cual se debe encontrar con el Status _Pendiente por despacho_.
+
 ## [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
 La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
 
@@ -31,36 +33,38 @@ Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y
 **Concepto:** Seleccionamos del zoom el concepto _PI_ referente a _recoleccion_.  
 **Motivo:** ingresamos motivo 0.  
 **Fecha:** seleccionar la fecha en que se realiza el registro del empaque.  
-**Cliente Id:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
-**DocumentId1:** el sistema traerá automáticamente el documento PD de Pedido.  
-**LocationId1:** el sistema traerá automáticamente la ubicación 1.  
-**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea recolectar; puede visualizar, por medio de un zoom extraer datos únicamente para el recolector. ResponbleId en el documento TI x PI. como se visualiza:  
+**Tercero:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
+**Documento1:** el sistema traerá automáticamente el documento PD de Pedido.  
+**Ubicación1:** el sistema traerá automáticamente la ubicación 1.  
+**Número1:** en este campo seleccionaremos del zoom el pedido que se desea recolectar; puede visualizar, por medio de un zoom extraer datos únicamente para el recolector. Responsable en el documento TI x PI. como se visualiza:  
 ![](eitra26.png)  
+
 **Desplega el siguiente zoom, con los pedidos pendientes por recolección.**  
 ![](eitra27.png)  
 
+Nota:  El campo **Empaque** hace referencia a si un pedido debe pasar por zona de empaque o no. Si debe pasar por zona de empaque, debe tener el check activado.  
+
 Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
 
-En el detalle aparecen relacionados cada uno de los productos del pedido tomado como ejemplo (85).  
-![](eitra22.png)  
-**Importante:** se debe de validar el **[VDAR]**, en el detalle campo: Idresponsable debe de ser  parametrizado en el **AREC** Recurso.  
-VDAR.  
+En el detalle aparecen relacionados cada uno de los productos del pedido.  
+![](eitra22.png)   
+
+**Importante:** Antes de comenzar el proceso, se debe ingresar a la aplicación **VDAR** para asignar el recolector de ese pedido.  En la parte inferior, en el detalle, se encuentra el campo: Idresponsable y es el campo en el que se debe ingresar el número de cédula de la persona responsable de realizar el proceso.  Debe de ser parametrizado en el **AREC** Recurso.  
 
 ![](eitra23.png)  
 
-Ya en el detalle del **EITRA**, se ingresan la posicion campo leer posicion y en le campo Quantity edita la cantidad.  
-clic en siguiente.  
-Realiza la misma labor, segun la cantidad de productos que se realacionen.  Para este caso fueron tres (3).  
-Por ultimo aplica el boton verde de confirmar.  
+Al dar click en editar, el sistema abre una ventana.  En esta ventana, lo primero que se debe hacer es colocar la posición en la que se encuentra diligenciando el campo _Leer posición_ para que se habilite el campo _Quantity_.  Se puede copiar la localización y colocarla en el campo _Leer posición_. Una vez ingresado el dato, inmediatamente habilita el campo _Quantity_ (Cantidad) para ingresar las cantidades del producto que se está recolectando.  En el renglón de abajo, hay un campo llamado _LocalizationDestinyId_ (localización destino), que hace referencia a la localización donde voy a llevar los productos una vez realizado el proceso de recolección o Picking. Ya que pare este ejercicio se dijo que esta recolección es con empaque, aparece en la imagen la localización correspondiente a esa zona de empaque.  Una vez realizado este proceso, se da click en siguiente. Realiza la misma labor, segun la cantidad de productos que se relacionen.  Para este caso fueron tres (3).  Como ya no hay más productos, se deshabilita la función _siguiente_. 
+Por último, aplica el botón verde de confirmar.  
 
 ![](eitra24.png)  
 
-Se visualizara el **EITRA** asi:  
+Una vez se confirma la transacción, el sistema regresa a la pantalla del maestro y el estado del documento aparece en _Procesado_
 
 ![](eitra25.png)  
 
 De esta forma finaliza el proceso de **Recoleccion.**  
 
+Una vez se realiza y se termina este documento, se da click en nuevo para comenzar con el proceso de Empaque (Packaging).
 
 
 
