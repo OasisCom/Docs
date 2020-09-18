@@ -241,7 +241,25 @@ Esta misma información, también se puede corroborar a través de la aplicació
 ![](eitra43.png)  
 
 
-## [Despacho](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#despacho)
+## [Despacho](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#despacho)  
+
+Para registrar el despacho de un pedido, ingresamos a la aplicación EITRA y diligenciamos el formulario.  En esta ocasión, en el campo _Concepto_, elegimos la opción _**DS**_ que corresponde a _Despacho_ y en el campo _Número1_, se relaciona nuevamente el pedido.  
+
+![](eitra44.png)  
+
+Se da click en guardar y aparece el aviso de transacción exitosa.  
+
+![](eitra45.png)  
+
+Ahora, lo que se hace es verificar en el detalle que efectivamente los productos que se solicitaron en el pedido, sean los mismos que aparecen en el registro para despachar.  En esta ventana, la localización en la que se encuentran los productos es la _**99**_ que es la que corresponde a la salida.  
+
+![](eitra46.png)
+
+Ahora se regresa al _Maestro_ y se da click en confirmar.  Aparece el aviso de transacción exitosa.  Con este proceso, se realiza la salida de los productos de la bodega.  
+
+![](eitra47.png)  
+
+
 
 ## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
 
