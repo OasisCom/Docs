@@ -98,41 +98,34 @@ Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el si
 
 ![](eitra2.png)
 
-Ahora, nos desplazamos a la pestaña del detalle. Aquí encontraremos el esquema gráfico en donde podremos decidir en cuentas cajas se despachará el pedido y que cantidad de cada producto se irá en cada una.  
+Ahora, nos desplazamos a la pestaña del detalle. Aquí encontraremos los productos que se recolectaron y que ahora se van a empacar.  En esta ventana encontramos información como nombre de los productos, cantidad pendiente por empacar y también otra información como lote y fecha de vencimiento si el producto tiene ese control y además se encuentran dos botones.  ![](boton1.png) Este botón permite agregar productos parcialmente. Al dar click, se habilitará una ventana en donde podemos ingresar la cantidad de productos que se agregarán en la caja.  ![](boton2.png) Este botón permite agregar el total de productos disponibles.  
+
 
 ![](eitra3.png)
 
-El foco se posiciona sobre el detalle de productos; cada vez que se realiza el filtro del producto.  
-Se adiciona directamente el registro filtrado.  
 
+Al lado derecho de la ventana, encontramos unas pestañas donde podemos crear varias cajas de despacho, dependiendo de la necesidad y para esto, damos click en el botón **+**.  
+
+En esta ilustración, se van a agregar todos los productos del primer renglón en la caja # 1.  Para ello, se da click en el botón ![](boton2.png) de agregar todas las cantidades.  
 ![](eitra30.png)  
 
-Si deseamos crear varias cajas de despacho, damos click en el botón **+**.  
+Del siguiente renglón, se van a empacar 3 unidades en una segunda caja.  Se da click en (+) del lado derecho de la ventana para crear la segunda caja y posteriormente se da click en el botón ![](boton1.png) para agregar 3 unidades de las 6 que hay en ese lote.  
 
 ![](eitra4.png)
 
-**Botones:** 
+![](eitra5.png)  
 
-![](boton1.png) Este botón permite agregar productos parcialmente. Al dar click, se habilitará una ventana en donde podemos ingresar la cantidad de productos que se agregarán en la caja.  
-
-![](eitra5.png)
-
-![](boton2.png) Este botón permite agregar el total de productos disponibles.  
-
-En el siguiente ejemplo, agregaremos a la caja 1: 
-* 3 unidades del producto 101
-* 5 unidades del producto 102
-* 1 unidad del producto 102 segundo renglón.  
-
-El sistema irá restando y mostrando la cantidad de producto restantes de cada uno.  
+Del lote del tercer renglón, también empacamos 3 unidades en la misma caja con el mismo procedimiento.  
 
 ![](eitra6.png)
 
-Ahora, agregaremos el resto de productos a la caja 2. Para ello, podemos hacer uso del botón ![](boton2.png).  
+Ahora, agregaremos el resto de productos a la caja 3 con el mismo procedimiento.  
 
 ![](eitra7.png)
 
-Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrá y mostrará una nueva ventana de registro.  
+Si me doy cuenta que la distribción en las cajas no quedó bien, existen 3 botones al lado derecho que me permiten: _Eliminar cantidades_ ![](boton3.png), _Agregar cantidades_ ![](boton4.png) o _Eliminar todas las cantidades_ ![](boton5.png). Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrará y mostrará una nueva ventana de registro.  
+
+![](eitra8.png)
 
 En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
 
