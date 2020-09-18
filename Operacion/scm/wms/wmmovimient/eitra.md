@@ -125,7 +125,7 @@ Ahora, agregaremos el resto de productos a la caja 3 con el mismo procedimiento.
 
 Si me doy cuenta que la distribción en las cajas no quedó bien, existen 3 botones al lado derecho que me permiten: _Eliminar cantidades_ ![](boton3.png), _Agregar cantidades_ ![](boton4.png) o _Eliminar todas las cantidades_ ![](boton5.png). Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrará y mostrará una nueva ventana de registro.  
 
-![](eitra8.png)
+![](eitra18.png)
 
 En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
 
