@@ -51,7 +51,7 @@ Desde la aplicacion **EPAY**  [PAGOS].
 	Aprobada.
 
 ![](ecssp8.png)
-f
+
 
 
 
