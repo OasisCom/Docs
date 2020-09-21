@@ -13,7 +13,7 @@ Está integrado por los módulos:
 
 * [**EVPED**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/evped) - Colocar Pedidos
 * [**EACAS**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas) - Colocar Casos de Soporte
-* [**ECSEC**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/ecsec) - Estados de Cuenta Cientes
+* [**ECSEC**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/ecsec) - Estados de Cuenta Clientes
 * [**EASEC**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/easec) - Reporte de Casos
 * [**EEAPO**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eeapo) - Formulario de Empleadores
 * [**EESOP**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eesop) - Aplicación de Afiliados WEB
