@@ -34,7 +34,9 @@ Algunas de las aplicaciones que muestran reportes son:
 * [**CRVV**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/crvv) - Cartera Vencida por Vendedor  
 * [**CRXC**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/crxc) - Auxiliar por Cuenta  
 * [**CRAM**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/cram) - Analisis de Cuentas por Moneda  
-* [**CRFR**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/crfr) - Facturas VS Recuado
+* [**CRFR**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/crfr) - Facturas VS Recaudo  
+* [**ECRFR**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/ecrfr) - Facturas VS Recaudo
+
 
 
 
