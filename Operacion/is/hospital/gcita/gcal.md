@@ -107,8 +107,9 @@ Para validar que la cita se creó correctamente, en el campo *Id recurso* damos 
 ![](gl6.png)
 
 Lo anterior nos abre la aplicación llamada **GCIT,** donde se puede ver el registro de la cita como el día, la hora, el afiliado y el doctor. 
+Desde el GCIT (Citas) se cambia de ubicación, cuando el paciente accede a otra sede, posterior se modifica fecha de la cita y luego hora de la cita.  
 
-![](gl7.png)
+![](gcit17.png)
 
 Cuando sea la hora de la cita asignada, en la aplicación **GCAL** se deberá crear una consulta dando clic en el botón ![](consulta.png). 
 
