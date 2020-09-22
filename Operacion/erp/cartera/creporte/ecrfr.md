@@ -8,7 +8,7 @@ editable: si
 # Facturas VS Recaudo - ECRFR  
 
 
-Primero que todo, es importante conocer la parametrización en la aplicación **Usuarios - SUSU**.  Al tercero que corresponda, se le debe entrar a asociar el NIT o cédula del cliente, tanto en el campo _Tercero_ como en el campo _Organización_.  
+Para que los clientes puedan consultar las facturas que ha pagado en la aplicación ECSEC, es importante parametrizar previamente en la aplicación **Usuarios - SUSU**.  Al tercero que corresponda, se le debe entrar a asociar el NIT o cédula del cliente, tanto en el campo _Tercero_ como en el campo _Organización_.  
 
 ![](susu.png)  
 
