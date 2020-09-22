@@ -18,7 +18,8 @@ Está integrado por los módulos:
 * [**EEAPO**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eeapo) - Formulario de Empleadores
 * [**EESOP**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eesop) - Aplicación de Afiliados WEB
 * [**EEMOV**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov) - Formulación de Afiliados WEB
-* [**EAOPO**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eaopo) - Oportunidades
+* [**EAOPO**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eaopo) - Oportunidades  
+* [**ECSSP**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/ecssp) - Saldo de Cartera
 
 
 
