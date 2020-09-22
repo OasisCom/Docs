@@ -333,6 +333,8 @@
                 url: /Operacion/erp/cartera/creporte/cram
               - text: Facturas vs Recuado
                 url: /Operacion/erp/cartera/creporte/crfr
+              - text: Facturas vs Recuado - Portal
+                url: /Operacion/erp/cartera/creporte/ecrfr                
         - text: Cuentas por Pagar
           url: /Operacion/erp/cuentas/
           subitems:
