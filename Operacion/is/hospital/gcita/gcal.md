@@ -58,7 +58,8 @@ En **BDOC:** tomamos ejemplo RX -Exámenes. Ingresamos en el maestro el document
 ![](bdoc1.png)  
 Aca se finaliza la parametrización de los tipo de consulta.  
 Dado el escenario (1) si se ejecuta el botón de crear consulta en **GCAL**.  
-El sistema crea un registro en la opción **GIMA (imágenes)**.  
+El sistema crea un registro en la opción: **GCON** **GIMA (imágenes)** y refresca los datos.   
+
 ![](gima1.png)  
 
 Si es diferente al escenario (1), se sigue el proceso:  
