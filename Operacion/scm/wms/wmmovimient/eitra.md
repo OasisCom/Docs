@@ -9,146 +9,15 @@ editable: si
 
 La aplicación **EITRA** permite realizar movimientos logísticos.  
 
+* [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)  
 * [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
-* [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
-* [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
+* [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)  
+* [Despacho](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#despacho)
 * [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
 * [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
 
 
-## [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
-La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
-
-Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PI - Recoleccion_.  
-
-Para registrar la recoleccion de un pedido ingresamos a la aplicación EITRA y diligenciamos el formulario.  
-
-![](eitra21.png)  
-
-Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y no estarán habilitados para la edición. Se generará un documento _TI - Trabajos de Inventarios_.  
-
-**Ubicación:** seleccionar del zoom la correspondiente.  
-**Concepto:** Seleccionamos del zoom el concepto _PI_ referente a _recoleccion_.  
-**Motivo:** ingresamos motivo 0.  
-**Fecha:** seleccionar la fecha en que se realiza el registro del empaque.  
-**Cliente Id:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
-**DocumentId1:** el sistema traerá automáticamente el documento PD de Pedido.  
-**LocationId1:** el sistema traerá automáticamente la ubicación 1.  
-**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea recolectar; puede visualizar, por medio de un zoom extraer datos únicamente para el recolector. ResponbleId en el documento TI x PI. como se visualiza:  
-![](eitra26.png)  
-**Desplega el siguiente zoom, con los pedidos pendientes por recolección.**  
-![](eitra27.png)  
-
-Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
-
-En el detalle aparecen relacionados cada uno de los productos del pedido tomado como ejemplo (85).  
-![](eitra22.png)  
-**Importante:** se debe de validar el **[VDAR]**, en el detalle campo: Idresponsable debe de ser  parametrizado en el **AREC** Recurso.  
-VDAR.  
-
-![](eitra23.png)  
-
-Ya en el detalle del **EITRA**, se ingresan la posicion campo leer posicion y en le campo Quantity edita la cantidad.  
-clic en siguiente.  
-Realiza la misma labor, segun la cantidad de productos que se realacionen.  Para este caso fueron tres (3).  
-Por ultimo aplica el boton verde de confirmar.  
-
-![](eitra24.png)  
-
-Se visualizara el **EITRA** asi:  
-
-![](eitra25.png)  
-
-De esta forma finaliza el proceso de **Recoleccion.**  
-
-
-
-
-## [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
-
-La aplicación EITRA permite al usuario realizar el proceso de empaque de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
-
-Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PA - Empaque_.  
-
-Para registrar el empaque de un pedido ingresamos a la aplicación EITRA y diligenciamos el formulario.  
-
-![](eitra.png)
-
-Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y no estarán habilitados para la edición. Se generará un documento _TI - Trabajos de Inventarios_.  
-
-**Ubicación:** seleccionar del zoom la correspondiente.  
-**Concepto:** Seleccionamos del zoom el concepto _PA_ referente a _EMPAQUE_.  
-
-![](eitra1.png)
-
-
-**Motivo:** ingresamos motivo 0.  
-**Fecha:** seleccionar la fecha en que se realiza el registro del empaque.  
-**Cliente Id:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
-**DocumentId1:** el sistema traerá automáticamente el documento PD de Pedido.  
-**LocationId1:** el sistema traerá automáticamente la ubicación 1.  
-**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea empacar.  
-
-Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro.  
-
-
-![](eitra2.png)
-
-Ahora, nos desplazamos a la pestaña del detalle. Aquí encontraremos el esquema gráfico en donde podremos decidir en cuentas cajas se despachará el pedido y que cantidad de cada producto se irá en cada una.  
-
-![](eitra3.png)
-
-El foco se posiciona sobre el detalle de productos; cada vez que se realiza el filtro del producto.  
-Se adiciona directamente el registro filtrado.  
-
-![](eitra30.png)  
-
-Si deseamos crear varias cajas de despacho, damos click en el botón **+**.  
-
-![](eitra4.png)
-
-**Botones:** 
-
-![](boton1.png) Este botón permite agregar productos parcialmente. Al dar click, se habilitará una ventana en donde podemos ingresar la cantidad de productos que se agregarán en la caja.  
-
-![](eitra5.png)
-
-![](boton2.png) Este botón permite agregar el total de productos disponibles.  
-
-En el siguiente ejemplo, agregaremos a la caja 1: 
-* 3 unidades del producto 101
-* 5 unidades del producto 102
-* 1 unidad del producto 102 segundo renglón.  
-
-El sistema irá restando y mostrando la cantidad de producto restantes de cada uno.  
-
-![](eitra6.png)
-
-Ahora, agregaremos el resto de productos a la caja 2. Para ello, podemos hacer uso del botón ![](boton2.png).  
-
-![](eitra7.png)
-
-Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrá y mostrará una nueva ventana de registro.  
-
-En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
-
-**Impresión de Rótulos**  
-
-Esta funcionalidad se puede encontrar en la lista de botones en la función de **PA - Empaque**, opción *Imprimir Rotulo*.  
-![](imagenes/eitra8.png)  
-
-Una vez damos clic en este botón se visualiza una vista previa de los datos del rotulo del pedido que deseamos realizar.  
-![](imagenes/eitra9.png)  
-
-Posterior a esto nos muestra la opción para poder imprimirlo ya sea directamente o algún otro formato como PDF.  
-![](imagenes/eitra10.png)  
-
-También es importante conocer que dentro de la aplicación **ITRA - Trabajos** encontramos esta misma funcionalidad de impresión de rótulos.  
-![](imagenes/eitra11.png)  
-
-Al dar clic en el botón imprimir rotulo ubicado en el detalle del registro se visualizará la opción para imprimir el rotulo en el formato que se desee.  
-![](imagenes/eitra12.png)
-
+Para todo este proceso, se parte de la elaboración de un pedido que se crea con anticipación, el cual se debe encontrar con el Status _Pendiente por despacho_.  
 
 
 ## [Almacenamiento WMS](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#almacenamiento-wms)
@@ -240,7 +109,161 @@ Este registro, aparece en el detalle de la aplicación **Trabajos - ITRA**, en d
 
 Esta misma información, también se puede corroborar a través de la aplicación **Saldos por localización - ISPL**, se consulta por _Producto_ y _Ubicación_.  
 
-![](eitra43.png)
+![](eitra43.png)  
+
+
+
+## [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
+La aplicación EITRA permite al usuario realizar el proceso de **recoleccion** de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
+
+Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PI - Recoleccion_.  
+
+Para registrar la recoleccion de un pedido ingresamos a la aplicación EITRA y diligenciamos el formulario.  
+
+![](eitra21.png)  
+
+Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y no estarán habilitados para la edición. Se generará un documento _TI - Trabajos de Inventarios_.  
+
+**Ubicación:** seleccionar del zoom la correspondiente.  
+**Concepto:** Seleccionamos del zoom el concepto _PI_ referente a _recoleccion_.  
+**Motivo:** ingresamos motivo 0.  
+**Fecha:** seleccionar la fecha en que se realiza el registro del empaque.  
+**Tercero:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
+**Documento1:** el sistema traerá automáticamente el documento PD de Pedido.  
+**Ubicación1:** el sistema traerá automáticamente la ubicación 1.  
+**Número1:** en este campo seleccionaremos del zoom el pedido que se desea recolectar; puede visualizar, por medio de un zoom extraer datos únicamente para el recolector. Responsable en el documento TI x PI. como se visualiza:  
+![](eitra26.png)  
+
+**Desplega el siguiente zoom, con los pedidos pendientes por recolección.**  
+![](eitra27.png)  
+
+Nota:  El campo **Empaque** hace referencia a si un pedido debe pasar por zona de empaque o no. Si debe pasar por zona de empaque, debe tener el check activado.  
+
+Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
+
+En el detalle aparecen relacionados cada uno de los productos del pedido.  
+![](eitra22.png)   
+
+**Importante:** Antes de comenzar el proceso, se debe ingresar a la aplicación **VDAR** para asignar el recolector de ese pedido.  En la parte inferior, en el detalle, se encuentra el campo: Idresponsable y es el campo en el que se debe ingresar el número de cédula de la persona responsable de realizar el proceso.  Debe de ser parametrizado en el **AREC** Recurso.  
+
+![](eitra23.png)  
+
+Al dar click en editar, el sistema abre una ventana.  En esta ventana, lo primero que se debe hacer es colocar la posición en la que se encuentra diligenciando el campo _Leer posición_ para que se habilite el campo _Quantity_.  Se puede copiar la localización y colocarla en el campo _Leer posición_. Una vez ingresado el dato, inmediatamente habilita el campo _Quantity_ (Cantidad) para ingresar las cantidades del producto que se está recolectando.  En el renglón de abajo, hay un campo llamado _LocalizationDestinyId_ (localización destino), que hace referencia a la localización donde voy a llevar los productos una vez realizado el proceso de recolección o Picking. Ya que pare este ejercicio se dijo que esta recolección es con empaque, aparece en la imagen la localización correspondiente a esa zona de empaque.  Una vez realizado este proceso, se da click en siguiente. Realiza la misma labor, segun la cantidad de productos que se relacionen.  Para este caso fueron tres (3).  Como ya no hay más productos, se deshabilita la función _siguiente_. 
+Por último, aplica el botón verde de confirmar.  
+
+![](eitra24.png)  
+
+Una vez se confirma la transacción, el sistema regresa a la pantalla del maestro y el estado del documento aparece en _Procesado_
+
+![](eitra25.png)  
+
+De esta forma finaliza el proceso de **Recoleccion.**  
+
+Una vez se realiza y se termina este documento, se da click en nuevo para comenzar con el proceso de Empaque (Packaging).
+
+
+
+## [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)
+
+La aplicación EITRA permite al usuario realizar el proceso de empaque de productos de forma rápida y evitar el tedioso proceso de realizarlo por medio de registros.  
+
+Esta forma visual sólo está disponible cuando el concepto seleccionado sea un _PA - Empaque_.  
+
+Para registrar el empaque de un pedido ingresamos a la aplicación EITRA y diligenciamos el formulario.  
+
+![](eitra.png)
+
+Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y no estarán habilitados para la edición. Se generará un documento _TI - Trabajos de Inventarios_.  
+
+**Ubicación:** seleccionar del zoom la correspondiente.  
+**Concepto:** Seleccionamos del zoom el concepto _PA_ referente a _EMPAQUE_.  
+
+![](eitra1.png)
+
+
+**Motivo:** ingresamos motivo 0.  
+**Fecha:** seleccionar la fecha en que se realiza el registro del empaque.  
+**Cliente Id:** este campo se diligenciará automáticamente en el momento que se haya seleccionado un pedido en el campo _NumberId1_.  
+**DocumentId1:** el sistema traerá automáticamente el documento PD de Pedido.  
+**LocationId1:** el sistema traerá automáticamente la ubicación 1.  
+**NumberId1:** en este campo seleccionaremos del zoom el pedido que se desea empacar.  
+
+Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro.  
+
+
+![](eitra2.png)
+
+Ahora, nos desplazamos a la pestaña del detalle. Aquí encontraremos los productos que se recolectaron y que ahora se van a empacar.  En esta ventana encontramos información como nombre de los productos, cantidad pendiente por empacar y también otra información como lote y fecha de vencimiento si el producto tiene ese control y además se encuentran dos botones.  ![](boton1.png) Este botón permite agregar productos parcialmente. Al dar click, se habilitará una ventana en donde podemos ingresar la cantidad de productos que se agregarán en la caja.  ![](boton2.png) Este botón permite agregar el total de productos disponibles.  
+
+
+![](eitra3.png)
+
+
+Al lado derecho de la ventana, encontramos unas pestañas donde podemos crear varias cajas de despacho, dependiendo de la necesidad y para esto, damos click en el botón **+**.  
+
+En esta ilustración, se van a agregar todos los productos del primer renglón en la caja # 1.  Para ello, se da click en el botón ![](boton2.png) de agregar todas las cantidades.  
+![](eitra30.png)  
+
+Del siguiente renglón, se van a empacar 3 unidades en una segunda caja.  Se da click en (+) del lado derecho de la ventana para crear la segunda caja y posteriormente se da click en el botón ![](boton1.png) para agregar 3 unidades de las 6 que hay en ese lote.  
+
+![](eitra4.png)
+
+![](eitra5.png)  
+
+Del lote del tercer renglón, también empacamos 3 unidades en la misma caja con el mismo procedimiento.  
+
+![](eitra6.png)
+
+Ahora, agregaremos el resto de productos a la caja 3 con el mismo procedimiento.  
+
+![](eitra7.png)
+
+Si me doy cuenta que la distribción en las cajas no quedó bien, existen 3 botones al lado derecho que me permiten: _Eliminar cantidades_ ![](boton3.png), _Agregar cantidades_ ![](boton4.png) o _Eliminar todas las cantidades_ ![](boton5.png). Una vez distribuídos los productos en las cajas, el sistema deshabilitará los renglones de los productos, ya que no cuenta con más unidades disponibles y habilitará el botón _Terminar empaque_. Damos click en este botón, la ventana se cerrará y mostrará una nueva ventana de registro.  
+
+![](eitra18.png)
+
+En la aplicación _IRLE - Lista de empaque_ podemos visualizar la distribución que se realizó anteriormente.  
+
+**Impresión de Rótulos**  
+
+Esta funcionalidad se puede encontrar en la lista de botones en la función de **PA - Empaque**, opción *Imprimir Rotulo*.  
+![](imagenes/eitra8.png)  
+
+Una vez damos clic en este botón se visualiza una vista previa de los datos del rotulo del pedido que deseamos realizar.  
+![](imagenes/eitra9.png)  
+
+Posterior a esto nos muestra la opción para poder imprimirlo ya sea directamente o algún otro formato como PDF.  
+![](imagenes/eitra10.png)  
+
+También es importante conocer que dentro de la aplicación **ITRA - Trabajos** encontramos esta misma funcionalidad de impresión de rótulos.  
+![](imagenes/eitra11.png)  
+
+Al dar clic en el botón imprimir rotulo ubicado en el detalle del registro se visualizará la opción para imprimir el rotulo en el formato que se desee.  
+![](imagenes/eitra12.png)
+
+
+
+
+
+## [Despacho](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#despacho)  
+
+Para registrar el despacho de un pedido, ingresamos a la aplicación EITRA y diligenciamos el formulario.  En esta ocasión, en el campo _Concepto_, elegimos la opción _**DS**_ que corresponde a _Despacho_ y en el campo _Número1_, se relaciona nuevamente el pedido.  
+
+![](eitra44.png)  
+
+Se da click en guardar y aparece el aviso de transacción exitosa.  
+
+![](eitra45.png)  
+
+Ahora, lo que se hace es verificar en el detalle que efectivamente los productos que se solicitaron en el pedido, sean los mismos que aparecen en el registro para despachar.  En esta ventana, la localización en la que se encuentran los productos es la _**99**_ que es la que corresponde a la salida.  
+
+![](eitra46.png)
+
+Ahora se regresa al _Maestro_ y se da click en confirmar.  Aparece el aviso de transacción exitosa.  Con este proceso, se realiza la salida de los productos de la bodega.  
+
+![](eitra47.png)  
+
+
 
 ## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
 
