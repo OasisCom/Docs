@@ -9,7 +9,7 @@ editable: si
 
 Aplicación que permite realizar pago según medio de la transacción.  
 
-Primero que todo, es importante conocer la parametrización en la aplicación **Usuarios - SUSU**.  Al tercero que corresponda, se le debe entrar a asociar el NIT o cédula del cliente, tanto en el campo _Tercero_ como en el campo _Organización_.  
+Para que los clientes puedan consultar los saldos de cartera pendientes por pagar en la aplicación ECSEC, es importante parametrizar previamente en la aplicación **Usuarios - SUSU**.  Al tercero que corresponda, se le debe entrar a asociar el NIT o cédula del cliente, tanto en el campo _Tercero_ como en el campo _Organización_.  
 
 ![](ecssp9.png)
 
