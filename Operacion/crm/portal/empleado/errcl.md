@@ -7,7 +7,7 @@ editable: si
 
 # Certificado laboral - ERRCL  
 
-Para que los empleados puedan consultar sus comprobantes de pago en la aplicación ENRCO, es importante parametrizar previamente en la aplicación **Usuarios - SUSU**, en el campo _Tercero_, la cédula del empleado y en el campo _Organización_, el NIT de la organización a la cual pertenece.  
+Para que los empleados puedan consultar su certificado laboral en la aplicación ERRCL, es importante parametrizar previamente en la aplicación **Usuarios - SUSU**, en el campo _Tercero_, la cédula del empleado y en el campo _Organización_, el NIT de la organización a la cual pertenece.  
 
 ![](susu.png)  
 
