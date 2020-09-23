@@ -13,7 +13,7 @@ editable: si
 
 
 
-La aplicación **EPSEC** permite imprimir el estado de cuenta de *OASISCOM* como proveedor, para ello se debe ingresar el periodo, año; pulsar el botón consultar.  
+La aplicación **EPSEC** permite imprimir el estado de cuenta del proveedor; para ello se debe ingresar el periodo y el año.  Pulsar el botón consultar.  
 
 ![](epsec.png)
 
