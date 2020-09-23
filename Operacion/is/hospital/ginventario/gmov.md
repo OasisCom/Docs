@@ -11,7 +11,7 @@ editable: si
 
 * [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)  
 * [Salida de inventario por una orden de compra](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)  
-* [Salida de inventario en GMOV](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#salida-de-inventario-en-gmov)
+* [Salida de inventario en GMOV](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#salida-de-inventario-en-gmov) 
 * [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
