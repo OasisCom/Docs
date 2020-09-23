@@ -11,5 +11,5 @@ El portal de empleados consta de 3 aplicaciones en donde el usuario que inició 
 
 
 * [**ENRCO**](http://docs.oasiscom.com/Operacion/crm/portal/empleado/enrco) - Comprobantes de pago
-* [**ENRRCR**](http://docs.oasiscom.com/Operacion/crm/portal/empleado/enrrcr) - Certificados de retención
+* [**ENRCR**](http://docs.oasiscom.com/Operacion/crm/portal/empleado/enrcr) - Certificados de retención
 * [**ERRCL**](http://docs.oasiscom.com/Operacion/crm/portal/empleado/errcl) - Certificado laboral
