@@ -18,4 +18,5 @@ Está integrado por los módulos:
 * [**EENOU**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou) - Notificación de Urgencias
 * [**EERNU**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eernu) - Consulta de Notificación de Urgencias
 * [**EERCF**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf) - Solicitud de Referencia
-* [**EERCR**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercr) - Consulta Referencia y Contrareferencia
+* [**EERCR**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercr) - Consulta Referencia y Contrareferencia  
+* [**ETRFP**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/etrfp) - Pago de facturas
