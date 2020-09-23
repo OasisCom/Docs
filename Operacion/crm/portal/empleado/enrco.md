@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comprobantes de pago
-permalink: /Operacion/crm/portal/proveedor/enrco
+permalink: /Operacion/crm/portal/empleado/enrco
 editable: si
 ---
 
