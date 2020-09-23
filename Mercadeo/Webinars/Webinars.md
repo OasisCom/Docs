@@ -19,7 +19,12 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
->##### [WEBINAR: Las ventajas del E-commerce en una sociedad Digital  - Memorias](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar E-Commerce.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Integración de SCM e E-Commerce y las demás área de una compañía](http://docs.oasiscom.com/Mercadeo//Webinars/Integracion-scm-e-commerce.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+
+>##### [WEBINAR: Documentos equivalentes según la norma de la DIAN - Memorias](http://docs.oasiscom.com/Mercadeo//Webinars/Webinar-DOC-Soporte.pdf)
+
+>##### [WEBINAR: Las ventajas del E-commerce en una sociedad Digital  - Memorias](http://docs.oasiscom.com/Mercadeo/Webinars/Webinar E-Commerce.pdf)
 
 >##### [WEBINAR: ¿Cómo gestionar transacciones en OasisCom los 3 días sin IVA?  - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/MANUAL DE PARAMETRIZACION EXENCION DE IVA EN OASISCOM DEF.pdf)
 >##### [WEBINAR: Home Office desde el punto de vista Gerencial - Memoria](http://docs.oasiscom.com/Mercadeo/Webinars/Presentacion webinar Home Office.pdf)

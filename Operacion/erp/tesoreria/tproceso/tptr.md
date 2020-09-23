@@ -32,7 +32,7 @@ El sistema marca todos los registros seleccionados.
 
 ![](tptr3.png)
 
-Posteriormente, se seleccionan y se da clic en el botón de _“Gerencia_Transferencia”_ y allí el sistema crea un documento CE (comprobante de egreso) por concepto TR (transferencia) en la aplicación CMOV asociando el turno correspondiente.  
+Posteriormente, se seleccionan y se da clic en el botón de _“Gerencia_Transferencia”_ y allí el sistema crea un documento CE (comprobante de egreso) por concepto TR (transferencia) en la aplicación TMOV asociando el turno correspondiente.  
 
 ![](tptr4.png)
 

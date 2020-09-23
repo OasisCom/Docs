@@ -58,7 +58,8 @@ En **BDOC:** tomamos ejemplo RX -Exámenes. Ingresamos en el maestro el document
 ![](bdoc1.png)  
 Aca se finaliza la parametrización de los tipo de consulta.  
 Dado el escenario (1) si se ejecuta el botón de crear consulta en **GCAL**.  
-El sistema crea un registro en la opción **GIMA (imágenes)**.  
+El sistema crea un registro en la opción: **GCON** **GIMA (imágenes)** y refresca los datos.   
+
 ![](gima1.png)  
 
 Si es diferente al escenario (1), se sigue el proceso:  
@@ -93,6 +94,8 @@ Nótese que al momento de crear la cita el estatus del registro de la opción **
 
 ![](gcal9.png)
 
+Este campo nos valida si la cita es por la **EPS** o **Particular**.  
+![](gcal19.1.png)  
 
 Creada la cita se debe actualizar la hora de llegada, cabe aclarar que este botón se utiliza únicamente cuando el *Status* del registro es asignado, donde se indica que el paciente se encuentra en sala, listo para ser atendido. Para actualizar la hora de llegada damos clic en el botón ![](actualizar.png). 
 
@@ -105,8 +108,9 @@ Para validar que la cita se creó correctamente, en el campo *Id recurso* damos 
 ![](gl6.png)
 
 Lo anterior nos abre la aplicación llamada **GCIT,** donde se puede ver el registro de la cita como el día, la hora, el afiliado y el doctor. 
+Desde el GCIT (Citas) es posible realizar vel cambio de fecha de la cita y luego hora de la cita.  
 
-![](gl7.png)
+![](gcit17.png)
 
 Cuando sea la hora de la cita asignada, en la aplicación **GCAL** se deberá crear una consulta dando clic en el botón ![](consulta.png). 
 

@@ -116,7 +116,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
->###### [EbooK: SCM e E-Commerce | Crecimiento conjunto acelerado.](http://docs.oasiscom.com/Mercadeo/e-books/Ebook- SCM e E-commerce.pdf)
+>###### [EbooK: SCM e E-Commerce | Crecimiento conjunto acelerado.](http://docs.oasiscom.com/Mercadeo/e-books/Ebook-SCM-E-commerce.pdf)
 
 >###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)
 
@@ -143,6 +143,9 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 ### Factura Electrónica
+
+>###### [Calendario de Implementación Factura Electrónica](http://docs.oasiscom.com/Mercadeo/e-books/calendario-factura-electronica.pdf) 
+
 
 
 >###### [Preguntas frecuentes Factura Electrónica - Validación Previa](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-factura-electronica-validacion-previa.pdf) 

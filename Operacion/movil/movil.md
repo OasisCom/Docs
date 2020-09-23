@@ -1995,7 +1995,39 @@ De esta forma se parametriza la consulta de precios en dispositivo movil.
 
 
 
+## [Ordenes de compra OORD para movil](http://docs.oasiscom.com/Operacion/movil/#ordenes-de-compra-oord-para-movil)  
 
+Esta aplicación permite la generación y registro de las órdenes de compra. Realiza la liquidación correspondiente para su posterior control con las entradas por compra. Permite observar las órdenes de compra pendientes por recibir.  
+
+Esta opción OORD cuenta con la misma funcionalidad y campos que en versión web.  
+Maestro: se agrega el encabezado del documento, su ubicación, el numero es automático, edita el concepto con el tercero correspondiente a la orden de compra.  
+
++ **Documento:** Nombre del documento.  
++ **Numero:** Número consecutivo de orden de compra. El programa lo asigna automáticamente.  
++ **Ubicación:** Identificación y nombre del lugar desde donde se efectúa la orden de compra.   
++ **Fecha:** Fecha cuando se efectúa la orden. El sistema asigna la fecha actual por defecto.  
++ **Tercero:** Código del proveedor a quien se le envía la orden de compra.  
++ **Nombre Tercero:** Nombre del proveedor a quien se le envía la orden de compra. 
++ **Localización:** Identificación y nombre del lugar desde donde se efectúa el requerimiento de compra.  
+
+![](oord2.png)  
+
+En el detalle del OORD, se relaciona la descripción de los productos requeridos por la empresa y se están solicitando al proveedor.  
+
+![](oord3.png)  
+
++ **Renglón:** Número de cada fila de pedido de productos a solicitar dentro del requerimiento.  
++ **Producto:** Código del producto que se requiere.  
++ **Nombre Producto:** Nombre del producto que se requiere.  
++ **Cantidad:** Cantidad requerida del producto.  
++ **Precio:** Precio al que se va a comprar el producto.  
++ **%Imp:** Porcentaje de impuesto.  
++ **% Descuento:** Porcentaje de descuento por producto.  
++ **Total:** Valor total de cada producto.  
++ **Unidad Medida:** Unidad de medida de cada producto.  
++ **Recibida:** Número de productos recibidos.  
++ **Requerimiento:** Identificación del requerimiento correspondiente.  
++ **Estado:**	Estado en el que se encuentra cada producto. 
 
 ## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
 
@@ -2506,6 +2538,8 @@ En la pestaña producto, realiza el scanneo:
 
 
 
+Permite ingresar observaciones desde la aplicación móvil en el proceso del picking desde el MITRA.  
+![](mitra16.2.png)  
 
 Finalizando el proceso de piking.  
 
@@ -2703,9 +2737,17 @@ Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para real
 ![](mifis4.png)  
 
 Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
+## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/movil/#proceso-pedidos-retenidos-copr)  
 
+Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos.   En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial.   El segundo escenario es es cuando al proceso comercial se cumple (SI).  
 
-## Adjuntos en opcion movil **VPED** - Pedidos.  
+![](copr1.png)  
+
+**Nota:** Dependiendo del proceso por el cual haya sido retenido el pedido, en la aplicación **COPR** - Pedidos retenidos se puede dejar un comentario especificando dicho motivo, para que el vendedor pueda identificar, por ejemplo, por qué el pedido fue devuelto o rechazado.  
+
+![](copr2.png)  
+
+## Adjuntos en opcion movil VPED - Pedidos.  
 
 Se agrega Botón al editar un registro en la opcion **VPED**.  
 
