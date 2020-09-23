@@ -1600,7 +1600,9 @@
               - text: Solicitud de Referencia  
                 url: /Operacion/crm/portal/proveedor/eercf
               - text: Consulta Referencia y Contrareferencia 
-                url: /Operacion/crm/portal/proveedor/eercr                
+                url: /Operacion/crm/portal/proveedor/eercr
+              - text: Pago de facturas 
+                url: /Operacion/crm/portal/proveedor/etrfp                
             - text: Empleados
               url: /Operacion/crm/portal/empleado/
             - text: Servicio
