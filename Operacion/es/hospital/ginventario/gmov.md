@@ -14,6 +14,7 @@ editable: si
 * [Salida de inventario en GMOV](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#salida-de-inventario-en-gmov) 
 * [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)
 
+
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
 
 ![](gmov1.png)  
@@ -31,8 +32,6 @@ Esta aplicación permite la ejecución de los principales movimientos que afecta
 **Vendedor:** Tercero que está registrado como vendedor.  
 **Tipo de precio:** Tipo de precio registrado con anterioridad en la aplicación **FBTP**.  
 **Ubicación de destino:** Ubicación a donde será cargado el movimiento de productos.  
-
-
 
 * **Creacion de terceros:**  
 
