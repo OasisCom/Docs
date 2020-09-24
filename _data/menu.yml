@@ -1606,9 +1606,10 @@
               - text: Consulta Referencia y Contrareferencia 
                 url: /Operacion/crm/portal/proveedor/eercr
               - text: Pago de facturas 
-                url: /Operacion/crm/portal/proveedor/etrfp                
+                url: /Operacion/crm/portal/proveedor/etrfp 
             - text: Empleados
               url: /Operacion/crm/portal/empleado/
+              subitems:                 
               - text: Comprobantes de pago
                 url: /Operacion/crm/portal/empleado/enrco
               - text: Certificados de retención
