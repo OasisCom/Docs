@@ -23,7 +23,7 @@ El primer campo que aparece es el campo _Número_. Este campo está de color gri
 El siguiente, es el campo _Ubicación_.  En este campo, se selecciona la IPS que está realizando la solicitud.  
 El campo _Documento_, tampoco se puede editar.  Este campo también se diligencia automáticamente con el documento correspondiente a la autorización que para este caso es _**SW**_.  
 En el campo _Fecha_, se diligencia la fecha en la que se realiza la solicitud.  
-En el campo _Fecha de prestación_ se coloca la fecha  
+En el campo _Fecha de prestación_ se coloca una posible fecha en la que se prestaría el servicio.  
 
 ![](eesoa3.png)  
 
@@ -40,6 +40,7 @@ El siguiente campo es _Ubicación solicitud_.  Aquí hay un menú desplegable de
 
 Los campos restantes se diligencian libremente sin necesidad de una parametrización previa.  
 
+En el campo _Servicio_ también hay un Zoom del cual se debe seleccionar el servicio del que se está pidiendo autorización, por ejemplo, QX cirugía general, QX cirugía ginecológica, QX cirugía neurológica, etc.).  
 En el campo _Id Solicitante_, El sistema automáticamente muestra el **NIT** del prestador, se deben diligenciar todas las variables convenientes.  
 El campo _Sede_, se diligencia en caso de que la *IPS* tenga más de una sede,  para saber con exactitud de dónde se está solicitando la autorización.  
 
