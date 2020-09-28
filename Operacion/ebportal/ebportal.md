@@ -143,10 +143,104 @@ Los datos relacionados al color:
 
 ![](ebportal11.png)  
 
+**Datos adquirientes:**  
+
+**Tipo ID:** C - cedula de ciudadanía, N – Nit empresa  
+**ID:** Número de cedula o Nit  
+**DV:** Dígito de verificación (aplica únicamente para NIT, se coloca 0 cuando es cedula)  
+**Nombre Adquiriente:** Nombre del cliente a quien se factura  
+**Ubicación geográfica:** Ubicación código DANE.  
+**Teléfono:** Número teléfono fijo o celular adquiriente  
+**Dirección:** Dirección ubicación adquiriente  
+**Email:** Correo electrónico adquiriente (sin espacios).  
+**Régimen:** C – Común, S – simple, G – Gran contribuyente  
+
+![](ebportal150.png)  
+
+**Datos vendedores:**  
+
+**Tipo ID vendedor:** C – Cedula de ciudadanía, N – Nit empresa  
+**ID Vendedor:** Número de cedula o Nit  
+**DV:** Dígito de verificación (aplica únicamente para NIT, se coloca 0 cuando es cedula)  
+**Nombre Vendedor:** Nombre de vendedor o empresa quien factura  
+**Ubicación geográfica:** Ubicación código DANE  
+**Dirección Vendedor:** Dirección ubicación vendedor.  
+
+![](ebportal151.png)  
+
+**Datos encabezado documento:**  
+
+**Documento:** FC – Factura electrónica, DV – nota crédito, NF – nota débito  
+**Número documento:** número consecutivo documento  
+**Ubicación documento:** se ingresará numero 1 (excepción para empresa)  
+**Concepto:** para facturas se utilizará FC. Para notas crédito se utilizará DV cuando se asocia una factura electrónica, DS cuando no se asocia ninguna factura, D1 cuando se asocian facturas de fase 1.  
+**Motivo:** Para facturas se utiliza 0, para notas crédito y débito se utilizará los siguientes motivos dependiendo el proceso.  
+
+![](ebportal152.png)  
+
+**Fecha documento:** fecha realización documento   
+**Hora documento:** hora de realización documento.   
+**Id Adquiriente:** número de cedula o NIT a quien se factura  
+**Sucursal:** se colocará el numero 0, en caso de tener varias sucursales se hará la respectiva parametrización con el consultor a cargo.  
+**Id Vendedor:** número de cedula o NIT de quien factura.  
+**Fechas vencimiento:** Fecha en la que se vence la factura.  
+**Condición de pago:** se ingresará 1 para contado y 2 para crédito  
+
+![](ebportal153.png)  
+
+**Moneda:** 0 = Pesos Colombianos, 1 = Dólar, 32 = Euro  
+**Tasa de cambio:** únicamente aplica cuando es distinto a pesos colombianos, en ese caso se ingresará la TRM que corresponda.  
+**Orden de compra:** número de orden de compra, si aplica, en caso contrario quedará en 0.  
+**Observación:** Observación general de la factura.  
+**Documento1:** Referencia documento de factura (aplica únicamente para notas)  
+**Numero1:** número de documento referenciado (aplica únicamente para notas)  
+**Ubicacion1:** número de ubicación referenciado factura (aplica únicamente para notas)  
+**Referencia:** Este campo se utilizará para ingresar el numero de un documento adicional que maneje la empresa (Remisiones, recibos de caja, etc.)   
+
+![](ebportal154.png)  
+
+**Valor bruto:** Valor total bruto de la factura  
+**Valor descuento:** Valor total de descuentos de la factura  
+**Valor Subtotal:** Valor subtotal de la factura  
+**Valor impuesto IVA:** Valor total impuesto IVA de la factura  
+**Valor impuesto ICO:** Valor total impuesto al consumo de la factura (si aplica)  
+**Valor Total:** Valor total de la factura  
+**Valor Retenciones:** Valor total de las retenciones de la factura  
+**Valor Neto:** Valor Neto a pagar de la factura  
+
+![](ebportal155.png)  
+
+**Datos producto:**  
+
+**Numero Ítem:** consecutivo que se ingresa en orden para cada producto  
+**Código de producto:** Código único que se le brinda a cada producto  
+**EAN:** código EAN del producto.  
+**Descripción:** Nombre del producto.  
+**Cantidad:** Cantidad a facturar del producto  
+**Precio:** Precio unitario del producto  
+**Indica si producto es gravado:** S = si el producto es gravado, N = Exento, X= Excluido  
+**% impuesto IVA:** Número del porcentaje IVA  
+**% impuesto INC:** Número del porcentaje INC (impuesto al consumo)  
+**% Descuento:** Número porcentaje descuento producto.  
+**Total Ítem:** total del producto, Precio x Cantidad.  
+**Total IVA ítem:** Valor total de IVA por producto.  
+**Total INC ítem:** Valor total de INC por producto. (impuesto al consumo)  
+
+![](ebportal156.png)  
+
+**Vencimiento:** Fecha vencimiento producto facturado  
+**Lote:** Numero lote, si aplica.   
+**Observación:** Observación o descripción por producto.  
+**Regalo:** se ingresa 1 cuando el producto es regalo, 0 cuando no es regalo.  
+**Renglón Pago:** Numero consecutivo en orden de acuerdo al pago de la factura  
+**Código forma de pago:** Número de la forma de pago de acuerdo a parametrización en la aplicación BFOR  
+**Valor pago:** Valor del pago realizado en factura. 
+
+![](ebportal157.png)   
+
 La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento.  
 
 ![](ebportal15.png)  
-
 
 Ingresada toda la información en el archivo de Excel, debemos eliminar los renglónes señalados en la siguiente imagen para así proceder a convertirlo en formato _.CVS_.   
 
@@ -160,11 +254,12 @@ Para convertir el archivo en formato **.CVS** vamos a _Archivo ![](flecha.png) G
 
 ![](ebportal14.png)
 
-Una vez guardado, se ingresa a la aplicación **Interfaces - BINT**, se selecciona la publicación 961 (SUBIDA FACTURA ELECTRÓNICA FASE II (PLANO)), se selecciona el archivo que se guardó en .csv y se da clic en *Aceptar y Ejecutar* y el sisema genera un mensaje de control.
+Una vez guardado, se ingresa a la aplicación **Interfaces - BINT**, se selecciona la publicación 961 (SUBIDA FACTURA ELECTRÓNICA FASE II (PLANO)), se selecciona el archivo que se guardó en .csv y se da clic en *Aceptar y Ejecutar* y el sistema genera un mensaje de control.
 
-![](portal1.png)
+![](portal1.png)  
 
-Posteriormente, se ingresa a la aplicación **Facturas de venta - ebffac.** En esta aplicación se valida que estén todas las facturas de acuerdo al consecutivo, estén en Envío existoso y estén cargadas en **OASIS.**
+
+Posteriormente, se ingresa a la aplicación **Facturas de venta - ebffac.** En esta aplicación se valida que estén todas las facturas de acuerdo al consecutivo, estén en Envío exitoso y estén cargadas en **OASIS.**
 
 ![](portal2.png)
 
@@ -172,7 +267,7 @@ En la pestaña *Ejecutado,* se entra a validar si el envío efectivamente se rea
 
 ![](portal3.png)
 
-**_IMPORTANTE:_** Convertido el archivo en formato _.CVS_, este se debe abrir en el editor de texto y eliminar el último espacio en blanco.  
+**_IMPORTANTE:_** Convertido el archivo en formato _.CVS_, para su correcta verificación, este se debe abrir en el editor de texto y validar que no queden punto y coma (;) debajo de los datos, en este caso se eliminará la ultima fila que no contiene ninguna información.  
 
 ![](ebportal16.png)
 
