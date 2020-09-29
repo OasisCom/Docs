@@ -13,9 +13,9 @@ Está integrado por los módulos:
 
 * [**EPSEC**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/epsec) - Imprime Estados de Cuenta Proveedores
 * [**EKRCR**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/ekrcr) - Certificados de Retención
-* [**EESOA**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa) - Solicitud de Autorizaciones Hospitalarias
+* [**EESOA**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eesoa) - Autorizaciones de Aplicación WEB
 * [**EERSA**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eersa) - Consulta de Solicitud de Amortizaciones
-* [**EENOU**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou) - Notificación de Urgencias
+* [**EENOU**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eenou) - Notificación de Urgencia WEB
 * [**EERNU**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eernu) - Consulta de Notificación de Urgencias
 * [**EERCF**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf) - Solicitud de Referencia
 * [**EERCR**](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercr) - Consulta Referencia y Contrareferencia  
