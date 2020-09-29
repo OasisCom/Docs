@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Solicitud de portabilidad
+title: WEB Novedades Afiliados
 permalink: /Operacion/crm/portal/cliente/eeson
 editable: si
 ---
 
-# Solicitud de portabilidad - EESON
+# WEB Novedades Afiliados - EESON
 
-La aplicación EESON permite realizar una solicitud de portabilidad a un afiliado.  Para este proceso, se debe llenar un formulario.  
+La aplicación EESON permite realizar una **Solicitud de Portabilidad** a un afiliado.  Para este proceso, se debe llenar un formulario.  
 
 El primer campo que encontramos es _Documento_.  En este, se selecciona la opción _**SO**_, que hace referencia a _Solicitud de Afiliado_.  
 El campo _Número_ se diligencia automáticamente.  
