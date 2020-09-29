@@ -20,7 +20,8 @@ Está integrado por los módulos:
 * [**EEMOV**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov) - Formulación de Afiliados WEB
 * [**EAOPO**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eaopo) - Oportunidades  
 * [**ECSSP**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/ecssp) - Saldo de Cartera  
-* [**ECRFR**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/ecrfr) - Facturas VS Recaudo  
+* [**ECRFR**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/ecrfr) - Facturas VS Recaudo   
+* [**EESON**](http://docs.oasiscom.com/Operacion/erp/cartera/creporte/eeson) - WEB Novedades Afiliados 
 
 
 Para poder consultas estas aplicaciones se debe crear un rol que se llame Portal de Clientes y otorgarle a los clientes permisos a estas aplicaciones, así mismo en el **SUSU - Usuario** se debe tener asociada la cédula a la persona que corresponde (campo tercero), esto con el fin que sólo se pueda ver la información del usuario que se logea:
