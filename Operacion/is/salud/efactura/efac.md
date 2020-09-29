@@ -34,6 +34,14 @@ El segundo escenario cuando es mayor a 30.000 se crea un documento **FD** (NOTA 
 
 ![](bint1.png)  
 
+Al cargar el archivo se evidencia que carga correctamente.  
+
+![](efac5.png)  
+
+Al validar en el EFAC se evidencia que crea el documento de Glosa FD.  
+
+
+
 
 
 
