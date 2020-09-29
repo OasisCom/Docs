@@ -9,7 +9,11 @@ editable: si
 # Movimientos de Inventario - GMOV
 
 
+* [Vista Previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#vista-previa)  
+* [Salida de inventario por una orden de compra](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)  
+* [Salida de inventario en GMOV](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#salida-de-inventario-en-gmov) 
 * [Proceso de Dispensación de Medicamentos](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#proceso-de-dispensación-de-medicamentos)
+
 
 Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.   
 
@@ -28,8 +32,6 @@ Esta aplicación permite la ejecución de los principales movimientos que afecta
 **Vendedor:** Tercero que está registrado como vendedor.  
 **Tipo de precio:** Tipo de precio registrado con anterioridad en la aplicación **FBTP**.  
 **Ubicación de destino:** Ubicación a donde será cargado el movimiento de productos.  
-
-
 
 * **Creacion de terceros:**  
 
@@ -80,16 +82,11 @@ Detalle del **GMOV**.
 
 La funcionalidad de _Vista Previa_ muestra los movimientos de inventario despachado, relacionando la información diligenciada en la aplicación.  
 
-
-
 Para acceder a la vista previa, seleccionamos un registro del maestro de la aplicación y damos click en el botón _Presentación preliminar_ ![](lupa.png) ubicado en la barra de herramientas.  
-
 
 ![](imov9.png)
 
-
-En seguida, se podrá ver el documento del movimiento de inventario seleccionado.  
-
+Enseguida, se podrá ver el documento del movimiento de inventario seleccionado.  
 
 El documento podrá ser exportado en formato de Excel, PDF o Word.  
 
@@ -101,61 +98,36 @@ Al exportarlo en formato PDF.
 
 La información de la sección de _Talla_: cantidad, código antiguo, talla y color, el sistema la toma de los registros de la aplicación [**BPRO - Productos**](http://docs.oasiscom.com/Operacion/common/bprodu/bpro).  
 
-
-
 ![](imov19.png)
-
 
 Cabe resaltar que, si al momento de realizar este registro no recordamos el número del pedido, en el campo número 1 se puede realizar doble clic y el sistema abre una ventana emergente con los pedidos relacionados a ese tercero y en esa respectiva ubicación:  
 
-
-
 ![](imov4.png)
-
-
 
 Se da clic en el botón aceptar y el sistema nos arroja el 2 en el campo número1.  
 
-
-
 Al guardar el registro el sistema nos arroja automáticamente el detalle de acuerdo al pedido generado anteriormente, cabe resaltar que para que el sistema realice esto es necesario diligenciar los campos de color naranja de la imagen anterior para identificar a que pedido está asociado.  
 
-
-
 ![](imov5.png)
-
-
 
 Se procesa el registro   
 
 ![](imov6.png)
 
-
-
 Para verificar que el inventario haya sido ajustado correctamente ingresaremos a la aplicación [**ISPL - Saldos por Localización**](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl#inventario-periódico-e-inventario-cíclico).  
 
 
-
-
-
-## **Salida de inventario por una orden de compra**
+## [Salida de inventario por una orden de compra](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
 
 
 Una vez creada la orden de servicio y los productos correspondientes, se debe realizar la salida de inventario de los productos necesarios para realizar el mantenimiento al equipo. Esto se realiza a través de la opción **IMOV – Movimientos de Inventario**.  
 
 
-
-**Salida de inventario en GMOV**
-
+## [Salida de inventario en GMOV](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov#salida-de-inventario-en-gmov)  
 
 Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:  
 
-
-
 ![](mord8.png)
-
-
-
 
 
 **Documento:** para esta opción se trabajará con el documento _SA_ que corresponde a una Salida de Inventario.  
@@ -165,22 +137,15 @@ Creamos un nuevo registro en la aplicación GMOV y diligenciamos el formulario:
 **Concepto:** se debe seleccionar el concepto por el cual se facturará la orden, en este caso es _OT – Cargo a Tercero_ dado que la factura será cargada al cliente propietario del equipo al cual se le realiza el mantenimiento.  
 
 
-
  _**NOTA:**_ Se debe considerar que, de acuerdo al concepto elegido, deben estar parametrizados de la siguiente manera en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc):
-
 
 
  * Si se eligió **OT** en el campo concepto, en el campo _Clase_ del detalle de esta opción, debe estar seleccionada la opción _Cargo a tercero_:  
 
-
-
 ![](mord9.png)
 
 
-
  * Si se eligió el concepto **GT**, en el campo _Clase_ del detalle de esta opción, debe estar seleccionada la opción _Garantía_:  
-
-
 
 ![](mord10.png)  
 

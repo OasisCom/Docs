@@ -333,6 +333,8 @@
                 url: /Operacion/erp/cartera/creporte/cram
               - text: Facturas vs Recuado
                 url: /Operacion/erp/cartera/creporte/crfr
+              - text: Facturas vs Recuado - Portal
+                url: /Operacion/erp/cartera/creporte/ecrfr                
         - text: Cuentas por Pagar
           url: /Operacion/erp/cuentas/
           subitems:
@@ -1580,6 +1582,10 @@
                 url: /Operacion/crm/portal/cliente/eaopo
               - text: WEB Application Affiliates
                 url: /Operacion/crm/portal/cliente/eeson
+              - text: Saldo de cartera
+                url: /Operacion/crm/portal/cliente/ecssp
+              - text: Facturas vs Recaudo
+                url: /Operacion/crm/portal/cliente/ecrfr                
             - text: Proveedores
               url: /Operacion/crm/portal/proveedor/
               subitems:                
@@ -1598,9 +1604,18 @@
               - text: Solicitud de Referencia  
                 url: /Operacion/crm/portal/proveedor/eercf
               - text: Consulta Referencia y Contrareferencia 
-                url: /Operacion/crm/portal/proveedor/eercr                
+                url: /Operacion/crm/portal/proveedor/eercr
+              - text: Pago de facturas 
+                url: /Operacion/crm/portal/proveedor/etrfp 
             - text: Empleados
               url: /Operacion/crm/portal/empleado/
+              subitems:                 
+              - text: Comprobantes de pago
+                url: /Operacion/crm/portal/empleado/enrco
+              - text: Certificados de retención
+                url: /Operacion/crm/portal/empleado/enrcr
+              - text: Certificado laboral
+                url: /Operacion/crm/portal/empleado/errcl                
             - text: Servicio
               url: /Operacion/crm/portal/servicios/
     - text: Manufactura MRP
