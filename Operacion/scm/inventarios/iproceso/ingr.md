@@ -12,3 +12,9 @@ Al generar órdenes de compra se deben tener procesos previos ejecutados como lo
 
 ![](ingr1.png)  
 
+Procesos previos:
+
+![](inpr2.png)  
+
+
+
