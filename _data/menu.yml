@@ -1580,7 +1580,7 @@
                 url: /Operacion/crm/portal/cliente/eemov
               - text: Oportunidades
                 url: /Operacion/crm/portal/cliente/eaopo
-              - text: WEB Application Affiliates
+              - text: Solicitud de Portabilidad
                 url: /Operacion/crm/portal/cliente/eeson
               - text: Saldo de cartera
                 url: /Operacion/crm/portal/cliente/ecssp
