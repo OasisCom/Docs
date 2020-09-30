@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Proveedores
+title: Notificación de Urgencia WEB
 permalink: /Operacion/crm/portal/proveedor/eenou
 editable: si
 ---
 
-# Notificación de Urgencias - EENOU
+# Notificación de Urgencia WEB - EENOU
 
 En la aplicación **EENOU** se registran las urgencias de los pacientes. El prestador del servicio debe registrar todas las notificaciones de urgencia, donde se debe especificar datos básicos del afiliado y  motivo de la urgencia. En el formulario hay varios campos y algunos se deben diligenciar obligatoriamente, de lo contrario, el sistema arroja un mensaje de control; de igual forma, hay campos que no son estrictamente necesarios de llenar;  también están los campos grises, en los que no podemos realizar ningún tipo de edición.   
 
