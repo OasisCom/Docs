@@ -24,5 +24,5 @@ _**Mortalidad:**_ Código de la mortalidad [EBMR] que se relaciona al diagnósti
 _**Programa:**_ Este campo no aplica.   
 _**Sivigila:**_ Código del evento SIVIGILA [EBSI] que se relaciona al diagnóstico.    
 _**Sífilis:**_ Aplica o no el diagnóstico para sífilis.  
-_**Gestante:**_ Aplica o no el diagnóstico para madre gestante. 
+_**Gestante:**_ Aplica o no el diagnóstico para madre gestante.   
 _**TB:**_ Aplica o no el diagnóstico para tuberculosis.   
