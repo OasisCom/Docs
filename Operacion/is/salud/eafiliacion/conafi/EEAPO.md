@@ -48,7 +48,7 @@ Diligenciados todos estos campos, se guarda el registro.
 
 ![](eeapo2.png)  
 
-Es importante tener en cuenta que para poder procesar el formulario, se deben haber adjuntado los documentos necesarios que son: Fotocopia del documento de identidad, Formato de inscripción y Fotocopia del NIT.  Estos documentos son obligatorios de acuerdo a la parametrización en la aplicación **Motivos - BMOT**.  Para adjuntar los documentos, se da click en el botón adjuntar al lado derecho del botón guardar; se van adjuntando los archivos y se da click en el botón verde de aceptar y luego en el de guardar cambios; uno a uno hasta adjuntar los 3 documentos.  
+Es importante tener en cuenta que para poder procesar el formulario, se deben haber adjuntado los documentos necesarios que son: Fotocopia del documento de identidad, Formato de inscripción y Fotocopia del NIT.  Estos documentos son obligatorios de acuerdo a la parametrización en la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  Para adjuntar los documentos, se da click en el botón adjuntar al lado derecho del botón guardar; se van adjuntando los archivos y se da click en el botón verde de aceptar y luego en el de guardar cambios; uno a uno hasta adjuntar los 3 documentos.  
 
 ![](eeapo3.png)  
 
@@ -56,15 +56,15 @@ Luego de terminado este proceso, se guarda y se procede a Procesar el registro.
 
 ![](eeapo4.png)  
 
-Ahora, se abre la aplicación **Formulario de empleadores - EAPO** para verificar que el estado del formulario es _Procesado_, filtrando por _Documento_ y _Número de consecutivo_.  
+Ahora, se abre la aplicación [**Formulario de empleadores - EAPO**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movadm/eapo) para verificar que el estado del formulario es _Procesado_, filtrando por _Documento_ y _Número de consecutivo_.  
 
 ![](eeapo5.png)  
 
-Ahora, se ingresa a la aplicación **Colaboradores - ECLI** y se filtra por el tercero.  Aquí, se verifica que el aportante se creó correctamente.  
+Ahora, se ingresa a la aplicación [**Colaboradores - ECLI**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movadm/ecli) y se filtra por el tercero.  Aquí, se verifica que el aportante se creó correctamente.  
 
 ![](eeapo6.png)  
 
-Para finalizar, se ingresa a la aplicación **Contratos de empleador - ECNT**.  Se consultan todos los registros al ubicarse en cualquier campo y dando click en el botón _Enter_.  Se puede ver que se crea un contrato automáticamente en el _Maestro_.  Este se crea en cuanto se procesa el formulario, con _Documento_ _**KE**_ y _Concepto_ _**DE**_ y para el ejemplo, el NIT del aportante _Tercero_.    
+Para finalizar, se ingresa a la aplicación [**Contratos de empleador - ECNT**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movadm/ecnt).  Se consultan todos los registros al ubicarse en cualquier campo y dando click en el botón _Enter_.  Se puede ver que se crea un contrato automáticamente en el _Maestro_.  Este se crea en cuanto se procesa el formulario, con _Documento_ _**KE**_ y _Concepto_ _**DE**_ y para el ejemplo, el NIT del aportante _Tercero_.    
 
 ![](eeapo7.png)   
 
