@@ -74,7 +74,7 @@ _Id Afiliado:_  identificación de la persona a quien se le realizará la afilia
 _Id tipo contrato:_  Del Zoom, se selecciona el tipo de contrato que corresponda.  
 Y los campos _Salario_, _Fecha inicial_ y _Fecha final_.  
 
-Se guarda el registro.  Se repita esta operación dependiendo de la cantidad de afiliados.  
+Se guarda el registro.  Se repite esta operación dependiendo de la cantidad de afiliados.  
 
 Terminado el proceso de afiliación, se procede a Procesar el Contrato.  
 
