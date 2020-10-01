@@ -84,8 +84,6 @@ Seguidamente se encuentran los anexos, en donde digitaremos el número 1 en el c
 
 ![](eemov9.png)
 
-A continuación, se encuentran los campos para ingresar los datos del beneficiario.  
-
 ![](ben1.png)
 
 **Tipo subsidiado:** seleccionamos del zoom el tipo de subsidiado que es el beneficiario: Cabeza (Cotizante), Otro (Beneficiario).  
@@ -93,7 +91,7 @@ A continuación, se encuentran los campos para ingresar los datos del beneficiar
 ![](eemov10.png)
 
 Diligenciados todos los datos del beneficiario, damos click en el botón 
-_Guardar_.
+_Guardar_.  Para poder procesar el registro, es obligatorio adjuntar los documentos exigidos.  
 
 A continuación adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio de acuerdo a la parametrización realizada en la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov) para el documento MS, concepto IN y motivo 2. (_Ver aplicación_)  
 
