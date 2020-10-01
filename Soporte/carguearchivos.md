@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cargue de archivos a OasisCom
-permalink: /Soporte/carguearchivos
+permalink: /Soporte/erroresgenerales/carguearchivos
 editable: si
 ---
 
