@@ -801,7 +801,7 @@ Luego se debe ingresar a la aplicación SROL - Roles, en el rol que corresponda.
 
 ### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)  
 
-#### [Variable documento](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento)
+### [Variable documento](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento)
 
 En la aplicación WVAR - Variables, esta variable debe ser creada para que el sistema identifique que se debe crear un documento EQ. 
 
