@@ -16,8 +16,8 @@ Consultamos por el periodo para el cual se generó el proceso en la aplicación 
 Al generar el reporte se visualizará la información.  
 
 ![](qrp22.png)  
+Descarga archivo plano reporte chip presupuestal, desde la interface **BINT.**  
 Puede realizar la descarga según su publicación y programación de gastos o de ingresos.  
-Descarga archivo plano reporte chip presupuestal.   
 
 ![](qrp23.png)  
 
