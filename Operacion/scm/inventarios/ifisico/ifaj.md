@@ -13,7 +13,7 @@ Para la generación de este proceso se ingresará la fecha en la cual se realiz�
 
 ![](ifaj1.png)
 
-Ingresados los datos damos click en el botón _Generar_ ![](actualizar.png), el sistema arrojará un mensaje de control indicando que el proceso se generó satisfactoriamente.  
+Ingresados los datos damos clic en el botón _Generar_ ![](actualizar.png), el sistema arrojará un mensaje de control indicando que el proceso se generó satisfactoriamente.  
 
 ![](ifaj2.png)
 

@@ -5,9 +5,14 @@ permalink: /Operacion/crm/portal/cliente/eacas
 editable: si
 ---
 
-## EACAS - Colorcar Casos de Soporte
+# Colocar Casos de Soporte - EACAS
 
 La aplicación EACAS permite a los clientes de cada empresa realizar el cargue de casos de soporte al sistema OasisCom, estos casos serán administrados por cada empresa.  
+
+* [**Contrato**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#contrato)
+* [**Problema**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#problema)
+* [**Contacto**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#contacto)
+* [**Envío**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#envio)
 
 La información de los casos de soporte cargados por los clientes, sólo será visible para la empresa administradora y no para el proveedor tecnológico OasisCom S.A.S.
 
@@ -18,7 +23,7 @@ Para cargar casos de soporte en el sistema OasisCom ingresaremos a la aplicació
 Ubicados en la aplicación **EACAS - Colocar Casos de Soporte**, se observarán cuatro pestañas (Contrato, Problema, Contacto, Envío), correspondientes al proceso para el envío del caso de soporte, estas pestañas se deberán diligenciar consecutivamente.  
 
 
-#### Contrato
+## [**Contrato**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#contrato)
 
 En esta pestaña se ingresan los datos correspondientes al contrato de soporte que tiene el cliente con la empresa, igualmente, muestra las horas contratadas de soporte según el contrato, las horas ejecutadas a la fecha, el saldo que se encuentra en cartera y el saldo en mora, de haberlo.  
 
@@ -35,7 +40,7 @@ Seguidamente, se encuentran campos de información que no son editables pero se 
 Diligenciado el formulario damos click en el botón _Next_, el cual nos trasladará a la siguiente pestaña **Problema**.  
 
 
-#### Problema
+## [**Problema**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#problema)
 
 En esta pestaña se ingresa la información que describe el problema por el cual se requiere cargar el caso de soporte.  
 
@@ -65,7 +70,7 @@ Para adjuntar un archivo, damos click en el botón ![](eacas6.png) y seleccionam
 
 Cargadas las imágenes damos click en el botón _Next_ para continuar a la siguiente pestaña de la aplicación.  
 
-#### Contacto
+## [**Contacto**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#contacto)
 
 En la pestaña contacto, se podrá observar los datos de la persona a la cual le llegarán los correos electrónicos de seguimiento del caso. Dicha persona es definida por el cliente.  
 
@@ -73,7 +78,7 @@ En la pestaña contacto, se podrá observar los datos de la persona a la cual le
 
 Verificados los datos damos click en el botón _Next_ para pasar a la siguiente pestaña **Envío**.  
 
-#### Envío
+## [**Envío**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eacas#envio)
 
 Para envíar el caso de soporte es necesario leer y aceptar los términos y condiciones del servicio de soporte, estos se pueden ver dando click en el link ![](eacas9.png) y se aceptan activando el flag ![](flag.png).  
 

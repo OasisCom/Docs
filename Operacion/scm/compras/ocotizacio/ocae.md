@@ -5,7 +5,7 @@ permalink: /Operacion/scm/compras/ocotizacio/ocae
 editable: si
 ---
 
-# OCAE - Aprobación de compras
+# Aprobación de compras - OCAE
 
 La aplicación **OCAE** muestra la información de las compras pendientes de aprobación de todas las empresas a las que el usuario tenga permisos.  
 
@@ -13,7 +13,7 @@ En el campo _Empresa_ podemos ver que el usuario que se encuentra en sesión, ti
 
 ![](ocae.png)
 
-En el detalle, se muestra la cotización asociada a dicho pedido de compra pendiente por aprobar. Para aprobar una compra, damos click en el siguiente botón del detalle.  
+En el detalle, se muestra la cotización asociada a dicho pedido de compra pendiente por aprobar. Para aprobar una compra, damos clic en el siguiente botón del detalle.  
 
 ![](ocae1.png)
 

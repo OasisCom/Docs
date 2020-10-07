@@ -30,6 +30,19 @@ El segundo escenario cuando es mayor a 30.000 se crea un documento **FD** (NOTA 
 **Periodo:** mes del documemento.  
 **Año:** año de realizacion de la factura.  
 
+* Se crea y parametriza una interface **BINT** donde a través de un archivo plano que debe tener está estructura; para que  permita cargar masivamente glosas a facturas. Se realizo adecuación al procedimiento para el escenario donde el cliente no tiene el código CUPS.  
+
+![](bint1.png)  
+
+Al cargar el archivo se evidencia que carga correctamente.  
+
+![](efac5.png)  
+
+Al validar en el EFAC se evidencia que crea el documento de Glosa FD.  
+
+
+
+
 
 
 

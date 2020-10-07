@@ -103,7 +103,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
->###### [E-Book: Procesos de manufactura esbelta desde la nube](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-MANUFACTURA-ESBELTA-MRP.pdf)
+>###### [E-Book: Procesos de manufactura esbelta desde la nube](http://docs.oasiscom.com/Mercadeo/e-books/ebook-manufactura-esbelta.pdf)
 
 
 
@@ -116,7 +116,7 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
-
+>###### [EbooK: SCM e E-Commerce | Crecimiento conjunto acelerado.](http://docs.oasiscom.com/Mercadeo/e-books/Ebook-SCM-E-commerce.pdf)
 
 >###### [EbooK: 7 secretos para cambiar sus procesos de cadena de suministro a cadena de valor](http://docs.oasiscom.com/Mercadeo/e-books/E-book-logistica-7-secretos-para-cambiar-su-cadena-de-suministro-a-cadena-valor-2019.pdf)
 
@@ -144,6 +144,9 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 ### Factura Electrónica
 
+>###### [Calendario de Implementación Factura Electrónica](http://docs.oasiscom.com/Mercadeo/e-books/calendario-factura-electronica.pdf) 
+
+
 
 >###### [Preguntas frecuentes Factura Electrónica - Validación Previa](http://docs.oasiscom.com/Mercadeo/e-books/Preguntas-frecuentes-factura-electronica-validacion-previa.pdf) 
 
@@ -160,6 +163,8 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
+###### [Diccionario de términos Cloud  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/diccionario-terminos-cloud.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+###### [Preguntas Frecuentes OasisCom  (descargar)](http://docs.oasiscom.com/Mercadeo/e-books/preguntas-frecuentes-general.pdf)
 ###### [Presentación de Marketing Digital de Oscar Auza  (descargar)](http://docs.oasiscom.com/Mercadeo/whitepapers/MARKETING DIGITAL.PDF)
 
 

@@ -5,7 +5,7 @@ permalink: /Operacion/is/salud/eafiliacion/movafi/eemoa
 editable: si
 ---
 
-# EEMOA - Formulario Cliente Web
+# Formulario Cliente Web - EEMOA
 
 El formulario EEMOA permite realizar el proceso de afiliación de un paciente. Al diligenciar los campos y dar click en el botón _Guardar_ se habilitará un formulario en donde se ingresará la información del acudiente y el paciente.  
 

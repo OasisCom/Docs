@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvde
 editable: si
 ---
 
-# QVDE - Diarias por Empresa
+# Diarias por Empresa - QVDE
 
 La aplicación **QVDE** permite consultar la relación de ventas diarias por ubicación (por empresa).  
 

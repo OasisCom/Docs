@@ -1,18 +1,15 @@
 ---
 
 layout: default
-
 title: Tipos de Comisión
-
 permalink: /Operacion/scm/facturacion/fbasica/fbpc
-
 editable: si
 
 ---
 
 
 
-# FBPC - Tipos de Comisión
+# Tipos de Comisión - FBPC
 
 
 

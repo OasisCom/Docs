@@ -5,7 +5,7 @@ permalink: /Operacion/erp/asociados/zreporte/zrla2
 editable: si
 ---
 
-# ZRLA2 - Libro de Asociados
+# Libro de Asociados - ZRLA2
 
 El reporte **ZRLA2** permite ver los ingresos, retiros, aportes ordinarios y etxraordinarios por asociado.  
 

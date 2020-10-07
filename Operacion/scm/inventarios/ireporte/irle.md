@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irle
 editable: si
 ---
 
-# IRLE - Lista de Empaque
+# Lista de Empaque - IRLE
 
 El objetivo del reporte es poder tener listas de empaque de los productos que pasan por el proceso de empaque de WMS.  
 

@@ -5,7 +5,7 @@ permalink: /Operacion/scm/facturacion/qvconsulta/qvve
 editable: si
 ---
 
-# QVVE - Vendedor
+# Vendedor - QVVE
 
 La aplicación **QVVE** permite consultar las ventas de cada asesor comercial.  
 

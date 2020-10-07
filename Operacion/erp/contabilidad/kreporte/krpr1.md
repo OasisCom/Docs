@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Balance de Prueba Corriente - KRPR1
+# Balance de Prueba Corriente - KRPR1
 
 Este informe nos arroja un balance de prueba acumulado por periodos de acuerdo a la consulta.  
 

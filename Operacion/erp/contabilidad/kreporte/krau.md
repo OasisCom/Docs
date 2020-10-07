@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Auxiliar de Contabilidad - KRAU
+# Auxiliar de Contabilidad - KRAU
 
 Permite generar el libro auxiliar de contabilidad, el cual se puede filtrar por los ítems cliente, libro y cuenta.  
 

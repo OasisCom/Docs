@@ -38,7 +38,7 @@ Por ejemplo, si se crea un grupo para los productos con IVA Excluido, este grupo
 
 Para el proceso de Ingreso de Activo Fijo por Compras, en la aplicación BGRU se debe incluir el código IVC a los activos fijos. A continuación un ejemplo.  
 
-En el ejemplo el código del producto del activo fijo es 2008877, el cual se puede observar al consultar el movimiento en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos).  
+En el ejemplo el código del producto del activo fijo es 2008877, el cual se puede observar al consultar el movimiento en la aplicación [**OFAC - Facturas de Compras**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#ingreso-de-activo-fijo-por-compras-ofac).  
 
 ![](bgru4.png)
 
@@ -57,7 +57,32 @@ En la aplicación BGRU se parametriza el grupo 99 que hemos configurado previame
 
 ![](bgru7.png)
 
-El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_
+El proceso de transferencias de dinero se realiza por la aplicación [**TPTR - Transferencias**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tproceso/tptr). _(Ver aplicación)_  
+
+## [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#parametrización-para-el-módulo-activos-fijos)
+
+En esta aplicación, se entra a parametrizar cómo va a contabilizar cada uno de los movimientos del módulo:    
+
+![](bgru8.png)    
+
+**ID grupo:** - En el primer campo, registramos el número de identificación del grupo    
+**Nombre del grupo:** - De acuerdo con el código, se de el nombre del grupo    
+**Tipo:**  - El tipo del grupo contable, en este caso, se selecciona activo    
+**Type Asset:** - Cuál es el tipo del activo, es decir, si es propiedad, planta y equipo o alguno de la clasificación    
+**Type Depreciation** - Seleccionar de la lista desplegable tipo de depreciación: línea recta, suma dígitos, unidades producidas, reducción de saldos.      
+**Vida Útil** - La vida útil, que es el tiempo que debería estar vigente el activo antes de depreciarlo el 100%    
+**Depreciar** - Es un flag para activarlo si se van a depreciar los activos asociados a ese grupo contable    
+
+En el detalle, se registran las cuentas contables correspondientes:    
+
+![](bgru9.png)  
+
+**Código:** - En este caso, ACF    
+**Nombre código:**  En este caso, Activo fijo      
+**Cuenta**  - En este campo, se debe ingresar por cada código, la cuenta contable a la cual se va a afectar, por ejemplo, cuál va a ser la cuenta contable de depreciación, cuál va a ser la cuenta contable de gasto de depreciación y por último, la del iva capitalizable, esto solo aplica cuando el valor del iva es mayor valor del activo fijo  
+
+
+
 
 
 

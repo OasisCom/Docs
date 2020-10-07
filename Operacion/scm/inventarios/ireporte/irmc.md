@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irmc
 editable: si
 ---
 
-# IRMC - Movimientos Detallados por Concepto
+# Movimientos Detallados por Concepto - IRMC
 
 
 El reporte **IRMC** enseña los movimientos realizados agrupados por concepto y localización.  

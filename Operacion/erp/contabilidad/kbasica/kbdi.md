@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/kbasica/kbdi
 editable: si
 ---
 
-## Distribución de Costos - KBDI
+# Distribución de Costos - KBDI
 
 El primer paso para realizar el proceso de distribución de costos es hacer unas parametrizaciones básicas, entre ellas los centros de costo, los respectivos porcentajes y las cuentas contables que van a ser distribuidas. Esta parametrización básica se realiza en la aplicación distribución costos **KBDI** en ella se especifican los porcentajes que va a ser distribuidos en los diferentes centros de costos que maneje la empresa.
 

@@ -5,11 +5,11 @@ permalink: /Operacion/erp/activos/hcontrato/
 editable: si
 ---
 
-# CONTRATOS  
+# Contratos
 
 En este submódulo, se realizan los procesos relacionados con la contratación para el mantenimiento de los activos fijos.  
 
 La aplicación que se utiliza en este submódulo es:  
 
-* **HCMA** - Mantenimiento
+* [**HCMA**](http://docs.oasiscom.com/Operacion/erp/activos/hcontrato/hcma) - Mantenimiento
 

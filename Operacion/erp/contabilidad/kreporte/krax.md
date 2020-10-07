@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Libro Auxiliar Detallado - KRAX
+# Libro Auxiliar Detallado - KRAX
 
 Este reporte nos arroja la causación de todos los documentos que afectan al módulo de contabilidad.  
 

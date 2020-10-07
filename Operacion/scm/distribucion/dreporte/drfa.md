@@ -5,7 +5,7 @@ permalink: /Operacion/scm/distribucion/dreporte/drfa
 editable: si  
 ---  
 
-# DRFA - Facturación por cliente  
+# Facturación por cliente - DRFA
 
 Reporte del modulo de Distribucion, donde se extrae la informacion de los fletes **DFLE**.   Denominado Facturacion por cliente. **DRFA**  
 Datos de entrada.  

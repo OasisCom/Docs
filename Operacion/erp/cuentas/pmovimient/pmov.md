@@ -5,9 +5,20 @@ permalink: /Operacion/erp/cuentas/pmovimient/pmov
 editable: si
 ---
 
-## Movimientos - PMOV
+# Movimientos - PMOV
 
-Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos, en esta aplicación donde se deben diligenciar unos datos obligatoriamente y otros que son opcionales.  
+Las operaciones del módulo de Cuentas por Pagar en su gran mayoría se ejecutan por la aplicación movimientos. 
+
+Los siguientes procesos se encuentran documentados en esta aplicación:  
+
+>+ [Documento equivalente](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#documento-equivalente)
+>+ [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+>+ [Causaciones con AIU - Administración, Imprevistos y Utilidad](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causaciones-con-aiu---administración-imprevistos-y-utilidad)
+>+ [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-económicas)  
+>+ [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar) 
+>+ [Aprobación de Gerencia en aplicaciones PMOV, OFAC](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
+
 
 ![](PMOV1.png)
 
@@ -96,7 +107,7 @@ El documento equivalente puede ser extraído en formato de Excel, PDF o Word.
 ![](pmov9.png)
 
 
-### [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
+## [Vista previa con información presupuestal](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#vista-previa-con-información-presupuestal)
 
 Esta vista previa permite visualizar la información de la cuenta por pagar y adicionalmente conocer la afectación presupuestal.  
 
@@ -129,7 +140,7 @@ En el campo _Renglón_ del detalle debemos traer el número del renglón que cor
 
 **_Nota:_** Se debe tener en cuenta que para movimientos del producto ERP (Financiero) el sistema tomará el impuesto de acuerdo con el tercero y para movimientos del producto SCM (Logística) el sistema tomará el impuesto de acuerdo con el producto.  
 
-#### Proceso de Causación
+## [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
 
 Ahora procedemos a realizar en PMOV la causación de un servicio con impuesto _AIU Administración, Imprevistos y Utilidad_.  
 
@@ -144,3 +155,80 @@ En el detalle, podemos ver que tomó como base de retención $80.000, es decir, 
 ![](pmov14.png)
 
 Finalmente procesamos el movimiento.  
+
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#prestaciones-económicas)
+
+En la aplicación **PMOV,** en los campos de *DocDocumento, DocNúmero y DocUbicación,* se colocan los datos del **ELIP.** 
+
+![](Imagen 1 pmov.png)
+
+Al consultarlo, va a presentar la información de la contabilización del movimiento, ya confirmado. 
+
+![](Imagen 2 pmov.png)
+
+En la aplicación [PMCR](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr) se ve el registro para el pago. 
+
+![](Imagen 3 pmov.png)  
+
+## [Causación de Cuentas por pagar](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#causación-de-cuentas-por-pagar)  
+
+Se ingresa a la aplicación **PMOV - Movimientos**; se adiciona un nuevo registro (+).  En el ejemplo, se elige en el campo **_Documento_** la opción **CP** de Cuentas por pagar, en el campo **_Concepto_** de acuerdo a la parametrización previa, en el ejemplo se elige la opción **AA** de Agua y alcantarillado, en el campo **_Total_** el valor total a pagar, en el campo **_Tercero_** se busca el proveedor para el caso, en este ejemplo **Empresa de acueducto**, en el campo **_Factura_** se puede digitar el número de factura del servicio público y se guarda el registro.  
+
+![](pmov15.png)  
+![](pmov16.png)  
+![](pmov17.png)  
+![](pmov18.png)
+
+Al guardar, si tenemos previamente parametrizadas las plantillas, el sistema nos va a sugerir las cuentas contables que se causan en el momento de procesar el registro, en caso contrario, se pueden agregar (+) manualmente.  
+
+![](pmov19.png)
+
+Finalmente, se procesa el registro y queda registrada la cuenta por pagar.  
+
+![](pmov20.png)  
+
+Para poder realizar la explicación del cruce con la aplicación **PMCR - Cruces**, se debe realizar primero un movimiento de Tesorería en la aplicación **TMOV - Movimientos**; se agrega un nuevo registro (+), en el campo **_Documento_** se elige la opción **CE**  de Comprobante de egreso, en el campo **_Concepto_** se elige la opción **CP** de Cuenta por pagar, en el campo **_Total_** escribimos el valor total del pago y en el campo **_Tercero_** buscamos la empresa de Acueducto y Alcantarillado.  Finalmente, guardamos el registro.  
+
+![](pmov21.png)  
+
+De igual manera, si se tienen parametrizadas previamente las plantillas, el sistema sugiere las cuentas contables que se causan en el momento de procesar el registro.  Finalmente, se procesa el registro.  
+
+![](pmov22.png)  
+
+En este momento, ya se puede ir a la aplicación **PMCR - Cruces** para realizar el proceso de cruce.  Para conocer el proceso completo, favor dirigirse a: [**Cómo realizar el Cruce con las cuentas por pagar**](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmcr#cómo-realizar-el-cruce-con-las-cuentas-por-pagar)  
+
+
+## [Aprobación de Gerencia en aplicaciones PMOV, OFAC](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#aprobación-de-gerencia-en-aplicaciones-pmov-ofac) 
+
+Adecuación en compras [OFAC] y cuentas por pagar [PMOV] para que lleven una aprobación de jefe encargado antes de ser procesadas. Previa parametrización en procesos [SPRC], documentos [BDOC], motivos [BMOT]. Se configuro un botón en el maestro del PMOV, OFAC según sea el caso, el cual se encarga de actualizar el Status de Movimiento para proceder con su confirmación.  
+Parametrizacion:  
+
+1.Se debe configurar un proceso **[SPRC]**, que contenga en la columna código del maestro el código **APR**, y adicional automático el primer status que puede asumir el movimiento.  
+
+![](sprc1.png)  
+
+2.Se debe asociar este nuevo proceso al documento pertinente.  Adicional se deben configurar los status para este documento que permitirán identificar la aprobación previa **[BDOC]**  
+
+![](bdoc1.png)  
+
+3.Para controlar y evitar confirmar documentos sin aprobación se debe incluir esta validación en **[BMOT]**.  El error (7945) asociado ya se encuentra creado en Azure y en la BD sql desarrollo.  
+
+![](bmot.png)  
+
+4.Para aprobar los documentos se configuro un botón en el maestro del **PMOV - OFAC** según sea el caso el cual se encarga de actualizar el **Status** de Movimiento para proceder con su confirmación.   El botón y la edición del campo status se puede restringir su acceso o modificación desde configuración del **SROL**.  
+
+![](pmov29.png)  
+
+![](ofac1.png)  
+
+
+
+
+
+
+
+
+
+
+
+

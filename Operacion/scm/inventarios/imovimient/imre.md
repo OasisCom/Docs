@@ -5,13 +5,17 @@ permalink: /Operacion/scm/inventarios/imovimient/imre
 editable: si
 ---
 
-# IMRE - Recepción de Mercancía
+# Recepción de Mercancía - IMRE
 
 La aplicación IMRE permite registrar la mercancía que se recepciona, tanto quien la transporta como las remisiones que contenga el viaje.  
+
+>+ [**Creación y recepción de micro lotes**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imre#creación-y-recepción-de-micro-lotes)
+
 
 ![](imre.png)
 
 En el maestro de la aplicación se creará un nuevo registro y se diligenciarán los siguientes campos:  
+
 
 ![](imre1.png)
 

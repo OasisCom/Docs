@@ -5,5 +5,5 @@ permalink: /Operacion/scm/distribucion/dnovedad/
 editable: si
 ---
 
-# NOVEDADES
+# Novedades
 

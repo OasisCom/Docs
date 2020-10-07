@@ -5,11 +5,11 @@ permalink: /Operacion/is/salud/ecntpre/propre/
 editable: si
 ---
 
-# PROCESOS  
+# Procesos  
 
 En esta ventana se puede realizar el proceso de liquidación de contratos.  
 
 La aplicación que corresponde es:  
 
-* **EPFA** - Liquidación de contratos  
+* [**EPFA**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/propre/epfa) - Liquidación de contratos  
 

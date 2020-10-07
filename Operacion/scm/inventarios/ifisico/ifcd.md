@@ -7,7 +7,7 @@ editable: si
 
 # Calcula Diferencias - IFCD
 
-El proceso IFCD calcula las diferencias entre el conteo físico realizado por los usuarios y la cantidad real en inventarios dentro del sistema, las diferencias que sean encontradas se podrán ver reflejadas en la aplicación  [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis), en donde también deberán ser validadas para posteriormente realizar los ajustes correspondientes en el sistema.  
+El proceso **IFCD** calcula las diferencias entre el conteo físico realizado por los usuarios y la cantidad real en inventarios dentro del sistema, las diferencias que sean encontradas se podrán ver reflejadas en la aplicación  [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis), en donde también deberán ser validadas para posteriormente realizar los ajustes correspondientes en el sistema.  
 
 Se ingresarán los datos de fecha y ubicación.  
 

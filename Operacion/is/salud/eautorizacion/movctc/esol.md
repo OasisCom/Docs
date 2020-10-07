@@ -39,6 +39,41 @@ Una vez coonfirmado el proceso se realizara la debida actualización sobre la so
 
 Se genera la consulta de manera correcta y se actualiza la información sobre el programa, por si se ve algun cambio en el **status**.  
 
+* **PROCESO DE DIRECCIONAMIENTO**.  
+
+Se realiza adecuación sobre el programa **ESOL**, se realiza captura de cada direccionamiento, ya que anteriormente no se controlaba la captura de cada direccionamiento.  
+
+Se abre el proceso de direccionamiento desde el botón seleccionado.  
+
+![](esol5.png)  
+
+Abre la siguiente ventana.  
+Se ingresan los datos indicando la entrega.  
+Se especifica la fecha máxima de entrega.  
+Cantidad total a entregar.  
+
+![](esol6.png)  
+
+Para reportar a **MIPRES** el direccionamiento le damos en aceptar.  
+Al realizar este proceso se tendrá el registro de todos los direccionamientos realizados desde este programa.  
+para la visualización de estos registros nos ubicamos sobre el tab de direccionamiento.  
+
+Adicionalmente se cambia el botón de anulación de direccionamiento sobre este tab.  
+
+![](esol7.png)  
+
+Para realizar este proceso se requiere de previa configuración de token al cual tiene acceso el cliente.  
+
+Por tal motivo se realiza documentación con las indicaciones anteriores.
+anteriormente **no** se podían controlar todos los direccionamientos que se podían realizar de la solicitud.  
+
+
+
+
+
+
+
+
 
 
 

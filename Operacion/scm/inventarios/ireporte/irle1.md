@@ -5,7 +5,7 @@ permalink: /Operacion/scm/inventarios/ireporte/irle1
 editable: si
 ---
 
-# IRLE1 - Lista de Empaque Valorizada
+# Lista de Empaque Valorizada - IRLE1
 
 El objetivo del reporte es poder tener listas de empaque de los productos que pasan por el proceso de empaque de WMS.  
 

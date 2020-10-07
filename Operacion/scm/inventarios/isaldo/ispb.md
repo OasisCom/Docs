@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saldos
+title: Saldos por bodega
 permalink: /Operacion/scm/inventarios/isaldo/ispb
 editable: si
 ---

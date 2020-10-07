@@ -9,6 +9,16 @@ editable: si
 
 La aplicación **BMOT** permite el registro de los diferentes motivos por los cuales se pueden generar documentos. Documentos y conceptos previamente parametrizados en **BDOC** y **BCON** respectivamente.  
 
+>+ [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
+>+  [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
+>+ [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
+>+ [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
+>+ [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
+>+ [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+>+ [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
+
+
 ![](bmot1.png)
 
 **Documento:** siglas del documento con el cual se relacionará el motivo a registrar.  
@@ -44,7 +54,38 @@ En esta aplicación se puede realizar la parametrización de formularios se debe
 **Posición Columna:** Aquí se debe registrar el número de la columna en la cual se requiere ver el campo  
 **Zoom:** Se debe activar el flag en caso que el campo vaya actuar como zoom, es decir, que se seleccionen las opciones que se encuentran allí parametrizadas.  
 
-![](ejemploflormulario.png)
+![](ejemploflormulario.png)  
+**PARAMETRIZACIÓN DE TABS.**  
+
+Podemos cargar los diferentes detalles que son parametrizados por el **BMOT** de manera dinámica:  
+Tomamos como ejemplo esta opcion: tener en cuenta que este programa es el mismo que el **EPES**, por la cual la parametrización y los documentos van direccionados a este.  
+A nivel del **SPRO** se configuran los tabs.  
+
+![](spro1.png)  
+Cada renglón del tab debe tener relación con el motivo desde el **BMOT.**  
+Se omite el motivo 0 (cero), esto porque los registros sobre el maestro siempre quedaran en 0.  
+Los demás motivos son para tener configurado el programa de manera dinámica, al tener relación con el tab, se toma la parametrización en el detalle del motivo ( form- detail).  
+
+![](bmot18.png)  
+Retomamos el programa EEPES (programas especiales) que está enfocado en las gestantes, que usara la IPS.  
+Al tener múltiples servicios sobre una madre gestante, y diferentes capturas de datos sobre cada servicio.  
+
+A nivel de maestro se mantiene a como se tenía anteriormente, que son la siguiente información.  
+Datos del documento  
+Afiliado y cliente ( IPS)  
+Responsable  
+Fecha  
+Como podemos ver y validar se cargan los diferentes detalles que son parametrizados por el BMOT de manera dinámica.   
+
+![](bmot19.png)  
+
+Se realiza la carga de los detalles sobre una tabla sencilla y amigable para mejor visualización por parte del usuario de la IPS.  
+Esto así, ya que se pueden tener varios registros según el servicio para un gestante mes a mes.  
+Se mostrará una ventana emergente que mostrara el formulario dinámico, según parametrización realizada sobre el **BMOT**.  
+
+![](bmot20.png)  
+
+
 
 ## [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
 
@@ -142,4 +183,30 @@ En el maestro ingresamos el documento al cual se le parametrizará el adjunto y 
 
 De esta manera, al adjuntar documentos por ejemplo para la opción **XEXP**, se mostrará un listBox para la selección del tipo de adjunto.  
 
-![](bmot16.png)
+![](bmot16.png)  
+
+## [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos) 
+
+Primero que todo, tenga en cuenta que para realizar los movimientos de activos fijos, se deben tener en cuenta varias aplicaciones adicionales a esta **BMOT - Motivos**, a saber:  [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#movimientos-de-activos-fijos), [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#movimientos-de-activos-fijos) y donde se realizan los movimientos: [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV)  
+
+En el maestro de esta aplicación, se consultan los siguientes campos:  
+
+![](bmot17.png)  
+
+**Documento:**  Se consulta el documento MA  
+**Nombre documento:** Activos fijos que corresponde al documento MA  
+**Concepto:** En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja  
+
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+
+En la aplicación **BMOT-Motivos,** se debe tener la misma relación de *LP – concepto – motivo para el CP – concepto – motivo.*
+
+![](Imagen 1 bmot.png)
+
+## [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
+
+En la aplicación BMOT, se deben ingresar el registro que será el referente al cotizante con el número de motivo 0.
+
+![](Imagen 2 bmot.png)
+
+

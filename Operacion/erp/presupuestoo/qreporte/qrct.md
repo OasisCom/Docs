@@ -5,9 +5,9 @@ permalink: /Operacion/erp/presupuestoo/qreporte/qrct
 editable: si
 ---
 
-# QRCT - Contratos
+# Contratos - QRCT
 
-El reporte QRCT permite ver un informe de ejecución de pagos por unidad de negocio.
+El reporte **QRCT** permite ver un informe de ejecución de pagos por unidad de negocio.
 
 Ingresamos a la aplicación, filtramos por año y seleccionamos instancia: pagado o compromiso. Damos click en el botón _Generar_.  
 

@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Saldos por Terceros - KRST
+# Saldos por Terceros - KRST
 
 Este informe nos arroja los saldos contables acumulados por tercero. Se consulta ingresando año, periodo inicial, periodo final, cuenta inicial y cuenta final.  
 

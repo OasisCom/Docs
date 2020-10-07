@@ -5,5 +5,5 @@ permalink: /Operacion/is/salud/ealtocosto/repalt/
 editable: si
 ---
 
-# REPORTES
+# Reportes
 

@@ -7,7 +7,7 @@ editable: si
 
 ---
 
-## Libro Diario Resumido - KRLI
+# Libro Diario Resumido - KRLI
 
 Esta aplicación genera un resumen del libro diario contable realiza el balance general contable, basándose en el centro de costo por el cual se efectué la consulta.  
 

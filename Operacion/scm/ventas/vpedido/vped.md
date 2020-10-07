@@ -5,9 +5,24 @@ permalink: /Operacion/scm/ventas/vpedido/vped
 editable: si
 ---
 
-# VPED - Pedidos
+# Pedidos - VPED
 
-Esta es la pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa. Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
+
+Esta aplicación contiene una pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa.
+
+
+>+ [**Consultas dinámicas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
+>+ [**Verificación de Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
+>+ [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
+>+ [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
+>+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
+>+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
+>+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
+>+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)
+
+
+
+Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
 ![](vped1.png)
@@ -151,4 +166,102 @@ El botón **info_ventas** en el detalle de la opción _VPED_, permite visualizar
 
 ![](vped14.png)
 
+## [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)
+
+Esta función permite ver el saldo por ubicación del detalle de un producto en especifico.
+
+Para ver esta información se debe dar clic derecho sobre el detalle del producto que deseamos ver y seleccionamos "**Ver saldo por Ubicacion**"
+
+![](vped53.png)
+
+Se visualiza la siguiente ventana:
+
+![](vped55.png)
+
+* Botón **Agregar y Continuar**, para reanudar la inserción de documentos.  
+* Botón **Aceptar** para insertar los ítems seleccionados y cierra el zoom de búsqueda. 
+
+
+##  [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
+
+Para conocer el proceso completo, por favor diríjase a: [Cómo relacionar un pedido a una cotización](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización) en **VCOT**   
+
+
+##  [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)   
+
+Ingresamos a la aplicación **Pedidos - VPED**.  En esta aplicación se consulta el pedido por cualquier campo que se desee.  Cuando ya se tenga el registro, se va al campo **_Status_**; para poder realizar la factura, se debe liberar la retención del pedido, para esto, se consulta la aplicación **Pedidos retenidos - COPR**, aquí también se puede consultar por cualquiera de los campos.  En esta aplicación se encuentran 6 botones idénticos pero todos tienen una función diferente: el primer botón **_Libera Cartera_**, el segundo **_Devuelve cartera_**, el tercero **_Rechaza cartera_**, el cuarto **_Libera comercial_**, el quinto **_Devuelve comercial_** y el sexto **_Rechaza comercial_**.  Como el pedido en este caso tiene el Status **_Libera comercial_**, se elige este botón, al seleccionar esta opción, desaparece el registro.  
+
+![](vped56.png)  
+
+![](vped57.png)  
+
+![](vped58.png)  
+
+![](vped59.png)  
+
+![](vped60.png)  
+
+
+Ahora se regresa al pedido en la aplicación **Pedidos - VPED**, se refresca la aplicación y el Status cambia a **_Pendiente por despacho_**, es decir que ya quedó liberado del _Retenido por comercial_, cabe aclarar que esta _Retención_ es parametrizable, en este caso depende totalmente de la empresa y de la parametrización que esta tenga; si la empresa no tiene ningún tipo de _Retención_ parametrizada, se puede omitir este paso.  
+
+![](vped61.png)  
+
+
+Ahora se procede a crear la factura.  Para esto, se ingresa a la aplicación **Facturas - FFAC** y se adiciona un nuevo registro (+), se diligencia el campo **_Documento_** donde mediante el Zoom se puede elegir la opción **_FC_** de Factura de ventas, **_Ubicación Cero (0)_** y en el **_Concepto_** también se elige la opción **_FC_** Factura Clientes, campo **_Motivo Cero(0)_** y en el campo **_Tercero_** se le elige el mismo tercero con el que se realizó el pedido.  
+
+![](vped62.png)  
+
+
+En este momento se pasa a relacionar la Factura con el Pedido.  Este proceso es exactamente igual al de Relacionar una Cotización con un Pedido: se diligencia el campo **_Documento1_** (se verifica el documento del pedido en **Pedidos - VPED**, luego, el campo **Ubicación1_** que también se verifica en **Pedidos - VPED_**; diligenciados estos dos campos, se abre el Zoom en el campo **_Número1_** y se selecciona el Pedido realizado.  Diligenciados estos campos, se guarda el registro.  Y finalmente, se procesa la Factura.  En este momento se puede apreciar que el proceso fue satisfactorio.  
+
+![](vped63.png)  
+
+
+![](vped64.png)  
+
+## [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
+
+En esta sección, se explica el manejo de la mercancía separada y su efecto en la factura de venta.  Es importante tener en cuenta que este proceso aplica en las empresas que cuentan con varios vendedores, que realizan pedidos de mercancía desde diferentes ubicaciones y necesitan reservar o apartar una determinada cantidad de producto para asegurarse que no vaya a ser apartada o vendida por otro vendedor.  El primer paso es asegurar que la parametrización donde se van a realizar el pedido y la factura se encuentre correcta.  La forma correcta es que en la aplicación **Ubicaciones Organización - BUBI**, el campo _Separada_ debe estar con el _check_ activado.  
+
+![](vped65.png)
+
+Luego, se procede a realizar el pedido.  Se adiciona un nuevo registro (+).  En el campo _Documento_ se escribe **_PD_** de Pedidos; en el campo _Ubicación_, la ubicación definida; en el campo _Concepto_ **_PD_** de Pedidos; en el campo _Cliente_, el número de documento del cliente; se guarda el registro.
+
+![](vped66.png)  
+
+En el detalle, en el zoom del producto, se da click derecho, escogiendo la opción _Ver saldo por Ubicación detallado_  
+
+![](vped30.png)  
+
+Aquí, se toma el producto que se desea. Para la ilustración, hay 119 unidades disponibles del producto escogido, se separan 10 unidades. 
+
+![](vped31.png)  
+
+![](vped32.png)
+
+Se adiciona en el registro. En el detalle queda agregado correctamente.  
+
+![](vped33.png)  
+
+![](vped34.png)
+
+Después se procesa.  
+
+![](vped35.png)  
+
+Posteriormente, se ingresa a la aplicación **Aprobación de Pedidos - VPPR** y con el número del pedido, se hace la aprobación.  Se hace click en el tercer botón: _Aprueba_Pedido_.  
+
+![](vped68.png)  
+
+Ahora se ingresa a la aplicación **Facturas - FFAC** para crear la factura.  En el campo _Documento_, **_FC_** de Factura de venta, en el campo _Ubicación_, la misma ubicación; en el campo _Concepto_, **_FC_**; en el campo _Tercero_, el mismo cliente del pedido.  En la parte inferior, se procede a relacionar el Documento. En el campo _Documento1_, **_PD_**, en el campo _Ubicación1_, la misma ubicación; en el campo _Número1_, el número del pedido.  Se llena también el campo _Condición de pago_ y se guarda el registro.  El sistema hereda en el detalle, la misma información del pedido. Se revisa la respectiva parametrización en las pestañas _Detalle_ y _Pago_ y se procesa la factura.  
+
+![](vped69.png) 
+
+![](vped70.png) 
+
+Se puede confirmar que luego de procesado el pedido, se había actualizado el campo _Separada_ en el detalle a Diez (10).  Se actualiza el mismo documento y ahora el campo se actualiza a la cantidad Cero (0), debido a que la cantidad ya no está separada sino facturada.  
+
+![](vped71.png)  
+
+![](vped72.png) 
 

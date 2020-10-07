@@ -5,11 +5,24 @@ permalink: /Operacion/scm/pos/jcajero/mjfac
 editable: si
 ---
 
-# MJFAC - Facturas
+# Facturas - MJFAC
 
-La aplicación MJFAC permite crear facturas por la compra de productos seleccionados mediante la versión post - touch de OasisCom.  
+La aplicación **MJFAC** permite crear facturas por la compra de productos seleccionados mediante la versión post - touch de OasisCom.  
 
-Para crear una factura, damos click en el botón _Agregar_.  
+
+
++ [Creación de terceros mediante MJFAC](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#creación-de-terceros-mediante-mjfac)
++ [Funcionalidades en MJFAC](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#funcionalidades-en-mjfac)
+>+ [Seleccionar caracteristica del producto](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#seleccionar-caracteristica-del-producto)
+>+ [Búsqueda de terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#búsqueda-de-terceros)
+>+ [Zoom de Documento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-de-documento)
+>+ [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-docuemntos)
+>+ [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar)
++ [Modificación de Precio y Descuento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#modificación-de-precio-y-descuento#modificación-de-precio-y-descuento)
+
+
+
+Para crear una factura, damos clic en el botón _Agregar_.  
 
 ![](mjfac.png)
 
@@ -50,7 +63,7 @@ Con esta nueva parametrización el precio del producto en la opción **MJFAC** c
 
 ![](mjfac10.png)
 
-#### Creación de terceros mediante MJFAC
+## [Creación de terceros mediante MJFAC](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#creación-de-terceros-mediante-mjfac)
 
 La aplicación MJFAC permite la creación de terceros dando click en el botón señalado a continuación.  
 
@@ -80,9 +93,9 @@ Esta factura la podremos ver en la aplicación **JFAC - Facturas** al consultar 
 
 ![](mjfac16.png)
 
-### FUNCIONALIDADES EN MJFAC
+## [Funcionalidades en MJFAC](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#funcionalidades-en-mjfac)
 
-#### Seleccionar caracteristica del producto
+### [Seleccionar caracteristica del producto](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#seleccionar-caracteristica-del-producto)
 
 En la parte superior derecha, se encuentra una fila con las características de los productos, al seleccionar alguna el sistema traerá los productos que tengan asociada dicha característica.  
 
@@ -93,7 +106,7 @@ La aplicación cuenta con una lista desplegable con las opciones: _Código de ba
 ![](mjfac35.png)
 
 
-#### Búsqueda de terceros
+### [Búsqueda de terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#búsqueda-de-terceros)
 
 El botón ![](buscar.png) permite consultar los terceros creados y ya existentes en OasisCom.  
 
@@ -109,7 +122,7 @@ También cuenta con el campo _Vendedor_ lo que permite identificar quién realiz
 
 
 
-#### Zoom de Documento
+### [Zoom de Documento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-de-documento)
 
 Esta funcionalidad nos permite seleccionar el documento con el que se realizará la factura.  
 
@@ -119,7 +132,7 @@ Damos doble click y seleccionamos el documento.
 
 ![](mjfac20.png)
 
-#### Zoom para relacionar documentos
+### [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-docuemntos)
 
 La aplicación MJFAC, cuenta con una función que permite relacionar los pedidos con el documento a realizar, esto, teniendo en cuenta el tercero y el documento.  
 
@@ -133,7 +146,7 @@ Al seleccionar el pedido, se observará el producto en MJFAC.
 
 ![](mjfac23.png)
 
-#### Botón _Buscar_ ![](buscar1.png)  
+### [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar) ![](buscar1.png)
 
 Cuando demos click en el botón _Buscar_, este nos mostrará las facturas Activas y Procesadas de la fecha actual, para así poder utilizarlas y realizar las diferentes operaciones: Procesar, Reversar.  
 

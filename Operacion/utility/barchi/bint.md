@@ -12,6 +12,7 @@ Esta aplicación permite cargar o descargar información sobre diferentes escena
 BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por medio de la opción de interfaces y realizar su debida confirmación en lote.  
 
 
+
 ## **Menú**
 
 1. [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)  
@@ -26,8 +27,18 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 10. [**Certificado de Ingresos y Retenciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)  
 11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
+13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
+14. [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
 
+* Mejora en los tiempos de respuesta.  
+Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
 
+Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
+* ![](bcrc1.png)  
+	Se parametriza en **BCRC** caracteristicas en estado activo.  
+	![](bcrc2.png)  
+* Por consulta SQL:
+	![](bcrc3.png)  
 
 # [Medios Magnéticos](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)
 
@@ -373,3 +384,62 @@ Al aceptar, se generará un archivo _xml_ con la información.
 El archivo _xml_ se verá de la siguiente manera:  
 
 ![](bint50.png)
+
+# [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
+
+Para realizar el proceso de cargue y validación de **RIPS,** ingrese a la aplicación [**BINT – Interfaces**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#bint-interfaces) 
+
+![](Imagen 1 BINT.png)
+
+En el campo publicación, seleccione el proceso de *“Carga de Rips”*.  
+
+Una vez seleccionado, en el campo *Operation* seleccione la opción *Upload.*  
+
+Seguidamente, se habilitarán los sigueintes campos en los cuales deberá ingresar la siguiente información:  
+
++ **Recibo** número empleado en el archivo de RIPS.  
++ **Código Super** número de habilitación de su entidad.  
++ **Régimen** especifique si es subsidiado *(S)* o contributivo *(C)*.  
+
+*Es importante que los archivos sean cargados en formato .zip.*  
+
+![](Imagen 2 BINT.png)  
+
+Cargado el archivo, consulte la información del recibo ingresando a la aplicación [**EEREC - Confirmaciones por Organización**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/eerec).  
+
+--
+Se crean dos interfaces **BINT**, puntualmente para el proceso de **dispensacion de medicamentos**; para generar los anexos 12 y 13 con el mismo esquema que manejan las aplicaciones **IRMCD** (distribución de medicamentos controlados) y el **IRMCP** (puntos de venta medicamentos controlados).  
+
+
+## [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
+
+* Resolución 64 (18 Jun 2020)
+* Resolución 75 (08 Jul 2020)
+* Resolución 81 (29 Jul 2020)
+
+
+**Encabezado**	elemento **CAB**
+
+![](sin iva.png)  
+
+**Contenido** elemento **Ventas**
+
+![](sin iva 2.png)
+
+**Contenido** elemento **descbien**
+
+![](sin iva 3.png)
+
+Se creo el **BINT** 914 para generar el archivo en formato *XML.*  
+
+![](sin iva 4.png)
+
+El sistema genera el archivo en *XML.*  
+
+![](sin iva 5.png)
+
++ Para lo anterior es necesario que el cliente defina en la aplicación **BPRO** el genero del bien al que pertenece este se define en el campo Gamma de la pestaña características así:
+
+![](sin iva 6.png)
+
+Este archivo es el que se debe cargar en la plataforma Muisca, aunque a la fecha la Dirección de Impuestos y Aduanas Nacionales **DIAN**, no ha habilitado la opcion de cargar este documento en la plataforma Muisca y tampoco ha emitido un prevalidador. 

@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/greporte/grva
 editable: si
 ---
 
-# GRVA - Historial de Vacunación
+# Historial de Vacunación - GRVA
 
 En este reporte se puede visualizar el historial de vacunación de las mascotas, se debe diligenciar el id que identifica a la mascota y las fechas en la cuales se solicita la historia de vacunación:
 

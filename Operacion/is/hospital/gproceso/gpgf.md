@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/gproceso/gpgf
 editable: si
 ---
 
-# GPGF - Generación de Facturación
+# Generación de Facturación - GPGF
 
 El proceso **GPGF** permite automatizar la generación de facturación según el contrato de afiliación.  
 

@@ -5,9 +5,18 @@ permalink: /Operacion/common/bprodu/bpro
 editable: si
 ---
 
-# PRODUCTOS - BPRO
+# Productos - BPRO
 
 En esta aplicación se deben parametrizar todos los productos o servicios que ofrece nuestra organización con sus respectivas características.  
+
+* [Pestaña Empaque](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#pestaña-empaque)
+* [Pestaña Presupuesto](http://docs.oasiscom.com/Operacion/common/bprodu/bpro##pestaña-presupuesto)
+* [Producción](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#producción)
+* [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#secuencia-de-consecutivos)
+* [Parametrización Proceso Compra de Café](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-proceso-compra-de-café)
+* [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-para-el-módulo-activos-fijos)
+
+
 
 ![](bpro1.png)
 
@@ -32,13 +41,13 @@ En esta aplicación se deben parametrizar todos los productos o servicios que of
 
 Esta aplicación nos permite realizar la parametrización de todos los servicios y/o productos (materia prima, suministro, terminados, activos fijos) con sus respectivas características, por lo tanto, se explicara los procesos que interfieren con dicha aplicación y una explicación general.  
 
-### [Pestaña Empaque](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#pestaña-empaque)
+## [Pestaña Empaque](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#pestaña-empaque)
 
 La pestaña _Empaque_ en la aplicación BPRO permite tener el registro de cada código de barras (EAN) que represente una unidad de empaque. Esta parametrización será el insumo de validación para el proceso de picking en el WMS.  
 
 ![](bpro11.png)
 
-## Pestaña Presupuesto  
+## [Pestaña Presupuesto](http://docs.oasiscom.com/Operacion/common/bprodu/bpro##pestaña-presupuesto)  
 
 Se crea esta pestaña, la cual permitirá relacionar a cada producto, en la compra la afectación presupuestal.  
 Debe de documentar los campos: Partida, Objeto Gasto, Centro de Costo, Fuente.
@@ -84,4 +93,18 @@ Finalmente, damos click en el botón ![](guardar.png) de la barra de herramienta
 ![](bpro9.png)
 
 
-A continuación, se deberá parametrizar la aplicación [**BCCL - Calidades**](http://docs.oasiscom.com/Operacion/common/bcomer/bccl) para poder realizar el proceso de compra de café. (_Ver aplicación_) 
+A continuación, se deberá parametrizar la aplicación [**BCCL - Calidades**](http://docs.oasiscom.com/Operacion/common/bcomer/bccl) para poder realizar el proceso de compra de café. (_Ver aplicación_)  
+
+## [Parametrización para el módulo activos fijos](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-para-el-módulo-activos-fijos)  
+
+En esta aplicación, se crean cada uno de los productos tipo Activo Fijo.  Para esto, es necesario registrar:  
+
+![](bpro10.png)
+
+**Producto:** Código de identificación del producto  
+**Nombre producto:**  De acuerdo al código de identificación  
+**Clasificación:**  Se registra lo creado anteriormente en el [**BCLA - Clasificación**](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#Parametrización-para-el-módulo-activos-fijos)  
+**Inventario:** Se indica que es Activo fijo  
+**Id Grupo:** Vamos a registrar lo creado anteriormente en el [**BGRU  - Grupo**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#Parametrización-para-el-módulo-activos-fijos)  
+**IvaCapitalizable:** Se debe marcar el flag a los activos en donde el Iva es mayor valor del activo
+

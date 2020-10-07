@@ -5,5 +5,8 @@ permalink: /Operacion/crm/mercadeo/wreporte/
 editable: si
 ---
 
-# REPORTES
+# Reportes
 
+Está integrado por los módulos:
+
+* [**ARAC**](http://docs.oasiscom.com/Operacion/crm/mercadeo/wreporte/arac) - Peticiones

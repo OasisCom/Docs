@@ -5,5 +5,5 @@ permalink: /Operacion/crm/servicio/aactividad/
 editable: si
 ---
 
-# ACTIVIDADES
+# Actividades
 

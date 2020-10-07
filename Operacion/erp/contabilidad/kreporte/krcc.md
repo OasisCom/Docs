@@ -1,18 +1,15 @@
 ---
 
 layout: default
-
 title: Auxiliar por Centro de Costo
-
 permalink: /Operacion/erp/contabilidad/kreporte/krcc
-
 editable: si
 
 ---
 
-## Auxiliar por Centro de Costo - KRCC
+# Auxiliar por Centro de Costo - KRCC
 
-La aplicación KRCC muestra los movimientos por centro de costo.  
+La aplicación **KRCC** muestra los movimientos por centro de costo.  
 
 ![](KRCC.png)
 

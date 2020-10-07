@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/ghospital/gadm
 editable: si
 ---
 
-# GADM - Admisiones
+# Admisiones - GADM
 
 La aplicación **GADM - Admisiones** permite registrar la información para admisiones para fondo de hospital y los servicios por los cuales puede pasar el paciente.  
 
@@ -13,7 +13,7 @@ La aplicación **GADM - Admisiones** permite registrar la información para admi
 
 En el maestro, al crear un nuevo registro, ingresaremos información como concepto de la admisión, el paciente asociado, la causa de la admisión, el servicio que requiere la admisión, entre otros datos.  
 
-Damos click en el botón _Guardar_ para que el registro sea creado en el maestro.  
+Damos clic en el botón _Guardar_ para que el registro sea creado en el maestro.  
 
 ![](gadm1.png)
 
@@ -21,7 +21,7 @@ En el detalle, se deberá especificar los servicios a los cuales tendrá disponi
 
 ![](gadm2.png)
 
-Se debe tener en cuenta que si se desmarca el check de Factura, el producto no se insertará en la opción JFAC - Facturas y por lo tanto no se factuará.  
+Se debe tener en cuenta que si se desmarca el check de Factura, el producto no se insertará en la opción **JFAC - Facturas** y por lo tanto no se factuará.  
 
 ![](gadm3.png)
 

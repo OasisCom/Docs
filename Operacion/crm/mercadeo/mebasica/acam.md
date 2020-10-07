@@ -5,7 +5,7 @@ permalink: /Operacion/crm/mercadeo/mebasica/acam
 editable: si
 ---
 
-# CAMPAÑA - ACAM 
+# Campaña - ACAM 
 
 Aplicación que nos permite editar datos de las diferentes Campañas comerciales de la organizacion, en ella se guardan datos relevantes segun el tipo de medio, estrategias comerciales que tienen como objetivo dar a conocer el producto o servicios que se busca ofrecer, durante un periodo determinado.  
 Esta opcion **ACAM** al adicionar abre un formulario con estos campos a editar:  
