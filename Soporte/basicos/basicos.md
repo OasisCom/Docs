@@ -1,0 +1,9 @@
+---
+layout: default
+title: Soporte
+permalink: /Soporte/basicos
+editable: si
+---
+# Básicos
+
+En esta sección encontrarán las frecuentes incidencias que se pueden presentar en el producto Básicos del sistema OasisCom.  

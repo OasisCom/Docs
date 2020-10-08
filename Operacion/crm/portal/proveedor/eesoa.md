@@ -27,11 +27,11 @@ En el campo _Fecha de prestación_ se coloca una posible fecha en la que se pres
 
 ![](eesoa3.png)  
 
-A continuación, se encuentra un formulario con los datos del afiliado.  El única campo que se puede diligenciar es el de _Identificación_.  Este campo cuenta con un Zoom.  Se debe tener en cuenta que cada afiliado debe estar parametrizado en la aplicación **Afiliados - BTER**.  Los demás campos, se diligencian automáticamente al guardar la solicitud.  
+A continuación, se encuentra un formulario con los datos del afiliado.  El únicoa campo que se puede diligenciar es el de _Identificación_.  Este campo cuenta con un Zoom.  Se debe tener en cuenta que cada afiliado debe estar parametrizado en la aplicación [**Terceros - BTER**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  Los demás campos, se diligencian automáticamente al guardar la solicitud.  
 Los tres campos siguientes a la información del afiliado, funcionan con un menú desplegable.  En el primer campo _Origen atención_, se selecciona la opción correspondiente al orgien por el cual fue atendido el afiliado.  En el segundo campo _Tipo atención_, se selecciona la que corresponda del menú de opciones.  En el campo _Tipo prioridad_, se selecciona la prioridad de la autorización solicitada.  
 
 El siguiente campo es _Número de solicitud_.  Este campo no necesita parametrización previa.  La IPS determina cuál es.  
-El siguiente es el campo _Diagnóstico_.  En este campo también hay un Zoom del cual se debe seleccionar el diagnóstico dado por el médico.  Estos diagnósticos, se pueden parametrizar en la aplicación **Diagnóstico - EBDI**.  
+El siguiente es el campo _Diagnóstico_.  En este campo también hay un Zoom del cual se debe seleccionar el diagnóstico dado por el médico.  Estos diagnósticos, se pueden parametrizar en la aplicación  [**Diagnóstico - EBDI**](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ebdi).  
 
 Finalmente se encuentra el campo _Justificación clínica_.  En este campo, se puede hacer una breve observación de ser necesario.  Este campo no es obligatorio.  
 

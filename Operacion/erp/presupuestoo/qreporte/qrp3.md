@@ -17,3 +17,8 @@ Al generar el reporte se visualizará la información.
 
 ![](qrp33.png)
 
+Descarga archivo plano reporte chip presupuestal, desde la interface **BINT.**  
+Puede realizar la descarga según su publicación y programación de gastos o de ingresos.  
+
+![](qrp23.png)  
+
