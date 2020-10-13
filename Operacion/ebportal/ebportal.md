@@ -923,7 +923,7 @@ En el detalle encontramos el producto, la cantidad, el precio, el total y la obs
 
 ![](odeq13.png)
 
-10.4 [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
+## [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
 
 Para poder reversar el documento original existen dos alternativas: 
 
