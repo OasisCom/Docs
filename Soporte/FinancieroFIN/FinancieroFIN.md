@@ -8,7 +8,7 @@ editable: si
 
 En esta sección encontrarán las frecuentes incidencias que se pueden presentar en el producto Financiero FIN del sistema OasisCom.  
 
-* (TMOV - Accesando balance)[http://docs.oasiscom.com/Soporte/FinancieroFIN/accesandobalancetmov]  
+* TMOV - Accesando balance [http://docs.oasiscom.com/Soporte/FinancieroFIN/accesandobalancetmov]  
 * (PORD - Adición de movimiento, restricción integridad)[http://docs.oasiscom.com/Soporte/FinancieroFIN/adicionmovimientopord]  
 * (Accesando Tipo de Impuesto Destino)[http://docs.oasiscom.com/Soporte/FinancieroFIN/accesandotipoimpuesto]  
 * (Certificado de Retencion)[http://docs.oasiscom.com/Soporte/FinancieroFIN/certificadoderetencion]  
