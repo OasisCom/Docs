@@ -14,5 +14,5 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * (Certificado de Retencion)[http://docs.oasiscom.com/Soporte/FinancieroFIN/certificadoderetencion]  
 * (TMOV - La Ubicación tiene un saldo en Rojo)[http://docs.oasiscom.com/Soporte/FinancieroFIN/saldorojo]  
 * (Ubicación no definida como caja)[http://docs.oasiscom.com/Soporte/FinancieroFIN/ubicacioncaja]  
-* (BGRU – Asignación de cuentas)[http://docs.oasiscom.com/Soporte/FinancieroFIN/ubicacioncaja])[http://docs.oasiscom.com/Soporte/FinancieroFIN/bgru]
+* (BGRU – Asignación de cuentas)[http://docs.oasiscom.com/Soporte/FinancieroFIN/bgru]
 
