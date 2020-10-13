@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Movimientos: Función no válida
+title: Movimientos - Función no válida
 permalink: /Soporte/erroresgenerales/funcionnovalida
 editable: si
 ---
-# Movimientos: Función no válida  
+# Movimientos - Función no válida  
 
 A continuación, indicamos lo que se debe realizar para corregir el mensaje de control que arroja la base de datos al momento de confirmar movimientos y el sistema indica una excepción y hace referencia al procedimiento p_OperationValidation: Función No Valida.  
 
