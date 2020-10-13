@@ -8,4 +8,4 @@ editable: si
 
 En esta sección encontrarán las frecuentes incidencias que se pueden presentar en el producto Financiero FIN del sistema OasisCom.  
 
-* (TMOV - Accesando balance)[http://docs.oasiscom.com/Soporte/FinancieroFIN/accesandobalancetmov]
+* (TMOV - Accesando balance)[http://docs.oasiscom.com/Soporte/FINANCIEROFIN/accesandobalancetmov]
