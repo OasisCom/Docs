@@ -59,7 +59,7 @@ editable: si
 10.2.3.1 [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
 10.2.3.2 [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
 10.3 [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
-
+10.4 [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
      
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
@@ -922,6 +922,8 @@ Para identificar si la factura llegó o no, en los campos documento 1, número 1
 En el detalle encontramos el producto, la cantidad, el precio, el total y la observación que se hayan registrado previamente. 
 
 ![](odeq13.png)
+
+10.4 [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
 
 Para poder reversar el documento original existen dos alternativas: 
 
