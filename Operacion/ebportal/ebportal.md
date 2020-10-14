@@ -59,7 +59,7 @@ editable: si
 10.2.3.1 [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
 10.2.3.2 [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
 10.3 [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
-
+10.4 [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
      
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
@@ -825,7 +825,7 @@ A nivel de esta variable, el sistema valida que al crear documentos desde las ap
 
 ![](odeqq3.png)
 
-En caso de que esta ubicación sea la 1, el sistema lo que hace es tomar la ubicación y generar el ODEQ – Documento Equivalente por ubicación del documento, pero para que el sistema pueda generarlo. El EQ en el BDOQ debe tener el flag activo de ubicación para que se tome un consecutivo por cada ubicación.  
+En caso de que esta ubicación sea la 1, el sistema lo que hace es tomar la ubicación y generar el ODEQ – Documento Equivalente por ubicación del documento, pero para que el sistema pueda generarlo. El EQ en el BDOC debe tener el flag activo de ubicación para que se tome un consecutivo por cada ubicación.  
 
 Al momento de crear la resolución con el documento EQ se debe tener en cuenta la ubicación respectiva, debido a que en el momento de realizar movimientos en las aplicaciones OFAC – Facturas de Compra PMOV - Movimientos o hacer cajas menores, el sistema entra a validar en la aplicación FRES - Resoluciones si existe la resolución para la ubicación diligenciada.  
 
@@ -923,7 +923,12 @@ En el detalle encontramos el producto, la cantidad, el precio, el total y la obs
 
 ![](odeq13.png)
 
-Para poder reversar el documento original porque se requiere editar o anular, en la aplicación ODEQ – Documentos equivalentes se habilitaron los íconos de reversar, procesar y anular.
+## [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
+
+Para poder reversar el documento original existen dos alternativas: 
+
+* En la aplicación ODEQ – Documentos equivalentes se habilitaron los íconos de reversar, procesar y anular, cuando se realiza este proceso reversa para anular.
+* La otra alternativa es reversar el documento original y el sistema reversa automáticamente el EQ en la aplicación ODEQ - Documentos Equivalentes. 
 
 El proceso que se debe realizar es activar el EQ, reversar el documento origen (CP, FP, CM…), una vez se realiza la operación de reversar el documento origen el sistema automáticamente anulará el EQ asociado a este. De esta manera se podrá editar el documento origen sin inconveniente, pero se debe tener en cuenta que al momento de procesarlo el sistema creará un nuevo EQ consumiendo un consecutivo nuevo.  
 
