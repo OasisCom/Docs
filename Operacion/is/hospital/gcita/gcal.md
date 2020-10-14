@@ -210,6 +210,10 @@ Se da clic sobre el botón indicado el cual permite abrir una nueva ventana emer
 
 ![](gcal22_02.png)  
 
+Se diligencia la información necesaria y se da guardar.  
+
+![](gcal22_03.png)  
+
 
 
 
