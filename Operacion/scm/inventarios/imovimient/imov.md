@@ -76,7 +76,7 @@ En el detalle:
 **Presentación:** Forma de presentación del producto.  
 **Vencimiento:** Fecha de vencimiento del producto.  
 **Control:** Número de serial o consecutivo asignado a productos que vende la empresa y poder así identificarlos y llevar un control sobre ellos.  
-**Lote:** Si los productos pertenecen a un lote en específico. Se crea zoom de ayuda el cual invoca con una consulta nueva; permitiendo retornar la información del campo **lote**, con la misma lógica del campo **Producto**.
+**Lote:** Si los productos pertenecen a un lote en específico. Se crea zoom de ayuda el cual invoca una consulta nueva; permitiendo retornar la información del campo **lote**, con la misma lógica del campo **Producto**.
 
 
 
