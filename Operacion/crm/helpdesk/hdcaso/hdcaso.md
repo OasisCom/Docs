@@ -57,7 +57,7 @@ Cuando se realiza la ejecución de las tareas, vemos que el valor que queda regi
 
 ![](acas4.png)    
 
-
+Esta es la forma de parametrizar una lista en el campo descripción de la ventana de ejecución de tareas **(workflow)**  
 
 
 
