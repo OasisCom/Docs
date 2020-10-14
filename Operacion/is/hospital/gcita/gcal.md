@@ -198,7 +198,7 @@ El sistema arrojará un mensaje de control indicando que la consulta fue creada 
 
 ![](gcal22.png)  
 
-#Procedimiento no realizado (boton) en GCAL.  
+## Procedimiento no realizado (boton) en GCAL.  
 
 Para indicar que el procedimiento no se puede realizar por algún prerrequisito no cumplido por parte del usuario.  
 
