@@ -13,13 +13,11 @@ Se ingresa a la aplicación **ORFI** y se digita la cedula del asociado para ver
 
 ![](orfi1.png)
 
-**Cliente ID:** Identificación del proveedor que se desea consultar.  
-**Fecha inicial:** Fecha inicial desde donde se desea realizar la consulta.  
-**Fecha final:** Fecha final hasta donde se desea realizar la consulta.  
+La información generada corresponde a las fincas por el asociado.  
 
-![](orop1.png)
+![](orfi2.png)
 
-![](orop2.png)
+
 
 
 
