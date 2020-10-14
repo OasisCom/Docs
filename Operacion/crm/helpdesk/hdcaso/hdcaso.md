@@ -55,7 +55,7 @@ Para la lista es necesario crear una característica **(BCRC)**.
 
 Cuando se realiza la ejecución de las tareas, vemos que el valor que queda registrado es el de la característica seleccionada.  
 
-![](acas4.png)  
+![](acas4.png)    
 
 
 
