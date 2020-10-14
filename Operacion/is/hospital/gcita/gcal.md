@@ -204,6 +204,13 @@ Para indicar que el procedimiento no se puede realizar por algún prerrequisito 
 
 Se crea botón en el **GCAL** (calendario) para el escenario, cuando no se puede tomar el examen porque el paciente no viene con la preparación necesaria para la toma y guardar esta información en el campo “observación” de la opción **GCAL**.  
 
+![](gcal22_01.png)  
+
+Se da clic sobre el botón indicado el cual permite abrir una nueva ventana emergente la cual recibe la información del porque no se pudo realizar el procedimiento.  
+
+![](gcal22_02.png)  
+
+
 
 
 
