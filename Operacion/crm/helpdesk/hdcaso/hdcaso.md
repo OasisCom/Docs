@@ -51,6 +51,10 @@ Para poder utilizar esta funcionalidad debemos configurar la opción de Procesos
 
 Para la lista es necesario crear una característica **(BCRC)**.  
 
+![](acas3.png)  
+
+
+
 
 
 
