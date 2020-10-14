@@ -214,6 +214,12 @@ Se diligencia la información necesaria y se da guardar.
 
 ![](gcal22_03.png)  
 
+El texto se guarda en el campo:  **observación**.  
+
+![](gcal22_04.png)  
+
+
+
 
 
 
