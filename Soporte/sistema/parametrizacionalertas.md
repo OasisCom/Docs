@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parametrización de alertas
-permalink: /Soporte/parametrizacionalertas
+permalink: /Soporte/sistema/parametrizacionalertas
 editable: si
 ---
 
