@@ -15,3 +15,6 @@ En esta aplicación es donde se registran los exámenes de imágenes diagnostica
 La aplicación **GIMA,** es donde se registra los resultados de los exámenes de imagen diagnosticas, en las cuales se relaciona los datos del paciente y los datos del contrato con las EPS o aseguradora.  
 
 ![](gima1.png)
+
+En el detalle del **GIMA** se establece el precio del producto que se relaciona dentro del contrato **GCNT** con una EPS o aseguradora.  
+Este contrato se debe de relacionar en los campos: documento1, numero1, ubicación1 en el maestro del **GIMA**:  
