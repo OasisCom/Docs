@@ -170,7 +170,7 @@ En caso que el cliente sea una empresa debemos tener en cuenta lo siguiente:
 
 * Validamos el tercero creado en la opcion del BTER y vemos que quedo creado correctamente.  
 
-
+* En esta creación rápida de terceros, campos obligatorios como teléfono, dirección, ubicación geográfica y demás, datos indispensables para el reporte de la información exógena a la DIAN.  
 
 Para ingresar sobre la factura el cliente creado, se selecciona sobre el registro nuevo y automáticamente queda ingresado en el campo tercero del formulario JFAC - Facturas.  
 
