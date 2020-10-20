@@ -1,11 +1,11 @@
 ---
 layout: default
-title: AUDITORIA DE CAMPOS
-permalink: /Soporte/AUDITORIA  
+title: Auditoría de campos
+permalink: /Soporte/sistema/auditoríacampos  
 editable: si
 ---
 
-# AUDITORIA DE CAMPOS  
+# Auditoría de campos  
 
 Para auditar determinados campos de las aplicaciones de OasisCom se debe realizar la siguiente parametrización:  
 
