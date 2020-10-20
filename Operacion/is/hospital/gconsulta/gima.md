@@ -25,4 +25,4 @@ Este contrato se debe de relacionar en los campos: documento1, numero1, ubicaci�
 
 * Definición:  
 **CUPS:** codigo único  de punto de suministro.  
-**CUMS:** codigo único de medicamento para suministro  
+**CUMS:** codigo único de medicamento para suministro.  
