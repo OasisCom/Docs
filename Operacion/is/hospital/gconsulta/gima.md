@@ -18,3 +18,5 @@ La aplicación **GIMA,** es donde se registra los resultados de los exámenes de
 
 En el detalle del **GIMA** se establece el precio del producto que se relaciona dentro del contrato **GCNT** con una EPS o aseguradora.  
 Este contrato se debe de relacionar en los campos: documento1, numero1, ubicación1 en el maestro del **GIMA**:  
+
+![](gima2.png)
