@@ -23,6 +23,6 @@ Este contrato se debe de relacionar en los campos: documento1, numero1, ubicaci�
 
 ![](gima2.png)  
 
-Definicion:  
+* Definición:  
 **CUPS:** codigo único  de punto de suministro.  
 **CUMS:** codigo único de medicamento para suministro  
