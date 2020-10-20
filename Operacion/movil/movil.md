@@ -1581,7 +1581,7 @@ A continuación, se podrá realizar los cambios de perfil que requiera el usuari
 
 
 
-## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
+## [Notificaciones movil](http://docs.oasiscom.com/Operacion/#notificaciones_movil)
 
 Las notificaciones locales al móvil se envian, para ser utilizado por el Signal R, para él envió de notificaciones push desde el dispositivo móvil.  
 Las notificaciones enviadas desde Web, pueden ser leídas desde el dispositivo móvil.  
