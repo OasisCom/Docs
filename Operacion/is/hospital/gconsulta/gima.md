@@ -23,8 +23,8 @@ Este contrato se debe de relacionar en los campos: documento1, numero1, ubicaci√
 
 ![](gima2.png)  
 
-En estos tres campos se relaciona las facturas hospital:
-Documento, Numero, Ubicacion.
+En estos tres campos se relacionan las facturas hospital:  
+Documento, Numero, Ubicacion.  
 
 ![](gima3.png)  
 
