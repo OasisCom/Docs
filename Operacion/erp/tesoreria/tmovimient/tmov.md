@@ -104,7 +104,7 @@ Para que la transferencia sea exitosa se debe garantizar que las publicaciones 9
 
 ![](bint1.png)  
 
-Para Corroborar que el proceso esta correcto se ingresa al **BINT** sobre la publicacion 9051 filtrando con la llave del documento. Al procesar el movimiento de teoreria este genera un archivo plano que viaja al banco y la entidad bancaria genera la transferencia.  
+Para Corroborar que el proceso esta correcto se ingresa al **BINT** sobre la publicacion 9051 filtrando con la llave del documento. Al procesar el movimiento de tesoreria **TMOV**, este genera un archivo plano que viaja al banco y la entidad bancaria genera la transferencia.  
 
 
 
