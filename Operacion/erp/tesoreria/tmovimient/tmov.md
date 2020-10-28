@@ -87,6 +87,7 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 **DocLocationld:** Ubicación del documento.  
 
 
+
 ![](TMOV6.png)
 
 
@@ -94,6 +95,11 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 **Check Number:** Identificación del cheque, se utiliza cuando la forma de pago de la obligación es en cheque.  
 **Banco:** Identificación numérica del banco al cual pertenece el cheque.  
 **Plaza:** Ciudad en la que genera el cheque.  
+
+* **Hots to Host** permite generar el debito de manera automatica de la cuenta origen a la cuenta destino del tercero directamente desde la plataforma bancaria.  
+
+![](pago1.png)
+
 
 ## [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
 
