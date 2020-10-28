@@ -98,7 +98,15 @@ La pestaña **Pago** indica la forma en que se está cancelando el documento.
 
 * **Hots to Host** permite generar el debito de manera automatica de la cuenta origen a la cuenta destino del tercero directamente desde la plataforma bancaria.  
 
-![](pago1.png)
+![](pago1.png)  
+
+Para que la transferencia sea exitosa se debe garantizar que las publicaciones 9050 y 9051 existan configuradas en el **BINT**. Estas puntualmente hacen parte de la parametrización básica e inicial del proceso.  
+
+![](bint1.png)  
+
+Para Corroborar que el proceso esta correcto se ingresa al **BINT** sobre la publicacion 9051 filtrando con la llave del documento. Al procesar el movimiento de teoreria este genera un archivo plano que viaja al banco y la entidad bancaria genera la transferencia.  
+
+
 
 
 ## [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
