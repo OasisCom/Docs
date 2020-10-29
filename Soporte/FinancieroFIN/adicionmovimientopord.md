@@ -1,13 +1,14 @@
 ---
 layout: default
 title: PORD - Adición de movimiento, restricción integridad
-permalink: /Soporte/adicionmovimientopord
+permalink: /Soporte/FinancieroFIN/adicionmovimientopord
 editable: si
 ---
 
-## PORD - Adición de Movimiento
 
-### Órdenes de Pago (PORD): Adicionando Movimiento, restricción de integridad
+# PORD - Adición de movimiento, restricción integridad  
+
+## Órdenes de Pago (PORD): Adicionando Movimiento, restricción de integridad
 
 ![](pord1.png)
 
@@ -18,9 +19,11 @@ Esta incidencia se presenta porque el concepto que muestra el mensaje de control
 
 Se debe insertar un nuevo registro con el nuevo concepto. Si no conoces la aplicación de conceptos, puedes validar la documentación  [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon), se debe parametrizar los campos requeridos como se muestra en el siguiente ejemplo y en el detalle se debe adicionar el(los) motivo(s).  
 
-![](bcon.png)
+![](bcon.png)  
 
 Posteriormente si deseas validar la correcta creación del nuevo concepto, puedes consultar la aplicación de básico de documentos [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc), en el maestro filtrar el código del comprobante de egreso (**CE**) y en el detalle en el campo concepto filtrar el concepto que se ha creado, como se muestra en la siguiente imagen.  
 
 ![](bdoc.png)
+
+
 

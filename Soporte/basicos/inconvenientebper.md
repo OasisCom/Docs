@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soporte
-permalink: /Soporte/inconvenientebper
+permalink: /Soporte/basicos/inconvenientebper
 editable: si
 ---
 ## Inconveniente en la visualización de documentos al no tener parametrizado correctamente BPER - Periodos  

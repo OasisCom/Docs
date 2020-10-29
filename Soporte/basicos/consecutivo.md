@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Consecutivo
-permalink: /Soporte/consecutivo
+permalink: /Soporte/basicos/consecutivo
 editable: si
 ---
 

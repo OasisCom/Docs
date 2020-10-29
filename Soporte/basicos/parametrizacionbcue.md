@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parametrización de cuentas (BCUE), Centros de Costo (BUBI), Negocios (BNEG) y Proyectos (BPRY)
-permalink: /Soporte/productos/parametrizacionbcue
+permalink: /Soporte/basicos/parametrizaciónbcue
 editable: si
 ---
 
