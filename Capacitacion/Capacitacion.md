@@ -5,12 +5,12 @@ permalink: /Capacitacion/
 editable: si
 ---
 
-# CAPACITACIÓN
+# Capacitación
 
 
-OasisCom cuenta con la plataforma de capacitación **__OasisU__**, en donde podrá conocer y aprender de cada uno de los productos del sistema OasisCom.  
+OasisCom cuenta con la plataforma de capacitación **OasisU**, en donde podrá conocer y aprender de cada uno de los productos del sistema OasisCom, tener acceso a las memorías de los webinars, consultar los casos de soporte más frecuentes por cada mes y sus soluciones.  
 
-Mira el siguiente video e inicia tu plan de capacitación con OasisU.  
+Mira el siguiente video e inicia tu plan de capacitación con **OasisU**.  
 
 [**Acceso a OasisU**](https://www.youtube.com/embed/SbAI1f1iA34)
 
