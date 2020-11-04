@@ -45,7 +45,12 @@ Guardamos los datos ingresados en el maestro. En el detalle se deben diligenciar
 **Salario:** digitar en números el valor del salario asignado al empleado sin puntos ni comas.  
 **Inicial:** fecha inicial del contrato.  
 **Final:** se diligencia automáticamente mediante una novedad de retiro realizada en la opción **NNOV - Novedades**.  
-**Estado:** estado en el que se encuentra el empleado dentro de la compañía. Si el empleado se encuentra actualmente laborando en la empresa el estado será activo, de lo contrario, mediante la novedad de retiro el estado cambia a retirado.  
+**Estado:** estado en el que se encuentra el empleado dentro de la compañía. Si el empleado se encuentra actualmente laborando en la empresa el estado será activo, de lo contrario, mediante la novedad de retiro el estado cambia a retirado.
+
+![](ncnt14.png)
+
+**Centro Trabajo:** es el centro de trabajo (Workplace) solicitado  para algunos clientes cuya planilla integrada necesita este campo para la correcta parametrización.
+
 
 ![](ncnt9.png)  
 
