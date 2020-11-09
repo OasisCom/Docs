@@ -19,7 +19,11 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
->##### [WEBINAR: Reportes personalizados en OasisCom - Guía técnica](http://docs.oasiscom.com/Mercadeo//Webinars/Reportes-Personalizados-en-OasisCom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+>##### [WEBINAR: Proceso de Importaciones en OasisCom](http://docs.oasiscom.com/Mercadeo//Webinars/webinar-Importaciones OasisCom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+
+>##### [WEBINAR: Reportes personalizados en OasisCom - Guía técnica](http://docs.oasiscom.com/Mercadeo//Webinars/Reportes-Personalizados-en-OasisCom.pdf)
 
 
 >##### [WEBINAR: Factura Electrónica | Nuevo documento a emitir electrónicamente a la DIAN - Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-FE-25-09-2020.pdf)
