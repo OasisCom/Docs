@@ -2549,7 +2549,11 @@ En la pestaña producto, realiza el scanneo:
 Permite ingresar observaciones desde la aplicación móvil en el proceso del picking desde el MITRA.  
 ![](mitra16.2.png)  
 
-Finalizando el proceso de piking.  
+Finalizando el proceso de piking. 
+
+Adecuación si por algún motivo la aplicación se cierra o hay alguna falla en el dispositivo es posible buscar el documento por su número y este continuará en el producto en el que se encontraba antes del cierre.
+
+![](mitra16.3.png)
 
 
 
@@ -2744,7 +2748,14 @@ Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para real
 
 ![](mifis4.png)  
 
-Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
+Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro. 
+
+Adecuación, dar clic al botón “info producto” si se desea ver las características completas del producto.
+
+![](mifis5.png)
+![](mifis6.png)
+
+
 ## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/movil/#proceso-pedidos-retenidos-copr)  
 
 Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos.   En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial.   El segundo escenario es es cuando al proceso comercial se cumple (SI).  
