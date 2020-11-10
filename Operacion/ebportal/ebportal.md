@@ -941,5 +941,10 @@ El proceso que se debe realizar es activar el EQ, reversar el documento origen (
 ## [Radicación de Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#radicación-de-factura-electrónica)  
 
 Se agrega codificación para la búsqueda y adición de links como adjuntos al proceso de radicación de facturas. Proceso de Facturación electrónica fase II. Adjuntos que superan la capacidad máxima.   
+Este link se encuentra alojado para una futura descarga, para el escenario cuando los adjuntos superan la máxima capacidad.  
+Ejemplo:  
+
+![](link1.png)
+
 
 
