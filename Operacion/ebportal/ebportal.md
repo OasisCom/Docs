@@ -60,7 +60,7 @@ editable: si
 10.2.3.2 [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
 10.3 [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
 10.4 [Reversar documento](http://docs.oasiscom.com/Operacion/ebportal/#reversar-documento)   
-     
+11. [Radicación de Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#radicación-de-factura-electrónica)     
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 
@@ -937,3 +937,9 @@ El proceso que se debe realizar es activar el EQ, reversar el documento origen (
 ![](odeqq6.png)
 
 **Nota:** El sistema no va a volver a utilizar el mismo consecutivo, se va a crear uno nuevo, es decir, no reescribe el que ya existe dado que no se actualizan los datos sobre este mismo. Por lo anterior, es importante que al momento de reversar un documento origen tengan esto presente dado que se pueden tener inconvenientes en cuanto a que los consecutivos del EQ no tengan un orden lógico comparado con las fechas de los documentos.  
+
+## [Radicación de Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#radicación-de-factura-electrónica)  
+
+Se agrega codificación para la búsqueda y adición de links como adjuntos al proceso de radicación de facturas. Proceso de Facturación electrónica fase II. Adjuntos que superan la capacidad máxima.   
+
+
