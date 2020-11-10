@@ -2185,7 +2185,7 @@ En la pestaña producto, realiza el scanneo:
 
 
 
-La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking) se almacenen según la trazabilidad, cuando se cierre la aplicación.   
+La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking, packing) se almacenen según la trazabilidad, cuando se cierre la aplicación, guardando la información de forma local.   
 
 
 
