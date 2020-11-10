@@ -51,11 +51,11 @@ Para ejecutar el proceso de preparación de inventario cíclico ingresamos los s
 **Marca:** datos parametrizables en **BMAR**; posee zoom de ayuda.  
 **Proceso:** seleccionar de la lista desplegable la opción _Cíclico_.  
 **Tipo Producto:** seleccionar de la lista desplegable la opción _Terminado_.  
-**Ciclo:** ingresar el número del rango del cual se realizará inventario. Dicho número se parametrizó en aplicación  [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran#inventario-cíclico) en el campo _Id Rango_.  
+**Ciclo:** ingresar el número del rango del cual se realizará inventario. Dicho número se parametrizó en aplicación:     [**BRAN - Rangos**](http://docs.oasiscom.com/Operacion/common/btercer/bran#inventario-cíclico) en el campo _Id Rango_.  
 
 Ingresados los datos, damos clic en el botón _Generar_ ![](actualizar.png) y el sistema arrojará un mensaje indicando que el proceso se realizó satisfactoriamente.  
 
-![](ifpi_04.png)
+![](ifpi_04.png)  
 
 Generado el anterior proceso, procederemos a realizar el inventario cíclico en la aplicación [**IFIS - Registro de Conteos**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifis#inventario-cíclico), para ello, el sistema cuenta con una planilla para conteo físico, la cual se puede descargar en la aplicación [**IRIF - Plantilla Para Conteo Físico**](http://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/irif). En dicha planilla se podrán observar los productos a los cuales se les realizará inventario de acuerdo con los filtros de consulta, igualmente, cuenta con espacios para que los usuarios ingresen las cantidades de productos por cada uno.   
 
