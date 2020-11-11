@@ -27,6 +27,8 @@ Igualmente, la aplicación nos permite visualizar toda la información de un afi
 
 ![](ebaf1.png)
 
-En el detalle de la aplicación EBAF, la pestaña _Empleadores_ permite consultar el histórico de empleadores a los que el empleado se encontraba asociado.  
+En el detalle de la aplicación **EBAF**, la pestaña **Empleadores** permite consultar el histórico de empleadores a los que el empleado se encontraba asociado.  
 
-![](ebaf2.png)
+![](ebaf2.png)  
+
+En la pestaña **Pagos** en el detalle del **EBAF**, se reflejan los desembolsos realizados de la entidad aportante al afiliado.  
