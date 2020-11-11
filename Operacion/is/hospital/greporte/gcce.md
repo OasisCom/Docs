@@ -11,6 +11,6 @@ Este reporte muestra un consolidado por contrato pero por EPS.
 
 ![](gcce.png)  
 
-Acá no aparecen los afiliados puntualmente, sino que se ven los valores para cada una de las EPS, en términos de valores y en términos de cantidades.   
+Acá no aparecen los afiliados puntualmente, sino que se ven los valores para cada una de las EPS, en términos de costos y en términos de cantidades dispensados.   
 
 ![](gcce1.png)  
