@@ -11,6 +11,6 @@ Este reporte es más específico del Contrato.  Se consulta también por el núm
 
 ![](gccc.png)  
 
-Aquí, se unifica como un solo o único registro, para saber cuánto se ha ejecutado de ese contrato.  
+Aquí, se unifica como un solo o único registro, para saber cuánto se ha ejecutado de ese contrato en cuanto a dispensación.  
 
 ![](gccc1.png)  
