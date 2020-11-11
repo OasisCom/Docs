@@ -31,4 +31,4 @@ En el detalle de la aplicación EBAF, la pestaña _Empleadores_ permite consulta
 
 ![](ebaf2.png)  
 
-En la pestaña **Pagos** del **EBAF** se reflejan los pagos realizados de la entidad aportante al afiliado.  
+En la pestaña **Pagos** en el detalle del **EBAF**, se reflejan los desembolsos realizados de la entidad aportante al afiliado.  
