@@ -7,7 +7,7 @@ editable: si
 
 # Costo por cliente eps Diagnóstico - GCCD  
 
-Este reporte sirve para realizar un análisis más detallado, ya que nos muestra los valores y cantidades por Diagnóstico.  También se consulta por EPS.  
+Este reporte sirve para realizar un análisis más detallado, ya que nos muestra los valores y cantidades dispensadas por Diagnóstico.  También se consulta por EPS.  
 
 ![](gccd.png)  
 
