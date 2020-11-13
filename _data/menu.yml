@@ -2093,6 +2093,10 @@
               subitems:
                 - text: Generar Calendario
                   url: /Operacion/is/hospital/gproceso/gpga
+                - text: Generación de facturación
+                  url: /Operacion/is/hospital/gproceso/gpgf
+                - text: Generación de RIPS
+                  url: /Operacion/is/hospital/gproceso/gpri                  
             - text: Reportes
               url: /Operacion/is/hospital/greporte/
               subitems:
