@@ -5,7 +5,7 @@ permalink: /Operacion/crm/servicio/apeticion/apet
 editable: si
 ---
 
-# Peticiones  
+# Peticiones - APET  
 
 Esta es la aplicación de OasisCom para peticiones, quejas y reclamos.  Antes de comenzar, se debe ir a la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) para parametrizar y definir los documentos que se van a utilizar.  Una vez se tenga esta parametrización, se ingresa a esta aplicación **APET**.  Se adiciona un nuevo registro (+).  Para peticiones, se elige el documento _**PQ**_, para el ejemplo, se elige el concepto _FC_, que correspondería a una petición de **Factura**, la fecha en que se presenta la petición, también para el ejemplo, se escoge a **OasisCom** como _Tercero_ para generar el registro, quien sería la persona que presenta la petición.  Luego, se elige el _Tipo de medio_, o sea la forma a través de la cual llegó la petición (estos son definidos por cada empresa); para el ejemplo, se elige _**Correo electrónico**_, se llenan los campos _**Asunto**_ y _**Descripción**_ y se guarda el registro.
 
