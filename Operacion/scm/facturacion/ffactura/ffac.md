@@ -38,6 +38,8 @@ Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha
 **Moneda:** Tipo de moneda en la cual se está realizando esta transacción.  
 **Estado:** Estado actual de la factura; con este campo vamos a controlar en qué estado se encuentra la factura para verificar si se pueden realizar cambios o modificaciones y para controlar la generación de los comprobantes de ventas correspondientes. Los estados pueden ser Activo, Procesado o Terminado.  
 **Vendedor:** Nombre de la persona que realizó la venta, se utiliza este campo para la generación de las comisiones por ventas correspondientes.  
+**Id Responsable:** Al realizar un cargue masivo de movimientos, podemos evidenciar que usuario cargó un archivo con el id de otro funcionario.  
+![](ffac1_01.png)  
 **Dirección:** Código de la sucursal o agencia del cliente.  
 
 ![](ffac2.png)
