@@ -43,8 +43,16 @@ En el formulario de las Autorizaciones  **EAUT** se incluye el campo.
 	Donde siempre se deben actualizar los campos: dirección, teléfono, celular, email, barrio.  
     
 ![](eaut4.png)  
+-  Al realizar una autorización con un producto que genera copago, cuando se da guardar en el detalle el servicio, no genera copago y deja el mensaje que el afiliado pertenece a población vulnerable.  
+![](eaut4_01.png)  
+- Se deben identificar los afiliados con esta condición, la marca está desde el **EBAF** en el campo tipo población.    
+![](ebaf1.png)  
 
-## PROCESO DE CONSUMO DE SERVICIOS MIPRES. ##  
+- Para la marcación de afiliados ya registrados en un formulario I60 se agregó el campo de población vulnerable para que se marque.  
+
+![](eemov1.png)  
+
+# PROCESO DE CONSUMO DE SERVICIOS MIPRES.  
 Involucran funcionalidades como:  
 **Direccionamiento:** Este proceso realiza la captura de información en que EPS genera el direccionamiento? a que proveedor? (Droguería, Etc.); para la entrega de medicamentos entre otros a los pacientes.  
 **Anulación Direccionamiento:** Este proceso simplemente anula la información brindada en el direccionamiento.  
