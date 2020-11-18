@@ -2705,7 +2705,7 @@ Una vez visualicemos el mensaje "Empaque terminado correctamente" Finalizaremos 
 
 
 
-#Registro de Conteos - MIFIS  
+## Registro de Conteos - MIFIS  
 
 
 
