@@ -2742,9 +2742,13 @@ El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la para
 
 
 
-Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para realizar el filtro de responsable. Adicional se cambia visualmente la estructura visual del MIFIS.  
+Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para realizar el filtro de responsable. Adicional se cambia visualmente la estructura visual del **MIFIS.**  
 
 ![](mifis3.png)  
+
+Debe de agregar para el proceso de Inventario físico version móvil: fecha de vencimiento y lote. Se agregó componente para expandir a la página del **MIFIS** el cual permite tener más espacio en pantalla para realizar el conteo.  
+
+![](mifis3_01.png)  
 
 ![](mifis4.png)  
 
