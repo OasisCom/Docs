@@ -15,9 +15,9 @@ En esta aplicación se realizan los documentos que hayan sido creados para el pr
 >+ [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
 
 
-![](TMOV1.png)
+![](TMOV1.png)  
 
-![](TMOV2.png)
+![](TMOV2.png)  
 
 
 **Documento:** Tipo de documento a registrar.  
@@ -30,7 +30,8 @@ En esta aplicación se realizan los documentos que hayan sido creados para el pr
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.  
 **Nombre Tercero:** Nombre del tercero al cual se carga el movimiento.  
 **Estado:** Estado de documento: Activo, Procesado, Anulado.  
-**Empleado:** Identificación numérica del empleado.  
+**Id Responsable:** Al realizar un cargue masivo de movimientos, podemos evidenciar que usuario cargó un archivo con el id de otro funcionario.  
+![](tmov2_01.png)  
 **Check Number:** Identificación del cheque.  
 **Observación:** Campo que se utiliza para dar una breve explicación del comprobante a realizar.  
 **Cuenta Destino:** Identificación numérica de la empresa a la cual se consignará (transferencia).  
