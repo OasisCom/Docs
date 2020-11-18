@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/gproceso/gpga
 editable: si
 ---
 
-# GENERAR CALENDARIO - GPGA
+# Generar calendario - GPGA
 
 
 Para generar el calendario de un recurso (Doctor), se deberá ingresar a la opción **GPGA – Generar Calendario**.  
