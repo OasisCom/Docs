@@ -165,7 +165,7 @@ La aplicación **TMOV** permite obtener una vista previa de los comprobantes de 
 
 Para ir a la vista previa consultamos por el documento **CE** y seleccionamos el registro a visualizar. Damos clic en el botón ![](lupa.png). 
 
-![](tmov7.png)
+![](tmov7.png)  
 
 Obtendremos la siguiente vista previa.  
 
@@ -201,7 +201,7 @@ El recibo de Caja se usa para registrar todos aquellos dineros que se reciben a 
 
 ![](egreso1.png) 
 
-Damos clic ![](mas.png) para crear un nuevo registro. 
+Damos clic ![](mas.png) para crear un nuevo registro.  
 
 ![](caja1.png)
 
@@ -214,9 +214,9 @@ Damos clic ![](mas.png) para crear un nuevo registro.
 **Observación:** Descripción adicional. 
 **Fecha:** Se recibe el dinero.  
 
-Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)  
 
-De acuerdo con la parametrización que se realiza previamente en el básico de plantillas, el sistema nos sugiere unas cuentas, estas cuentas sugeridas se pueden modificar u obtener más registros, dependiendo el tipo de transacción que se requiera realizar.
+De acuerdo con la parametrización que se realiza previamente en el básico de plantillas, el sistema nos sugiere unas cuentas, estas cuentas sugeridas se pueden modificar u obtener más registros, dependiendo el tipo de transacción que se requiera realizar.  
 ![](caja2.png)
 
 **Nota:** La cuenta Banco no se debe modificar,  ya que se encuentra relacionada directamente a la ubicación con la que se está creando el documento, si se desea cambiar esta cuenta, el sistema va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación del documento.
