@@ -189,7 +189,7 @@ _PDF_
 * **"Comentario":**  
 Se creo una interface **BINT** para temas de salud donde:  
 La **circular 017** de pagos tomara la data de los **TMOV** documento: CE menos los traslados y los **CMOV** documento: NC x CC.  
-En esta interfaz se tomará la fecha de costo del documento con el cual se hace el cruce tanto en el **TMOV** como en el **CMOV**. Solo se tiene en cuenta los registros con naturaleza debito en los dos aplicaciones.  
+En esta interfaz se tomará la fecha de costo del documento con el cual se hace el cruce tanto en el **TMOV** como en el **CMOV**. Solo se tiene en cuenta los registros con naturaleza debito en las dos aplicaciones.  
 En la aplicación **BINT** de Dusakawi se crea el **BINT 600** que pide los parámetros de año y periodo.  
 
 ![](tmov9_01.png)  
