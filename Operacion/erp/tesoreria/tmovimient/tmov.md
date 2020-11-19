@@ -197,7 +197,7 @@ En la aplicaci√≥n **BINT** de Dusakawi se crea el **BINT 600** que pide los par√
 
 ## [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)  
 
-El recibo de Caja se usa para registrar todos aquellos dineros que se reciben a diario, ya sea en cuentas bancarias o directamente de caja. 
+El recibo de Caja se usa para registrar todos aquellos dineros que se reciben a diario, ya sea en cuentas bancarias o directamente de caja.  
 
 ![](egreso1.png) 
 
