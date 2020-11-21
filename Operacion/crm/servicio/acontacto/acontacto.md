@@ -7,7 +7,7 @@ editable: si
 
 # Contactos
 
-Está integrado por los módulos:
+Está integrado por las aplicaciones:
 
 * [**ACON**](http://docs.oasiscom.com/Operacion/crm/servicio/acontacto/acon) - Contactos
 

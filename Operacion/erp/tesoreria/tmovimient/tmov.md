@@ -15,9 +15,9 @@ En esta aplicación se realizan los documentos que hayan sido creados para el pr
 >+ [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
 
 
-![](TMOV1.png)
+![](TMOV1.png)  
 
-![](TMOV2.png)
+![](TMOV2.png)  
 
 
 **Documento:** Tipo de documento a registrar.  
@@ -30,7 +30,8 @@ En esta aplicación se realizan los documentos que hayan sido creados para el pr
 **Tercero:** Número de identificación del tercero al cual se carga el movimiento.  
 **Nombre Tercero:** Nombre del tercero al cual se carga el movimiento.  
 **Estado:** Estado de documento: Activo, Procesado, Anulado.  
-**Empleado:** Identificación numérica del empleado.  
+**Id Responsable:** Al realizar un cargue masivo de movimientos, podemos evidenciar que usuario cargó un archivo con el id de otro funcionario.  
+![](tmov2_01.png)  
 **Check Number:** Identificación del cheque.  
 **Observación:** Campo que se utiliza para dar una breve explicación del comprobante a realizar.  
 **Cuenta Destino:** Identificación numérica de la empresa a la cual se consignará (transferencia).  
@@ -164,7 +165,7 @@ La aplicación **TMOV** permite obtener una vista previa de los comprobantes de 
 
 Para ir a la vista previa consultamos por el documento **CE** y seleccionamos el registro a visualizar. Damos clic en el botón ![](lupa.png). 
 
-![](tmov7.png)
+![](tmov7.png)  
 
 Obtendremos la siguiente vista previa.  
 
@@ -173,26 +174,34 @@ Obtendremos la siguiente vista previa.
 
 * Se ajusta la vista previa del **TMOV**  Dusakawi para el escenario donde tenga FS y glosa.  
 
-	![](tmov14.png)
+	![](tmov14.png)  
 
 
 * Otro formato del TMOV en su vista preliminar se visualizara así, donde se totalizan sus valores por cada uno de sus libros.  
 
-	![](tmov10.png)
+	![](tmov10.png)  
 
 El formato podrá ser exportado en formato de Excel, PDF o Word.  
 
 _PDF_
 
-![](tmov9.png)
+![](tmov9.png)  
+* **"Comentario":**  
+Se creo una interface **BINT** para temas de salud donde:  
+La **circular 017** de pagos tomara la data de los **TMOV** documento: CE menos los traslados y los **CMOV** documento: NC x CC.  
+En esta interfaz se tomará la fecha de costo del documento con el cual se hace el cruce tanto en el **TMOV** como en el **CMOV**. Solo se tiene en cuenta los registros con naturaleza debito en las dos aplicaciones.  
+En la aplicación **BINT**, se crea la **Publicación 600** que pide los parámetros de año y periodo.  
 
-## [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
+![](tmov9_01.png)  
 
-El recibo de Caja se usa para registrar todos aquellos dineros que se reciben a diario, ya sea en cuentas bancarias o directamente de caja. 
+
+## [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)  
+
+El recibo de Caja se usa para registrar todos aquellos dineros que se reciben a diario, ya sea en cuentas bancarias o directamente de caja.  
 
 ![](egreso1.png) 
 
-Damos clic ![](mas.png) para crear un nuevo registro. 
+Damos clic ![](mas.png) para crear un nuevo registro.  
 
 ![](caja1.png)
 
@@ -205,9 +214,9 @@ Damos clic ![](mas.png) para crear un nuevo registro.
 **Observación:** Descripción adicional. 
 **Fecha:** Se recibe el dinero.  
 
-Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)
+Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.png)  
 
-De acuerdo con la parametrización que se realiza previamente en el básico de plantillas, el sistema nos sugiere unas cuentas, estas cuentas sugeridas se pueden modificar u obtener más registros, dependiendo el tipo de transacción que se requiera realizar.
+De acuerdo con la parametrización que se realiza previamente en el básico de plantillas, el sistema nos sugiere unas cuentas, estas cuentas sugeridas se pueden modificar u obtener más registros, dependiendo el tipo de transacción que se requiera realizar.  
 ![](caja2.png)
 
 **Nota:** La cuenta Banco no se debe modificar,  ya que se encuentra relacionada directamente a la ubicación con la que se está creando el documento, si se desea cambiar esta cuenta, el sistema va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación del documento.

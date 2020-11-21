@@ -19,7 +19,9 @@ Nivel contributivo, Estado Afiliado, Tipo Población.
 
 ![](ebaf3.png)
 
+* Se deben identificar los afiliados que estan en "Condición Vulnerable", la marca está desde el **EBAF** en el campo **tipo población.**    
 
+![](ebaf3_01.png)
 
 Igualmente, la aplicación nos permite visualizar toda la información de un afiliado a través de la siguiente vista dando click en el botón _Ver fila seleccionada_ ![](nuevo.png)  ubicado en la barra de herramientras del maestro.  
 
