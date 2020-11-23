@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Error pendiente envío
-permalink: /Soporte/facturaelectronica/EBFFAC
+title: Error publicación 952
+permalink: /Soporte/facturaelectronica/errorpublicación952
 editable: si
 ---
-# Error pendiente envío  
+# Error publicación 952 
 
-La inconsistencia es un error que dice Pendiente de envío por la DIAN en el EBFFAC.  
+La inconsistencia es un error en la Publicación 952.  
 
-![](EBFFAC.png)  
+![](952.png)  
 
-La solución consiste en ejecutar la acción **910 BINT** para hacer el reenvío de manera manual.  
+El mensaje de error que emite la DIAN de rechazo puede ser por validación de Tributos, es decir los decimales están separados por COMAS(,) y no por PUNTO(.) como es el deber ser. Para ello se debe modificar el xml colocando los puntos de decimal y se carga nuevamente y se envía exitosamente.  
 
 
