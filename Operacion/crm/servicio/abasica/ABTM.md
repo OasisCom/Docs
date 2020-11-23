@@ -5,7 +5,7 @@ permalink: /Operacion/crm/servicio/abasica/abtm
 editable: si
 ---
 
-# Tipos de Medios  
+# Tipos de Medios - ABTM  
 
 En esta aplicación se pueden parametrizar los diferentes tipos de difusión o de generación de demanda con los que cuenta el área de **Mercadeo**.  Esto, nos permitirá asignar un tipo de medio a todas las oportunidades comerciales que se tienen e identificar qué medio es el más efectivo.  
 
