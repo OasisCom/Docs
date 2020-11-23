@@ -1496,6 +1496,9 @@
           subitems:
             - text: Datos Basicos
               url: /Operacion/crm/servicio/abasica/
+              subitems:
+              - text: Tipos de medios
+                url: /Operacion/crm/servicio/abasica/abtm               
             - text: Agenda
               url: /Operacion/crm/servicio/aagenda/
             - text: Contactos
