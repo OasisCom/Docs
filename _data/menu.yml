@@ -1505,6 +1505,9 @@
                 url: /Operacion/crm/servicio/acontacto/acon              
             - text: Peticiones
               url: /Operacion/crm/servicio/apeticion/
+              subitems:
+              - text: Peticiones
+                url: /Operacion/crm/servicio/apeticion/apet              
             - text: Actividades
               url: /Operacion/crm/servicio/aactividad/
         - text: Help Desk
