@@ -29,9 +29,31 @@ Para agregar un nuevo registro damos click en el botón ![](mas.png) ubicado en 
 **Tendencia:**  
 **Proyecto:** seleccionar el proyecto al cual se asocia el registro de la oportunidad.  
 
+Cuando la oportunidad se genera por haber convertido un prospecto, se entra a esta aplicación y se busca la oportunidad que se convirtió y se entra al icono de tareas workflow.  
+
+![](aopo6.png)  
+
+Aquí, se puuignar las tareas relacionadas.  Por ejemplo, se puede hacer la asignación de que se realiza la presentación del portafolio de la compañía, que se demora 10 minutos, la descripción de la tarea.  Se puede asignar como otra tarea una llamada de seguimiento, ya sea a nosotros mismos o a otra persona.  
+
+![](aopo7.png)  
+
+Al decirle _Ejecutado_, el sistema automáticamente asigna la otra tarea que queda en el renglón siguiente.  
+
+![](aopo8.png)  
+
+De esta manera, el sistema comienza a generar una lista de las tareas que se van ejecutando y la descripción en la que se genera el registro en la pestaña _Ejecución_ en la parte inferior.  Cada que se actualice la aplicación, el sistema va mostrando cada tarea que se va asignando y ejecutando.  Adicionalmente, se puede editr el maestro para indicar si este posible cliente se descartó por propuestas o por alguna referencia comercial; esto también se puede definir o paramterizar.
+
+![](aopo9.png)  
+
+![](aopo10.png)  
+
+Se regresa a la apicación [**ACON - Contactos**](http://docs.oasiscom.com/Operacion/crm/servicio/acontacto/acon) y en la pestaña de _Oportunidades_ también va a indicar si este prospecto o cliente tiene un registro como _**Oportunidad**_.  
+
+![](aopo11.png)  
+
 En la pestaña _Ejecución_ se pueden observar las tareas ejecutadas por los trabajadores relacionadas a la oportunidad de negocio seleccionada en el maestro. Estas actividades se ejecutan por medio de la funcionalidad de workflow ubicada en la barra superior de herramientras, representada por el botón ![](aopo1.png) .  
 
-![](aopo2.png)
+![](aopo2.png)  
 
 La opción **AOPO** también cuenta con una pestaña en el detalle llamada _Cuestionario_, la cual permitirá la calificación de oportunidades de negocio de acuerdo a las preguntas definidas previamente en la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) en la pestaña del detalle también llamada _Cuestionario_.  
 

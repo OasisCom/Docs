@@ -43,7 +43,10 @@ Después de diligenciar los campos, procedemos a guardar el registro.
 
 ![](acon10.png)  
 
-Este sirve para almacenar y tener una base de datos.  
+Este sirve para almacenar y tener una base de datos.   
+Cuando es un posible cliente y se quiere convertir en una oportunidad, se da click en el botón _Convertir_A_Oportunidad_ y el sistema automáticamente genera el registro.  
+
+Luego, se pasa a la aplicación [**AOPO - Oportunidades**](http://docs.oasiscom.com/Operacion/crm/venta/aoportunidad/aopo)
 
 En el detalle se encuentran dos pestañas, oportunidades y tareas. La pestaña _Oportunidades_, muestra los documentos OP correspondientes a las oportunidades que se encuentran asociadas a dicho Id de contacto.  
 
