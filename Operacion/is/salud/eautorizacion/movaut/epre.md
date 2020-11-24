@@ -69,7 +69,8 @@ Se puede validar que se alimenta de manera correcta la información de la prescr
 
 ![](epre5_06.png)  
 
-# Envió de Suministro.  
+# Consumo del Servicio **Suministro**.  
+
 
 Para el envío de suministro, la cual viene siendo el proceso final para cerrar el ciclo sobre el servicio MIPRES.  
 Para este proceso que se realiza por la EPS.  
