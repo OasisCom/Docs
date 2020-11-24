@@ -35,7 +35,7 @@ Se muestra información del servicio sobre plataforma MIPRES.
 
 # Seguimiento de Prescripciones.  
 
-Desde EPRE, se  visualiza por parte de la EPS el seguimiento actual de una **Prescripción.**  
+Desde **EPRE**, se  visualiza por parte de la EPS el seguimiento actual de una **Prescripción.**  
 Se crea nuevo Tab – seguimiento, al programa **EPRE.**  
 Esta nueva pestaña mostrara la información solicitada:  
 **Direccionamiento:** Proceso realizado por la EPS.    
