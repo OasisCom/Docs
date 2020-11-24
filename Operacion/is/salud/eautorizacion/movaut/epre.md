@@ -83,6 +83,20 @@ Al darle sobre el botón, se visualiza el siguiente resumen.
 
 Se muestra mensaje informativo de cantidad de registros a ejecutar para el proceso actual.  
 
+![](epre7.png)  
+
+Al darle aceptar se realiza el envío de la información sobre el servicio MIPRES.  
+Todo esto tomando como referencia la información obtenida del reporte de entrega obtenida por parte de la IPS/Prestador.   
+
+**OPERACIÓN DE SUMINISTRO = U**
+
+Al realizar el envío se realiza sobre OASISCOM los siguientes procesos:  
+•	Pre-Validación.  
+•	Envío de datos sobre el servicio MIPRES.  
+•	Captura de datos sobre respuesta para alanceamiento en OASISCOM.  
+
+
+
 
 
 
