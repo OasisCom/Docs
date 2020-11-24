@@ -20,7 +20,10 @@ editable: si
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
 
->##### [WEBINAR: Proceso de Importaciones en OasisCom](http://docs.oasiscom.com/Mercadeo//Webinars/webinar-Importaciones OasisCom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Inteligencia Artificial aplicada a Sectores Productivos](http://docs.oasiscom.com/Mercadeo//Webinars/Inteligencia-Artificial-aplicada-a-sectores-productivos.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+
+>##### [WEBINAR: Proceso de Importaciones en OasisCom](http://docs.oasiscom.com/Mercadeo//Webinars/webinar-Importaciones OasisCom.pdf)
 
 
 >##### [WEBINAR: Reportes personalizados en OasisCom - Guía técnica](http://docs.oasiscom.com/Mercadeo//Webinars/Reportes-Personalizados-en-OasisCom.pdf)
