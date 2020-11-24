@@ -104,6 +104,16 @@ Esta pestaña muestra datos a nivel informativo sobre documentos NP = autorizaci
 
 ![](eaut10.png)  
 
+# Circular 008, Anexo ST012.  
+
+Se creo la vista v_Circular008ST012 y el BARC y BINT 33 para extraer la información requerida en el Anexo ST012 de la circular 008.  
+Al archivo descargado a través de esta interface (33);  corresponde las autorizaciones, se plasman en este reporte.  
+
+
+
+
+
+
 
 
 
