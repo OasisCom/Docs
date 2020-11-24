@@ -74,7 +74,7 @@ Se puede validar que se alimenta de manera correcta la información de la prescr
 
 Para el envío de suministro, la cual viene siendo el proceso final para cerrar el ciclo sobre el servicio MIPRES.  
 Para este proceso que se realiza por la EPS.  
-Se ingresa al programa **EPRE. **
+Se ingresa al programa **EPRE.**
 
 Se visualiza el botón configurado sobre el programa **EPRE.**  
 
