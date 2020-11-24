@@ -67,7 +67,7 @@ Esperamos a que termine el proceso de sincronización.
 Consultamos nuevamente el seguimiento de la prescripción.  
 Se puede validar que se alimenta de manera correcta la información de la prescripción.  
 
-![](epre5_05.png)  
+![](epre5_06.png)  
 
 
 
