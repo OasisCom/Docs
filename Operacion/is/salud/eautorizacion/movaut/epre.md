@@ -33,6 +33,36 @@ Se muestra información del servicio sobre plataforma MIPRES.
 
 ![](epre5.png)  
 
+# Seguimiento de Prescripciones.  
+
+Desde EPRE, se  visualiza por parte de la EPS el seguimiento actual de una **Prescripción.**  
+Se crea nuevo Tab – seguimiento, al programa **EPRE.**  
+Esta nueva pestaña mostrara la información solicitada:  
+**Direccionamiento:** Proceso realizado por la EPS.    
+**Programación:** Proceso realizado por el prestador.  
+**Entrega:** Proceso realizado por el prestador.  
+**Reporte Entrega:** Proceso realizado por el prestador.  
+**Facturación:** Proceso realizado por el prestador.  
+**Suministro:** Proceso realizado por la EPS.  
+
+![](epre5_01.png)  
+
+De esta manera el usuario de la EPS tendrá como validar en que proceso se encuentra actualmente la Prescripción.    
+El programa **EEPRE,** está orientado al usuario de la Ips/Prestador, y al realizar la sincronización se alimenta la información sobre OASISCOM,  para que la EPS tenga conocimiento en qué momento realizar la finalización del ciclo que sería el envió de suministro sobre cada direccionamiento con todas las etapas realizadas.  
+Se resalta el botón de sincronización.  
+
+![](epre5_02.png)  
+
+Se selecciona todos los direccionamientos realizados por la prescripción.  
+Los procesos realizados por la IPS ya sean algunos de los mencionados anteriormente.  
+Por ser un proceso que solo lo puede consultar la IPS/Prestador.  
+Se debe ingresar el token base de la IPS/Prestador.  
+Le damos en el botón de sincronizar.  
+
+![](epre5_03.png)  
+
+
+
 
 
 
