@@ -61,6 +61,13 @@ Le damos en el botón de sincronizar.
 
 ![](epre5_03.png)  
 
+Esperamos a que termine el proceso de sincronización.  
+
+![](epre5_04.png)  
+Consultamos nuevamente el seguimiento de la prescripción.  
+Se puede validar que se alimenta de manera correcta la información de la prescripción.  
+
+![](epre5_05.png)  
 
 
 
