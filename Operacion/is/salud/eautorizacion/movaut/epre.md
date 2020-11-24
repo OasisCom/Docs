@@ -79,6 +79,10 @@ Se visualiza el botón configurado sobre el programa **EPRE.**
 
 ![](epre6.png)  
 
+Al darle sobre el botón, se visualiza el siguiente resumen.  
+
+Se muestra mensaje informativo de cantidad de registros a ejecutar para el proceso actual.  
+
 
 
 
