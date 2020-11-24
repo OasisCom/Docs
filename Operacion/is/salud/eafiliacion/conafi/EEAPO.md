@@ -9,12 +9,12 @@ editable: si
 
 Permite registrar los afiliados aportantes al régimen contributivo en WEB.  El formulario consta de los siguientes campos:  
 
-_Documento:_  En este campo hay un Zoom.  Al dar click, se ve una sola opción que es _**ME**_ de _Movimiento empleador_.  Se selecciona y se cierra el Zoom.
-_Número:_  Lo diligencia automáticamente el sistema.
-_Concepto:_  También hay un Zoom con dos opciones.  Se elige la opción _**IN**_ de _Inscripción_.  
-_LocationId:_ Del Zoom, se elige la opción correspondiente según el caso.  
-_Motivo:_ También se abre el Zoom y se selecciona el 0 (cero), correspondiente a ingreso.  
-_EmployerId:_  En este campo se tiene la posibilidad de diligenciar el NIT o número de cédula del aportante.  
+_Documento:_  En este campo hay un Zoom.  Al dar click, se ve una sola opción que es _**ME**_ de _Movimiento empleador_.  Se selecciona y se cierra el Zoom.  
+_Número:_  Lo diligencia automáticamente el sistema.  
+_Concepto:_  También hay un Zoom con dos opciones.  Se elige la opción _**IN**_ de _Inscripción_.    
+_LocationId:_ Del Zoom, se elige la opción correspondiente según el caso.    
+_Motivo:_ También se abre el Zoom y se selecciona el 0 (cero), correspondiente a ingreso.    
+_EmployerId:_  En este campo se tiene la posibilidad de diligenciar el NIT o número de cédula del aportante.    
 
 Llenados estos campos, se _Guarda_ el registro.  
 
