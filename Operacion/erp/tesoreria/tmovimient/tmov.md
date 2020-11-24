@@ -221,11 +221,11 @@ De acuerdo con la parametrización que se realiza previamente en el básico de p
 
 **Nota:** La cuenta Banco no se debe modificar,  ya que se encuentra relacionada directamente a la ubicación con la que se está creando el documento, si se desea cambiar esta cuenta, el sistema va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación del documento.
 
-En la cuenta por cobrar que se requiere cancelar, o se recibe el dinero, en el campo *DocDocumento* se selecciona la factura que se va a cancelar. ![](aceptar.png)
+En la cuenta por cobrar que se requiere cancelar, o se recibe el dinero, en el campo *DocDocumento* se selecciona la factura que se va a cancelar. ![](aceptar.png)  
 
 ![](caja3.png)
 
-Luego de seleccionar la factura a cancelar, aceptamos el proceso ![](ok.png)
+Luego de seleccionar la factura a cancelar, aceptamos el proceso ![](ok.png)  
 
 Si es un recaudo que recibimos y es por concepto de un anticipo, no es necesario realizar el cruce a la trazabilidad en el campo *DocDocumento* esta opción le indica al documento que la factura se está cancelando, pero en dado caso de no tenerlo, se puede hacer el registro y omitimos el paso de  la relación del documento.
 
@@ -233,17 +233,17 @@ Una vez ingresamos esta información y se verifiquen los datos correspondientes,
 
 ![](caja5.png)
 
-Luego de procesar el documento, automáticamente cambia el estado del documento que anteriormente estaba activo.
+Luego de procesar el documento, automáticamente cambia el estado del documento que anteriormente estaba activo.  
 
 ![](caja6.png)
 
 ## [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
 
-Esta transacción permite registrar el movimiento para realizar traslados de dinero de una ubicación de tesorería a otra. 
+Esta transacción permite registrar el movimiento para realizar traslados de dinero de una ubicación de tesorería a otra.  
 
 ![](egreso1.png) 
 
-Damos clic ![](mas.png) para crear un nuevo registro. 
+Damos clic ![](mas.png) para crear un nuevo registro.  
 
 ![](tesoreria1.png)
 
@@ -262,11 +262,11 @@ Cuando se indica la cuenta de destino y la cuenta de origen, el sistema automát
 
 ![](tesoreria2.png)
 
-**Nota:** Estas cuentas van relacionadas a las ubicaciones que se ingresaron previamente, por lo que en el detalle no se deben cambiar. 
+**Nota:** Estas cuentas van relacionadas a las ubicaciones que se ingresaron previamente, por lo que en el detalle no se deben cambiar.  
 
 ![](tesoreria3.png)
 
-Por ultimo, se procesa el documento para que la transacción se vea reflejada en el módulo de tesorería. 
+Por ultimo, se procesa el documento para que la transacción se vea reflejada en el módulo de tesorería.  
 
 ![](tesoreria4.png) 
 
