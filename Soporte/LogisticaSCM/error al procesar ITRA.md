@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Error al crear factura de venta
+title: Soporte
 permalink: /Soporte/LogisticaSCM/Error al crear factura de venta
 editable: si
 ---
