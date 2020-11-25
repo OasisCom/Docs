@@ -106,7 +106,7 @@ Esta pestaña muestra datos a nivel informativo sobre documentos NP = autorizaci
 
 # Circular 008, Anexo ST012.  
 
-Se creo la vista v_Circular008ST012 y el BARC y BINT 33 para extraer la información requerida en el Anexo ST012 de la circular 008.  
+Se creo la vista v_Circular008ST012 y el BARC y BINT 33 para extraer la información requerida en el Anexo ST012 de la circular 008, de referencia y contrareferencia, que realiza la EPS para enviar a un paciente, afiliado, de una IPS a otra
 Al archivo descargado a través de esta interface (33);  corresponde las autorizaciones, se plasman en este reporte.  
 
 * Parámetros de entrada:  
@@ -115,6 +115,13 @@ Al archivo descargado a través de esta interface (33);  corresponde las autoriz
 **Semestre:**  
 
 ![](bint_01.png)  
+Previa parametrización del BARC (archivos) 32 y el BPUB (publicacion) 32.   
+**BARC**
+![](barc_1.png)  
+**BPUB**
+![](bpub1.png) 
+
+
 
 
 
