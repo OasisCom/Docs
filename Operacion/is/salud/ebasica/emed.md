@@ -19,7 +19,18 @@ Programa de salud, implementado para las medidas y controles,  ejemplo los numer
 
 # Circular 019.  
 
-En la aplicación **EMED** se crean las medidas y mediante la vista v_Circular019 y el BINT 32 se realiza la salida en formato XLS.  
+En la aplicación **EMED** se crean las medidas y mediante la vista v_Circular019 y el BINT 32 (indicador), se realiza la salida en formato XLS.  
+
+![](bint_32.png)  
+
+Previa parametrización del BARC (archivos) 32 y el BPUB (publicacion) 32.   
+
+
+**BARC**
+![](barc32.png)  
+**BPUB**
+
+![](bpub.png)  
 
 *****
 
