@@ -119,7 +119,7 @@ Previa parametrización del BARC (archivos) 33 y el BPUB (publicacion) 33.
 **BARC**
 ![](barc32.png)  
 **BPUB**
-![](bpub1.png)  
+![](bpub33.png)  
 
 
 
