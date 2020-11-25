@@ -115,9 +115,9 @@ Al archivo descargado a través de esta interface (33);  corresponde las autoriz
 **Semestre:**  
 
 ![](bint_01.png)  
-Previa parametrización del BARC (archivos) 32 y el BPUB (publicacion) 32.   
+Previa parametrización del BARC (archivos) 33 y el BPUB (publicacion) 33.   
 **BARC**
-![](barc_1.png)  
+![](barc32.png)  
 **BPUB**
 ![](bpub1.png)  
 
