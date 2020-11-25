@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Error al procesar
+title: Error al procesar btim
 permalink: /Soporte/LogisticaSCM/error al procesar btim
 editable: si
 ---
