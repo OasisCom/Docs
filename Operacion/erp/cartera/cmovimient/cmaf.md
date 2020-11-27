@@ -9,10 +9,10 @@ editable: si
 
 El siguiente manual describe la funcionalidad de la aplicación CMAF – Actualiza Fechas, que hace referencia a la fecha de vencimiento de la factura emitida al cliente.
 
-1. [Aplicación FFAC - Facturas](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Aplicación-FFAC---Facturas)
-2. [Funcionalidad Aplicación CMAF - Actualiza Fecha](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Funcionalidad-Aplicación-CMAF---Actualiza-Fecha)
-2.1	[Función Calcula Vencimiento con F Recibo](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Función-Calcula-Vencimiento-con-F-Recibo)
-2.2	[Función Actualiza vencimiento](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Función-Actualiza-vencimiento)
+1. [**Aplicación FFAC - Facturas**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Aplicación-FFAC---Facturas)  
+2. [**Funcionalidad Aplicación CMAF - Actualiza Fecha**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Funcionalidad-Aplicación-CMAF---Actualiza-Fecha)  
+2.1	[**Función Calcula Vencimiento con F Recibo**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Función-Calcula-Vencimiento-con-F-Recibo)  
+2.2	[**Función Actualiza vencimiento**](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmaf#Función-Actualiza-vencimiento)  
 
 
 
