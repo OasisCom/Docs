@@ -15,7 +15,7 @@ Para registrar una nueva referencia y contrareferencia, ingresamos a la aplicaci
 
 * En el maestro, se agregan cuatro campos para que recuperan los productos del **EPRO**, llamados **Cups1, Cups2, 3 y 4**.  
 
- ![](ercf1.png)
+ ![](ercf1.png)  
 
 * se incluye el campo **"email"**.   
  ![](ercf2.png)  
