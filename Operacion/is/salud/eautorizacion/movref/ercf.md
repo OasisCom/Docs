@@ -20,9 +20,9 @@ Para registrar una nueva referencia y contrareferencia, ingresamos a la aplicaci
 * se incluye el campo **"email"**.   
 ![](ercf2.png)  
 
-* Se crea un Nuevo Campo Denominado modo de traslado con una lista desplegable.  
+* Se crea un Nuevo Campo Denominado **modo de traslado** con una lista desplegable.  
 
-![](erc.png)  
+ ![](ercf3.png)  
 
 
 En el formulario seleccionamos el concepto *HO – Hospitalaria* y el motivo por el cual se va a realizar la referencia.
