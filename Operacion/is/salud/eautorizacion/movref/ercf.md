@@ -18,7 +18,7 @@ Para registrar una nueva referencia y contrareferencia, ingresamos a la aplicaci
  ![](ercf1.png)
 
 * se incluye el campo **"email"**.   
-![](ercf2.png)  
+ ![](ercf2.png)  
 
 * Se crea un Nuevo Campo Denominado **modo de traslado** con una lista desplegable.  
 
