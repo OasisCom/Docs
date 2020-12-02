@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Soporte
-permalink: /Soporte/LogisticaSCM/Error al crear factura de venta
+title: Error al procesar ITRA
+permalink: /Soporte/LogisticaSCM/erroralprocesarITRA
 editable: si
 ---
-# JFAC/FFAC - Error al crear factura de venta.
+# Error al procesar ITRA
 
-La inconsistencia es un error al crear una factura de venta por diferencia en débito y crédito.  
+La inconsistencia es un error al procesar la aplicación [**Trabajos - ITRA**](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/itra) 
 
-![](jfacffac.png)  
+![](itra.png)  
 
-Para corregir la inconsistencia, se debe eliminar el detalle del pago, dar clic en la pestaña detalle, volver a la pestaña de pago y procesar.
+Para corregir la inconsistencia, se debe revisar si en el campo _**Característica**_, se tiene un valor diferente al de la aplicación [**Pedidos - VPED**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped). Es decir, se coloca en el **ITRA** la característica igual a la que se tenga en el **VPED**.
