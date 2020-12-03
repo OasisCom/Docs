@@ -27,7 +27,8 @@ Algunas aplicaciones para reportes en esta ventana son:
 * [**Formato de vacaciones - NRVC**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrvc)  
 * [**Planilla por entidad - NRPE**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrpe)
 * [**Acumulados - NRAC**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrac)  
-* [**Resumen mensual tercero - NRST**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrst)
+* [**Resumen mensual tercero - NRST**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrst)  
+* [**Informe Nomina - Presupuesto - NRSP1](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrsp1)  
 
 
 
