@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nreporte/nrsp1
 editable: si
 ---
 
-# Informe Nomina - Presupuesto - NRSP1
+# Informe Nomina - Presupuesto NRSP1
 
 
 Reporte del modulo de Nomina que relaciona informacion de movimientos de presupuesto oficial con un documento de nomina (NM, AP o PV) y su respectiva partida presupuestal.  
