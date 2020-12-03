@@ -20,6 +20,10 @@ Resumen presupuestal de la nomina por centro de costo; extrae informacion del **
 
 ![](qmovo1.png)  
 
+Partidas presupuestales.  **QPAR.**  
+
+![](qpar1.png)  
+
 
 
 
