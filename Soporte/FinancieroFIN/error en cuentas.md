@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Comprobante Egreso
-permalink: /Soporte/FinancieroFIN/error al procesar CE
+title: Error en cuentas
+permalink: /Soporte/FinancieroFIN/error en cuentas
 editable: si
 ---
-# Error al procesar Comprobante de Egreso  
+# Error en cuentas 
 
-La inconsistencia es error al procesar un Comprobante de Egreso.  
+La inconsistencia es un error en las cuentas.  
 
-![](ce.png)  
+![](trm.png)  
 
-La solución es Desprocesar los CP que tienen creados con la cuenta que aparece en el mensaje, y prender el Flag de _**Presupuesto**_ en la aplicación [**Cuentas - BCUE**](http://docs.oasiscom.com/Operacion/common/bcuenta/bcue); posteriormente, se puede procesar el [**Movimientos - TMOV**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov).   
+La solución consiste en crear 2 documentos, uno para registrar los movimientos con moneda 0 y otro con moneda 1 en el cual deben indicar la TRM. La moneda la indican en el encabezado de los documentos.   
 
 
 
