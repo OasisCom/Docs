@@ -10,4 +10,4 @@ La inconsistencia es un error al generar la aplicación [**Calcular Niveles de S
 
 ![](incn.png)  
 
-Para corregir la inconsistencia: Para poder realizar el proceso de niveles de Stock es necesario tener una parametrización previa, por lo tanto, los productos que van a ser susceptibles de este proceso, deben tener prendido el check "Stock" en  [**Productos - BPRO**](http://docs.oasiscom.com/Operacion/movil/bpro).
+Para corregir la inconsistencia: Para poder realizar el proceso de niveles de Stock es necesario tener una parametrización previa, por lo tanto, los productos que van a ser susceptibles de este proceso, deben tener prendido el check "Stock" en  [**Productos - BPRO**](http://docs.oasiscom.com/Operacion/movil/bpro) en la pestaña de Inventario, o de lo contrario, el sistema no va a poder identificar cuales códigos tendrá en cuenta.
