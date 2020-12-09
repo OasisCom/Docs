@@ -16,5 +16,6 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * [Ubicación no definida como caja](http://docs.oasiscom.com/Soporte/FinancieroFIN/ubicacioncaja)  
 * [BGRU – Asignación de cuentas](http://docs.oasiscom.com/Soporte/FinancieroFIN/bgru)  
 * [Accesando concepto nómina](http://docs.oasiscom.com/Soporte/FinancieroFIN/n%C3%B3mina)  
-* [Error conciliación bancaria](http://docs.oasiscom.com/Soporte/FinancieroFIN/TBBC)
+* [Error conciliación bancaria](http://docs.oasiscom.com/Soporte/FinancieroFIN/TBBC)  
+* [Error al procesar CE](http://docs.oasiscom.com/Soporte/FinancieroFIN/TBBC)
 

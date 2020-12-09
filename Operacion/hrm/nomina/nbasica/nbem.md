@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nbasica/nbem
 editable: si
 ---
 
-# EMPLEADOS - NBEM
+# Empleados - NBEM
 
 
 Esta aplicación se divide en maestro y detalle:

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Error al procesar
+title: Error al procesar por producto
 permalink: /Soporte/LogisticaSCM/error al procesar
 editable: si
 ---
