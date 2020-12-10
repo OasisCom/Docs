@@ -96,6 +96,18 @@ Al realizar el envío se realiza sobre OASISCOM los siguientes procesos:
 •	Envío de datos sobre el servicio MIPRES.  
 •	Captura de datos sobre respuesta para alanceamiento en OASISCOM.  
 
+# Prescripciones sin direccionamiento.  
+
+Se realiza ajuste sobre el programa EEPRE y EPRE para mostrar las prescripciones tipo hospitalarias ya que estas no tienen envió de direccionamiento sobre el servicio MIPRES.  
+
+A nivel del maestro se corrige para mostrar solo las prescripciones sin detallar los números de entregas direccionados por parte de la EPS.  
+
+Se mostrarán solo las prescripciones asignadas a la IPS y se adiciona sobre el maestro el mostrar a las prescripciones tipo hospitalarias.  
+
+![](eepre_01.png)  
+
+Sobre el detalle se agrega el tab creado anteriormente  de seguimiento, donde se visualiza el detalle de numero de entregas y en qué proceso actual se encuentra.  
+
 
 
 
