@@ -10,5 +10,5 @@ La inconsistencia es un error al procesar el documento AP.
 
 ![](AP.png)  
 
-La solución:  El error se puede presentar porque hace falta parametrizar el Nit de la entidad de riesgos en la empresa (semp) o parametrización de las entidades en el detalle del NBEM.  
+La solución:  El error se puede presentar porque hace falta parametrizar el Nit de la entidad de riesgos en la empresa (semp) o parametrización de las entidades en el detalle del [**Empleados - NBEM**](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem).  
 

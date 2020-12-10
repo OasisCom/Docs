@@ -13,3 +13,5 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * [Error al procesar por inconsistencia con el impuesto-btim](http://docs.oasiscom.com/Soporte/LogisticaSCM/error%20al%20procesar%20btim)  
 * [Error al procesar ITRA](http://docs.oasiscom.com/Soporte/LogisticaSCM/error%20al%20procesar%20btim)  
 * [Reubicación mercancía](http://docs.oasiscom.com/Soporte/LogisticaSCM/error%20al%20procesar%20btim)  
+* [Error documento RC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errordctoRC)  
+* [Error en documento DP](http://docs.oasiscom.com/Soporte/LogisticaSCM/errordctoDP)
