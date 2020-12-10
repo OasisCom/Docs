@@ -115,7 +115,7 @@ En este tab de seguimiento se tiene incluido los registros sobre prescripciones 
 ****
 Se realiza ajuste para agregar campo de validación en la pestaña de seguimiento, esto para especificar a la EPS, si el proceso en general realizado por la IPS fue correcto según el direccionamiento inicializado por la EPS.  
 
-**campo que es actualizado cada vez que se realiza la sincronización por parte de la IPS desde el programa EEPRE.**
+**Campo que es actualizado cada vez que se realiza la sincronización por parte de la IPS desde el programa EEPRE.**
 
 ![](eepre_03.png)  
 
