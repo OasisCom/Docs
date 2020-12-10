@@ -112,6 +112,13 @@ Sobre el detalle se agrega el tab creado anteriormente  de seguimiento, donde se
 
 En este tab de seguimiento se tiene incluido los registros sobre prescripciones tipo hospitalarios.  
 
+****
+Se realiza ajuste para agregar campo de validación en la pestaña de seguimiento. esto para especificar a la EPS, si el proceso en general realizado por la IPS fue correcto según el direccionamiento inicializado por la EPS.  
+
+**campo que es actualizado cada vez que se realiza la sincronización por parte de la IPS desde el programa EEPRE.**
+
+![](eepre_03.png)  
+
 
 
 
