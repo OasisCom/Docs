@@ -108,6 +108,12 @@ Se mostrarán solo las prescripciones asignadas a la IPS y se adiciona sobre el 
 
 Sobre el detalle se agrega el tab creado anteriormente  de seguimiento, donde se visualiza el detalle de numero de entregas y en qué proceso actual se encuentra.  
 
+![](eepre_02.png)  
+
+En este tab de seguimiento se tiene incluido los registros sobre prescripciones tipo hospitalarios.  
+
+
+
 
 
 
