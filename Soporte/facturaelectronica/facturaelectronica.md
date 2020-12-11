@@ -12,4 +12,5 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * [Error publicación 952](http://docs.oasiscom.com/Soporte/facturaelectronica/errorpublicaci%C3%B3n952)  
 * [Error al procesar devoluciones](http://docs.oasiscom.com/Soporte/facturaelectronica/errorpublicaci%C3%B3n952)  
 * [Error publicación 910 BINT](http://docs.oasiscom.com/Soporte/facturaelectronica/errorpublicaci%C3%B3n910BINT)  
-* [Documento FC FE](http://docs.oasiscom.com/Soporte/facturaelectronica/dctofcfe)
+* [Documento FC FE](http://docs.oasiscom.com/Soporte/facturaelectronica/dctofcfe)  
+* [Subir XML por BINT](http://docs.oasiscom.com/Soporte/facturaelectronica/xmlbint)  
