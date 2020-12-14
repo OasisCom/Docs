@@ -15,7 +15,7 @@ La sección _Maestro_ de la aplicación, permite el registro del encabezado: las
 * **Numero:** Número consecutivo de cotización. El programa asigna automáticamente este número.  
 * **Ubicación:** Lugar desde donde se efectúa el requerimiento.  
 * **Fecha:** Fecha cuando se efectúa la cotización. El sistema asigna la fecha actual por defecto.  
-* **Numero:** Número consecutivo del correspondiente al requerimiento, al realizar este registro el sistema ingresa los datos correspondientes al requerimiento.  
+* **Numero:** Número consecutivo correspondiente al requerimiento; al realizar este registro, el sistema ingresa los datos correspondientes al requerimiento.  
 * **Documento:** Especificación de la cotización.  
 * **Localización:** Lugar desde donde se efectúa el requerimiento.  
 * **Tercero:** Código del proveedor quien hace la cotización.  
@@ -51,8 +51,8 @@ En el detalle de los productos y cantidades que se van a cotizar, desde su preci
 
 
 
-En la pestaña **Presupuesto:** Su funcionabilidad se establece a partir de la parametrización del documento: [**BDOC**](), concepto [**BCON**](), plantilla [**BPLA**]() o en su defecto: 
- Se insertan los débitos que afectaran presupuestalmente, registrar el auxiliar contable: centro costo, negocio, proyecto; como se ilustra.  
+En la pestaña **Presupuesto:** Su funcionalidad se establece a partir de la parametrización del documento: [**BDOC**](), concepto [**BCON**](), plantilla [**BPLA**]() o en su defecto: 
+ Se insertan los débitos que afectarán presupuestalmente, registrar el auxiliar contable: centro de costo, negocio, proyecto; como se ilustra.  
 
 
 ![](ocot3.png)
