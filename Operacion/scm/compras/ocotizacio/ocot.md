@@ -7,7 +7,7 @@ editable: si
 
 # Cotizaciones - OCOT
 
-La sección maestra de la aplicación, permite el registro del encabezado las cotizaciones de compra, desde su generación y actualización de acuerdo a las condiciones comerciales ofrecidas por cada proveedor.  
+La sección _Maestro_ de la aplicación, permite el registro del encabezado: las cotizaciones de compra, desde su generación y actualización de acuerdo a las condiciones comerciales ofrecidas por cada proveedor.  
 
 ![](ocot1.png)
 
