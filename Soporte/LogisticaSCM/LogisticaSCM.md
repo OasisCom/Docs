@@ -18,4 +18,6 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * [Error al generar INCN](http://docs.oasiscom.com/Soporte/LogisticaSCM/erroralgenerarINCN)  
 * [Error al procesar facturas JFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/erroralprocesarfacturasjfac)  
 * [Error campo valor pestaña pago FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errorcampovalorffac)  
-* [Error con documento en FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errorcondctoFFAC)
+* [Error con documento en FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errorcondctoFFAC)  
+* [Error con documento DV en FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errordctoDVFFAC)  
+* [No procesa factura de compra](http://docs.oasiscom.com/Soporte/LogisticaSCM/noprocesafracpra)
