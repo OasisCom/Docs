@@ -7,17 +7,17 @@ editable: si
 
 # Requerimientos de Compras- OREQ
 
-La aplicación **OREQ** requerimiento de compras; puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
-Este documento es interno por lo que no debe ser utilizada como Orden de Compra.  
+La aplicación **OREQ** requerimientos de compras; puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
+Este documento es interno por lo que no debe ser utilizado como Orden de Compra.  
 
 >+ [**Cómo hacer un requerimiento una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotización-y-relacionarlos)
 
-Como todas las aplicaciones de OasisCom se encuentran dividida en secciones: maestro y detalle; en el maestro permite el registro del encabezado de los requerimientos hechos por la empresa; en la parte inferior se divide en pestañas: Detalle, Distribución y Presupuesto
+Como muchas de las aplicaciones de OasisCom, esta se encuentra dividida en secciones: maestro y detalle; el maestro permite el registro del encabezado de los requerimientos hechos por la empresa; la parte inferior se divide en pestañas: Detalle, Distribución y Presupuesto.
 
 ![](oreq.png)
 
 
-* **Número:** Número consecutivo de requerimiento, el cual es asignado automáticamente una vez este respectivamente parametrizado en la opción **BCON**.  
+* **Número:** Número consecutivo de requerimiento, el cual es asignado automáticamente una vez esté respectivamente parametrizado en la opción **BCON**.  
 * **Documento:** Especifica porque se efectúa el requerimiento.  
 * **Fecha:** Fecha en la que se efectúa el requerimiento. El sistema asigna la fecha actual por defecto.  
 * **Ubicación:** Lugar desde donde se efectúa el requerimiento.  
@@ -25,7 +25,7 @@ Como todas las aplicaciones de OasisCom se encuentran dividida en secciones: mae
 * **Prioridad:** (A) alta (M) media (B) baja.  
 * **Estado:** 	Indica el estado o fase en el que se encuentra el requerimiento, el cual puede ser Activo, procesado, Anulado, despacho parcial y terminado.  
 * **Autoriza:** Identificación numérica de la persona o entidad que autoriza el requerimiento.  
-* **Observaciones:** Con respecto al requerimiento. De igual forma esta indicará cuando el requerimiento es generado por el plan de compras quincenal y/o anual.  
+* **Observaciones:** Con respecto al requerimiento. De igual forma, esta indicará cuándo el requerimiento es generado por el plan de compras quincenal y/o anual.  
 * **Aprueba:** Identificación numérica de la persona o entidad que autoriza el requerimiento.  
 * **Fecha de confirmación:** Fecha de entrega requerida.  
 
@@ -49,8 +49,8 @@ En el detalle de los productos y cantidades que se requieren. Permite observar l
 
 En la pestaña **Presupuesto:**  
 
-Su funcionabilidad se establece a partir de la parametrización del documento: [**BDOC**](), concepto [**BCON**](), plantilla [**BPLA**]() o en su defecto: 
- Se insertan los débitos que afectaran presupuestalmente, registrar el auxiliar contable: centro costo, negocio, proyecto; como se ilustra.  
+Su funcionalidad se establece a partir de la parametrización del documento: [**BDOC**](), concepto [**BCON**](), plantilla [**BPLA**]() o en su defecto: 
+ Se insertan los débitos que afectarán presupuestalmente, registrar el auxiliar contable: centro costo, negocio, proyecto; como se ilustra.  
 
 
 ![](oreq3.png)  
