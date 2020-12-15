@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/ginventario/gpde
 editable: si
 ---
 
-# Dispensaciones Pendiente por Entrega - GPDE
+# Dispensaciones Pendiente por Entrega - GDPE
 
 Se crea **GDPE**, esta opción se pueden consultar las dispensaciones ya sean de “Programación” o “Pendientes”, es decir que estén en estado “Activo”. En esta misma opción se tendrá el botón que hará el proceso de terminación de las dispensaciones.  
 
@@ -19,4 +19,8 @@ Se actualiza el estado indicando el motivo seleccionado sobre el zoom.
 Parametrización que se debe editar según cada cliente.  
 
 ![](gpde2.png)  
+
+Se crea campo para identificar los registros a terminar.  
+Desde la opción **GDPE (Dispensaciones Pendientes por Entrega)** para incluir el campo nuevo (Mark).  
+Se  re_parametriza la configuración de la opción GDPE para incluir un botón que marque todos los registros indicados por el usuario (campo nuevo Mark).  
 
