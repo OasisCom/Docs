@@ -34,7 +34,7 @@ Marcado masivo de registros a terminar.
 
 ![](gdpe_03.png)  
 
-Consula vacia, luego de hacer la terminacion masiva.  
+Consulta vacia, luego de hacer la terminacion masiva.  
 
 ![](gdpe_04.png)  
 

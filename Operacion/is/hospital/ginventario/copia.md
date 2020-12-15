@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dispensaciones Pendiente por Entrega 
-permalink: /Operacion/is/hospital/ginventario/gpde
+permalink: /Operacion/is/hospital/ginventario/
 editable: si
 ---
 
