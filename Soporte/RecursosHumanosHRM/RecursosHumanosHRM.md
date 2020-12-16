@@ -16,4 +16,5 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 *  [**Error al procesar la nómina en 1701**](http://docs.oasiscom.com/Soporte/FinancieroFIN/n%C3%B3mina1701)  
 *  [**No sale concepto IEE en el NBEM**](http://docs.oasiscom.com/Soporte/FinancieroFIN/nbemconceptoiee)  
 *  [**Anticipo de pago nómina de liquidación**](http://docs.oasiscom.com/Soporte/RecursosHumanosHRM/anticipodepagon%C3%B3mina)  
+*  [**No procesa liquidación**](http://docs.oasiscom.com/search/search.html?query=No+procesa+liquidaci%C3%B3n&x=0&y=0)  
 
