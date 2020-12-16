@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dispensaciones Pendiente por Entrega 
-permalink: /Operacion/is/hospital/ginventario/gdpe
+permalink: /Operacion/is/hospital/ginventario/
 editable: si
 ---
 
@@ -20,21 +20,7 @@ Parametrización que se debe editar según cada cliente.
 
 ![](gpde2.png)  
 
-# Terminación de programación.  
-
 Se crea campo para identificar los registros a terminar.  
 Desde la opción **GDPE (Dispensaciones Pendientes por Entrega)** para incluir el campo nuevo (Mark).  
 Se  re_parametriza la configuración de la opción GDPE para incluir un botón que marque todos los registros indicados por el usuario (campo nuevo Mark).  
-
-Control de registros no marcados para el proceso.  
-
-![](gdpe_01.png)  
-
-Marcado masivo de registros a terminar.  
-
-![](gdpe_03.png)  
-
-Consulta vacia, luego de hacer la terminacion masiva.  
-
-![](gdpe_04.png)  
 
