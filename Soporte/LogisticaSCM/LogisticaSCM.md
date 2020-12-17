@@ -20,4 +20,5 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * [Error campo valor pestaña pago FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errorcampovalorffac)  
 * [Error con documento en FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errorcondctoFFAC)  
 * [Error con documento DV en FFAC](http://docs.oasiscom.com/Soporte/LogisticaSCM/errordctoDVFFAC)  
-* [No procesa factura de compra](http://docs.oasiscom.com/Soporte/LogisticaSCM/noprocesafracpra)
+* [No procesa factura de compra](http://docs.oasiscom.com/Soporte/LogisticaSCM/noprocesafracpra)  
+* [Error en documentos del ODEQ](http://docs.oasiscom.com/Soporte/LogisticaSCM/ODEQ)  

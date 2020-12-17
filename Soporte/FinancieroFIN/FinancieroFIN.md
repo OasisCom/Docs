@@ -19,4 +19,6 @@ En esta sección encontrarán las frecuentes incidencias que se pueden presentar
 * [Error conciliación bancaria](http://docs.oasiscom.com/Soporte/FinancieroFIN/TBBC)  
 * [Error al procesar CE](http://docs.oasiscom.com/Soporte/FinancieroFIN/TBBC)  
 * [Documento PMOV](http://docs.oasiscom.com/Soporte/FinancieroFIN/dctoPMOV)  
+* [Documento CE](http://docs.oasiscom.com/Soporte/FinancieroFIN/dctoCE)  
+* [Recibo de caja TMOV](http://docs.oasiscom.com/search/search.html?query=recibo+de+caja+TMOV)
 
