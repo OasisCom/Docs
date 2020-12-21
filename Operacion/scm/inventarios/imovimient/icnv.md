@@ -96,7 +96,7 @@ Agregamos una nueva fila, para desarmar el paquete se crea una entrada y una sal
 
 ![](conversion12.png)
 
-Añadimos otra fila, en la opción producto se selecciona entrada ya que es otro producto que se utilizó como insumo al armar el paquete, seleccionamos el producto, en este caso tela y la se coloca la cantidad correspondiente y guardamos cambios ![](guardar.png). 
+Añadimos otra fila, en la opción producto se selecciona entrada ya que es otro producto que se utilizó como insumo al armar el paquete, seleccionamos el producto, en este caso tela; se coloca la cantidad correspondiente y guardamos cambios ![](guardar.png). 
 
 ![](conversion13.png)
 
