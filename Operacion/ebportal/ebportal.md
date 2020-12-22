@@ -849,6 +849,17 @@ El tipo de impuesto es el que nos indica si el proveedor está obligado o no a e
 
 **Nota:** Si el campo declarante se encuentra con el check, quiere decir que el tercero que tenga ese tipo de impuesto está obligado a expedir factura de venta y todo lo que se adquiera con este tercero no se va a ver reflejado en la aplicación ODEQ – Documento Equivalente. Si se realiza la compra a un tercero y el tipo de impuesto que tiene relacionado no cuenta con el check, los movimientos se verán reflejados en la aplicación ODEQ - Documento Equivalente. 
 
+**Mensaje de control** correspondiente al tercero obligado a facturar electrónicamente, previa parametrización en el **WVAR** llamado verifyebill , este registro debe ser llamado de este modo y en su fórmula; deben ser colocadas las aplicaciones sobre los cuales tendrá efecto. en el caso del ejemplo, esta para el **OCAF y FFAC**.  
+
+![](FFAC_01.png)  
+**WVAR**
+
+![](wvar_01.png)  
+
+En el **BTER** también se creó un nuevo campo para controlar esta validación sobre el tercero, cuando esta encendida esta variable es usada en conjunto con el WVAR para realizar la validación.  
+
+![](bter_01.png)  
+
 ## [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)    
 ### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)   
 
