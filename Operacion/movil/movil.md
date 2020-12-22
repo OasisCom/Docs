@@ -1581,6 +1581,14 @@ A continuación, se podrá realizar los cambios de perfil que requiera el usuari
 
 
 
+## [Notificacion movil](http://docs.oasiscom.com/Operacion/movil/#notificacion_movil)
+
+Las notificaciones locales al móvil se envian, para ser utilizado por el Signal R, para él envió de notificaciones push desde el dispositivo móvil.  
+Las notificaciones enviadas desde Web, pueden ser leídas desde el dispositivo móvil.  
+
+![](noti1.png)  
+
+![](noti2.png)  
 
 ## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)
 
@@ -2177,7 +2185,7 @@ En la pestaña producto, realiza el scanneo:
 
 
 
-La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking) se almacenen según la trazabilidad, cuando se cierre la aplicación.   
+La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking, packing) se almacenen según la trazabilidad, cuando se cierre la aplicación, guardando la información de forma local.   
 
 
 
@@ -2541,7 +2549,11 @@ En la pestaña producto, realiza el scanneo:
 Permite ingresar observaciones desde la aplicación móvil en el proceso del picking desde el MITRA.  
 ![](mitra16.2.png)  
 
-Finalizando el proceso de piking.  
+Finalizando el proceso de piking. 
+
+Adecuación si por algún motivo la aplicación se cierra o hay alguna falla en el dispositivo es posible buscar el documento por su número y este continuará en el producto en el que se encontraba antes del cierre.
+
+![](mitra16.3.png)
 
 
 
@@ -2693,7 +2705,7 @@ Una vez visualicemos el mensaje "Empaque terminado correctamente" Finalizaremos 
 
 
 
-#Registro de Conteos - MIFIS  
+## Registro de Conteos - MIFIS  
 
 
 
@@ -2730,13 +2742,24 @@ El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la para
 
 
 
-Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para realizar el filtro de responsable. Adicional se cambia visualmente la estructura visual del MIFIS.  
+Se crea visualmente los campos: Num de ítem, Ubic Destino y el botón para realizar el filtro de responsable. Adicional se cambia visualmente la estructura visual del **MIFIS.**  
 
 ![](mifis3.png)  
 
+Debe de agregar para el proceso de Inventario físico version móvil: fecha de vencimiento y lote. Se agregó componente para expandir a la página del **MIFIS** el cual permite tener más espacio en pantalla para realizar el conteo.  
+
+![](mifis3_01.png)  
+
 ![](mifis4.png)  
 
-Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro.  
+Desde el IFIS, se debe de actulizar el responsable, ejecutando el boton del maestro. 
+
+Adecuación, dar clic al botón “info producto” si se desea ver las características completas del producto.
+
+![](mifis5.png)
+![](mifis6.png)
+
+
 ## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/movil/#proceso-pedidos-retenidos-copr)  
 
 Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evidencian los pedidos que han sido retenidos.   En dicha aplicación se identifica la razón por la cual el pedido se encuentra retenido, si por crédito o por comercial.   El segundo escenario es es cuando al proceso comercial se cumple (SI).  

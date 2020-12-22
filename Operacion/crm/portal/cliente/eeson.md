@@ -38,15 +38,15 @@ Se guarda el registro.
 
 ![](eeson1.png)
 
-Ahora, se ingresa a la aplicación **Afiliados - EBAF**.  Se filtra por el número de documento del afiliado y se busca el campo _Portabilidad_, el cual no se encuentra activo, pero se activará una vez se procese el formulario en la aplicación **EESON**.  
+Ahora, se ingresa a la aplicación [**BMOT – Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot).  Se filtra por el número de documento del afiliado y se busca el campo _Portabilidad_, el cual no se encuentra activo, pero se activará una vez se procese el formulario en la aplicación **EESON**.  
 
 ![](eeson2.png)  
 
-Después de procesar, se valida el estado de la solicitud de portabilidad.  Para esto, se ingresa a la aplicación **Solicitud Afiliados - ESON**.  Se filtra por el número de la solicitud y se busca el campo _Estado_ para asegurarse que se encuentre como _Procesado_.   
+Después de procesar, se valida el estado de la solicitud de portabilidad.  Para esto, se ingresa a la aplicación [**Solicitud Afiliados - ESON**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/eson).  Se filtra por el número de la solicitud y se busca el campo _Estado_ para asegurarse que se encuentre como _Procesado_.   
 
 ![](eeson3.png)  
 
-Finalmente, se valida que en la aplicación **Afiliados - EBAF**, el campo de _Portabilidad_ esté activo.  Validado este campo, se termina el proceso de Solicitud de Portabilidad.  
+Finalmente, se valida que en la aplicación [**EBAF - Afiliados**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/movafi/ebaf), el campo de _Portabilidad_ esté activo.  Validado este campo, se termina el proceso de Solicitud de Portabilidad.  
 
 ![](eeson4.png)  
 

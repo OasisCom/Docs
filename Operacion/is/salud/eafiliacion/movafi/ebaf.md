@@ -19,7 +19,9 @@ Nivel contributivo, Estado Afiliado, Tipo Población.
 
 ![](ebaf3.png)
 
+* Se deben identificar los afiliados que estan en "Condición Vulnerable", la marca está desde el **EBAF** en el campo **tipo población.**    
 
+![](ebaf3_01.png)
 
 Igualmente, la aplicación nos permite visualizar toda la información de un afiliado a través de la siguiente vista dando click en el botón _Ver fila seleccionada_ ![](nuevo.png)  ubicado en la barra de herramientras del maestro.  
 
@@ -27,6 +29,8 @@ Igualmente, la aplicación nos permite visualizar toda la información de un afi
 
 ![](ebaf1.png)
 
-En el detalle de la aplicación EBAF, la pestaña _Empleadores_ permite consultar el histórico de empleadores a los que el empleado se encontraba asociado.  
+En el detalle de la aplicación **EBAF**, la pestaña **Empleadores** permite consultar el histórico de empleadores a los que el empleado se encontraba asociado.  
 
-![](ebaf2.png)
+![](ebaf2.png)  
+
+En la pestaña **Pagos** en el detalle del **EBAF**, se reflejan los desembolsos realizados de la entidad aportante al afiliado.  

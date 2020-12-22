@@ -196,7 +196,34 @@ En GCAL damos clic en el botón ![](consulta.png) para crear la nueva consulta, 
 
 El sistema arrojará un mensaje de control indicando que la consulta fue creada exitosamente. Inmediatamente, se abrirá la aplicación [**GCON - Consultas**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado). (_Ver aplicación_)  
 
-![](gcal22.png)
+![](gcal22.png)  
+
+### Procedimiento no realizado (boton) en GCAL.  
+
+Para indicar que el procedimiento no se puede realizar por algún prerrequisito no cumplido por parte del usuario.  
+
+Se crea botón en el **GCAL** (calendario) para el escenario, cuando no se puede tomar el examen porque el paciente no viene con la preparación necesaria para la toma y guardar esta información en el campo “observación” de la opción **GCAL**.  
+
+![](gcal22_01.png)  
+
+Se da clic sobre el botón indicado el cual permite abrir una nueva ventana emergente, la cual recibe la información del porque NO se pudo realizar el procedimiento.  
+
+![](gcal22_02.png)  
+
+Se diligencia la información necesaria y se da guardar.  
+
+![](gcal22_03.png)  
+
+El texto se guarda en el campo:  **observación**.  
+
+![](gcal22_04.png)  
+
+* Aca finaliza la funcionalidad del boton: **Procedimiento no realizado**   
+
+
+
+
+
 
 
 

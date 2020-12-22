@@ -28,7 +28,7 @@ Cuando se procesa un documento de facturación de ventas y este tiene retención
 Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha de las facturas de venta, acumulando por el dia.  
 
 
-![](ffac1.png)
+![](ffac1.png)  
 
 **Número:** Dato con el cual se conoce la factura en todo el sistema. La numeración puede ser asignada automática o manualmente.  
 **Ubicación:** Número de la ubicación a la cual se va a realizar una factura.  
@@ -38,9 +38,11 @@ Esta funcionalidad permite acumular base de retencionen la fuente, para la fecha
 **Moneda:** Tipo de moneda en la cual se está realizando esta transacción.  
 **Estado:** Estado actual de la factura; con este campo vamos a controlar en qué estado se encuentra la factura para verificar si se pueden realizar cambios o modificaciones y para controlar la generación de los comprobantes de ventas correspondientes. Los estados pueden ser Activo, Procesado o Terminado.  
 **Vendedor:** Nombre de la persona que realizó la venta, se utiliza este campo para la generación de las comisiones por ventas correspondientes.  
+**Id Responsable:** Al realizar un cargue masivo de movimientos, podemos evidenciar que usuario cargó un archivo con el id de otro funcionario.  
+![](ffac1_01.png)  
 **Dirección:** Código de la sucursal o agencia del cliente.  
 
-![](ffac2.png)
+![](ffac2.png)  
 
 **Tipo de Precio:** Tipo de precio con el cual se liquidó o liquidará la factura, la toma por defecto del tipo de precio definido al cliente.  
 **% Descuento:** Es el porcentaje de descuento comercial que se le va a liquidar a esta factura, que afectará todos los productos de esta factura.  

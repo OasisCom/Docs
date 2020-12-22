@@ -19,7 +19,17 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
->##### [WEBINAR: Factura Electrónica | Nuevo documento a emitir electrónicamente a la DIAN - Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-FE-25-09-2020.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+>##### [WEBINAR: Inteligencia Artificial aplicada a Sectores Productivos](http://docs.oasiscom.com/Mercadeo//Webinars/Inteligencia-Artificial-aplicada-a-sectores-productivos.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+
+>##### [WEBINAR: Proceso de Importaciones en OasisCom](http://docs.oasiscom.com/Mercadeo//Webinars/webinar-Importaciones OasisCom.pdf)
+
+
+>##### [WEBINAR: Reportes personalizados en OasisCom - Guía técnica](http://docs.oasiscom.com/Mercadeo//Webinars/Reportes-Personalizados-en-OasisCom.pdf)
+
+
+>##### [WEBINAR: Factura Electrónica | Nuevo documento a emitir electrónicamente a la DIAN - Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-FE-25-09-2020.pdf)
 
 >##### [WEBINAR: Integración de SCM e E-Commerce y las demás área de una compañía](http://docs.oasiscom.com/Mercadeo//Webinars/Integracion-scm-e-commerce.pdf)
 

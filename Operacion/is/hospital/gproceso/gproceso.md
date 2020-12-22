@@ -9,6 +9,7 @@ editable: si
 
 Está integrado por las aplicaciones:
 
-* [**GPGA**](http://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpga) - Generar Calendario
-* [**GPGF**](http://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpgf) - Generación de Facturación - 
+* [**GPGA**](http://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpga) - Generar Calendario  
+* [**GPGF**](http://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpgf) - Generación de Facturación -  
+* [**GPRI**](http://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpri) - Generación de RIPS  
 

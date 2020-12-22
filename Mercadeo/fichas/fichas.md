@@ -44,9 +44,9 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 ---
 >## OasisCom Alianzas
 >####[Partner Distribuidor](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Partner-Distribuidor.pdf)
->
+
 >####[Partner Referidor](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Partner-Referidor.pdf)
->
+
 >####[Partner Integrador](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Partner-Integrador.pdf)
 
 
@@ -62,3 +62,7 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >#### [Producto CRM](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo CRM.pptx)
 >#### [Producto DSS](http://docs.oasiscom.com/Mercadeo/fichas/ERP - Módulo DSS.pptx)
 >#### [Producto Salud IPS](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-salud-IPS.pptx)
+
+
+>## OasisCom Promotor Digital 
+>#### [Plan Fidelización Promotor Digital](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Promotor-Digital.pdf)
