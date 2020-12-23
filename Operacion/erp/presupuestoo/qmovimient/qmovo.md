@@ -225,7 +225,10 @@ Se crea un documento RP al momento de hacer la radicación de los prestadores fu
 
 ![](efac_02.png)  
 
- 
+6. Se crea el RP en estado activo al momento de ejecutar el botón.  
+
+![](qmovo_02.png)  
+
 
 
 
