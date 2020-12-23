@@ -203,6 +203,21 @@ _En PDF_
 
 ## [Fuera de Red en Presupuesto Oficial](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#fuera_de_red_en_presupuesto_oficial)
 
+Se crea un documento RP al momento de hacer la radicación de los prestadores fuera de red   
+
+1. Se realiza la validación del contrato.  
+
+![](ecnc_01.png)  
+
+2. Se realiza la creación del CD.  
+
+![](qmovo_01.png)  
+
+3. Se intenta ejecutar el botón de fuera de red y si el prestador no está marcado como fuera de red el sistema arroja un mensaje de control.  
+
+![](efac_01.png)  
+ 
+
 
 
 
