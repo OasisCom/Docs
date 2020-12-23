@@ -216,6 +216,15 @@ Se crea un documento RP al momento de hacer la radicación de los prestadores fu
 3. Se intenta ejecutar el botón de fuera de red y si el prestador no está marcado como fuera de red el sistema arroja un mensaje de control.  
 
 ![](efac_01.png)  
+
+4. Se le asigna al tercero que es fuera de red.  
+
+![](bter_01.png)  
+
+5. Se ejecuta nuevamente el botón.  
+
+![](efac_02.png)  
+
  
 
 
