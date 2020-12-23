@@ -205,29 +205,42 @@ _En PDF_
 
 Se crea un documento RP al momento de hacer la radicación de los prestadores fuera de red   
 
-1. Se realiza la validación del contrato.  
+1.Se realiza la validación del contrato.  
 
 ![](ecnc_01.png)  
 
-2. Se realiza la creación del CD.  
+2.Se realiza la creación del CD.  
 
 ![](qmovo_01.png)  
 
-3. Se intenta ejecutar el botón de fuera de red y si el prestador no está marcado como fuera de red el sistema arroja un mensaje de control.  
+3.Se intenta ejecutar el botón de fuera de red y si el prestador no está marcado como fuera de red el sistema arroja un mensaje de control.  
 
 ![](efac_01.png)  
 
-4. Se le asigna al tercero que es fuera de red.  
+4.Se le asigna al tercero que es fuera de red.  
 
 ![](bter_01.png)  
 
-5. Se ejecuta nuevamente el botón.  
+5.Se ejecuta nuevamente el botón.  
 
 ![](efac_02.png)  
 
-6. Se crea el RP en estado activo al momento de ejecutar el botón.  
+6.Se crea el RP en estado activo al momento de ejecutar el botón.  
 
 ![](qmovo_02.png)  
+
+7.Se verifica que el RP se haya creado por el mismo valor de las facturas.  
+
+![](qmovo_03.png)  
+
+8.Se intenta ejecutar de nuevo el botón de fuera de red pero el sistema arroja un mensaje de alerta indicando que no es posible dado que ya se creó el RP para esas facturas.  
+
+![](efac_03.png)  
+
+9.Se procesa el RP.  
+
+![](qmovo_04.png)  
+
 
 
 
