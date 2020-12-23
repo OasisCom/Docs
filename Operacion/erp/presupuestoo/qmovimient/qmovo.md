@@ -28,7 +28,7 @@ Documentos:
 * [**C3 - Cargue inicial ejecución**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#c3---cargue-inicial-ejecución)
 * [**RD - Liberación o anulación de una provisión**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rd---liberación-o-anulación-de-una-provisión)
 * [**RR - Decremento de registro presupuestal**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#rr---decremento-de-registro-presupuestal)
-
+* [**Fuera de Red en Presupuesto Oficial**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#fuera_de_red_en_presupuesto_oficial)
 
 
 ## [PI - Presupuesto Inicial](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#pi---presupuesto-inicial)  
@@ -200,3 +200,10 @@ El documento puede ser extraíble en formato de Excel, PDF o Word.
 _En PDF_  
 
 ![](qmovo27.png)
+
+## [Fuera de Red en Presupuesto Oficial](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qmovimient/qmovo#fuera_de_red_en_presupuesto_oficial)
+
+
+
+
+
