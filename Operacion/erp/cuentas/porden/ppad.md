@@ -16,7 +16,7 @@ Para las EPS se crea la opción Pago Directo - PPAD; programa el Pago que realiz
 
 ![](ppad1.png)  
 
-* Cuando se procesa el documento GD en el PPAD, el sistema ejecuta el botón de presupuesto.
+* Cuando se procesa el documento GD en el PPAD, el sistema ejecuta el botón de presupuesto.  
 Desde el PPAD agregando el porcentaje se modifica el procedimiento para que se haga el calculo proporcional al porcentaje.  
 
 
