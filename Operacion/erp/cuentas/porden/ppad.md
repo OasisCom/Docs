@@ -21,7 +21,7 @@ Desde el PPAD agregando el porcentaje se modifica el procedimiento para que se h
 
 ![](ppad_02.png)  
 
-El PPAD Es la programación de giro directo donde se programan a las IPS para un pago que aprueba el ministerio, cuando se confirma el **PPAD** crea automáticamente un **TMOV** y esté debe afectar presupuestalmente.  
+El **PPAD** Es la programación de giro directo donde se programan a las IPS para un pago que aprueba el ministerio, cuando se confirma el **PPAD** crea automáticamente un **TMOV** y esté debe afectar presupuestalmente.  
 
 **TMOV**
 
