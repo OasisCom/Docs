@@ -5,7 +5,7 @@ permalink: /Operacion/erp/contabilidad/ksaldo/kssp
 editable: si
 ---
 
-## Saldos de Contabilidad - KSSP
+# Saldos de Contabilidad - KSSP
 
 En la aplicación **Saldos de Contabilidad** se puede verificar los saldos por cuenta, se pueden consultar filtrando por cuenta, periodo, año, también se verifica los movimientos débitos, créditos y saldos a la fecha.
 
