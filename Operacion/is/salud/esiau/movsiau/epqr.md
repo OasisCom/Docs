@@ -259,7 +259,15 @@ Finalmente, se da clic en el botón *Guardar* y el sistema arrojará un mensaje 
 
 ## [Sentencia 760](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epqr#sentencia-760)
 
-1.	La sentencia 760 se compone de dos archivos de salida. El primero tiene como fuente las autorizaciones (EAUT) y el segundo las pqr (EPQR). En Dusakawi se crean dos interface **BINT** de salida el 670 y 671. El 670 para las autorizaciones y el 671 para los pqr. Como anexo del RE se tiene el archivo base de donde se toma la fuente de datos.
+1.	La sentencia 760 se compone de dos archivos de salida. El primero tiene como fuente las autorizaciones (EAUT) y el segundo las pqr (EPQR). En Dusakawi se crean dos interface **BINT** de salida el 670 y 671. El 670 para las autorizaciones y el 671 para los pqr. Como anexo del RE se tiene el archivo base de donde se toma la fuente de datos.  
+
+![](bint1.png)  
+
+671 => PQR  
+
+![](bint2.png)  
+
+
 
 
 
