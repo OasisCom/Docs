@@ -22,13 +22,13 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 ---
 >## OasisCom Verticales
 >### OasisCom Salud
->>#### [OasisCom Salud EPS](http://docs.oasiscom.com/Mercadeo/fichas/Ficha SALUD.pdf)
+>>#### [OasisCom Salud EPS](http://docs.oasiscom.com/Mercadeo/fichas/Ficha SALUD-EPS.pdf)
 >>#### [OasisCom Salud IPS ](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Software-IPS.pdf)
 >>#### [OasisCom Dispensación de medicamentos](http://docs.oasiscom.com/Mercadeo/fichas/Dispensacion-de-medicamentos-Ficha-oasiscom.pdf)
 
 >#### [OasisCom E-Commerce](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Ecommerce.pdf)
->#### [OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/INSERTO POS.pdf)
->#### [OasisCom Propiedad Horizontal](http://docs.oasiscom.com/Mercadeo/fichas/Propiedad-Horizontal-Ficha.pdf)
+>#### [OasisCom POS](http://docs.oasiscom.com/Mercadeo/fichas/Ficha POS.pdf)
+>#### [OasisCom Propiedad Horizontal](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Propiedad-horizontal.pdf)
 >#### [OasisCom Café](http://docs.oasiscom.com/Mercadeo/fichas/físico_inserto_café_impreso.pdf)
 >#### [OasisCom Combustible](http://docs.oasiscom.com/Mercadeo/fichas/Físico infografía de combustible_ impreso.pdf)
 >#### [OasisCom Transporte](http://docs.oasiscom.com/Mercadeo/fichas/físico OasisCom transporte_impreso .pdf)
