@@ -5,7 +5,7 @@ permalink: /Operacion/hrm/nomina/nnomina/nnom
 editable: si
 ---
 
-# NÓMINA - NNOM
+# Nómina - NNOM
 
 
 Esta es la aplicación que almacena las nóminas que han sido generadas en la opción **NGEN – Genera Nómina**, al igual que muchos documentos en Oasis pueden tener tres estados (activo, procesado, anulado), ya sabemos que una nómina en estado activo puede volver a generarse cuantas veces sea necesario, al hacerlo, el sistema reemplazará la nómina existente.     Cuando la nómina se revisa y es aprobada, debe ser procesada; de esta manera garantizamos que no se pueda volver a generar ya que el sistema arroja un mensaje de control diciendo que la nómina ya fue procesada.  En el maestro también se encuentran los campos _Inicial_, _Final_, _Pago_ y _Total_(pago total de la nómina).  

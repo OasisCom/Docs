@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación, se muestra el proceso de generación de RIPS desde OASISCOM.
 
-Se registra el rango de fechas en donde se va a generar el RIP;  se trae el tercero; se asocia la referencia del contrato, que se puede buscar en la aplicación [Contratos de Venta - VCNT](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt), en el campo _**Contrato Cliente**_, en el campo _**Régmen**_, si se quiere un solo RIP para los dos regímenes, se selecciona _**Todos**_; si se quiere por cada uno, se selecciona _**Régimen**_;  de la misma forma funciona para el campo _**Tipo**_,  si es un RIP para todas las EPS, se selecciona _**Todas las EPS**_, si es un RIP por cada EPS, se selecciona _**Por EPS**_.  A continuación, se procesa el registro.  
+Se registra el rango de fechas en donde se va a generar el RIP;  se trae el tercero; se asocia la referencia del contrato, que se puede buscar en la aplicación [Contratos de Venta - VCNT](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt), en el campo _**Contrato Cliente**_, en el campo _**Régimen**_, si se quiere un solo RIP para los dos regímenes, se selecciona _**Todos**_; si se quiere por cada uno, se selecciona _**Régimen**_;  de la misma forma funciona para el campo _**Tipo**_,  si es un RIP para todas las EPS, se selecciona _**Todas las EPS**_, si es un RIP por cada EPS, se selecciona _**Por EPS**_.  A continuación, se procesa el registro.  
 
 ![](gpri.png)  
 

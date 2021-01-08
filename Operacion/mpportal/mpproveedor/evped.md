@@ -7,7 +7,7 @@ editable: si
 
 # EVPED - Colocar Pedidos
 
-La aplicación EVPED permite realizar los pedidos por parte de los clientes propios de la empresa.  
+La aplicación EVPED permite realizar los pedidos por parte de los clientes propios de la empresa.  Aquí aparece una pantalla en donde se puede seleccionar los productos/servicios que se requieren solicitar, se adicionan al carrito de compras y cuando ya está finalizado se envía para que Oasis identifique el pedido realizado y se realice todo el proceso para la venta y entrega del mismo.
 
 ![](evped.png)
 
