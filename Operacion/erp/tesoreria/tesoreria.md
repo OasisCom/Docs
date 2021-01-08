@@ -5,7 +5,7 @@ permalink: /Operacion/erp/tesoreria/
 editable: si
 ---
 
-# Tesoreria  
+# Tesorería  
 
 El módulo de tesorería permite las operaciones de flujo de efectivo y de optimización del manejo financiero del efectivo integrados a la operación y objetivos normales de la empresa.  
 
