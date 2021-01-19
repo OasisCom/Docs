@@ -9,14 +9,14 @@ editable: si
 
 Aplicación cuya funcionalidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno **JTUR**.  
 
-* [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)
-* [Realización de abonos](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#realización-de-abonos)
-** [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colílla)
-* [Cierre del turno](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#cierre-del-turno)
+* [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)   
+* [Realización de abonos](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#realización-de-abonos)  
+* [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colílla)  
+* [Cierre del turno](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#cierre-del-turno)  
 
 
 
-## [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)
+## [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)  
 
 ![](jtur1.png)  
 
