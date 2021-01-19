@@ -11,7 +11,7 @@ Aplicación cuya funcionalidad es resumir las transacciones realizadas en un det
 
 * [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)   
 * [Realización de abonos](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#realización-de-abonos)  
-* [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colílla)  
+* [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colilla)  
 * [Cierre del turno](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#cierre-del-turno)  
 
 
@@ -86,7 +86,7 @@ Luego de guardar el registro se debe procesar para que el sistema afecte la caja
 
 ![](jturr4.png)
 
-### [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colílla)
+### [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colilla)
 
 Si se requiere y el cliente solicita la entrega de un comprobante de pago sobre el abono realizado, en la parte superior del detalle se encuentra el icono de imprimir ![](jturr5.png)
 
