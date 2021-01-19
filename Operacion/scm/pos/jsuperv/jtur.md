@@ -9,6 +9,15 @@ editable: si
 
 Aplicación cuya funcionalidad es resumir las transacciones realizadas en un determinado lapso o turno; donde al procesar cada factura, devoluciones u otros documentos parametrizados, estos se insertarán automáticamente en el detalle del turno **JTUR**.  
 
+* [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)
+* [Realización de abonos](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#realización-de-abonos)
+** [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colílla)
+* [Cierre del turno](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#cierre-del-turno)
+
+
+
+## [Diligenciamiento JTUR](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#diligenciamiento-jtur)
+
 ![](jtur1.png)  
 
 **Documento:** parametrizado desde el **BDOC.**  
@@ -55,6 +64,37 @@ Para este escenario se agregó el campo **forma de pago** en el detalle del **JT
 
 ![](jtur5.png)  
 
+
+## [Realización de abonos](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#realización-de-abonos)
+
+El siguiente manual describe el procedimiento sobre la realización de recibos de caja en la aplicación JTUR – Turnos
+
+Para la realización de los recibos de caja primero se debe realizar la apertura del turno ya sea realizando una factura o creando el turno. 
+Para realizar un registro ya sea por pago sistecredito o por el sistema de apartado se debe adicionar un registro en el detalle del Turno dando clic en el botón ![](jturr.png)
+
+![](jturr1.png)
+
+El sistema mostrara un nuevo renglón en el detalle, donde se debe seleccionar el concepto dando doble clic en el campo para que este traiga automáticamente la cuenta. 
+
+![](jturr2.png)
+
+Cuando se selecciona el concepto el sistema inserta los campos correspondientes como la cuenta y naturaleza, el usuario debe diligenciar los campos de valor, el tercero al cual se realiza el anticipo, la forma de pago y por último si se requiere realizar una observación del documento realizado. El campo de tercero es importante ya que al momento de realizar la factura debemos diligenciar el tercero para que el sistema nos muestre el abono o anticipo que realizo el cliente. 
+
+![](jturr3.png)
+
+Luego de guardar el registro se debe procesar para que el sistema afecte la caja.
+
+![](jturr4.png)
+
+### [Impresión Colilla](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#impresión-colílla)
+
+Si se requiere y el cliente solicita la entrega de un comprobante de pago sobre el abono realizado, en la parte superior del detalle se encuentra el icono de imprimir ![](jturr5.png)
+
+![](jturr6.png)
+
+![](jturr7.png)
+
+## [Cierre del turno](http://docs.oasiscom.com/Operacion/scm/pos/jsuperv/jtur#cierre-del-turno)
 
 Para realizar el cierre del turno, buscamos el número de identificación del turno en la factura para colocarlo en el campo **_Número_** de esta aplicación **JTUR**.  En el detalle se pueden observar las facturas asociadas a este turno. Al lado del detalle, encontramos la pestaña **_Pago_**; en esta pestaña encontramos el total de las facturas realizadas por turno, discriminando la forma de pago de cada una y el valor. Una vez validada esta información con el cajero y verificado que físicamente tenga el mismo dinero en las diferentes modalidades de pago, se procesa el registro para realizar el cierre de caja. De esta manera, no podrán ingresar más facturas a este turno sino que se creará un turno diferente.  
 
