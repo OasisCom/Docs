@@ -9,7 +9,7 @@ editable: si
 
 
 
-# Saldo Pereriódico Auxiliar Centro Costo - KSPC
+# Saldo Periódico Auxiliar Centro Costo - KSPC
 
 
 Esta aplicación nos permite visualizar los saldos periódicamente de los centros de costo, se puede filtrar por año, cuenta, centro de costo.
