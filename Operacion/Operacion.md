@@ -45,6 +45,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 13.10 [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)  
 13.11 [Imprimir reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)  
 13.12 [Vista preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)  
+13.12_01 [Vista previa múltiple](http://docs.oasiscom.com/Operacion/#vista-previa-múltiple)  
 13.13 [Importar](http://docs.oasiscom.com/Operacion/#importar)  
 13.14 [Exportar](http://docs.oasiscom.com/Operacion/#exportar)  
 14. [Restricción exportación reporte](http://docs.oasiscom.com/Operacion/#restricci%C3%B3n-exportaci%C3%B3n-reporte)  
