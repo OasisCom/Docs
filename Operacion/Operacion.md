@@ -608,6 +608,14 @@ Este botón es parametrizable, donde se relaciona una lista desplegable con cada
 
 Y nos visualiza cada uno de los formatos que tenemos disponibles de acuerdo con la necesidad de cada empresa.  
 
+![](print2.png)  
+* La parametrización del botón desde el SPRO:
+En el campo Argumento se coloca el nombre del reporte y en el campo defecto se debe colocar js_SecondPreview igual que el query a ejecutar en el campo QUERYSQL y en el campo DataType debe ser Plantilla o Plantilla Export .  
+
+![](print3.png)  
+
+
+
 ### [Importar](http://docs.oasiscom.com/Operacion/#importar)
 
 Esta opción permite importar datos generados.  
