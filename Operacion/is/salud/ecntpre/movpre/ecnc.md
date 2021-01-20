@@ -42,7 +42,18 @@ Ingresados los datos, damos clic en el botón **Guardar.**
 
 * Desde el botón **MultiPreview** podemos descargar las Actas de Evaluaciones de Prestadores e imprimir si es el caso. Este botón es parametrizable desde el SPRO.  
 
-![](ecnc3.png)  
+![](ecnc3.png)
+
+De igual forma, también es posible descargar los anexos técnicos, con cada uno de sus formatos:  
+
+![](ecnc4.png)  
+Exportar a PDF se evidencia la correcta estructura del reporte.  
+
+![](ecnc5.png)  
+Al generar el anexo 2 se evidencia la correcta visualización del reporte.  
+
+![](ecnc6.png)  
+
 
 
 ## [Detalle de la aplicación ECNC – Contratos Prestación de Servicios](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecnc#detalle-de-la-aplicación-ecnc---contratos-prestación-de-servicios)
