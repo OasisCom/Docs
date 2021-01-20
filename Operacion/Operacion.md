@@ -600,6 +600,14 @@ Esta opción permite observar el informe de forma preliminar.
 
 ![](vistapreliminar1.png)
 
+### [Vista previa múltiple](http://docs.oasiscom.com/Operacion/#vista-previa-múltiple)
+
+Este botón es parametrizable, donde se relaciona una lista desplegable con cada una de las plantillas que se deseen imprimir. En este caso se realiza para la facturación en JFAC.  
+
+![](print1.png)
+
+Y nos visualiza cada uno de los formatos que tenemos disponibles de acuerdo con la necesidad de cada empresa.  
+
 ### [Importar](http://docs.oasiscom.com/Operacion/#importar)
 
 Esta opción permite importar datos generados.  
