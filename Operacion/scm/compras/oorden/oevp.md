@@ -27,4 +27,12 @@ Dividiendo este, en periodo de reevaluación, observaciones, productos negociado
 ![](imagenes/oevp3.png)  
 
 
-Para conocer el proceso de Parámetros del Proceso dirijase a la aplicación [OPEP](http://docs.oasiscom.com/Operacion/scm/compras/oproceso/opep) - Provider_Reevaluation.
+Para conocer el proceso de Parámetros del Proceso dirijase a la aplicación [OPEP](http://docs.oasiscom.com/Operacion/scm/compras/oproceso/opep) - Provider_Reevaluation.  
+
+**Importante:**  
+Se incluyen validaciones para que el puntaje que se encuentre en la pestaña de formulario concuerde con el detalle; que se tiene en la pestaña "detalle" para cada uno de los factores. Así mismo, que cuando se procese el documento el sistema valide que la sumatoria de los factores sea lo mismo que está en el encabezado en el campo puntaje.  
+
+Al intentar confirmar el movimiento con un dato en el factor de seguimiento a la orden de 10 en el formulario, pero recordando que tenía 6 en el detalle y el sistema genera la alerta:  
+
+![](oevp1.png)
+
