@@ -35,7 +35,7 @@ editable: si
 
 
 
-Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como entradas por compra, salidas por remisiones, salidas por consumo.  
+Esta aplicación permite la ejecución de los principales movimientos que afectan el inventario, tales como: entradas por compra, salidas por remisiones, salidas por consumo.  
 
 
 
@@ -70,7 +70,7 @@ En el detalle:
 **Nombre del Producto:** Nombre de producto.  
 **Cantidad:** Cantidad por producto.  
 **Costo unitario:** Costo por unidad de producto.  
-**Unidad Medida:** Hace referencia a la unidad de medida del producto ejemplo, nidad.  
+**Unidad Medida:** Hace referencia a la unidad de medida del producto ejemplo, centímetros cúbicos.  
 **Localización:** Identificación numérica de la localización de un producto.  
 **Característica:** Código de la característica que se puede atribuir al producto.  
 **Presentación:** Forma de presentación del producto.  
@@ -80,7 +80,7 @@ En el detalle:
 
 
 
-**Nota:** Existe una funcionabilidad en el detalle del **IMOV** con el boton: 'saldos de inventarios en línea'. 
+**Nota:** Existe una funcionabilidad en el detalle del **IMOV** con el botón: 'saldos de inventarios en línea'. 
 
 Se inserta el renglón nuevo en el detalle, con el producto y sus características propias, se guarda y al dar clic al botón:  
 
@@ -118,7 +118,7 @@ Detalle del **IMOV**.
 
 
 
-* Escenario dos: su saldo en línea permite realizar la transacción, se mostrara en el campo QuantityInventory -1  indicando que existen saldos en línea para este producto.  
+* Escenario dos: su saldo en línea permite realizar la transacción, se mostrará en el campo QuantityInventory -1  indicando que existen saldos en línea para este producto.  
 
 
 
@@ -198,7 +198,7 @@ En este caso se realiza una entrada a inventarios
 
 
 
-* **Documento:** En este caso se escoge la opción *EN* que hace referencia a Entradas de Inventario.
+* **Documento:** En este caso, se escoge la opción *EN* que hace referencia a Entradas de Inventario.
 
 
 
@@ -218,7 +218,7 @@ En este caso se realiza una entrada a inventarios
 
 
 
-Para realizar el detalle, se adiciona un nuevo registro, en el campo producto, se selecciona el producto el cual se requiere realizar la entrada al inventario, ya sea con el ZOOM o diligenciando el consecutivo del producto. La cantidad del producto y costo unitario es el valor por unidad del producto seleccionado, ![](guardar.png) se guarda el detalle.  
+Para realizar el detalle, se adiciona un nuevo registro, en el campo producto, se selecciona el producto del cual se requiere realizar la entrada al inventario, ya sea con el ZOOM o diligenciando el consecutivo del producto. La cantidad del producto y costo unitario es el valor por unidad del producto seleccionado, ![](guardar.png) se guarda el detalle.  
 
 
 
@@ -230,7 +230,7 @@ Antes de procesar el registro se debe ingresar a la aplicación **ICKU** para ve
 
 
 
-Para realizar esta verificación se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligencio en el registro. 
+Para realizar esta verificación, se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligenció en el registro. 
 
 
 
@@ -238,7 +238,7 @@ Para realizar esta verificación se debe filtrar el producto en este campo, con 
 
 
 
-Filtrando el registro nos dirigimos al campo entradas, para este caso este producto tiene 200 entradas a inventario. En el detalle se puede evidenciar los movimientos de inventario realizados con este producto como especificaciones como el tercero, la fecha de movimiento, cantidades y también el documento, para verificar si es una entrada o una salida. 
+Filtrando el registro, nos dirigimos al campo entradas, para este caso, este producto tiene 200 entradas a inventario. En el detalle se puede evidenciar los movimientos de inventario realizados con este producto como especificaciones como el tercero, la fecha de movimiento, cantidades y también el documento, para verificar si es una entrada o una salida. 
 
 
 
@@ -300,7 +300,7 @@ Antes de procesar el registro se debe ingresar a la aplicación **ICKU** para ve
 
 
 
-Para realizar esta verificación se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligencio en el registro. 
+Para realizar esta verificación, se debe filtrar el producto en este campo, con el consecutivo y la ubicación que se diligenció en el registro. 
 
 
 
@@ -308,7 +308,7 @@ Para realizar esta verificación se debe filtrar el producto en este campo, con 
 
 
 
-Filtrando el registro nos dirigimos al campo entradas, para este caso este producto tiene 2 salidas a inventario. En el detalle se puede evidenciar los movimientos de inventario realizados con este producto como especificaciones como el tercero, la fecha de movimiento, cantidades y también el documento, para verificar si es una entrada o una salida. 
+Filtrando el registro nos dirigimos al campo entradas, para este caso este producto tiene 2 salidas a inventario. En el detalle se pueden evidenciar los movimientos de inventario realizados con este producto con especificaciones como el tercero, la fecha de movimiento, cantidades y también el documento, para verificar si es una entrada o una salida. 
 
 
 
@@ -329,7 +329,7 @@ Al momento de procesar el documento, automáticamente se ve afectado el campo sa
 
 
 
-Una vez validada la información del pedido se procesa el documento y se realiza un traslado de los insumos a la bodega requerida, para realizar este movimiento se debe ingresar a la aplicación _IMOV – movimientos de inventarios_.  
+Una vez validada la información del pedido, se procesa el documento y se realiza un traslado de los insumos a la bodega requerida, para realizar este movimiento se debe ingresar a la aplicación _IMOV – movimientos de inventarios_.  
 
 
 
@@ -360,7 +360,7 @@ Se da clic en el botón aceptar y el sistema nos arroja el 2 en el campo número
 
 
 
-Al guardar el registro el sistema nos arroja automáticamente el detalle de acuerdo al pedido generado anteriormente, cabe resaltar que para que el sistema realice esto es necesario diligenciar los campos de color naranja de la imagen anterior para identificar a que pedido está asociado.  
+Al guardar el registro el sistema nos arroja automáticamente el detalle de acuerdo al pedido generado anteriormente, cabe resaltar que para que el sistema realice esto es necesario diligenciar los campos de color naranja de la imagen anterior para identificar a qué pedido está asociado.  
 
 
 
@@ -398,7 +398,7 @@ En la aplicación se generó un documento _EN - Entradas al inventario_ por conc
 ![](imovv.png)
 
 
-Validada la información procesamos los documentos dando clic en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas, esto permitirá que el inventario sea ajustado correctamente.  
+Validada la información, procesamos los documentos dando clic en el botón _Procesar_ ![](procesar.png) ubicado en la barra de herramientas; esto permitirá que el inventario sea ajustado correctamente.  
 
 
 
@@ -416,7 +416,7 @@ Para verificar que el inventario haya sido ajustado correctamente ingresaremos a
 
 
 
-Esta funcionalidad permite generar el ajuste de costo diferencial de la exportación, donde del valor total se debe descontar el valor de la materia prima y ese será el valor a ajustar en inventario.  
+Esta funcionalidad permite generar el ajuste de costo diferencial de la exportación, donde del valor total se debe descontar del valor de la materia prima y ese será el valor a ajustar en inventario.  
 
 
 
