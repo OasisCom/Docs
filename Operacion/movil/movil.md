@@ -2182,7 +2182,9 @@ En la pestaña producto, realiza el scanneo:
 
 
 
+La aplicación **MITRA** tiene la posibilidad en el documento: PI (picking) como en PA (packing; de hacer una lectura de producto manual (o por lectura del código EAN escaneando el código del producto).  
 
+![](mitra9_01.png)  
 
 
 La opción MITRA, tiene la funcionalidad para el escenario donde los pedido recolectados (picking, packing) se almacenen según la trazabilidad, cuando se cierre la aplicación, guardando la información de forma local.   
