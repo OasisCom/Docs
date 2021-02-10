@@ -235,6 +235,10 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 ![](jfac13.png)  
 
+## Integración con Balanzas.  
+
+Se realiza la integración con 4 balanzas (marca: torrey, modelo pcs-35), con el objetivo: al pesar el sistema haga la lectura en el campo cantidad y registre el resultado de la unidad de medida peso, ejemplo en gramos y lo aplique en el campo **cantidad**, esto aplica tanto para el **IMOV** como para **JFAC**.  
+
 
 
 * Existe una tercera pestaña denominada **PAGO.**  
