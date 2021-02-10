@@ -445,11 +445,12 @@ El sistema genera el archivo en *XML.*
 
 Este archivo es el que se debe cargar en la plataforma Muisca, aunque a la fecha la Dirección de Impuestos y Aduanas Nacionales **DIAN**, no ha habilitado la opcion de cargar este documento en la plataforma Muisca y tampoco ha emitido un prevalidador. 
 
-## [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#Hipertensos)
+## [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#Hipertensos)  
 
 * HIPERTENSOS.  
 
 Se crean los tipos para el motor de Oracle. Se crea la primera versión de la función para corroborar la correcta manipulación de los tipos creados, abordando la extracción de la primera parte de la matriz con la información básica del afiliado. Se termina la parametrización del BARC 706 que consumira la función f_HypertensiveData, y con la cual el usuario podrá descargar la información en archivo de Excel.  
 
-![](barc_hipertensos.png)
-barc_hipertensos
+![](barc_hipertensos.png)  
+
+Interfaz de descarga.  
