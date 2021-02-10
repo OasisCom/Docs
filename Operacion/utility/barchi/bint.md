@@ -454,3 +454,12 @@ Se crean los tipos para el motor de Oracle. Se crea la primera versión de la fu
 ![](barc_hipertensos.png)  
 
 Interfaz de descarga.  
+
+![](bint_hipertensos.png)  
+bint_hipertensos
+
+
+
+
+
+
