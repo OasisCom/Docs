@@ -22,6 +22,20 @@ values ('tsol', 'B', 1, 'p_MovementTransfer','Generar Movimientos Transferencia'
 insert into ProgramDetail (ProgramId, Type, "RowId", Argument, Name,Enable,Focus,Model,[View])  
 values ('tsol', 'R', 1, 'DocumentId','',0,'','','');  
 
+insert into ProgramDetail (ProgramId, Type, "RowId", Argument, Name,Enable,Focus,Model,[View])  
+values ('tsol', 'R', 2, 'NumberId','',0,'','','');  
+
+insert into ProgramDetail (ProgramId, Type, "RowId", Argument, Name,Enable,Focus,Model,[View])  
+values ('tsol', 'R', 3, 'LocationId','',0,'','','');  
+
+insert into ProgramDetail (ProgramId, Type, "RowId", Argument, Name,Enable,Focus,Model,[View])  
+values ('tsol', 'T', 1, '','Detail',1,'M','MovementDetail','MovementDetailTreasuryRequests');  
+
+
+
+
+
+
 
 
 
