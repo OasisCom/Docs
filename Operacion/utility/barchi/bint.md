@@ -29,6 +29,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
 13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 14. [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
+15. [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#hipertensos)
 
 * Mejora en los tiempos de respuesta.  
 Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
@@ -443,3 +444,22 @@ El sistema genera el archivo en *XML.*
 ![](sin iva 6.png)
 
 Este archivo es el que se debe cargar en la plataforma Muisca, aunque a la fecha la Dirección de Impuestos y Aduanas Nacionales **DIAN**, no ha habilitado la opcion de cargar este documento en la plataforma Muisca y tampoco ha emitido un prevalidador. 
+
+## [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#hipertensos)  
+
+* HIPERTENSOS.  
+
+Se crean los tipos para el motor de Oracle. Se crea la primera versión de la función para corroborar la correcta manipulación de los tipos creados, abordando la extracción de la primera parte de la matriz con la información básica del afiliado. Se termina la parametrización del BARC 706 que consumira la función f_HypertensiveData, y con la cual el usuario podrá descargar la información en archivo de Excel.  
+
+![](barc_hipertensos.png)  
+
+Interfaz de descarga.  
+
+![](bint_hipertensos.png)  
+bint_hipertensos
+
+
+
+
+
+
