@@ -9,7 +9,7 @@ editable: si
 
 Opción **TSOL**, similar TGTR compuesta por maestro y detalle. En el maestro esta solicitado el valor por agencia y en el detalle los valores aprobados a las cajas destino.  
 
-Para el correcto funcionamiento de la funcionalidad se debe tener presente las siguientes configuraciones básicas previo a realizar utilización de la opción **[TSOL]:**  
+* Para el correcto funcionamiento de la funcionalidad se debe tener presente las siguientes configuraciones básicas previo a realizar utilización de la opción **[TSOL]:**  
 
 1.	Hacer configuración del programa [TSOL] en [SPRO], esta información esta incluida en el Script de actualización, sin embargo, se adjunta en este documento.  
 
@@ -78,6 +78,10 @@ Con la configuración básica para el correcto funcionamiento de la opción [TSO
 ![](tsol3.png)  
 
 Al diligenciar el detalle se debe ejecutar el botón configurado en el maestro del [TSOL] el cual generara las transferencias de forma automática en **[TMOV] (CE x TR)**.  Se creará un **[TMOV]** por cada registro del detalle del **[TSOL]** y de esta forma culmina el proceso.  
+
+
+
+---
 
 
 
