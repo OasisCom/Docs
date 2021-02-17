@@ -77,7 +77,7 @@ Con la configuración básica para el correcto funcionamiento de la opción [TSO
 
 ![](tsol3.png)  
 
-Al diligenciar el detalle se debe ejecutar el botón configurado en el maestro del [TSOL] el cual generara las transferencias de forma automática en **[TMOV] (CE x TR)**.  Se creará un **[TMOV]** por cada registro del detalle del **[TSOL]** y de esta forma culmina el proceso.  
+* Al diligenciar el detalle se debe ejecutar el botón configurado en el maestro del **[TSOL]** el cual generara las transferencias de forma automática en **[TMOV] (CE x TR)**.  Se creará un **[TMOV]** por cada registro del detalle del **[TSOL]** y de esta forma culmina el proceso.  
 
 
 
