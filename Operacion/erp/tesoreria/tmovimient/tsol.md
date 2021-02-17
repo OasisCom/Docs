@@ -69,12 +69,17 @@ Con la configuración básica para el correcto funcionamiento de la opción [TSO
 ![](tsol1.png)  
 
 	b.	Guardar información y ya quedara disponible la solicitud para ser aprobada  
-
+2 .	Para el perfil aprobador deberá editar la solicitud e ingresar el valor aprobado a transferir.  
 ![](tsol2.png)  
 
-2 .	Para el perfil aprobador deberá editar la solicitud e ingresar el valor aprobado a transferir.  
+
+3 .	Para el perfil que genera las transferencias debe diligenciar el detalle indicando de cual caja van a transferir los fondos y a que caja del punto se realizara la transferencia.  Importante utilizar los zoom de ayuda ya que en caja destino solo se permitirán cajas que pertenezcan al punto que está solicitando.  
 
 ![](tsol3.png)  
+
+Al diligenciar el detalle se debe ejecutar el botón configurado en el maestro del [TSOL] el cual generara las transferencias de forma automática en **[TMOV] (CE x TR)**.  Se creará un **[TMOV]** por cada registro del detalle del **[TSOL]** y de esta forma culmina el proceso.  
+
+
 
 
 
