@@ -56,7 +56,25 @@ values ('zcash3', 'R', 2, 'SourceId','',1,'D','','');
 
 ![](bmot1.png)  
 
+5 .	Crear consecutivo correspondiente al documento ST o STE  
 
+![](bcns1.png)  
+
+Con la configuración básica para el correcto funcionamiento de la opción [TSOL], nos permitimos indicar la forma de operar correctamente dicha opción:  
+
+1 .	Para el perfil solicitante debe tener presenta la siguiente configuración a nivel de rol y de operación:  
+
+	a.	Este perfil debe tener únicamente permisos al maestro del [TSOL].  Importante diligenciar en ubicación el punto de compra o agencia solicitante (estaría ubicación de acceso por defecto), en tercero quien solicita y en valor el valor a solicitar. También pueden ocultar los campos que requieran según este perfil.  
+    
+![](tsol1.png)  
+
+	b.	Guardar información y ya quedara disponible la solicitud para ser aprobada  
+
+![](tsol2.png)  
+
+2 .	Para el perfil aprobador deberá editar la solicitud e ingresar el valor aprobado a transferir.  
+
+![](tsol3.png)  
 
 
 
