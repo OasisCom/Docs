@@ -7,12 +7,13 @@ editable: si
 
 ---
 
-# Ganancias Y Pérdidas Por Negocio Padre - KRGN1
+# Ganancias Y Pérdidas Por Negocio Padre - KRGN1  
 
 Permite realizar el informe de Ganancias y Pérdidas por Negocio **Padre**; con la posibilidad de filtrarlo por un número de cuenta en específico, o realizarlo de manera general.  
 
 
-![](krgn1_01.png)
+![](krgn1_01.png)  
+
 **Padre:** Cuenta contable mayor o padre.  
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  
