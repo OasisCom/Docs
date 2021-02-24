@@ -17,6 +17,8 @@ Permite realizar el informe de Ganancias y Pérdidas por Negocio Padre; con la p
 **Periodo:** Mes que se desea consultar.  
 **Año:** Año que se desea consultar.  
 **Cuenta:** Número de cuenta por la que se desee consultar, parametrizada en el **BCUE**.   
+**Nivel:** parametrizada en el **BCUE**.  
+**Libro:** parametrizacion realizada en el **KLIB**.  
 
 
 
