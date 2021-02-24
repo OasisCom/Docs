@@ -1,13 +1,13 @@
 ---
 
 layout: default
-title: Ganancias Y Perdidas Por Negocio
-permalink: /Operacion/erp/contabilidad/kreporte/krgn
+title: Ganancias Y Perdidas Por Negocio Padre
+permalink: /Operacion/erp/contabilidad/kreporte/krgn1
 editable: si
 
 ---
 
-# Ganancias Y Pérdidas Por Negocio - KRGN
+# Ganancias Y Pérdidas Por Negocio Padre - KRGN1
 
 Permite realizar el informe de Ganancias y Pérdidas por Negocio **Padre**; con la posibilidad de filtrarlo por un número de cuenta en específico, o realizarlo de manera general.  
 
