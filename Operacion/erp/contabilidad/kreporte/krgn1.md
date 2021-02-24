@@ -9,7 +9,7 @@ editable: si
 
 # Ganancias Y Pérdidas Por Negocio - KRGN
 
-Permite realizar el informe de Ganancias y Pérdidas por Negocio Padre; con la posibilidad de filtrarlo por un número de cuenta en específico, o realizarlo de manera general.  
+Permite realizar el informe de Ganancias y Pérdidas por Negocio **Padre**; con la posibilidad de filtrarlo por un número de cuenta en específico, o realizarlo de manera general.  
 
 
 ![](krgn1_01.png)
