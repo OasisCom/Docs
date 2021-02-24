@@ -456,7 +456,12 @@ Se crean los tipos para el motor de Oracle. Se crea la primera versión de la fu
 Interfaz de descarga.  
 
 ![](bint_hipertensos.png)  
-bint_hipertensos
+bint_hipertensos  
+
+Dada la estructura del archivo Matriz de hipertensos, se realizó ajuste en la matriz para que solo salga un renglón por afiliado y que, en cada uno de los campos de la matriz, se lleve la información del último registro de información, que se tenga en el sistema (ajuste de estructura).  
+Al realizar la descarga del BINT 706 y se identifica que en comparación con la descarga anterior, resume en un solo registro la información del afiliado, y no en registros separados.  
+
+
 
 
 
