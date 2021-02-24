@@ -16,7 +16,9 @@ Parámetros de entrada:
 **Cliente, periodo, año, recibo.**  
 
 
-![](prrf1.png)
+![](prrf1.png)  
+
+
 
 
 
