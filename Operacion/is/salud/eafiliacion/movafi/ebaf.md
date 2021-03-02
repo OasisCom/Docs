@@ -33,4 +33,11 @@ En el detalle de la aplicación **EBAF**, la pestaña **Empleadores** permite co
 
 ![](ebaf2.png)  
 
-En la pestaña **Pagos** en el detalle del **EBAF**, se reflejan los desembolsos realizados de la entidad aportante al afiliado.  
+* En la pestaña **"Pagos"** en el detalle del **EBAF**, se reflejan los desembolsos realizados de la entidad aportante al afiliado.  
+
+	![](pago.png)  
+* Pestaña **Prestaciones** EBAF (Afiliados). Se realiza la primera fase de la nueva pestaña del EBAF, esta pestaña se llama **Prestaciones** y utiliza datos de la opción del ELIP **Liquidación de prestaciones**.  
+
+	![](presta1.png)  
+
+
