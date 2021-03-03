@@ -10,10 +10,10 @@ editable: si
 Reporte del módulo de presupuesto **QRAM3R**.  
 Informe Mensual de Ejecución del Presupuesto de Gastos Detallado - Apropiación de la Vigencia.  
 Parámetros de entrada:   
-Periodo y año.   
+**Periodo y Año**.   
 
 
-![](QRRMOI_01.png) 
+![](QRAM3R_01.png)  
 
 
 
