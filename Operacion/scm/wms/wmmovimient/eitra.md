@@ -291,6 +291,11 @@ Al igual que en la sección de Producto podremos configurar la lista desplegable
 **Defecto:** Esta lista se carga del programa **(BFAL)**, Carga solo registros activos, imputables y Tipo T.
 **Gravedad:** Esta lista al igual que para el campo lote  se carga de la opción  características **(BCRC)**.  
 
+- Los campos: Lote, **Temperatura**, Vencimiento, Localización se reflejaran en la vista previa del ITRA, al procesar el documento.  
+![](eitra_7_01.png)  
+para imprimir:
+![](eitra_7_02.png)  
+
 ## [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
 
 Con el fin de consultar los registros creados por concepto recepción en la aplicación Eitra se creó la aplicación Acta Técnica **(OACT)**, la cual está diseñada tanto para consultar información de cada una de las actas que hayamos creado como también nos va a permitir crear novedades de tipo administrativo en las pestañas del detalle del registro del maestro.  
