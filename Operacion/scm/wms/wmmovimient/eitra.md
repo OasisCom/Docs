@@ -13,7 +13,7 @@ La aplicación **EITRA** permite realizar movimientos logísticos.
 * [Recoleccion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#recoleccion)
 * [Empaque](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#empaque)  
 * [Despacho](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#despacho)
-* [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
+* [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-técnica-recepcion)
 * [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
 
 
@@ -265,7 +265,7 @@ Ahora se regresa al _Maestro_ y se da click en confirmar.  Aparece el aviso de t
 
 
 
-## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-recepcion)
+## [Acta Técnica Recepcion](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta_técnica_recepcion)
 
 Lo primero que debemos hacer es configurar la variable en la aplicación **WVAR**, en el campo columna *Formula* debemos bien sea **(1)** para activo o **(0)** para desactivar la funcionalidad. 
 ![](imagenes/wvar.png)  
