@@ -293,7 +293,7 @@ Al igual que en la sección de Producto podremos configurar la lista desplegable
 
 - Los campos: Lote, **Temperatura**, Vencimiento, Localización se reflejaran en la vista previa del ITRA, al procesar el documento.  
 ![](eitra_7_01.png)  
-para imprimir:
+Para imprimir **ITRA**:
 ![](eitra_7_02.png)  
 
 ## [Acta Técnica OACT](http://docs.oasiscom.com/Operacion/scm/wms/wmmovimient/eitra#acta-tecnica-oact)
