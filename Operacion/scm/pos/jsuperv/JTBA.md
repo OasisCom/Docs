@@ -27,7 +27,7 @@ El detalle se diligencia automáticamente con la configuración pertinente en el
 
 ![](jtba4.png)  
 
-Al confirmar la opción JTBA se creará un turno **(JTUR)**, para ese día y esa caja con el valor indicado de la base de caja.    
+Al confirmar la opción **JTBA** se creará un turno **(JTUR)**, para ese día y esa caja con el valor indicado de la base de caja.    
 
 ![](jtba5.png)  
 
