@@ -74,7 +74,7 @@ Se ajusta el proceso de **Sincronización por Prescripción**; para permitir sel
 
 La parte visual se modifica, para permitir seleccionar las etapas a sincronizar:  
 
-![](epre5_07_.png)  
+![](epre5_07.png)  
 
 # Consumo del Servicio **Suministro**.  
 
