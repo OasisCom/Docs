@@ -19,3 +19,5 @@ Adicional se debe tener una base de caja inicial **BUBI**.
 
 ![](jtba2.png)  
 
+En el momento de confirmar un documento, si no existe un inicio de caja saltara un mensaje: de control indicando que se debe iniciar el turno con la **base de caja**,  esta operación se realiza por medio de la opción **JTBA**.  
+
