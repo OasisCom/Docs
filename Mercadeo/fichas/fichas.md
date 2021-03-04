@@ -40,12 +40,16 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >>#### [OasisCom Combustible](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Combustible.pdf	)		
 >>#### [OasisCom Transporte](http://docs.oasiscom.com/Mercadeo/fichas/físico OasisCom transporte_impreso .pdf)
 
-
+>## OasisCom E-services
+>>#### [Nómina Electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Nomina-electronica.pdf)
 
 
 
 ---
 >#### [OasisCom Productos Complementarios](http://docs.oasiscom.com/Mercadeo/fichas/físico soluciones avanzadas_impreso.pdf)
+
+
+---
 
 
 ---
