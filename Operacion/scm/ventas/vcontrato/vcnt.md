@@ -127,6 +127,14 @@ Adicional los contratos deberán estar marcado que su incremento de renovación 
 
 ![](vcnt19.png)   
 
+Para asignar el porcentaje individual y marcar que contratos se van a renovar, se creó la opción **VCRD**, es similar al VCRC.  Esta opción listara el detalle de todos los contratos de venta por cada uno de sus servicios, los campos a diligenciar son renueva para indicar cuales servicios se renovarán el IPC donde se registra porcentaje de incremento.  
+
+![](vcnt20.png)   
+
+Diligenciada la información pertinente se procede a generar la renovación con el botón configurado de renovación.  Este botón generara documento de ajuste a contratos que actualizaran los precios pertinentes en el contrato por servicio.  
+
+![](vcnt21.png)   
+
 
 
 
