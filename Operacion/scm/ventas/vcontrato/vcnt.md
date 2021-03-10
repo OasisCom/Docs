@@ -119,6 +119,23 @@ En este momento, ya queda listo el contrato para iniciar el proceso de Dispensac
 
 ## [Contratos de Venta - Diferente IPC por Contrato](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---diferente_ipc_por_contrato)  
 
+Para ingresar un IPC porcada servicio, se debe configurar la variable de empresa RenewDetailIPC, de esta forma tomara los datos ingresados en el detalle por servicio.  
+
+![](vcnt18.png)   
+
+Adicional los contratos deberán estar marcado que su incremento de renovación es por IPC, recomendamos también que las condiciones sean tomadas por detalle del contrato.  
+
+![](vcnt19.png)   
+
+
+
+
+
+
+
+
+
+
 
 
 
