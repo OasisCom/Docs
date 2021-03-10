@@ -251,7 +251,7 @@ Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.
 
 Personalización, por empresa los reportes – customizables. Se modifica la generación de los reportes para permitir el uso del **SCAM (Campos)**, se valida la ejecución de los reportes y la exportación.  
 
-# Parametrizacion:  
+## Parametrizacion:  
 
 1) En la opción SCAM se puede parametrizar el reporte que se debe mostrar en la opción seleccionada. Se debe parametrizar con el campo CompanyId y el nombre del reporte en el Campo "Template".  
 
