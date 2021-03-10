@@ -255,7 +255,11 @@ Personalización, por empresa los reportes – customizables. Se modifica la gen
 
 1) En la opción SCAM se puede parametrizar el reporte que se debe mostrar en la opción seleccionada. Se debe parametrizar con el campo CompanyId y el nombre del reporte en el Campo "Template".  
 
+![](scam34_01.png)  
 
+2) Al ingresar al reporte parametrizado se podrá ver el nuevo reporte.  
+
+![](scam34_.png)  
 
 
 ## [Templates para reportes](http://docs.oasiscom.com/Operacion/system/sconfig/scam#templates-para-reportes)
