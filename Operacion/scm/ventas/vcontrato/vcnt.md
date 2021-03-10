@@ -117,7 +117,7 @@ Con estos pasos, se termina el registro del contrato y se puede procesar.
 
 En este momento, ya queda listo el contrato para iniciar el proceso de Dispensación de medicamentos.  
 
-## [Contratos de Venta - Diferente IPC por Contrato](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcntcontratos_de_venta---diferente_ipc_por_contrato)  
+## [Contratos de Venta - Diferente IPC por contrato](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos_de_venta_-_diferente_ipc_por_contrato)  
 
 Para ingresar un IPC porcada servicio, se debe configurar la variable de empresa RenewDetailIPC, de esta forma tomara los datos ingresados en el detalle por servicio.  
 
