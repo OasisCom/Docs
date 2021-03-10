@@ -115,7 +115,9 @@ Con estos pasos, se termina el registro del contrato y se puede procesar.
 
 ![](vcnt17.png)   
 
-En este momento, ya queda listo el contrato para iniciar el proceso de Dispensación de medicamentos. 
+En este momento, ya queda listo el contrato para iniciar el proceso de Dispensación de medicamentos.  
+
+## [Contratos de Venta - Diferente IPC por Contrato](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---diferente_ipc_por_contrato)  
 
 
 
