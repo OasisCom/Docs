@@ -247,7 +247,7 @@ Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.
 
 ![](scam34.png)
 
-## [Personalización de Reportes por Empresa](http://docs.oasiscom.com/Operacion/system/sconfig/scam#personalización_de_Reportes_por_Empresa)
+[Personalización de reportes por empresa](http://docs.oasiscom.com/Operacion/system/sconfig/scam#personalización_de_reportes_por_empresa)
 
 Personalización, por empresa los reportes – customizables. Se modifica la generación de los reportes para permitir el uso del **SCAM (Campos)**, se valida la ejecución de los reportes y la exportación.  
 
@@ -327,7 +327,7 @@ Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido
 ![](scam53.png)   
 
 
-##Parametrización botón tipo consulta genérica desde SCAM.  
+## Parametrización botón tipo consulta genérica desde SCAM.  
 
 Se realiza mejora sobre el botón tipo consulta genérica  
 ARGUMENTO = js_InformationControl  
