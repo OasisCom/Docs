@@ -247,7 +247,7 @@ Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.
 
 ![](scam34.png)
 
-## [Personalización de reportes por empresa](http://docs.oasiscom.com/Operacion/system/sconfig/scam#personalización_de_reportes_por_empresa)
+## [Personalización de reportes por empresa](http://docs.oasiscom.com/Operacion/system/sconfig/scam#personalización-de-reportes-por-empresa)
 
 Personalización, por empresa los reportes – customizables. Se modifica la generación de los reportes para permitir el uso del **SCAM (Campos)**, se valida la ejecución de los reportes y la exportación.  
 
