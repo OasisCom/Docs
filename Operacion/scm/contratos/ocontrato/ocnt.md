@@ -32,6 +32,7 @@ En la aplicación OCNT se realiza el registro, control y/o consulta de los contr
 * Se crea la Pestaña **Novedades:**  
 
 	Los campos de: documento, número y ubicación de la pestaña novedades del **OCNT (Contratos de Compra)**, allí se 		muestra la información que se registra en el **BNOV (Básico de Novedades)**.  
+
     ![](ocnt4.png)  
     
 
