@@ -20,7 +20,10 @@ editable: si
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
 
->##### [WEBINAR: Inteligencia Artificial aplicada a Sectores Productivos](http://docs.oasiscom.com/Mercadeo//Webinars/Inteligencia-Artificial-aplicada-a-sectores-productivos.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>##### [WEBINAR: Nómina Electrónica](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-webinar-nomina-electronica.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+
+>##### [WEBINAR: Inteligencia Artificial aplicada a Sectores Productivos](http://docs.oasiscom.com/Mercadeo//Webinars/Inteligencia-Artificial-aplicada-a-sectores-productivos.pdf)
 
 
 >##### [WEBINAR: Proceso de Importaciones en OasisCom](http://docs.oasiscom.com/Mercadeo//Webinars/webinar-Importaciones OasisCom.pdf)
