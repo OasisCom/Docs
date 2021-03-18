@@ -267,9 +267,7 @@ Finalmente, se da clic en el botón *Guardar* y el sistema arrojará un mensaje 
 
 ![](bint2.png)  
 
-* Pts. mediana y alta complejidad. Se crean las vistas de (inventariaos de peticiones, quejas y reclamos) y las de respuesta (contestación de peticiones, quejas y reclamos). Se crea también el BINT 602 que genera el archivo plano.  
 
-![](bint3.png) 
 
 
 
