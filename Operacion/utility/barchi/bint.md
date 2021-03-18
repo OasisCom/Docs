@@ -30,7 +30,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
 14. [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
 15. [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#hipertensos)
-16. [**Archivos Tipo PT (descarga)**](http://docs.oasiscom.com/Operacion/utility/barchi/archivos-tipo-pt.pdf)
+16. [**Archivos Tipo PT (descarga)**](http://docs.oasiscom.com/Operacion/utility/barchi/bint/archivos-tipo-pt.pdf)
 
 * Mejora en los tiempos de respuesta.  
 Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
