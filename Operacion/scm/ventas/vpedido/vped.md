@@ -281,6 +281,12 @@ En el BTER se busca en el Tab de Seguridad sobre el campo Nivel de Autorizacion 
 * Rangos o montos.  
 En el **BRAN** se busca por el documento, Concepto y el campo alcance según el nivel de autorización y según el campo mínimo se valida si el total del pedido es mayor al valor del campo mínimo para procesar correctamente.  
 
+![](bran1.png)  
+
+* Según la parametrización realizada solo se puede procesar el pedido VPED,
+ Si el monto supero los 200.000, caso contrario el sistema devuelve un mensaje de control indicando los valores del documento y el rango parametrizado en BRAN (Rango)   
+ 
+ ![](bran2.png)  
 
 
 
