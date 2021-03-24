@@ -33,13 +33,13 @@ Se modifican las opciones **EPES y EPES**, de la siguiente manera:
 
 ![](eepes4.png)  
 
-## EPES
+## EPES  
 * Campos nuevos EPES  tab Valoración inicial.  
 
 ![](eepes5.png)  
 
-* •	Examen nuevo EPES - tab Exámenes
+* Examen nuevo EPES - tab Exámenes.  
 
-
+![](eepes6.png)  
 
 
