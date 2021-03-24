@@ -18,10 +18,9 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
 >+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
 >+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
->+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)
+>+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 
-
-
+>+ [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)   
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
@@ -263,5 +262,19 @@ Se puede confirmar que luego de procesado el pedido, se había actualizado el ca
 
 ![](vped71.png)  
 
-![](vped72.png) 
+![](vped72.png)  
+
+
+## [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)
+
+Proceso correcto, se debe tener la siguiente parametrización:  
+Desde la opción BCON (conceptos) se debe buscar o agregar el concepto del pedido, para este caso utilizaremos el CA (Catalogo).  
+Importante, en el  BCON se debe tener parametrizado en el campo: **Clase** como **Monto Mínimo**  
+
+![](bcon1.png)  
+
+
+
+
+
 
