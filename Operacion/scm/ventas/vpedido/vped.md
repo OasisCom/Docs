@@ -273,10 +273,14 @@ Importante, en el  BCON se debe tener parametrizado en el campo: **Clase** como 
 
 ![](bcon1.png)  
 
-Parametrización del tercero del pedido:  
+* Parametrización del tercero del pedido:  
 En el BTER se busca en el Tab de Seguridad sobre el campo Nivel de Autorizacion que para este caso es el numero cero (0).  
 
 ![](bter1.png)  
+
+* Rangos o montos.  
+En el **BRAN** se busca por el documento, Concepto y el campo alcance según el nivel de autorización y según el campo mínimo se valida si el total del pedido es mayor al valor del campo mínimo para procesar correctamente.  
+
 
 
 
