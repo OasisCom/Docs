@@ -42,4 +42,14 @@ Se modifican las opciones **EPES y EPES**, de la siguiente manera:
 
 ![](eepes6.png)  
 
+* 	Campos nuevos - EPES tab Parto.  
+
+![](eepes7.png)  
+
+
+
+
+
+
+
 
