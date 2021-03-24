@@ -21,6 +21,9 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 
 >+ [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)   
+
+
+
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
@@ -287,6 +290,10 @@ En el **BRAN** se busca por el documento, Concepto y el campo alcance según el 
  Si el monto supero los 200.000, caso contrario el sistema devuelve un mensaje de control indicando los valores del documento y el rango parametrizado en BRAN (Rango)   
  
  ![](bran2.png)  
+ 
+  ![](vped35_01.png)  
+
+**De esta forma se controla para: "no se recibir pedidos con rangos inferiores a xx"  cantidad de monto o rango.**
 
 
 
