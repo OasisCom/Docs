@@ -19,8 +19,9 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
-
->##### [WEBINAR: Nómina Electrónica](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-webinar-nomina-electronica.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>>### Memorias Webinar Nómina Electrónica
+>##### [Presentación: Webinar Nómina Electrónica](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-webinar-nomina-electronica.pdf)
+>##### [Preguntas: Webinar Nómina Electrónica](http://docs.oasiscom.com/Mercadeo//Webinars/Preguntas-webinar-nomina-electronica.pdf)
 
 
 >##### [WEBINAR: Inteligencia Artificial aplicada a Sectores Productivos](http://docs.oasiscom.com/Mercadeo//Webinars/Inteligencia-Artificial-aplicada-a-sectores-productivos.pdf)
