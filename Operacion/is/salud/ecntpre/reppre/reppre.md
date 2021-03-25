@@ -12,4 +12,5 @@ En esta ventana se pueden visualizar e imprimir los reportes de Servicios por pr
 La aplicación que se usa es la siguiente:  
 
 * [**ERSP**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/reppre/ersp) - Servicios por prestador  
+* [**ERCC**](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/reppre/ercc) - Liquidación de Contratos   
 
