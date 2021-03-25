@@ -286,7 +286,7 @@ En el **BRAN** se busca por el documento, Concepto y el campo alcance según el 
 ![](bran1.png)  
 
 * Según la parametrización realizada solo se puede procesar el pedido **VPED**,
- Si el monto supero los 200.000, caso contrario el sistema devuelve un mensaje de control indicando los valores del documento y el rango parametrizado en **BRAN** (Rango)   
+ Si el monto supero los 200.000, caso contrario el sistema devuelve un mensaje de control, indicando los valores del documento y el rango parametrizado en **BRAN** (Rango)   
  
  ![](bran2.png)  
  
