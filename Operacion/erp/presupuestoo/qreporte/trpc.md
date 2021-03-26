@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Saldo Documento Pto.
-permalink: /Operacion/erp/presupuestoo/qreporte/qrda
+title: Comparación Contabilidad vs Presupuesto1
+permalink: /Operacion/erp/presupuestoo/qreporte/trpc
 editable: si
 ---
 
-# Saldo Documento Pto - QRDA
-
-La aplicación **QRDA** permite ver un reporte de los saldos de los documentos que afectan el presupuesto.  
-
-Ingresamos a la aplicación y filtramos por los datos deseados. Podemos realizar la consulta por número de registro específicamente. Si deseamos consultar los saldos de todos los documentos dejamos todos los campos en 0 y no especificamos documento.  
+# Comparación Contabilidad vs Presupuesto1 - TRPC  
 
 
-![](qrda.png)
+Reporte que establece las diferencias entre los dos módulos: contabilidad y el valor presupuestado oficial, parámetros de entrada documento, número y ubicación.  
+
+
+![](trpc1.png)
 
 Damos click en el botón _Generar_. El reporte puede ser descargado en formato Excel, PDF y Word.   
 
-![](qrda1.png)
