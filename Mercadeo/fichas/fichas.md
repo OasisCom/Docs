@@ -36,6 +36,7 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >>#### [OasisCom Agro](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Agro.pdf	)
 
 >### OasisCom Services
+>>#### [OasisCom Módulo FIN - Servicios Financieros](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Modulo-FIN-Servicios-Financieros.pdf)
 >>#### [OasisCom Propiedad Horizontal](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Propiedad-horizontal.pdf)
 >>#### [OasisCom Combustible](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Combustible.pdf	)		
 >>#### [OasisCom Transporte](http://docs.oasiscom.com/Mercadeo/fichas/físico OasisCom transporte_impreso .pdf)
