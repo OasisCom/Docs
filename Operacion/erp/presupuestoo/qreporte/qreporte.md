@@ -36,3 +36,4 @@ Este módulo comprende los siguientes submódulos:
 * [**QRCI**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrci) - Conciliación.  
 * [**QRCS**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrcs) - Contratos.  
 * [**QRCT**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrct) - Contratos.  
+* [**TRPC**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/trpc) - Comparación Contabilidad vs Presupuesto1.  
