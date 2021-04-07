@@ -40,6 +40,7 @@ Descarga la versión digital de nuestras fichas impresas con información especi
 >>#### [OasisCom Propiedad Horizontal](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Propiedad-horizontal.pdf)
 >>#### [OasisCom Combustible](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Combustible.pdf	)		
 >>#### [OasisCom Transporte](http://docs.oasiscom.com/Mercadeo/fichas/físico OasisCom transporte_impreso .pdf)
+>>#### [OasisCom Software Mantenimiento](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-mantenimiento.pdf)
 
 >## OasisCom E-services
 >>#### [Nómina Electrónica](http://docs.oasiscom.com/Mercadeo/fichas/Ficha-Nomina-electronica.pdf)
