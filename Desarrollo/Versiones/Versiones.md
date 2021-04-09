@@ -17,6 +17,8 @@ editable: si
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
 
 
+##### [Versiones OasisCom 4.04.84  ](https://mailchi.mp/d84718402855/versiones-10056052) 08 de Marzo 2021
+
 ##### [Versiones OasisCom 4.04.83  ](https://mailchi.mp/2c7ced2a5a4f/versiones-10042100) 01 de Marzo 2021
 
 ##### [Versiones OasisCom 4.04.82  ](https://mailchi.mp/b951c322f460/versiones-10039076) 22 de Febrero 2021
