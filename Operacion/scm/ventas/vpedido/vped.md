@@ -18,10 +18,11 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
 >+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
 >+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
->+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)
+>+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
+>+ [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)   
 
 
-
+---
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
@@ -263,5 +264,39 @@ Se puede confirmar que luego de procesado el pedido, se había actualizado el ca
 
 ![](vped71.png)  
 
-![](vped72.png) 
+![](vped72.png)  
+
+
+## [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)
+
+Proceso correcto, se debe tener la siguiente parametrización:  
+Desde la opción **BCON** (conceptos) se debe buscar o agregar el concepto del pedido, para este caso utilizaremos el CA (Catalogo).  
+Importante, en el  **BCON** se debe tener parametrizado en el campo: **Clase** como **Monto Mínimo**  
+
+![](bcon1.png)  
+
+* Parametrización del tercero del pedido:  
+En el **BTER** se busca en el Tab de Seguridad sobre el campo Nivel de Autorizacion que para este caso es el numero cero (0).  
+
+![](bter1.png)  
+
+* Rangos o montos.  
+En el **BRAN** se busca por el documento, Concepto y el campo alcance según el nivel de autorización y según el campo mínimo se valida si el total del pedido es mayor al valor del campo mínimo para procesar correctamente.  
+
+![](bran1.png)  
+
+* Según la parametrización realizada solo se puede procesar el pedido **VPED**,
+ Si el monto supero los 200.000, caso contrario el sistema devuelve un mensaje de control, indicando los valores del documento y el rango parametrizado en **BRAN** (Rango)   
+ 
+ ![](bran2.png)  
+ 
+  ![](vped35_01.png)  
+
+**De esta forma se controla para: "no recibir pedidos con rangos inferiores a (xxx.00) monto o rango".**
+
+
+
+
+
+
 

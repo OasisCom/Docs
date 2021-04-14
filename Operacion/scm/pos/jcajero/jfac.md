@@ -202,10 +202,27 @@ Posteriormente damos click sobre el botón _Guardar_.
 
 ![](bfor51.png)  
 
+## [Vista Previa _Secundaria_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#vista-previa-detalle)  
 
+En la botonera del maestro podemos encontrar el botón de vista previa para cuando se requiere visualizar documentos antes de imprimirlos o configurar las diferentes vistas que se requieran.
+![](jfac83.png)  
+
+Cuando damos clic nos muestra las vistas que se hayan configurado en la opción **[SPRO]**
+![](jfac84.png)  
+
+Como podemos visualizar en las dos siguientes imágenes de vistas previas el formato es diferente, esto depende del formato que se requiera utilizar para utilizar esta funcionalidad.
+![](jfac85.png)  
+![](jfac86.png)  
+
+Por último, la parametrización se debe realizar en la opción **[SPRO]**, en la parte del Detalle tendremos que diligenciar los siguientes campos:
+
+**Argumento:** Se debe colocar el procedimiento de donde se cargara la información del formato.
+**Nombre:** Sera el nombre como se visualizara al momento de dar clic al botón de vista secundaria
+**Defecto:** En este campo tendremos que colocar el comando ***js_SecondPreview***  para habilitar dicha funcionalidad.  
+![](jfac87.png)  
+**Esta configuración se puede utilizar para cualquier opción dentro de la aplicación.*
 
 ## [Pestaña _Detalle_](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#pestaña-detalle)  
-
 
 
 En la pestaña “Detalle” en la parte inferior de la aplicación, existe la opción de inserción de producto mediante el lector de código de barras, este funciona ubicándose en el campo producto y utilizando el lector se realiza la lectura del código de barras del producto, si dado el escenario: el producto ya fue registrado en otro renglon; el sistema realiza la suma del producto en el mismo renglon; de esta manera se registra la venta del producto y se completará la información en los campos Nombre Producto, Cantidad, Precio y %Descuento (Si aplica). Igualmente, en caso de no contar con el lector del código de barras en el campo producto se puede registrar manualmente el código del producto y al dar TAB se diligencian los campos de nombre de producto, cantidad precio y %Descuento (Si aplica), si el producto no trae asociado un % descuento, podemos ingresarlo manualmente y este se aplicará solo al producto al que se ingresó.  
@@ -218,7 +235,12 @@ En la pestaña “Detalle” en la parte inferior de la aplicación, existe la o
 
 ![](jfac13.png)  
 
+### Integración con Balanzas.  
 
+Se realiza la integración con 4 balanzas (marca: torrey, modelo pcs-35), con el objetivo: al pesar el sistema haga la lectura en el campo cantidad y registre el resultado de la unidad de medida peso, ejemplo en gramos y lo aplique en el campo **cantidad**, esto aplica tanto para el **IMOV** como para **JFAC**.  
+Previa parametrizacion en WVAR (variables)y BUBI (ubicaciones).  
+
+![](jfac13_01.png)  
 
 * Existe una tercera pestaña denominada **PAGO.**  
 

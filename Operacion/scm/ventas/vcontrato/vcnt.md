@@ -12,6 +12,7 @@ editable: si
 * [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
 * [Contratos de Venta - Cápita Evento](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---cápita-evento)  
 * [Contratos de Venta - Dispensación de medicamentos](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---dispensación-de-medicamentos)
+* [Contratos de Venta - Diferente IPC por Contrato](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---diferente-ipc-por-contrato)
 
 ## [Contratos de Venta - Registro](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---registro)
 
@@ -114,7 +115,34 @@ Con estos pasos, se termina el registro del contrato y se puede procesar.
 
 ![](vcnt17.png)   
 
-En este momento, ya queda listo el contrato para iniciar el proceso de Dispensación de medicamentos. 
+En este momento, ya queda listo el contrato para iniciar el proceso de Dispensación de medicamentos.  
+
+## [Contratos de Venta - Diferente IPC por Contrato](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt#contratos-de-venta---diferente-ipc-por-contrato)  
+
+Para ingresar un IPC por cada servicio, se debe configurar la variable de empresa RenewDetailIPC, de esta forma tomara los datos ingresados en el detalle por servicio.  
+
+![](vcnt18.png)   
+
+Adicional los contratos deberán estar marcado que su incremento de renovación es por IPC, recomendamos también que las condiciones sean tomadas por detalle del contrato.  
+
+![](vcnt19.png)   
+
+Para asignar el porcentaje individual y marcar que contratos se van a renovar, se creó la opción **VCRD**, es similar al VCRC.  Esta opción listara el detalle de todos los contratos de venta por cada uno de sus servicios, los campos a diligenciar son renueva para indicar cuales servicios se renovarán el IPC donde se registra porcentaje de incremento.  
+
+![](vcnt20.png)   
+
+Diligenciada la información pertinente se procede a generar la renovación con el botón configurado de renovación.  Este botón generara documento de ajuste a contratos que actualizaran los precios pertinentes en el contrato por servicio.  
+
+![](vcnt21.png)   
+
+
+
+
+
+
+
+
+
 
 
 

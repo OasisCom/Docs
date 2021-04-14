@@ -16,9 +16,60 @@ editable: si
 
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
 
-##### [Versiones OasisCom 4.04.64.01	](https://mailchi.mp/b46607b18529/versiones-9416316)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 16 de Octubre de 2020
 
-##### [Versiones OasisCom 4.04.64	](https://mailchi.mp/db46191afbee/versiones-9411532)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif) 07 de Octubre de 2020
+##### [Versiones OasisCom 4.04.84  ](https://mailchi.mp/d84718402855/versiones-10056052) 08 de Marzo 2021
+
+##### [Versiones OasisCom 4.04.83  ](https://mailchi.mp/2c7ced2a5a4f/versiones-10042100) 01 de Marzo 2021
+
+##### [Versiones OasisCom 4.04.82  ](https://mailchi.mp/b951c322f460/versiones-10039076) 22 de Febrero 2021
+
+##### [Versiones OasisCom 4.04.81  ](https://mailchi.mp/38d59de806fe/versiones-10018760) 12 de Febrero 2021
+
+##### [Versiones OasisCom 4.04.80  ](https://mailchi.mp/523cc3be34b5/versiones-10053864)05 de Febrero 2021
+
+##### [Versiones OasisCom 4.04.79  ](https://mailchi.mp/74aec4918309/versiones-10053860)29 de Enero 2021
+
+##### [Versiones OasisCom 4.04.78  ](https://mailchi.mp/85ad0d4a8888/versiones-10053856)22 de Enero 2021
+
+##### [Versiones OasisCom 4.04.77	](https://mailchi.mp/a1e0d8e35811/versiones-10053852)15 de Enero 2021
+
+##### [Versiones OasisCom 4.04.76	](https://mailchi.mp/9215e36fa1a9/versiones-10053816)08 de Enero 2021
+
+##### [Versiones OasisCom 4.04.75	](https://mailchi.mp/eb25bb855514/versiones-10053812)31 de Diciembre de 2020
+
+
+##### [Versiones OasisCom 4.04.74	](https://mailchi.mp/a9adbcab53d6/versiones-10053472)25 de Diciembre de 2020	
+
+
+##### [Versiones OasisCom 4.04.73	](https://mailchi.mp/9d962d71e313/versiones-9463444)18 de Diciembre de 2020
+
+
+##### [Versiones OasisCom 4.04.72	](https://mailchi.mp/0b30cfab8616/versiones-9458352)11 de Diciembre de 2020
+
+
+##### [Versiones OasisCom 4.04.71	](https://mailchi.mp/b5358c81301c/versiones-9453392)04 de Diciembre de 2020
+
+
+##### [Versiones OasisCom 4.04.70	](https://mailchi.mp/8efbd4219010/versiones-9447736) 27 de Noviembre de 2020
+
+
+##### [Versiones OasisCom 4.04.69	](https://mailchi.mp/11005612e37d/versiones-9442552)20 de Noviembre de 2020
+
+
+##### [Versiones OasisCom 4.04.68	](https://mailchi.mp/346eef44efa0/versiones-9437792)13 de Noviembre de 2020
+
+
+##### [Versiones OasisCom 4.04.67	](https://mailchi.mp/ec9766705454/versiones-9432440)06 de Noviembre de 2020
+
+
+##### [Versiones OasisCom 4.04.66	](https://mailchi.mp/86473d4b1aee/versiones-9425948)30 de Octubre de 2020
+
+##### [Versiones OasisCom 4.04.65	](https://mailchi.mp/ce45ed80e516/versiones-9421096)23 de Octubre de 2020
+
+
+##### [Versiones OasisCom 4.04.64.01	](https://mailchi.mp/b46607b18529/versiones-9416316) 16 de Octubre de 2020
+
+##### [Versiones OasisCom 4.04.64	](https://mailchi.mp/db46191afbee/versiones-9411532) 07 de Octubre de 2020
 
 ##### [Versiones OasisCom 4.04.62	](https://mailchi.mp/b7eb50a2c36d/versiones-9405720) 30 de Septiembre de 2020
 

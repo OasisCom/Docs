@@ -247,6 +247,25 @@ Al validar en la aplicación, vemos que el campo _Rol_ ya cuenta con zoom.
 
 ![](scam34.png)
 
+## [Personalización de reportes por empresa](http://docs.oasiscom.com/Operacion/system/sconfig/scam#personalización-de-reportes-por-empresa)
+
+Personalización, por empresa los reportes – customizables. Se modifica la generación de los reportes para permitir el uso del **SCAM (Campos)**, se valida la ejecución de los reportes y la exportación.  
+
+## Parametrizacion:  
+
+1) En la opción SCAM se puede parametrizar el reporte que se debe mostrar en la opción seleccionada. Se debe parametrizar con el campo CompanyId y el nombre del reporte en el Campo "Template".  
+
+![](scam34_01.png)  
+
+2) Al ingresar al reporte parametrizado se podrá ver el nuevo reporte.  
+
+![](scam34_02.png)  
+
+* Tener en cuenta que el reporte debe de estar almacenado en la carpeta de reportes del sitio con el nombre dado el campo "Template" del SCAM.  
+
+
+
+
 ## [Templates para reportes](http://docs.oasiscom.com/Operacion/system/sconfig/scam#templates-para-reportes)
 
 Esta funcionalidad permite la parametrización de un formato de Word para que funcione como template en lugar de un archivo _RDLC_ existente para estas opciones.  
@@ -308,7 +327,7 @@ Parametrización en el **BCRC** de la lista cuando no se tiene querysql definido
 ![](scam53.png)   
 
 
-##Parametrización botón tipo consulta genérica desde SCAM.  
+## Parametrización botón tipo consulta genérica desde SCAM.  
 
 Se realiza mejora sobre el botón tipo consulta genérica  
 ARGUMENTO = js_InformationControl  
