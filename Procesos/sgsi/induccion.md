@@ -33,4 +33,4 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 
 [**Continuidad del Negocio**](http://docs.oasiscom.com/Procesos/sgsi/Continuidad_del_negocio.pdf) 
 
-[**Home Office**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_de_SGSI_en_Home Office.pdf) 
+[**Home Office**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_de_SGSI_en_Home_Office.pdf) 
