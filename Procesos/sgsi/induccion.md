@@ -32,3 +32,5 @@ En esta sección encontrarán información relacionada al Sistema Integrado de G
 [**Seguridad de las Operaciones**](http://docs.oasiscom.com/Procesos/sgsi/Presentación_Seguridad_de_las_Operaciones.pdf) 
 
 [**Continuidad del Negocio**](http://docs.oasiscom.com/Procesos/sgsi/Continuidad_del_negocio.pdf) 
+
+[**Home Office**](http://docs.oasiscom.com/Procesos/sgsi/Capacitación_Políticas_de_SGSI_en_Home Office.pdf) 
