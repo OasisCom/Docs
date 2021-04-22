@@ -10,7 +10,15 @@ editable: si
 ## Creación de casos 
 
 
-Para realizar la creación de casos de soporte en el sistema OasisCom ingresaremos a la aplicación **ASOP - Soporte**. Para ingresar a esta aplicación hay dos opciones: Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASOP o en el botón de configuraciones que se encuentra en la parte superior derecha.   
+Para realizar la creación de casos de soporte en el sistema OasisCom ingresaremos a la aplicación **ASOP - Soporte**.
+
+* [Contrato](https://docs.oasiscom.com/Operacion/system/sacceso/asop#contrato)  
+* [Problema](https://docs.oasiscom.com/Operacion/system/sacceso/asop#problema)  
+* [Contacto](https://docs.oasiscom.com/Operacion/system/sacceso/asop#contacto)  
+* [Envio](https://docs.oasiscom.com/Operacion/system/sacceso/asop#envio)  
+
+
+Para ingresar a esta aplicación hay dos opciones: Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASOP o en el botón de configuraciones que se encuentra en la parte superior derecha.   
 
 ![](Casos.png)
 
@@ -26,7 +34,7 @@ A continuación, se abrirá la aplicación para comenzar a diligenciar los datos
 
 Tendremos cuatro partes: Contrato, Problema, Contacto y envío.  
 
-### Contrato  
+### [Contrato](https://docs.oasiscom.com/Operacion/system/sacceso/asop#contrato)  
 
 En esta ventana elegiremos el tipo de contrato de soporte, por lo general los campos “Tipo de soporte” y “Contrato” traen la información automáticamente de la siguiente manera  
 
@@ -48,7 +56,7 @@ En este caso es necesario bajar el porcentaje de zoom del navegador. Esto se rea
 
 ![](Casos7.png)  
 
-### Problema   
+### [Problema](https://docs.oasiscom.com/Operacion/system/sacceso/asop#problema)     
 
 En esta ventana diligenciaremos en donde se presenta el problema y realizaremos una descripción del inconveniente presentado. En este caso haremos un ejemplo de un error presentado en factura electrónica.   
 Primero indicaremos la gravedad del inconveniente, esta gravedad la indicará cada empresa. (Recordemos que una vez llega el caso al área de soporte, se le asignara una prioridad según la criticidad de este). Para nuestro ejemplo elegiremos la opción “ALTA”.   
@@ -83,13 +91,13 @@ Para cargar los archivos adjuntos únicamente se oprime el botón “Choose File
 
 ![](Casos15.png)
 
-### Contacto  
+### [Contacto](https://docs.oasiscom.com/Operacion/system/sacceso/asop#contacto)    
 
 En esta ventana únicamente se verificarán los datos del usuario quien esta colocando el caso de soporte. En este caso solamente daremos clic en el botón “NEXT”   
 
 ![](Casos16.png)
 
-### Envio
+### [Envio](https://docs.oasiscom.com/Operacion/system/sacceso/asop#envio)   
 
 En esta ultima ventana, indicaremos con el check que aceptamos los términos y condiciones de soporte y damos clic en el botón “SUBMIT”.   
 
