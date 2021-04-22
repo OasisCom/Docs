@@ -5,100 +5,96 @@ permalink: /Operacion/system/sacceso/asop
 editable: si
 ---
 
-## Soporte - ASOP
+# Soporte - ASOP 
 
-Para cargar casos de soporte en el sistema OasisCom ingresaremos a la aplicación **ASOP - Soporte**. Para ingresar a esta aplicación hay dos opciones:  
-
- * Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASOP.  
-
-![](ASOP1.png)
-
-* Dando click en el nombre del usuario, ubicado en la parte superior derecha de la pantalla, se desplegará una ventana con diferentes opciones, allí seleccionaremos la pestaña de _Soporte_ y seguidamente la opción _Soporte_.  
-
-![](ASOP2.png)
-
-Ubicados en la aplicación ASOP - Soporte, se observarán cuatro pestañas (Contrato, Problema, Contacto, Envío), correspondientes al proceso para el envío del caso de soporte, estas pestañas se deberán diligenciar consecutivamente.  
-
-**Nota:** Las listas desplegables están organizadas en orden alfabético, permitiendo al usuario que esté creando un caso, poder elegir fácilmente un ítem de la lista de los módulos, programas y/o categorias.  
-
-#### Contrato
-
-En esta pestaña se ingresan los datos correspondientes al contrato de soporte que tiene el cliente con OasisCom, igualmente, muestra las horas contratadas de soporte según el contrato, las horas ejecutadas a la fecha, el saldo que se encuentra en cartera y el saldo en mora, de haberlo.  
-
-![](ASOP3.png)
-
-**Tipo de soporte:** seleccionar el tipo de soporte contratado con OasisCom.  
-**Contrato:** seleccionar el contrato de _Soporte y Mantenimiento_.  
-**Producto:** seleccionar el tipo de soporte o producto que se acordó en el contrato.   
-
-![](producto.png)
-
-Seguidamente, se encuentran campos de información que no son editables pero se deben tener en cuenta para el cargue de casos de soporte.  
-
-![](horas.png)
-
-Diligenciado el formulario damos click en el botón _Next_, el cual nos trasladará a la siguiente pestaña **Problema**.  
+## Creación de casos 
 
 
-#### Problema
+Para realizar la creación de casos de soporte en el sistema OasisCom ingresaremos a la aplicación **ASOP - Soporte**. Para ingresar a esta aplicación hay dos opciones: Consultando en el buscador del sistema por el nemótecnico de la aplicación, es decir, ASOP o en el botón de configuraciones que se encuentra en la parte superior derecha.   
 
-En esta pestaña se ingresa la información que describe el problema por el cual se requiere cargar el caso de soporte.  
-![](ASOP4.png)
+![](Casos.png)
 
-**Gravedad:** seleccionar de la lista desplegable la gravedad del problema que se va a reportar. 
+Se despliega una lista de opciones y seleccionaremos la opción “Soporte”.   
 
-![](gravedad.png)
+![](Casos1.png)
 
-**Falla:** seleccionar de la lista desplegable el tipo de falla que está presentando el sistema y por el cual se requiere cargar un caso de soporte.  
+O desde la barra de búsqueda podemos escribir la opción “ASOP” 
 
-![](falla.png)
+![](Casos2.png)
 
-**Módulo:** seleccionar el módulo en el cual se está presentando el problema.
+A continuación, se abrirá la aplicación para comenzar a diligenciar los datos pertinentes que se solicita para la creación del caso.   
 
-![](modulo.png)
+Tendremos cuatro partes: Contrato, Problema, Contacto y envío.  
 
-**Programa:** seleccionar de la lista el programa del módulo en donde se presenta el problema a reportar.  
+### Contrato  
 
-![](programa.png)
+En esta ventana elegiremos el tipo de contrato de soporte, por lo general los campos “Tipo de soporte” y “Contrato” traen la información automáticamente de la siguiente manera  
 
-**Categoría:** seleccionar la categoría con la cual se puede relacionar la falla que se va a reportar.  
+![](Casos3.png)
 
-![](categoria.png)
+Seleccionaremos la opción de producto y se desplegará los productos contratados, en este caso elegiremos “SOPORTE SEGUNDO NIVEL OASISCOM”  
 
-**Asunto:** escribir puntualmente el problema que se desea reportar.  
+![](Casos4.png)
 
-![](asunto.png)
+Automáticamente se evidenciará las horas contratadas de soporte y en la parte inferior derecha se habilitará el botón “NEXT” para continuar con el diligenciamiento.   
 
-Deslizamos la ventana y diligenciamos la parte inferior del formato.
+![](Casos5.png)
 
-![](ASOP5.png)
+En algunos navegadores el botón “NEXT” aparecerá oculto  
 
-**Descripción:** realizar una descripción detallada del caso de soporte que se va a reportar.  
-**Inicio problema:** seleccionar la fecha desde la cual ha presenciado el problema.  
-**Adjunto:** el sistema permite adjuntar imágenes o capturas de pantalla del problema que se está presentando con el fin de hacer más explícita la descripción del mismo.  
+![](Casos6.png)
 
-Para adjuntar un archivo, damos click en el botón ![](choose.png) y seleccionamos de la ventana emergente la imagen correspondiente a la falla a reportar. Este proceso se puede repetir para cargar varias imágenes.  
+En este caso es necesario bajar el porcentaje de zoom del navegador. Esto se realiza en el botón de configuraciones de cada navegador que aparece al terminar la barra de url y podrán visualizar el botón.   
 
-![](adjunto.png)
+![](Casos7.png)  
 
-Cargadas las imágenes damos click en el botón _Next_ para continuar a la siguiente pestaña de la aplicación.  
+### Problema   
 
-#### Contacto
+En esta ventana diligenciaremos en donde se presenta el problema y realizaremos una descripción del inconveniente presentado. En este caso haremos un ejemplo de un error presentado en factura electrónica.   
+Primero indicaremos la gravedad del inconveniente, esta gravedad la indicará cada empresa. (Recordemos que una vez llega el caso al área de soporte, se le asignara una prioridad según la criticidad de este). Para nuestro ejemplo elegiremos la opción “ALTA”.   
 
-En la pestaña contacto, se podrá observar los datos de la persona a la cual le llegarán los correos electrónicos de seguimiento del caso. Dicha persona es definida por el cliente.  
+![](Casos8.png)  
 
-![](contacto.png)
+Luego indicaremos el tipo de fallo según las opciones que nos indica el sistema.  
 
-Verificados los datos damos click en el botón _Next_ para pasar a la siguiente pestaña **Envío**.  
+![](Casos9.png) 
 
-#### Envío
+Después elegiremos el modulo donde se presenta la falla. Ejemplo: facturación, tesorería, contabilidad, inventario, etc. Para nuestro ejemplo elegiremos “Factura electrónica”.  
 
-En la pestaña envío, se podrán ver links de manuales y/o videos relacionados con la falla que se está reportando con el fin de que el cliente revise esta documentación y le pueda servir de ayuda para solucionar el problema que le está genenrando el sistema. Si dicha documentación no logra solucionar la falla, se procede a enviar el caso de soporte a OasisCom.  
+![](Casos10.png) 
 
-Para envíar el caso de soporte es necesario leer y aceptar los términos y condiciones del servicio de soporte, estos se pueden ver dando click en el link ![](terminos.png) y se aceptan activando el flag ![](flag.png).  
+Luego, elegiremos el programa donde se presenta el inconveniente según el modulo que se escogió.  
 
-![](manual.png)
+![](Casos11.png) 
 
-Finalmente, damos click en el botón ![](submit.png) y el caso será creado, el sistema arrojará el número asignado al caso con el cual se podrá realizar seguimiento en la aplicación [**ASEG - Monitoring Cases**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).
+El siguiente que elegiremos será la categoría, en este caso elegiremos para nuestro ejemplo “Factura Electrónica”.  
 
-![](numerodecaso.png)
+![](Casos12.png) 
+
+Después de diligenciar estos datos, indicaremos el asunto y la descripción del inconveniente presentado, recodemos que en el campo asunto debe ir una descripción breve del error y en la descripción un detallado del inconveniente.  
+
+![](Casos13.png) 
+
+Después nos solicitará la fecha de inicio del problema, el cual por defecto deja la fecha del mismo día en el cual se coloca el caso, nos pide también la causa del problema el cual podemos elegir de las varias opciones que nos arroja el sistema y también podemos adjuntar archivos, ya sean imágenes de pantalla del error o algún otro tipo de archivo que pueda ayudar a identificar más rápido el inconveniente.  
+
+![](Casos14.png)
+
+Para cargar los archivos adjuntos únicamente se oprime el botón “Choose File”, se abrirá una ventana para seleccionar el archivo que cargaremos, luego se oprime el botón “Abrir” y quedara cargado el archivo. Y finalizado estos pasos damos nuevamente en el botón “NEXT”.   
+
+![](Casos15.png)
+
+### Contacto  
+
+En esta ventana únicamente se verificarán los datos del usuario quien esta colocando el caso de soporte. En este caso solamente daremos clic en el botón “NEXT”   
+
+![](Casos16.png)
+
+### Envio
+
+En esta ultima ventana, indicaremos con el check que aceptamos los términos y condiciones de soporte y damos clic en el botón “SUBMIT”.   
+
+![](Casos17.png)
+
+Al momento de oprimir el botón “SUBMIT” nos aparecerá un letrero en la parte superior derecha confirmando el cargue y el numero de caso.   
+
+![](Casos18.png)
