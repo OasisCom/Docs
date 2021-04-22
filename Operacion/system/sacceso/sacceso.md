@@ -5,9 +5,15 @@ permalink: /Operacion/system/sacceso/
 editable: si
 ---
 
-# SEGURIDAD
+# Seguridad  
 
 OasisCom cuenta con una seguridad de ingreso por cada usuario en la cual se debe diligenciar una contraseña para ingresar al sistema, a nivel interno se tienen roles para los usuarios en donde se les otorga o restringe el acceso a las aplicaciones del sistema y así mismo dentro de las aplicaciones se les puede otorgar o restringir permisos para modificación, creación o eliminación de documentos o de un campo en específico.
+
+- [Roles](https://docs.oasiscom.com/Operacion/system/sacceso/srol)  
+- [Soporte](https://docs.oasiscom.com/Operacion/system/sacceso/asop)  
+- [Usuarios](https://docs.oasiscom.com/Operacion/system/sacceso/susu)  
+- [Monitoreo de casos](https://docs.oasiscom.com/Operacion/system/sacceso/aseg)  
+- [Comentarios](https://docs.oasiscom.com/Operacion/system/sacceso/apqr)  
 
 Es por esto, que OasisCom cuenta con mensajes de control en donde les indica a los usuarios el porque no pueden ingresar a una aplicación específica, los mensajes que se pueden obtener son:
 
