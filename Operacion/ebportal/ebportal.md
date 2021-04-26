@@ -851,7 +851,7 @@ En la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
 
 ![](eq03.png)
 
-### [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)
+### [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)  
 
 En la aplicación BPRO -Productos, se debe añadir un nuevo registro y crear el producto numero 1 o el que deseen y que este mismo debe ser diligenciado en la aplicación WVAR- Variables, para utilizar este modelo en aplicación PMOV y TMEN. No es necesario ponerle nombre al producto, en el campo inventario Terminado y en el estado activo.
 
