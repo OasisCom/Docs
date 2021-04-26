@@ -44,8 +44,8 @@ editable: si
 10.1 [Habilitación de la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#habilitación-de-la-aplicación-odeq)  
 10.1.1 [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
 10.1.2 [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
-10.1.2.1 [Variable Documento Equivalente Producto]()
-10.1.2.2 [Variable Documento Equivalente Ubicación]()
+10.1.2.1 [Variable Documento Equivalente Producto](http://docs.oasiscom.com/Operacion/ebportal/#variables-documento-equivalente-producto)  
+10.1.2.2 [Variable Documento Equivalente Ubicación](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-ubicación)  
 10.1.3 [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
 10.1.4 [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)  
 10.2 [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)  
@@ -797,25 +797,21 @@ Luego se debe ingresar a la aplicación SROL - Roles, en el rol que corresponda.
 
 ![](odeq1.png)
 
-### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)  
+### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
 
-En la aplicación WVAR - Variables, esta variable debe ser creada para que el sistema identifique que se debe crear un documento EQ. 
-
-![](odeq2.png)
-
-#### [Variable documento]()
+#### [Variable documento](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento)  
 
 En la aplicación WVAR - Variables, deben estar creadas tres variables para que el sistema identifique que se debe crear un documento equivalente.  
 
 ![](odeqq.png)
 
-#### [Variable Documento Equivalente]()  
+#### [Variable Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente)    
 
 En la aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalent que hace referencia al documento que se va a crear en la aplicación ODEQ – Documentos Equivalentes, en el campo formula deben elegir un documento que no se encuentre en uso este caso elegimos EQ, este documento debe estar parametrizado en la aplicación BDOC – Documentos.  
 
 ![](odeqq1.png)
 
-#### [Variable Documento Equivalente Producto]()  
+#### [Variable Documento Equivalente Producto](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-producto)   
 
 En la aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalentR que hace referencia al producto que irá sobre el documento equivalente, en el campo fórmula debe ir el código del producto que se requiera generar en el documento asignado, para este ejemplo le podremos EQ, esto es cuando se cause un movimiento en la aplicación PMOV o algún otro documento en el cual no se ingrese producto como lo es un OFAC.  
 
@@ -823,7 +819,7 @@ De acuerdo con esta variable el sistema tomará ese código para traerlo en el d
 
 ![](odeqq2.png)
 
-#### [Variable Documento Equivalente Ubicación]()  
+#### [Variable Documento Equivalente Ubicación](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-ubicación)   
 
  La aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalentL la cual genera un documento equivalente por ubicación.  
  
