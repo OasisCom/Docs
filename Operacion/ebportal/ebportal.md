@@ -935,3 +935,16 @@ Para identificar si la factura llegó o no, en los campos documento 1, número 1
 En el detalle encontramos el producto, la cantidad, el precio, el total y la observación que se hayan registrado previamente. 
 
 ![](odeq13.png)
+
+Para poder reversar el documento original existen dos alternativas: 
+- En la aplicación ODEQ – Documentos equivalentes se habilitaron los íconos de reversar, procesar y anular, cuando se realiza este proceso reverso para anular.  
+- La otra alternativa es reversar el documento original y el sistema reversa automáticamente el EQ en la aplicación ODEQ - Documentos Equivalentes.  
+
+El proceso que se debe realizar es activar el EQ, reversar el documento origen (CP, FP, CM…), una vez se realiza la operación de reversar el documento origen el sistema automáticamente anulará el EQ asociado a este. De esta manera se podrá editar el documento origen sin inconveniente, pero se debe tener en cuenta que al momento de procesarlo el sistema creará un nuevo EQ consumiendo un consecutivo nuevo.   
+
+![](odeqq5.png)
+
+![](odeqq6.png)
+
+**Nota:** El sistema no va a volver a utilizar el mismo consecutivo, se va a crear uno nuevo, es decir, no reescribe el que ya existe dado que no se actualizan los datos sobre este mismo. Por lo anterior, es importante que al momento de reversar un documento origen tengan esto presente dado que se pueden tener inconvenientes en cuanto a que los consecutivos del EQ no tengan un orden lógico comparado con las fechas de los documentos.   
+
