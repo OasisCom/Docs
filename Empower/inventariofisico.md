@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Inventario Físico (IFIS)
-permalink: /Empower/inventariofisico
+permalink: /Capacitacion/Empower/inventariofisico
 editable: si
 ---
 
-## Inventario Físico (IFIS)
-
-[![](video8.png)](https://www.youtube.com/watch?v=Dz022yQgtPI&t=19s)
+#### Inventario Físico (IFIS)
 
 
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dz022yQgtPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -2480,7 +2480,9 @@
         - text: Distribución por tipo de gasto en nómina NNOM
           url: /Capacitacion/Empower/distribucionnnom
         - text: Activos Depreciación
-          url: /Capacitacion/Empower/entradaactivos         
+          url: /Capacitacion/Empower/entradaactivos
+        - text: Inventario Físico IFIS
+          url: /Capacitacion/Empower/inventariofisico          
 - text: Soporte
   url: /Soporte/
   subitems:
