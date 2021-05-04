@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Parametrización Básica de Documentos (BDOC), Conceptos (BCON) y Motivos (BMOT)
-permalink: /Empower/parametrizacionbdoc
+permalink: /Capacitacion/Empower/parametrizacionbdoc
 editable: si
 ---
 
-## Parametrización Básica de Documentos (BDOC), Conceptos (BCON) y Motivos (BMOT)
+#### Parametrización Básica de Documentos (BDOC), Conceptos (BCON) y Motivos (BMOT)
 
 
-[![](video6.png)](https://www.youtube.com/watch?v=3ztDjzEOCnE)
-
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ztDjzEOCnE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 

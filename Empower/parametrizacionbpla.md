@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Parametrización Básica de Plantillas (BPLA) y Grupos Contables (BGRU)
-permalink: /Empower/parametrizacionbpla
+permalink: /Capacitacion/Empower/parametrizacionbpla
 editable: si
 ---
 
-## Parametrización Básica de Plantillas (BPLA) y Grupos Contables (BGRU)
+#### Parametrización Básica de Plantillas (BPLA) y Grupos Contables (BGRU)
 
 
-[![](video10.png)](https://www.youtube.com/watch?v=2nuh1ce8ZTM&t=5s)
-
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nuh1ce8ZTM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

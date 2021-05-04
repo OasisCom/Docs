@@ -2482,7 +2482,17 @@
         - text: Activos Depreciación
           url: /Capacitacion/Empower/entradaactivos
         - text: Inventario Físico IFIS
-          url: /Capacitacion/Empower/inventariofisico          
+          url: /Capacitacion/Empower/inventariofisico
+        - text: Punto de venta JFAC y Turnos - JTUR
+          url: /Capacitacion/Empower/jfacjtur
+        - text: Movimientos PMOV con cruce en reportes
+          url: /Capacitacion/Empower/movimientospmov
+        - text: Parametrización básica BDOC, BCON, BMOT
+          url: /Capacitacion/Empower/parametrizacionbdoc
+        - text: Parametrización de impuestos y tipos de impuestos
+          url: /Capacitacion/Empower/parametrizacionbimp
+        - text: Parametrización de plantillas y grupos contables
+          url: /Capacitacion/Empower/parametrizacionbpla                    
 - text: Soporte
   url: /Soporte/
   subitems:
