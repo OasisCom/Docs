@@ -5,7 +5,7 @@ permalink: /Capacitacion/Empower/basicosbcue
 editable: si
 ---
 
-## Parametrización de cuentas (BCUE), centros de Costo (BUBI), Negocios (BNEG) y Proyectos (BPRY)
+#### Parametrización de cuentas (BCUE), centros de Costo (BUBI), Negocios (BNEG) y Proyectos (BPRY)
 
 
 
