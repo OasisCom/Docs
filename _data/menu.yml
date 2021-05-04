@@ -2476,7 +2476,11 @@
         - text: Parametrización de Productos BPRO
           url: /Capacitacion/Empower/bpro
         - text: Parametrización Conceptos de Nómina
-          url: /Capacitacion/Empower/conceptosyfunciones          
+          url: /Capacitacion/Empower/conceptosyfunciones
+        - text: Distribución por tipo de gasto en nómina NNOM
+          url: /Capacitacion/Empower/distribucionnnom
+        - text: Activos Depreciación
+          url: /Capacitacion/Empower/entradaactivos         
 - text: Soporte
   url: /Soporte/
   subitems:
