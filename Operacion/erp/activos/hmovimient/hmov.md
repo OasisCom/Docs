@@ -12,7 +12,7 @@ En esta aplicación, se pueden ver las operaciones o registros que afectan los a
 Los siguientes procesos se encuentran documentados en esta aplicación:
 
   * [**Manejo de IVA en Activos Fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)  
-  * [**Adición de IVA a un Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#Adición-de-IVA-a-un-Activo-Fijo-por-HMOV)  
+  * [**Adición de IVA a un Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#adicion-de-iva-a-un-activo-fijo-por-hmov)  
   * [**Movimiento de depreciación de un activo fijo**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimiento-de-depreciación-de-un-activo-fijo)  
   * [**Parametrización para movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#parametrización-para-movimientos-de-activos-fijos)  
   * [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimientos-de-activos-fijos)
