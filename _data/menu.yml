@@ -2472,7 +2472,9 @@
         url: /Capacitacion/Empower
         subitems:
         - text: Parametrización BCUE, BUBI, BNEG,BPRY
-          url: /Capacitacion/Empower/basicosbcue  
+          url: /Capacitacion/Empower/basicosbcue
+        - text: Parametrización de Productos BPRO
+          url: /Capacitacion/Empower/bpro         
 - text: Soporte
   url: /Soporte/
   subitems:
