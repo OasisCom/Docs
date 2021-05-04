@@ -12,7 +12,7 @@ En esta aplicación, se pueden ver las operaciones o registros que afectan los a
 Los siguientes procesos se encuentran documentados en esta aplicación:
 
   * [**Manejo de IVA en Activos Fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#manejo-de-iva-en-activos-fijos)  
-  * [**Ingreso de Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-hmov)  
+  * [**Adición de IVA a un Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#adición-de-iva-a-un-activo-fijo-por-HMOV)  
   * [**Movimiento de depreciación de un activo fijo**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimiento-de-depreciación-de-un-activo-fijo)  
   * [**Parametrización para movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#parametrización-para-movimientos-de-activos-fijos)  
   * [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#movimientos-de-activos-fijos)
@@ -26,7 +26,7 @@ De acuerdo con lo anterior, OASISCOM presenta el siguiente documento que nos ayu
 Anteriormente vimos el _Escenario 1_ en la aplicación [**OFAC - Facturas de Compra**](http://docs.oasiscom.com/Operacion/scm/compras/ofactura/ofac#manejo-de-iva-en-activos-fijos), ahora veremos el _Escenario 2_ correspondiente al ingreso de activos fijos por la aplicación HMOV.  
 
 
-## [**Ingreso de Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV)
+## [**Adición de IVA a un Activo Fijo por HMOV**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#adición-de-iva-a-un-activo-fijo-por-HMOV)
 
 Para este caso utilizaremos como ejemplo los mismos activos vistos en el _Escenario 1_. Realizamos un movimiento de activos fijos por la aplicación HMOV.  
 
