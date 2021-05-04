@@ -2474,7 +2474,9 @@
         - text: Parametrización BCUE, BUBI, BNEG,BPRY
           url: /Capacitacion/Empower/basicosbcue
         - text: Parametrización de Productos BPRO
-          url: /Capacitacion/Empower/bpro         
+          url: /Capacitacion/Empower/bpro
+        - text: Parametrización Conceptos de Nómina
+          url: /Capacitacion/Empower/conceptosyfunciones          
 - text: Soporte
   url: /Soporte/
   subitems:
