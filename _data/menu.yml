@@ -2467,6 +2467,12 @@
       url: /Implantacion/cargaimagenes
 - text: Capacitacion
   url: /Capacitacion/
+  subitems:
+      - text: Empower
+        url: /Capacitacion/Empower
+        subitems:
+        - text: Parametrización BCUE, BUBI, BNEG,BPRY
+          url: /Capacitacion/Empower/basicosbcue  
 - text: Soporte
   url: /Soporte/
   subitems:
