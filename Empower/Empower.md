@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Empower
-permalink: /Empower/
+permalink: /Capacitacion/Empower
 editable: si
 ---
 
