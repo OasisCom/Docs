@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Punto venta (JFAC) y Turnos (JTUR)
-permalink: /Empower/jfacjtur
+permalink: /Capacitacion/Empower/jfacjtur
 editable: si
 ---
 
-## Punto venta (JFAC) y Turnos (JTUR)
+#### Punto venta (JFAC) y Turnos (JTUR)
 
 
-[![](video9.png)](https://www.youtube.com/watch?v=jDyzY_7CsG8)
-
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDyzY_7CsG8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 

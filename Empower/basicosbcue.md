@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Parametrización de cuentas (BCUE), centros de Costo (BUBI), Negocios (BNEG) y Proyectos (BPRY)
-permalink: /Empower/basicosbcue
+permalink: /Capacitacion/Empower/basicosbcue
 editable: si
 ---
 
-## Parametrización de cuentas (BCUE), centros de Costo (BUBI), Negocios (BNEG) y Proyectos (BPRY)
-
-[![](video3.png)](https://www.youtube.com/watch?v=87FKhpWZ2x0&t=3s)
+#### Parametrización de cuentas (BCUE), centros de Costo (BUBI), Negocios (BNEG) y Proyectos (BPRY)
 
 
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/87FKhpWZ2x0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

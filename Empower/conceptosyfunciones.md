@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Parametrización de Conceptos (NBCO) y Funciones de Nomina (NBFU)
-permalink: /Empower/conceptosyfunciones
+title: Parametrización de Conceptos (NBCO) y Funciones de Nómina (NBFU)
+permalink: /Capacitacion/Empower/conceptosyfunciones
 editable: si
 ---
 
-## Parametrización de Conceptos (NBCO) y Funciones de Nomina (NBFU)
+#### Parametrización de Conceptos (NBCO) y Funciones de Nómina (NBFU)
 
 
-[![](video1.png)](https://www.youtube.com/watch?v=87FKhpWZ2x0&t=3s)
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujPmLb0RInA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

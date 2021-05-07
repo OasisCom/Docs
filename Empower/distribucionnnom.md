@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Distribución por Tipo de Gasto Nómina (NNOM)
-permalink: /Empower/distribucionnnom
+permalink: /Capacitacion/Empower/distribucionnnom
 editable: si
 ---
 
-## Distribución por Tipo de Gasto Nómina (NNOM)
+#### Distribución por Tipo de Gasto Nómina (NNOM)
 
-[![](video4.png)](https://www.youtube.com/watch?v=b9Ar77OXFtI&t=61s)
-
-
-
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9Ar77OXFtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

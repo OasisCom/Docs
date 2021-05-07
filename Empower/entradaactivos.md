@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Entrada de Activos (HMOV), Depreciación (HPDE) y Saldos (HSSP)
-permalink: /Empower/entradaactivos
+permalink: /Capacitacion/Empower/entradaactivos
 editable: si
 ---
 
-## Entrada de Activos (HMOV), Depreciación (HPDE) y Saldos (HSSP)
+#### Entrada de Activos (HMOV), Depreciación (HPDE) y Saldos (HSSP)
 
 
-[![](video7.png)](https://www.youtube.com/watch?v=vPTeZ3HgJho)
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPTeZ3HgJho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 

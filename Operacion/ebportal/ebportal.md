@@ -44,8 +44,10 @@ editable: si
 10.1 [Habilitación de la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#habilitación-de-la-aplicación-odeq)  
 10.1.1 [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
 10.1.2 [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
+10.1.2.1 [Variable Documento Equivalente Producto](http://docs.oasiscom.com/Operacion/ebportal/#variables-documento-equivalente-producto)  
+10.1.2.2 [Variable Documento Equivalente Ubicación](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-ubicación)  
 10.1.3 [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
-10.1.4 [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)
+10.1.4 [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)  
 10.2 [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)  
 10.2.1 [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
 10.2.2 [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)  
@@ -795,17 +797,49 @@ Luego se debe ingresar a la aplicación SROL - Roles, en el rol que corresponda.
 
 ![](odeq1.png)
 
-### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)  
+### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
 
-En la aplicación WVAR - Variables, esta variable debe ser creada para que el sistema identifique que se debe crear un documento EQ. 
+#### [Variable documento](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento)  
 
-![](odeq2.png)
+En la aplicación WVAR - Variables, deben estar creadas tres variables para que el sistema identifique que se debe crear un documento equivalente.  
+
+![](odeqq.png)
+
+#### [Variable Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente)    
+
+En la aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalent que hace referencia al documento que se va a crear en la aplicación ODEQ – Documentos Equivalentes, en el campo formula deben elegir un documento que no se encuentre en uso este caso elegimos EQ, este documento debe estar parametrizado en la aplicación BDOC – Documentos.  
+
+![](odeqq1.png)
+
+#### [Variable Documento Equivalente Producto](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-producto)   
+
+En la aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalentR que hace referencia al producto que irá sobre el documento equivalente, en el campo fórmula debe ir el código del producto que se requiera generar en el documento asignado, para este ejemplo le podremos EQ, esto es cuando se cause un movimiento en la aplicación PMOV o algún otro documento en el cual no se ingrese producto como lo es un OFAC.  
+
+De acuerdo con esta variable el sistema tomará ese código para traerlo en el detalle del ODEQ, generalmente siempre va 1 pero si ya hacen uso de este producto 1 pueden hacer uso de esta variable para modificarlo o se puede dejar en 0 si lo requieren.  
+
+![](odeqq2.png)
+
+#### [Variable Documento Equivalente Ubicación](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-ubicación)   
+
+ La aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalentL la cual genera un documento equivalente por ubicación.  
+ 
+ ![](odeqq3.png)
+ 
+ A nivel de esta variable, el sistema valida que al crear documentos desde las aplicaciones OFAC – Facturas de compra, PMOV – Movimientos, TMEN – Caja menor, TVIA – Viajes, este creada correctamente la resolución, de acuerdo con el documento EQ el cual debe estar creado en la aplicación FRES – Resoluciones con la ubicación que corresponda.  
+ 
+ En caso de que esta ubicación sea la 1, el sistema lo que hace es tomar la ubicación y generar el ODEQ – Documento Equivalente por ubicación del documento, pero para que el sistema pueda generarlo. El EQ en el BDOC - Documento debe tener el flag activo de ubicación para que se tome un consecutivo por cada ubicación.  
+ 
+Al momento de crear la resolución con el documento EQ se debe tener en cuenta la ubicación respectiva, debido a que en el momento de realizar movimientos en las aplicaciones OFAC – Facturas de Compra PMOV - Movimientos o hacer cajas menores, el sistema entra a validar en la aplicación FRES - Resoluciones si existe la resolución para la ubicación diligenciada.  
+
+En la aplicación ODEQ – Documento Equivalente se crea el documento EQ para dicha ubicación y de esta forma se genera un consecutivo de acuerdo con la ubicación diligenciada. Se debe tener en cuenta que por el tipo de documento el sistema no va a crear una resolución si no que, únicamente valida el documento por ubicación, esta ubicación debe estar parametrizada en el FRES - Resoluciones.  
+
+![](odeqq4.png)
 
 ### [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
 
-A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ. 
+A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ y en la aplicación BMOT – Básico de motivos se debe crear el motivo cero.  
 
-**Importante:** En el campo programa debe ir diligenciado la aplicación que vamos a requerir, en este caso la aplicación ODEQ. En el campo ebill se debe seleccionar la opción NO EBILL, únicamente para el documento EQ lleva esta opción. 
+**Importante:** En el campo programa debe ir diligenciado la aplicación que vamos a requerir, en este caso la aplicación ODEQ. En el campo ebill se debe seleccionar la opción NO EBILL, únicamente para el documento EQ lleva esta opción.   
 
 ![](eq01.png)
 
@@ -817,9 +851,9 @@ En la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
 
 ![](eq03.png)
 
-### [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)
+### [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)  
 
-En la aplicación BPRO -Productos, se debe añadir un nuevo registro y crear el producto numero 1, para utilizar este modelo en aplicación PMOV y TMEN. No es necesario ponerle nombre al producto, en el campo inventario Terminado y en el estado activo.
+En la aplicación BPRO -Productos, se debe añadir un nuevo registro y crear el producto numero 1 o el que deseen y que este mismo debe ser diligenciado en la aplicación WVAR- Variables, para utilizar este modelo en aplicación PMOV y TMEN. No es necesario ponerle nombre al producto, en el campo inventario Terminado y en el estado activo.
 
 ![](eq04.png)
 
@@ -901,3 +935,16 @@ Para identificar si la factura llegó o no, en los campos documento 1, número 1
 En el detalle encontramos el producto, la cantidad, el precio, el total y la observación que se hayan registrado previamente. 
 
 ![](odeq13.png)
+
+Para poder reversar el documento original existen dos alternativas: 
+- En la aplicación ODEQ – Documentos equivalentes se habilitaron los íconos de reversar, procesar y anular, cuando se realiza este proceso reverso para anular.  
+- La otra alternativa es reversar el documento original y el sistema reversa automáticamente el EQ en la aplicación ODEQ - Documentos Equivalentes.  
+
+El proceso que se debe realizar es activar el EQ, reversar el documento origen (CP, FP, CM…), una vez se realiza la operación de reversar el documento origen el sistema automáticamente anulará el EQ asociado a este. De esta manera se podrá editar el documento origen sin inconveniente, pero se debe tener en cuenta que al momento de procesarlo el sistema creará un nuevo EQ consumiendo un consecutivo nuevo.   
+
+![](odeqq5.png)
+
+![](odeqq6.png)
+
+**Nota:** El sistema no va a volver a utilizar el mismo consecutivo, se va a crear uno nuevo, es decir, no reescribe el que ya existe dado que no se actualizan los datos sobre este mismo. Por lo anterior, es importante que al momento de reversar un documento origen tengan esto presente dado que se pueden tener inconvenientes en cuanto a que los consecutivos del EQ no tengan un orden lógico comparado con las fechas de los documentos.   
+
