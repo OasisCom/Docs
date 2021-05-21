@@ -23,10 +23,10 @@ editable: si
 
 ----
 
-### Solución OasisCom
+### OasisCom Software ERP
 
 
->###### [Descriptivo ERP OasisCom](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-solucion-erp-oasiscom.pdf)
+>###### [Descriptivo OasisCom Software ERP](https://www.oasiscom.com/descriptivo-software-erp/)
 
 ---
 
