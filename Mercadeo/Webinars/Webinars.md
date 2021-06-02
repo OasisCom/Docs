@@ -19,8 +19,9 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
->##### [WEBINAR: Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Presentación_Webinar_DocSoporte.pdf)
+>##### [WEBINAR: Beneficios de un ERP enfocado en Industrias](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion_Beneficios_ERP_enfocado_industrias.pdf)
 
+>##### [WEBINAR: Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Presentación_Webinar_DocSoporte.pdf)
 
 >>### Memorias Webinar Nómina Electrónica
 >##### [Presentación: Webinar Nómina Electrónica](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion-webinar-nomina-electronica.pdf)
