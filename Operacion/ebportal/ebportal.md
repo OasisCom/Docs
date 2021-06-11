@@ -3,16 +3,29 @@ layout: default
 title: Factura Electronica
 permalink: /Operacion/ebportal/
 editable: si
+
+# Docuemntos Electronicos
+
+---
+## Factura Electrónica
+
+> [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)  
+> [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)  
+
+---
+## Documento Soporte
+
+> [Manual Documentos Equivalentes (descargar)](http://docs.oasiscom.com/Operacion/ebportal/manual-documentos-equivalentess.pdf)
 ---
 
-# Factura Electronica
+---
+## Nomina electronica
 
 ---
-### Factura Electrónica
 
->###### [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)  
->###### [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)  
->###### [Manual Documentos Equivalentes (descargar)](http://docs.oasiscom.com/Operacion/ebportal/manual-documentos-equivalentess.pdf)
+---
+## Diccionario
+
 ---
 
 **Menú**  
