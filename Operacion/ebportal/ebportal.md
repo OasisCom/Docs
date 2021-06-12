@@ -9,12 +9,12 @@ editable: si
 ---
 #### Factura Electrónica
 
-####### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)    
-####### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)    
+###### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)    
+###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)    
 
 #### Documento Soporte
 
-####### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/documentos-soportes.pdf)  
+###### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/documentos-soportes.pdf)  
 
 #### Nomina electronica
 
