@@ -7,19 +7,18 @@ editable: si
 # Docuemntos Electronicos
 
 ---
-### Factura Electrónica
+#### Factura Electrónica
 
-###### > [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)  
-###### > [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)  
+####### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)    
+####### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)    
 
-### Documento Soporte
+#### Documento Soporte
 
-###### > [Manual Documentos Equivalentes (descargar)](http://docs.oasiscom.com/Operacion/ebportal/manual-documentos-equivalentess.pdf)
+####### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/documentos-soportes.pdf)  
 
-### Nomina electronica
+#### Nomina electronica
 
-
-### Diccionario
+#### Diccionario
 
 ---
 
@@ -30,43 +29,25 @@ editable: si
 3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
 5. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
-5.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
-5.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
-5.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)    
-5.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
-5.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)  
-5.6 [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasis-en-azure)  
-6. [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)  
-7. [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
-7.1 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)  
-7.2 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
-7.3 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
-8. [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)  
-9. [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)  
-9.1 [Aplicación BDOC–Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-básico-de-documentos)  
-9.2 [Aplicación BMOT–Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot-motivos)  
-9.3 [Aplicación BPLA-Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla-plantillas)  
-9.4 [Aplicación FRES-Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
-9.5 [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
-10. [Manual Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#manual-documento-soporte)  
-10.1 [Habilitación de la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#habilitación-de-la-aplicación-odeq)  
-10.1.1 [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
-10.1.2 [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
-10.1.2.1 [Variable Documento Equivalente Producto](http://docs.oasiscom.com/Operacion/ebportal/#variables-documento-equivalente-producto)  
-10.1.2.2 [Variable Documento Equivalente Ubicación](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-ubicación)  
-10.1.3 [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
-10.1.4 [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)  
-10.2 [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)  
-10.2.1 [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
-10.2.2 [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)  
-10.2.2.1 [Aplicación BTER-Tercero](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bter-tercero)  
-10.2.2.2 [Aplicación BTIM–Tipos de Impuestos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-btim-tipos-de-impuestos)  
-10.2.3 [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)  
-10.2.3.1 [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
-10.2.3.2 [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
-10.3 [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
+5.1 [Factura Electronica](http://docs.oasiscom.com/Operacion/ebportal/#)
+5.1.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
+5.1.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
+5.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)    
+5.1.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
+5.1.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)  
+5.1.6 [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasis-en-azure)  
+5.1.7 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
+5.1.8 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
+5.1.9 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
+5.1.10 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
+5.2 [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#)   
+5.2.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
+5.2.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
+5.3 [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#)  
+5.3.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)   
+5.3.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
+  
 
-     
 
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
 
@@ -421,51 +402,6 @@ Posteriormente, se ingresa a la aplicación **Facturas de venta - EBFFAC** para 
 
 ![](factura28.png)
 
-## [Actualización RUT Hoja 2 - Facturador Electrónico](http://docs.oasiscom.com/Operacion/ebportal/#actualización-rut-hoja-2---facturador-electrónico)
-
-El siguiente instructivo contiene el paso a paso para actualizar RUT (hoja #2) y asociar al Proveedor Tecnológico (OasisCom S.A.S) en la página de la DIAN.  
-
-* Ingresar a la página web de la DIAN (https://muisca.dian.gov.co) y loguearse.  
-
-![](1.png)
-
-* En el menú izquierdo seleccionar la opción _Registro Único Tributario_.  
-
-![](2.png)
-
-* De la lista desplegable, seleccionar la opción _Actualizar RUT_.  
-
-![](3.png)
-
-* Seguidamente dar click en el botón _Continuar_.  
-
-![](4.png)
-
-* Dar click en el botón _Continuar_.  
-
-![](5.png)
-
-* De la lista desplegable seleccionar la **Hoja 2**.  
-
-![](6.png)
-
-* Para cargar el documento damos click en el botón _Continuar_.  
-
-![](7.png)
-
-* En el formulario de la **Hoja 2**, en el renglón 89 seleccionar la opción _74 - Información Proveedor de Servicios Tecnológicos PST_.  
-
-![](8.png)
-
-* Allí mismo, en el renglón 90 seleccionar la fecha exacta en la que se asoció al proveedor tecnológico.  
-
-![](9.png)
-
-* Seguidamente, en el renglón 91 ingresar el número de NIT de OASISCOM S.A.S **830003840-5**.  
-
-![](10.png)
-
-* Finalmente, guardar y firmar para formalizar el documento.  
 
 ## [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)
 
@@ -593,366 +529,3 @@ Y la información que esté guardada será la que se muestre en la factura.
 
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
-
-## [Facturación Electrónica Fase Dos](http://docs.oasiscom.com/Operacion/ebportal/#facturación-electrónica-fase-dos)
-
-1.	INTRODUCCIÓN  
-El presente documento tiene como objetivo dar a conocer el proceso de la parametrización en fase II de facturación electrónica en OasisCom.  
-Le recomendamos leerlo atentamente para asegurar el correcto aprendizaje y/o resolución de dudas.  
-
-2.	PARAMETRIZACIÓN   
-
-**Ubicación**   
-Se debe ingresar a las ubicaciones geográficas **[BUBG]**, en donde se debe configurar la ubicación geográfica según los códigos del *DANE* y verificar que a nivel padre e hijo se encuentre correcto (El campo padre debe corresponder de Municipio ? Ciudad).  
-
-![](ebportal21.png)  
-
-**Documentos**  
-Se ingresa al básico de documentos **[BDOC]**, se procede a crear los documentos para aprobar el Set de Pruebas FC2 (Documento para facturas), DV2 (Documento para notas crédito), NF2 (Documento para notas débito).  
-Puede descargar aquí los documentos de *Maestro, Detalle y Status.*  
-
-![](ebportal22.png)  
-
-En la parametrización de los documentos mencionados anteriormente en el maestro el campo *EBILL* debe estar diligenciado con una de las opciones que se visualiza.   
-
-![](ebportal61.png)  
-
-A continuación, se describen la funcionalidad del campo Ebill:  
-•	**No Ebill:** Hace referencia a los documentos que no corresponden a documentos electrónicos.  
-•	**Ebill ver. 1 Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase I.  
-•	**Ebill ver. 2 Síncrono Producción:** Corresponde a los documentos electrónicos que se encuentren reportando a la DIAN en Fase II.  
-•	**Ebill ver. 2 Síncrono Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). De este modo nos permite visualizar los rechazos de la transacción en caso de existir, pero no alimenta el tablero (diagrama de barras) en la página de habilitación de la DIAN.  
-•	**Ebill ver. 2 Asíncrono Testid Habilitación:** Corresponde a los documentos electrónicos reportados a la DIAN en fase de habilitación (set de pruebas). Esta opción envía a la DIAN así existan rechazos sobre la transacción y alimenta el Tablero (diagrama de barras). En caso de enviar documentos y aparecer en la pagina de la DIAN rechazados aconsejamos cambiar al modo anterior (Ebill ver. 2 Síncrono Habilitación), para validar el motivo del rechazo.  
-•	**Ebill ver. 2 Asíncrono Producción:**  Corresponde a los documentos electrónicos que se encuentren reportando en Fase II autorizados por la DIAN para enviar en lote (generación masiva de facturas diarias).  
-•	**Ebill ver. 2 Azure:**  Corresponde a los documentos electrónicos de un cliente de OASIS ONPREMISE que se encuentre reportando sus facturas a la nube de Azure para hacer el proceso de envió al adquiriente y DIAN, tanto en habilitación como en producción.  
-
-En el detalle se debe parametrizar el campo código externo   
-
-![](ebportal62.png)  
-
-Adicional a esto también se debe parametrizar el campo código externo1.  
-
-![](ebportal63.png)  
-
-Se recuerda que las tres primeras opciones (Aiu, Estándar, Mandatos) son para     facturas de venta y/o facturas de exportaciones.  
-**Terceros:**  
-En el básico de terceros **[BTER]**, debe estar creado el tercero de la empresa que es facturador electrónico y el tercero de **OASISCOM.**  
-Puede descargar **aquí** el tercero de OasisCom   
-
-![](ebportal64.png)  
-
-Adicional a esto en el tercero del facturador electrónico en el campo Código Antiguo deben relacionar la matrícula mercantil de la empresa.  
-
-![](ebportal65.png)  
-
-El tercero FE debe tener relacionado el código de la ubicación geográfica donde se encuentra:  
-
-![](ebportal67.png)  
-
-**Acciones:**  
-En el básico de acciones **[BACC]** debe estar creada la acción cero 0.  
-
-![](ebportal69.png)  
-
-**Tipos de Medios:**  
-En el básico de tipos de medios **[ABTM]** debe estar creado el Tipo de medio cero 0.  
-
-![](ebportal70.png)  
-
-**Contactos:**  
-En la aplicación de contactos **[ACON]** debe estar creado el contacto cero 0.  
-
-![](ebportal71.png)  
-
-**Tipos de Contactos:**  
-En la aplicación de tipos de contactos **[ABTC]** debe estar creado Tipo contacto cero 0.   
-
-![](ebportal72.png)  
-**Tipos de Impuestos:**  
-En el básico de Tipos de Impuestos **[BTIM]** debe estar creado el tipo de impuesto 99, el cual se debe parametrizar de acuerdo con la(s) responsabilidad(es) fiscal(es) del Facturador Electrónico y asociarlo a las responsabilidades y régimen correspondiente de la empresa creada.  
-
-![](ebportal73.png)  
-
-**Motivos:**  
-En el básico de motivos **[BMOT]** deben de estar parametrizados los motivos de cada documento en el campo Código externo. Los 5 primeros corresponden a los motivos que se deben asociar a los documentos de las notas crédito y los siguientes 4 corresponden a los motivos que se deben asociar a las notas débito.  
-
-![](ebportal75.png)  
-
-**Condiciones de Pago:**  
-En el básico de condiciones de pago **[BCND]**debe de estar parametrizado el campo Código externo.  
-
-![](ebportal76.png)  
-
-**Formas de Pago:**  
-En el básico de Formas de Pago **[BFOR]** debe estar parametrizado el campo código externo.  
-
-![](ebportal77.png)  
-**Unidades de Medida:**  
-En el básico de Unidades de Medida **[BMED]** debe de estar parametrizado el campo código externo.  
-
-![](ebportal78.png)  
-
-**Resoluciones:**  
-En la aplicación de Resoluciones **[FRES]** Deben de estar creadas cada una de las resoluciones según datos de la DIAN para los documentos de facturación electrónica teniendo en cuenta los campos.  
-
-•	Documento: Documento de Factura al que pertenece la resolución (FC2, FC, etc.)  
-•	Ubicación: Código de la Ubicación en Oasis  
-•	Caja: Siempre dejar uno (1).  
-•	ResolutionId: Número de la Resolución expedida en la DIAN  
-•	Prefijo: Prefijo asociado a la resolución, en caso de no tener se deja vacío  
-•	Inicial: Número inicial de resolución  
-•	Final: Número final de resolución  
-•	Pronunciamiento: Clave técnica otorgada por la DIAN en cada resolución  
-•	F. Inicial Resolución: Fecha Inicial de la resolución  
-•	F. Final Resolución: Fecha Final de la resolución  
-•	Fecha Final: Fecha Final de la resolución  
-•	Estado: Dejar Activo  
-
-![](ebportal79.png)  
-
-**Empresas:**  
-En la aplicación de Empresa **[SEMP]** parametrizar el TestSetId dado por la Dian para las pruebas de habilitación en el campo TestId.  
-
-![](ebportal80.png)  
-
-Se debe relacionar el correo electrónico que se usará como máscara para el envío de correos electrónicos a los adquirientes en el campo EMailOutput.  
-
-![](ebportal81.png)  
-
-Se debe relacionar la información de la empresa como dirección, teléfonos, ciudad, etc. para la información que se visualiza en el formato (Representación Gráfica de las transacciones).  
-
-![](ebportal82.png)  
-
-## [Manual de Documentos Equivalentes](http://docs.oasiscom.com/Operacion/ebportal/#manual-de-documentos-equivalentes)
-
-En el siguiente manual se realiza la explicación de la parametrización que se debe realizar para la creación de los documentos equivalentes, indicando en cuáles aplicaciones se debe realizar este proceso. 
-
-A continuación, se explica cómo realizar la parametrización para los documentos soporte sobre las adquisiciones efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente.
-Los documentos definidos para realizar esta parametrización se relacionan a continuación:
-
-+ PE = PMOV – Movimientos
-+ EF = OFAC – Facturas de compra
-+ CS = OCAF - Compras de café
-
-
-### [Aplicación BDOC-Básico de documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-básico-de-documentos)
-
-Estos documentos, con sus respectivos conceptos deben ser parametrizados en la aplicación **BDOC – Básico de documentos.** 
-
-![](manual 1.png)
-
-Se deben diligenciar los campos señalados de la siguiente manera:
-
-+ **Documento:** En este campo se deben parametrizar los documentos mencionados **(PE, EF o CS).**
-+ **Nombre documento:** Los documentos deben denominarse expresamente con el nombre *"Documento soporte en adquisiciones efectuadas a no obligados a facturar".*
-+ **Ebill:** En este campo los documentos deben marcarse como *“Documento Electrónico”.* Lo anterior con el fin de que, además del funcionamiento normal del documento, este empiece a exigir y controlar las resoluciones.
-
-En el detalle de la aplicación **BDOC,** en la pestaña *“Conceptos”* se deben crear los respectivos conceptos.
-
-
-### [Aplicación BMOT-Motivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bmot-motivos)
-
-En la aplicación **BMOT – Motivos** se debe crear el motivo correspondiente para cada documento y concepto creado. 
-
-![](manual 2.png)
-
-
-### [Aplicación BPLA-Plantillas](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpla-plantillas)
-
-Una vez se realice la parametrización en las aplicaciones **BDOC – Básico de documentos** y **BMOT - Motivos,** en la aplicación **BPLA – Plantillas** se debe realizar la parametrización de las plantillas que apliquen para los documentos creados que van a funcionar para los sujetos no obligados a expedir *Factura de Venta.*
-
-![](manual 3.png)
-
-
-### [Aplicación FRES-Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)  
-
-En la aplicación **FRES – Resoluciones** se debe diligenciar la información que se encuentra en la resolución que envía la **DIAN.** 
-
-![](manual 4.png)
-
-Los campos se deben diligenciar de la siguiente manera:
-
-+ **Documento:** Debe ir el documento que se utilice para el proceso de compras a sujetos no obligados a expedir Factura de Venta
-+ **Ubicación:** Se debe diligenciar la ubicación correspondiente. 
-+ **Caja:** Se debe diligenciar el número 1.
-+ **Resolution ID:** En este campo se diligencia el número de resolución que se encuentra en el documento que envía la DIAN.
-+ **Prefijo:** En este campo se debe diligenciar el prefijo en caso de que éste se encuentre asociado, si no se maneja predijo se deja vacío este campo. Es importante tener en cuenta que, si se diligencia un prefijo, este debe ser exclusivo para el proceso de documentos soporte.
-+ **Inicial y Final:** Se debe diligenciar el rango respectivo.
-+ **Fecha inicial de resolución:** En este campo se digita la fecha inicial desde donde comprende la resolución.
-+ **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
-+ **Estado:** El estado debe ser *“Activo”.*
-
-### [Aplicación BCNS-Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
-
-Una vez se realice la parametrización en la aplicación **FRES – Resoluciones,** se deben parametrizar los consecutivos en la aplicación **BCNS – Consecutivos** en el campo *“Número”* para que inicien de acuerdo con el rango inicial solicitado en la **DIAN,** digitando de igual forma el documento y la ubicación a la que pertenece. 
-
-![](manual 5.png)
-
-**Importante:** Adicional a la información presentada anteriormente sobre la parametrización que se debe realizar para los documentos equivalentes, es importante que se tenga en cuenta lo indicado por la **DIAN** en el comunicado de prensa N° 55 del 21 de julio del 2020, el cual se relaciona a continuacion:
-[https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx](https://www.dian.gov.co/Prensa/Paginas/NG-Comunicado-de-Prensa-55.aspx)
-
-## [Manual Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#manual-documento-soporte)
-
-El siguiente manual se crea de acuerdo con la resolución # 0042 expedida por la DIAN, donde se realiza la explicación sobre la parametrización realizada para llevar un control sobre las compras que se realicen a terceros no obligados a expedir factura de venta. 
-
-## [Habilitación de la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#habilitación-de-la-aplicación-odeq)
-
-A continuación, se explica el paso a paso de cómo realizar la parametrización para terceros no obligados a expedir factura de venta
-
-### [Aplicación SROL-Roles](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-srol-roles)  
-
-Luego se debe ingresar a la aplicación SROL - Roles, en el rol que corresponda. En el detalle en la pestaña programas se debe añadir un nuevo registro y agregar el programa ODEQ – Documento equivalente. 
-
-![](odeq1.png)
-
-### [Aplicación WVAR-Variables](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-wvar-variables)   
-
-#### [Variable documento](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento)  
-
-En la aplicación WVAR - Variables, deben estar creadas tres variables para que el sistema identifique que se debe crear un documento equivalente.  
-
-![](odeqq.png)
-
-#### [Variable Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente)    
-
-En la aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalent que hace referencia al documento que se va a crear en la aplicación ODEQ – Documentos Equivalentes, en el campo formula deben elegir un documento que no se encuentre en uso este caso elegimos EQ, este documento debe estar parametrizado en la aplicación BDOC – Documentos.  
-
-![](odeqq1.png)
-
-#### [Variable Documento Equivalente Producto](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-producto)   
-
-En la aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalentR que hace referencia al producto que irá sobre el documento equivalente, en el campo fórmula debe ir el código del producto que se requiera generar en el documento asignado, para este ejemplo le podremos EQ, esto es cuando se cause un movimiento en la aplicación PMOV o algún otro documento en el cual no se ingrese producto como lo es un OFAC.  
-
-De acuerdo con esta variable el sistema tomará ese código para traerlo en el detalle del ODEQ, generalmente siempre va 1 pero si ya hacen uso de este producto 1 pueden hacer uso de esta variable para modificarlo o se puede dejar en 0 si lo requieren.  
-
-![](odeqq2.png)
-
-#### [Variable Documento Equivalente Ubicación](http://docs.oasiscom.com/Operacion/ebportal/#variable-documento-equivalente-ubicación)   
-
- La aplicación WVAR – Variables se debe parametrizar la variable VDocEquivalentL la cual genera un documento equivalente por ubicación.  
- 
- ![](odeqq3.png)
- 
- A nivel de esta variable, el sistema valida que al crear documentos desde las aplicaciones OFAC – Facturas de compra, PMOV – Movimientos, TMEN – Caja menor, TVIA – Viajes, este creada correctamente la resolución, de acuerdo con el documento EQ el cual debe estar creado en la aplicación FRES – Resoluciones con la ubicación que corresponda.  
- 
- En caso de que esta ubicación sea la 1, el sistema lo que hace es tomar la ubicación y generar el ODEQ – Documento Equivalente por ubicación del documento, pero para que el sistema pueda generarlo. El EQ en el BDOC - Documento debe tener el flag activo de ubicación para que se tome un consecutivo por cada ubicación.  
- 
-Al momento de crear la resolución con el documento EQ se debe tener en cuenta la ubicación respectiva, debido a que en el momento de realizar movimientos en las aplicaciones OFAC – Facturas de Compra PMOV - Movimientos o hacer cajas menores, el sistema entra a validar en la aplicación FRES - Resoluciones si existe la resolución para la ubicación diligenciada.  
-
-En la aplicación ODEQ – Documento Equivalente se crea el documento EQ para dicha ubicación y de esta forma se genera un consecutivo de acuerdo con la ubicación diligenciada. Se debe tener en cuenta que por el tipo de documento el sistema no va a crear una resolución si no que, únicamente valida el documento por ubicación, esta ubicación debe estar parametrizada en el FRES - Resoluciones.  
-
-![](odeqq4.png)
-
-### [Aplicación BDOC-Documentos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bdoc-documentos)  
-
-A nivel de la aplicación BDOC – Básico de documento, también debe ser creado el documento EQ, por concepto EQ y en la aplicación BMOT – Básico de motivos se debe crear el motivo cero.  
-
-**Importante:** En el campo programa debe ir diligenciado la aplicación que vamos a requerir, en este caso la aplicación ODEQ. En el campo ebill se debe seleccionar la opción NO EBILL, únicamente para el documento EQ lleva esta opción.   
-
-![](eq01.png)
-
-En el detalle la pestaña status debe ir diligenciado el concepto N. 
-
-![](eq02.png)
-
-En la aplicación BMOT – Básico de motivos se debe crear el motivo cero.
-
-![](eq03.png)
-
-### [Aplicación BPRO-Productos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bpro-productos)  
-
-En la aplicación BPRO -Productos, se debe añadir un nuevo registro y crear el producto numero 1 o el que deseen y que este mismo debe ser diligenciado en la aplicación WVAR- Variables, para utilizar este modelo en aplicación PMOV y TMEN. No es necesario ponerle nombre al producto, en el campo inventario Terminado y en el estado activo.
-
-![](eq04.png)
-
-## [Validaciones en la aplicación ODEQ](http://docs.oasiscom.com/Operacion/ebportal/#validaciones-en-la-aplicación-odeq)   
-### [A nivel de documentos](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-documentos)  
-
-En la aplicación BDOC – Básico de documentos, se parametrizan los documentos existentes por los que se registran las compras (FP, CP y CF) ya sea a nivel de producto o a nivel de servicios, estos documentos deben estar marcados en el campo EBILL con la opción “Genera Documento Equivalente”. 
-
-![](odeq5.png)
-
-Al momento de confirmar las compras por las diferentes aplicaciones de OasisCom, el sistema identifica que debe crear automáticamente el documento EQ en la aplicación ODEQ – Documento equivalente.
-
-![](odeq6.png)
-
-### [A nivel de tercero](http://docs.oasiscom.com/Operacion/ebportal/#a-nivel-de-tercero)  
-#### [Aplicación BTER-Tercero](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bter-tercero)  
-
-Para realizar la validación de los proveedores no obligados a expedir factura de venta, primero se debe validar en la aplicación BTER - Terceros y verificar el tipo de impuesto. 
-
-![](odeq7.png)
-
-#### [Aplicación BTIM–Tipos de Impuestos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-btim-tipos-de-impuestos)  
-
-El tipo de impuesto es el que nos indica si el proveedor está obligado o no a expedir factura de venta, el campo que nos indica lo mencionado anteriormente, es el campo declarante. Para verificar este proceso ingresamos a la aplicación BTIM - Tipos de Impuestos y filtramos por el número de impuesto del tercero. 
-
-![](odeq8.png)
-
-**Nota:** Si el campo declarante se encuentra con el check, quiere decir que el tercero que tenga ese tipo de impuesto está obligado a expedir factura de venta y todo lo que se adquiera con este tercero no se va a ver reflejado en la aplicación ODEQ – Documento Equivalente. Si se realiza la compra a un tercero y el tipo de impuesto que tiene relacionado no cuenta con el check, los movimientos se verán reflejados en la aplicación ODEQ - Documento Equivalente. 
-
-**Mensaje de control** correspondiente al tercero obligado a facturar electrónicamente, previa parametrización en el **WVAR** llamado verifyebill , este registro debe ser llamado de este modo y en su fórmula; deben ser colocadas las aplicaciones sobre los cuales tendrá efecto. en el caso del ejemplo, esta para el **OCAF y FFAC**.  
-
-![](FFAC_01.png)  
-**WVAR**
-
-![](wvar_01.png)  
-
-En el **BTER** también se creó un nuevo campo para controlar esta validación sobre el tercero, cuando esta encendida esta variable es usada en conjunto con el WVAR para realizar la validación.  
-
-![](bter_01.png)  
-
-## [Resolución de documentos soporte](http://docs.oasiscom.com/Operacion/ebportal/#resolución-de-documentos-soporte)    
-### [Aplicación FRES–Resoluciones](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-fres-resoluciones)   
-
-En la aplicación FRES – Resoluciones se debe diligenciar la información que se encuentra en la resolución que envía la DIAN sobre documento soporte. 
-
-![](odeq9.png)
-
-Los campos se deben diligenciar de la siguiente manera:
-
-+ **Documento:** Debe ir el documento que se utilice para el proceso de compras a sujetos no obligados a expedir Factura de Venta, para este caso el documento que debe ser diligenciado es EQ. 
-+ **Ubicación:** Se debe diligenciar la ubicación correspondiente. 
-+ **Caja:** Se debe diligenciar el número 1.
-+ **Resolution ID:** En este campo se diligencia el número de resolución que se encuentra en el documento que envía la DIAN.
-+ **Prefijo:** En este campo se debe diligenciar el prefijo en caso de que éste se encuentre asociado, si no se maneja prefijo se deja vacío este campo. Es importante tener en cuenta que, si se diligencia un prefijo, este debe ser exclusivo para el proceso de documentos soporte.
-+ **Inicial y Final:** Se debe diligenciar el rango respectivo.
-+ **Fecha inicial de resolución:** En este campo se digita la fecha inicial desde donde comprende la resolución.
-+ **Fecha final de resolución y fecha final:** En estos campos se debe digitar la fecha final hasta donde comprende la resolución.
-+ **Estado:** El estado debe ser “Activo”.
-
-### [Aplicación BCNS–Consecutivos](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-bcns-consecutivos)  
-
-Una vez se realice la parametrización en la aplicación FRES – Resoluciones, se deben parametrizar los consecutivos en la aplicación BCNS – Consecutivos en el campo “Número” para que inicien de acuerdo con el rango inicial solicitado en la DIAN, digitando de igual forma el documento EQ y la ubicación a la que pertenece.
-
-![](manual 5.png)
-
-
-## [Aplicación ODEQ–Documento Equivalente](http://docs.oasiscom.com/Operacion/ebportal/#aplicación-odeq-documento-equivalente)  
-
-Una vez se realicen las parametrizaciones mencionadas anteriormente, el sistema en la aplicación ODEQ – Documentos Equivalentes crea el documento EQ, proveniente de aquellas compras realizadas a los sujetos no obligados a expedir factura de venta, respetando la numeración parametrizada de acuerdo con la resolución.
-
-**Nota:** El sistema controla que el consecutivo que se asigne al documento EQ se encuentre acorde con la resolución parametrizada. 
-
-![](odeq11.png)
-
-Para identificar si la factura llegó o no, en los campos documento 1, número 1 y ubicación 1, se ve relacionado el documento original. 
-
-![](odeq12.png)
-
-En el detalle encontramos el producto, la cantidad, el precio, el total y la observación que se hayan registrado previamente. 
-
-![](odeq13.png)
-
-Para poder reversar el documento original existen dos alternativas: 
-- En la aplicación ODEQ – Documentos equivalentes se habilitaron los íconos de reversar, procesar y anular, cuando se realiza este proceso reverso para anular.  
-- La otra alternativa es reversar el documento original y el sistema reversa automáticamente el EQ en la aplicación ODEQ - Documentos Equivalentes.  
-
-El proceso que se debe realizar es activar el EQ, reversar el documento origen (CP, FP, CM…), una vez se realiza la operación de reversar el documento origen el sistema automáticamente anulará el EQ asociado a este. De esta manera se podrá editar el documento origen sin inconveniente, pero se debe tener en cuenta que al momento de procesarlo el sistema creará un nuevo EQ consumiendo un consecutivo nuevo.   
-
-![](odeqq5.png)
-
-![](odeqq6.png)
-
-**Nota:** El sistema no va a volver a utilizar el mismo consecutivo, se va a crear uno nuevo, es decir, no reescribe el que ya existe dado que no se actualizan los datos sobre este mismo. Por lo anterior, es importante que al momento de reversar un documento origen tengan esto presente dado que se pueden tener inconvenientes en cuanto a que los consecutivos del EQ no tengan un orden lógico comparado con las fechas de los documentos.   
-
