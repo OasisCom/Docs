@@ -3,10 +3,10 @@ layout: default
 title: Factura Electronica
 permalink: /Operacion/ebportal/
 editable: si
-
+---
+---
 # Docuemntos Electronicos
 
----
 #### Factura Electrónica
 
 ###### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)    
