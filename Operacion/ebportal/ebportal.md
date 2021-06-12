@@ -5,7 +5,7 @@ permalink: /Operacion/ebportal/
 editable: si
 ---
 ---
-# Docuemntos Electronicos
+# Documentos Electrónicos
 
 #### [Factura Electrónica]()
 
