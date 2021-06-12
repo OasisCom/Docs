@@ -29,7 +29,7 @@ editable: si
 3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
 5. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
-5.1 [Factura Electronica](http://docs.oasiscom.com/Operacion/ebportal/#)
+5.1 [Factura Electronica](http://docs.oasiscom.com/Operacion/ebportal/#)  
 5.1.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)  
 5.1.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
 5.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)    
