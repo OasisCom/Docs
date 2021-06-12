@@ -7,8 +7,8 @@ editable: si
 ---
 # Documentos Electrónicos  
 
-#### Factura Electrónica   
-###### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)      
+#### Factura Electrónica
+###### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)
 ###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)      
 
 #### Documento Soporte  
