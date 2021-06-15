@@ -28,8 +28,8 @@ editable: si
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
 5. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
 5.1 [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#factura-electrónica)  
-5.1.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)  
-5.1.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
+5.1.1 [Archivo XML Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)  
+5.1.2 [Archivo plano Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
 5.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)    
 5.1.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
 5.1.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)  
@@ -39,11 +39,11 @@ editable: si
 5.1.9 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
 5.1.10 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
 5.2 [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#documento-soporte)   
-5.2.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
-5.2.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
+5.2.1 [Archivo XML Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
+5.2.2 [Archivo plano Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
 5.3 [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
-5.3.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nomina)   
-5.3.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nomina)  
+5.3.1 [Archivo XML Nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nómina)   
+5.3.2 [Archivo plano Nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
   
 
 
