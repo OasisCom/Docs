@@ -22,7 +22,7 @@ editable: si
 
 **Menú**  
 
-1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
+[1. Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#1.-correo-factura-electrónica)  
 2. [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
 3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
@@ -47,7 +47,7 @@ editable: si
   
 
 
-## 1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
+## [1. Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#1.-correo-factura-electrónica)
 
 La plantilla de envío de facturas electrónicas contiene tres links que permiten confirmar el recibido de la factura, _Aceptarla_ o _Rechazarla_. Igualmente, para cada acción se envía una plantilla de correo como respuesta.  
 
@@ -71,7 +71,7 @@ Plantilla al _Rechazar_ una factura.
 **Nota:** las plantillas de envío de correos se visualizarán con el logo de la empresa de donde el usuario se encuentre en sesión.  
 
 
-## 2. [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
+## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
 
 El formato de factura electrónica que se envía al adquiriente contiene un Código QR, que le permitirá ver desde un dispositivo móvil los datos de la factura.  
 
