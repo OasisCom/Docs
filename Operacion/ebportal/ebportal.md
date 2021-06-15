@@ -100,7 +100,7 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ## [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#factura-electrónica)  
 
-### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)
+### [Archivo XML Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)
 
 Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom o consumiendo un servicio web que provee OasisCom para que este cargue sea de forma automática.  
 
@@ -117,7 +117,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 
 
-### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
+### [Archivo plano Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
@@ -532,9 +532,9 @@ https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la
 
 ## [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#documento-soporte)   
 
-### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
-### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
+### [Archivo XML Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
+### [Archivo plano Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
 
 ## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
-### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nomina)   
-### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nomina)  
+### [Archivo XML nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nómina)   
+### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
