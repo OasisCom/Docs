@@ -8,16 +8,16 @@ editable: si
 ---
 #### Factura Electrónica
 ###### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)
-###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)      
+###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)   
+###### - [Diccionario Datos Factura Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_FE.pdf)  
 
 #### Documento Soporte  
 ###### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/documentos-soportes.pdf)    
+###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_DS.pdf)  
 
 #### Nomina electronica  
 
-#### Diccionario  
-###### - [Diccionario Datos Factura Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_FE.pdf)  
-###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_DS.pdf)  
+ 
 ---
 
 **Menú**  
@@ -533,6 +533,16 @@ https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la
 ## [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#documento-soporte)   
 
 ### [Archivo XML Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
+
+Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom. 
+
+**Estructura**
+
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+
 ### [Archivo plano Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
 
 ## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
