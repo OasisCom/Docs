@@ -27,7 +27,7 @@ editable: si
 3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
 4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
 5. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
-5.1 [Factura Electronica](http://docs.oasiscom.com/Operacion/ebportal/#)  
+5.1 [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#factura-electrónica)  
 5.1.1 [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)  
 5.1.2 [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
 5.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)    
@@ -98,7 +98,9 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)
 
-### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml)
+## [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#factura-electrónica)  
+
+### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)
 
 Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom o consumiendo un servicio web que provee OasisCom para que este cargue sea de forma automática.  
 
@@ -115,7 +117,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 
 
-### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano)  
+### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
@@ -527,3 +529,12 @@ Y la información que esté guardada será la que se muestre en la factura.
 
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
+
+## [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#documento-soporte)   
+
+### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
+### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
+
+## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
+### [Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nomina)   
+### [Archivo plano](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nomina)  
