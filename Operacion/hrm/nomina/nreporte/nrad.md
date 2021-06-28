@@ -5,4 +5,4 @@ permalink: /Operacion/hrm/nomina/nreporte/nrad
 editable: si
 ---
 
-# - NRAD
+# Acumulado decimo tercer mes - NRAD
