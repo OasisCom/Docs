@@ -19,6 +19,8 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
+>##### [WEBINAR: Software ERP digitalizando empresas de Seguridad y Vigilancia](http://docs.oasiscom.com/Mercadeo//Webinars/presentacion-webinar-seguridad-vigilancia.pdf)
+
 >##### [WEBINAR: Beneficios de un ERP enfocado en Industrias](http://docs.oasiscom.com/Mercadeo//Webinars/Presentacion_Beneficios_ERP_enfocado_industrias.pdf)
 
 >##### [WEBINAR: Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Presentación_Webinar_DocSoporte.pdf)
