@@ -24,10 +24,11 @@ Descargar PDF.
 
 
 
-* [JFAC - Facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)
-* [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)
-* [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)
-* [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)
+* [JFAC - Facturas](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas)  
+* [Liquidación por Vencimiento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#liquidación-por-vencimiento)  
+* [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)    
+* [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)  
+* [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 
 
 
@@ -723,6 +724,8 @@ Estas ya se encuentran marcadas por BD, se encontrara disponible el ListBox.
 
 
 Aquí finaliza el proceso de _fidelización de clientes_.   
+
+## [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 
 
 
