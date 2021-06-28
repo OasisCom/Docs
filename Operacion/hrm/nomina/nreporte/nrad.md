@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comprobantes de Pago Vacaciones
+title: Acumulados
 permalink: /Operacion/hrm/nomina/nreporte/nrad
 editable: si
 ---
