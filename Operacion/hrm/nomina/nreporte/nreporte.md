@@ -29,7 +29,7 @@ Algunas aplicaciones para reportes en esta ventana son:
 * [**Acumulados - NRAC**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrac)  
 * [**Resumen mensual tercero - NRST**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrst)  
 * [**Informe Nomina - Presupuesto - NRSP1**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrsp1)  
-* [** - NRAD**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrad)   
+* [**Acumulado decimo tercer mes - NRAD**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrad)   
 
 
 
