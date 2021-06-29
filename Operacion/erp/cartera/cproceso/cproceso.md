@@ -27,7 +27,7 @@ Las aplicaciones utilizadas aquí son:
 + [CPRE](http://docs.oasiscom.com/Operacion/erp/cartera/cproceso/cpre) - Reclasificación de Cuentas por Pagar  
 + [CPID](http://docs.oasiscom.com/Operacion/erp/cartera/cproceso/cpid) - Cálculo Rotación de Cartera  
 + [CPCD](http://docs.oasiscom.com/Operacion/erp/cartera/cproceso/cpcd) - Carga Información para Datacredito  
-
++ [CPAS](http://docs.oasiscom.com/Operacion/erp/cartera/cproceso/cpas) - Ajustes de Saldos de Cartera 
 
 
 
