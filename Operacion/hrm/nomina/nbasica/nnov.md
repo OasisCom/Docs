@@ -17,9 +17,6 @@ En esta aplicación se ingresan los conceptos que han sido creados como novedade
 1.1.3 [Aplicación NBCO](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nbco)  
 1.1.4 [Aplicación NNOV](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nnov)  
 
-* [**Novedades - NNOV**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov) 
-
-    
 
 
 ## [Novedades](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#novedades) 
