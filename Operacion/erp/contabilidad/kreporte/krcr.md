@@ -11,11 +11,11 @@ editable: si
 
 La aplicación KRCR permite imprimir el certificado de retención en la fuente según el tercero consultado.  
 
-![](KRCR.png)
+![](KRCR3.png)
 
 **Año:** Año correspondiente al certificado que va a emitir.  
 **Id Cliente:** Identificación del cliente.  
-**Tipo:** Código según el tipo de certificado: Ica, IVA, Renta.  
+**Codigo:** Código según el tipo de certificado: Renta, ICA, IVA, CREE o Retención Iva.   
 
 
 
