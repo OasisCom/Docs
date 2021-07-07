@@ -76,11 +76,11 @@ Posteriormente de identificar los pasos anteriores, se debe ingresar a la aplica
 ![](traslado3.png)
 
 - **Documento:** El tipo de Documento a realizar en este caso NV (Novedad).   
-- **Ubicación:** La ubicación por la cual se realizará la novedad, éstas son parametrizadas en la aplicación BUBI - Ubicaciones Organización. (COMPLEMENTAR: las ubicaciones en novedades siempre deben ser 1)  
+- **Ubicación:** La ubicación por la cual se realizará la novedad, éstas son parametrizadas en la aplicación BUBI - Ubicaciones Organización. (COMPLEMENTAR: las ubicaciones en novedades siempre deben ser 1).    
 - **Concepto:** El concepto por el cual se realizará, para este caso el concepto debe ser TAA.  
-- **Fecha:** La fecha en que regirá la novedad es importante tener en cuenta que basada en la fecha en que se llevará el conteo la novedad se debe hacer a una fecha con dos meses menos, como se puede validar en nuestro ejemplo el traslado queremos hacerlo efectivo para el 16/08/2021, por eso se realizó con fecha de 16/06/2021 (dos meses menos) esto como normativa se da un periodo de 60 días para el cambio. (COMPLEMENTAR: el cambio siempre deber el primer día hábil teniendo en cuenta que el cambio aplica el primer día del 2 mes siguiente al mes en que solicita el traslado)  
+- **Fecha:** La fecha en que regirá la novedad es importante tener en cuenta que basada en la fecha en que se llevará el conteo la novedad se debe hacer a una fecha con dos meses menos, como se puede validar en nuestro ejemplo el traslado queremos hacerlo efectivo para el 16/08/2021, por eso se realizó con fecha de 16/06/2021 (dos meses menos) esto como normativa se da un periodo de 60 días para el cambio. (COMPLEMENTAR: el cambio siempre deber el primer día hábil teniendo en cuenta que el cambio aplica el primer día del 2 mes siguiente al mes en que solicita el traslado).    
 - **Tercero:** Empleado al cual se le realiza la novedad.   
-- **Cambio Administradora:** Según corresponda, en este caso es salud. (COMPLEMENTAR: este cambio aplica para entidades SALUD y PENSION, para las demás entidades no se creará novedad automática con auto liquidador TDA)   
+- **Cambio Administradora:** Según corresponda, en este caso es salud. (COMPLEMENTAR: este cambio aplica para entidades SALUD y PENSION, para las demás entidades no se creará novedad automática con auto liquidador TDA).     
 - **Entidad:** El NIT de la entidad a la cual será cambiada, en este caso Sanitas EPS a Famisanar. La entidad se parametriza en la aplicación BTER - Terceros.  
 
 Una vez guardado, se crea el nuevo registro con la novedad creada.  
