@@ -81,9 +81,9 @@ Posteriormente de identificar los pasos anteriores, se debe ingresar a la aplica
 - **Fecha:** La fecha en que regirá la novedad es importante tener en cuenta que basada en la fecha en que se llevará el conteo la novedad se debe hacer a una fecha con dos meses menos, como se puede validar en nuestro ejemplo el traslado queremos hacerlo efectivo para el 16/08/2021, por eso se realizó con fecha de 16/06/2021 (dos meses menos) esto como normativa se da un periodo de 60 días para el cambio. (COMPLEMENTAR: el cambio siempre deber el primer día hábil teniendo en cuenta que el cambio aplica el primer día del 2 mes siguiente al mes en que solicita el traslado).    
 - **Tercero:** Empleado al cual se le realiza la novedad.   
 - **Cambio Administradora:** Según corresponda, en este caso es salud. (COMPLEMENTAR: este cambio aplica para entidades SALUD y PENSION, para las demás entidades no se creará novedad automática con auto liquidador TDA).     
-- **Entidad:** El NIT de la entidad a la cual será cambiada, en este caso Sanitas EPS a Famisanar. La entidad se parametriza en la aplicación BTER - Terceros.  
+- **Entidad:** El NIT de la entidad a la cual será cambiada, en este caso Sanitas EPS a Famisanar. La entidad se parametriza en la aplicación BTER - Terceros.    
 
-Una vez guardado, se crea el nuevo registro con la novedad creada.  
+Una vez guardado, se crea el nuevo registro con la novedad creada.    
 
 ![](traslado4.png)
 
@@ -91,7 +91,7 @@ Al procesar las novedades TAA se crean automáticamente una novedad con auto liq
 
 ![](traslado5.png)  
 
-Al momento de procesar la novedad TDA se afectará la entidad en la aplicación NBEM – Empleado   
+Al momento de procesar la novedad TDA se afectará la entidad en la aplicación NBEM – Empleado.   
 
 ![](traslado6.png)  
 
