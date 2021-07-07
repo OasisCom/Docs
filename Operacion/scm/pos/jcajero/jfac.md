@@ -727,6 +727,20 @@ Aquí finaliza el proceso de _fidelización de clientes_.
 
 ## [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 
+Para realizar la respectiva parametrización y proceso que se realizaba en la aplicación EITRA –desde la aplicación JFAC – Facturas, a continuación, se describe procedimiento de cómo realizar la parametrización y como es su funcionalidad. 
+
+### Parametrización 
+-	Aplicación SCAM, se debe configurar el botón que aparecerá en el detalle de la aplicación JFAC – Factura que contiene las siguientes características. 
+
+ ![](produv.png)
+ 
+-	Aplicación WVAR – Variables, en esta aplicación se deben configurar las respectivas variables. 
+
+![](produv2.png)
+
+ Luego de la anterior configuración, el sistema nos mostrara en la aplicación JFAC en la parte superior del detalle un botón, la principal funcionalidad de este botón es para que en esta aplicación se puedan generar pedidos o diferentes tipos de documentos el cual ya contienen productos a despachar o a vender, el objetivo es que los productos que se vayan a utilizar a nivel del detalle, la mayoría va a ser de un pedido previamente realizado, es decir relacionado un documento en el maestro de la factura.
+ 
+ ![](produv1.png)
 
 
 
