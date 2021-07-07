@@ -302,7 +302,7 @@
                 url: /Operacion/erp/cartera/cproceso/cpid
               - text: Carga Informacion para Datacredito
                 url: /Operacion/erp/cartera/cproceso/cpcd
-	      - text: Ajustes de Saldos de Cartera
+              - text: Ajustes de Saldos de Cartera
                 url: /Operacion/erp/cartera/cproceso/cpas
             - text: Reportes
               url: /Operacion/erp/cartera/creporte/
