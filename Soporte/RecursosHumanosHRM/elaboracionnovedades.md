@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Elaboración de Novedades TAA
-permalink: /Soporte/elaboracionnovedades
-editable: si
+title: Soporte
+permalink: /Soporte/RecursosHumanosHRM/elaboracionnovedades
+editable: s
 ---
 
 
