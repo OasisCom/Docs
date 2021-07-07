@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Inicio año Cartera
-permalink: /Operacion/erp/cartera/cproceso/cpia
+title: Ajustes de Saldos de Cartera
+permalink: /Operacion/erp/cartera/cproceso/cpas
 editable: si
 ---
 
