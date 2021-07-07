@@ -11,7 +11,7 @@ editable: si
 
 La aplicación KRCR permite imprimir el certificado de retención en la fuente según el tercero consultado.  
 
-![](KRCR3.png)
+![](krcr3.png)
 
 **Año:** Año correspondiente al certificado que va a emitir.  
 **Id Cliente:** Identificación del cliente.  
