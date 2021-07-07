@@ -10,17 +10,19 @@ editable: si
 
 En esta aplicación se ingresan los conceptos que han sido creados como novedades, es importante diferenciar los tipos de novedades (recordemos que los conceptos ya se mencionaron en datos básicos en la opción **NBCO - Conceptos**)   
 
-1.[Novedades](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#novedades)   
-1.1 [Novedad Traslado de entidad](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#novedad-traslado-de-entidad)  
-1.1.1 [Aplicación WVAR](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-wvar)  
-1.1.2 [Aplicación NBEM](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-nbco)  
-1.1.3 [Aplicación NBCO](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-nbco)  
-1.1.4 [Aplicación NNOV](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-nnov)  
+1.[Novedades](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#novedades)   
+1.1 [Novedad Traslado de entidad](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#novedad-traslado-de-entidad)  
+1.1.1 [Aplicación WVAR](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-wvar)  
+1.1.2 [Aplicación NBEM](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nbco)  
+1.1.3 [Aplicación NBCO](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nbco)  
+1.1.4 [Aplicación NNOV](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nnov)  
+
+* [**Novedades - NNOV**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov) 
 
     
 
 
-## [Novedades](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#novedades) 
+## [Novedades](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#novedades) 
 Para que una novedad sea tenida en cuenta en una nómina, su fecha debe estar comprendida en el periodo de programación de la nómina en la opción NPRO, o sea entre la fecha inicial y final de la nómina. Además, debe estar en estado procesado al momento de generar la nómina.
 
 
@@ -46,30 +48,30 @@ Para ello previamente deben estar definidos los días considerados festivos en l
 
 ![](nnov4.png)
 
-## [Novedad Traslado de entidad](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#novedad-traslado-de-entidad)   
+## [Novedad Traslado de entidad](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#novedad-traslado-de-entidad)   
 
 El siguiente manual se crea de acuerdo con el decreto 806 de 1998 Art 56 – Decreto 1406 de 1999 Art 42, con la necesidad de realizar el cambio de una entidad administradora como lo son las entidades de salud y pensión, por medio de una novedad en OasisCom.   
 
 
-### [Aplicación WVAR](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-wvar)    
+### [Aplicación WVAR](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-wvar)    
 
 Se debe verificar que existan las variables TAA, TDA y NewProcessTAA.  
 
 ![](traslado.png)  
 
-### [Aplicación NBEM](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-nbco)    
+### [Aplicación NBEM](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nbco)    
 
 Basado en el tercero el cual se realizará el cambio de entidad, es importante que antes de realizar cualquier cambio, se valide en que entidad se encuentra el tercero, para ello se debe ingresar a la aplicación NBEM – Empleados. (COMPLEMENTAR: solo debería existir una entidad de cada una por empleado, esta entidad debería tener vacío el campo Final).  
 
 ![](traslado1.png)
 
-### [Aplicación NBCO](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-nbco)    
+### [Aplicación NBCO](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nbco)    
 
 En esta aplicación se debe validad que los conceptos TAA y TDA se encuentre parametrizado en la aplicación NBCO – Conceptos.  
 
 ![](traslado2.png)
 
-### [Aplicación NNOV](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#aplicación-nnov)  
+### [Aplicación NNOV](https://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov#aplicación-nnov)  
 
 Posteriormente de identificar los pasos anteriores, se debe ingresar a la aplicación NNOV – Novedades se debe adicionar un nuevo registro y diligenciar el formulario correspondiente.   
 
