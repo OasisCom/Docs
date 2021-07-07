@@ -8,7 +8,7 @@ editable: si
 # Novedades - NNOV
 
 
-En esta aplicación se ingresan los conceptos que han sido creados como novedades, es importante diferenciar los tipos de novedades (recordemos que los conceptos ya se mencionaron en datos básicos en la opción **NBCO - Conceptos**).
+En esta aplicación se ingresan los conceptos que han sido creados como novedades, es importante diferenciar los tipos de novedades (recordemos que los conceptos ya se mencionaron en datos básicos en la opción **NBCO - Conceptos**)   
 
 1.[Novedades](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#novedades)   
 1.1 [Novedad Traslado de entidad](https://github.com/OasisCom/Docs/edit/master/Operacion/hrm/nomina/nbasica/nnov#novedad-traslado-de-entidad)  
