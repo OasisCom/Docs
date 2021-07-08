@@ -29,7 +29,7 @@ Descargar PDF.
 * [Fidelización de clientes](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#fidelización-de-clientes)    
 * [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)  
 * [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
-
+* [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)  
 
 
 
@@ -743,9 +743,32 @@ Para realizar la respectiva parametrización y proceso que se realizaba en la ap
  ![](produv1.png)
 
 
+## [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)
 
 
+Para realizar la respectiva parametrización y proceso desde la aplicación **JFAC** (Facturas), a continuación, se describe procedimiento de cómo realizar la parametrización y como es su funcionalidad. 
+
+### Parametrización 
+-	Para realizar la configuración de la funcionalidad de cambios mano a mano, se debe parametrizar el botón de cambio mano a mano, desde la opción **SCAM**, donde se especifica que es tipo botón y que ejecutara el método de javascript. 
+
+ ![](jfac54.png)
 
 
+**Programa:** jfac  
+**FieldID:** btnInfo1  
+**Nombre:** Cambio Mano a Mano  
+**Descripcion:** js_HandToHandExchange  
+**Defecto:** Cambio Mano a Mano  
+**Condicion:**  ui-icon-transfer-e-w  
+**Tipo:** Boton  
 
+Luego de la parametrización de **SCAM**, el botón estará disponible en la opción deseada. sobre la cual se hace clic y se desplegara la ventana de cambios.
 
+![](jfac56.png)
+
+En la ventana de cambios se buscan los productos a intercambiar, se seleccionan desde los listados y se especifica la cantidad a intercambiar. luego se hace clic en el botón aceptar y se ejecuta el proceso de cambio.
+
+![](jfac55.png)
+
+Por último, el cambio se podrá ver reflejado en la opción **ICNV**
+![](jfac57.png)
