@@ -25,6 +25,7 @@ Este módulo comprende los siguientes submódulos:
 * [**QRP3**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp3) - Programación de Ingresos.  
 * [**QRP4**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrp4) - Ejecución de Ingresos.  
 * [**QRRMO**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrrmo) - Movimientos de Presupuesto.  
+* [**QRRMT1**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrrmt1) - Contrato Movimientos Presupuestarios.  
 * [**QRRR**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrrr) - Registro Presupuestal por Rubro.  
 * [**QRAG**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrag) - Ejecución General.  
 * [**QRAG1**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qreporte/qrag1) - Ejecución General 1.  
