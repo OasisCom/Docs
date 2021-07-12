@@ -27,4 +27,12 @@ Se debe crear una variable para indicar que la empresa maneja este tipo de descu
 Seguidamente, continuación la parametrización en la aplicación [**FDES - Descuentos**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes#parametrización-liquidación-por-vencimiento).  
 
 
+## [Parametrización control insercion precios en Remisiones](http://docs.oasiscom.com/Operacion/dss/bsc/wbasica/wvar#parametrización-control-insercion-precios-en-Remisiones)
+
+Para controlar la insercion de los precios en las remisiones a legalizar en una factura de compra se debe tener presente la configuracion de la variable de empresa **PriceRemissionInventory**, la cual si esta prendida(1) indicara que debe tomar el precio de la remisión y no el de la orden de compra.  
+
+![](wvar3.png)
+
+
+
 
