@@ -14,3 +14,4 @@ La aplicación que se utiliza es:
 * [**PORD**](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pord)  - Orden de pago  
 * [**PORE**](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pore) - Orden de pago por empresa  
 * [**PPAD**](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/ppad) Pago Directo  
+* [**PVIN**](http://docs.oasiscom.com/Operacion/erp/cuentas/porden/pvin) Legalización de Interventor   
