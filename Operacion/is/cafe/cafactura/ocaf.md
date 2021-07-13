@@ -179,7 +179,7 @@ Cuando el factor de rendimiento determina que el café es muy bueno calidad AAA,
 Ajuste a café AAA, se adicionan variable de tope WVAR para evaluar directamente en el descuento, que la bonificación por factor no supere el valor indicado en la variable.  
 
 
-## [Control descuento Asociados superando Monto de Aportes](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#Control descuento Asociados superando Monto de Aportes)
+## [Control descuento Asociados superando Monto de Aportes](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#control-descuento-asociados-superando-monto-de-aportes)
 
 Para controlar descuentos a los asociados superando el monto de aportes por año es necesario configurar las siguientes opciones:
 
