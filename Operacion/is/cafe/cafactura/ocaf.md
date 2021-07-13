@@ -172,15 +172,27 @@ Adicionamos un nuevo registro dando click en el botón ![](+.png) de la barra de
 
 * **Importante:** El sistema validara la RETENCION acumulada diaria, por cada una de las ubicaciones en **OCAF** que esten procesadas, realizando la sumatoria  acumulanda; si aplica y es base de retencion esta se vera reflejada contablemente en la ultimo documento **OCAF**.  
 
-## [Variable de Bonificación]
+
+## [Variable de Bonificación](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#variable-de-bonificación)
+
 Cuando el factor de rendimiento determina que el café es muy bueno calidad AAA, entonces se le paga un valor adicional, sin que  supere un tope que en este  caso se indica en el WVAR.  
 Ajuste a café AAA, se adicionan variable de tope WVAR para evaluar directamente en el descuento, que la bonificación por factor no supere el valor indicado en la variable.  
 
 
+## [Control descuento Asociados superando Monto de Aportes](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#Control descuento Asociados superando Monto de Aportes)
 
+Para controlar descuentos a los asociados superando el monto de aportes por año es necesario configurar las siguientes opciones:
 
+Crear característica en la opción **BCRC** que contendrá las diferentes acciones sobre cada transacción.
+![](bcrc.png)
 
+Variable de empresa dentro de la opción **WVAR**, donde se registrará el monto de aportes por año.
+![](wvar.png)
 
+Con estas configuraciones básicas el sistema controlara los aportes por asociado, si supera el monto de aportes solicitara que se indique si se debe o no realizar el descuento en la transacción, esto se debe indicar en el maestro de la opción **OCAF** columna descuento.
 
+Para realizar o no el descuento se debe indicar en el maestro en la columna ya mencionada.
+![](ocaf24.png)  
 
-
+El mensaje de control se presentara al momento de confirmar el registro si este supera los aportes parametrizados.
+![](ocaf25.png) 
