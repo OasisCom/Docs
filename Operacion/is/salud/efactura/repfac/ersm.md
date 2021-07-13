@@ -7,3 +7,4 @@ editable: si
 
 # Saldos y Novedades - ERSM
 
+![](ersm.png)
