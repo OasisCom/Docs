@@ -734,13 +734,27 @@ Para realizar la respectiva parametrización y proceso que se realizaba en la ap
 
  ![](produv.png)
  
--	Aplicación WVAR – Variables, en esta aplicación se deben configurar las respectivas variables. 
+-	Aplicación WVAR – Variables, en esta aplicación se deben configurar las respectivas variables.   
 
 ![](produv2.png)
 
- Luego de la anterior configuración, el sistema nos mostrara en la aplicación JFAC en la parte superior del detalle un botón, la principal funcionalidad de este botón es para que en esta aplicación se puedan generar pedidos o diferentes tipos de documentos el cual ya contienen productos a despachar o a vender, el objetivo es que los productos que se vayan a utilizar a nivel del detalle, la mayoría va a ser de un pedido previamente realizado, es decir relacionado un documento en el maestro de la factura.
+ Luego de la anterior configuración, el sistema nos mostrara en la aplicación JFAC en la parte superior del detalle un botón, la principal funcionalidad de este botón es para que en esta aplicación se puedan generar pedidos o diferentes tipos de documentos el cual ya contienen productos a despachar o a vender, el objetivo es que los productos que se vayan a utilizar a nivel del detalle, la mayoría va a ser de un pedido previamente realizado, es decir relacionado un documento en el maestro de la factura.   
  
  ![](produv1.png)
+ 
+ A nivel del detalle de los pedidos, el cual ya contiene algunos productos a despachar o a vender, los productos que se vayan a utilizar a nivel de detalle, la mayoría van a ser de algún pedido previamente realizado, la aplicación VPED ya cuenta con unos productos precargados.   
+ 
+![](produv3.png)
+
+El objetivo principal es el embalaje o empaque de estos productos en cajas, para realizar el proceso se debe dar clic en el icono de *Picking – Facturas* que se encuentra en la parte superior del detalle, como se evidencia es el mismo proceso de la aplicación EITRA. Aquí se pueden visualizar y posteriormente dividirlos en las respectivas cajas, es decir si se requiere que en el renglón 1 el producto cuenta con 2 unidades, pero se necesita que sean despachados en cajas diferentes, en el botón de color verde haciendo clic en el sistema nos traerá una ventana emergente donde se indicara cuantas unidades irán en cada caja.      
+
+![](produv4.png)
+
+![](produv5.png)
+
+Cuando la aplicación no muestre las opciones descritas anteriormente, el objetivo de ellas es verificar con código de barras que se encuentra la opción en la parte superior. El sistema lo que realiza es buscar el producto que encuentra con el código de barras y lo va a insertar en la parte derecha. Luego de culminar el proceso anterior se debe dar clic en terminar empaque.    
+
+![](produv6.png)
 
 
 ## [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)
