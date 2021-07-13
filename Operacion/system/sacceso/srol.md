@@ -193,9 +193,28 @@ Para identificar el nombre de los botones se debe tener en cuenta la siguiente l
 
 ![](srolnombrebotones.png)
 
-**Invisible**: Se debe activar el flag si se requiere que el campo o botón este oculto, es decir, que cuando ingresemos a la aplicación no se pueda visualizar ese campo o botón para el usuario correspondiente.  
-**Tipo**: Existe una lista desplegable: Campo, Tab, botón parametrizado y botón fijo, dependiendo de la acción a realizar se selecciona el tipo para saber en dónde se realizará el efecto.  
 
+**Tipo**: Existe una lista desplegable: Campo, Tab, botón parametrizado y botón fijo, dependiendo de la acción a realizar se selecciona el tipo para saber en dónde se realizará el efecto.  
+**Invisible**: Se debe activar el flag si se requiere que el campo o botón este oculto, es decir, que cuando ingresemos a la aplicación no se pueda visualizar ese campo o botón para el usuario correspondiente.  
+#### [Ocultar Campos No Necesarios](http://docs.oasiscom.com/Operacion/system/sacceso/srol#ocultar-campos-no-necesarios)
+Mediante la siguiente parametrización se logra ocultar campos que no son necesarios al momento de crear terceros.
+
+Este cambio solo se vara reflejado en el Zoom al crear el tercero.
+![](bter.png)
+
+Lo primero que se debe identificar es el **Id** del campo que necesitamos ocultar, lo cual debemos hacer, seria ubicarse sobre el campo y oprimir las teclas *(**Shift** + **F11**)*
+![](bter1.png)
+Con esta información nos dirigimos a la opción **SROL** pestaña campos he ingresamos la siguiente línea.
+![](bter2.png)
+
+Luego de esto podremos volver a la opción y visualizaremos que este campo ya no se encuentra en el formulario de creación de terceros.
+![](bter3.png)
+
+
+***Nota:***Es importante tener en cuenta que aunque se oculte el campo, si tiene validaciones de campo obligatoria parametrizada se va a mostrar un mensaje como el siguiente 
+
+![](bter4.png)
+Por este motivo se debe eliminar dicha validación de campos obligatorios.
 
 ### [Pestaña Indicadores](http://docs.oasiscom.com/Operacion/system/sacceso/srol#pestaña-indicadores)
 
