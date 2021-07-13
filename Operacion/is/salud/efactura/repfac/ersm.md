@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Procesos
-permalink: /Operacion/is/salud/efactura/profac/ersm
+permalink: Operacion/is/salud/efactura/repfac/ersm
 editable: si
 ---
 
