@@ -9,6 +9,11 @@ editable: si
 
 La aplicación **FBTD** permite parametrizar los tipos de descuentos que se utilizarán en el módulo de facturación.
 
+- [Tipos de descuento](https://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtd#tipos-de-descuento)  
+- [Descuento por Volumen](https://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtd#descuento-por-volumen)  
+
+
+## [Tipos de descuento](https://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtd#tipos-de-descuento)  
 ![](fbtd1.png)
 
 **Id Tipo de descuento:** se ingresa el Id del descuento. Se debe tener en cuenta que este Id no es un consecutivo, pero si debe ser un número exclusivo al momento de crear un tipo de descuento.  
@@ -30,4 +35,16 @@ La aplicación **FBTD** permite parametrizar los tipos de descuentos que se util
 
 **_Nota:_** Se debe tener en cuenta que, si el estado del tipo de descuento es Inactivo **I**, este no será aplicado a ningún producto en caso de ser parametrizado.  
 
-Parametrizados los tipos de descuentos, ahora se deben realizar las listas de precios de los productos en la aplicación [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre). (_Ver aplicación_).  
+Parametrizados los tipos de descuentos, ahora se deben realizar las listas de precios de los productos en la aplicación [**FPRE - Precios**](http://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre). (_Ver aplicación_).    
+
+
+## [Descuento por Volumen](https://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtd#descuento-por-volumen)   
+
+Para realizar la parametrización para el descuento por volumen, se debe realizar la siguente parametricación.   
+
+![](fbtd2.png)
+
+La anterior parametrización se visualizara en las aplicaciónes [FDES - Descuentos](https://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes) y [VPED - Pedidos](https://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped)
+
+
+
