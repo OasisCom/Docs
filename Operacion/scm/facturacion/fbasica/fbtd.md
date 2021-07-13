@@ -46,5 +46,11 @@ Para realizar la parametrización para el descuento por volumen, se debe realiza
 
 La anterior parametrización se visualizara en las aplicaciónes [FDES - Descuentos](https://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes) y [VPED - Pedidos](https://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped)
 
+Para la aplicación FDES se visualiza el campo familia y en el detalle el respectivo descuento.   
 
+![](fbtd3.png)
+
+Para la aplicación VPED se ingresan los productos, donde cada uno de ellos pertenece a una linea, de acuerdo al valor del producto el sistema la asigna un descuento.  
+
+![](fbtd4.png)
 
