@@ -106,5 +106,20 @@ En esta aplicación, se crean cada uno de los productos tipo Activo Fijo.  Para 
 **Clasificación:**  Se registra lo creado anteriormente en el [**BCLA - Clasificación**](http://docs.oasiscom.com/Operacion/common/bprodu/bcla#Parametrización-para-el-módulo-activos-fijos)  
 **Inventario:** Se indica que es Activo fijo  
 **Id Grupo:** Vamos a registrar lo creado anteriormente en el [**BGRU  - Grupo**](http://docs.oasiscom.com/Operacion/common/bcuenta/bgru#Parametrización-para-el-módulo-activos-fijos)  
-**IvaCapitalizable:** Se debe marcar el flag a los activos en donde el Iva es mayor valor del activo
+**IvaCapitalizable:** Se debe marcar el flag a los activos en donde el Iva es mayor valor del activo.
 
+
+## [Parametrización para Generación de Campo EAN](http://docs.oasiscom.com/Operacion/common/bprodu/bpro#parametrización-para-generación-de-campo-ean)  
+
+Lo primero que se debe realizar es ingresar a la opción **WVAR** y crear la variable ***AUTOEAN13*** de la siguiente manera
+![](bpro15.png)
+
+Si el valor del campo Formula se encuentra en  1 se activará la generación automática del Código EAN  de 13 caracteres en el maestro de la opción **BPRO**.
+
+Para entender  la forma en que se arma el Código del **EAN13**, lo que se debe es ingresar a la opción **BCLA** y buscar el registro con la clasificación del producto seleccionado para este caso es la clasificación numero 2.
+![](bpro17.png)
+
+En la opción BCLA se toman los campos de prefijo y de Objeto de Gasto para poder crear el Código EAN13, estos códigos se van a concatenar para crear el digito de Verificación después y para cada producto el campo Objeto de gasto se irá aumentando de uno en uno.
+![](bpro16.png)
+Al  actualizar el registro tomara ambos dígitos y generara el Código de verificación correcto con los 13 dígitos correspondientes a la parametrización.
+![](bpro18.png)
