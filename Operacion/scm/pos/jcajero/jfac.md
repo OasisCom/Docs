@@ -30,6 +30,7 @@ Descargar PDF.
 * [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)  
 * [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 * [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)  
+* [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)  
 
 
 
@@ -786,3 +787,20 @@ En la ventana de cambios se buscan los productos a intercambiar, se seleccionan 
 
 Por último, el cambio se podrá ver reflejado en la opción **ICNV**
 ![](jfac57.png)
+
+
+## [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)
+
+Lo primero que hacemos es abrir la opción **JFAC** y dar clic al botón *Consulta Tercero*
+![](jfac47.png)
+
+Luego de esto nos abre la ventana de *Consulta Rápida - terceros* en el cual podemos realizar 2 tipo de filtro ya sea por numero de documento.
+![](jfac48.png)
+![](jfac49.png)
+
+Ó por el nombre del tercero.
+![](jfac50.png)
+![](jfac60.png)
+
+Por otra parte, al realizar el filtro nos trae todos los terceros que coincidan con documento o nombre correspondiente y podremos movernos con las flechas de anterior y siguiente.
+![](jfac61.png)
