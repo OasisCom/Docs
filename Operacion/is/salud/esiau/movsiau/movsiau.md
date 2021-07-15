@@ -12,4 +12,4 @@ Esta ventana permite registrar las peticiones, quejas, reclamos, felicitaciones 
 La aplicación que se usa es:  
 
 * **EPQR** - Peticiones, quejas, reclamos
-
+* [**EPJU**](http://docs.oasiscom.com/Operacion/is/salud/esiau/movsiau/epju) - Procesos Judiciales.  
