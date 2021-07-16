@@ -229,3 +229,41 @@ En la aplicación OCAF al momento de crear un documento CF por concepto CF, dili
 ![](cafe4.png)
 
 ![](cafe5.png)
+
+
+## [Fidelización Asociados](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#fidelización-asociados)   
+
+Para el correcto funcionamiento de la fidelización de asociados en la compra de café se debe tener presente la siguiente configuración:
+
+Se deben tener configurados los códigos de cuenta PUN y VPU para el cálculo de puntos y configurados en el BPLA de los documentos que lo requieran.  En el Código de cuenta PUN debe existir la cuenta puente y VPU la cuenta que tendrá el valor acumulado por cada compra.   
+
+
+![](fidelizar.png)
+![](fidelizar1.png)
+
+Los terceros que tendrán acceso a este beneficio deben estar marcados como clientes frecuentes en BTER, adicional debe existir en FDES configuración de un descuento tipo fidelización de cliente que contiene la formula deseada para realizar la conversión en kilos-puntos-valor.   
+
+![](fidelizar2.png)
+
+Para llevar ese valor otorgado como mayor valor del inventario se debe configurar el documento EN X AU que ajustara ese valor como un movimiento de ajuste al costo.  Adicional su correspondiente configuración en el BPLA.   
+
+![](fidelizar3.png)
+
+
+![](fidelizar4.png)
+
+Con las configuraciones previas, el sistema está disponible para realizar las compras de forma correcta y si existe lugar de otorgar puntos lo realizara de forma automática.   
+
+![](fidelizar5.png)
+
+
+
+![](fidelizar6.png)
+
+
+
+![](fidelizar7.png)
+
+
+
+![](fidelizar8.png)
