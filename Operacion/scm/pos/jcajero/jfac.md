@@ -33,6 +33,7 @@ Descargar PDF.
 * [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)  
 * [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
 * [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)     
+* [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)   
 
 
 
@@ -864,3 +865,8 @@ Para el proceso automático del cálculo del BABC se realiza por medio del WCAL,
 Ejemplo de como redmimir los puntos.  
 
 ![](punto6.png)
+
+
+## [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)   
+
+
