@@ -869,4 +869,24 @@ Ejemplo de como redmimir los puntos.
 
 ## [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)   
 
+### Parametrización 
 
+En la aplicación BFOR se debe especificar qué tipo es y diligenciar el campo datafono para que el sistema lo reconozca.   
+
+![](datafono.png)
+
+En la aplicación SCAM, se debe realizar la respectiva parametrización de este campo.  
+
+![](datafono1.png)
+
+Posteriormente, en la aplicación JFAC luego de crear la factura y diligenciar los respectivos productos, en la pestaña pago elegir la forma de pago Tarjeta, luego clic en procesar.   
+
+![](datafono4.png)
+
+Luego de que el datafono ya reconozca el pago y sea debitado de la cuenta, el sistema construye los valores que son el número de autorización, los números de la tarjeta y lo deja en estado procesado.   
+
+![](datafono5.png)
+
+Luego se debe verificar si el pago efectivamente quedo en la aplicación EPAY. 
+
+![](datafono3.png)
