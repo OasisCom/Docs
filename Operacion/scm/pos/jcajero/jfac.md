@@ -31,7 +31,8 @@ Descargar PDF.
 * [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 * [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)  
 * [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)  
-* [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)   
+* [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
+* [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)     
 
 
 
@@ -822,5 +823,44 @@ En la aplicación FPRE, cada uno de esos productos debe estar previamente creado
 
 ![](combo3.png)
 
+## [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)   
 
+Cálculo de grados de fidelidad por asociado y ajuste al proceso de acumulación y/o registro de puntos para efectos de redención como forma de pago en las facturas de venta.   
 
+### Parametrización 
+
+La categorización o membresía por asociado se tomara del campo ABC que la calificación del tercero.   
+
+![](punto.png)
+
+El tercero debe estar marcado en la aplicación BTER como frecuente.  
+
+![](punto1.png)
+
+Con ello la calificación correspondiente.  
+
+![](punto2.png)
+
+El comportamiento de los puntos a obtener y redimir se configura en FDES con la jerarquía de la calificación que corresponda.  Adicional para los casos en que la obtención de puntos depende de los kilos facturados en OCAF se configura por medio de la columna Descripción.  también se deben configurar tantos FDES sean necesarios por las diferentes combinaciones para otorgar puntos.  
+
+![](punto3.png)
+
+Configurados los FDES por cada compra de café o venta en JFAC y FFAC que cumplan con la configuración del FDES otorgara los puntos pertinentes.   
+
+![](punto4.png)
+
+Adicional para la redención de puntos se debe configurar la forma de pago puntos y asociarla en la forma de pago pertinente.   
+
+![](punto5.png)
+
+Para redimir u obtener puntos tanto en OCAF como JFAC o FFAC se deben configurar los códigos de cuenta pertinentes en BPLA para la validación del sistema.   
+
+![](punto7.png)
+
+Para el proceso automático del cálculo del BABC se realiza por medio del WCAL, se configura la estrategia 101 para actualizar masivamente por medio de variables configurables.  Este punto se está trabajando directamente con el cliente para aclarar cálculo de algunos porcentajes.  
+
+![](punto8.png)
+
+Ejemplo de como redmimir los puntos.  
+
+![](punto6.png)
