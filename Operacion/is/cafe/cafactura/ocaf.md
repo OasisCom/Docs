@@ -199,6 +199,8 @@ El mensaje de control se presentara al momento de confirmar el registro si este 
 
 ## [Pago concepto transporte](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#pago-concepto-transporte)   
 
+Este concepto sirve para controlar el valor del transporte de cada producto, este valor se puede validar al momento de imprimir el registro en el campo Transporte.  
+
 ### [Parametrización](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#parametrización)   
 
 Para que el sistema valide el pago por transporte se debe tener encuneta la siguiente parametrización: 
