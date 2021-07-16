@@ -31,6 +31,7 @@ Descargar PDF.
 * [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 * [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)  
 * [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)  
+* [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)   
 
 
 
@@ -804,3 +805,22 @@ Luego de esto nos abre la ventana de *Consulta Rápida - terceros* en el cual po
 
 Por otra parte, al realizar el filtro nos trae todos los terceros que coincidan con documento o nombre correspondiente y podremos movernos con las flechas de anterior y siguiente.
 ![](jfac61.png)
+
+## [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
+
+Para realizar la facturación de los combos primero se debe parametrizar el producto y sus componentes en la aplicación BPRO.  
+
+![](combo.png)
+
+![](combo1.png)
+
+Posteriormente deben crear una factura en la aplicación JFAC, al momento de la adición de producto posteriormente guardarlo, el sistema traerá en el detalle cada uno de los productos que tiene un combo.   
+
+![](combo2.png)
+
+En la aplicación FPRE, cada uno de esos productos debe estar previamente creado y con su valor correspondiente.   
+
+![](combo3.png)
+
+
+
