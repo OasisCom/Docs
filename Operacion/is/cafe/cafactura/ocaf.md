@@ -196,3 +196,34 @@ Para realizar o no el descuento se debe indicar en el maestro en la columna ya m
 
 El mensaje de control se presentara al momento de confirmar el registro si este supera los aportes parametrizados.
 ![](ocaf25.png) 
+
+## [Pago concepto transporte](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#pago-concepto-transporte)   
+
+### [Parametrización](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#parametrización)   
+
+Para que el sistema valide el pago por transporte se debe tener encuneta la siguiente parametrización: 
+
+#### [WVAR - Variables](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#wvar---variables)
+
+![](cafe.png) 
+
+#### [ZBAS - Asociados](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#zbas---asociados)
+
+![](cafe1.png) 
+
+#### [BPRO - Productos](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#bpro---productos)
+
+![](cafe2.png) 
+
+#### [FPRE - Precios](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#fpre---precios)
+
+![](cafe3.png) 
+
+### [Funcionamiento](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#funcionamiento)   
+
+En la aplicación OCAF al momento de crear un documento CF por concepto CF, diligenciar la información correspondiente, en el detalle de la aplicación se mostrara un campo llamado PrecioFlete, esto no afectara la contabilización de la retención y se vera reflejado en el reporte.   
+
+
+![](cafe4.png)
+
+![](cafe5.png)
