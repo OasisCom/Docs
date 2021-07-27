@@ -6,11 +6,11 @@ editable: si
 ---
 
 **Menú**
-1. [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos---acas)
+1. [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos)
 2. [Detalle de contrato](/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
 
 
-# [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos---acas)
+# [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos)
 
 En la aplicación **ACAS - Casos** se pueden observar todos los casos que se encuentran registrados desde la aplicación **ASOP - Soporte**, igualmente si no se registran desde dicha aplicación, en esta misma se puede realizar el registro.
 
