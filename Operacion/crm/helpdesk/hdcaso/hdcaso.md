@@ -7,7 +7,7 @@ editable: si
 
 **Menú**
 1. [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos---acas)
-2. [Detalle de contrato]([Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
+2. [Detalle de contrato](/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
 
 
 # [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos---acas)
