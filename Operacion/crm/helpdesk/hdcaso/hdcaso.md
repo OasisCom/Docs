@@ -6,11 +6,11 @@ editable: si
 ---
 
 **Menú**
-1. [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos)
-2. [Detalle de contrato](/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
+1. [Casos - ACAS](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/casos---acas)
+2. [Detalle de contrato](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
 
 
-# [Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Casos)
+# [Casos - ACAS](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/casos---acas)
 
 En la aplicación **ACAS - Casos** se pueden observar todos los casos que se encuentran registrados desde la aplicación **ASOP - Soporte**, igualmente si no se registran desde dicha aplicación, en esta misma se puede realizar el registro.
 
@@ -65,7 +65,7 @@ Cuando se realiza la ejecución de las tareas, vemos que el valor que queda regi
 Esta es la forma de parametrizar una lista en el campo descripción de la ventana de ejecución de tareas **(workflow)**  
 
 
-####[Detalle de contrato]([Casos - ACAS](/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
+####[Detalle de contrato]((https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
 
 La aplicación ACAS cuenta con un zoom que permite conocer el contrato del cliente que genera o carga al sistema el caso, en donde se puede visualizar: fecha del contrato, productos del contratos, fechas de vigencia, entre otros.  
 
