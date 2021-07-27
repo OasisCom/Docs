@@ -79,11 +79,5 @@ El zoom se consulta desde el formulario de registro del caso, dando clic derecho
 
 
 
-
-
-
-
-
-
 *****
 
