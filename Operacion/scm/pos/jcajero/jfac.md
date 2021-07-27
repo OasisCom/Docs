@@ -30,6 +30,10 @@ Descargar PDF.
 * [Redimir puntos acumulados](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redimir-puntos-acumulados)  
 * [Proceso de Packing](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-de-packing)  
 * [Cambios Mano a Mano](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#cambios-mano-a-mano)  
+* [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)  
+* [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
+* [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)     
+* [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)   
 
 
 
@@ -786,3 +790,103 @@ En la ventana de cambios se buscan los productos a intercambiar, se seleccionan 
 
 Por último, el cambio se podrá ver reflejado en la opción **ICNV**
 ![](jfac57.png)
+
+
+## [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)
+
+Lo primero que hacemos es abrir la opción **JFAC** y dar clic al botón *Consulta Tercero*
+![](jfac47.png)
+
+Luego de esto nos abre la ventana de *Consulta Rápida - terceros* en el cual podemos realizar 2 tipo de filtro ya sea por numero de documento.
+![](jfac48.png)
+![](jfac49.png)
+
+Ó por el nombre del tercero.
+![](jfac50.png)
+![](jfac60.png)
+
+Por otra parte, al realizar el filtro nos trae todos los terceros que coincidan con documento o nombre correspondiente y podremos movernos con las flechas de anterior y siguiente.
+![](jfac61.png)
+
+## [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
+
+Para realizar la facturación de los combos primero se debe parametrizar el producto y sus componentes en la aplicación BPRO.  
+
+![](combo.png)
+
+![](combo1.png)
+
+Posteriormente deben crear una factura en la aplicación JFAC, al momento de la adición de producto posteriormente guardarlo, el sistema traerá en el detalle cada uno de los productos que tiene un combo.   
+
+![](combo2.png)
+
+En la aplicación FPRE, cada uno de esos productos debe estar previamente creado y con su valor correspondiente.   
+
+![](combo3.png)
+
+## [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)   
+
+Cálculo de grados de fidelidad por asociado y ajuste al proceso de acumulación y/o registro de puntos para efectos de redención como forma de pago en las facturas de venta.   
+
+### Parametrización 
+
+La categorización o membresía por asociado se tomara del campo ABC que la calificación del tercero.   
+
+![](punto.png)
+
+El tercero debe estar marcado en la aplicación BTER como frecuente.  
+
+![](punto1.png)
+
+Con ello la calificación correspondiente.  
+
+![](punto2.png)
+
+El comportamiento de los puntos a obtener y redimir se configura en FDES con la jerarquía de la calificación que corresponda.  Adicional para los casos en que la obtención de puntos depende de los kilos facturados en OCAF se configura por medio de la columna Descripción.  también se deben configurar tantos FDES sean necesarios por las diferentes combinaciones para otorgar puntos.  
+
+![](punto3.png)
+
+Configurados los FDES por cada compra de café o venta en JFAC y FFAC que cumplan con la configuración del FDES otorgara los puntos pertinentes.   
+
+![](punto4.png)
+
+Adicional para la redención de puntos se debe configurar la forma de pago puntos y asociarla en la forma de pago pertinente.   
+
+![](punto5.png)
+
+Para redimir u obtener puntos tanto en OCAF como JFAC o FFAC se deben configurar los códigos de cuenta pertinentes en BPLA para la validación del sistema.   
+
+![](punto7.png)
+
+Para el proceso automático del cálculo del BABC se realiza por medio del WCAL, se configura la estrategia 101 para actualizar masivamente por medio de variables configurables.  Este punto se está trabajando directamente con el cliente para aclarar cálculo de algunos porcentajes.  
+
+![](punto8.png)
+
+Ejemplo de como redmimir los puntos.  
+
+![](punto6.png)
+
+
+## [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)   
+
+### Parametrización 
+
+En la aplicación BFOR se debe especificar qué tipo es y diligenciar el campo datafono para que el sistema lo reconozca.   
+
+![](datafono.png)
+
+En la aplicación SCAM, se debe realizar la respectiva parametrización de este campo.  
+
+![](datafono1.png)
+
+Posteriormente, en la aplicación JFAC luego de crear la factura y diligenciar los respectivos productos, en la pestaña pago elegir la forma de pago Tarjeta, luego clic en procesar.   
+
+![](datafono4.png)
+
+Luego de que el datafono ya reconozca el pago y sea debitado de la cuenta, el sistema construye los valores que son el número de autorización, los números de la tarjeta y lo deja en estado procesado.   
+
+![](datafono5.png)
+
+Luego se debe verificar si el pago efectivamente quedo en la aplicación EPAY. 
+
+![](datafono3.png)

@@ -17,7 +17,10 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 
 1. [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)  
 2. [**Parametrización XML**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parametrización-xml)  
-3. [**Archivos planos de Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud)  
+3. [**Archivos planos de Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud) 
+- [**Publicación 101 Super FT001**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-101-super-ft001)   
+- [**Publicación 103 Super FT003**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-103-super-ft003)    
+- [**Publicación 104 Super FT004**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-104-super-ft004)    
 4. [**Archivos Conciliación Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-conciliación-salud)  
 5. [**Parámetros en Mensajes de Error**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parámetros-en-mensajes-de-error)  
 6. [**Subir productos al Marketplace**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subir-productos-al-marketplace)  
@@ -121,6 +124,17 @@ El documento se visualizará de la siguiente manera y estará listo para editar 
 
 ![](bint12.png)
 
+
+Para generar los siguientes archivos planos, se debe tener en cuenta la parametrización en las aplicaciones [BARC](https://docs.oasiscom.com/Operacion/utility/barchi/barc), [BPUB](https://docs.oasiscom.com/Operacion/utility/barchi/bpub) y [SROL](https://docs.oasiscom.com/Operacion/system/sacceso/srol) para habilitarlas. 
+
+## [**Publicación 101 Super FT001**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-101-super-ft001)   
+
+## [**Publicación 103 Super FT003**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-103-super-ft003)   
+
+## [**Publicación 104 Super FT004**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-104-super-ft004)
+
+![](super1.png)
+![](super.png)
 
 # [Archivos Conciliación Salud](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-conciliación-salud)
 
