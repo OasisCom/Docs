@@ -7,7 +7,7 @@ editable: si
 
 **Menú**
 1. [Casos - ACAS](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/casos---acas)
-2. [Detalle de contrato](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
+2. [Detalle de contrato](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso#detalle-de-contrato)
 
 
 # [Casos - ACAS](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/casos---acas)
@@ -65,7 +65,7 @@ Cuando se realiza la ejecución de las tareas, vemos que el valor que queda regi
 Esta es la forma de parametrizar una lista en el campo descripción de la ventana de ejecución de tareas **(workflow)**  
 
 
-####[Detalle de contrato](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso/Detalle-de-contrato)
+#### [Detalle de contrato](https://docs.oasiscom.com/Operacion/crm/helpdesk/hdcaso#detalle-de-contrato)
 
 La aplicación ACAS cuenta con un zoom que permite conocer el contrato del cliente que genera o carga al sistema el caso, en donde se puede visualizar: fecha del contrato, productos del contratos, fechas de vigencia, entre otros.  
 
