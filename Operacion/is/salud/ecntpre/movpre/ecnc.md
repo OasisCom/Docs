@@ -67,3 +67,15 @@ En la pestaña **Modificaciones** se pueden ver todos los ajustes realizados al 
 En la pestaña **Ubicaciones** se agregan todos los municipios a los que cubrirá con sus servicios el contrato.  
 
 En la pestaña **Pólizas** se ingresa la información de la póliza del contrato de prestación de servicios en caso de presentarse.  
+
+
+#### **Pestaña Budgett**
+
+Se incluye en la aplicación _ECNC - Contratos prestación de servicios_, la pestaña **Budgett** en donde se puede visualizar la partida presupuestal y el valor del contrato:  
+
+![](ecnc7.png)
+
+
+
+
+
