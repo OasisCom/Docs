@@ -14,4 +14,4 @@ Consta de las siguientes aplicaciones:
 * [**ERLN**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/erln) - Listado de Novedades  
 * [**EERCE**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/eerce) - Certificación afiliados  
 * [**ERCGG**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/ercgg) - Acta Conciliación  
-
+* [**ERZ4**](https://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/erz4) - Certificación de Aportes  
