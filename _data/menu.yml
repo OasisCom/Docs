@@ -1904,7 +1904,9 @@
                     - text: Listado de Novedades
                       url: /Operacion/is/salud/eafiliacion/repafi/erln
                     - text: Certificación Afiliados
-                      url: /Operacion/is/salud/eafiliacion/repafi/eerce                      
+                      url: /Operacion/is/salud/eafiliacion/repafi/eerce
+                    - text: Certificación de Aportes
+                      url: /Operacion/is/salud/eafiliacion/repafi/erz4
             - text: Contratos
               url: /Operacion/is/salud/ecntpre/
               subitems:
