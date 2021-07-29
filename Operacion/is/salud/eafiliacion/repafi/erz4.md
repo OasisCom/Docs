@@ -1,17 +1,20 @@
 ---
 layout: default
 title: Reportes
-permalink: /Operacion/is/salud/eafiliacion/repafi/
+permalink: /Operacion/is/salud/eafiliacion/repafi/erz4
 editable: si
 ---
 
-# Reportes  
+# Certificación de Aportes - ERZ4
 
-En esta ventana se pueden realizar operaciones de impresión de reportes relacionados con listado de novedades y certificación de afiliados.  
+El reporte ERZ4 nos permite generar un certificado de aportes por tercero filtrando por los siguientes campos:  
 
-Consta de las siguientes aplicaciones:  
+![](erz4.png)
 
-* [**ERLN**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/erln) - Listado de Novedades  
-* [**EERCE**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/eerce) - Certificación afiliados  
-* [**ERCGG**](http://docs.oasiscom.com/Operacion/is/salud/eafiliacion/repafi/ercgg) - Acta Conciliación  
+Dando click en el botón _Generar_ nos arrojará el siguiente certificado con los periodos de consulta, número de planilla, IBC, cotización y días.  
+
+![](erz41.png)
+
+
+
 
