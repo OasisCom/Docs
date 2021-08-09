@@ -1,253 +1,50 @@
 ---
-
-
-
-
-
-
-
-
-
-
-
 layout: default
-
-
-
-
-
-
-
-
-
-
-
 title: Móvil
-
-
-
-
-
-
-
-
-
-
-
 permalink: /Operacion/movil/
-
-
-
-
-
-
-
-
-
-
-
 editable: si
-
-
-
-
-
-
-
-
-
-
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 # Móvil
 
+* [Apariencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvil)  
+* [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#registro-en-oasiscom-móvil)   
+* [Ingreso a la aplicación mediante Facebook](http://docs.oasiscom.com/Operacion/movil/#ingreso-a-la-aplicación-mediante-facebook)  
+* [Ingreso a la aplicación Móvil](http://docs.oasiscom.com/Operacion/movil/#ingreso-a-la-aplicación-móvil)
+* [Tableros de Control](http://docs.oasiscom.com/Operacion/movil/#tableros-de-control)
+* [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/movil#editar-perfil-de-usuario)
+* [Notificacion movil](http://docs.oasiscom.com/Operacion/movil/#notificacion_movil)
+* [Cambiar Empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)
+* [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/#acerca-de) 
+* [Consulta de precios](http://docs.oasiscom.com/Operacion/movil/#consulta-de-precios)  
+* [Ordenes de compra OORD para movil](http://docs.oasiscom.com/Operacion/movil/#ordenes-de-compra-oord-para-movil)  
+* [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
+* [Recoleccion Inventarios Oasiscom Movil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
+* [Movil con camara](http://docs.oasiscom.com/Operacion/movil/#movil-con-camara)  
+* [Movil con Lector](http://docs.oasiscom.com/Operacion/movil/#movil-con-lector)  
+* [Registro de Conteos - MIFIS](http://docs.oasiscom.com/Operacion/movil/#registro-de-conteos---mifis)   
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## [Proceso Pedidos Retenidos COPR](http://docs.oasiscom.com/Operacion/movil/#proceso-pedidos-retenidos-copr)  
 
 
 
 ## [Apariencia de OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#apariencia-de-oasiscom-móvil)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 OasisCom Móvil ofrece una nueva presentación en su interfaz gráfica, mostrando en pestañas las diferentes opciones de la aplicación. El logo de la empresa y el nombre del usuario serán visibles en la pestaña _Configuración_.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Para el sistema Android el menú se visualiza en la parte superior.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ![](movil21.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Para el sistema IOS el menú se visualiza en la parte inferior de la pantalla.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](movil22.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Pestaña _Configuración_.  
@@ -310,7 +107,7 @@ Pestaña _Configuración_.
 
 
 
-## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#registro-en-oasiscom-móvil)
+## [Registro en OasisCom Móvil](http://docs.oasiscom.com/Operacion/movil/#registro-en-oasiscom-móvil)   
 
 
 
@@ -1433,11 +1230,6 @@ En el menú desplegable superior, se podrán elegir las opciones disponibles y a
 
 
 
-
-
-
-
-
 ## [Editar Perfil de Usuario](http://docs.oasiscom.com/Operacion/movil/movil#editar-perfil-de-usuario)
 
 
@@ -1579,8 +1371,6 @@ A continuación, se podrá realizar los cambios de perfil que requiera el usuari
 
 
 
-
-
 ## [Notificacion movil](http://docs.oasiscom.com/Operacion/movil/#notificacion_movil)
 
 Las notificaciones locales al móvil se envian, para ser utilizado por el Signal R, para él envió de notificaciones push desde el dispositivo móvil.  
@@ -1589,6 +1379,7 @@ Las notificaciones enviadas desde Web, pueden ser leídas desde el dispositivo m
 ![](noti1.png)  
 
 ![](noti2.png)  
+
 
 ## [Cambiar Empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)
 
@@ -1740,12 +1531,6 @@ Al ingresar a esta opción, el usuario tendrá la posibilidad de visualizar las 
 
 
 
-
-
-
-
-
-
 ## [Acerca de ![](acerca.png)](http://docs.oasiscom.com/Operacion/movil/#acerca-de) 
 
 
@@ -1819,15 +1604,6 @@ La opción **Acerca de** mostrará la información referente a la aplicación m�
 
 
 ![](movil16.png)  
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1991,18 +1767,7 @@ De esta forma se parametriza la consulta de precios en dispositivo movil.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+  
 ## [Ordenes de compra OORD para movil](http://docs.oasiscom.com/Operacion/movil/#ordenes-de-compra-oord-para-movil)  
 
 Esta aplicación permite la generación y registro de las órdenes de compra. Realiza la liquidación correspondiente para su posterior control con las entradas por compra. Permite observar las órdenes de compra pendientes por recibir.  
@@ -2037,8 +1802,11 @@ En el detalle del OORD, se relaciona la descripción de los productos requeridos
 + **Requerimiento:** Identificación del requerimiento correspondiente.  
 + **Estado:**	Estado en el que se encuentra cada producto. 
 
-## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
 
+
+
+
+## [Recoleccion Inventarios](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)  
 
 
 ## [Recoleccion Inventarios Oasiscom Movil](http://docs.oasiscom.com/Operacion/movil/#recoleccion-inventarios-oasiscom-movil)   
@@ -2046,26 +1814,7 @@ En el detalle del OORD, se relaciona la descripción de los productos requeridos
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Movil con camara.  
-
-
-
-
+## [Movil con camara](http://docs.oasiscom.com/Operacion/movil/#movil-con-camara)  
 
 
 
@@ -2204,348 +1953,51 @@ Para luego empezar a leer los códigos de los productos y así hacer el empacado
 * Para el siguiente escenario existe una pagina que permite consultar, gener los codigos de barras gratuito:  
 
 
-
-
-
-
-
-
-
-
-
 https://barcode.tec-it.com/es/?data=7702484075873  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ![](mitra10.png)  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](mitra11.png)  
-
-
-
-
-
-
-
-
-
 
 
 Finalizando el proceso de scanneo con camara.  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Movil con Lector.   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## [Movil con Lector](http://docs.oasiscom.com/Operacion/movil/#movil-con-lector)  
 
 
 
 Parametrizar en preferencias, habilitar (si) **"usar camara en scanner".**   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](mitra12.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Posterior, realiza el ingreso a la opcion **MITRA:**  
 
 
 
-
-
-
-
-
-
-
-
 ![](mitra13.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Adiciona un nuevo pedido **VPED** o en su defecto si ya los creo. Realiza la consulta del mismo.   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](mitra14.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Realiza el scanneo de la posicion:   
 
-
-
-
-
-
-
-
-
-
-
 ![](mitra15.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 En la pestaña producto, realiza el scanneo:  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](mitra16.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Permite ingresar observaciones desde la aplicación móvil en el proceso del picking desde el MITRA.  
@@ -2562,40 +2014,10 @@ Adecuación si por algún motivo la aplicación se cierra o hay alguna falla en 
 Adecuación para que las observaciones del detalle del VPED sean notificados al momento de hacer el proceso del PICKING, si el cliente solicita un producto con características especiales (color); el sistema indique que ese producto tiene comentarios y se pueda ver las observaciones diligenciadas en el detalle del VPED.  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](mitra17.png)  
 
 
-
-
-
-
-
-
-
-
-
 Al igual que para el Picking **(PI)** para el Packing **(PA)** también se puede realizar la lectura de código con el móvil.  
-
-
-
-
 
 
 
@@ -2702,20 +2124,11 @@ Una vez visualicemos el mensaje "Empaque terminado correctamente" Finalizaremos 
 ![](Imagenes/Mitra9.png)  
 
 
-
-
-
-
-
-## Registro de Conteos - MIFIS  
+## [Registro de Conteos - MIFIS](http://docs.oasiscom.com/Operacion/movil/#registro-de-conteos---mifis)  
 
 
 
 Esta aplicación permite el registro de los diferentes conteos, presentando además los datos de la toma de cada registro como la fecha, ubicación del punto donde se realizó el conteo, cantidad del producto contado, y características inherentes a cada producto como presentación, vencimiento, control etc.  
-
-
-
-
 
 
 
@@ -2732,11 +2145,6 @@ El registro de conteos es posible realizarlo por **clasificación**.
 
 
 El sistema valida la correcta clasificacion ingresada, OASISCOM verifica la parametrizacion existente.  
-
-
-
-
-
 
 
 ![](mifis2.png)  
@@ -2817,376 +2225,3 @@ La opcion **ISPH** permite validar que el inventario haya sido ajustado correcta
 Desde la opción web podemos validar la data.  
 
 ![](isph1.png)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
