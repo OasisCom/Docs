@@ -15,7 +15,8 @@ editable: si
 ###### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/documentos-soportes.pdf)    
 ###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_DS.pdf)  
 
-#### Nomina electronica  
+#### Nomina electronica 
+###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Estructura-XML-v4.xml)   
 ###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos-Conceptos-XML-v2.xlsx)  
  
 ---
