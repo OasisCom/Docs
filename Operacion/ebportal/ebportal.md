@@ -16,7 +16,7 @@ editable: si
 ###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_DS.pdf)  
 
 #### Nomina electronica  
-
+###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos-Conceptos-XML-v2.xlsx)  
  
 ---
 
