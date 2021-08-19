@@ -547,4 +547,11 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 ## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
 ### [Archivo XML nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nómina)   
+
+![](Nomina.png)
+![](Nomina1.png)
+![](Nomina2.png)
+![](Nomina3.png)
+![](Nomina4.png)
+
 ### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
