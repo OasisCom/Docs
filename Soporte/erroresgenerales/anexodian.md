@@ -5,6 +5,9 @@ permalink: /Soporte/erroresgenerales/carguearchivos/anexodian
 editable: si
 ---
 
+# Mensajes de Control Anexo 1.8  
+
+
 Los mensajes de control que está arrojando el proceso de facturación no son por inconvenientes de OasisCom sino por las múltiples validaciones que la DIAN tiene en el anexo 1.8.   
 A continuación, se realizará una breve explicación de los mensajes presentados para que los puedan identificar y dar solución.    
 
