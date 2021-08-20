@@ -24,7 +24,8 @@ Dado el caso que el cliente no se encuentre presente, se realizó la configuraci
 ![](anexo2.png)
 
 b)	Es importante que si el sistema les sigue arrojando el mismo mensaje de control realicen el procedimiento descrito anteriormente con el NIT de la empresa correspondiente. 
-2.	Para dar solución al siguiente mensaje de control  
+
+2. Para dar solución al siguiente mensaje de control  
 
 ![](anexo3.png)
  
