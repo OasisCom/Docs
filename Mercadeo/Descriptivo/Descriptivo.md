@@ -26,7 +26,7 @@ editable: si
 ### OasisCom Software ERP
 
 
->###### [Descriptivo OasisCom Software ERP](https://www.oasiscom.com/descriptivo-software-erp/)
+>###### [Descriptivo OasisCom Software ERP](http://docs.oasiscom.com/Mercadeo/fichas/Descriptivo-solucion-erp-oasiscom.pdf)
 
 ---
 
