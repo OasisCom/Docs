@@ -10,6 +10,8 @@ editable: si
 
 Adquiere todo el material del repositorio de Casos de éxito aquí:
 
+>### [Clientes felices](http://docs.oasiscom.com/Mercadeo/Casos%20de%20exito/clientes-felices.pdf)
+
 ###### [Caso de exito (QUIMED) Inversiones Romero.pdf](http://docs.oasiscom.com/Mercadeo/Casos%20de%20exito/Caso-de-exito-QUIMED-Inversiones-Romero.pdf)
 ###### [Caso de exito ARISTIZABAL Y JINETE.pdf](http://docs.oasiscom.com/Mercadeo/Casos%20de%20exito/Caso-de-exito-ARISTIZABAL-Y-JINETE.pdf)
 ###### [Caso de exito SCHOLARIUM.pdf](http://docs.oasiscom.com/Mercadeo/Casos%20de%20exito/Caso-de-exito-SCHOLARIUM.pdf)
