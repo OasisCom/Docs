@@ -17,6 +17,7 @@ editable: si
 
 #### Nomina electronica 
 ###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Estructura_XML_v7.xml)   
+###### - [Estructura Archivo Plano Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/PlanoNE.xlsx) 
 ###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos-Conceptos-XML-v4.xlsx)  
  
 ---
