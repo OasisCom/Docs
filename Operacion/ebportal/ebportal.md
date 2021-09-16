@@ -558,3 +558,23 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](Nomina5.png)
 
 ### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
+
+
+Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de archivo plano el cual puede ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación **BINT - Interfaces o por medio del consumo de servicio web.**
+
+**Nota:** al cargar el archivo plano, el sistema creará los terceros y contratos en caso de que no existan previamente.
+
+La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento, también puede consultar el diccionario de datos para validar los valores y formatos sobre cada campo.
+
+
+
+Para convertir el archivo en formato *.CVS* vamos a Archivo 
+
+
+
+Guardar como Elegimos una ubicación Asignamos un nombre Tipo: *CSV (delimitado por comas)* Guardar.
+
+
+Una vez guardado, se ingresa a la aplicación *Interfaces - BINT,* se selecciona la publicación *995 (CARGA PLANO NE)*, se selecciona el archivo que se guardó en *.CSV* y se da clic en Aceptar y Ejecutar.
+
+
