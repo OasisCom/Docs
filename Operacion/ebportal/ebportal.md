@@ -566,14 +566,17 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento, también puede consultar el diccionario de datos para validar los valores y formatos sobre cada campo.
 
-
+![](planone.png)
+![](planone1.png)
+![](planone2.png)
 
 Para convertir el archivo en formato *.CVS* vamos a Archivo 
 
-
+![](ebportal14.png)
 
 Guardar como Elegimos una ubicación Asignamos un nombre Tipo: *CSV (delimitado por comas)* Guardar.
 
+![](planone3.png)
 
 Una vez guardado, se ingresa a la aplicación *Interfaces - BINT,* se selecciona la publicación *995 (CARGA PLANO NE)*, se selecciona el archivo que se guardó en *.CSV* y se da clic en Aceptar y Ejecutar.
 
