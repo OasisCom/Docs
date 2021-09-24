@@ -556,6 +556,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](Nomina3.png)
 ![](Nomina4.png)
 ![](Nomina5.png)
+![](Nomina6.png)
 
 ### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
 
