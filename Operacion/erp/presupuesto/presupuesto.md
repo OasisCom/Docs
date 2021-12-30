@@ -14,4 +14,4 @@ Este módulo comprende los siguientes submódulos:
 * [**Presupuesto de Tesoreria**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qtesoreria/)  
 * [**Reportes de Presupuesto de Tesoreria**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qtreporte/)  
 * [**Presupuesto de Compras**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcompras/) 
-* [**Documento cierre presupustal Salud (descargar)**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcontabili/cierre-de-año-presupuestal-salud.pdf)   
+* [**Documento cierre presupuestal Salud (descargar)**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcontabili/cierre-de-año-presupuestal-salud.pdf)   
