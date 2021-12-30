@@ -11,4 +11,3 @@ Este módulo comprende los siguientes submódulos:
 
 * [**QMCR**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcontabili/qmcr) - Cruces Presupuesto  
 * [**QMOV**](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcontabili/qmov) - Movimiento de Presupuesto de Contabilidad  
-* [Documento cierre presupustal Salud (descargar)](http://docs.oasiscom.com/Operacion/erp/presupuesto/qcontabili/cierre-de-año-presupuestal-salud.pdf)
