@@ -16,8 +16,9 @@ editable: si
 ###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_DS.pdf)  
 
 #### Nomina electronica 
-###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Estructura-XML-v7.xml)   
-###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos-Conceptos-XML-v4.xlsx)  
+###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Estructura_XML_v8.xml)   
+###### - [Estructura Archivo Plano Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/PlanoNE.xlsx) 
+###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/diccionariodatos-conceptos-XML-v5u.xlsx)  
  
 ---
 
@@ -554,5 +555,26 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](Nomina2.png)
 ![](Nomina3.png)
 ![](Nomina4.png)
+![](Nomina5.png)
+![](Nomina6.png)
 
 ### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
+
+
+Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de archivo plano el cual puede ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación **BINT - Interfaces o por medio del consumo de servicio web.**
+
+**Nota:** al cargar el archivo plano, el sistema creará los terceros y contratos en caso de que no existan previamente.
+
+La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento, también puede consultar el diccionario de datos para validar los valores y formatos sobre cada campo.
+
+![](planone.png)
+![](planone1.png)
+![](planone2.png)
+
+Para convertir el archivo en formato **.CVS** vamos a _Archivo ![](flecha.png) Guardar como ![](flecha.png) Elegimos una ubicación ![](flecha.png) Asignamos un nombre ![](flecha.png) Tipo: CSV (delimitado por comas) ![](flecha.png) Guardar_.   
+
+![](ebportal14.png)
+
+Una vez guardado, se ingresa a la aplicación *Interfaces - BINT,* se selecciona la publicación *995 (CARGA PLANO NE)*, se selecciona el archivo que se guardó en *.CSV* y se da clic en Aceptar y Ejecutar.
+
+![](planone3.png)

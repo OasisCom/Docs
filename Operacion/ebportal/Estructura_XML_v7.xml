@@ -72,13 +72,15 @@
 	<!-- C: CORRIENTE -->
 	<!-- D: DAVIPLATA -->
 	<!-- S: AHORRO COLECTIVO -->
+	<!-- E: CREDITO ROTATIVO -->
 	<!-- N: NEQUI -->
-	<!-- E: EFECTIVO -->
+	<!-- M: AHORRO A LA MANO -->
+	<!-- F: EFECTIVO -->
 	<!-- O: OTRO -->
 	<CuentaBancaria>1325997846</CuentaBancaria>
 	<!-- Numero cuenta bancaria empleado, en caso de Daviplata, Nequi número de celular -->
 	<TipoNomina>4</TipoNomina>
-	<!-- Tipo Nomina Empleado: -->
+	<!-- Tipo Nomina Empleado, según Tabla 5.5.1: -->
     <!-- 1: SEMANAL -->
     <!-- 2: DECENAL -->
     <!-- 3: CATORCENAL -->
@@ -87,11 +89,14 @@
     <!-- 6: OTRO -->
 	<TipoContrato>0</TipoContrato>
 	<!-- Tipo Contrato Empleado: -->
-	<!-- 0: TERMINO INDEFINIDO -->
 	<!-- 1: TERMINO FIJO -->
-	<!-- 2: OBRA LABOR -->
-	<!-- 3: APRENDIZAJE -->
-	<!-- 4: PRACTICAS O PASANTIAS -->
+	<!-- 2: TERMINO INDEFINIDO -->
+	<!-- 3: OBRA LABOR -->
+	<!-- 4: APRENDIZAJE -->
+	<!-- 5: PRACTICAS O PASANTIAS -->
+	<!-- 6: TERMINO FIJO PENSIONADO -->
+	<!-- 7: TERMINO INDEFINIDO PENSIONADO -->
+	<!-- 8: OBRA LABOR PENSIONADO -->
 	<TipoSalario>N</TipoSalario>
 	<!-- Tipo Salario Empleado: -->
 	<!-- N: NORMAL -->
@@ -107,7 +112,23 @@
 	<!-- 0: No es Alto Riesgo -->
 	<!-- 1: Es Alto Riesgo -->
 	<TipoEmpleado>0</TipoEmpleado>
-	<!-- Codigo del metodo de pago de nomina según Tabla 5.5.3 -->	
+	<!-- Código del Tipo de Empleado según Tabla 5.5.3 -->	
+	<!-- 01: DEPENDIENTE -->
+	<!-- 02: SERVICIO DOMESTICO -->
+	<!-- 04: MADRE COMUNITARIA -->
+	<!-- 12: APRENDICES DEL SENA EN ETAPA LECTIVA -->
+	<!-- 18: FUNCIONARIOS PUBLICOS SIN TOPE MAXIMO DE IBC -->
+	<!-- 19: APRENDICES DEL SENA EN ETAPA PRODUCTIVA -->
+	<!-- 21: ESTUDIANTES DE POSTGRADO EN SALUD -->
+	<!-- 22: PROFESOR DE ESTABLECIMIENTO PARTICULA -->
+	<!-- 23: ESTUDIANTES APORTES SOLO RIESGOS LABORALES -->
+	<!-- 30: DEPENDIENTE ENTIDADES O UNIVERSIDADES PÚBLICAS CON RÉGIMEN ESPECIAL EN SALUD -->
+	<!-- 31: COOPERADOS O PRE COOPERATIVAS DE TRABAJO ASOCIADO -->
+	<!-- 47: TRABAJADOR DEPENDIENTE DE ENTIDAD BENEFICIARIA DEL SISTEMA GENERAL DE PARTICIPACIONES - APORTES PATRONALES -->
+	<!-- 51: TRABAJADOR DE TIEMPO PARCIAL -->
+	<!-- 54: PRE PENSIONADO DE ENTIDAD EN LIOQUIDACIÓN -->
+	<!-- 56: PRE PENSIONADO CON APORTE VOLUNTARIO A SALUD -->
+	<!-- 58: ESTUDIANTE DE PRÁCTICAS LABORALES EN EL SECTOR PÚBLICO -->
 	<Notas></Notas>
 	<!-- Observaciones sobre la nomina -->
 	<MetodoPago>ZZZ</MetodoPago>
