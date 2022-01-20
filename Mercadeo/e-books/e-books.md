@@ -73,24 +73,18 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 
 
+### Tecnología
 
 
+>###### [Mitos y verdades de la Inteligencia Artificial](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-mitos-verdad.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
 
-### Solución ERP 
-
-
-
+---
 
 
+### Solución ERP
 
 
-
-
-
-
-
-
->###### [E-book-Tips para la Transformación Digital](http://docs.oasiscom.com/Mercadeo/e-books/ebook-tips-para-la-transformacion-digital.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [E-book-Tips para la Transformación Digital](http://docs.oasiscom.com/Mercadeo/e-books/ebook-tips-para-la-transformacion-digital.pdf)
 
 
 
