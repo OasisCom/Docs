@@ -76,7 +76,9 @@ Encuentra aquí todos nuestros E-Books descargables:
 ### Tecnología
 
 
->###### [Mitos y verdades de la Inteligencia Artificial](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-mitos-verdad-Inteligencia-Artificial.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [Diccionario ERP](http://docs.oasiscom.com/Mercadeo/e-books/diccionario-erp.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+>###### [Mitos y verdades de la Inteligencia Artificial](http://docs.oasiscom.com/Mercadeo/e-books/E-BOOK-mitos-verdad-Inteligencia-Artificial.pdf)
 
 ---
 
