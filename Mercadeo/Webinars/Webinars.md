@@ -19,6 +19,8 @@ editable: si
 
 ## Adquiere todas las memorias de Webinar OasisCom:
 ---
+>##### [WEBINAR: Todo lo que debes saber sobre Documento Soporte](http://docs.oasiscom.com/Mercadeo//Webinars/Memorias Webinar Documento Soporte.pdf)
+
 >##### [WEBINAR: Tecnología Post-Pandemia | El futuro del sector comercio](http://docs.oasiscom.com/Mercadeo//Webinars/presentacion-tecnologia-post-pandemia-comercio.pdf)
 
 >##### [WEBINAR: Software ERP digitalizando empresas de Seguridad y Vigilancia](http://docs.oasiscom.com/Mercadeo//Webinars/presentacion-webinar-seguridad-vigilancia.pdf)
