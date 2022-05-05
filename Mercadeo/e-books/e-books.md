@@ -75,7 +75,9 @@ Encuentra aquí todos nuestros E-Books descargables:
 
 ### Tecnología
 
->###### [Tu empresa a la mano](http://docs.oasiscom.com/Mercadeo/e-books/tu-empresa-a-la-mano.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+>###### [Mitos y verdades ERP](http://docs.oasiscom.com/Mercadeo/e-books/EBOOK-mitos-y-verdades-ERP.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)
+
+>###### [Tu empresa a la mano](http://docs.oasiscom.com/Mercadeo/e-books/tu-empresa-a-la-mano.pdf)
 
 >###### [Diccionario ERP](http://docs.oasiscom.com/Mercadeo/e-books/diccionario-erp.pdf)
 
