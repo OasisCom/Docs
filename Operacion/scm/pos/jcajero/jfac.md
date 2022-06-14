@@ -17,7 +17,7 @@ editable: si
 
 
 
-[Manual de Parametrización Exención de IVA en OasisCom](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/Manual-de-Parametrización-Exención-de-IVA-en-OasisCom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
+[Manual de Parametrización Exención de IVA en OasisCom](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/manual-de-parametrización-exencion-de-iva-en-oasiscom.pdf)![](http://docs.oasiscom.com/Mercadeo/fichas/Gift_new100gif.gif)  
 Descargar PDF.  
 
 
