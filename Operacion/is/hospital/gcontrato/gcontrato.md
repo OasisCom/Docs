@@ -11,6 +11,7 @@ Documento obligatorio para todas las instituciones de salud, ya sean públicas, 
 
 
 Está integrado por las aplicaciones:
+Prueba Samuel
 
 * [**GCNT**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcnt) - Contratos  
 * [**GCAC**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcac) - Ajustes a Contratos  
