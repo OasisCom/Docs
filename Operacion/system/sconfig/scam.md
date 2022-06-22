@@ -374,7 +374,13 @@ Tener como indicador del campo imagen con el siguiente alias.
 
 IMAGE_CONVERT  
 
+ ## Actualización Masiva de Datos 
  
+ Desde la aplicación **SCAM - Campos** se realiza la parametrización del Botón cuya principal funcionalidad es realizar actualizaciones masivas de datos. En est
+ Ejemplo se realiza la creación del botón en el **Programa** *HREC – Recepción*, **Nombre** *Actualiza Recepcion Dos*, **Tipo** *botón Actualizar* y **Plantilla**
+ *Actualización Masiva.*
+ 
+ ![](scam.pmasiva.png)
  
 
 
