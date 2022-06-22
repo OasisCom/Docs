@@ -379,18 +379,23 @@ IMAGE_CONVERT
  Desde la aplicación **SCAM - Campos** se realiza la parametrización del Botón cuya principal funcionalidad es realizar actualizaciones masivas de datos.
  En este Ejemplo se realiza la creación del botón en el **Programa** *HREC – Recepción*, **Nombre** *Actualiza Recepcion Dos*, **Tipo** *botón Actualizar* y
  **Plantilla** *Actualización Masiva.*
+ 
  ![](scampmasiva.png)   
  
  Se crea otro registro en el **SCAM – Campos** parametrizando ahora los campos que se deseen actualizar, en el Campo **Condición** *Fecha Inicial y Fecha Final* y
  **Tipo** *Actualización Masiva.*
+ 
  ![](scampmasiva1.png)   
  
  En la Aplicación **HREC – Recepción** se verifica la funcionalidad, se observa el botón y Nombre de este según lo parametrizado en **SCAM – Campos**
+ 
  ![](scampmasiva2.png)   
  
  Se seleccionan los registros que se deseen modificar, seguidamente dar click en el botón ***Actualiza Recepcion Dos,*** automáticamente abre el Zoom con los campos a
  actualizar.
+ 
  ![](scampmasiva3.png)   
  
  Finalmente, se observa los campos seleccionados con las actualizaciones realizadas en este caso fecha inicial y fecha final.
  ![](scampmasiva4.png)   
+
