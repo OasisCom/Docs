@@ -9,6 +9,11 @@ editable: si
 
 La aplicación SCAM permite la configuración de reglas de negocio, control, tipos de campos y su obligatoriedad por empresa.  
 
+**Menú**  
+
+1. [Parametrizar nueva restricción](http://docs.oasiscom.com/Operacion/system/sconfig/scam/#parametrizar-nueva-restricción)  
+2. [Parametrizar restricciones maestro tipo A y B]((http://docs.oasiscom.com/Operacion/system/sconfig/scam/#Parametrizar-restricciones-maestro-tipo-A-y-B)  
+
 ## Parametrizar nueva restricción
 
 Para parametrizar una nueva restricción, es necesario diligenciar el _programa_, el _tab_ al cual pertenece el campo (0 para el maestro y para los detalles el RowId de la parametrización del spro), el _nombre del campo_ (con la ayuda del comando Shift + F11), el _código del lenguaje_ (1 Inglés, 2 Español y 5 Portugues).  
