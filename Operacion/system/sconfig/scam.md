@@ -7,12 +7,7 @@ editable: si
 
 # Campos - SCAM
 
-La aplicación SCAM permite la configuración de reglas de negocio, control, tipos de campos y su obligatoriedad por empresa.  
-
-**Menú**  
-
-1. [Parametrizar nueva restricción](http://docs.oasiscom.com/Operacion/system/sconfig/scam/#parametrizar-nueva-restricción)  
-2. [Parametrizar restricciones maestro tipo A y B]((http://docs.oasiscom.com/Operacion/system/sconfig/scam/#Parametrizar-restricciones-maestro-tipo-A-y-B)  
+La aplicación SCAM permite la configuración de reglas de negocio, control, tipos de campos y su obligatoriedad por empresa.   
 
 ## Parametrizar nueva restricción
 
