@@ -16,7 +16,7 @@ Posteriormente, en el detalle del evento se relacionan los asistentes o inscrito
 
 ![](reve1.png)
 
-#CARGA DE EMPLEADO CON CONTRATO ACTIVO
+# CARGA DE EMPLEADO CON CONTRATO ACTIVO
 
 A través de la parametrización de un botón, permitirá cargar todos los empleados con un contrato en estatus activo. 
 
