@@ -15,3 +15,20 @@ Posteriormente, en el detalle del evento se relacionan los asistentes o inscrito
 
 
 ![](reve1.png)
+
+#CARGA DE EMPLEADO CON CONTRATO ACTIVO
+
+A través de la parametrización de un botón, permitirá cargar todos los empleados con un contrato en estatus activo. 
+
+Ingresamos a la aplicación, y realizamos la busqueda del registro a validar 
+
+![](reve2.png)
+
+Luego seleccionamos el botón y damos clic en el, al cual queremos realizar la busqueda masiva de los empleados con status en estado activo.
+
+![](reve3.png)
+
+Donde luego de su busqueda, nos arrojara todos los empleados con sus respectivos contratos en estado activo.
+
+![](reve4.png)
+
