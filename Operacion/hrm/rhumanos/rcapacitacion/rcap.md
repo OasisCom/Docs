@@ -33,7 +33,7 @@ Adicionamos un nuevo renglón, en el campo _tercero_ digitamos o consultamos en 
 
 ![](rcap2.png)
 
-# CARGA DE EMPLEADO CON CONTRATO ACTIVO
+# CARGA DE EMPLEADOS CON CONTRATO ACTIVO POR MEDIO DE UN BOTÓN
 
 A través de la parametrización de un botón, este permitirá cargar todos los empleados con un contrato en estatus activo. 
 
