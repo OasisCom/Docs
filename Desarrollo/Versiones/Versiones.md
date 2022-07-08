@@ -16,6 +16,20 @@ editable: si
 
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
 
+##### [Versiones OasisCom Diciembre 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=339e4df792)
+
+##### [Versiones OasisCom Noviembre 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=961911df3d)
+
+##### [Versiones OasisCom Octubre 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=b4e96ef2ab)
+
+##### [Versiones OasisCom Septiembre 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=29954e7b9a)
+
+##### [Versiones OasisCom Agosto 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=34ccf2feda)
+
+##### [Versiones OasisCom Julio 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=e1c6b7daf1)
+
+##### [Versiones OasisCom Junio 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=06d57d4f60)
+
 ##### [Versiones OasisCom 4.04.87  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=d5e3cc9a7b) 29 de Marzo 2021
 
 ##### [Versiones OasisCom 4.04.86  ](https://mailchi.mp/94e0b1bdc4e5/versiones-10068828) 22 de Marzo 2021
