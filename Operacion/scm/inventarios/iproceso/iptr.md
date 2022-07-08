@@ -34,7 +34,7 @@ Donde tenemos que tener en cuenta lo siguiente:
 
 Luego de Ejecutar el proceso,el sistema crea automáticamente un documento SA * TB (Salida) en la aplicación TMOV
 
-![](inrt_imov.png)  
+![](iprt_imov.png)  
 
 
 Y luego de procesar este documento,el sitema realiza este proceso automáticamente de translado de producto a otra ubicación 
