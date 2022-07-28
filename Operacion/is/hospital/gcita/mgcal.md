@@ -160,11 +160,11 @@ El status de la cita cambiará a **_Inasistencia_**.
 
 ## Botón Recursos Por Día
 
-Este botón permite visualizar la planeación de recursos por día y horario
+Este botón permite visualizar la planeación de recursos por día
 
 ![](mgcal11.png)
 
-Al momento de dar clic en el boton *Recursos por Día* esta muestra las citas ordenada por día y horario dependiendo del status
+Al momento de dar clic en el boton *Recursos por Día* se muestra la planeación dependiendo del status
 
 ![](mgcal14.png)
 
