@@ -74,3 +74,17 @@ Para reportar que el paciente no asistió a la cita, ingresamos a la cita asigna
 El status de la cita cambiará a **_Inasistencia_**.  
 
 ![](mgcal13.png)
+
+### Botón Recursos Por Día
+
+ Esta funcionalidad sirve para visualizar los recursos asignados en un día especifico.
+ 
+ ![](mgcal1.png)
+ 
+ Se muestra las citas y recursos segun el status de cada registro.
+ 
+  ![](mgcal4.png) 
+ 
+ 
+ 
+ 
