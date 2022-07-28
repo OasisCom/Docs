@@ -16,6 +16,18 @@ editable: si
 
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
 
+##### [Versiones OasisCom Junio 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=e1419df4bd)
+
+##### [Versiones OasisCom Mayo 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=354888950e)
+
+##### [Versiones OasisCom Abril 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=3207a7a4d6)
+
+##### [Versiones OasisCom Marzo 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=eafc9febb4)
+
+##### [Versiones OasisCom Febrero 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=ab7687f8b9)
+
+##### [Versiones OasisCom Enero 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=ae7a8bc46e)
+
 ##### [Versiones OasisCom Diciembre 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=339e4df792)
 
 ##### [Versiones OasisCom Noviembre 2021  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=961911df3d)
