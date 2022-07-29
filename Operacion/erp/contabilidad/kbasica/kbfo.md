@@ -195,7 +195,7 @@ Lo anterior para cada formato del maestro y detalle.
 
 Parametrizados los formatos, se realiza el proceso de Chip Presupuestal en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal). (_Ver aplicación_).  
 
-## [EXPORTADOR DINAMICO – MEDIOS MAGNETICOS]
+## EXPORTADOR DINAMICO – MEDIOS MAGNETICOS
 
 Esta opción tiene como función generar un exportador dinámico, con el fin de realizar consultas de medios magnéticos.
 
