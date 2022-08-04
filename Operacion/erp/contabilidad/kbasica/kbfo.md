@@ -12,7 +12,7 @@ editable: si
 - [Parametrización de medios magnéticos para el Ingreso de Activo Fijo por Compras](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-de-medios-magnéticos-para-el-ingreso-de-activo-fijo-por-compras)
 - [Parametrización Estado Situación Financiera](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-estado-situación-financiera)
 - [Parametrización Formatos Chip Presupuestal](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#parametrización-formatos-chip-presupuestal)
-
+- [EXPORTADOR DINAMICO](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#exportador-dinamico)
 
 
 ## [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#medios-magnéticos)
@@ -195,18 +195,23 @@ Lo anterior para cada formato del maestro y detalle.
 
 Parametrizados los formatos, se realiza el proceso de Chip Presupuestal en la aplicación [**KPGF - Genera Formatos**](http://docs.oasiscom.com/Operacion/erp/contabilidad/kproceso/kpgf#proceso-chip-presupuestal). (_Ver aplicación_).  
 
-## EXPORTADOR DINAMICO – MEDIOS MAGNETICOS
+## [EXPORTADOR DINAMICO](http://docs.oasiscom.com/Operacion/erp/contabilidad/kbasica/kbfo#exportador-dinamico)
 
 Esta opción tiene como función generar un exportador dinámico, con el fin de realizar consultas de medios magnéticos.
 
-Esta información se puede generar tanto desde la aplicación KFOR (Balance de formatos) cómo Bint (Interfaz)
+Los formatos se crean desde la aplicación **KBFO - Formatos** ejemplo formato _2275 - No constitutivos ni ganancias ocasional_ por el proceso de **Medios**
 
-Una vez quede generado el exporatador dinamico, este nos descargara un arhivo en formato Excel (XLSX).
+![](kbfo14.png)
 
-![](kbfo12.png)
+Esta información se genera desde la aplicación **KPGF - Genera Formatos**
+
+![](kbfo15.png)
+
+La información generada se puede consultar en la aplicación **KFOR - Balance de formatos** para este ejemplo tenemos el formato 1003
 
 ![](kbfo13.png)
 
+Desde la aplicación **BINT - Interfeces** se exporta la información en formato Excel (XLSX)
 
-
+![](kbfo16.png)
 
