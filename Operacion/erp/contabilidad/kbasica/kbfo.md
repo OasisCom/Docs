@@ -211,7 +211,7 @@ La información generada se puede consultar en la aplicación **KFOR - Balance d
 
 ![](kbfo13.png)
 
-Desde la aplicación **BINT - Interfeces** se exporta la información en formato Excel (XLSX)
+Desde la aplicación **BINT - Interfaces** se exporta la información en formato Excel (XLSX)
 
 ![](kbfo16.png)
 
