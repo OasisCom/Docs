@@ -2,7 +2,7 @@
 
 layout: default
 
-title: Programa Manual
+title: Costo CIF mano de obra estándar vs Reales
 
 permalink: //Operacion/mrp/produccion/lreporte/lrcm
 
