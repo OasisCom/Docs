@@ -15,6 +15,8 @@ editable: si
 # Versiones OasisCom
 
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
+##### [Versiones OasisCom Agosto 2022  ](https://mailchi.mp/9c9d0a42ea62/versiones-julio-15908190?e=[UNIQID])
+
 ##### [Versiones OasisCom Julio 2022  ](https://us4.campaign-archive.com/?e=[UNIQID]&u=19b82094b563b278672ffa60e&id=12c5182cb5)
 
 ##### [Versiones OasisCom Junio 2022  ](https://us4.campaign-archive.com/?e=%5bUNIQID%5d&u=19b82094b563b278672ffa60e&id=e1419df4bd)
