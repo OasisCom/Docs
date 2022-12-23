@@ -125,3 +125,51 @@ Se puede ver el resultado al ejecutar el API.
 ![](InteImg3.png)
 
 Así pues de esta manera se realiza la integración a OasisCom a través de un API.
+
+## EndPoint CARGA DE PRODUCTOS
+
+Para realizar la carga de nuestros productos , debemos ingresar al ENDPOINT 40000 en la aplicacion BINT
+
+* BINT  - 40000
+  
+![](BINT-40000.png)
+
+En este BINT se deben cargar los productos en un archivo JSON con la siguiente estructura.
+
+* FORMATO CARGA DE PRODUCTOS (Archivo JSON)
+  
+![](products-40000.png)
+
+
+## EndPoint CARGA DE TERCEROS
+
+Para realizar la carga de los clientes , debemos ingresar al ENDPOINT 40001 en la aplicacion BINT
+
+* BINT  - 40001
+  
+![](terceros-40001.png)
+
+En este BINT se deben cargar los clientes
+ en un archivo JSON con la siguiente estructura.
+
+* FORMATO CARGA DE CLIENTES (Archivo JSON)
+  
+![](cliente-40001.png)
+
+
+## EndPoint CARGA DE MOVIMIENTOS DE INVENTARIO
+
+Para realizar la carga de nuestros movimientos de inventario , debemos ingresar al ENDPOINT 40002 en la aplicacion BINT
+
+* BINT  - 40002
+  
+![](bint-40002.png)
+
+En este BINT se deben cargar los movimientos de inventario
+
+ en un archivo JSON con la siguiente estructura.
+
+* FORMATO CARGA DE MOVIMIENTOS DE INVENTARIO (Archivo JSON)
+  
+![](movimiento-40002.png)
+
