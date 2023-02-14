@@ -7,59 +7,40 @@ editable: si
 
 # Generación de RIPS - GPRI  
 
-En esta aplicación, se muestra el proceso de generación de RIPS desde OASISCOM.
-
-Se registra el rango de fechas en donde se va a generar el RIP;  se trae el tercero; se asocia la referencia del contrato, que se puede buscar en la aplicación [Contratos de Venta - VCNT](http://docs.oasiscom.com/Operacion/scm/ventas/vcontrato/vcnt), en el campo _**Contrato Cliente**_, en el campo _**Régimen**_, si se quiere un solo RIP para los dos regímenes, se selecciona _**Todos**_; si se quiere por cada uno, se selecciona _**Régimen**_;  de la misma forma funciona para el campo _**Tipo**_,  si es un RIP para todas las EPS, se selecciona _**Todas las EPS**_, si es un RIP por cada EPS, se selecciona _**Por EPS**_.  A continuación, se procesa el registro.  
-
-![](gpri.png)  
+El proceso para la generación de RIPS, comienza en la vista **GPRI**  **Generación de datos para RIPS** 
 
 ![](gpri1.png)  
 
-Una vez ejecutado el proceso, se ingresa a la aplicación Envío - GENV; se consulta para la fecha y se puede apreciar que el sistema generó para este caso, dos RIPS.  Todo esto es con base en la información que se tiene en  [Movimientos de Inventario - GMOV](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/gmov), de las dispensaciones que se han realizado asociadas a los contratos tipo Cápita.  
+En esta aplicación se ingresa una fecha inicial y final, de igualmente un tercero donde normalmente se selecciona una entidad y se genera todos los registros en la tabla RIPS teniendo en cuenta una fecha, un contrato, un régimen, tipo y se presiona el botón recargar ubicado en la parte superior color azul, una vez realizado estos pasos se empieza a generar el proceso RIPS donde se llenan los datos de transacciones, usuarios, consultas, medicamentos, procedimientos, urgencias, hospitalizaciones, recién nacidos y otros servicios.  
 
-![](gpri2.png)  
+![](gpri2.png)
 
-En la parte inferior, el sistema va a mostrar el detalle de cada uno de esos RIPS, por ejemplo, todas las transacciones, los medicamentos, otros servicios si se llegaran a tener y también todo el tema relacionado con los usuarios.
+
+
+En esta aplicación se puede visualizar la información, donde inicialmente se puede ver las transacciones, donde aparece un numero de factura, se debe tener cuenta que cada transacción tiene una factura que esta relacionado a un usuario, y a su vez tiene asociado unos servicios tecnológicos, como se puede observar en la siguiente imagen. 
 
 ![](gpri3.png)  
 
+Como se puede visualizar el JSON debe tener un objeto principal que es la transacción donde se visualiza el número de factura y el NIT del facturador principalmente, dentro de este se encuentra asociado un objeto de usuarios, siendo este un arreglo donde puede ser el mismo tercero pero con un consecutivo diferente, este a su vez tiene un objeto de servicios tecnológicos donde se almacena las consultas, medicamentos, procedimientos, urgencias, hospitalizaciones, recién nacidos y otro servicios, por ultimo se destaca que se va entregar un arreglo de transacciones en el Archivos JSON que se genera. 
+
+
+
+
 ![](gpri4.png)  
+
+
+Para la descarga del Archivos JSON de RIPS se debe tener en cuenta que se hace por medio del **BINT - Interfaces** y para ello existe una parametrización, inicialmente se crea el ítem 80 en el  **BARC - Archivos**, donde se visualiza el nombre denominado RIPS, de igual forma el formato debe ser JSON, y el campo QUERY SQL es donde se almacena la consulta, donde se forma la estructura que debe devolver el JSON, en el cual se puede modificar si necesita otros campos o modificar su nombre si la resolución cambia, en el detalle de este ítem  80, se deben registrar los argumentos que se van a tener en cuenta como parámetros de búsqueda, en este caso se usa el número y el estado. 
 
 ![](gpri5.png)  
 
-![](gpri6.png)  
-
-Se debe entrar a generar una validación.  El sistema inicialmente, deja el RIP con un _**Status**_ _Generado_ y posterior a la validación del Usuario, se oprime la opción _**Rips Validado**_. 
-
-![](gpri7.png)  
-
-![](gpri8.png)
-
-Entonces, el sistema cambia el _**Status**_ a _Validado_.  
-
-![](gpri9.png)
-
-Una vez realizado este proceso, se ingresa a [Interfaces - BINT](http://docs.oasiscom.com/Operacion/utility/barchi/bint).  En el campo _**Operation**_, se elige la opción _**Genera RIPS**_.  En la parte inferior en _Parámetros_, en el campo _Número_ se le indica el número del RIP que se validó y en el campo _Estado_, la opción _V_ de _Validado_.  Posteriormente, se ejecuta la operación.  
-
-![](gpri10.png)  
-
-Con esto, el sistema trae el _.ZIP_ de los RIPS.  Se abre el archivo.  
-
-![](gpri11.png)  
-
-Se verifica que en todos los documentos, se encuentre información.  
-
-![](gpri12.png)
-
-Una vez realizado el proceso de verificación de que haya información en todos los archivos _.ZIP_, se regresa a la apliación **Contratos de Venta - VCNT** y se da el _Status_ _Terminado_.  Y con esto, se le indica al sistema que ya se realizó todo el proceso.  
-
-![](gpri13.png)  
-
-![](gpri14.png)  
-
-![](gpri15.png)  
 
 
+La otra opción que se debe parametrizar es en el **BPUB -Publicaciones**, en este caso se puede visualizar el registro numero 80, donde se especifica que la operación es tipo descarga y en el detalle se asocia la opción 80 creada previamente en la opción **BARC - Archivos**. 
+
+![](gpri6.png)
+
+
+Por último para la generación del Archivos JSON se ingresa al BINT donde se ingresa el numero y estado, argumentos parametrizados previamente en la opción **BARC - Archivos** y se presiona el boto aceptar y ejecutar, donde dependiendo de la cantidad de registros en unos minutos se podrá visualizar el Archivos en la opción descargas del navegador. 
 
 
 
