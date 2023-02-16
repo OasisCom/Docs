@@ -136,7 +136,7 @@ Ingresamos a la cita y damos click en el botón **_Cancelar Cita_**.
 
 
 
-![](mgcal15.png)
+![](mgcal11.png)
 
 
 
@@ -162,7 +162,7 @@ El status de la cita cambiará a **_Inasistencia_**.
 
 Este botón permite visualizar la planeación de recursos por día
 
-![](mgcal11.png)
+![](mgcal15.png)
 
 Al momento de dar clic en el boton *Recursos por Día* se muestra la planeación dependiendo del status
 
