@@ -90,7 +90,9 @@ A continuación se realizará la explicación de la operatividad básica del sis
 47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
 48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
 49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
-50. [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
+50. [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)
+51. [POWER BI] - [DASHBOARD](http://docs.oasiscom.com/Operacion/#DASHBOARD) 
+  
 
 
 ## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
@@ -1547,6 +1549,25 @@ Para levantar el reporte rdlc , deshabilitamos el check.
 ![](scam4.png)  
 
 ![](acon2.png)  
+
+
+
+## [POWER BI] - [DASHBOARD](http://docs.oasiscom.com/Operacion/#DASHBOARD) 
+
+Es un servicio de análisis empresarial proporcionado por Microsoft que permite a los usuarios conectar, analizar y visualizar datos de una amplia variedad de fuentes. 
+
+Se pueden evidenciar diferentes características tales como:
+
+Conexión de datos: Power BI permite a los usuarios conectarse a una variedad de fuentes de datos, incluidos archivos de Excel, bases de datos, servicios en la nube y otras aplicaciones empresariales.
+
+Modelado de datos: Los usuarios pueden crear modelos de datos que les permitan analizar y visualizar sus datos. También pueden añadir columnas calculadas, medidas y jerarquías al modelo de datos.
+
+Visualización de datos: Power BI ofrece una amplia variedad de herramientas de visualización, incluyendo gráficos, tablas, mapas e indicadores. Los usuarios también pueden crear visualizaciones personalizadas utilizando las herramientas para desarrolladores de Power BI.
+
+Así que, a nivel de OasisCom, se realiza la primera implementación de la versión de PowerBi, el cual es para el cambio de parámetros realizado por la aplicación, ya que se tenía actualmente por filtros, validando la hora de realizar el renderizado, el cual se carga primero las configuraciones necesarias, como la llave o principalmente la compañía 
+
+![](PowerBI1.png)  
+![](PowerBI2.png)  
 
 
 
