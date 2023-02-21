@@ -1,3 +1,5 @@
+**EBODEQ - DOCUMENTO SOPORTE**
+
 Esta aplicación contiene los documentos electronicos emitidos a la DIAN a nivel de documento soporte, permite observar el estado de los documentos a nivel de la DIAN “Envio Exitoso, Pendiente de Envio o Error de envio”
 
 ![](ebodeq1.png)
