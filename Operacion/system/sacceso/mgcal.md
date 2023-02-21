@@ -47,7 +47,7 @@ Una vez pagada la factura, damos acceso al paciente mediante el botón **_Acceso
 
 ![](mgcal7.png)
 
-Una vez ingresa el paciente al consultorio, creamos una nueva consulta dando click en el botón **_Crear Consulta_**. La consulta la debemos diligenciar en la aplicación _GCON - Consultas_ con datos como: motivo de consulta, la enfermedad actual,antecedentes, entre otros.  
+Una vez ingresa el paciente al consultorio, creamos una nueva consulta dando click en el botón **_Crear Consulta_**. La consulta la debemos diligenciar en la aplicación _GCON - Consultas_ con datos como: motivo de consulta, la enfermedad actual,antecedentes, entre otros.
 
 ![](mgcal8.png)
 
@@ -79,11 +79,11 @@ El status de la cita cambiará a **_Inasistencia_**.
 
  Esta funcionalidad sirve para visualizar los recursos asignados en un día especifico.
  
- ![](mgcal1.png)
+ ![](mgcal15.png)
  
  Se muestra las citas y recursos segun el status de cada registro.
  
-  ![](mgcal4.png) 
+  ![](mgcal14.png) 
  
  
  
