@@ -1,0 +1,44 @@
+{
+  "DocumentId": "EN ",
+  "LocationId": 1,
+  "ConceptId": "EC ",
+  "Date": "2021-09-02",
+  "Observation": "INGRESO POR DEVOLUCION DEL CLIENTE POR TAL MOTIVO SE REVERSA EL GASTO POR DETERIORO",
+  "DocumentId1": "   ",
+  "NumberId1": 0,
+  "LocationId1": 0,
+  "OperationDetail": [
+    {
+      "RowId": 1,
+      "ProductId": "19966774-6",
+      "Quantity": 1.0000,
+      "CostUnitary": 1320000.0000,
+      "LotId": "0",
+      "Observation": ""
+    },
+    {
+      "RowId": 2,
+      "ProductId": "33492-13",
+      "Quantity": 1.0000,
+      "CostUnitary": 100000.0000,
+      "LotId": "0",
+      "Observation": ""
+    },
+    {
+      "RowId": 3,
+      "ProductId": "20023909-1",
+      "Quantity": 1.0000,
+      "CostUnitary": 200000.0000,
+      "LotId": "0",
+      "Observation": ""
+    },
+    {
+      "RowId": 4,
+      "ProductId": "19961342-3",
+      "Quantity": 1.0000,
+      "CostUnitary": 100000.0000,
+      "LotId": "0",
+      "Observation": ""
+    }
+  ]
+}

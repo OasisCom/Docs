@@ -2581,10 +2581,10 @@
       url: /Desarrollo/Integracionoasiscom
     - text: Descargas OASIS R3
       url: /Desarrollo/descargarversionr3
-      text: EndPoint de cargas
-      url: /Desarrollo/carga
       text: EndPoint de descargas
       url: /Desarrollo/descarga
+      text: EndPoint de cargas
+      url: /Desarrollo/carga
 - text: Mercadeo
   url: /Mercadeo/
   subitems:

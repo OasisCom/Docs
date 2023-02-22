@@ -1,0 +1,34 @@
+[
+  {
+    "ClientType": "C",
+    "ClientId": 1111111,
+    "ClientCode": "1111111",
+    "FirstLastName": "",
+    "SecondLastName": "PRUEBA",
+    "FirstFirstName": "PRUEBA",
+    "SecondFirstName": "PRUEBA",
+    "ClientName": "PRUEBA PRUEBA PRUEBA PRUEBA",
+    "Address": "PRUEBA",
+    "Email": "PRUEBA@gmail.com",
+    "CelPhone": "NO TIENE",
+    "GeographicLocationId": 23001,
+    "TaxTypeId": 200,
+    "EntryDate": "2021-02-14"
+  },
+  {
+    "ClientType": "C",
+    "ClientId": 2222222,
+    "ClientCode": "2222222",
+    "FirstLastName": "",
+    "SecondLastName": "PRUEBA",
+    "FirstFirstName": "PRUEBA",
+    "SecondFirstName": "PRUEBA",
+    "ClientName": "PRUEBA PRUEBA PRUEBA PRUEBA",
+    "Address": "PRUEBA",
+    "Email": "PRUEBA@gmail.com",
+    "CelPhone": "NO TIENE",
+    "GeographicLocationId": 23001,
+    "TaxTypeId": 200,
+    "EntryDate": "2021-02-14"
+  }
+]
