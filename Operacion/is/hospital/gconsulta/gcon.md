@@ -75,6 +75,94 @@ Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un re
 ![](gcon3.png)
 
 
+## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
+
+
+Se ha agregado una nueva funcionalidad para poder crear firmas como archivos adjuntos.
+Para poder validar el correcto funcionamiento se deben seguir las siguientes configuraciones.
+
+Este es un paso a paso del proceso de creación y verificación de firmas como adjuntos:
+
+Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacion/system/sconfig/scam) donde se han agregado  validaciones en el  para las aplicaciones del [**GCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon) y [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
+
+
+![](Firma2.png)
+
+
+•	En la aplicación del GCON, vamos a usar el registro 587, y el botón como se visualiza en la imagen.
+
+![](Firma3.png)
+
+•	Cuando demos clic en el botón se nos mostrara una ventana en donde tendremos un recuadro para poder escribir lo que deseamos.
+
+![](Firma4.png)
+
+•	En la ventana tendremos los siguientes botones.
+
+![](Firma5.png)
+
+•	Para el ejemplo escribimos lo siguiente con ayuda del puntero del mouse.
+
+![](Firma6.png)
+
+•	Posterior vamos a guardar la imagen.
+
+![](Firma7.png)
+
+•	Vamos a darle clic en el botón de adjuntos, en donde se nos mostrara la imagen adjunta.
+
+![](Firma8.png)
+
+•	Cuando damos clic para verla, **se ve oscura**, esto es debido a que al momento de guardarla no tiene fondo la imagen, es transparente por lo cual toma el color del fondo de la ventana. 
+
+![](Firma9.png)
+
+**Pero si se descarga, podemos ver el texto realizado**
+
+•	Una vez descargada la abrimos en algún visualizador, lo que nos mostrar la imagen de manera correcta.
+
+![](Firma10.png)
+
+•	Vamos a darle clic en el botón que se muestra en la imagen.
+
+## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma) - [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
+
+•	Ahora realizaremos el mismo proceso para el [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON). Usando el registro 587
+
+![](Firma11.png)
+
+
+•	Vamos a darle clic en el botón que se muestra en la imagen.
+
+![](Firma12.png)
+
+
+•	Se nos mostrara la ventana para poder realizar la escritura deseada. 
+
+![](Firma13.png)
+
+•	Escribimos el texto deseado
+
+![](Firma15.png)
+
+•	Guardamos la firma de manera correcta.
+
+![](Firma16.png)
+
+•	Vamos a ver los adjuntos desde el [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON), en donde podemos validar las imágenes guardadas.
+
+![](Firma17.png)
+
+•	Y como vemos, podemos verificar que, aunque el fondo este oscuro se alcanza a notar la firma
+
+![](Firma18.png)
+
+
+
+
+
+
+
 
 
 
