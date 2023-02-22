@@ -1,0 +1,58 @@
+[
+  {
+    "ProductId": "19966774-6",
+    "Ean": "7707210531135",
+    "ProductName": "ACIDO ASCORBICO 100MG\/ML GTA - FCO X 30 ",
+    "Inventory": "T",
+    "MeasureUnitId": 19,
+    "ClassificationId": 601,
+    "BrandId": 132,
+    "TaxPercentage": 19.00,
+    "Ingress": "2020-05-02",
+    "State": "A",
+    "DatePrice": "2021-07-23",
+    "Price": 10000.00
+  },
+  {
+    "ProductId": "4589PRU",
+    "Ean": "NA80950",
+    "ProductName": "ADHESIVO DENTAL FCO - FCO X 6",
+    "Inventory": "T",
+    "MeasureUnitId": 18,
+    "ClassificationId": 801,
+    "BrandId": 1,
+    "TaxPercentage": 0.00,
+    "Ingress": "2020-05-02",
+    "State": "A",
+    "DatePrice": "2021-07-23",
+    "Price": 10000.00
+  },
+  {
+    "ProductId": "33492-14",
+    "Ean": "7703763996148",
+    "ProductName": "AMOXICILINA 250MG\/5ML SUSP - FCO X 100 ",
+    "Inventory": "T",
+    "MeasureUnitId": 18,
+    "ClassificationId": 601,
+    "BrandId": 189,
+    "TaxPercentage": 0.00,
+    "Ingress": "2020-05-02",
+    "State": "A",
+    "DatePrice": "2021-07-23",
+    "Price": 10000.00
+  },
+  {
+    "ProductId": "20023909-2",
+    "Ean": "8908001535021",
+    "ProductName": "AZATIOPRINA 50MG TAB - CJA X 100  - B10",
+    "Inventory": "T",
+    "MeasureUnitId": 32,
+    "ClassificationId": 601,
+    "BrandId": 292,
+    "TaxPercentage": 0.00,
+    "Ingress": "2020-05-02",
+    "State": "A",
+    "DatePrice": "2021-07-23",
+    "Price": 10000.00
+  }
+]

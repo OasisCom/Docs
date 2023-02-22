@@ -13,3 +13,5 @@ En esta sección encontraran los temas relacionados a la parte técnica de nuest
 2. [Generación de reportes RDL](http://docs.oasiscom.com/Desarrollo/reporterdl)
 3. [Integración de OasisCom](http://docs.oasiscom.com/Desarrollo/Integracionoasiscom)
 4. [Actualizar versión OasisCom](http://docs.oasiscom.com/Desarrollo/actualizarversion)
+5. [EndPoint de carga](http://docs.oasiscom.com/Desarrollo/carga)
+6. [EndPoint de descarga](http://docs.oasiscom.com/Desarrollo/descarga)
