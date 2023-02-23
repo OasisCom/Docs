@@ -16,22 +16,20 @@ editable: si
 
 
 
+La opción **MGCAL - Calendario de Usuario,**
+muestra la planeación actual de los recurso
+(Doctores) que se encuentran asociados a la
+entidad de forma más dinámica y sencilla.  
 
-
-La opción **MGCAL - Calendario de Usuario,** muestra la planeación actual de los recursos (Doctores) que se encuentran asociados a la entidad de forma más dinámica y sencilla.  
-
-
-
-* [Cancelar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#cancelar-cita)
-
-* [Inasistencia](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#inasistencia)
-
-
+* [Crear Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Crear-Cita)
+* [Cancelar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Cancelar-Cita)
+* [Inasistencia](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Inasistencia)
+* [Botón Recurso por Día](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Botón-Recurso-por-Día)
+* [Filtro por Semana](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Filtro-por-Semana) 
 
 
 
 En la aplicación se visualiza los horarios del día los cuales puenden estar en cuatro status diferentes:  
-
 
 
 * Libre  
@@ -43,14 +41,11 @@ En la aplicación se visualiza los horarios del día los cuales puenden estar en
 * En atención  
 
 
-
 Estos estados van cambiando dependiendo de la acción realizada por un usuario para asignar una cita a un paciente, indicar la llegada de un paciente o indicar que ya se está atendiendo al mismo.  
 
-
+## [Crear Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Crear-Cita)
 
 Para crear una cita ingresamos a la aplicación MGCAL y seleccionamos el dia.  
-
-
 
 ![](mgcal1.png)
 
@@ -120,7 +115,7 @@ En GCON - Consultas.
 
 
 
-## [Cancelar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#cancelar-cita)
+## [Cancelar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Cancelar-Cita)
 
 
 
@@ -140,7 +135,7 @@ Ingresamos a la cita y damos click en el botón **_Cancelar Cita_**.
 
 
 
-## [Inasistencia](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#inasistencia) 
+## [Inasistencia](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Inasistencia) 
 
 
 Para reportar que el paciente no asistió a la cita, ingresamos a la cita asignada y damos click en el botón **_Inasistencia_**.  
@@ -157,8 +152,8 @@ El status de la cita cambiará a **_Inasistencia_**.
 
 ![](mgcal13.png)
 
+## [Botón Recurso por Día](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Botón-Recurso-por-Día) 
 
-## Botón Recursos Por Día
 
 Este botón permite visualizar la planeación de recursos por día
 
@@ -168,3 +163,37 @@ Al momento de dar clic en el boton *Recursos por Día* se muestra la planeación
 
 ![](mgcal14.png)
 
+## [Filtro por Semana](http://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal#Filtro-por-Semana) 
+
+Permite realizar el filtro por semana diferente a
+la actual, siempre y cuando este activo el *flag*
+en el *WVAR – Variables*. Como se indica en la
+siguiente imagen, se tiene la sección de filtros.
+
+![](mgcal16.png)
+
+Para este caso es necesario usar el filtro de
+DateInitial y diligenciar el día de la semana que
+se quiere mostrar con formato **DD/MM/YYYY**. Al
+realizar el filtro se muestra la semana según el
+día filtrado.
+
+![](mgcal17.png)
+
+Al realizar una búsqueda por otro día se agrega
+un nuevo filtro, en este caso es necesario
+eliminar el filtro anterior, es decir el día 
+10/01/2023, ya que el proceso debe encontrar solo 
+un registro con el dato *DateInitial*.
+
+![](mgcal18.png)
+
+Una vez eliminado el filtro (10/01/2023) se
+realiza la carga de los datos de manera correcta 
+tal como se observa en la imagen del ejemplo (05/01/2023).
+
+![](mgcal19.png)
+
+**Nota**: El filtro aplica solo cuando la configuración de calendario por semana este marcado como 1, de lo contrario el mostrará el calendario por mes
+
+![](mgcal20.png)
