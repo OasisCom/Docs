@@ -32,7 +32,6 @@ Algunas aplicaciones para reportes en esta ventana son:
 * [**Acumulado decimo tercer mes - NRAD**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrad)    
 * [**Novedades de Prestamos - NRNP**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrnp)   
 * [**Informe acumulado Concepto Prestaciones Sociales - NRPB**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nrpb)  
-
 * [**Cálculo Retención en la Fuente - NREF**](http://docs.oasiscom.com/Operacion/hrm/nomina/nreporte/nref)  
 
 
