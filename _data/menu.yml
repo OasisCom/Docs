@@ -2579,11 +2579,6 @@
       url: /Desarrollo/reporterdl
     - text: Integracion OasisCom
       url: /Desarrollo/Integracionoasiscom
-      subitems:
-    -   text: EndPint Carga
-        url: /Desarrollo/carga
-        text: EndPint descarga
-        url: /Desarrollo/descarga
   text: Descargas OASIS R3
   url: /Desarrollo/descargarversionr3
 - text: Mercadeo
