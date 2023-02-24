@@ -2579,12 +2579,13 @@
       url: /Desarrollo/reporterdl
     - text: Integracion OasisCom
       url: /Desarrollo/Integracionoasiscom
+        subitems:
+        - text: EndPoint de Carga
+          url: /Desarrollo/carga
+           text: EndPoint de Descarga
+          url: /Desarrollo/descarga
     - text: Descargas OASIS R3
       url: /Desarrollo/descargarversionr3
-      text: EndPoint de descargas
-      url: /Desarrollo/descarga
-      text: EndPoint de cargas
-      url: /Desarrollo/carga
 - text: Mercadeo
   url: /Mercadeo/
   subitems:
