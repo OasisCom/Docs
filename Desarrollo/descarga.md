@@ -4,12 +4,12 @@ Para realizar la descarga de nuestros productos , debemos ingresar al ENDPOINT 5
 
 * BINT  - 50000
   
-![](BINT-50000.png)
+![](bint-50000.png)
 
 En esta opcion obtendremos todos nuestros productos registrados en el sistema en un formato JSON
 
 
-![](BINT2-50000.png)
+![](bint2-50000.png)
 
 
 
@@ -19,11 +19,11 @@ Para realizar la descarga de nuestros productos , debemos ingresar al ENDPOINT 5
 
 * BINT  - 50001
   
-![](BINT-50001.png)
+![](bint-50001.png)
 
 En esta opcion obtendremos todos nuestros productos registrados en el sistema en un formato JSON
 
 
-![](BINT2-50001.png)
+![](bint2-50001.png)
 
 
