@@ -196,6 +196,21 @@ Para identificar el nombre de los botones se debe tener en cuenta la siguiente l
 
 **Tipo**: Existe una lista desplegable: Campo, Tab, botón parametrizado y botón fijo, dependiendo de la acción a realizar se selecciona el tipo para saber en dónde se realizará el efecto.  
 **Invisible**: Se debe activar el flag si se requiere que el campo o botón este oculto, es decir, que cuando ingresemos a la aplicación no se pueda visualizar ese campo o botón para el usuario correspondiente.  
+
+De acuerdo con la información anterior, se realiza el ejemplo con la aplicación [MGCAL – Calendario de Usuario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal) selecciona el día y un horario del día seleccionado, se observa los diferentes botones señalados
+
+![](srol27.png)
+
+Para este ejemplo se oculta los cuatro primeros botones (Llegada, Pagar Cita, Acceso Paciente, Crear Consulta) para realizar esta acción se seleccionando el Rol 0 en el maestro y en el detalle se parametriza en la pestaña Campos se agrega un registro por cada botón a ocultar.
+
+![](srol28.png)
+
+ 
+Al realizar las parametrizaciones correspondientes como se muestran en la imagen, se consulta en la aplicación MGCAL – Calendario de Usuario se observa que los botones (Llegada, Pagar Cita, Acceso Paciente, Crear Consulta) no están visibles
+
+![](srol29.png)
+
+
 #### [Ocultar Campos No Necesarios](http://docs.oasiscom.com/Operacion/system/sacceso/srol#ocultar-campos-no-necesarios)
 Mediante la siguiente parametrización se logra ocultar campos que no son necesarios al momento de crear terceros.
 
