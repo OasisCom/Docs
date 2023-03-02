@@ -157,9 +157,11 @@ Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacio
 
 ![](Firma18.png)
 
+## Visualizacion de las firmas en formatos
 
+Esta firma puede ser visualizada  a nivel de los formatos,  para ello se debe modificar el formato al cual se requiera visualizar la firma, es necesario hacer la solicitud por medio del  area de desarrollo o realizar la solicitud por medio del area de soporte.
 
-
+![](Format.png)
 
 
 
