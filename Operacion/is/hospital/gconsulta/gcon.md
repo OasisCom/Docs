@@ -78,6 +78,7 @@ Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un re
 ## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
 
 
+
 Se ha agregado una nueva funcionalidad para poder crear firmas como archivos adjuntos.
 Para poder validar el correcto funcionamiento se deben seguir las siguientes configuraciones.
 

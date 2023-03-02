@@ -16,3 +16,4 @@ A continuación, se describirán las opciones que conforman el módulo de Manten
 5. [**AREC - Recursos**](http://docs.oasiscom.com/Operacion/crm/proyecto/prbasica/arec)
 6. [**MPGA - Generar calendario**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mpga)
 7. [**MCAL - Calendario**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mcal)
+8. [**MMCAL - Calendario (Versión Grafica)**](http://docs.oasiscom.com/Operacion/mrp/mantenimiento/mpreventivo/mmcal)
