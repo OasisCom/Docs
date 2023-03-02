@@ -11,7 +11,7 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 
 
 * [Creación de citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-citas-médicas)
-* # [Creación de pacientes](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-pacientes)
+* [Creación de pacientes](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-pacientes)
 * [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
 * [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
