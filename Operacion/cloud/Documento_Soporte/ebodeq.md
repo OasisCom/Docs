@@ -30,7 +30,7 @@ Se debe crear con el documento NB y concepto NB (Nota debito cuenta por pagar), 
 
 ![](ebodeq5.png)
 
-Una vez creado el tercero, se verifica que información se quiere ajustar, se ingresa a la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen) consultando por documento CM, Numero (1847) para este ejemplo. En el detalle se visualiza la información que se quieuere ajustar.
+Una vez creado el tercero, se verifica que información se quiere ajustar, se ingresa a la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen) consultando por documento CM, Numero (1847) para este ejemplo. En el detalle se visualiza la información que se quiere ajustar.
 
 ![](ebodeq6.png)
 
