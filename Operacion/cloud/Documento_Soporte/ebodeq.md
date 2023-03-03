@@ -1,4 +1,11 @@
-**EBODEQ - DOCUMENTO SOPORTE**
+---
+layout: default
+title: EBODEQ - DOCUMENTO SOPORTE
+permalink: /Operacion/cloud/Documento_Soporte/ebodeq
+editable: si
+---
+
+# EBODEQ - DOCUMENTO SOPORTE
 
 Esta aplicación contiene los documentos electronicos emitidos a la DIAN a nivel de documento soporte, permite observar el estado de los documentos a nivel de la DIAN “Envio Exitoso, Pendiente de Envio o Error de envio”
 
@@ -13,36 +20,29 @@ La nota de ajuste generada automáticamente se puede consultar por documento NQ 
 
 ![](ebodeq3.png)
 
-**DEVOLUCION - DOCUMENTO SOPORTE**
+# NOTA DE AJUSTE PARA CAJA MENOR - DOCUMENTO SOPORTE
 
-Para realizar una devolución del documento soporte, primero se debe iniciar desde el aplicativo *pmov- Movimientos*
+Para realizar una nota de ajuste del documento soporte, primero se debe iniciar desde el aplicativo *pmov- Movimientos*, se crea un nuevo registro con documento (NB) *nota debido cuenta por pagar* en el Campo DocDoccumento se diligencia CM – Caja menor y Numero del registro de la Caja Mejor para este caso el (1847) creado desde la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen)
 
 ![](ebodeq4.png)
 
-Se debe crear con el documento NB2 y concepto NB2, de acuerdo con el tercero que se requiere realizar la devolución.
+Se debe crear con el documento NB y concepto NB (Nota debito cuenta por pagar), de acuerdo con el tercero al cual se debe realizar la nota de ajuste.
 
 ![](ebodeq5.png)
 
-Una vez creado el tercero, se debe validar que información es la que se quiere devolver, y esta información se ve reflejada en el aplicativo *tmen - Caja Menor* en el apartado del detalle, cómo se puede observar a continuación:
+Una vez creado el tercero, se verifica que información se quiere ajustar, se ingresa a la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen) consultando por documento CM, Numero (1847) para este ejemplo. En el detalle se visualiza la información que se quieuere ajustar.
 
 ![](ebodeq6.png)
 
-Esta información es la que se debe agregar en la NB2, que se creó en el aplicativo *pmov – Movimientos*, con los tipos de naturaleza, valores, nombre del tercero y centro de cotos, solicitados en su devolución.
+Esta información es la que se debe agregar en el aplicativo *pmov – Movimientos* documento (NB) *nota debido cuenta por pagar*, en el detalle se adiciona la información con los tipos de naturaleza, valores, nombre del tercero y centro de cotos, solicitados en la nota de ajuste.
 
 ![](ebodeq7.png)
 
-Una vez ingresados los valores requeridos se procesa el *pmov – Movimientos* 
+Una vez ingresados los valores requeridos se procesa la nota de ajuste en el aplicativo *pmov – Movimientos* 
 
 ![](ebodeq8.png)
 
-Procesada la información en el *pmov – Movimientos*, se valida en el aplicativo *Ebodeq – Documentos Soporte* la creación del documento NQ de la devolución realizada con estado procesado, cómo se evidencia a continuación
+Procesada la información en el *pmov – Movimientos*, se valida en el aplicativo *Ebodeq – Documentos Soporte* la creación del documento NQ (nota de ajuste del documento soporte) en estado *procesado*.
 
 
 ![](ebodeq9.png)
-
-
-La devolución con documento NQ debe estar referenciada con el documento soporte EQ – 499 para este caso
-
-![](ebodeq10.png)
-
-
