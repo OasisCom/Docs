@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documetación - SDOC
-permalink: /Operacion/utility/docum/documental/
+permalink: /Operacion/utility/docum/documentacion
 editable: si
 ---
 
@@ -11,7 +11,7 @@ La funcionalidad de la aplicación SDOC – Documentación es controlar la infor
 Dentro de la aplicación SDOC – Documentación permite crear un listado de documentos y realizar las respectivas consultas de este. 
 En la siguiente imagen se observa la consulta de la ***PL_SIG_01_Política General del SIG*** por el tipo de documento **DC**, Numero **24**.
 
-![](documentación1.png)
+![](documentacion1.png)
 
 - **Documento**: DC
 - **Numero**: ID del Documento.
@@ -21,10 +21,10 @@ En la siguiente imagen se observa la consulta de la ***PL_SIG_01_Política Gener
 - **Estado**: Estado del Documento.
 - **URL**: Ubicación del documento dentro del repositorio ***Microsoft 365*** en el caso de OasisCom; para visualizar o descargar el documento es necesario dar clic sobre la URL.
 
-![](documentación2.png)
+![](documentacion2.png)
 
 Al dar clic se puede ver o descargar el documento consultado para este ejemplo es la ***PL_SIG_01_Política General del SIG***
 
-![](documentación3.png)
+![](documentacion3.png)
 
 Proporcionar un acceso fácil a todos los documentos asegurará que los miembros del equipo se mantengan informados y a tiempo.
