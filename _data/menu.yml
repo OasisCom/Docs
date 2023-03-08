@@ -2360,12 +2360,7 @@
       url: /Operacion/utility/
       subitems:
         - text: Gestion Documental
-          url: /Operacion/utility/docum/
-          subitems:
-            - text: Correspondencia
-              url: /Operacion/utility/docum/correspondencia/
-            - text: Gestion Documental
-              url: /Operacion/utility/docum/documental/
+          url: /Operacion/utility/docum/documentacion/
         - text: Workflow
           url: /Operacion/utility/workflow/
           subitems:
