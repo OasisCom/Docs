@@ -1,4 +1,11 @@
-**EBODEQ - DOCUMENTO SOPORTE**
+---
+layout: default
+title: EBODEQ - DOCUMENTO SOPORTE
+permalink: /Operacion/cloud/Documento_Soporte/ebodeq
+editable: si
+---
+
+# EBODEQ - DOCUMENTO SOPORTE
 
 Esta aplicación contiene los documentos electronicos emitidos a la DIAN a nivel de documento soporte, permite observar el estado de los documentos a nivel de la DIAN “Envio Exitoso, Pendiente de Envio o Error de envio”
 
@@ -12,3 +19,30 @@ Ejemplo en la imagen se selecciona el documento Soporte EQ - 297
 La nota de ajuste generada automáticamente se puede consultar por documento NQ – Nota de ajuste por Concepto NX. En la imagen se observa la nota de ajuste NQ – 5 referenciando el documento soporte EQ – 297
 
 ![](ebodeq3.png)
+
+# NOTA DE AJUSTE PARA CAJA MENOR - DOCUMENTO SOPORTE
+
+Para realizar una nota de ajuste del documento soporte, primero se debe iniciar desde el aplicativo *pmov- Movimientos*, se crea un nuevo registro con documento (NB) *nota debido cuenta por pagar* en el Campo DocDoccumento se diligencia CM – Caja menor y Numero del registro de la Caja Mejor para este caso el (1847) creado desde la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen)
+
+![](ebodeq4.png)
+
+Se debe crear con el documento NB y concepto NB (Nota debito cuenta por pagar), de acuerdo con el tercero al cual se debe realizar la nota de ajuste.
+
+![](ebodeq5.png)
+
+Una vez creado el tercero, se verifica que información se quiere ajustar, se ingresa a la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen) consultando por documento CM, Numero (1847) para este ejemplo. En el detalle se visualiza la información que se quiere ajustar.
+
+![](ebodeq6.png)
+
+Esta información es la que se debe agregar en el aplicativo *pmov – Movimientos* documento (NB) *nota debido cuenta por pagar*, en el detalle se adiciona la información con los tipos de naturaleza, valores, nombre del tercero y centro de cotos, solicitados en la nota de ajuste.
+
+![](ebodeq7.png)
+
+Una vez ingresados los valores requeridos se procesa la nota de ajuste en el aplicativo *pmov – Movimientos* 
+
+![](ebodeq8.png)
+
+Procesada la información en el *pmov – Movimientos*, se valida en el aplicativo *Ebodeq – Documentos Soporte* la creación del documento NQ (nota de ajuste del documento soporte) en estado *procesado*.
+
+
+![](ebodeq9.png)
