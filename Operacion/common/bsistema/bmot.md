@@ -1,0 +1,212 @@
+---
+layout: default
+title: Documentos
+permalink: /Operacion/common/bsistema/bmot
+editable: si
+---
+
+# Motivos - BMOT
+
+La aplicación **BMOT** permite el registro de los diferentes motivos por los cuales se pueden generar documentos. Documentos y conceptos previamente parametrizados en **BDOC** y **BCON** respectivamente.  
+
+>+ [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
+>+  [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
+>+ [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
+>+ [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
+>+ [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
+>+ [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos)
+>+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+>+ [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
+
+
+![](bmot1.png)
+
+**Documento:** siglas del documento con el cual se relacionará el motivo a registrar.  
+**Concepto:** siglas del concepto con el cual se relacionará el motivo a registrar.  
+**Motivo:** número de identificación asignado al motivo que se registra.  
+**Nombre motivo:** nombre asignado al motivo que se registra.  
+**FormatNumber:** el campo FormatNumber permite elegir el formato de documento a imprimir de acuerdo a la parametrización de la opción BMOT. Este campo tiene en cuenta la secuencia de validación de impresión de un formato, de acuerdo al campo 'FormatNumber' de la tabla motivos. El sistema validará documento, concepto, motivo.  
+
+La aplicación **BMOT** cuenta con una pestaña llamada _Cuestionario_ en donde se podrán definir las preguntas relevantes a calificar en un proceso comercial.  
+
+![](bmot3.png)
+
+## [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
+
+En BMOT se realiza la parametrización de los documentos que deben ir anexos al formulario de afiliación de la aplicación [**EEMOV - Formulario de Afiliados WEB**](http://docs.oasiscom.com/Operacion/crm/portal/cliente/eemov). A continuación, adjuntamos los documentos: formulario único, copia del documento de identificación y encuesta del sisben. Estos documentos son de carácter obligatorio para el documento MS, concepto IN y motivo 2.
+
+![](bmot2.png)
+
+## [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
+
+En esta aplicación se puede realizar la parametrización de formularios se debe indicar a que documento se requiere realizar y en el detalle en la pestaña Form Detail registrar lo siguiente:
+
+![](formulariosbmot.png)
+
+**Renglón:** Consecutivo  
+**Descripción:** Nombre del campo que se requiere ver en el formulario  
+**Obligatorio:** Activar el flag en caso que el campo se deba diligenciar obligatoriamente y dejarlo inactivado en caso que sea opcional  
+**Tipo de datos:** Indicar T en caso de requerir que el diligenciamiento del campo sea texto, indicar D en caso que sea fecha y A en caso que se requiere un campo grande para diligenciar  
+**Visible:** Activar el flag en caso que el campo sea visible  
+**Actualice Campo:** Aquí se debe diligenciar el mismo campo de la aplicación ECRC - Características que se llama Nombre del campo, esto aplica sólo para los campos que van a tener zoom, es decir, se debe seleccionar alguna de las opciones allí parametrizadas.   
+**Etiqueta:** Registrar SI en caso que el campo se comporte cómo título  
+**Fila posición:** Aquí se debe registrar el número de la fila en la cual se requiere ver el campo  
+**Posición Columna:** Aquí se debe registrar el número de la columna en la cual se requiere ver el campo  
+**Zoom:** Se debe activar el flag en caso que el campo vaya actuar como zoom, es decir, que se seleccionen las opciones que se encuentran allí parametrizadas.  
+
+![](ejemploflormulario.png)  
+**PARAMETRIZACIÓN DE TABS.**  
+
+Podemos cargar los diferentes detalles que son parametrizados por el **BMOT** de manera dinámica:  
+Tomamos como ejemplo esta opcion: tener en cuenta que este programa es el mismo que el **EPES**, por la cual la parametrización y los documentos van direccionados a este.  
+A nivel del **SPRO** se configuran los tabs.  
+
+![](spro1.png)  
+Cada renglón del tab debe tener relación con el motivo desde el **BMOT.**  
+Se omite el motivo 0 (cero), esto porque los registros sobre el maestro siempre quedaran en 0.  
+Los demás motivos son para tener configurado el programa de manera dinámica, al tener relación con el tab, se toma la parametrización en el detalle del motivo ( form- detail).  
+
+![](bmot18.png)  
+Retomamos el programa EEPES (programas especiales) que está enfocado en las gestantes, que usara la IPS.  
+Al tener múltiples servicios sobre una madre gestante, y diferentes capturas de datos sobre cada servicio.  
+
+A nivel de maestro se mantiene a como se tenía anteriormente, que son la siguiente información.  
+Datos del documento  
+Afiliado y cliente ( IPS)  
+Responsable  
+Fecha  
+Como podemos ver y validar se cargan los diferentes detalles que son parametrizados por el BMOT de manera dinámica.   
+
+![](bmot19.png)  
+
+Se realiza la carga de los detalles sobre una tabla sencilla y amigable para mejor visualización por parte del usuario de la IPS.  
+Esto así, ya que se pueden tener varios registros según el servicio para un gestante mes a mes.  
+Se mostrará una ventana emergente que mostrara el formulario dinámico, según parametrización realizada sobre el **BMOT**.  
+
+![](bmot20.png)  
+
+
+
+## [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
+
+En el detalle de la opción **BMOT - Motivos** se agregan los campos _ZoomName_ y _ZoomRetrive_, los cuales permitirán elegir el campo o columna a retornar en un zoom de un formulario dinámico.  
+
+![](bmot4.png)
+
+Por ejemplo, para la opción **AANA - Análisis de Calidad**, cuyo documento corresponde a QA, se parametriza en el zoom _Muestra_, que el campo a retornar será _ProductId_ del zoom _ProductZoom_. Se parametriza de la siguiente manera.  
+
+![](bmot5.png)
+
+Se debe tener en cuenta el campo _Tipo Datos_ para el dato del campo a parametrizar, dado que si solo recibe datos numéricos y se parametriza un dato que retorne letras o caracteres, al guardar el formulario mostrará error de data.  
+
+![](bmot6.png)
+
+Una vez se parametriza el documento en la opción **BMOT - Motivos**, verificamos el campo en la aplicación **AANA - Análisis de Calidad**.  
+
+![](bmot7.png)
+
+Al abrir el zoom, mostrará el zoom de producto y al seleccionar un registro, deberá retornar el Id del producto.  
+
+![](bmot8.png)
+
+![](bmot9.png)
+
+## [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
+
+En esta opción será parametrizado el motivo y el formulario dinámico de la primera pestaña del detalle de la opción [**AANA - Análisis de Calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana), así:  
+
+En el maestro se ingresa el documento y concepto previamente parametrizados en [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad).  
+
+![](bmot10.png)
+
+En el detalle, se debe parametrizar el formulario dinámico del detalle de la opción [**AANA - Análisis de Calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana), de la siguiente manera:  
+
+**Descripción:** ingresar el nombre del campo.  
+**Obligatorio:** se activa o desactiva el flag dependiendo de si el campo es obligatorio o no.  
+**Tipo Datos:** se ingresa el tipo de dato del campo a parametrizar. Los tipos de dato son:  
+
+ * N: Numérico  
+ * T: Texto  
+ * A: Área de texto  
+ * D: Fecha  
+ * H: Hora  
+ * C: CheckBox  
+
+**Visible:** se activa o desactiva el flag, dependiendo de si el campo será visible o no.  
+**Actualice campo:** se deben ingresar los nemotécnicos o Id de los campos. Para el caso de la opción [**AANA - Análisis de Calidad**](http://docs.oasiscom.com/Operacion/utility/calidad/bregis/aana), los nemotécnicos son los siguientes:  
+
+* Muestra: **ControlId**  
+* Nivel de Tueste: **TUE**  
+* Seco: **SEC**  
+* Espuma: **ESP**  
+* Fragancia / Aroma: **FRA**  
+* Sabor: **SAB**  
+* S. Residual: **SAR**  
+* Acidez: **ACI**  
+* Intensidad Acidez: **IAC**  
+* Cuerpo: **CUE**  
+* Intensidad Cuerpo: **ICU**  
+* Balance: **BAL**  
+* Uniformidad: **UNI**  
+* Taza Limpia: **TLI**  
+* Dulzor: **DUL**  
+* Puntaje Catador: **PCA**  
+* Número Tazas: **NTA**  
+* Intensidad: **INT**  
+* Defecto1: **Failure**  
+* Defecto2: **Failure**  
+* Defecto3: **Failure**  
+
+![](bmot11.png)
+
+**Zoom:** se activa o desactiva el flag dependiendo de si el campo corresponde o no a un zoom.  
+
+![](bmot12.png)
+
+
+## [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
+
+En la pestaña del detalle _Types_Adjunct_ de la aplicación **BMOT**, se deben parametrizar los tipos de adjuntos por documento y motivo y si son obligatorios así:  
+
+En el maestro ingresamos el documento al cual se le parametrizará el adjunto y en el detalle, relacionaremos los documentos que se deberán adjuntar a dicho documento.  
+
+![](bmot13.png)
+
+**Tipo Adjunto** seleccionar del zoom de ayuda el tipo de archivo.  
+
+![](bmot14.png)
+
+**Obligatorio:** si el adjunto es obligatorio se debe activar el flag.  
+**Estado:** se debe seleccionar si el adjunto está activo o no.  
+
+![](bmot15.png)
+
+De esta manera, al adjuntar documentos por ejemplo para la opción **XEXP**, se mostrará un listBox para la selección del tipo de adjunto.  
+
+![](bmot16.png)  
+
+## [**Movimientos de activos fijos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos) 
+
+Primero que todo, tenga en cuenta que para realizar los movimientos de activos fijos, se deben tener en cuenta varias aplicaciones adicionales a esta **BMOT - Motivos**, a saber:  [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#movimientos-de-activos-fijos), [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#movimientos-de-activos-fijos) y donde se realizan los movimientos: [**HMOV - Movimientos**](http://docs.oasiscom.com/Operacion/erp/activos/hmovimient/hmov#ingreso-de-activo-fijo-por-HMOV)  
+
+En el maestro de esta aplicación, se consultan los siguientes campos:  
+
+![](bmot17.png)  
+
+**Documento:**  Se consulta el documento MA  
+**Nombre documento:** Activos fijos que corresponde al documento MA  
+**Concepto:** En este campo, se puede escoger de un menú que puede ver por la aplicación **HMOV** los diferentes conceptos, por ejemplo BJ(bajas), DC(Descuento pronto pago, TR(Traslado), entre otros.  En el caso de la ilustración, se elige el concepto BJ de baja  
+
+## [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+
+En la aplicación **BMOT-Motivos,** se debe tener la misma relación de *LP – concepto – motivo para el CP – concepto – motivo.*
+
+![](Imagen 1 bmot.png)
+
+## [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
+
+En la aplicación BMOT, se deben ingresar el registro que será el referente al cotizante con el número de motivo 0.
+
+![](Imagen 2 bmot.png)
+
+
