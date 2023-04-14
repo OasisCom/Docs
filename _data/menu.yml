@@ -2579,7 +2579,7 @@
           url: /Desarrollo/carga
         - text: EndPoint de Descarga
           url: /Desarrollo/descarga
-        - text: /Factura Electronica
+        - text: Factura Electronica
           url: /Operacion/cloud/ebportal
     - text: Descargas OASIS R3
       url: /Desarrollo/descargarversionr3
