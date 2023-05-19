@@ -15,6 +15,7 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 * [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
 * [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
+* [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
 
 
 
@@ -223,15 +224,28 @@ El texto se guarda en el campo:  **observación**.
 
 * Aca finaliza la funcionalidad del boton: **Procedimiento no realizado**   
 
+## [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
 
+Se crea botón **Generar Encuesta** desde la parametrización del aplicativo [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam). Para realizar el proceso de generación de encuestas se ingresa al **GCAL – Calendario** consultando por status **asignado o paciente en sala**. 
 
+![](gcal29.png)
 
+Se debe seleccionar la cita o registro al cual se quiere general la encuesta dando **clic** sobre el botón **Generar Encuesta**, se despliega una ventana emergente la cual muestra los conceptos y motivos existentes para el documento de encuesta de acuerdo con la configuración realizada desde el [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam) por ejemplo, como se muestra en la siguiente en la imagen.
 
+![](gcal30.png)
 
+Se debe seleccionar el concepto y el motivo según corresponda y dar clic en Aceptar se muestra un mensaje *Proceso realizado correctamente*. Automáticamente se crea un registro de la encuesta en la aplicación **GENC – Encuestas** con estado **Procesado** y status **Generado** tal como se muestra en la imagen, en el detalle se visualiza la encuesta que se enviará al paciente.
 
+![](gcal31.png)
 
+Así mismo se crea un registro automático en **STRA – Trabajos** dejándolo en cola, OasisCom en segundo plano realiza él envió del formulario de la encuesta al paciente a través de correo electrónico registrado.
 
+![](gcal32.png)
 
+Al correo registrado del paciente llega el enlace para diligenciar la encuesta de la siguiente manera.
 
+![](gcal33.png)
 
+Cuando el paciente diligencia la encuesta enviada al correo electrónico, esta queda actualizada en el aplicativo **GENC – Encuestas** con status **Recibido** en el detalle se observan las respuestas indicadas por el paciente.
 
+![](gcal34.png)
