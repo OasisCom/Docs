@@ -1,90 +1,65 @@
 ---
 layout: default
 title: Factura Electronica
-permalink: /Operacion/ebportal/
+permalink: /Operacion/cloud/ebportal/
 editable: si
 ---
 # Documentos Electrónicos  
 ---
 #### Factura Electrónica
-###### - [Factura Electrónica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica.pdf)
-###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/ebportal/factura-electronica-dos.pdf)   
-###### - [Diccionario Datos Factura Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_FE.pdf)  
+
+###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/factura-electronica-dos.pdf)   
+###### - [Diccionario Datos Factura Electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/DiccionarioDatos_FE.pdf)  
 
 #### Documento Soporte  
-###### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/documentos-soportes.pdf)    
-###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/ebportal/DiccionarioDatos_DS.pdf)  
+###### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/documentos-soportes.pdf)    
+###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/DiccionarioDatos_DS.pdf)  
 
 #### Nomina electronica 
-###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/Estructura_XML_v8.xml)   
-###### - [Estructura Archivo Plano Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/PlanoNE.xlsx) 
-###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/ebportal/diccionariodatos-conceptos-XML-v5u.xlsx)  
+###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/Estructura_XML_v8.xml)   
+###### - [Estructura Archivo Plano Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/PlanoNE.xlsx) 
+###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/diccionariodatos-conceptos-XML-v5u.xlsx)  
  
 ---
 
 **Menú**  
 
-1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)  
-2. [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)  
-3. [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)  
-4. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)  
-5. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
-5.1 [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#factura-electrónica)  
-5.1.1 [Archivo XML Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)  
-5.1.2 [Archivo plano Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
-5.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#instructivo-integración-oasiscom)    
-5.1.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
-5.1.5 [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)  
-5.1.6 [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasis-en-azure)  
-5.1.7 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)  
-5.1.8 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
-5.1.9 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)  
-5.1.10 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)  
-5.2 [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#documento-soporte)   
-5.2.1 [Archivo XML Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
-5.2.2 [Archivo plano Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
-5.3 [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
-5.3.1 [Archivo XML Nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nómina)   
-5.3.2 [Archivo plano Nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
+1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)  
+2. [Código QR](http://docs.oasiscom.com/Operacion/cloud/ebportal/#código-qr)  
+3. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#adjuntos-en-la-factura-electrónica)  
+4. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
+4.1 [Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#factura-electrónica)  
+4.1.1 [Archivo XML Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-factura)  
+4.1.2 [Archivo plano Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-factura)  
+4.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#instructivo-integración-oasiscom)    
+4.1.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
+4.1.5 [Proceso de Factura Electrónica en la plataforma de Oasiscom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom)  
+4.1.6 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#manual-facturación-electrónica---archivo-xml)  
+4.1.7 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
+4.1.8 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)  
+4.1.9 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/cloud/ebportal/#modificación-de-datos-adquiriente)  
+4.2 [Documento Soporte](http://docs.oasiscom.com/Operacion/cloud/ebportal/#documento-soporte)   
+4.2.1 [Archivo XML Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-documento)  
+4.2.2 [Archivo plano Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-documento)  
+4.3 [Nomina Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#nomina-electrónica)  
+4.3.1 [Archivo XML Nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-nómina)   
+4.3.2 [Archivo plano Nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-nómina)  
   
 
 
-## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#correo-factura-electrónica)
+## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)
 
-La plantilla de envío de facturas electrónicas contiene tres links que permiten confirmar el recibido de la factura, _Aceptarla_ o _Rechazarla_. Igualmente, para cada acción se envía una plantilla de correo como respuesta.  
+La plantilla de envío de facturas electrónicas contiene el .zip con su respectivo XML y representación gráfica.
 
 ![](ebportal.png)
 
-Plantilla al confirmar el recibido de la factura.  
-
-![](ebportal3.png)
-
-![](ebportal4.png)
-
-
-Plantilla al _Aceptar_ una factura.  
-
-![](ebportal1.png)
-
-Plantilla al _Rechazar_ una factura.  
-
-![](ebportal2.png)
-
-**Nota:** las plantillas de envío de correos se visualizarán con el logo de la empresa de donde el usuario se encuentre en sesión.  
-
-
-## [Código QR](http://docs.oasiscom.com/Operacion/ebportal/#código-qr)
+## [Código QR](http://docs.oasiscom.com/Operacion/cloud/ebportal/#código-qr)
 
 El formato de factura electrónica que se envía al adquiriente contiene un Código QR, que le permitirá ver desde un dispositivo móvil los datos de la factura.  
 
 ![](codigoqr.png)
 
-## [Envío de mensajes de texto](http://docs.oasiscom.com/Operacion/ebportal/#envío-de-mensajes-de-texto)
-
-Generada la factura electrónica, el sistema enviará automáticamente un mensaje de texto al número del dispositivo móvil del cliente registrado en el sistema informando de la creación de la factura.  
-
-
-## [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/ebportal/#adjuntos-en-la-factura-electrónica)
+## [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#adjuntos-en-la-factura-electrónica)
 
 En el envío de la factura electrónica es posible agregar archivos adjuntos, para ello, se debe parametrizar inicialmente los campos _Ebill_ y _EbillAdjunct_ en la aplicación **SEMP - Empresas**, lo cual indicará que la empresa emite facturación electrónica y podrá adjuntar archivos en la misma.  
 
@@ -98,11 +73,11 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ![](ebportal6.png)
 
-## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)
+## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)
 
-## [Factura Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#factura-electrónica)  
+## [Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#factura-electrónica)  
 
-### [Archivo XML Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-factura)
+### [Archivo XML Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-factura)
 
 Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom o consumiendo un servicio web que provee OasisCom para que este cargue sea de forma automática.  
 
@@ -119,11 +94,11 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 
 
-### [Archivo plano Factura](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-factura)  
+### [Archivo plano Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-factura)  
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
-#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/ebportal/Archivo_Plano.xlsx) 
+#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/ebportal/Archivo_Plano.xlsx) 
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
@@ -268,7 +243,7 @@ Quedando el cursor en el último caracter del último renglón.
 
 ![](ebportal17.png)
 
-### [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/ebportal/Instructivo_Integracion_OasisCom_v1.0.pdf)
+### Instructivo Integración OasisCom
 
 
 A continuación, se dará a conocer la data requerida para realizar la carga de documentos electrónicos en los formatos XLS o TXT para el proceso de facturación electrónica en OasisCom.  
@@ -300,7 +275,7 @@ A continuación, se describe la malla de validación con la información precisa
 ![](ebportal20.png)
 ![](ebportal244.png)  
 
-## [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)
+## [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-oasiscom-r3)
 
 Para iniciar el proceso de Facturación electrónica en la versión R3 de Oasiscom, se crea una factura normal con el *Documento* correspondiente y el *Número* de documento. Cabe resaltar que la factura debe estar en *Estado Procesado* para poderla transmitir a Oasiscom en Azure.
 
@@ -354,29 +329,15 @@ Para validar esta factura, se ingresa a la aplicación **Facturas de venta - EBF
 
 ![](factura16.png)
 
-## [Proceso de Factura Electrónica en los On Premise](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-electrónica-en-los-on-premise)
+## [Proceso de Factura Electrónica en la plataforma de Oasiscom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-Oasiscom)
 
-Los **On Premise** son clientes de Oasis que tienen el ERP, pero lo tienen en su instalación propia. En este caso, se indicará cómo desde la instalación propia, se debe generar el proceso de facturación y cómo se hace el respectivo seguimiento.
+Se hace una factura en cualquiera de las aplicaciones **Facturas - JFAC** o **Facturas - FFAC** (+). Para la ilustración, tomamos la factura número 15 que ya está creada y se encuentra en _**Estado Activo**_. Al momento de confirmar o *Procesar* la factura, el documento se emite a la DIAN y posteriormente al adquiriente. Una vez el proceso termina, sale el aviso de *Transacción exitosa.*
 
-![](factura17.png)
+![](factura27.png)
 
-Para esta ilustración, se está en una base **On Premise.** Se crea una factura (+), la cual para el proceso de habilitación, como se explica en la parametrización, el *Documento* es **FC2**, pero si fuera un proceso de producción, se usan los documentos que se tienen definidos para ello. La *Ubicación*, por la que normalmente se generan las facturas. Se llenan todos los datos pertinentes de la factura y finalmente se guarda.
+Posteriormente, se ingresa a la aplicación **Facturas de venta - EBFFAC** para validar que la factura se haya enviado con éxito a la DIAN. Se filtra por el número del documento y se verifica que el campo *Status Dian* sea _**Envío exitoso.**_
 
-![](factura18.png)
-
-![](factura19.png)
-
-En el detalle, se adicionan los registros que se requieren y al final, se guarda. 
-
-![](factura20.png)
-
-En este momento, si todo se encuentra correcto, cuando se confirma el documento, esta factura se debe visualizar en la plataforma de **Azure.**
-
-![](factura21.png)
-
-Al confirmarla, se verifica que efectivamente llegó a la plataforma de **Azure** y también a la DIAN. Se entra a la plataforma de **Azure**, la cual se encuentra en app.oasiscom.com, sobre la misma empresa y se revisa en la aplicación **Facturas - EBFFAC** que la factura se encuentre cargada y enviada a la DIAN con éxito. Se consulta con el mismo número y ahí se ve la factura con la misma información que se registró en el **On Premise** y en el campo *Stauts Dian,* aparece _**Envío exitoso.**_
-
-![](factura22.png)
+![](factura28.png)
 
 En la aplicación **Mailing-Lists(Listas de Correo) - SMEN**, se puede verificar el envío a los adquirientes, en el campo *Argumento* se puede filtrar la factura.
 
@@ -394,18 +355,8 @@ El sistema crea otro seguimiento en la aplicación **Mailing-Lists(Listas de Cor
 
 ![](factura26.png)
 
-## [Proceso de Factura Electrónica en la plataforma de Oasiscom en Azure](http://docs.oasiscom.com/Operacion/ebportal/#proceso-de-factura-el)
 
-Se hace una factura en cualquiera de las aplicaciones **Facturas - JFAC** o **Facturas - FFAC** (+). Para la ilustración, tomamos la factura número 15 que ya está creada y se encuentra en _**Estado Activo**_. Al momento de confirmar o *Procesar* la factura, el documento se emite a la DIAN y posteriormente al adquiriente. Una vez el proceso termina, sale el aviso de *Transacción exitosa.*
-
-![](factura27.png)
-
-Posteriormente, se ingresa a la aplicación **Facturas de venta - EBFFAC** para validar que la factura se haya enviado con éxito a la DIAN. Se filtra por el número del documento y se verifica que el campo *Status Dian* sea _**Envío exitoso.**_
-
-![](factura28.png)
-
-
-## [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#manual-facturación-electrónica---archivo-xml)
+## [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#manual-facturación-electrónica---archivo-xml)
 
 A continuación, se informará el paso a paso del proceso de cargue, validación y modificación de facturación electrónica en la plataforma OASISCOM. 
 
@@ -413,7 +364,7 @@ Para empezar, se debe realizar el registro del usuario ingresando los datos pert
 
 ![](ebportal26.png)
 
-### [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/ebportal/#cargue-de-factura-electrónica-archivo---xml)
+### [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#cargue-de-factura-electrónica-archivo---xml)
 
 Ingresamos con nuestro usuario y contraseña a la plataforma OASISCOM en el siguiente link https://app.oasiscom.com.  
 
@@ -447,7 +398,7 @@ Al momento de hacer click en Aceptar, aparecerá un mensaje indicando que la ope
 
 Así sabremos que la factura quedó bien cargada en el sistema.  
 
-### [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/ebportal/#verificación-de-facturas-electrónicas)
+### [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)
 
 Para realizar la verificación de las facturas, ingresaremos al nemotécnico **“EBFFAC – Facturas de Venta**. Ingresaremos esta opción en la barra de búsqueda.  
 
@@ -495,7 +446,7 @@ En la parte superior se puede observar el encabezado de la factura y los valores
 
 Se puede imprimir la factura seleccionada oprimiendo el botón **“vista preliminar”** o directamente desde el botón **"imprimir"**.  
 
-### [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/ebportal/#modificación-de-datos-adquiriente)
+### [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/cloud/ebportal/#modificación-de-datos-adquiriente)
 
 Al momento de realizar nuestros registros de facturas, la plataforma OASISCOM toma los datos del adquiriente y lo crea en la base de datos solamente, si el adquiriente no está creado o es la primera vez que se le factura por OASISCOM. Esto lo podemos verificar por la aplicación **BTER - Terceros**.  
 
@@ -532,9 +483,9 @@ Y la información que esté guardada será la que se muestre en la factura.
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
 
-## [Documento Soporte](http://docs.oasiscom.com/Operacion/ebportal/#documento-soporte)   
+## [Documento Soporte](http://docs.oasiscom.com/Operacion/cloud/ebportal/#documento-soporte)   
 
-### [Archivo XML Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-documento)  
+### [Archivo XML Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-documento)  
 
 Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom. 
 
@@ -545,10 +496,10 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](Soporte3.png)
 ![](Soporte4.png)
 
-### [Archivo plano Documento](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-documento)  
+### [Archivo plano Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-documento)  
 
-## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/ebportal/#nomina-electrónica)  
-### [Archivo XML nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-xml-nómina)   
+## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#nomina-electrónica)  
+### [Archivo XML nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-nómina)   
 
 ![](Nomina.png)
 ![](Nomina1.png)
@@ -558,7 +509,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 ![](Nomina5.png)
 ![](Nomina6.png)
 
-### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/ebportal/#archivo-plano-nómina)  
+### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-nómina)  
 
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de archivo plano el cual puede ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación **BINT - Interfaces o por medio del consumo de servicio web.**

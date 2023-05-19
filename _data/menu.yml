@@ -2189,13 +2189,6 @@
               url: /Operacion/mpportal/mpcliente/mbcli
             - text: Mis Ordenes
               url: /Operacion/mpportal/mpcliente/moord
-    - text: Factura Electronica
-      url: /Operacion/ebportal/
-      subitems:
-        - text: Proveedores
-          url: /Operacion/ebportal/ebproveedor/
-        - text: Clientes
-          url: /Operacion/ebportal/ebcliente/
     - text: Comunes
       url: /Operacion/common/
       subitems:
@@ -2428,6 +2421,13 @@
               url: /Operacion/cloud/sbasic/srec
             - text: Planes
               url: /Operacion/cloud/sbasic/spla
+      subitems:
+        - text: Factura Electronica
+          url: /Operacion/cloud/ebportal/
+        - text: Documento Soporte
+          url: /Operacion/cloud/Documento_Soporte/ebodeq
+        - text: Nomina Electronica
+          url: /Operacion/cloud/nominaelectronica/
     - text: Movil
       url: /Operacion/movil/
       subitems:
@@ -2579,6 +2579,8 @@
           url: /Desarrollo/carga
         - text: EndPoint de Descarga
           url: /Desarrollo/descarga
+        - text: Factura Electronica
+          url: /Operacion/cloud/ebportal
     - text: Descargas OASIS R3
       url: /Desarrollo/descargarversionr3
 - text: Mercadeo

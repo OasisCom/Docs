@@ -19,6 +19,12 @@ La aplicación GCON permite visualizar y crear consultas médicas, allí se regi
 
 * [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
+* [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
+    *  [GCON](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#GCON)
+    * [FGCON](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
+* [Visualizacion de las firmas en formatos](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Visualizacion-de-las-firmas-en-formatos)
+
+
 
 
 
@@ -77,7 +83,7 @@ Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un re
 
 ## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
 
-
+[**GCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#GCON)
 
 Se ha agregado una nueva funcionalidad para poder crear firmas como archivos adjuntos.
 Para poder validar el correcto funcionamiento se deben seguir las siguientes configuraciones.
@@ -126,7 +132,9 @@ Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacio
 
 •	Vamos a darle clic en el botón que se muestra en la imagen.
 
-## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma) - [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
+## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
+
+[**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
 
 •	Ahora realizaremos el mismo proceso para el [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON). Usando el registro 587
 
@@ -158,7 +166,8 @@ Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacio
 
 ![](Firma18.png)
 
-## Visualizacion de las firmas en formatos
+
+## [Visualizacion de las firmas en formatos](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Visualizacion-de-las-firmas-en-formatos)
 
 Esta firma puede ser visualizada  a nivel de los formatos,  para ello se debe modificar el formato al cual se requiera visualizar la firma, es necesario hacer la solicitud por medio del  area de desarrollo o realizar la solicitud por medio del area de soporte.
 
