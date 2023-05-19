@@ -20,7 +20,8 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
 >+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 >+ [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)  
->+ [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente)   
+>+ [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente) 
+>+ [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)  
 
 ---
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
@@ -302,3 +303,5 @@ En la opción **WVAR** se debe crear la variable ***VPEDVALClient***, si el valo
 
 Se ingresa a la opción **VPED** y se procede a realizar la creación de un nuevo registro allí podemos observar que se muestra una alerta de notificación informativa al usuario indicando que debe actualizar los datos del cliente.
  ![](vped16.png)  
+
+ ## [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)
