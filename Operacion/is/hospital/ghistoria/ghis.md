@@ -24,7 +24,7 @@ En el botón **historia** al dar clic se envía la información y documentos adj
 
 ![](ghis3.png)
 
-Al correo electronico llega la información de la siguente manera.
+Al correo electronico llega la información de la siguiente manera.
 
 ![](ghis4.png)
 
