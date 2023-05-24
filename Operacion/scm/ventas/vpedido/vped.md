@@ -20,7 +20,8 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 >+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
 >+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
 >+ [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)  
->+ [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente)   
+>+ [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente) 
+>+ [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)  
 
 ---
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
@@ -302,3 +303,25 @@ En la opción **WVAR** se debe crear la variable ***VPEDVALClient***, si el valo
 
 Se ingresa a la opción **VPED** y se procede a realizar la creación de un nuevo registro allí podemos observar que se muestra una alerta de notificación informativa al usuario indicando que debe actualizar los datos del cliente.
  ![](vped16.png)  
+
+ ## [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)
+
+Para las pruebas vamos a usar la aplicación de Pedidos (vped) en donde se configurara la pestaña de formulario desde el scam.
+
+![](FORMULARIO-VPED0.png)  
+
+En la aplicación de Campos **SCAM**, vamos a agregar un registro con la configuracion mostrada en la imagen. De igual manera tener en cuenta los campos de:
+FieldId: Nombre del modelview,
+Descripcion: Nombre de la tabla con la cual se realizan cambios de base (CRUD),
+Tipos Datos: En caso de ser formulario dejarlo con la letra Y, de usar un modelo en grilla dejarlo vacio,
+Habilitar: Para ocultar o mostrar la pestaña.
+
+![](FORMULARIO-VPED1.png)  
+
+Y por ultimo el campo de Tipo, con la opcion de Model View (MV)
+
+![](FORMULARIO-VPED2.png)
+
+NOTA: Tener presente las siguientes recomendaciones:
+1. Si no se configura alguno de los campos de FieldId o Descripcion, la pestaña configurada no se mostrara.
+2. Cerrar sesion e ingresar para que la configuración sea tomada. Si no se visualiza una vez iniciada la sesion, esperar un tiempo o limpiar cache, para que funcione de manera correcta.
