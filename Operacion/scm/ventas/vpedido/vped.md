@@ -304,7 +304,7 @@ En la opción **WVAR** se debe crear la variable ***VPEDVALClient***, si el valo
 Se ingresa a la opción **VPED** y se procede a realizar la creación de un nuevo registro allí podemos observar que se muestra una alerta de notificación informativa al usuario indicando que debe actualizar los datos del cliente.
  ![](vped16.png)  
 
- ##[**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)
+ ## [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)
 
 Para las pruebas vamos a usar la aplicación de Pedidos (vped) en donde se configurara la pestaña de formulario desde el scam.
 
