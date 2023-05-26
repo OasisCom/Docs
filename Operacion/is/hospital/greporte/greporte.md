@@ -24,6 +24,7 @@ Está integrado por las aplicaciones:
 * [**GCCP**](http://docs.oasiscom.com/Operacion/is/hospital/greporte/gccp) - Costo por contrato eps por afiliado  
 * [**GCDI**](http://docs.oasiscom.com/Operacion/is/hospital/greporte/gcdi) - Costo por diagnóstico  
 * [**GCEP**](http://docs.oasiscom.com/Operacion/is/hospital/greporte/gcep) - Costo por cliente EPS  
+* [**GRCD - GRCD1**](http://docs.oasiscom.com/Operacion/is/hospital/greporte/grcd) - Semaforizacion de Medicamentos
   
 
 
