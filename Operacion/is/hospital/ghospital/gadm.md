@@ -71,3 +71,21 @@ Una vez ya se tenga todos los datos requeridos de la sesión, se procesa donde l
 
 ![](gadm11.png)
 
+# MICROSOFT GRAPH  - INTEGRACION OASISCOM 
+
+Es una API de Microsoft, la cual realiza todos los procesos de sincronización de :
+
+TEAMS
+CALENDARIO
+MENSAJERIAS 
+CORREOS
+
+Que incluye la tienda de Microsoft, así que se realizo el proceso de integración de la API, directamente con Oasis, desde la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal)** ya que, a la hora de tener una cita para la fecha asignada, directamente se sincronice y se evidencia con una de las aplicaciones propias de Microsoft.
+
+Ingresamos a la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal)**, donde se evidenciará a la hora de consultar un punto de venta, el botón Sincronizar Calendario. 
+
+![](gadm14.png)
+
+Una vez se da click en el botón, se sincronizará con la aplicación TEAMS, la cita que se tiene programada para la fecha indicada, y así llevar un mejor control.
+
+![](gadm15.png)
