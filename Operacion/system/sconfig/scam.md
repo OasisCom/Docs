@@ -401,15 +401,15 @@ IMAGE_CONVERT
 
 ## PODER OCULTAR BOTONES POR SROL QUE SE PARAMETRIZAN POR SCAM	
 
-Se realizan el proceso de ocultar botones en la aplicación SCAM, con el botón btnInfo5.
+Se realiza el proceso de ocultar botones en la aplicación SCAM, con el botón btnInfo5.
 
 ![](scam54.png) 
 
-Donde luego se ingresa a la aplicación srol y se procede a parametrizaro, donde se agrega de forma oculta, se coloca el nombre de la aplicación acon en el programa, renglón 0, y el campo fielID  se agrega el nombre del botón btnInfo5, y se activa el check de invisible.
+Donde luego se ingresa a la aplicación **SROL - Roles** y se procede a realizar la parametrización correspondiente para ocultar el botón, en **SCAM - Compos** se coloco el programa en el cual se quiere ocultar el botón tal como se muestra en la imagen, ejemplo **ACON - Contactos**, renglón 0, y el campo fielID  se agrega el nombre del botón *btnInfo5*, y se activa el check de invisible.
 
 ![](scam55.png) 
 
-Donde se puede visualizar que no se puede ver el botón.
+Donde se evidencia que el botón está oculto
 
 ![](scam56.png) 
 
