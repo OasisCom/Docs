@@ -413,7 +413,7 @@ Donde se puede visualizar que no se puede ver el botón.
 
 ![](scam56.png) 
 
-Si se desea visualizar de nuevo el botón, activamos el flag de Invisible, donde luego se podrá visualziar.
+Si se desea visualizar de nuevo el botón, se activa el flag de Invisible, donde luego se podrá visualizar.
 
 ![](scam57.png) 
 
