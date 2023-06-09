@@ -399,3 +399,21 @@ IMAGE_CONVERT
  Finalmente, se observa los campos seleccionados con las actualizaciones realizadas en este caso fecha inicial y fecha final.
  ![](scampmasiva4.png)   
 
+## PODER OCULTAR BOTONES POR SROL QUE SE PARAMETRIZAN POR SCAM	
+
+Se realizan el proceso de ocultar botones en la aplicación SCAM, con el botón btnInfo5.
+
+![](scam54.png) 
+
+Donde luego se ingresa a la aplicación srol y se procede a parametrizaro, donde se agrega de forma oculta, se coloca el nombre de la aplicación acon en el programa, renglón 0, y el campo fielID  se agrega el nombre del botón btnInfo5, y se activa el check de invisible.
+
+![](scam55.png) 
+
+Donde se puede visualizar que no se puede ver el botón.
+
+![](scam56.png) 
+
+Si deseamos visualizar de nuevo el botón, activamos el flag de Invisible, donde luego se podrá visualziar.
+
+![](scam57.png) 
+
