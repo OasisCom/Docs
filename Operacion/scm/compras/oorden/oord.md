@@ -18,7 +18,7 @@ editable: si
 
 >+ [**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
 
->+ [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#Precio-unitario-en-orden-de-compra)
+>+ [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#precio-unitario-en-orden-de-compra)
 
 
 
