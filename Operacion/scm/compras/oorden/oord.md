@@ -18,6 +18,9 @@ editable: si
 
 >+ [**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
 
+>+ [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#Precio-unitario-en-orden-de-compra)
+
+
 
 
 
@@ -240,15 +243,21 @@ En este momento, se procesa el Documento
 
 
 
+## [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#Precio-unitario-en-orden-de-compra)
 
 
 
+Este proceso permite que al generar una nueva orden de compra de un mismo proveedor se llame el ultimo precio actualizado que se generó por última compra.
 
+Para esto se debe ingresar a la aplicación **Órdenes de Compra – OORD**, buscar el documento del cual se necesita identificar el número de producto.
 
+![](oord20.png)
 
+Luego de tomar el número de producto se debe ingresar a la aplicación [**OPRE - Precios**](https://docs.oasiscom.com/Operacion/scm/compras/oprecio/opre), e ingresar el número de producto que se tomó primeramente del **Órdenes de Compra – OORD**.
 
+![](oord21.png)
 
-
+Cuando se termina este proceso se puede evidenciar el ultimo precio actualizado que se tuvo que haber generado de la última compra teniendo en cuenta el tercero, como se muestra en la imagen el valor de 490.00
 
 
 
