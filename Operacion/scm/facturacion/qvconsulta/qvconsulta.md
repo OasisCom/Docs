@@ -26,3 +26,4 @@ Algunas de las aplicaciones que se pueden utilizar en esta ventana son:
 * [**QVEN**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvconsulta/qven) - Venta Pivot
 * [**QVVC**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvconsulta/qvvc) - Clasificación por Vendedor
 * [**QVVE**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvconsulta/qvve) - Vendedor
+* [**QVLV**](http://docs.oasiscom.com/Operacion/scm/facturacion/qvconsulta/qvlv) - Linea Vendedor
