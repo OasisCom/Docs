@@ -13,10 +13,10 @@ La aplicación EBOFAC permite visualizar los documentos electrónicos concernien
 
 # EBOFAC - Control de Registro de Status
 
-Desde la aplicación EBOFAC, permite desde el campo Status Nombre, realizar el proceso de actualización de los eventos exigidos por la DIAN,que se generan con los documentos da facturación electronicas de compras.
+Desde la aplicación EBOFAC, permite desde el campo Status Nombre, realizar el proceso de actualización de los eventos exigidos por la DIAN, que se generan con los documentos de facturación electronicas de compras.
 
 ![](ebofac2.png)
 
-En el apartado del detalle, en la pestaña ejecutado, se evidenciaran los eventos generados, los cuales exige las DIAN
+En el apartado del detalle, en la pestaña ejecutado, se evidenciarán los eventos generados, los cuales exige la DIAN.
 
 ![](ebofac3.png)
