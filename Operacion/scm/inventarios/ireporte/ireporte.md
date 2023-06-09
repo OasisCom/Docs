@@ -36,4 +36,5 @@ Algunas de las aplicaciones con las que se puede emitir reportes son:
 * [**IRMC**](http://docs.oasiscom.com/Operacion/scm/inventarios/ireporte/irmc) - Movimientos Detallados por Concepto
 * [**IRMT**](http://docs.oasiscom.com/Operacion/scm/inventarios/ireporte/irmt) - Movimientos Detallados por Proyecto
 * [**IRVP**](http://docs.oasiscom.com/Operacion/scm/inventarios/ireporte/irvp) - Valorización Periódica por Ubicación
+* [**IRMMT**](http://docs.oasiscom.com/Operacion/scm/inventarios/ireporte/irmmt) - Reporte Ministerio de Transporte
 
