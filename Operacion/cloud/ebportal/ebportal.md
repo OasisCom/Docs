@@ -4,49 +4,25 @@ title: Factura Electronica
 permalink: /Operacion/cloud/ebportal/
 editable: si
 ---
-# Documentos Electrónicos  
----
-#### Factura Electrónica
-
-###### - [Factura Electrónica Fase Dos (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/factura-electronica-dos.pdf)   
-###### - [Diccionario Datos Factura Electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/DiccionarioDatos_FE.pdf)  
-
-#### Documento Soporte  
-###### - [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/documentos-soportes.pdf)    
-###### - [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/DiccionarioDatos_DS.pdf)  
-
-#### Nomina electronica 
-###### - [Estructura XML Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/Estructura_XML_v8.xml)   
-###### - [Estructura Archivo Plano Nomina Electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/PlanoNE.xlsx) 
-###### - [Diccionario Nomina electronica (descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/diccionariodatos-conceptos-XML-v5u.xlsx)  
- 
----
+# Factura  Electrónica  
 
 **Menú**  
 
 1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)  
 2. [Código QR](http://docs.oasiscom.com/Operacion/cloud/ebportal/#código-qr)  
 3. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#adjuntos-en-la-factura-electrónica)  
-4. [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)  
-4.1 [Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#factura-electrónica)  
-4.1.1 [Archivo XML Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-factura)  
-4.1.2 [Archivo plano Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-factura)  
-4.1.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#instructivo-integración-oasiscom)    
-4.1.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
-4.1.5 [Proceso de Factura Electrónica en la plataforma de Oasiscom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom)  
-4.1.6 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#manual-facturación-electrónica---archivo-xml)  
-4.1.7 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
-4.1.8 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)  
-4.1.9 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/cloud/ebportal/#modificación-de-datos-adquiriente)  
-4.2 [Documento Soporte](http://docs.oasiscom.com/Operacion/cloud/ebportal/#documento-soporte)   
-4.2.1 [Archivo XML Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-documento)  
-4.2.2 [Archivo plano Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-documento)  
-4.3 [Nomina Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#nomina-electrónica)  
-4.3.1 [Archivo XML Nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-nómina)   
-4.3.2 [Archivo plano Nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-nómina)  
-  
+4. [Integración de factura electronica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-factura-electrónica-con-oasiscom)  
+4.1 [Archivo XML Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-factura)  
+4.2 [Archivo plano Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-factura)  
+4.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#instructivo-integración-oasiscom)    
+4.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
+4.5 [Proceso de Factura Electrónica en la plataforma de Oasiscom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom)  
+4.6 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#manual-facturación-electrónica---archivo-xml)  
+4.7 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
+4.8 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)  
+4.9 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/cloud/ebportal/#modificación-de-datos-adquiriente)  
 
-
+---
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)
 
 La plantilla de envío de facturas electrónicas contiene el .zip con su respectivo XML y representación gráfica.
@@ -73,9 +49,10 @@ Los archivos adjuntos que se visualizarán en el correo eletrónico son:
 
 ![](ebportal6.png)
 
-## [Integración de documentos electrónicos con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-documentos-electrónicos-con-oasiscom)
+## [Integración de factura electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-factura-electrónica-con-oasiscom)
 
-## [Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#factura-electrónica)  
+En el documento se encuentra el proceso de la parametrización factura electrónica en OasisCom [(descargar)](http://docs.oasiscom.com/Operacion/cloud/ebportal/factura-electronica.pdf).  
+
 
 ### [Archivo XML Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-factura)
 
@@ -98,7 +75,7 @@ Mediante archivo XML el cliente puede subir documentos electrónicos a la plataf
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de _archivo plano_ el cual debe ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación BINT - Interfaces.  
 
-#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/ebportal/Archivo_Plano.xlsx) 
+#### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/ebportal/archivo_plano.xlsx) 
 
 **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
@@ -481,51 +458,4 @@ Y la información que esté guardada será la que se muestre en la factura.
 **NOTA:**  
 
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
-https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas.   
-
-## [Documento Soporte](http://docs.oasiscom.com/Operacion/cloud/ebportal/#documento-soporte)   
-
-### [Archivo XML Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-documento)  
-
-Mediante archivo XML el cliente puede subir documentos electrónicos a la plataforma de OasisCom. 
-
-**Estructura**
-
-![](Soporte1.png)
-![](Soporte2.png)
-![](Soporte3.png)
-![](Soporte4.png)
-
-### [Archivo plano Documento](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-documento)  
-
-## [Nomina Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#nomina-electrónica)  
-### [Archivo XML nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-nómina)   
-
-![](Nomina.png)
-![](Nomina1.png)
-![](Nomina2.png)
-![](Nomina3.png)
-![](Nomina4.png)
-![](Nomina5.png)
-![](Nomina6.png)
-
-### [Archivo plano nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-nómina)  
-
-
-Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de archivo plano el cual puede ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación **BINT - Interfaces o por medio del consumo de servicio web.**
-
-**Nota:** al cargar el archivo plano, el sistema creará los terceros y contratos en caso de que no existan previamente.
-
-La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento, también puede consultar el diccionario de datos para validar los valores y formatos sobre cada campo.
-
-![](planone.png)
-![](planone1.png)
-![](planone2.png)
-
-Para convertir el archivo en formato **.CVS** vamos a _Archivo ![](flecha.png) Guardar como ![](flecha.png) Elegimos una ubicación ![](flecha.png) Asignamos un nombre ![](flecha.png) Tipo: CSV (delimitado por comas) ![](flecha.png) Guardar_.   
-
-![](ebportal14.png)
-
-Una vez guardado, se ingresa a la aplicación *Interfaces - BINT,* se selecciona la publicación *995 (CARGA PLANO NE)*, se selecciona el archivo que se guardó en *.CSV* y se da clic en Aceptar y Ejecutar.
-
-![](planone3.png)
+https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas. 
