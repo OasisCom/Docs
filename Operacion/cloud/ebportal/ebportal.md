@@ -22,23 +22,7 @@ editable: si
 4.8 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)  
 4.9 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/cloud/ebportal/#modificación-de-datos-adquiriente)  
 
-
-
-
-
-
-
-
-
-
-
-
-4.3 [Nomina Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#nomina-electrónica)  
-4.3.1 [Archivo XML Nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-nómina)   
-4.3.2 [Archivo plano Nómina](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-nómina)  
-  
-
-
+---
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)
 
 La plantilla de envío de facturas electrónicas contiene el .zip con su respectivo XML y representación gráfica.
