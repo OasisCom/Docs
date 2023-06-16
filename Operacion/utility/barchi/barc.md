@@ -218,3 +218,19 @@ En el BARC, se realiza la parametrización del archivo de acuerdo con la estruct
 ![](Imagen 6 barc.png)
 
 
+## Parámetros obligatorios para exportadores
+
+Para configurar parámetros obligatorios en los exportadores dinámicos, se debe dirigir **BARC- Archivos**  en el cual desea configurar estos parámetros por defecto
+seleccionamos el argumento o parámetro el cual se requiere que sea obligatorio y se prende el check de "Validar" como se muestra en la imagen.
+
+![](barc-expor.png)
+
+
+
+Luego de haber realizado esta configuraración, se ejecuta en la aplicación **Bint - Interfaces**
+
+![](barc_expo1.png)
+
+y al tratar de ejecutar dicha publicación, el sistema mostrará un mensaje de control, indicando que el parámetro o argumento debe ser obligatorio.
+
+![](bint_expor2.png)
