@@ -1,23 +1,23 @@
 ---
 layout: default
 title: Nomina Electronica
-permalink: /Operacion/cloud/NominaElectronica
+permalink: /Operacion/cloud/nominaelectronica
 editable: si
 ---
 
 
 **Menú**  
 
-[Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/#integración-de-nómina-electrónica-con-oasiscom)
-* [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/#archivo-xml)   
-* [Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/#archivo-plano)  
+[Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#integración-de-nómina-electrónica-con-oasiscom)
+* [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-xml)   
+* [Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-plano)  
 
-[Diccionario Nómina electrónica (descargar)](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/diccionariodatos-conceptos-XML-v5u.xlsx)  
+[Diccionario Nómina electrónica (descargar)](http://docs.oasiscom.com/Operacion/cloud/nominaelectronicadiccionariodatos-conceptos-XML-v5u.xlsx)  
 
 ---
 
-## [Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/#integración-de-nómina-electrónica-con-oasiscom)
-### [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/#archivo-xml)   
+## [Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#integración-de-nómina-electrónica-con-oasiscom)
+### [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-xml)   
 
 ![](nominaelectronica.png)
 ![](nominaelectronica1.png)
@@ -30,7 +30,7 @@ editable: si
 Estructura XML [descargar.](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/Estructura_XML_v8.xml) 
 
 
-### [Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/NominaElectronica/#archivo-plano) 
+### [Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-plano) 
 
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de archivo plano el cual puede ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación **BINT - Interfaces o por medio del consumo de servicio web.**
