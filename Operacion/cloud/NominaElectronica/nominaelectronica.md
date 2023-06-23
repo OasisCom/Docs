@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nomina Electronica
-permalink: /Operacion/cloud/nominaelectronica
+permalink: /Operacion/cloud/nominaelectronica/
 editable: si
 ---
 

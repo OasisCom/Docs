@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documento Soporte
-permalink: /http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/ebodeq
+permalink: /Operacion/cloud/Documento_Soporte/
 editable: si
 ---
 **Menú**  
