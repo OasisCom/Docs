@@ -2425,7 +2425,7 @@
         - text: Factura Electronica
           url: /Operacion/cloud/ebportal/
         - text: Documento Soporte
-          url: /Operacion/cloud/Documento_Soporte/ebodeq
+          url: /Operacion/cloud/Documento_Soporte/
         - text: Nomina Electronica
           url: /Operacion/cloud/nominaelectronica/
     - text: Movil

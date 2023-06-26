@@ -6,17 +6,17 @@ editable: si
 ---
 
 
-**Menú**  
+**NÓMINA ELECTRÓNICA**  
 
-[Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#integración-de-nómina-electrónica-con-oasiscom)
-* [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-xml)   
-* [Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-plano)  
+* [Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica/#integración-de-nómina-electrónica-con-oasiscom)
+    * [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica/#archivo-xml)   
+    * [Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica/#archivo-plano)  
 
-[Diccionario Nómina electrónica (descargar)](http://docs.oasiscom.com/Operacion/cloud/nominaelectronicadiccionariodatos-conceptos-XML-v5u.xlsx)  
+* [Diccionario Nómina electrónica (descargar)](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica/#diccionariodatos-conceptos-XML-v5u.xlsx)  
 
 ---
 
-## [Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#integración-de-nómina-electrónica-con-oasiscom)
+## [Integración de Nómina Electrónica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica/#integración-de-nómina-electrónica-con-oasiscom)
 ### [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/nominaelectronica#archivo-xml)   
 
 ![](nominaelectronica.png)
