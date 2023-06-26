@@ -13,4 +13,6 @@ Las aplicaciones que se usan en esta categoría son:
 
 * [**Novedades - NNOV**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nnov)  
 * [**Liquidaciones - NLIQ**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/nliq)  
+* [**PRE NOVEDADES - FNNOE  - NNOE**](http://docs.oasiscom.com/Operacion/hrm/nomina/nnovedad/fnnoe)  
+  
 
