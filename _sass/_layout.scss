@@ -6,99 +6,131 @@ body {
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
 }
+
 h1,
 h2,
 h3 {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
-	line-height: 1.5;
+	line-height: 1.2;
 }
-h1 {
+
+h1,
+h2 {
 	color: $main;
-	font-size: 2.5em;
+
 	a,
 	a:visited {
-		text-decoration: none;
+		text-decoration: none !important;
 		color: $main;
 	}
 }
-h2 {
-	font-size: 2em;
+
+h1 {
+	font-size: 2.2em;
 }
+
+h2 {
+	font-size: 1.6em;
+}
+
 a,
 a:visited {
 	color: $link-color;
-	text-decoration: underline;
+	text-decoration: none;
 	font-weight: bold;
 }
+
 a:hover {
 	color: $link-hover-color;
-	text-decoration: underline;
+	text-decoration: none;
 }
+
 a.menuitem {
-	font-size: 0.6em;
+	font-size: 0.9em;
 }
+
 #headerdiv {
-	position: fixed; 
-	top: 0px; 
-	width:100%;
+	position: fixed;
+	top: 0px;
+	width: 100%;
 }
+
 #menudiv {
-	position: fixed; 
-	top: 10%; 
+	position: fixed;
+	top: 7%;
 	height: 90%;
 	width: 20%;
-    	overflow: auto;
-    	overflow-x: auto;
+	overflow: auto;
+	overflow-x: auto;
 	overflow-y: auto;
+	padding: 22px 0px 0px 4px;
+	background-color: whitesmoke;
 }
+
 #fbuscar {
-    	float: left;
+	float: left;
 	margin-left: 5px;
 }
+
 #msearch-box {
-    	width: 50%;
+	width: 50%;
 }
+
 header {
 	background: $header;
-	padding: 0px 15px;
+	padding: 10px 15px;
 	background-image: url('/images/OasisCom_logot.png');
-	background-position: left center;
+	background-position: 1.5rem center;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 	margin: 0px 0 0;
-	height: 10vh;
-	display: flex;	
+	height: 7vh;
+	display: flex;
 	align-items: center;
-	h1 {
+
+	h1,
+	h2 {
 		margin-left: 25%;
 		text-align: center;
 	}
+
 	#hmsearch-box {
-		margin-left: 40%;
-		width: 40%;
-		opacity: 0.5;
+		margin-left: 4%;
+		width: 65%;
+		opacity: 0.8;
+		height: 25px !important;
+		border: none !important;
 	}
+
 	#hmsearch-box:hover {
 		opacity: 1;
 	}
+
+	#formSearch {
+		width: 60% !important;
+	}
+
 	#ibuscar {
-		vertical-align:middle;
+		vertical-align: middle;
+		width: 1.2rem
 	}
 }
+
 ul.ulmenu {
-    	float: left;
-    	width: 20em;
-    	line-height: 1.3em;
-    	padding: 0;
-    	margin: 0;
-    	overflow: hidden;
-    	overflow-x: hidden;
+	float: left;
+	width: 20em;
+	line-height: 1.3em;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	overflow-x: hidden;
 	overflow-y: hidden;
 	list-style: none;
 	margin-left: 5px;
 }
+
 ul.ulmenu ul.ulmenu {
 	text-indent: 1em;
 	overflow-x: hidden;
@@ -110,39 +142,46 @@ ul.ulmenu ul.ulmenu ul.ulmenu {
 	overflow-x: hidden;
 	overflow-y: hidden;
 }
+
 ul.ulmenu ul.ulmenu ul.ulmenu ul.ulmenu {
 	text-indent: 3em;
 	overflow-x: hidden;
 	overflow-y: hidden;
 }
+
 ul.ulmenu ul.ulmenu ul.ulmenu ul.ulmenu ul.ulmenu {
 	text-indent: 4em;
 	overflow-x: hidden;
 	overflow-y: hidden;
 }
+
 #maindiv {
 	margin-top: 5%;
 	left: 20%;
 	float: rigth;
-	position: fixed; 
+	position: fixed;
 	height: 90%;
 	width: 80%;
-    	overflow: auto;
-    	overflow-x: auto;
+	overflow: auto;
+	overflow-x: auto;
 	overflow-y: auto;
 }
+
 main {
 	margin-left: 1%;
 	padding: 0 0px;
 	max-width: $content-width;
 }
+
 time {
 	color: #898989;
 }
+
 .container {
 	max-width: $content-width;
 	margin: 0 auto;
 }
+
 footer {
 	text-align: center;
 	padding: 40px;
