@@ -1,13 +1,13 @@
 # Site settings
-title: OasisCom - Documentacion
+title: Documentacion
 email: info@oasiscom.com
 description: >
   La mejor forma de conocer y usar OasisCom.
-baseurl: ""
-url: "http://docs.oasiscom.com"
+baseurl: ''
+url: 'http://docs.oasiscom.com'
 logo: OasisCom_logot.png
 twitter_username: oasiscom
-github_username:  oasiscom
+github_username: oasiscom
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-58678143-8

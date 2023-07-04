@@ -1,6 +1,6 @@
 ﻿# encoding: utf-8
 # Important: all URLs must have a trailing slash!
-- text: Home
+- text: Inicio
   url: /
 - text: Manuales
   url: /Operacion/
