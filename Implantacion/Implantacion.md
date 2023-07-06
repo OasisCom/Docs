@@ -5,7 +5,7 @@ permalink: /Implantacion/
 editable: si
 ---
 
-# IMPLANTACIÓN
+# IMPLEMENTACIÓN
 
 En esta sección encontrarán los temas relacionados a la implementación de proyectos en la empresa OasisCom:
 
