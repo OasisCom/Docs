@@ -161,6 +161,12 @@ header {
 	}
 }
 
+.text-more-result{
+	color: $link-color;
+	font-style: italic;
+	font-weight: 400;
+}
+
 #maindiv {
 	margin-top: 5%;
 	left: 20%;
@@ -174,9 +180,10 @@ header {
 }
 
 main {
-	margin-left: 1%;
+	margin-left: 2%;
 	padding: 0 0px;
 	max-width: $content-width;
+	text-align: justify;
 }
 
 time {
