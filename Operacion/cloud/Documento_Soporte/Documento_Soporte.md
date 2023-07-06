@@ -9,7 +9,7 @@ editable: si
 * [EBODEQ - Documento Soporte](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#ebodeq-documento-soporte)  
 * [Nota de Ajuste para caja menor](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#nota-de-ajuste-para-caja-menor)  
 * [Integración de Documento Soporte con OasisCom](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#integración-de-documento-soporte-con-oasiscom)  
-    * [Archivo XML](http://docs.oasiscom.com/http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#archivo-xml)   
+    * [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#archivo-xml)   
 
 * [Manual Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/documentos-soportes.pdf)  
 * [Diccionario Datos Documento Soporte (descargar)](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/DiccionarioDatos_DS.pdf)
@@ -32,7 +32,7 @@ La nota de ajuste generada automáticamente se puede consultar por documento NQ 
 
 ![](ebodeq3.png)
 
-## [Nota de Ajuste para caja menor](http://docs.oasiscom.com/http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte#nota-de-ajuste-para-caja-menor)
+## [Nota de Ajuste para caja menor](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte#nota-de-ajuste-para-caja-menor)
 
 Para realizar una nota de ajuste del documento soporte, primero se debe iniciar desde el aplicativo *pmov- Movimientos*, se crea un nuevo registro con documento (NB) *nota debido cuenta por pagar* en el Campo DocDoccumento se diligencia CM – Caja menor y Numero del registro de la Caja Mejor para este caso el (1847) creado desde la aplicación [TMEN – Caja Menor](https://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen)
 
@@ -60,10 +60,10 @@ Procesada la información en el *pmov – Movimientos*, se valida en el aplicati
 ![](ebodeq9.png)
 
 
-## [Integración de Documento Soporte con OasisCom](http://docs.oasiscom.com/http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#integración-de-documento-soporte-con-oasiscom)
+## [Integración de Documento Soporte con OasisCom](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#integración-de-documento-soporte-con-oasiscom)
 
 
-### [Archivo XML](http://docs.oasiscom.com/http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#archivo-xml)
+### [Archivo XML](http://docs.oasiscom.com/Operacion/cloud/Documento_Soporte/#archivo-xml)
 Mediante archivo XML el cliente puede subir documentos soporte a la plataforma de OasisCom. 
 
 **Estructura**
