@@ -304,24 +304,24 @@ En la opción **WVAR** se debe crear la variable ***VPEDVALClient***, si el valo
 Se ingresa a la opción **VPED** y se procede a realizar la creación de un nuevo registro allí podemos observar que se muestra una alerta de notificación informativa al usuario indicando que debe actualizar los datos del cliente.
  ![](vped16.png)  
 
- ## [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)
+ ## [**Pestaña detalle de formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pestaña-detalle-de-formularios)
 
-Para las pruebas vamos a usar la aplicación de Pedidos (vped) en donde se configurara la pestaña de formulario desde el scam.
+Para este ejemplo se utiliza la aplicación de **VPED - Pedidos** en donde se configura la pestaña de formulario desde la aplicación [SCAM - Campos](https://docs.oasiscom.com/Operacion/system/sconfig/scam).
 
 ![](FORMULARIO-VPED0.png)  
 
-En la aplicación de Campos **SCAM**, vamos a agregar un registro con la configuracion mostrada en la imagen. De igual manera tener en cuenta los campos de:
-FieldId: Nombre del modelview,
-Descripcion: Nombre de la tabla con la cual se realizan cambios de base (CRUD),
-Tipos Datos: En caso de ser formulario dejarlo con la letra Y, de usar un modelo en grilla dejarlo vacio,
-Habilitar: Para ocultar o mostrar la pestaña.
+En la aplicación de Campos [SCAM - Campos](https://docs.oasiscom.com/Operacion/system/sconfig/scam), se agrega un registro con la configuracion mostrada en la imagen. De igual manera tener en cuenta los campos de:
+  * **FieldId**: Nombre del modelview
+  * **Descripcion**: Nombre de la tabla con la cual se realizan cambios de base (CRUD)
+  * **Tipos Datos**: En caso de ser formulario dejarlo con la letra Y, de usar un modelo en grilla dejarlo vacio.
+  * **Habilitar**: Para ocultar o mostrar la pestaña.
 
 ![](FORMULARIO-VPED1.png)  
 
-Y por ultimo el campo de Tipo, con la opcion de Model View (MV)
+Por último el campo de Tipo, con la opción de Model View (MV)
 
 ![](FORMULARIO-VPED2.png)
 
 NOTA: Tener presente las siguientes recomendaciones:
-1. Si no se configura alguno de los campos de FieldId o Descripcion, la pestaña configurada no se mostrara.
+1. Si no se configura alguno de los campos de FieldId o Descripción, la pestaña configurada no se mostrara.
 2. Cerrar sesion e ingresar para que la configuración sea tomada. Si no se visualiza una vez iniciada la sesion, esperar un tiempo o limpiar cache, para que funcione de manera correcta.
