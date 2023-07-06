@@ -59,11 +59,52 @@ a.menuitem {
 	width: 100%;
 }
 
+#maindiv {
+	position: fixed;
+	top: 7%;
+	left: 21%;
+	float: rigth;	
+	height: 90%;
+	width: 80%;
+	overflow: auto;
+	overflow-x: auto;
+	overflow-y: auto;
+	padding: 0 0px;
+	max-width: $content-width;
+	text-align: justify;
+}
+//______________ inicio - Estilos boton de regresar al principio de la pagina
+#backToTop {
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	font-size: 18px;
+	border: 0;
+	outline: none;
+	color: $link-color;
+	cursor: pointer;
+	border-radius: 4px;
+	height: 0px;
+	border-left: 18px solid transparent;
+	border-right: 18px solid transparent;
+	border-bottom: 30px solid $link-color;
+}
+
+#backToTop:hover {	
+	height: 0px;
+		border-left: 18px solid transparent;
+		border-right: 18px solid transparent;
+		border-bottom: 30px solid $main;
+}
+
+//______________ inicio - Estilos boton de regresar al principio de la pagina
 
 //______________ Inicio estilos menu
 #menudiv {
 	position: fixed;
-	top: 7%;
+	top: 5%;
 	height: 90%;
 	width: 20%;
 	overflow: auto;
@@ -167,24 +208,7 @@ header {
 	font-weight: 400;
 }
 
-#maindiv {
-	margin-top: 5%;
-	left: 20%;
-	float: rigth;
-	position: fixed;
-	height: 90%;
-	width: 80%;
-	overflow: auto;
-	overflow-x: auto;
-	overflow-y: auto;
-}
 
-main {
-	margin-left: 2%;
-	padding: 0 0px;
-	max-width: $content-width;
-	text-align: justify;
-}
 
 time {
 	color: #898989;

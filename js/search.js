@@ -1,8 +1,6 @@
 (function () {
   function displaySearchResults(results, store) {
-    debugger;
     var searchResults = document.getElementById('search-results');
-    debugger;
     if (results.length) {
       // Are there any results?
       var appendString = '';
