@@ -20,8 +20,7 @@ editable: si
 4.6 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#manual-facturación-electrónica---archivo-xml)  
 4.7 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
 4.8 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)  
-4.9 [Modificación de Datos Adquiriente](http://docs.oasiscom.com/Operacion/cloud/ebportal/#modificación-de-datos-adquiriente)  
-
+5. [Preguntas Frecuentes de Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/Preguntas_Frecuentes_FE.pdf) 
 ---
 ## [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)
 
