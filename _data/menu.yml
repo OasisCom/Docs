@@ -2385,6 +2385,8 @@
           url: /Operacion/utility/barchi/
         - text: Sincronizacion
           url: /Operacion/utility/ssym/
+        - text: Notificaciones
+          url: /Operacion/utility/notificaciones
     - text: Sistema
       url: /Operacion/system/
       subitems:
