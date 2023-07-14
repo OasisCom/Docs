@@ -7,7 +7,8 @@ editable: si
 
 # Notificaciones
 
-Las notificaciones son mensajes o alertas que se muestran al usuario para informarle sobre eventos relevantes o actualizaciones en tiempo real. Estas notificaciones se identifican en forma de iconos en la aplicación
+Las notificaciones son mensajes o alertas que se muestran al usuario para informarle sobre eventos relevantes o actualizaciones en tiempo real. Estas notificaciones se identifican en forma de icono en la aplicación. 
+
 Su funcionalidad es: 
 1. **Informar sobre nuevas actualizaciones:** Enviar notificaciones para informar a los usuarios sobre nuevas características, mejoras o cambios importantes en la aplicación.
 2. **Notificar eventos importantes:** Alertar a los usuarios sobre eventos significativos relacionados con la aplicación, como recibir un mensaje importante, una actualización en un proceso, asignación de tareas, etc.

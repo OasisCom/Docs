@@ -8,7 +8,7 @@ editable: si
 # UTILIDADES
 
 
-Dentro de está sección se tienen diferentes aplicaciones o funcionalidades genéricas del Sistema OasisCom, cada una de esta tiene cumple una necesidad y no están sujetas a un módulo especifico.  
+Dentro de está sección se tienen diferentes aplicaciones o funcionalidades genéricas del Sistema OasisCom, cada una de estas cumple una necesidad y no están sujetas a un módulo especifico.  
 
 
 * [**Gestión Documental**](https://docs.oasiscom.com/Operacion/utility/docum/)
