@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Utilidades
-permalink: /Operacion/utility/
+permalink: /Operacion/utility/notificaciones/
 editable: si
 ---
 
