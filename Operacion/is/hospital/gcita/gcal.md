@@ -10,6 +10,7 @@ editable: si
 La opción **GCAL - Calendario**, muestra la planeación actual de los recursos. 
 
 
+* [Agendamiento de citas por rango de fechas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#agendamiento-de-citas-por-rango-de-fechas)
 * [Creación de citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-citas-médicas)
 * [Creación de pacientes](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-pacientes)
 * [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
@@ -18,6 +19,25 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 * [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
 
 
+## [Agendamiento de citas por rango de fechas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#agendamiento-de-citas-por-rango-de-fechas)
+
+
+Este proceso permite tener la posibilidad de agendar múltiples espacios para un rango de fechas y tiempos.
+Para esto se debe ingresar a la aplicación **Calendario – GCAL**, buscar por fecha agenda deseada o previamente generada **Generar Calendario – GPGA**.
+
+![](gcal35.png)
+
+Luego se debe tomar una de las opciones y se debe dar clic al botón con el nombre de **‘Crear Fecha’**.
+
+![](gcal36.png)
+
+Al realizar este procedimiento se encontrará un cuadro en el cual se debe ingresar la fecha final, dar clic en el recuadro con el nombre de **‘Recurrente’**, ingresar la información entidad, tipo de consulta y motivo consulta.
+
+![](gcal37.png)
+
+Por último, ingresar el Id del Afiliado y dar clic al botón de **‘Guardar’**.
+
+![](gcal38.png)
 
 ## [Creación de citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-citas-médicas)
 
