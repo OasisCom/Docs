@@ -27,7 +27,7 @@ Se debe tener en cuenta que si se desmarca el check de Factura, el producto no s
 
 Ingresa la información procesamos el documento dando click en el botón _Procesar_ ![](procesar.png).  
 
-# CREACIÓN DE SESIONES
+# CREACIÓN DE SESIONES PROCESO NORMAL
 
 En la aplicación **GADM - Admisiones** es donde se realiza el conteo de las sesiones de los paquetes que va a adquirir el paciente
 
@@ -70,6 +70,27 @@ Si se requiere una factura para esta sesión, se activa el flag de factura, dond
 Una vez ya se tenga todos los datos requeridos de la sesión, se procesa donde luego se deben realizar todos los procesos de creación de citas en la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal)
 
 ![](gadm11.png)
+
+
+# CREACIÓN DE SESIONES PROCESO POR CONSULTAS (GCAL)
+
+Para crear una sesión por medio de consultas dinámicamente, se debe tener 
+una cita en estado _ASIGNADO_  y dar click al botón  _CREAR ADMISION_
+
+![](gadm2_1.png)
+
+Este botón crear automáticamente una admisión, en la que se puede asignar los productos y los servicios que se trabajan en las consultas relacionadas a la cita.
+
+En esta admisión, se crean los productos y servicios que empleara en la consulta, 
+Cuanto es un servicio en el campo cantidad, se diligencia la cantidad de sesiones en la que se trabaja la consulta.
+
+![](gadm2_2.png)
+
+Cuando se cree una consulta, el sistema relacionará la admisión a esta consulta.
+
+![](gadm2_4.png)
+
+y al momento de procesar esta consulta, el sistema modificara el numero de la sesión en la admisión, para identificar cuantas sesiones hacen falta
 
 # MICROSOFT GRAPH  - INTEGRACION OASISCOM 
 
