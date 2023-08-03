@@ -35,6 +35,7 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 15. [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#hipertensos)
 16. [**Archivos Tipo PT (descarga)**](http://docs.oasiscom.com/Operacion/utility/barchi/archivos-tipo-pt.pdf)
 
+16. [**Subida de imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barch#subida-imagen)
 * Mejora en los tiempos de respuesta.  
 Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
 
@@ -478,8 +479,28 @@ Al realizar la descarga del BINT 706 y se identifica que en comparación con la 
 
 
 
+## [**Subida de Imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subida-imagen) 
 
+Este proceso permite la subida de imágenes desde un archivo .zip,
+En donde se debe tener en cuenta los siguientes campos para el correcto funcionamiento 
+- Campo: Es el campo con el que identifica a que producto se va a cargar la imagen
+- Constante: Este siempre debe ir en 1
 
+![](bint-feet1.png)  
 
+Para realizar el cargue de las imágenes se debe consultar la interfaz 25 en la aplicación de Interfaces **BINT**
+![](bint-feet2.png)  
 
+cada imagen en el nombre debe tener el código del producto que se encuentra registrado en el sistema 
+![](bint-feet3.png)  
 
+Teniendo en cuenta esto, se debe seleccionar la carpeta zip en donde se encuentran las imágenes de los productos 
+![](bint-feet4.png)  
+
+y luego se debe realizar el cargue por medio de la interfaz 
+
+![](bint-feet5.png)  
+
+y luego al validar en la aplicación se evidencia a la imagen cargada
+
+![](bint-feet6.png) 
