@@ -17,6 +17,8 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 * [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
 * [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
+* [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integración-oasiscom)
+
 
 
 ## [Agendamiento de citas por rango de fechas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#agendamiento-de-citas-por-rango-de-fechas)
@@ -269,3 +271,22 @@ Al correo registrado del paciente llega el enlace para diligenciar la encuesta d
 Cuando el paciente diligencia la encuesta enviada al correo electrónico, esta queda actualizada en el aplicativo **GENC – Encuestas** con status **Recibido** en el detalle se observan las respuestas indicadas por el paciente.
 
 ![](gcal34.png)
+
+## [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integración-oasiscom)
+
+Es una API de Microsoft, la cual realiza todos los procesos de sincronización de :
+
+*    TEAMS
+*    CALENDARIO
+*    MENSAJERIAS 
+*    CORREOS
+
+Que incluye la tienda de Microsoft, así que se realizo el proceso de integración de la API, directamente con Oasis, desde la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal) ya que, a la hora de tener una cita para la fecha asignada, directamente se sincronice y se evidencia con una de las aplicaciones propias de Microsoft.
+
+Ingresamos a la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal), donde se evidenciará a la hora de consultar un punto de venta, el botón Sincronizar Calendario. 
+
+![](gcal39.png)
+
+Una vez se da click en el botón, se sincronizará con la aplicación TEAMS, la cita que se tiene programada para la fecha indicada, y así llevar un mejor control.
+
+![](gcal40.png)

@@ -7,6 +7,13 @@ editable: si
 
 # Admisiones - GADM
 
+Eta aplicación permite realizar Control y seguimiento de sesiones
+
+* [Creación de Sesiones Manual](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-manual)
+* [Creación de Sesiones Automaticas GCAL](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-automaticas-gcal)
+* [Facturación Parcial](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturación-parcial)
+
+
 La aplicación **GADM - Admisiones** permite registrar la información para admisiones para fondo de hospital y los servicios por los cuales puede pasar el paciente.  
 
 ![](gadm.png)
@@ -27,7 +34,8 @@ Se debe tener en cuenta que si se desmarca el check de Factura, el producto no s
 
 Ingresa la información procesamos el documento dando click en el botón _Procesar_ ![](procesar.png).  
 
-# CREACIÓN DE SESIONES
+# [Creación de Sesiones Manual](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-manual)
+
 
 En la aplicación **GADM - Admisiones** es donde se realiza el conteo de las sesiones de los paquetes que va a adquirir el paciente
 
@@ -71,21 +79,34 @@ Una vez ya se tenga todos los datos requeridos de la sesión, se procesa donde l
 
 ![](gadm11.png)
 
-# MICROSOFT GRAPH  - INTEGRACION OASISCOM 
+# [Creación de Sesiones Automaticas GCAL](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-automaticas-gcal)
 
-Es una API de Microsoft, la cual realiza todos los procesos de sincronización de :
-
-TEAMS
-CALENDARIO
-MENSAJERIAS 
-CORREOS
-
-Que incluye la tienda de Microsoft, así que se realizo el proceso de integración de la API, directamente con Oasis, desde la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal) ya que, a la hora de tener una cita para la fecha asignada, directamente se sincronice y se evidencia con una de las aplicaciones propias de Microsoft.
-
-Ingresamos a la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal), donde se evidenciará a la hora de consultar un punto de venta, el botón Sincronizar Calendario. 
+Para crear una sesión por medio de consultas dinámicamente, se debe tener una cita en estado **ASIGNADO** y dar click al botón **CREAR ADMISIÓN**
 
 ![](gadm14.png)
 
-Una vez se da click en el botón, se sincronizará con la aplicación TEAMS, la cita que se tiene programada para la fecha indicada, y así llevar un mejor control.
+Este botón crear automáticamente una admisión, en la que se puede asignar los productos y los servicios que se trabajan en las consultas relacionadas a la cita.
+
+En esta admisión, se crean los productos y servicios que empleará en la consulta, Cuanto es un servicio en el campo cantidad, se diligencia la cantidad de sesiones en la que se trabaja la consulta.
 
 ![](gadm15.png)
+
+Cuando se cree una consulta, el sistema relacionará la admisión a esta consulta.
+
+![](gadm16.png)
+
+y al momento de procesar esta consulta, el sistema modifica automaticamente el número de la sesión en la admisión, para identificar cuantas sesiones hacen falta.
+
+# [Facturación Parcial](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturación-parcial)
+
+El botón **Factura parcial** de las admisiones es un cobro en donde no se paga toda la factura, si no la cantidad que se tiene en el campo de **# sesiones** en la parte del detalle.
+
+![](gadm17.png)
+
+Al dar clic en botón Factura parcial el sistema genera una la factura parcial en la aplicación [GFAC – FACTURAS](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) y en el detalle el sistema muestra cuantas sesiones se han facturado.
+
+![](gadm18.png)
+
+**Nota**: Es importante que la admisión este en estado activo si aun se encuentra vigente, de lo contrario el sistema no lo tendrá en cuenta.
+
+![](gadm19.png)
