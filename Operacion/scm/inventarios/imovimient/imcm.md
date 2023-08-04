@@ -33,10 +33,15 @@ Aplicación que permite la consulta de los movimientos realizados en el módulo 
 **Lote:** Si los productos pertenecen a un lote en específico.  
 
 
+# ARCHIVO SARLAFT DEL ANEXO 3 - IUAF
 
+Creación de la publicación para descargar la información de acuerdo con la estructura del anexo 3 de la UAIF “Reporte de transacciones de los clientes de proveedores de servicios de activos virtuales”. El Archivo tipo texto que el Proveedor de Servicios de Activos Virtuales (PSAV) debe enviar a la UIAF, contiene información sobre cada una de las transacciones. Desde la aplicación del **BINT-Interfaces**
 
+![](imcm2.png)
 
+Indicar la fecha inicial y final del rango para la consulta de la información de proveedores, al dar clic en el botón aceptar y ejecutar esta descarga un archivo plano txt con la información parametrizada.
 
+![](imcm3.png)
 
 
 
