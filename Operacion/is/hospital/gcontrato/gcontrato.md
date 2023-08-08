@@ -16,4 +16,7 @@ Prueba Samuel
 * [**GCNT**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcnt) - Contratos  
 * [**GCAC**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcac) - Ajustes a Contratos  
 * [**GCRC**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcrc) - Renueva Contrato  
+* [**GCNS**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcns) - Contrato de Servicio  
+* [**GPGS**](http://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gpgs) - Generar Servicios de Facturación      
+
 
