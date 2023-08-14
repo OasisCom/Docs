@@ -13,3 +13,5 @@ Este módulo comprende los siguientes submódulos:
 * [**QMEN**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qconsulta/qmen) - Presupuesto Mensual
 * [**QDOC**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qconsulta/qdoc) - Presupuesto Documentos
 * [**QCOM**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qconsulta/qcom) - Plan de Compras
+* [**QVLI**](http://docs.oasiscom.com/Operacion/erp/presupuestoo/qconsulta/qvli) - Presupuesto Por Linea
+

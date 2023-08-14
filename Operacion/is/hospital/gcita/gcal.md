@@ -17,7 +17,8 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 * [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
 * [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
-* [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integración-oasiscom)
+* [Actualización Campos de Sesiones](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#actualización-campos-de-sesiones)
+* [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integracion-oasiscom)
 
 
 
@@ -272,7 +273,14 @@ Cuando el paciente diligencia la encuesta enviada al correo electrónico, esta q
 
 ![](gcal34.png)
 
-## [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integración-oasiscom)
+## [Actualización Campos de Sesiones](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#actualización-campos-de-sesiones)
+
+
+
+
+
+
+## [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integracion-oasiscom)
 
 Es una API de Microsoft, la cual realiza todos los procesos de sincronización de :
 
