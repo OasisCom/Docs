@@ -14,3 +14,5 @@ En esta sección encontrarán los temas relacionados a la implementación de pro
 3. Subir productos al Marketplace
 4. Subir precios al Marketplace
 5. Carga de imágenes al Marketplace
+6. Integracion Con  NetPay 
+
