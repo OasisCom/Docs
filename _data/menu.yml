@@ -2466,6 +2466,8 @@
       url: /Implantacion/subirproductos
     - text: Carga de imágenes al MarketPlace
       url: /Implantacion/cargaimagenes
+    - text: Integracion con NetPay
+      url: /Implantacion/NetPay
 - text: Capacitacion
   url: /Capacitacion/
   subitems:
