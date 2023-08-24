@@ -16,6 +16,8 @@ editable: si
 
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
 
+##### [Versiones OasisCom Junio 2023](https://mailchi.mp/7d24e4ef58dc/nuevas-actualizaciones-de-oasiscom-15735748?e=[UNIQID])
+
 ##### [Versiones OasisCom Marzo - Abril 2023  ](https://mailchi.mp/1dde0b2203c0/nuevas-actualizaciones-de-oasiscom-15729064?e=b22b8f00e2)
 
 ##### [Versiones OasisCom Febrero 2023  ](https://mailchi.mp/41f81b14025b/nuevas-actualizaciones-de-oasiscom?e=[UNIQID])
