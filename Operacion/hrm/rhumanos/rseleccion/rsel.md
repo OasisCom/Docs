@@ -30,7 +30,7 @@ Seguidamente, en el campo _puntos_, diligenciamos el resultado de las evaluacion
 
 ![](rsel3.png)
 
-* En el detalle del **[RSEL]** puede ingresar los antecedentes del tercero en el campo Registro; previa parametrización en características **[BCRC]**.  
+* En el detalle del **[RSEL]** se amplía la información con respecto a los resultados del Estudio de seguridad que se le realiza al tercero, en el campo _Fortaleza_ si cumple o no con el perfil; en el campo _Oportunidad_ que requerimientos del perfil tiene el candidato; en los campos _V Personales_, _V Estudios_ y _V Laborales_ se diligencia si se tiene alguna observación con respecto al filtro y demás relacionados. Para los antecedentes del tercero en el campo _Registro_ se deleciona de acuerdo a la parametrización en características **[BCRC]**.
 
 ![](rsel4.png)
 
@@ -39,14 +39,4 @@ Seguidamente, en el campo _puntos_, diligenciamos el resultado de las evaluacion
 ![](rsel5.png)
 
 
-
-
-
 Diligenciada la información anterior en la aplicación **RSEL – Selección**, finaliza el proceso de selección en OasisCom.
-
-
-
-
-
-
-
