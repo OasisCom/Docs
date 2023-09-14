@@ -9,7 +9,7 @@ editable: si
 
 La aplicación RCAR – Cargos, permite crear los cargos a los cuales se les va a realizar el proceso de selección en la empresa.  
  
-Inicialmente, agregaremos una nueva fila en el maestro y diligenciaremos los datos correspondientes al cargo al cual se le realizará proceso de selección. 
+Inicialmente, se adiciona una nueva fila en el maestro y se diligencia los datos correspondientes al cargo al cual se le realiza el proceso de selección. 
 
 
 ![](rcar1.png)
@@ -17,21 +17,21 @@ Inicialmente, agregaremos una nueva fila en el maestro y diligenciaremos los dat
 
 Los campos del maestro de la aplicación los diligenciaremos de la siguiente manera:
 
-**Cargo**: digitar el consecutivo del cargo que se está registrando.  
-**Nombre cargo**: nombre del cargo al cual se le realizará proceso de selección.  
-**Escala**: número de escala en la cual se encuentra el cargo. La escala se debe parametrizar previamente en la aplicación RBES – Escalas.  
+**Cargo**: Digitar el consecutivo del cargo que se está registrando.  
+**Nombre cargo**: Nombre del cargo al cual se le realiza  proceso de selección.  
+**Escala**: Número de escala en el cual se encuentra el cargo. La escala se debe parametrizar previamente en la aplicación RBES – Escalas.  
 
 
 ![](rcar13.png)  
 
 
-**Tipo de perfil**: digitar el número de tipo de perfil profesional que deben tener los aspirantes al cargo registrado. Los tipos de perfil se parametrizan en la aplicación _RBPE – Tipos de perfil_.  
+**Tipo de perfil**: Digitar el número de tipo de perfil profesional que deben tener los aspirantes al cargo registrado. Los tipos de perfil se parametrizan en la aplicación _RBPE – Tipos de perfil_.  
 
 
 ![](rcar14.png)  
 
 
-Diligenciados los anteriores campos del maestro, damos clic en _guardar_ y continuamos con las pestañas del detalle.
+Diligenciados los anteriores campos del maestro, damos clic en _guardar_ y continúa con las pestañas del detalle.
 
 
 ![](rcar2.png)
@@ -47,28 +47,28 @@ En la pestaña _Competencias_, se diligencian las competencias que deben poseer 
 ![](rcar3.png)
 
 
-**Competencia**: se agrega un nuevo registro (+), damos doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
+**Competencia**: Se adiciona un nuevo registro (+), se da doble clic y seleccionamos del zoom la competencia que aplique al cargo que se registró en el maestro (se pueden insertar todas las competencias que requiera el cargo); luego se da clic en aceptar  
 
 
 ![](rcar4.png)
 
 
-**Peso**: digitar el peso que tiene la competencia que se va a evaluar.  
-**Expectativa**: digitar el porcentaje de cumplimiento esperado.
+**Peso**: Digitar el peso que tiene la competencia que se va a evaluar.  
+**Expectativa**: Digitar el porcentaje de cumplimiento esperado.
 
-Digitamos estos campos damos click en _guardar_ y nos dirigimos a la siguiente pestaña del detalle _Evaluación_.
+Al digitar estos campos, click en _guardar_ y se dirige a la siguiente pestaña del detalle _Evaluación_.
 
 **Pestaña evaluación**
 
 Los tipos de evaluación deben ser previamente parametrizados en la aplicación _RBEV – Tipos de evaluación_.
 
-En la pestaña _Evaluación_ del detalle, agregamos un nuevo registro y damos doble click en el zoom del campo _tipo de evaluación_, allí seleccionamos el tipo de evaluación que aplicará al cargo registrado en el maestro y damos clic en _aceptar_.
+En la pestaña _Evaluación_ del detalle, agregamse adiciona un nuevo registro y doble click en el zoom del campo _tipo de evaluación_, allí se selecciona el tipo de evaluación que aplica al cargo registrado en el maestro y clic en _aceptar_.
 
 
 ![](rcar5.png)
 
 
-Seguidamente, en el campo _peso_ diligenciaremos el peso que tiene el tipo de evaluación seleccionado.
+Seguidamente, en el campo _peso_ se diligencia el peso que tiene el tipo de evaluación.
 
 
 ![](rcar6.png)
@@ -78,13 +78,13 @@ Seguidamente, en el campo _peso_ diligenciaremos el peso que tiene el tipo de ev
 
 Los tipos de experiencia deben ser previamente parametrizados en la aplicación RBEX – Tipos de experiencia.
 
-En la pestaña _Experiencia_ del detalle, agregamos un nuevo registro y damos doble click en el zoom del campo _tipo de experiencia_, allí seleccionamos el tipo de experiencia que deben tener los aspirantes al cargo registrado en el maestro y damos clic en _aceptar_.
+En la pestaña _Experiencia_ del detalle, se adiciona un nuevo registro y dar doble click en el zoom del campo _tipo de experiencia_, allí se seleccciona el tipo de experiencia que deben tener los aspirantes al cargo registrado en el maestro y clic en _aceptar_.
 
 
 ![](rcar7.png)
 
 
-Seguidamente, en el campo _peso_ diligenciaremos el peso que debe tener el tipo de experiencia en el proceso de selección.
+Seguidamente, en el campo _peso_ se diligencia el peso que debe tener el tipo de experiencia en el proceso de selección.
 
 
 ![](rcar8.png)
@@ -102,7 +102,7 @@ En la pestaña _Dotación_, se diligencia el tipo de dotación que se le suminis
 
 **Pestaña Funciones**
 
-La pestaña _funciones_ no requiere de ninguna parametrización previa, simplemente se diligencian las funciones que se desempeñarán en el cargo registrado en el maestro.
+La pestaña _funciones_ no requiere de ninguna parametrización previa, simplemente se diligencian las funciones que se desempeñan en el cargo registrado en el maestro.
 
 
 ![](rcar10.png)
@@ -112,7 +112,7 @@ La pestaña _funciones_ no requiere de ninguna parametrización previa, simpleme
 
 El tipo de educación se debe parametrizar previamente en la aplicación RBED – Tipo de educación.
 
-En la pestaña _educación_, seleccionaremos del zoom el tipo de educación que se solicita posea el aspirante al cargo.
+En la pestaña _educación_, se selecciona del zoom el tipo de educación que se requiere para el cargo.
 
 
 ![](rcar11.png)
@@ -125,17 +125,3 @@ Finalmente, en el campo _peso_, digitamos el peso que tiene el tipo de educació
 
 
 Diligenciada la información de cada pestaña de la aplicación **RCAR – Cargos**, finaliza el proceso de creación de un cargo en OasisCom.
-
-
-
-
-
-Santiago :)
-
-
-
-
-
-
-
-
