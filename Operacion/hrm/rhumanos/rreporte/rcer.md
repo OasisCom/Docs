@@ -7,9 +7,9 @@ editable: si
 
 # Certificado - RCER   
 
-Este reporte sirve para obtener la Certificación Laboral del empleado.  Para que el certificado salga con la información que debe tener un Certificado Laboral, la información debe estar cargada en la aplicación **Contratos - NCNT**.  
+Este reporte sirve para obtener la Certificación Laboral del empleado.  Para que el certificado salga con la información que debe tener un Certificado Laboral, la información debe estar cargada en la aplicación **NCNT - Contratos**.  
 
-Esta aplicación se deja filtrar por el tercero, en este caso, sería la persona de quién se va a sacar el Certificado Laboral:  
+Esta aplicación permite el filtro por el tercero.  
 
 ![](rcer.png)  
 
