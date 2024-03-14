@@ -11,6 +11,10 @@ editable: si
 
 # Pacientes - GPAC
 
+Esta aplicación permite es el almacenamiento de los terceros tipo paciente que cuenta la EPS o IPS, se consolida la información básica del paciente, Servicios prestados por la entidad, Histórico de Facturaciones, Citas, Información de beneficiarios entre otros.
+
+![](gpac01.png)
+
 
 
 # Captura de la imagen del paciente
