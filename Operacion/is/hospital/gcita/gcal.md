@@ -5,7 +5,7 @@ permalink: /Operacion/is/hospital/gcita/gcal
 editable: si
 ---
 
-# Calendario - GCAL
+# GCAL - Calendario
 
 La opción **GCAL - Calendario**, muestra la planeación actual de los recursos. 
 
@@ -30,7 +30,7 @@ Para esto se debe ingresar a la aplicación **Calendario – GCAL**, buscar por 
 
 ![](gcal35.png)
 
-Luego se debe tomar una de las opciones y se debe dar clic al botón con el nombre de **‘Crear Fecha’**.
+Luego se debe tomar una de las opciones y se debe dar clic al botón con el nombre de **‘Crear Cita’**.
 
 ![](gcal36.png)
 
@@ -53,8 +53,12 @@ Cada registro corresponde a la disponibilidad en una hora y fecha determinada pa
 
 * Libre  
 * Asignado  
-* Paciente en sala  
-* En atención  
+* Paciente en sala
+* Copago cancelado
+* Factura cancelada
+* Ingreso Paciente
+* En atención
+* Consulta terminada
 
 Estos estados van cambiando, dependiendo de la acción realizada por un usuario para asignar una cita a un paciente, indicar la llegada de un paciente o indicar que ya se está atendiendo al mismo. A continuación, se describen las acciones para el respectivo proceso de asignación y consulta de citas:  
 
