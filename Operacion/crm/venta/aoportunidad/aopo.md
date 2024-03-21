@@ -62,3 +62,22 @@ La opción **AOPO** también cuenta con una pestaña en el detalle llamada _Cues
 Seguidamente se encuentra la pestaña _Cotizaciones_, en la cual se podrán observar las cotizaciones que están procesadas y asignadas a la oportunidad de negocio en los campos _Document1_, _NumberId1_, y _LocationId1_ de la cotización.  
 
 ![](aopo4.png)
+
+
+# Creación de Reunión de Teams
+
+Por medio del botón que tiene como nombre **Genera_Reunion** y se encuentra sobre el módulo AOPO se creara una sesión en teams de acuerdo con la agenda disponible que se tenga, para que este proceso se realice es necesario tener un registro en estado activo.
+
+![](aopo12.png)
+
+Aparece un aviso para confirmar la creación de la sesión.
+
+![](aopo13.png)
+
+Se mostrará un aviso indicando que la sesión se creó con éxito.
+
+![](aopo14.png)
+
+Por último, sobre el calendario de teams se podrá evidenciar la sesión creada.
+
+![](aopo15.png)
