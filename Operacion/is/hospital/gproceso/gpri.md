@@ -7,14 +7,15 @@ editable: si
 
 # Generación de RIPS - GPRI  
 
-El proceso para la generación de RIPS, comienza en la vista **GPRI**  **Generación de datos para RIPS** 
+El proceso para la generación de RIPS, comienza en la vista **GPRI - Generación de datos para RIPS** 
 
 ![](gpri1.png)  
 
-En esta aplicación se ingresa una fecha inicial y final, de igualmente un tercero donde normalmente se selecciona una entidad y se genera todos los registros en la tabla RIPS teniendo en cuenta una fecha, un contrato, un régimen, tipo y se presiona el botón recargar ubicado en la parte superior color azul, una vez realizado estos pasos se empieza a generar el proceso RIPS donde se llenan los datos de transacciones, usuarios, consultas, medicamentos, procedimientos, urgencias, hospitalizaciones, recién nacidos y otros servicios.  
+En esta aplicación se ingresa una fecha inicial y final, un tercero donde normalmente se selecciona una entidad y se genera todos los registros en la tabla RIPS teniendo en cuenta una fecha, un contrato, un régimen, tipo y se presiona el botón *Generar* ubicado en la parte superior color azul.
+
+Una vez realizado estos pasos se genera el proceso RIPS, se consulta la aplicación **GENV - Envío** datos de transacciones, usuarios, consultas, medicamentos, procedimientos, urgencias, hospitalizaciones, recién nacidos y otros servicios.
 
 ![](gpri2.png)
-
 
 
 En esta aplicación se puede visualizar la información, donde inicialmente se puede ver las transacciones, donde aparece un numero de factura, se debe tener cuenta que cada transacción tiene una factura que esta relacionado a un usuario, y a su vez tiene asociado unos servicios tecnológicos, como se puede observar en la siguiente imagen. 
@@ -22,8 +23,6 @@ En esta aplicación se puede visualizar la información, donde inicialmente se p
 ![](gpri3.png)  
 
 Como se puede visualizar el JSON debe tener un objeto principal que es la transacción donde se visualiza el número de factura y el NIT del facturador principalmente, dentro de este se encuentra asociado un objeto de usuarios, siendo este un arreglo donde puede ser el mismo tercero pero con un consecutivo diferente, este a su vez tiene un objeto de servicios tecnológicos donde se almacena las consultas, medicamentos, procedimientos, urgencias, hospitalizaciones, recién nacidos y otro servicios, por ultimo se destaca que se va entregar un arreglo de transacciones en el Archivos JSON que se genera. 
-
-
 
 
 ![](gpri4.png)  
