@@ -91,7 +91,7 @@ A continuación se realizará la explicación de la operatividad básica del sis
 48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
 49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
 50. [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)
-51. POWER BI - [DASHBOARD](http://docs.oasiscom.com/Operacion/#DASHBOARD) 
+51. [POWER - BI](http://docs.oasiscom.com/Operacion/#power-bi)
   
 
 
@@ -1552,7 +1552,8 @@ Para levantar el reporte rdlc , deshabilitamos el check.
 
 
 
-## POWER BI - [DASHBOARD](http://docs.oasiscom.com/Operacion/#DASHBOARD) 
+## [POWER - BI](http://docs.oasiscom.com/Operacion/#power-bi) 
+
 
 Es un servicio de análisis empresarial proporcionado por Microsoft que permite a los usuarios conectar, analizar y visualizar datos de una amplia variedad de fuentes. 
 
