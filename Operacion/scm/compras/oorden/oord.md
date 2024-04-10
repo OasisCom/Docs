@@ -21,8 +21,7 @@ editable: si
 >+ [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#precio-unitario-en-orden-de-compra)
 
 
-
-
+>+ [**Generación código de barras**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#generación-código-de-barras)
 
 
 En la sección maestro de la aplicación, permite realizar el registro y control de las órdenes de compra.  
@@ -259,15 +258,27 @@ Luego de tomar el número de producto se debe ingresar a la aplicación [**OPRE 
 
 Cuando se termina este proceso se puede evidenciar el ultimo precio actualizado que se tuvo que haber generado de la última compra teniendo en cuenta el tercero, como se muestra en la imagen el valor de 490.00
 
+## [**Generación código de barras**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#generación-código-de-barras)
 
+Debe ingresar a [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam), en la imagen se puede visualizar cada campo y como se encuentra parametrizado OORD - Órdenes de compra [**OORD - Ordenes de compra**](https://docs.oasiscom.com/Operacion/scm/compras/oorden/oord) y [**BPRO - Productos**](https://docs.oasiscom.com/Capacitacion/Empower/bpro)
 
+![](oord22.png)
 
+![](oord23.png)
 
+![](oord24.png)
 
+Una vez que ya hayan validado el [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam) , el botón de Generar código de barra se encuentra en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Capacitacion/Empower/bpro), se puede visualizar con el primer registro, al seleccionar este producto lo que se realiza por consiguiente es presionar el botón de “Generar código de barra” y una vez ya ejecutado el botón, se creara automáticamente el código de barras. 
 
+![](oord25.png)
+ 
+Existe un botón de Multipreview que se encuentra ubicado en el [**OORD - Ordenes de compra**](https://docs.oasiscom.com/Operacion/scm/compras/oorden/oord) , en el cual se puede visualizar el reporte del código de barra. 
 
+![](oord26.png)
 
+Al momento de ejecutar el botón de Multipreview, se refleja una opción nombrada **Imprimir Barcode** y al momento de presionar muestra una ventana emergente  saldrá el código de barras. 
 
+![](oord27.png)
 
 
 
