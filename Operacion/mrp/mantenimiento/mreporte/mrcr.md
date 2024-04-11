@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reportes
-permalink: /Operacion/mrp/mantenimiento/mreporte/
+permalink: /Operacion/mrp/mantenimiento/mreporte/mrcr
 editable: si
 ---
 

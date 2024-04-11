@@ -35,9 +35,8 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 15. [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#hipertensos)
 16. [**Archivos Tipo PT (descarga)**](http://docs.oasiscom.com/Operacion/utility/barchi/archivos-tipo-pt.pdf)
 
-16. [**Subida de imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barch#subida-imagen)
-* Mejora en los tiempos de respuesta.  
-Se ajusto el procedimiento del **BINT**, mejora en los tiempos de respuesta de la interface; para que cuando se hace el formateo del dato de cada columna por cada registro, se haga de una mejor manera, para optimizar los tiempos de ejecución.  
+16. [**Subida de imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subida-de-imagenes-de-productos)
+
 
 Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
 * ![](bcrc1.png)  
@@ -479,7 +478,7 @@ Al realizar la descarga del BINT 706 y se identifica que en comparación con la 
 
 
 
-## [**Subida de Imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subida-imagen) 
+## [**Subida de Imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subida-de-imagenes-de-productos) 
 
 Este proceso permite la subida de imágenes desde un archivo .zip,
 En donde se debe tener en cuenta los siguientes campos para el correcto funcionamiento 
