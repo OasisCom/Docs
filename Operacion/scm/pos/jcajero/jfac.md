@@ -33,8 +33,8 @@ Descargar PDF.
 * [Consulta Rápida de Terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#consulta-rápida-de-terceros)  
 * [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
 * [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)     
-* [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)   
-
+* [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)  
+* [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-KEYPAGO) 
 
 
 
@@ -890,3 +890,84 @@ Luego de que el datafono ya reconozca el pago y sea debitado de la cuenta, el si
 Luego se debe verificar si el pago efectivamente quedo en la aplicación EPAY. 
 
 ![](datafono3.png)
+
+
+## [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-KEYPAGO)  
+
+[**SCAM - CAMPOS**](https://docs.oasiscom.com/Operacion/system/sconfig/scam), se configura los botones respectivos que harán el consumo a los servicios previamente configurados
+
+![](keypago.png)
+
+En la aplicación [**JFAC - Facturas**](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas) se encuentra con tres botones importantes: 
+ 
+- Validacion_Keypago 
+
+![](keypago1.png)
+
+- CreaURL_Keypago
+
+![](keypago2.png)
+
+- Validación descuentos el cual se encuentra en el detalle. 
+
+![](keypago3.png)
+
+En la aplicación [**FDES - Descuentos**](https://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fdes), donde vamos a ingresar datos en los siguientes campos: 
+
+![](keypago4.png)
+
+- **Tercero**: Valor en 0 para que aplique para todos. 
+- **Ubicación**: Valor en 0 para que aplique para todos. 
+- **Tipo precio**: Este campo, arroja una serie de despliegue en donde pueden elegir qué tipo van a manejar, en este caso es descuento KEYPAGO.
+
+![](keypago5.png)
+
+De igual manera al momento de ustedes consultar en la aplicación ya se encuentra parametrizado. 
+
+- **Tipo descuento**: Se indica el mismo tipo de descuento que tienen configurado en el programa BTDE. 
+- **Producto**: Valor en 0 para que aplique para todos. 
+- **Rango de fechas**: Especificar rango amplio de las fechas  
+- **Descuento**: Deben asignar el porcentaje sobre cuanto se va a aplicar a este proceso.
+
+![](keypago6.png)
+
+Ingresan al BFOR- Formas de pago y en el campo DATAFONO indican la opción KEYPAGO
+
+![](keypago7.png)
+
+Realizaremos un ejemplo para que repliquen el proceso. 
+
+Se crea una factura en el JFAC e ingresamos los productos a comprar.  
+Los pasos para ejecutar forma del KEYPAGO, son:  
+ 
+- **Paso 1**: Ejecutamos el botón de **validación KEYPAGO**.
+
+![](keypago8.png)
+
+Al ejecutar el botón, se abrirá una ventana donde se activa una alerta para confirmar el proceso.
+
+![](keypago9.png)
+
+El proceso nos retornara la información si aplica o no el tercero al beneficio del KEYPAGO. 
+
+![](keypago10.png)
+
+- **Paso 2**: Ejecutar el boton de validación de descuentos.
+
+![](keypago11.png)
+
+Al ejecutar el botón se realizará un cruce donde se validaría los productos que aplicarían el descuento.
+
+![](keypago12.png)
+
+- **Paso 3**: Se valida la pestaña de pago 
+
+![](keypago13.png)
+
+- **Paso 4**: Creamos URL compra
+
+![](keypago14.png)
+
+Cuando ejecutamos este proceso, nos dirige al portal del KEYPAGO para continuar y realizar el pago 
+
+![](keypago15.png)
