@@ -34,7 +34,7 @@ Descargar PDF.
 * [Facturación de combos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#facturación-de-combos)    
 * [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)     
 * [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)  
-* [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-KEYPAGO) 
+* [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-keypago) 
 
 
 
@@ -892,7 +892,8 @@ Luego se debe verificar si el pago efectivamente quedo en la aplicación EPAY.
 ![](datafono3.png)
 
 
-## [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-KEYPAGO)  
+## [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-keypago) 
+
 
 [**SCAM - CAMPOS**](https://docs.oasiscom.com/Operacion/system/sconfig/scam), se configura los botones respectivos que harán el consumo a los servicios previamente configurados
 
@@ -931,13 +932,13 @@ De igual manera al momento de ustedes consultar en la aplicación ya se encuentr
 
 ![](keypago6.png)
 
-Ingresan al BFOR- Formas de pago y en el campo DATAFONO indican la opción KEYPAGO
+Ingresar al BFOR- Formas de pago y en el campo DATAFONO indican la opción KEYPAGO
 
 ![](keypago7.png)
 
-Realizaremos un ejemplo para que repliquen el proceso. 
+Realizar un ejemplo para que repliquen el proceso. 
 
-Se crea una factura en el JFAC e ingresamos los productos a comprar.  
+Se crea una factura en el JFAC e ingresar los productos a comprar.  
 Los pasos para ejecutar forma del KEYPAGO, son:  
  
 - **Paso 1**: Ejecutamos el botón de **validación KEYPAGO**.
@@ -968,6 +969,6 @@ Al ejecutar el botón se realizará un cruce donde se validaría los productos q
 
 ![](keypago14.png)
 
-Cuando ejecutamos este proceso, nos dirige al portal del KEYPAGO para continuar y realizar el pago 
+Cuando ejecuta este proceso, nos dirige al portal del KEYPAGO para continuar y realizar el pago 
 
 ![](keypago15.png)
