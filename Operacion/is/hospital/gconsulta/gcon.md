@@ -173,8 +173,17 @@ Esta firma puede ser visualizada  a nivel de los formatos,  para ello se debe mo
 
 ![](Format.png)
 
+## Función de TAPS
 
+   Esta modificación se realiza con el fin de que, en el [**FGCON - Form_Health**](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON) si cambia de **TAP**, y la información es errónea, pueda volver a la pestaña anterior para corregirlo. 
 
+   Una vez que estén en el **FGCON - Form_Health** puede realizar el cambio del **TAP**, sin la necesidad de oprimir los botones **“Previous y Next”**. 
+
+   Si requiere modificar alguna información del paciente, puede hacerlo sin oprimir los botones. Sin embargo, se debe tener en cuenta que al momento de cambiar el **TAP**, no se guarda la información en la base, únicamente queda guardada si le dan al botón **“NEXT”**.  
+
+   Se debe tener presente que, una vez se haya corregido la información, se debe ejecutar el botón NEXT, para que toda la información se guarde. 
+
+![](fgcon1.png)
 
 
 
