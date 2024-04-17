@@ -279,9 +279,13 @@ Cuando el paciente diligencia la encuesta enviada al correo electrónico, esta q
 
 ## [Actualización Campos de Sesiones](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#actualización-campos-de-sesiones)
 
+Se selecciona un registro y al dar click en el botón Actualizar_campos genera un zoom donde permite modificar la Fecha de sesión y Cantidad de sesión de acuerdo a la indicación del profesional.
 
+![](gcal41.png)
 
+![](gcal42.png)
 
+Estos campos son usados en los procesos de generación de facturas, generación de admisiones, generación de consultas entre otros.
 
 
 ## [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integracion-oasiscom)
