@@ -20,6 +20,5 @@ Las aplicaciones que se manejan en este submódulo son:
 * [**CSSC**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/cssc) - Calificaciones  
 * [**CCRE**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/ccre) - Saldos de créditos  
 * [**CSEC**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/csec) - Imprime estados de cuenta clientes
-* [**CREC**]() - Imprime estados de cuenta clientes  
-* [**CCAC**]() - Análisis de cartera vencida  
-
+* [**CREC**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/crec) - Imprime estados de cuenta clientes  
+* [**CCAC**](http://docs.oasiscom.com/Operacion/erp/cartera/csaldo/ccac) - Análisis de cartera vencida
