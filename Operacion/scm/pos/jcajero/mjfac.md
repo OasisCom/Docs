@@ -19,8 +19,9 @@ La aplicación **MJFAC** permite crear facturas por la compra de productos selec
 >+ [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-docuemntos)
 >+ [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar)
 + [Modificación de Precio y Descuento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#modificación-de-precio-y-descuento#modificación-de-precio-y-descuento)
++ [Productos disponibles por LOTE y SERIAL](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#Disponibilidad-por-LOTE-y-SERIAL#Disponibilidad-por-LOTE-y-SERIAL)
 
-
+Productos disponibles por LOTE y SERIAL
 
 Para crear una factura, damos clic en el botón _Agregar_.  
 
@@ -242,6 +243,32 @@ Una vez nos devolvemos a la ventana de Formas de Pago, este nos muestra la difer
 * Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
 
 
+## Disponibilidad por LOTE y SERIAL
+
+Al momento de crear la factura e insertando el producto, se reflejará las palabras LOTE y LOC (SERIAL). Donde al frente de la palabra LOTE, hay tres puntos el cual en los tres puntos se encuentra un ZOOM y pueden darle clic para abrir una ventana emergente.  
+
+![](mjfac50.png) 
+
+Al momento de seleccionar los tres puntos, aparece una ventana emergente 
+
+![](mjfac51.png) 
+
+La cual indica el mismo producto, pero diferente LOTE Y LOCALIZACIÓN.  
+
+![](mjfac52.png) 
+
+Esto permite que se pueda visualizar donde puede sacar y donde tiene disponibilidad del producto.  
+ 
+Si se selecciona un registro, se puede ver lo siguiente en la factura:  
+
+![](mjfac53.png) 
+
+Se visualiza el LOTE y la Localización (SERIAL) 
+Y si se requiere el mismo producto, pero en ese LOTE y Serial ya no está disponible, ahí se visualizan en donde está disponible. 
+ 
+Se agrega un nuevo producto y se puede visualizar que se registra por otro LOTE y por otro SERIAL. Sin embargo, sigue siendo el mismo producto. 
+
+![](mjfac54.png) 
 
 
 
