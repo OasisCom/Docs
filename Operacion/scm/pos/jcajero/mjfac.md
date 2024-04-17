@@ -16,12 +16,11 @@ La aplicación **MJFAC** permite crear facturas por la compra de productos selec
 >+ [Seleccionar caracteristica del producto](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#seleccionar-caracteristica-del-producto)
 >+ [Búsqueda de terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#búsqueda-de-terceros)
 >+ [Zoom de Documento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-de-documento)
->+ [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-docuemntos)
+>+ [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-documentos)
 >+ [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar)
-+ [Modificación de Precio y Descuento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#modificación-de-precio-y-descuento#modificación-de-precio-y-descuento)
-+ [Productos disponibles por LOTE y SERIAL](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#Disponibilidad-por-LOTE-y-SERIAL#Disponibilidad-por-LOTE-y-SERIAL)
++ [Modificación de Precio y Descuento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#modificación-de-precio-y-descuento)
++ [Productos disponibles por LOTE y SERIAL](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#productos-disponibles-por-lote-y-serial)
 
-Productos disponibles por LOTE y SERIAL
 
 Para crear una factura, damos clic en el botón _Agregar_.  
 
@@ -147,7 +146,9 @@ Al seleccionar el pedido, se observará el producto en MJFAC.
 
 ![](mjfac23.png)
 
-### [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar) ![](buscar1.png)
+### [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#boton-buscar)
+
+ ![](buscar1.png)
 
 Cuando demos click en el botón _Buscar_, este nos mostrará las facturas Activas y Procesadas de la fecha actual, para así poder utilizarlas y realizar las diferentes operaciones: Procesar, Reversar.  
 
@@ -243,7 +244,8 @@ Una vez nos devolvemos a la ventana de Formas de Pago, este nos muestra la difer
 * Importante: la aplicacion **MJFAC** permite visualizar estas opciones desde diferentes dispositivos (Celulares, Ipad, Tablet, etc)
 
 
-## Disponibilidad por LOTE y SERIAL
+
+## [Productos disponibles por LOTE y SERIAL](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#productos-disponibles-por-lote-y-serial)
 
 Al momento de crear la factura e insertando el producto, se reflejará las palabras LOTE y LOC (SERIAL). Donde al frente de la palabra LOTE, hay tres puntos el cual en los tres puntos se encuentra un ZOOM y pueden darle clic para abrir una ventana emergente.  
 
