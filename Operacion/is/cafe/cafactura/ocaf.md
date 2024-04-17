@@ -7,16 +7,26 @@ editable: si
 
 # OCAF - Compras de Café
 
+* [Compra de Café por Factor](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor)
+* [Compra de Café por Factor Húmedo](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#compra-de-café-por-factor-húmedo)
+* [Variable de Bonificación](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#variable-de-bonificación)
+* [Control descuento Asociados superando Monto de Aportes](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#control-descuento-asociados-superando-monto-de-aportes)
+* [Pago concepto transporte](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#pago-concepto-transporte)  
+* [Fidelización Asociados](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#fidelización-asociados)  
+* [Café Averanado](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#café-averanado)  
+
+
 La aplicación **OCAF** permite registrar las compras de café que se realicen y así poder ver reflejada la mercancía en los inventarios.  
 
 ![](ocaf.png)
 
-**Documento:** seleccionar el documento asignado a la compra de café. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
-**Número:** el número de consecutivo será asignado automáticamente por el sistema.  
-**Ubicación:** Indicar la ubicación donde va a quedar almacenado el café.  
-**Concepto:** Seleccionar del zoom el concepto por el cual se registra la compra del café. Los conceptos son parametrizados en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).   
-**Fecha:** fecha en la cual registra la compra del café.  
-**Tercero:** número de identificación del tercero a quien se le compró el café. Si el tercero seleccionado es asociado, el sistema arrojará un mensaje de control de color verde indicando que se encuentra hábil.  
+* ***Documento:** seleccionar el documento asignado a la compra de café. Los documentos son parametrizados en la aplicación [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc).  
+* **Número:** el número de consecutivo será asignado automáticamente por el sistema.  
+* **Ubicación:** Indicar la ubicación donde va a quedar almacenado el café.  
+* **Concepto:** Seleccionar del zoom el concepto por el cual se registra la compra del café. Los conceptos son parametrizados en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).   
+* **Fecha:** fecha en la cual registra la compra del café.  
+* **Tercero:** número de identificación del tercero a quien se le compró el café. Si el tercero seleccionado es asociado, el sistema arrojará un mensaje de control de color verde indicando que se encuentra hábil.  
+
 
 Si el cliente no se encuentra registrado en el sistema al momento de realizar la orden de compra, OasisCom permite crear dicho cliente en la base de datos. En el campo tercero daremos click derecho y seleccionaremos _Crear cliente_.  
 
@@ -86,36 +96,36 @@ Para realizar compra de café por Factor, adicionamos un nuevo registro dando cl
 ![](ocaf2.png)
 
 ##### _Datos Básicos_
-
-**Documento:** El sistema traerá por defecto el documento CF - Compra de café.  
-**Ubicación:** seleccionar la ubicación desde donde se compra el café, el sistema por defectó traerá la ubicación que se encuentre asociada al usuario que realiza el registro de compra. Las ubicaciones son parametrizables en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) 
-**Concepto:** seleccionar el concepto por el cual se realiza la compra de café, en este caso seleccionar _Compra x Factor_. Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
+ 
+* **Documento:** El sistema traerá por defecto el documento CF - Compra de café.  
+* **Ubicación:** seleccionar la ubicación desde donde se compra el café, el sistema por defectó traerá la ubicación que se encuentre asociada al usuario que realiza el registro de compra. Las ubicaciones son parametrizables en la aplicación [**BUBI - Ubicaciones Organización**](http://docs.oasiscom.com/Operacion/common/borgan/bubi) 
+* **Concepto:** seleccionar el concepto por el cual se realiza la compra de café, en este caso seleccionar _Compra x Factor_. Los conceptos son parametrizables en la aplicación [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon).  
 
 ![](ocaf3.png)
 
 ##### _Datos Tercero_
 
-**Tercero:** ingresar el número de identificación del tercero que vende el café a la cooperativa. El sistema validará automáticamente si el tercero es asociado, está hábil o inhábil, este mensaje de control sólo es de manera informativa y no interrumpe el proceso.  
+* **Tercero:** ingresar el número de identificación del tercero que vende el café a la cooperativa. El sistema validará automáticamente si el tercero es asociado, está hábil o inhábil, este mensaje de control sólo es de manera informativa y no interrumpe el proceso.  
 
 ![](ocaf4.png)
-
-**Fuente:** seleccionar la fuente de donde provienen los recursos para comprar el café, ya sea por recursos propios o línea de financiamiento.  
-**Caja:** el sistema por defecto asignará la caja de donde se tomarán los recursos para la compra del café, si se desea cambiar, damos doble click sobre el campo y seleccionamos la caja desde el zoom.  
-**Dirección:** seleccionamos del zoom el nombre de la finca que vende el café. Las direcciones son parametrizables en la aplicación **BDIR - Direcciones**.  
-**Sello:** seleccionamos del zoom el sello de certificación de calidad de la finca del cual proviene el café a comprar en caso tal que lo tenga. El sistema valida automáticamente con el nombre de la finca los sellos que esta posee. Los sellos son parametrizables en la aplicación **BDIR - Direcciones**.  
-**Condición de pago:** seleccionar la condición de pago del café. Al seleccionar _Cheque_ el sistema activará el flag de _Cheque_ y arrojará el número de cheque.  
+* 
+* **Fuente:** seleccionar la fuente de donde provienen los recursos para comprar el café, ya sea por recursos propios o línea de financiamiento.  
+* **Caja:** el sistema por defecto asignará la caja de donde se tomarán los recursos para la compra del café, si se desea cambiar, damos doble click sobre el campo y seleccionamos la caja desde el zoom.  
+* **Dirección:** seleccionamos del zoom el nombre de la finca que vende el café. Las direcciones son parametrizables en la aplicación **BDIR - Direcciones**.  
+* **Sello:** seleccionamos del zoom el sello de certificación de calidad de la finca del cual proviene el café a comprar en caso tal que lo tenga. El sistema valida automáticamente con el nombre de la finca los sellos que esta posee. Los sellos son parametrizables en la aplicación **BDIR - Direcciones**.  
+* **Condición de pago:** seleccionar la condición de pago del café. Al seleccionar _Cheque_ el sistema activará el flag de _Cheque_ y arrojará el número de cheque.  
 
 ##### _Datos Café_
 
-**Muestra:** indicar el mínimo de muestra de café en gramos que se debe tomar para analizar.  
-**Sacos:** ingresar el número de sacos que lleva el caficultor para la venta.  
-**Peso Bruto:** peso de los sacos de café en kilos.  
-**Destare:** peso promedio de los sacos vacíos en total.  
-**Cantidad:** el sistema automáticamente arroja la diferencia entre el peso bruto y el destare indicando la cantidad real de café.  
-**AlmendraSan:** cantidad en gramos de almendra (café )sana de acuerdo a la muestra.  
-**Gramos pasilla:** cantidad en gramos de la almendra (café) defectuosa de acuerdo a la muestra.  
-**Gramos broca:** cantidad en gramos de la almendra (café) brocada de acuerdo a la muestra.  
-**Producto:** al dar doble click en el campo, el sistema analizará la muestra de café ingresada y arrojará los productos que aplican de acuerdo al rango de factor.  
+* **Muestra:** indicar el mínimo de muestra de café en gramos que se debe tomar para analizar.  
+* **Sacos:** ingresar el número de sacos que lleva el caficultor para la venta.  
+* **Peso Bruto:** peso de los sacos de café en kilos.  
+* **Destare:** peso promedio de los sacos vacíos en total.  
+* **Cantidad:** el sistema automáticamente arroja la diferencia entre el peso bruto y el destare indicando la cantidad real de café.  
+* **AlmendraSan:** cantidad en gramos de almendra (café )sana de acuerdo a la muestra.  
+* **Gramos pasilla:** cantidad en gramos de la almendra (café) defectuosa de acuerdo a la muestra.  
+* **Gramos broca:** cantidad en gramos de la almendra (café) brocada de acuerdo a la muestra.  
+* **Producto:** al dar doble click en el campo, el sistema analizará la muestra de café ingresada y arrojará los productos que aplican de acuerdo al rango de factor.  
 
 Diligenciado el formulario, damos click en el botón _Guardar_ y la aplicación arrojará automáticamente un renglón en la pestaña _Detalle_ con los datos de la compra, el factor asignado al producto y el precio.  
 
@@ -267,3 +277,28 @@ Con las configuraciones previas, el sistema está disponible para realizar las c
 
 
 ![](fidelizar8.png)
+
+## [Café Averanado](http://docs.oasiscom.com/Operacion/is/cafe/cafactura/ocaf#café-averanado)
+
+Durante el proceso del cultivo, se pueden presentar varias incidencias con el café como el grano averanado o arrugado. Este problema afecta la apariencia del café, tanto en sabor como el aroma. Esta ley se realizó para contrarrestar los efectos del verano en áreas de la caficulturas. En la aplicación **OCAF – Compras de Café** se coloca el % de Café Averanado.
+
+![](ocaf26.png)
+
+El tipo de descuento que se maneja para este campo será bajo la siguiente parametrización:
+
+* **Tipo de Descuento Nombre**: Porcentaje Averanado
+* **Tipo**: A 
+* **Modulo**: C 
+* **Estado**: A
+
+![](ocaf27.png)
+
+Para la parametrización de los rangos y respectivos valores de este tipo de Descuento se realizan en la aplicación [**OBTA - Rango de Tara y Agua**](https://docs.oasiscom.com/Operacion/is/cafe/caprecio/obta).
+
+![](ocaf28.png)
+
+Sobre esta aplicación se parametrizan los rangos de los porcentajes indicados en la tabla anterior, cada descuento debe tener el estado **Activo** para que tome los valores.
+
+![](ocaf29.png)
+
+Se debe tener en cuenta que, una vez realizada la actualización de la aplicación el sistema realiza la creación (únicamente la primera vez) tanto del Tipo de Descuento como de los Rangos y Valores del Café Averanado.
