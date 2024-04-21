@@ -2,20 +2,32 @@
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
     if (results.length) {
+      var responseResults = document.getElementById('response-results');
       // Are there any results?
       var appendString = '';
+      var listResponse = [];
 
       for (var i = 0; i < results.length; i++) {
         // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<li> <a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
         appendString += '<p>' + item.content.substring(0, 300) + '...</p></li>';
+
+        if (i < 10) {
+          listResponse.push({
+            itemid: 're' + i,
+            url: item.url,
+            title: item.title,
+            content: item.content.substring(0, 200)
+          });
+        }
       }
 
       appendString +=
         '<br><h3 class="text-more-result">Para más resultados por favor intente con otro término.</h3>';
 
       searchResults.innerHTML = appendString;
+      responseResults.innerHTML = listResponse.length > 0 ? JSON.stringify(listResponse) : '';
     } else {
       searchResults.innerHTML = '<li>No hay resultados.</li>';
     }
