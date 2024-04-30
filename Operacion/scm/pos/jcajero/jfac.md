@@ -35,7 +35,7 @@ Descargar PDF.
 * [Redención de Puntos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#redención-de-puntos)     
 * [Configuración Datafono](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#configuración-datafono)  
 * [Proceso KEYPAGO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-keypago) 
-* [CREDIBANCO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#CREDIBANCO) 
+* [CREDIBANCO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#credibanco) 
 
 
 
@@ -974,52 +974,15 @@ Cuando ejecuta este proceso, nos dirige al portal del KEYPAGO para continuar y r
 
 ![](keypago15.png)
 
-## CREDIBANCO
+## [CREDIBANCO](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#proceso-keypago) 
 
-Se realiza la parametrización en [**SCAM - CAMPOS**](https://docs.oasiscom.com/Operacion/system/sconfig/scam) donde ya se encuentra por defecto. 
 
-Sin embargo, realizan la consulta por el numero 4014, para que puedan visualizar dicha parametrización, donde pueden visualizar las URL que están configuradas para que se haga la vinculación a este método CREDIBANCO.
+Credibanco es una solución segura y confiable para procesar pagos electrónicos en Colombia. 
+ 
 
-![](CREDIBANCO1.png)
-
-Se puede visualizar también en el **SDOMC - Domain_Company**, la configuración necesaria para autenticar el consumo del CREDIBANCO.  
-
-![](CREDIBANCO2.png)
-
-También se verifica en la aplicación [**BARC - Archivos**](https://docs.oasiscom.com/Operacion/utility/barchi/barc) BARC-Archivos, donde se puede evidenciar la configuración de la estructura de los datos del pago CREDIBANCO.  
-
-![](CREDIBANCO3.png)
-
-Se puede consultar el número de **archivo-2001** y lo que va a realizar este archivo, es que se consulta el resultado de la transacción con el datafono respectivamente para puntos de venta. 
-
-![](CREDIBANCO4.png)
-
-Lo que se realiza en el [**BPUB - Publicaciones**](https://docs.oasiscom.com/Operacion/utility/barchi/bpub), es que se puede ver todo archivo que se realizaron en el **BARC**.
-
-![](CREDIBANCO5.png)
-
-Para esta aplicación [**SROL - Roles**](https://docs.oasiscom.com/Operacion/system/sacceso/srol) se asignan las publicaciones creadas al rol que corresponda según las autorizaciones que tenga el usuario.
-
-![](CREDIBANCO6.png)
-
-En la aplicación [**SCAM - CAMPOS**](https://docs.oasiscom.com/Operacion/system/sconfig/scam) se hace la parametrización al botón que correspondiente para que se realice el envió de datos y consulta de transacción del DATAFONO. 
-
-![](CREDIBANCO7.png)
-
-Para visualizar la configuración de los dispositivos por cada caja correspondiente al punto de venta. 
-
-Sobre la pestaña **CAJAS** que se encuentra en el detalle, en este se especifica los valores separados por punto y coma. 
-
-![](CREDIBANCO8.png)
-
-En el campo DataphoneId, se puede visualizar: 
-Identificador del dispositivo; número de intervalo para consultar la respuesta; tiempo de espera entre cada intervalo de búsqueda. 
-
-![](CREDIBANCO9.png)
-
-Para hacer la validación de este CREDIBANCO, haremos una demostración con el programa que fue parametrizado, el cual fue el JFAC. 
-
-Tomaremos una factura que haya sido creada y con sus respectivos productos ingresados en el detalle. 
+Dentro de Oasis, tenemos esta integración en la cual, para hacer uso de esta, se ingresa al programa JFAC, donde se escoge un registro deseado (registro en estado Activo). 
+ 
+Una vez hecho esto, en la sección del detalle, en la pestaña PAGO, se encuentra un botón el cual esta nombrado como Procesar_Pago_Credibanco. 
 
 Una vez hecho esto, en el detalle, en la pestaña **PAGO**, se encuentra un botón el cual esta nombrado como **PROCESAR_PAGO_CREDIBANCO**
 
