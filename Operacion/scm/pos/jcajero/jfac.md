@@ -980,22 +980,21 @@ Cuando ejecuta este proceso, nos dirige al portal del KEYPAGO para continuar y r
 Credibanco es una solución segura y confiable para procesar pagos electrónicos en Colombia. 
  
 
-Dentro de Oasis, tenemos esta integración en la cual, para hacer uso de esta, se ingresa al programa JFAC, donde se escoge un registro deseado (registro en estado Activo). 
+Dentro de OasisCom, se tiene integrada esta funcionalidad el cual, para hacer uso de esta, se ingresa al programa [**JFAC - FACTURAS**](https://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas) donde se escoge un registro deseado (registro en estado Activo). 
  
-Una vez hecho esto, en la sección del detalle, en la pestaña PAGO, se encuentra un botón el cual esta nombrado como Procesar_Pago_Credibanco. 
-
-Una vez hecho esto, en el detalle, en la pestaña **PAGO**, se encuentra un botón el cual esta nombrado como **PROCESAR_PAGO_CREDIBANCO**
+Una vez hecho esto, en la sección del detalle, en la pestaña PAGO, se encuentra un botón donde esta nombrado como **Procesar_Pago_Credibanco**. 
 
 ![](CREDIBANCO10.png)
 
-El cual, al momento de ejecutar, saldra una ventana emergente, el cual consultará si quiere seguir con el proceso. 
+
+El cual, al momento de ejecutar, saldrá una ventana emergente, donde consulta si requiere seguir con el proceso o desea cancelarlo.
 
 ![](CREDIBANCO11.png)
 
-Al ejecutar se realizará el envió de la información del pago seleccionado, este proceso se debe realizar uno a uno. 
+Al ejecutar, se realizará el envío de la información del pago seleccionado. 
+Este proceso se debe realizar uno a uno y así mismo pueden visualizar cada descripción de la transacción que realicen y validar el proceso.
 
-Para validar este proceso que se realizo, se puede  hacer a través de la aplicación **EPAY - Pagos** 
+Esto se puede visualizar a través de la aplicación EPAY- Pagos. 
 
 ![](CREDIBANCO12.png)
 
-Donde verán cada descripción de la transacción que realicen. 
