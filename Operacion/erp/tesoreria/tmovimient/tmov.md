@@ -13,7 +13,7 @@ En esta aplicación se realizan los documentos que hayan sido creados para el pr
 >+ [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
 >+ [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
 >+ [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
-+ [Generación documento soporte a compras del exterior](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#Generación-documento-soporte-a-compras-del-exterior)
+>+ [Generación documento soporte a compras del exterior](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#generación-documento-soporte-a-compras-del-exterior)
 
 ![](TMOV1.png)  
 
@@ -277,5 +277,4 @@ En la opción [**TMOV - MOVIMIENTOS DE  TESORERIA**](https://docs.oasiscom.com/O
  
 Tener en cuenta que para que se genere el documento soporte, el tercero debe estar marcado en la aplicación [**BTER - TERCEROS**](https://docs.oasiscom.com/Operacion/common/btercer/bter), con el nombre tipo de impuesto **EXTERIOR** y debe ir con el **check** en el campo proveedor. 
 
-![](tmov-exterior.png)
-
+![](tesoreria5.png) 
