@@ -12,7 +12,7 @@ Eta aplicación permite realizar Control y seguimiento de sesiones
 * [Creación de Sesiones Manual](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-manual)
 * [Creación de Sesiones Automaticas GCAL](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-automaticas-gcal)
 * [Facturación Parcial](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturación-parcial)
-
+* [Producto Padre y Subproductos](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#producto-padre-y-subproductos)
 
 La aplicación **GADM - Admisiones** permite registrar la información para admisiones para fondo de hospital y los servicios por los cuales puede pasar el paciente.  
 
@@ -110,3 +110,56 @@ Al dar clic en botón Factura parcial el sistema genera una la factura parcial e
 **Nota**: Es importante que la admisión este en estado activo si aun se encuentra vigente, de lo contrario el sistema no lo tendrá en cuenta.
 
 ![](gadm19.png)
+
+# [Producto Padre y Subproductos](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#producto-padre-y-subproductos)
+
+Se realiza un ajuste para que, al momento de facturar, traiga el producto padre de acuerdo con los componentes que construyen este producto. Esto se hace con el fin de traer únicamente el combo y que en él se encuentren todos los componentes que este combo contenga. 
+
+Una vez realizada la asignación de la cita, en la aplicación [GCAL - Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal) se debe elegir el producto padre y los componentes. 
+
+Luego se hace la creación de la admisión en la aplicación [GADM - Admisiones](https://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm) 
+
+En la aplicación **GADM - Admisiones** se puede visualizar que el sistema muestra cuales son los subproductos. 
+
+En el maestro se visualiza el producto padre y en el detalle los subproductos. 
+
+![](gadm20.png)
+
+En el [GCON - Consultas](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon) se visualiza el producto que se selecciona desde el **GCAL- Calendario**  y en esta aplicación se puede validar la factura.   
+
+![](gadm21.png)
+
+**OPCIÓN:** Si se requiere descontar de otro producto, se realiza en la misma consulta, la cantidad que se desee y nuevamente se procesa la consulta y el sistema genera la factura.
+
+**NOTA:** En el detalle, en el campo **FACTURA**, debe de estar el check desactivado, solo cuando tiene una admisión. Ya que el sistema internamente cuando se crea la admisión, vincula que tiene una admisión prevista por el servicio elegido, por ende, no deja procesar si el check está activo, y cuando se escoge la admisión, pero no se indica que tiene el servicio, automáticamente se activa el check. 
+
+![](gadm22.png)
+
+Luego de realizar ese proceso, se hace la factura (se puede validar en la aplicación **GADM - Admisiones**, las sesiones ya terminadas).
+
+## Procesos que tiene la facturación por admisión
+
+- Cuando es por **ENTIDAD**, el sistema lo que realiza es, sumar las sesiones y colocar la factura con el producto unicamente con el **PADRE**.
+
+- El segundo proceso es por positivo, en donde se suma todas las sesiones.
+
+- Cuando es por **SURA**, el sistema solamente toma una sesión del producto **PADRE** y lo que realiza es multiplicar el número de sesiones por el valor que está en el contrato y eso se integra a la factura. 
+
+- Cuando no son componentes, ni productos **PADRES** el sistema realiza la generación de la factura con los componentes que se establecen desde la consulta. 
+
+![](gadm23.png)
+
+Con esto en conclusión, se obtienen tres pasos: 
+
+1. Se ejecuta el botón de [Facturación Parcial](https://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturaci%C3%B3n-parcial) 
+
+![](gadm24.png)
+
+Y el sistema hace la multiplicación y lleva la cantidad a la factura. 
+
+2. El segundo proceso, solo lleva cantidad 1 para los subproductos. 
+
+3. El tercero solo factura las sesiones que se encuentren en el servicio.  
+
+
+
