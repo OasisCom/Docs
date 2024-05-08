@@ -19,10 +19,11 @@ La aplicación GCON permite visualizar y crear consultas médicas, allí se regi
 
 * [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
-* [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
-    *  [GCON](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#GCON)
-    * [FGCON](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
+* [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#firma)
+    *  [GCON](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#gcon)
+    * [FGCON](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#fgcon)
 * [Visualizacion de las firmas en formatos](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Visualizacion-de-las-firmas-en-formatos)
+* [Función de TAPS](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#función-de-taps)
 
 
 
@@ -81,7 +82,7 @@ Al abrir la aplicación, en la pestaña _Detalle_ el sistema habrá creado un re
 ![](gcon3.png)
 
 
-## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
+## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#firma)
 
 [**GCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#GCON)
 
@@ -132,7 +133,7 @@ Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacio
 
 •	Vamos a darle clic en el botón que se muestra en la imagen.
 
-## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#Firma)
+## [Firma](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#firma)
 
 [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON)
 
@@ -173,15 +174,15 @@ Esta firma puede ser visualizada  a nivel de los formatos,  para ello se debe mo
 
 ![](Format.png)
 
-## Función de TAPS
+## [Función de TAPS](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#función-de-taps)
 
    Esta modificación se realiza con el fin de que, en el [**FGCON - Form_Health**](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#FGCON) si cambia de **TAP**, y la información es errónea, pueda volver a la pestaña anterior para corregirlo. 
 
    Una vez que estén en el **FGCON - Form_Health** puede realizar el cambio del **TAP**, sin la necesidad de oprimir los botones **“Previous y Next”**. 
 
-   Si requiere modificar alguna información del paciente, puede hacerlo sin oprimir los botones. Sin embargo, se debe tener en cuenta que al momento de cambiar el **TAP**, no se guarda la información en la base, únicamente queda guardada si le dan al botón **“NEXT”**.  
+   Si requiere modificar alguna información del paciente, se puede realizar sin seleccionar los botones. Sin embargo, se debe tener en cuenta que al momento de cambiar el **TAP**, no se guarda la información en la base, únicamente queda guardada si le da click al botón **“NEXT”**.  
 
-   Se debe tener presente que, una vez se haya corregido la información, se debe ejecutar el botón NEXT, para que toda la información se guarde. 
+   Se debe tener presente que, una vez se haya corregido la información, se debe ejecutar el botón **NEXT**, para que toda la información se guarde. 
 
 ![](fgcon1.png)
 
