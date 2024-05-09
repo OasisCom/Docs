@@ -13,30 +13,30 @@ Power BI es una herramienta que permite a directivos, profesionales de contabili
 
 Tal como se visualiza en los siguientes gráficos: 
 
-1. Ganancias de la Empresa. 
+- Ganancias de la Empresa. 
 
 ![](bifinanciero1.png)
 
-2. Cumplimiento de Presupuesto Mensual.
+- Cumplimiento de Presupuesto Mensual.
 
 ![](bifinanciero2.png)
 
-3. Operaciones de Costos.
+- Operaciones de Costos.
 
 ![](bifinanciero3.png)
 
-4. Operación de Gestión.
+- Operación de Gestión.
 
 ![](bifinanciero4.png)
 
-5. Gastos de Gestión de Ventas.
+- Gastos de Gestión de Ventas.
 
 ![](bifinanciero5.png)
 
-6. Cumplimiento Beneficio Bruto. 
+- Cumplimiento Beneficio Bruto. 
 
 ![](bifinanciero6.png)
 
-7. Beneficio Neto. 
+- Beneficio Neto. 
 
 ![](bifinanciero7.png)
