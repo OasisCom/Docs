@@ -253,7 +253,7 @@ El texto se guarda en el campo:  **observación**.
 
 ## [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
 
-Se crea botón **Generar Encuesta** desde la parametrización del aplicativo [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam). Para realizar el proceso de generación de encuestas se ingresa al **GCAL – Calendario** consultando por status **asignado o paciente en sala**. 
+Para poder visualizar el botón de **Generar Encuesta** en la aplicación **GCAL - Calendario**, se debe llevar a cabo la parametrización desde la aplicación [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam). Para ejecutar el proceso de generación de encuestas se ingresa al **GCAL – Calendario** donde el sistema permite la generación, es importante que la cita se encuentre es estatus diferente a **libre**.
 
 ![](gcal29.png)
 
