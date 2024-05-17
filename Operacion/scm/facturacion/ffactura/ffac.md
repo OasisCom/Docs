@@ -17,7 +17,7 @@ La función de facturación en las empresas es uno de los ejes principales de su
 >+ [Asociar Exportación](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#asociar-exportación)
 >+ [Dependencia de cuenta contable a partir de la moneda](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#dependencia-de-cuenta-contable-a-partir-de-la-moneda)  
 >+ [Devolución de Factura de Venta](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#devolución-de-factura-de-venta)
-
+>+ [Facturas Electronicas Tipo Transporte](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#facturas-electronicas-tipo-transporte)
 
 
 Esta aplicación alimenta directamente las cuentas por cobrar y los saldos por cartera de los clientes, igualmente de ventas efectuadas en efectivo alimentaran directamente los saldos y movimientos de las cuentas de tesorería. La facturación se generará automáticamente al confirmar las remisiones o salidas del inventario por concepto de ventas a los clientes.
@@ -306,3 +306,37 @@ Para este ejemplo, se hace por la misma cantidad facturada.  Se guarda el regist
 Posteriormente, se puede validar en la aplicación **Saldos por Localización - ISPL** o algún reporte que muestre los _Saldos de Inventario_, si efectivamente la devolución quedó correcta.  Ingresamos a la aplicación **ISPL**, colocamos los datos de **_Periodo_**, **_Producto_** y **_Ubicación_** y nos muestra las _Entradas_, _Salidas_ y el _Saldo en Cantidad de Unidades_. 
 
 ![](ffac37.png)
+
+## [Facturas Electronicas Tipo Transporte](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#facturas-electronicas-tipo-transporte)
+
+Se ingresa a la aplicación [**FFAC - Facturas**](https://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac)FFAC – Facturas y se crea la factura.
+
+**Maestro de la Factura**
+
+![](ffac38.png)
+
+Este rango de fecha va enfocado para que se reporte al ministerio de transporte.
+
+**Detalle de la factura** 
+
+![](ffac39.png)
+
+Es importante tener en cuenta estos campos, con esos datos el documento puede procesarse para la emisión ante la DIAN.
+
+- Número radicado
+- Número remesa
+- Valor flete  
+- Tipo de servicio.
+
+
+Para el campo **"Tipo Servicio"**, debe asignarse como: 
+
+“SERVICIO ADICIONAL PRESTADO QUE NO ESTA INCLUIDO EN EL FLETE DE LA REMESA” ya que este es el que va a validarse para esta factura transporte.
+
+![](ffac40.png)
+
+Cuando se genere el **CUFE** en la factura, se dirige a la página de la DIAN con ello se valida que se encuentre emitida y por consiguiente también se valida la representación gráfica, el cual debe corresponder con el **Tipo de Operación: 12 - Transporte.**
+
+![](ffac41.png)
+
+
