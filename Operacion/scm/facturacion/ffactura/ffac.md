@@ -329,7 +329,7 @@ Es importante tener en cuenta estos campos, con esos datos el documento puede pr
 - Tipo de servicio.
 
 
-Para el campo **"Tipo Servicio"**, debe asignarse como: 
+Para el campo **Tipo Servicio**, debe asignarse como: 
 
 “SERVICIO ADICIONAL PRESTADO QUE NO ESTA INCLUIDO EN EL FLETE DE LA REMESA” ya que este es el que va a validarse para esta factura transporte.
 
