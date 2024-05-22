@@ -125,7 +125,7 @@ En el campo **_“Auditor Asignado”_** y **_“Nombre Auditor”_** de la mism
 
 ![](Imagen 15 Concurrencia.png)
 
->**Nota:** Las auditorías a las facturas no obligatoriamente el sistema las restringe a que las realice el empleado asignado, por ello, también se cuenta con el campo **_“Quien Audita”,_** en donde el auditor que realice la revisión a esa factura debe ingresar su número de identificación, lo que indica que fue quien la auditó
+> **Nota:** Las auditorías a las facturas no obligatoriamente el sistema las restringe a que las realice el empleado asignado, por ello, también se cuenta con el campo **_“Quien Audita”,_** en donde el auditor que realice la revisión a esa factura debe ingresar su número de identificación, lo que indica que fue quien la auditó
 
 ![](Imagen 16 Concurrencia.png)
 

@@ -1485,7 +1485,7 @@ Una vez realizada la consulta preliminar en el exportador dinámico con el botó
 
 ![](bint3.png)  
 
->**Nota:** Se agrega funcionalidad de filtros a exportador dinámico, basado en parametrización de argument en BARC, sustitución de variables y creación de filtros. definición de origen de datos con funciones o querys.  
+> **Nota:** Se agrega funcionalidad de filtros a exportador dinámico, basado en parametrización de argument en BARC, sustitución de variables y creación de filtros. definición de origen de datos con funciones o querys.  
 
 ![](bint4.png)  
 

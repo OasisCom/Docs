@@ -69,7 +69,7 @@ En el detalle se encuentran los datos relacionados con el café, sus caracterís
 
 
 
->**Nota:** Las imágenes 3 y 4 contiene la configuración con las variables que se usan para el nuevo cálculo,   “CalculateMethodCoffeePrice”  = 1 indica que la formulación esta encendida, Cero que el precio de café se calculara sin tener en cuenta la valoración de las pasillas.
+> **Nota:** Las imágenes 3 y 4 contiene la configuración con las variables que se usan para el nuevo cálculo,   “CalculateMethodCoffeePrice”  = 1 indica que la formulación esta encendida, Cero que el precio de café se calculara sin tener en cuenta la valoración de las pasillas.
 
 
 Ahora, al momento de crear otro registro en la aplicación OCAF, el campo _Muestra_ traerá el valor que acabamos de asignar, de esta misma forma sucede con el campo _Flete_.  
@@ -144,7 +144,7 @@ En el momento de procesar el registro el sistema valida toda la parametrización
 ![](ocaf22.png)  
 
 Al dar clic en el botón "Aceptar" la aplicación intentará conectarse con el sistema de cédula cafetera.  Intregacion realizada al webservice del Banco Bogota configuarcion PSE.  
->**Nota:** Cuando la comunicación con el banco está activa, la compra de café debe ser exitosa, de lo contrario el registro no debe ser procesado.  
+> **Nota:** Cuando la comunicación con el banco está activa, la compra de café debe ser exitosa, de lo contrario el registro no debe ser procesado.  
 
 
 *****

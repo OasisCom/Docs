@@ -15,7 +15,7 @@ Ejecutado el proceso de radicación en la aplicación [**ERIP - RIPS**](http://d
 ![](efac.png)
 
 
->**Nota:** cuando se generan los documentos **FS** también se generarán los documentos **GT**, dado que desde la ejecución del proceso de radicación de RIPS en la aplicación [**ERIP - RIPS**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/erip), se valida si existen diferencias entre lo facturado y contratado, donde el sistema creará automáticamente las glosas que pueden ser de dos tipos:
+> **Nota:** cuando se generan los documentos **FS** también se generarán los documentos **GT**, dado que desde la ejecución del proceso de radicación de RIPS en la aplicación [**ERIP - RIPS**](http://docs.oasiscom.com/Operacion/is/salud/efactura/profac/erip), se valida si existen diferencias entre lo facturado y contratado, donde el sistema creará automáticamente las glosas que pueden ser de dos tipos:
 
 * **Caso 1:** El sistema crea una glosa con documento _GT (GLOSA TEMPORAL)_ cuando la diferencia es menos a 30.000.  
 * **Caso 2:** Cuando la diferencia es mayor a 30.000 se crea un documento FD (NOTA DEBITO SALUD).  

@@ -172,7 +172,7 @@ En caso de que un paciente cancele una cita médica seleccionamos el paciente qu
 
 ![](cancelar.png)
 
->**Nota:** Para cancelar la cita correctamente, el Status del registro debe estar en *Asignado.* 
+> **Nota:** Para cancelar la cita correctamente, el Status del registro debe estar en *Asignado.* 
 
 El status paso de ser *Asignado* a *Libre.* 
 

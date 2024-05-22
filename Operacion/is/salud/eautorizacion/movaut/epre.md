@@ -69,7 +69,7 @@ Se puede validar que se alimenta de manera correcta la información de la prescr
 
 ![](epre5_06.png)  
 
->**Nota:** Se ajusta el proceso de **Sincronización por Prescripción**; para permitir seleccionar el tipo de usuario: **IPS - EPS** que realiza la sincronización.  
+> **Nota:** Se ajusta el proceso de **Sincronización por Prescripción**; para permitir seleccionar el tipo de usuario: **IPS - EPS** que realiza la sincronización.  
 
 La parte visual se modifica, para permitir seleccionar las etapas a sincronizar:  
 

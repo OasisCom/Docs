@@ -44,7 +44,7 @@ En el detalle se registran las actividades ejecutadas del caso seleccionado en e
 
 En el workflow tanto los ingenieros de soporte como los clientes pueden ejecutar actividades. Los ingenieros ejecutan lo que es registro, análisis, solución y/o cierre de caso. Cuando el cliente requiera hacer seguimiento o una aclaración sobre el caso registrado y que se encuentra activo en el sistema se habilitará la opción **"Aclaración Cliente"** para que allí diligencie lo requerido.  
 
->**Nota:** Tambien es posible mostrar una lista en el campo descripción de la ventana de ejecución de tareas **(workflow)**, para poder tabular esta información, **(ACAS)**. Se ajusta visualización a lista de descripción en la ejecución de tareas, se parametriza características **(BCRC)** y modifica el campo CharacteristicId del **SPRC** (Procesos).  
+> **Nota:** Tambien es posible mostrar una lista en el campo descripción de la ventana de ejecución de tareas **(workflow)**, para poder tabular esta información, **(ACAS)**. Se ajusta visualización a lista de descripción en la ejecución de tareas, se parametriza características **(BCRC)** y modifica el campo CharacteristicId del **SPRC** (Procesos).  
 
 Como vemos en el momento de ejecutar las tareas tenemos el campo: **Análisis** con una lista para elegir que descripción seleccionaremos.  
 

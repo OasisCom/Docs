@@ -35,7 +35,7 @@ En el campo **_“Auditor Asignado” y “Nombre Auditor”_** de la misma apli
 
 ![](Imagen 5 eauf.png)
 
->**Nota:** Las auditorías a las facturas no obligatoriamente el sistema las restringe a que las realice el empleado asignado, por ello, también se cuenta con el campo **_“Quien Audita”,_** en donde el auditor que realice la revisión a esa factura quedará registrado al momento de dar clic en el botón *“Auditado”* ya que el sistema OasisCom tomará el usuario que se encuentre en sesión en ese momento.
+> **Nota:** Las auditorías a las facturas no obligatoriamente el sistema las restringe a que las realice el empleado asignado, por ello, también se cuenta con el campo **_“Quien Audita”,_** en donde el auditor que realice la revisión a esa factura quedará registrado al momento de dar clic en el botón *“Auditado”* ya que el sistema OasisCom tomará el usuario que se encuentre en sesión en ese momento.
 
 ![](Imagen 6 eauf.png)
 
@@ -65,7 +65,7 @@ Después de creadas las glosas en la factura, se debe dar clic en el botón *“
 
 ![](Imagen 12 eauf.png)
 
->**Nota:** En la aplicación **EAUF – Auditoría Facturación,** la factura puede estar en diferentes estatus como: *“Auditada”,* lo que indica que no se le generaron glosas a la factura y sólo se ejecutó el botón *auditar. “Levantamiento”,* lo que indica que efectivamente se le crearon glosas a la factura, entre otros estatus. 
+> **Nota:** En la aplicación **EAUF – Auditoría Facturación,** la factura puede estar en diferentes estatus como: *“Auditada”,* lo que indica que no se le generaron glosas a la factura y sólo se ejecutó el botón *auditar. “Levantamiento”,* lo que indica que efectivamente se le crearon glosas a la factura, entre otros estatus. 
 
 Después de dar clic en el botón *“Auditada”,* el sistema creará un documento **FD** con estado *Activo* en la aplicación **EFAC - Facturas,** en donde se mostrarán las glosas creadas por cada factura. Validadas las glosas, se debe procesar el registro dando clic en el botón. ![](Visto.png)
 
@@ -119,7 +119,7 @@ En EFAC para consultar el documento **FL** generado, se puede filtrar por el nú
 
 ![](Imagen 20 eauf.png)
 
->**Nota:** En la aplicación **EFAC – Facturas,** al consultar por número de factura física, se podrá visualizar la trazabilidad de la factura FS, la glosa FD y la legalización de la glosa FL.
+> **Nota:** En la aplicación **EFAC – Facturas,** al consultar por número de factura física, se podrá visualizar la trazabilidad de la factura FS, la glosa FD y la legalización de la glosa FL.
 
 
 

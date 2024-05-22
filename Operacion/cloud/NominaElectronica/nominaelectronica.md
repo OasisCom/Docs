@@ -35,7 +35,7 @@ Estructura XML [descargar.](http://docs.oasiscom.com/Operacion/cloud/NominaElect
 
 Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estructura en formato de archivo plano el cual puede ser cargado de forma manual a la plataforma de OasisCom por medio de la aplicación **BINT - Interfaces o por medio del consumo de servicio web.**
 
->**Nota:** al cargar el archivo plano, el sistema creará los terceros y contratos en caso de que no existan previamente.
+> **Nota:** al cargar el archivo plano, el sistema creará los terceros y contratos en caso de que no existan previamente.
 
 La estructura enviada por OasisCom cuenta con comentarios en cada campo para facilitar su diligenciamiento, también puede consultar el diccionario de datos para validar los valores y formatos sobre cada campo.
 

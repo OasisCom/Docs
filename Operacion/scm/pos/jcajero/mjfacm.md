@@ -59,7 +59,7 @@ Seleccionado el producto, damos click en el **Precio** para modificarlo y asigna
 
 **Inventario vehículo:** para seleccionar los artículos o características con las que el cliente entrega el vehículo, damos click en el botón marcado en la siguiente imagen y marcamos los correspondientes.  
 
->**Nota:** cada empresa de lavadero podrá definir los artículos o caracteristicas que considere se deban incluir en el inventario del vehículo, esto desde la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) consultando por documento _FA_ y concepto _FA_.  
+> **Nota:** cada empresa de lavadero podrá definir los artículos o caracteristicas que considere se deban incluir en el inventario del vehículo, esto desde la aplicación [**BMOT - Motivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bmot) consultando por documento _FA_ y concepto _FA_.  
 
 ![](mjfacm13.png)
 

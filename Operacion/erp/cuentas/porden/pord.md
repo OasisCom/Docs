@@ -54,7 +54,7 @@ Contiene los siguientes campos:
 Para visualizar un registro sobre la aplicación **PORD**, se debió primero haber procesado la cuenta por pagar correspondiente en [**PMOV - Movimientos Cuentas por Pagar**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/cuentas/pmovimient/pmov.md).  
 
 
->**Nota:** Es importante que la cuenta que utilizaremos en la aplicación [**PMOV - Movimientos Cuentas por Pagar**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/cuentas/pmovimient/pmov.md)  tenga parametrizado en la aplicación [**BCUE - Cuentas**]() el campo _Módulo_ con la letra **“P”** que hace referencia al módulo Cuentas por Pagar.  
+> **Nota:** Es importante que la cuenta que utilizaremos en la aplicación [**PMOV - Movimientos Cuentas por Pagar**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/cuentas/pmovimient/pmov.md)  tenga parametrizado en la aplicación [**BCUE - Cuentas**]() el campo _Módulo_ con la letra **“P”** que hace referencia al módulo Cuentas por Pagar.  
 
 
 Al procesar el movimiento de cuentas por pagar en la aplicación [**PMOV - Movimientos Cuentas por Pagar**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/cuentas/pmovimient/pmov.md), éste se verá reflejado en la aplicación **PORD** donde se realizará la confirmación de la orden de pago. Se consulta por número de documento.  
@@ -120,7 +120,7 @@ En el maestro se puede evidenciar el cambio de banco en el campo **Caja**.
 ![](PORD11.png)
 
 
->**Nota:** Es importante verificar que en la aplicación [**BUBI - Ubicaciones Organización**](https://github.com/OasisCom/Docs/blob/master/Operacion/common/borgan/bubi.md) en el registro del banco, el check del campo _Cash_ se encuentre activo.  
+> **Nota:** Es importante verificar que en la aplicación [**BUBI - Ubicaciones Organización**](https://github.com/OasisCom/Docs/blob/master/Operacion/common/borgan/bubi.md) en el registro del banco, el check del campo _Cash_ se encuentre activo.  
 
 
 ![](BUBI1.png)
@@ -183,4 +183,4 @@ Los rangos se parametrizan en **BRAN** segun: documento concepto.
 *************
 
 
->**Nota:** Los procesos anteriormente nombrados (cambio de fecha, cambio de banco, marcar todo y ordenar) se pueden realizar de manera masiva, es decir, se pueden seleccionar varios registros y dar click sobre el botón del proceso que deseamos realizar, este proceso se realizará para todos los registros seleccionados, se sugiere que si son muchos registros se realice el último paso (ordenar) por cada uno de los registros o de a tres registros para que el sistema procese más rápido los documentos. Por último, después de rectificar los datos, se debe procesar el registro en la aplicación [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/tesoreria/tmovimient/tmov.md), esto con el fin de que el cruce quede realizado de manera exitosa.  
+> **Nota:** Los procesos anteriormente nombrados (cambio de fecha, cambio de banco, marcar todo y ordenar) se pueden realizar de manera masiva, es decir, se pueden seleccionar varios registros y dar click sobre el botón del proceso que deseamos realizar, este proceso se realizará para todos los registros seleccionados, se sugiere que si son muchos registros se realice el último paso (ordenar) por cada uno de los registros o de a tres registros para que el sistema procese más rápido los documentos. Por último, después de rectificar los datos, se debe procesar el registro en la aplicación [**TMOV - Movimientos de Tesorería**](https://github.com/OasisCom/Docs/blob/master/Operacion/erp/tesoreria/tmovimient/tmov.md), esto con el fin de que el cruce quede realizado de manera exitosa.  

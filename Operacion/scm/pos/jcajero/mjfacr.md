@@ -117,7 +117,7 @@ En los detalles veremos bastantes caracteristicas de la impresora, pero debemos 
 
 ![](mjfacr12.png)
 
->**Nota:** Algo muy importante para poder utilizar esta impresora es agregar el usuario que Google Print genera, este usuario es de vital importancia compartirlo, ya que no podriamos imprimir absolutamente nada.  
+> **Nota:** Algo muy importante para poder utilizar esta impresora es agregar el usuario que Google Print genera, este usuario es de vital importancia compartirlo, ya que no podriamos imprimir absolutamente nada.  
 
 _**print-service-oasiscom@calm-drive-148918.iam.gserviceaccount.com**_  
 
