@@ -15,15 +15,15 @@ editable: si
 **Menú**
 
 
->+ [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)  
->+ [**Creación Entradas y Salidas de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-entradas-y-salidas-de-inventario)  
+- [**IMOV - Movimientos de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#imov---movimientos-de-inventario)  
+- [**Creación Entradas y Salidas de inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#creación-entradas-y-salidas-de-inventario)  
 >>* [**Entradas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#entradas-de-inventario)  
 >>* [**Salidas de Inventario**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salidas-de-inventario)  
->+ [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
->+ [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
->+ [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
->+ [**Ingreso de mercancía importada**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada)  
->+ [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
+- [**Producción**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#producción)  
+- [**Inventario Periódico e Inventario Cíclico**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#inventario-periódico-e-inventario-cíclico)  
+- [**Generación de Ajuste al Costo**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#generación-de-ajuste-al-costo)  
+- [**Ingreso de mercancía importada**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#ingreso-de-mercancía-importada)  
+- [**Salida de inventario por una orden de compra**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov#salida-de-inventario-por-una-orden-de-compra)
 
 
 

@@ -9,7 +9,7 @@ editable: si
 
 En esta aplicación se encuentra documentado el siguiente proceso:  
 
->+ [Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar)
+- [Causación de Cuentas por cobrar](http://docs.oasiscom.com/Operacion/erp/cartera/cmovimient/cmov#causación-de-cuentas-por-cobrar)
 
 
 En la aplicación **CMOV** se elaboran los movimientos por los diferentes conceptos que afectan las Cuentas por Cobrar. Esta es la pantalla más importante del módulo de cartera, en ella se registran y consultan todos los movimientos que afectan las Cuentas por Cobrar, unos movimientos son elaborados automáticamente por los otros módulos de OASISCOM por medio de las interfaces establecidas y que son parte de la integridad del Sistema de Información.  

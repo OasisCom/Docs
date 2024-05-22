@@ -9,10 +9,10 @@ editable: si
 # ESOA - Solicitud de Autorizaciones
 
 
->+ [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
->+ [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
->+ [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
->+ [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-eaut---autorizaciones)
+- [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
+- [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
+- [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
+- [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-eaut---autorizaciones)
 
 
 Se documenta, como está el proceso de la solicitud de autorización.  

@@ -9,11 +9,11 @@ editable: si
 
 En esta aplicación se realizan los documentos que hayan sido creados para el programa **TMOV** en el básico de documentos **BDOC - Documentos**. Esta aplicación permite filtrar por los diferentes campos que contiene en el maestro, que es la parte superior de la aplicación; en ella se encuentran los datos básicos de cada documento.  
 
->+ [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
->+ [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
->+ [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
->+ [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
->+ [Generación documento soporte a compras del exterior](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#generación-documento-soporte-a-compras-del-exterior)
+- [Comprobante de Egreso](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#comprobante-de-egreso)
+- [Vista Previa de Comprobantes de Egresos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#vista-previa-de-comprobantes-de-egresos)
+- [Recibo de Caja](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#recibo-de-caja)
+- [Traslado de Conceptos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#traslado-de-conceptos)
+- [Generación documento soporte a compras del exterior](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmov#generación-documento-soporte-a-compras-del-exterior)
 
 ![](TMOV1.png)  
 

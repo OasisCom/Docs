@@ -11,17 +11,17 @@ editable: si
 Esta aplicación contiene una pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa.
 
 
->+ [**Consultas dinámicas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
->+ [**Verificación de Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
->+ [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
->+ [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
->+ [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
->+ [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
->+ [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
->+ [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
->+ [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)  
->+ [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente) 
->+ [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)  
+- [**Consultas dinámicas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
+- [**Verificación de Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
+- [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
+- [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
+- [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
+- [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
+- [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
+- [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
+- [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)  
+- [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente) 
+- [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)  
 
 ---
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  

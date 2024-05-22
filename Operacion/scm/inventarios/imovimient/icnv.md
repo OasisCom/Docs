@@ -10,8 +10,8 @@ editable: si
 La aplicación **ICNV** permite armar los kit que emplearan en la producción de un producto.  En donde se registran entradas, las cuales harán referencia a los componentes del producto y se registran así mismo las salidas, que son el producto final.  
 
 * [**Proceso de Conversiones**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#proceso-de-conversiones)
->+ [**Armado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#armado)
->+ [**Desarmado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#desarmado)
+- [**Armado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#armado)
+- [**Desarmado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#desarmado)
 * [**Pestaña Contabilización Resumida**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#pestaña-contabilización-resumida)
 * [**Vista previa**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#vista-previa)
 

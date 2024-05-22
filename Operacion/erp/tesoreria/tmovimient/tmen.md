@@ -8,7 +8,7 @@ editable: si
 # Caja Menor - TMEN  
 
 
->+ [Proceso para crear la caja menor](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen#proceso-para-crear-la-caja-menor)  
+- [Proceso para crear la caja menor](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tmen#proceso-para-crear-la-caja-menor)  
 
 
 Esta opción permite administrar los gastos cotidianos de la empresa, para ello se realiza un movimiento de Caja Menor, mediante un documento **CM**. 

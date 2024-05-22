@@ -49,6 +49,19 @@ a:hover {
 	text-decoration: none;
 }
 
+//------------------ Inicio Estilos Generales
+blockquote {
+	margin: 0;
+	background: $background;
+	color: $font-color;
+    margin-bottom: 15px;
+    padding: 1px 10px 1px 9px;
+    border-left: 6px solid $main;
+	font-size: 1rem;
+}
+//------------------ Fin Estilos Generales
+
+
 a.menuitem {
 	font-size: 0.9em;
 }
@@ -207,8 +220,6 @@ header {
 	font-style: italic;
 	font-weight: 400;
 }
-
-
 
 time {
 	color: #898989;

@@ -7,7 +7,7 @@ editable: si
 
 # Reclutamiento de Escenarios - EPAQ
 
->+ [Detalle de la aplicación EPAQ - Escenarios](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/epaq#detalle-de-la-aplicación-epaq---escenarios)
+- [Detalle de la aplicación EPAQ - Escenarios](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/epaq#detalle-de-la-aplicación-epaq---escenarios)
 
 En este Manual, se explica que son escenarios (paquetes), es decir los múltiples contratos que tiene la EPS con las instituciones o personas que pueden atender a sus afiliados, la aplicación en la que se pueden enlazar y la forma de hacerlo.
 

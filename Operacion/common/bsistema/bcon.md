@@ -9,8 +9,8 @@ editable: si
 
 La aplicación Conceptos permite registrar los conceptos por los cuales se generan los distintos documentos que la compañía maneja, estos previamente parametrizados en **BDOC**.  
 
->+ [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones)
->+ [Paramentrización BCON](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#parametrización-bcon)
+- [Liquidación de Exportaciones](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#liquidación-de-exportaciones)
+- [Paramentrización BCON](http://docs.oasiscom.com/Operacion/common/bsistema/bcon#parametrización-bcon)
 
 ![](bcon1.png)
 
