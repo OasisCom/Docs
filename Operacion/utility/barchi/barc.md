@@ -7,9 +7,9 @@ editable: si
 
 ## Archivos - BARC
 
->+ [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
->+ [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
->+ [Parametrización ACX]((http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-acx)
+- [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
+- [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
+- [Parametrización ACX]((http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-acx)
 
 
 ## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)

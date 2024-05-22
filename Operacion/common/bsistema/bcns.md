@@ -9,7 +9,7 @@ editable: si
 
 Se define el número en el cual se encuentra el consecutivo de cada uno de los documentos parametrizados en **BDOC**. Sirve para definir el consecutivo inicial o hacer alguna actualización que desee el usuario sobre los consecutivos, esta se va actualizando automáticamente a medida que se inserte un nuevo documento de los definidos en la opción documentos. En caso que en el documento se haya definido que maneja varias ubicaciones o maneja niveles, entonces la pantalla nos permitirá definir a que ubicación se está haciendo referencia con el consecutivo, en caso contrario la oficina siempre va a aparecer en cero (0) y el sistema no dejará parar en este sitio.  
 
->+ [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos)
+- [Secuencia de Consecutivos](http://docs.oasiscom.com/Operacion/common/bsistema/bcns#secuencia-de-consecutivos)
 
 ![](bcns1.png)
 

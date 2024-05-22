@@ -9,8 +9,8 @@ editable: si
 
 En esta aplicación se parametrizan todas las características que se vayan a utlizar en el módulo de salud, por ejemplo, al identificar en la afiliación si un usuario pertenece a un grupo étnico.  
 
->+ [Prestaciones Economicas CauseIdELIP](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecrc#prestaciones-economicas-causeidelip)
->+ [Parametrización de formularios de salud a nivel jerarquíco](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecrc#parametrización-de-formularios-de-salud-a-nivel-jerarquíco)
+- [Prestaciones Economicas CauseIdELIP](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecrc#prestaciones-economicas-causeidelip)
+- [Parametrización de formularios de salud a nivel jerarquíco](http://docs.oasiscom.com/Operacion/is/salud/ebasica/ecrc#parametrización-de-formularios-de-salud-a-nivel-jerarquíco)
 
 En el maestro agregamos un nuevo renglón, asignamos un número de característica, el nombre de esta característica y el nombre del campo donde se reflejará.  
 

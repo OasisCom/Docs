@@ -11,7 +11,7 @@ editable: si
 
 Permite validar los registros realizados de las órdenes de compra con status: pendiente. Tipo consulta.  
 
->+ [**Terminación Órdenes Pendientes**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/opop#terminación-órdenes-pendientes)
+- [**Terminación Órdenes Pendientes**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/opop#terminación-órdenes-pendientes)
 
 ![](opop1.png)
 
