@@ -79,7 +79,7 @@ Cuando no se cuenta con una estructura en formato XML, OasisCom provee una estru
 
 #### [Descargue Aquí el Archivo Plano](http://docs.oasiscom.com/Operacion/cloud/ebportal/archivo_plano.xlsx) 
 
-**Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
+> **Nota:** al cargar el archivo plano, el sistema creará los terceros y productos en caso de que no existan previamente.  
 
 Los datos relacionados al color:  
 * **Azul** corresponde al Adquiriente.   
@@ -457,7 +457,5 @@ Luego podemos presionar la tecla “Enter” o con el puntero del mouse dar clic
 
 Y la información que esté guardada será la que se muestre en la factura.  
 
-**NOTA:**  
-
-Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
+> **Nota:** Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas. 

@@ -80,7 +80,7 @@ En el detalle:
 
 
 
-**Nota:** Existe una funcionabilidad en el detalle del **IMOV** con el botón: 'saldos de inventarios en línea'. 
+> **Nota:** Existe una funcionabilidad en el detalle del **IMOV** con el botón: 'saldos de inventarios en línea'. 
 
 Se inserta el renglón nuevo en el detalle, con el producto y sus características propias, se guarda y al dar clic al botón:  
 
@@ -530,7 +530,7 @@ Creamos un nuevo registro en la aplicación IMOV y diligenciamos el formulario:
 
 
 
- _**NOTA:**_ Se debe considerar que, de acuerdo al concepto elegido, deben estar parametrizados de la siguiente manera en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc):
+> **Nota:** Se debe considerar que, de acuerdo al concepto elegido, deben estar parametrizados de la siguiente manera en la opción [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc):
 
 
 

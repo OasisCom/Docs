@@ -322,6 +322,6 @@ Por último el campo de Tipo, con la opción de Model View (MV)
 
 ![](FORMULARIO-VPED2.png)
 
-NOTA: Tener presente las siguientes recomendaciones:
+> **Nota:** Tener presente las siguientes recomendaciones:
 1. Si no se configura alguno de los campos de FieldId o Descripción, la pestaña configurada no se mostrara.
 2. Cerrar sesion e ingresar para que la configuración sea tomada. Si no se visualiza una vez iniciada la sesion, esperar un tiempo o limpiar cache, para que funcione de manera correcta.

@@ -226,7 +226,7 @@ Luego de esto podremos volver a la opción y visualizaremos que este campo ya no
 ![](bter3.png)
 
 
-***Nota:***Es importante tener en cuenta que aunque se oculte el campo, si tiene validaciones de campo obligatoria parametrizada se va a mostrar un mensaje como el siguiente 
+> **Nota:** Es importante tener en cuenta que aunque se oculte el campo, si tiene validaciones de campo obligatoria parametrizada se va a mostrar un mensaje como el siguiente 
 
 ![](bter4.png)
 Por este motivo se debe eliminar dicha validación de campos obligatorios.

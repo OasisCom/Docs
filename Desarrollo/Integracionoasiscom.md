@@ -36,7 +36,8 @@ Adicionalmente, se agregan los parámetros de la publicación, los cuales depend
 
 ## EJEMPLO DE CONEXIÓN EN C# (VISUAL STUDIO 2017)
 
-Inicialmente se ingresa una variable de tipo _HttpClient_, donde dentro de ella se declara el objeto _MultipartFormDataContent_ con sus respectivos argumentos y el archivo Base64 correspondiente. _**Nota:**_ Debe tener en cuenta que en este ejemplo al ser un tipo de publicación de bajada (B) los parametros de los archivos estarán vacíos _StringContent("")_.
+Inicialmente se ingresa una variable de tipo _HttpClient_, donde dentro de ella se declara el objeto _MultipartFormDataContent_ con sus respectivos argumentos y el archivo Base64 correspondiente. 
+> **Nota:** Debe tener en cuenta que en este ejemplo al ser un tipo de publicación de bajada (B) los parametros de los archivos estarán vacíos _StringContent("")_.
 
         
 **EJEMPLO C# - VISUAL STUDIO**

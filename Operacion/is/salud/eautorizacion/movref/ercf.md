@@ -73,7 +73,7 @@ Agregados los productos en la pestaña *“Productos”* de la aplicación ERCF,
 
 ![](Imagen 12 Referencia.png)
 
-**Nota:** La autorización se generará siempre y cuando se cuente con un contrato activo con la IPS que recibe el paciente o presta el servicio.
+> **Nota:** La autorización se generará siempre y cuando se cuente con un contrato activo con la IPS que recibe el paciente o presta el servicio.
 
 Al dar clic en el botón **_“Generar autorización”,_** en el campo *“Número Autorización”* aparecerá el consecutivo con el cual se generó y con el cual podremos consultar en la aplicación **EAUT - Autorizaciones.**
 
