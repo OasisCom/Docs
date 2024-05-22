@@ -59,7 +59,7 @@ Y proceder a ejecutar cada objeto del script, el cual tendrá la siguiente estru
 
 ![](ver8.png)
 
-**_Nota:_** Dicha actualización puede ser realizada en la instancia que considere necesaria, es decir, si se cuenta con múltiples ambientes (Pruebas, Pre – Producción, Producción), cada objeto debe ser ejecutado de igual manera como se indica en el paso anterior.  
+>**Nota:** Dicha actualización puede ser realizada en la instancia que considere necesaria, es decir, si se cuenta con múltiples ambientes (Pruebas, Pre – Producción, Producción), cada objeto debe ser ejecutado de igual manera como se indica en el paso anterior.  
 
 Además del FTP, en nuestro portal web [www.oasiscom.com](www.oasiscom.com) también existirá el archivo de actualización anteriormente mencionado para cada uno de los motores Oracle, SQL. La ruta de descarga es **Soporte/descargas**.  
 
@@ -81,4 +81,4 @@ Además del FTP, en nuestro portal web [www.oasiscom.com](www.oasiscom.com) tamb
 
 ![](ver12.png)
 
-**_Nota:_** Es recomendable limpiar cache del navegador después de actualizar la versión de OasisCom, con la finalidad de asegurar la correcta actualización.  
+>**Nota:** Es recomendable limpiar cache del navegador después de actualizar la versión de OasisCom, con la finalidad de asegurar la correcta actualización.  

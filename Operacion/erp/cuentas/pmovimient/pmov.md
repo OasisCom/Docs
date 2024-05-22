@@ -138,7 +138,7 @@ Relacionamos el impuesto _19 Administración, imprevistos y utilidad_ al tipo de
 
 En el campo _Renglón_ del detalle debemos traer el número del renglón que corresponda al porcentaje que se requiere asociar. En el anterior ejemplo asociamos el renglón **1** equivalente a **AIU 10%**.  
 
-**_Nota:_** Se debe tener en cuenta que para movimientos del producto ERP (Financiero) el sistema tomará el impuesto de acuerdo con el tercero y para movimientos del producto SCM (Logística) el sistema tomará el impuesto de acuerdo con el producto.  
+>**Nota:** Se debe tener en cuenta que para movimientos del producto ERP (Financiero) el sistema tomará el impuesto de acuerdo con el tercero y para movimientos del producto SCM (Logística) el sistema tomará el impuesto de acuerdo con el producto.  
 
 ## [Proceso de Causación](http://docs.oasiscom.com/Operacion/erp/cuentas/pmovimient/pmov#proceso-de-causación)
 

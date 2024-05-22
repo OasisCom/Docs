@@ -41,7 +41,7 @@ El sistema genera un documento **NK** con concepto **UP** en el [KMOV - Movimien
 
 ![](kpcr5.png)
 
-**Nota:** Las cuentas que genera el documento necesitan de un tercero para ser procesado.
+>**Nota:** Las cuentas que genera el documento necesitan de un tercero para ser procesado.
 
 Para crear el tercero clic ![](cr.png) modificar registro. 
 

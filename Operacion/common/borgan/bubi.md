@@ -85,7 +85,7 @@ Seguidamente, en el campo _Tipo de Precio_ seleccionaremos de la lista desplegab
 
 ![](bubi7.png)
 
-_**Nota:**_ Si los campos  _Punto de Venta_, _Pos_ y _TypePriceDepend_  no están debidamente parametrizados como se describió anteriormente, el sistema retornará el tipo de precio parametrizado en la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
+>**Nota:** Si los campos  _Punto de Venta_, _Pos_ y _TypePriceDepend_  no están debidamente parametrizados como se describió anteriormente, el sistema retornará el tipo de precio parametrizado en la opción [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/common/btercer/bter).  
 
 
 Definido el Tipo de Precio, continuaremos a verificar dicha parametrización en cualquiera de las aplicaciones nombradas anteriormente _GFAC, JFAC_ y _JVEN_. Para este ejemplo consultaremos la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac).  

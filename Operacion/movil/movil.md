@@ -2176,7 +2176,7 @@ Con base en estos ajustes, en la aplicación COPR – Pedidos retenidos, se evid
 
 ![](copr1.png)  
 
-**Nota:** Dependiendo del proceso por el cual haya sido retenido el pedido, en la aplicación **COPR** - Pedidos retenidos se puede dejar un comentario especificando dicho motivo, para que el vendedor pueda identificar, por ejemplo, por qué el pedido fue devuelto o rechazado.  
+>**Nota:** Dependiendo del proceso por el cual haya sido retenido el pedido, en la aplicación **COPR** - Pedidos retenidos se puede dejar un comentario especificando dicho motivo, para que el vendedor pueda identificar, por ejemplo, por qué el pedido fue devuelto o rechazado.  
 
 ![](copr2.png)  
 

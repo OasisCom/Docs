@@ -17,7 +17,7 @@ editable: si
 * Instancia 5: CE, DB etc.  
 
 
-**Nota:** 4, 5 puede ser QMOVO, PMOV, CMOV, TMOV, TMEN etc.  
+>**Nota:** 4, 5 puede ser QMOVO, PMOV, CMOV, TMOV, TMEN etc.  
  ejemplo: comprobantes de egreso, cuentas por pagar, notas crédito, recibos de caja entre otros.  
 
 **Proceso:** Opción para visualizar cruces presupuestales. No existe botones de cruces.

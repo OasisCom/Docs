@@ -107,7 +107,8 @@ Como el pedido era de 10 camisas, el CIF calculado será de $35.000. La contabil
 
 ### [**Asignación de bodega a mercancía entrante**](http://docs.oasiscom.com/Operacion/mrp/control/lcontrol/lord#asignación-de-bodega-a-mercancía-entrante)
 
-En la pestaña _"Inputs"_ del detalle de la aplicación **LORD** se encuentra el campo **Bodega**, el cual permite hacer la entrada de la mercancía a la bodega que se indique en este campo. **Nota:** si la bodega ingresada es la 0, se tomará la bodega del campo **UbicaciónDestino** del maestro.  
+En la pestaña _"Inputs"_ del detalle de la aplicación **LORD** se encuentra el campo **Bodega**, el cual permite hacer la entrada de la mercancía a la bodega que se indique en este campo. 
+> **Nota:** si la bodega ingresada es la 0, se tomará la bodega del campo **UbicaciónDestino** del maestro.  
 
 ![](lord19.png)
 

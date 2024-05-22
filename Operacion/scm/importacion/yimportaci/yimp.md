@@ -24,7 +24,7 @@ En la aplicación BDOC - Documentos es necesario parametrizar el documento _IM -
 
 ![](yimp.png)
 
-**_Nota:_** El campo _ORDEN_ es de gran importancia asignarlo, dado que es el que define el orden de ejecución de los conceptos.  
+>**Nota:** El campo _ORDEN_ es de gran importancia asignarlo, dado que es el que define el orden de ejecución de los conceptos.  
 
 
  * [**BCON - Conceptos**](http://docs.oasiscom.com/Operacion/common/bsistema/bcon)  
@@ -135,7 +135,7 @@ En la siguiente pestaña del detalle podremos ver el cálculo de los conceptos p
 
 ![](yimp13.png)
 
-**_Nota:_** Si se requiere modificar algún dato del maestro, es necesario volver a dar click en el botón _**Liquidación Importación**_.  
+>**Nota:** Si se requiere modificar algún dato del maestro, es necesario volver a dar click en el botón _**Liquidación Importación**_.  
 
 Verificada la información, es decir, cuando ya se esté seguro o ya tengamos los documentos o estén contabilizados, por ejemplo, factura del proveedor, gastos de transporte y seguros (que son los primeros en llegar; los demás se pueden ir calculando de acuerdo al histórico) tanto del maestro como del detalle se puede imprimir o proceder a procesar el documento IM.  
 

@@ -211,7 +211,7 @@ En el BARC, se realiza la parametrización del archivo de acuerdo con la estruct
 
 ![](Imagen 4 barc.png)
 
-**Nota:** El archivo *ACX,* que se conoce viene separado por coma (,) y cada segmento tiene un significado.
+>**Nota:** El archivo *ACX,* que se conoce viene separado por coma (,) y cada segmento tiene un significado.
 
 ![](Imagen 5 barc.png)
 

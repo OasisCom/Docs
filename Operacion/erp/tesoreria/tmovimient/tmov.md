@@ -136,7 +136,7 @@ El sistema nos genera automáticamente unas cuentas, estas son sugeridas por el 
 
 Estas cuentas sugeridas las podemos modificar o podemos agregar registros, dependiendo el tipo de transacción que se requiera realizar. 
 
-**Nota:** La cuenta Banco no se debe modificar,  ya que esta se encuentra relacionada directamente a la ubicación, si se desea cambiar esta cuenta el sistema nos va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación con la que estamos creando el documento.
+>**Nota:** La cuenta Banco no se debe modificar,  ya que esta se encuentra relacionada directamente a la ubicación, si se desea cambiar esta cuenta el sistema nos va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación con la que estamos creando el documento.
 
 Luego de causar una factura a proveedor, se realiza un cruce en el campo *DocDocumento* 
 
@@ -219,7 +219,7 @@ Luego de llenar los campos correspondientes, guardamos los cambios. ![](guardar.
 De acuerdo con la parametrización que se realiza previamente en el básico de plantillas, el sistema nos sugiere unas cuentas, estas cuentas sugeridas se pueden modificar u obtener más registros, dependiendo el tipo de transacción que se requiera realizar.  
 ![](caja2.png)
 
-**Nota:** La cuenta Banco no se debe modificar,  ya que se encuentra relacionada directamente a la ubicación con la que se está creando el documento, si se desea cambiar esta cuenta, el sistema va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación del documento.
+>**Nota:** La cuenta Banco no se debe modificar,  ya que se encuentra relacionada directamente a la ubicación con la que se está creando el documento, si se desea cambiar esta cuenta, el sistema va a generar un mensaje de control indicando que la cuenta contable no corresponde a la ubicación del documento.
 
 En la cuenta por cobrar que se requiere cancelar, o se recibe el dinero, en el campo *DocDocumento* se selecciona la factura que se va a cancelar. ![](aceptar.png)  
 
@@ -262,7 +262,7 @@ Cuando se indica la cuenta de destino y la cuenta de origen, el sistema automát
 
 ![](tesoreria2.png)
 
-**Nota:** Estas cuentas van relacionadas a las ubicaciones que se ingresaron previamente, por lo que en el detalle no se deben cambiar.  
+>**Nota:** Estas cuentas van relacionadas a las ubicaciones que se ingresaron previamente, por lo que en el detalle no se deben cambiar.  
 
 ![](tesoreria3.png)
 

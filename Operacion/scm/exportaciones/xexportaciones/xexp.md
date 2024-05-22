@@ -44,12 +44,12 @@ En los campos _Documento1, Ubicación1 y Número1_ relacionaremos el pedido para
 **País de Envío:** se debe ingresar el país de envío del producto.   
 **País de Destino:** se debe ingresar el país de destino del producto.  
 
-_**Nota:** estos últimos campos cuentan con zoom de ayuda para seleccionar el país. Retornarán el id del país elegido._  
+>**Nota:** estos últimos campos cuentan con zoom de ayuda para seleccionar el país. Retornarán el id del país elegido._  
 
 **Puerto de Envío:** se debe ingresar el puerto de envío del producto.  
 **Puerto de Destino:** se debe ingresar el puerto de destino del producto.  
 
-_**Nota:** estos campos son abiertos para el usuario._  
+>**Nota:** estos campos son abiertos para el usuario._  
 
 **Referencia1:** corresponde al número de la reserva. Este campo es abierto para el usuario.  
 
