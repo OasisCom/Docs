@@ -10,18 +10,16 @@ editable: si
 Los niveles de stock y el cálculo de los mismos permiten a la empresa saber cómo se comporta la mercancía, los niveles de rotación y consumo para tener unas políticas más eficientes en la labor de ventas, por ejemplo, saber con certeza como mover mercancía entre diferentes ubicaciones. El cálculo de niveles de stock puede realizarse a nivel de empresa o por ubicaciones (bodegas).
 
 
-* [**Parametrización**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#parametrización) 
->* [**Conceptos de Consumo IBCC**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#conceptos-de-consumo-ibcc)
->* [**Clasificación ABC - BABC**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#clasificación-abc---babc)
-
-* [**Niveles de Stock INCN**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#niveles-de-stock-incn)
->* [**Calculo de Niveles de Stock**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#calculo-de-niveles-de-stock)
-
-* [**Consultas**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#consultas)
->* [**Niveles por Bodega INBO**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#niveles-por-bodega-inbo)
->* [**Saldo Periódico por Producto ISSP**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#saldo-periódico-por-producto-issp)
->* [**Saldos Periódicos por Bodega ISPB**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#saldos-periódicos-por-bodega-ispb)
->* [**Reportes**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#reportes)
+- [**Parametrización**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#parametrización) 
+- [**Conceptos de Consumo IBCC**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#conceptos-de-consumo-ibcc)
+- [**Clasificación ABC - BABC**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#clasificación-abc---babc)
+- [**Niveles de Stock INCN**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#niveles-de-stock-incn)
+- [**Calculo de Niveles de Stock**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#calculo-de-niveles-de-stock)
+- [**Consultas**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#consultas)
+- [**Niveles por Bodega INBO**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#niveles-por-bodega-inbo)
+- [**Saldo Periódico por Producto ISSP**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#saldo-periódico-por-producto-issp)
+- [**Saldos Periódicos por Bodega ISPB**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#saldos-periódicos-por-bodega-ispb)
+- [**Reportes**](http://docs.oasiscom.com/Operacion/scm/inventarios/inivel/incn#reportes)
 
 
 

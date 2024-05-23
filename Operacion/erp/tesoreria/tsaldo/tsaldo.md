@@ -11,6 +11,6 @@ Este submódulo permite la consulta de los saldos en línea de las cajas y de la
 
 La aplicación que se utiliza es:  
 
->* [**TSSP**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tsaldo/tssp)	- Saldos de tesorería
->* [**TSSE**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tsaldo/tsse) - Saldos por empresa
+- [**TSSP**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tsaldo/tssp)	- Saldos de tesorería
+- [**TSSE**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tsaldo/tsse) - Saldos por empresa
 
