@@ -9,8 +9,8 @@ editable: si
 
 Pantalla maestra que sirve para adicionar, modificar y consultar las diferentes cotizaciones que ha elaborado la empresa a los clientes. Para ello el cliente debe estar creado previamente en la básica o maestro de terceros, no se pueden realizar cotizaciones a clientes que no existan o que no se le contengan sus datos básicos.
 
-- [**Cálculo de precio bajo márgenes**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cálculo-de-precio-bajo-márgenes)
-- [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#itemchanged-campos-precio-y-porcentaje-de-descuento)  
+- [**Cálculo de precio bajo márgenes**](#cálculo-de-precio-bajo-márgenes)
+- [**Itemchanged campos Precio y Porcentaje de Descuento**](#itemchanged-campos-precio-y-porcentaje-de-descuento)  
 - [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vcot#cómo-relacionar-un-pedido-a-una-cotización)
 
 

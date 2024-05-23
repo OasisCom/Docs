@@ -7,8 +7,8 @@ editable: si
 
 # Publicaciones - BPUB
 
-- [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-xml)
-- [Parametrización ACX](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-acx)
+- [Parametrización XML](#parametrización-xml)
+- [Parametrización ACX](#parametrización-acx)
 
 ## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/bpub#parametrización-xml)
 
