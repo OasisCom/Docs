@@ -16,12 +16,12 @@ editable: si
 
 
 
->+ [**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
+- [**Cómo relacionar una orden de compra con una factura**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#cómo-relacionar-una-orden-de-compra-con-una-factura)
 
->+ [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#precio-unitario-en-orden-de-compra)
+- [**Precio unitario en orden de compra**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#precio-unitario-en-orden-de-compra)
 
 
->+ [**Generación código de barras**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#generación-código-de-barras)
+- [**Generación código de barras**](http://docs.oasiscom.com/Operacion/scm/compras/oorden/oord#generación-código-de-barras)
 
 
 En la sección maestro de la aplicación, permite realizar el registro y control de las órdenes de compra.  

@@ -13,12 +13,12 @@ Contablemente sus contrapartidas son cartera contra el gasto. En las legalizacio
 
 No olvide ingresar el tercero responsable, se manejan dos tipos de documentos un **VI - VIAJES ANTICIPO; VL - VIAJES LEGALIZACIÓN**.
 
->+ [BDOC Documentos Viáticos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
->+ [Parametrización características - Legalización Viáticos](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
->+ [Asignación de Categoría a los Colaboradores](http://docs.oasiscom.com/Operacion/common/btercer/bter#asignación-de-categoría-a-los-colaboradores)
->+ [Plantillas Viáticos](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#plantillas-viáticos)
->+ [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
->+ [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
+- [BDOC Documentos Viáticos](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
+- [Parametrización características - Legalización Viáticos](http://docs.oasiscom.com/Operacion/common/bcomer/bcrc#parametrización-características---legalización-viáticos)
+- [Asignación de Categoría a los Colaboradores](http://docs.oasiscom.com/Operacion/common/btercer/bter#asignación-de-categoría-a-los-colaboradores)
+- [Plantillas Viáticos](http://docs.oasiscom.com/Operacion/common/bcuenta/bpla#plantillas-viáticos)
+- [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
+- [VL - Legalización Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vl---legalización-viáticos)
 
 ## [VI - Anticipo Viáticos](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/tvia#vi---anticipo-viáticos)
 
@@ -82,9 +82,9 @@ Recuerde que este documento se realiza por la ubicación que haya sido designada
 
 En el maestro se relacionan los siguientes campos:
 
->+ RequiresTicket.  
->+ RequiresHotel.  
->+ 'FechaOriginal' y 'ExpireDate'.  
+- RequiresTicket.  
+- RequiresHotel.  
+- 'FechaOriginal' y 'ExpireDate'.  
 
 *Funcionabilidad:  para que en la solicitud de los viáticos el solicitante pueda registrar si requiere tiquetes, hotel y editar fechas de la estadía del hotel.*  
 

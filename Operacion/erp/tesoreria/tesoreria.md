@@ -11,10 +11,10 @@ El módulo de tesorería permite las operaciones de flujo de efectivo y de optim
 
 Los submódulos que maneja para su operación son los siguientes:  
 
->* [**Datos Básicos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tbasica)  
->* [**Saldos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tsaldo)  
->* [**Movimientos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient)  
->* [**Conciliación**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tconciliac)  
->* [**Procesos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tconciliac)  
->* [**Reportes**](http://docs.oasiscom.com/Operacion/erp/tesoreria/treporte)  
+- [**Datos Básicos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tbasica)  
+- [**Saldos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tsaldo)  
+- [**Movimientos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient)  
+- [**Conciliación**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tconciliac)  
+- [**Procesos**](http://docs.oasiscom.com/Operacion/erp/tesoreria/tconciliac)  
+- [**Reportes**](http://docs.oasiscom.com/Operacion/erp/tesoreria/treporte)  
 

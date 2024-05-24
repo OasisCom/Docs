@@ -7,9 +7,9 @@ editable: si
 
 ## Archivos - BARC
 
->+ [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
->+ [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
->+ [Parametrización ACX]((http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-acx)
+- [Carga de imágenes al MarketPlace](http://docs.oasiscom.com/Operacion/utility/barchi/barc#carga-de-imágenes-al-marketplace)
+- [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
+- [Parametrización ACX]((http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-acx)
 
 
 ## [Parametrización XML](http://docs.oasiscom.com/Operacion/utility/barchi/barc#parametrización-xml)
@@ -211,7 +211,7 @@ En el BARC, se realiza la parametrización del archivo de acuerdo con la estruct
 
 ![](Imagen 4 barc.png)
 
-**Nota:** El archivo *ACX,* que se conoce viene separado por coma (,) y cada segmento tiene un significado.
+> **Nota:** El archivo *ACX,* que se conoce viene separado por coma (,) y cada segmento tiene un significado.
 
 ![](Imagen 5 barc.png)
 

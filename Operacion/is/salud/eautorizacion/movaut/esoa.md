@@ -9,10 +9,10 @@ editable: si
 # ESOA - Solicitud de Autorizaciones
 
 
->+ [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
->+ [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
->+ [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
->+ [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-eaut---autorizaciones)
+- [Solicitud de Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#solicitud-de-autorizaciones)
+- [Detalle aplicación ESOA](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-esoa)
+- [Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#autorizaciones)
+- [Detalle aplicación EAUT - Autorizaciones](http://docs.oasiscom.com/Operacion/is/salud/eautorizacion/movaut/esoa#detalle-aplicación-eaut---autorizaciones)
 
 
 Se documenta, como está el proceso de la solicitud de autorización.  
@@ -137,7 +137,7 @@ El usuario de la EPS que diligencia la autorización selecciona al prestador o I
 
 En el campo *“Cantidad”* indicar la cantidad de veces que se autoriza el servicio. En caso de que el afiliado corresponda al régimen subsidiado, se debe ingresar el valor del copago y seleccionar de la lista desplegable *“Copago”* la opción que corresponda.
 
-**Nota:** se pueden autorizar varios servicios para una misma IPS en el mismo documento de autorización, pero no se pueden autorizar varios servicios en diferentes IPS, en este caso, cada servicio se debe autorizar por un documento AS diferente.
+> **Nota:** se pueden autorizar varios servicios para una misma IPS en el mismo documento de autorización, pero no se pueden autorizar varios servicios en diferentes IPS, en este caso, cada servicio se debe autorizar por un documento AS diferente.
 El copago es calculado de forma automática para los afiliados que sean régimen subsidiado, en caso de ser contributivo se calculará la cuota moderadora.
 
 Es posible adjuntar al documento AS los archivos que correspondan para la autorización del servicio.

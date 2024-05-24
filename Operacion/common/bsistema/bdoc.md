@@ -15,15 +15,15 @@ Todo el sistema y los módulos basan su operación en una serie de documentos qu
 
 **Menú**
 
->+ [**BDOC Documentos Viáticos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
->+ [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
->+ [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
->+ [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
->+ [**Parametrización de formatos de impresión para facturas**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
->+ [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
->+ [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
->+ [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
->+ [**Parametrización Proceso de Costeo**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-de-costeo)
+- [**BDOC Documentos Viáticos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#bdoc-documentos-viáticos)
+- [**Inventario Periódico**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#inventario-periódico)
+- [**Parametrización de Fletes**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-fletes)
+- [**Parametrización de formatos de impresión**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión)
+- [**Parametrización de formatos de impresión para facturas**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-de-formatos-de-impresión-para-facturas)
+- [**Secuencia de Consecutivos**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#secuencia-de-consecutivos)
+- [**Parametrización proceso análisis de calidad**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-análisis-de-calidad)
+- [**Parametrización archivo ACX**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-archivo-acx)
+- [**Parametrización Proceso de Costeo**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc#parametrización-proceso-de-costeo)
 
 
 Estos documentos son definidos al iniciar el sistema y no se pueden eliminar ni actualizar. Se debe tener en cuenta los siguientes tips.  

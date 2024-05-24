@@ -12,21 +12,21 @@ Este manual mostrará el proceso para conciliar las tarjetas de crédito que tie
 Para poder realizar el proceso de conciliación se debe tener en cuenta lo siguiente:  
 
 * [**Parametrización**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#parametrizacion)  
->+ [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bter---terceros)  
->+ [**BBAN - Bancos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bban---bancos)  
->+ [**TBBC - Conceptos de Bancos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#tbbc---conceptos-de-bancos)  
->+ [**BUBI - Ubicación Organización**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bubi---ubicación-organización)  
->+ [**BGRU - Grupo contable**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconbgru---grupo-contable)  
->+ [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconbdoc---documentos)  
->+ [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconbpla---plantillas)  
->+ [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bint---interfaces)  
->+ [**PCON - Conciliación**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconpcon---conciliación)
+- [**BTER - Terceros**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bter---terceros)  
+- [**BBAN - Bancos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bban---bancos)  
+- [**TBBC - Conceptos de Bancos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#tbbc---conceptos-de-bancos)  
+- [**BUBI - Ubicación Organización**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bubi---ubicación-organización)  
+- [**BGRU - Grupo contable**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconbgru---grupo-contable)  
+- [**BDOC - Documentos**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconbdoc---documentos)  
+- [**BPLA - Plantillas**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconbpla---plantillas)  
+- [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bint---interfaces)  
+- [**PCON - Conciliación**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconpcon---conciliación)
 
 
 * [**PROCESO**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#proceso)  
->+ [**PCON - Conciliación**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#pcon---conciliación)  
->+ [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bint---interfaces)  
->+ [**PCON - Conciliación**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconpcon---conciliación)  
+- [**PCON - Conciliación**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#pcon---conciliación)  
+- [**BINT - Interfaces**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pcon#bint---interfaces)  
+- [**PCON - Conciliación**](http://docs.oasiscom.com/Operacion/erp/cuentas/pconciliac/pconpcon---conciliación)  
 
 
 

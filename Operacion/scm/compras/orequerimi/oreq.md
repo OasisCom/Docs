@@ -10,7 +10,7 @@ editable: si
 La aplicación **OREQ** requerimientos de compras; puede ser emitida por cualquier área de la empresa tal como: Producción, Marketing, Almacén, Logística, etc.  
 Este documento es interno por lo que no debe ser utilizado como Orden de Compra.  
 
->+ [**Cómo hacer un requerimiento una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotización-y-relacionarlos)
+- [**Cómo hacer un requerimiento una cotización y relacionarlos**](http://docs.oasiscom.com/Operacion/scm/compras/orequerimi/oreq#cómo-hacer-un-requerimiento-una-cotización-y-relacionarlos)
 
 Como muchas de las aplicaciones de OasisCom, esta se encuentra dividida en secciones: maestro y detalle; el maestro permite el registro del encabezado de los requerimientos hechos por la empresa; la parte inferior se divide en pestañas: Detalle, Distribución y Presupuesto.
 

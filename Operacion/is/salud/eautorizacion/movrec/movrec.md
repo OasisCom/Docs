@@ -48,7 +48,7 @@ Igualmente, al procesar el documento NR (No recobro tutela-CTC), el sistema gene
 
 ![](eitra12.png)  
 
-Nota: Para poder procesar los anteriores documentos generados en ERET, estos deben estar previamente parametrizados en BPLA.  
+> **Nota:** Para poder procesar los anteriores documentos generados en ERET, estos deben estar previamente parametrizados en BPLA.  
 
 Parametrización de factura de venta por concepto de Tutelas: documento FC por concepto TU.  
 

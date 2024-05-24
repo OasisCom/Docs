@@ -13,11 +13,11 @@ La aplicación **MJFAC** permite crear facturas por la compra de productos selec
 
 + [Creación de terceros mediante MJFAC](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#creación-de-terceros-mediante-mjfac)
 + [Funcionalidades en MJFAC](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#funcionalidades-en-mjfac)
->+ [Seleccionar caracteristica del producto](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#seleccionar-caracteristica-del-producto)
->+ [Búsqueda de terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#búsqueda-de-terceros)
->+ [Zoom de Documento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-de-documento)
->+ [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-documentos)
->+ [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar)
+- [Seleccionar caracteristica del producto](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#seleccionar-caracteristica-del-producto)
+- [Búsqueda de terceros](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#búsqueda-de-terceros)
+- [Zoom de Documento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-de-documento)
+- [Zoom para relacionar documentos](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#zoom-para-relacionar-documentos)
+- [Botón Buscar](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#botón-buscar)
 + [Modificación de Precio y Descuento](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#modificación-de-precio-y-descuento)
 + [Productos disponibles por LOTE y SERIAL](http://docs.oasiscom.com/Operacion/scm/pos/jcajero/mjfac#productos-disponibles-por-lote-y-serial)
 

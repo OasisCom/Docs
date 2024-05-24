@@ -10,6 +10,7 @@ twitter_username: oasiscom
 github_username: oasiscom
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 google_analytics: UA-58678143-8
 
 # Build settings

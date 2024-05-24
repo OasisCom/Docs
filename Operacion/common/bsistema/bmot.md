@@ -9,14 +9,14 @@ editable: si
 
 La aplicación **BMOT** permite el registro de los diferentes motivos por los cuales se pueden generar documentos. Documentos y conceptos previamente parametrizados en **BDOC** y **BCON** respectivamente.  
 
->+ [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
->+  [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
->+ [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
->+ [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
->+ [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
->+ [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos)
->+ [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
->+ [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
+- [Parametrización Anexos EEMOV](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-anexos-eemov)
+-  [Creación formularios](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#creación-formularios)
+- [Parametrización zoom formularios dinámicos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-zoom-formularios-dinámicos)
+- [Parametrización formularios dinámicos opción AANA - Análisis de Calidad](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-formularios-dinámicos-opción-aana---análisis-de-calidad)
+- [Parametrización de Adjuntos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-de-adjuntos)
+- [Movimientos de activos fijos](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#movimientos-de-activos-fijos)
+- [Prestaciones económicas](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#prestaciones-económicas)
+- [Parametrización archivo ACX](http://docs.oasiscom.com/Operacion/common/bsistema/bmot#parametrización-archivo-acx)
 
 
 ![](bmot1.png)

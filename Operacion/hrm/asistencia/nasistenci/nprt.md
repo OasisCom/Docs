@@ -15,7 +15,7 @@ Al guardar el movimiento se ejecuta el proceso de asignación día a día del ho
 
 ![](nprt1.png)
 
-**_Nota:_** si el rol está con el turno _no activo_ este dejará iniciar sesión normalmente.  
+> **Nota:** si el rol está con el turno _no activo_ este dejará iniciar sesión normalmente.  
 
 Tampoco es necesario realizar programación para todos los empleados, únicamente los que tengan turnos rotativos.  
 

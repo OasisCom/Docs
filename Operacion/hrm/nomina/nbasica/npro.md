@@ -15,6 +15,6 @@ Se aconseja programar las nóminas de Vacaciones, Liquidación Definitiva y Norm
 ![](npro1.png)
 
 
-_Nota: La programación de las nóminas especiales como cesantías, intereses de cesantías y primas se hace en esta misma opción, indicando los parámetros en las fechas. Una vez programada la nómina en el NPRO se genera de igual manera que una nómina normal en la opción NGEN con los parámetros programa y tercero._
+> **Nota:** La programación de las nóminas especiales como cesantías, intereses de cesantías y primas se hace en esta misma opción, indicando los parámetros en las fechas. Una vez programada la nómina en el NPRO se genera de igual manera que una nómina normal en la opción NGEN con los parámetros programa y tercero._
 
 

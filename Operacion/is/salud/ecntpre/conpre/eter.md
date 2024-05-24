@@ -8,7 +8,7 @@ editable: si
 
 # Prestadores - ETER
 
->+ [Detalle de la aplicación ETER - Prestadores](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/conpre/eter#detalle-de-la-aplicación-eter---prestadores)
+- [Detalle de la aplicación ETER - Prestadores](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/conpre/eter#detalle-de-la-aplicación-eter---prestadores)
 
 La aplicación **ETER - Prestadores,** nos muestra sugerencias de servicios que tiene habilitado el prestador.
 

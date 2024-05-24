@@ -9,7 +9,7 @@ editable: si
 
 Esta aplicación permite la consulta de las cotizaciones pendientes que se encuentran por confirmar.  
 
->* [Terminación de cotizacion](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vpcp#terminación-de-cotizacion)
+- [Terminación de cotizacion](http://docs.oasiscom.com/Operacion/scm/ventas/vcotizacio/vpcp#terminación-de-cotizacion)
 
 ![](vpcp1.png)
 

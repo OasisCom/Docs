@@ -137,7 +137,7 @@ Los campos _**documento**_ y _**número**_ serán diligenciados por el sistema y
 **Desplega el siguiente zoom, con los pedidos pendientes por recolección.**  
 ![](eitra27.png)  
 
-Nota:  El campo **Empaque** hace referencia a si un pedido debe pasar por zona de empaque o no. Si debe pasar por zona de empaque, debe tener el check activado.  
+> **Nota:** El campo **Empaque** hace referencia a si un pedido debe pasar por zona de empaque o no. Si debe pasar por zona de empaque, debe tener el check activado.  
 
 Ingresamos los anteriores campos, damos click en _Guardar_. Inmediatamente el sistema arrojará un mensaje de control informando el número del registro. Como se ilustra en la parte superior.  
 

@@ -9,7 +9,7 @@ editable: si
 
 La aplicación IMRE permite registrar la mercancía que se recepciona, tanto quien la transporta como las remisiones que contenga el viaje.  
 
->+ [**Creación y recepción de micro lotes**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imre#creación-y-recepción-de-micro-lotes)
+- [**Creación y recepción de micro lotes**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imre#creación-y-recepción-de-micro-lotes)
 
 
 ![](imre.png)

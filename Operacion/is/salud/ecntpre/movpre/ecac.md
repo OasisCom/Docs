@@ -7,7 +7,7 @@ editable: si
 
 # Ajustes contratos prestación - ECAC
 
->+ [Detalle de la aplicación ECAC – Ajustes Contratos Prestación](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecac#detalle-de-la-aplicación-ecac---ajustes-contratos-prestación)
+- [Detalle de la aplicación ECAC – Ajustes Contratos Prestación](http://docs.oasiscom.com/Operacion/is/salud/ecntpre/movpre/ecac#detalle-de-la-aplicación-ecac---ajustes-contratos-prestación)
 
 Este manual le explica cómo realizar múltiples modificaciones al contrato.  Sirve tanto para régimen contributivo como para régimen subsidiado.  La aplicación que se utiliza para hacer los ajustes a los Contratos es **ECAC – Ajustes Contratos Prestación.**
 

@@ -103,11 +103,13 @@ El botón **Factura parcial** de las admisiones es un cobro en donde no se paga 
 
 ![](gadm17.png)
 
+> **Nota:** En la aplicación de **GADM - Admisiones** se realiza un control sobre el botón de **Facturación Parcial**. Cuyo objetivo es generar una factura por cada sesión realizada. El sistema indicara con un mensaje la totalidad de facturas completas sobre las sesiones. Para esto se hacen pruebas con escenarios de admisiones generando facturas parciales hasta completar las sesiones de admisión indicando el sistema que las sesiones se facturaron totalmente.
+
 Al dar clic en botón Factura parcial el sistema genera una la factura parcial en la aplicación [GFAC – FACTURAS](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) y en el detalle el sistema muestra cuantas sesiones se han facturado.
 
 ![](gadm18.png)
 
-**Nota**: Es importante que la admisión este en estado activo si aun se encuentra vigente, de lo contrario el sistema no lo tendrá en cuenta.
+> **Nota:** Es importante que la admisión este en estado activo si aun se encuentra vigente, de lo contrario el sistema no lo tendrá en cuenta.
 
 ![](gadm19.png)
 
@@ -129,9 +131,9 @@ En el [GCON - Consultas](https://docs.oasiscom.com/Operacion/is/hospital/gconsul
 
 ![](gadm21.png)
 
-**OPCIÓN:** Si se requiere descontar de otro producto, se realiza en la misma consulta, la cantidad que se desee y nuevamente se procesa la consulta y el sistema genera la factura.
+*OPCIÓN:* Si se requiere descontar de otro producto, se realiza en la misma consulta, la cantidad que se desee y nuevamente se procesa la consulta y el sistema genera la factura.
 
-**NOTA:** En el detalle, en el campo **FACTURA**, debe de estar el check desactivado, solo cuando tiene una admisión. Ya que el sistema internamente cuando se crea la admisión, vincula que tiene una admisión prevista por el servicio elegido, por ende, no deja procesar si el check está activo, y cuando se escoge la admisión, pero no se indica que tiene el servicio, automáticamente se activa el check. 
+> **Nota:** En el detalle, en el campo **FACTURA**, debe de estar el check desactivado, solo cuando tiene una admisión. Ya que el sistema internamente cuando se crea la admisión, vincula que tiene una admisión prevista por el servicio elegido, por ende, no deja procesar si el check está activo, y cuando se escoge la admisión, pero no se indica que tiene el servicio, automáticamente se activa el check. 
 
 ![](gadm22.png)
 
