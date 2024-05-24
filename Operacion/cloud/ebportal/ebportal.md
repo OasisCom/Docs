@@ -8,19 +8,20 @@ editable: si
 
 **Menú**  
 
-1. [Correo Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#correo-factura-electrónica)  
-2. [Código QR](http://docs.oasiscom.com/Operacion/cloud/ebportal/#código-qr)  
-3. [Adjuntos en la factura electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/#adjuntos-en-la-factura-electrónica)  
-4. [Integración de factura electronica con OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#integración-de-factura-electrónica-con-oasiscom)  
-4.1 [Archivo XML Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-xml-factura)  
-4.2 [Archivo plano Factura](http://docs.oasiscom.com/Operacion/cloud/ebportal/#archivo-plano-factura)  
-4.3 [Instructivo Integración OasisCom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#instructivo-integración-oasiscom)    
-4.4 [Proceso de Factura Electrónica en Oasiscom R3](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-oasis-r3)   
-4.5 [Proceso de Factura Electrónica en la plataforma de Oasiscom](http://docs.oasiscom.com/Operacion/cloud/ebportal/#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom)  
-4.6 [Manual Facturación Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#manual-facturación-electrónica---archivo-xml)  
-4.7 [Cargue de Factura Electrónica - Archivo XML](http://docs.oasiscom.com/Operacion/cloud/ebportal/#cargue-de-factura-electrónica---archivo-xml)   
-4.8 [Verificación de Facturas Electrónicas](http://docs.oasiscom.com/Operacion/cloud/ebportal/#verificación-de-facturas-electrónicas)  
-5. [Preguntas Frecuentes de Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/preguntasfe.pdf)  
+1. [Correo Factura Electrónica](#correo-factura-electrónica)  
+2. [Código QR](#código-qr)  
+3. [Adjuntos en la factura electrónica](#adjuntos-en-la-factura-electrónica)  
+4. [Integración de factura electronica con OasisCom](#integración-de-factura-electrónica-con-oasiscom)  
+4.1 [Archivo XML Factura](#archivo-xml-factura)  
+4.2 [Archivo plano Factura](/#archivo-plano-factura)  
+4.3 [Instructivo Integración OasisCom](#instructivo-integración-oasiscom)    
+4.4 [Proceso de Factura Electrónica en Oasiscom R3](#proceso-de-factura-electrónica-en-oasis-r3)   
+4.5 [Proceso de Factura Electrónica en la plataforma de Oasiscom](#proceso-de-factura-electrónica-en-la-plataforma-de-oasiscom)  
+4.6 [Manual Facturación Electrónica - Archivo XML](#manual-facturación-electrónica---archivo-xml)  
+4.7 [Cargue de Factura Electrónica - Archivo XML](#cargue-de-factura-electrónica---archivo-xml)   
+4.8 [Verificación de Facturas Electrónicas](#verificación-de-facturas-electrónicas)  
+5. [Preguntas Frecuentes de Factura Electrónica](http://docs.oasiscom.com/Operacion/cloud/ebportal/preguntasfe.pdf) 
+6. [Revisión de Nodos Anexo 1.9](#revisión-de-nodos-anexo-1.9) 
 
 
 
@@ -461,3 +462,7 @@ Y la información que esté guardada será la que se muestre en la factura.
 
 Para referirse a los detalles técnicos sobre la generación de los archivos xml requeridos por la Dian, y el proceso de ejecución de los mismos, favor referirse a la documentación expedida por la Dian en la siguiente dirección:  
 https://factura-electronica.dian.gov.co/documentacion-normatividad-16.html en la caja de herramientas. 
+
+## [Revisión de Nodos Anexo 1.9](#revisión-de-nodos-anexo-1.9)
+
+Según, el Anexo 1.9 (Revisión de Nodos) se configura en las aplicaciones [GFAC - Facturas](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac), [FFAC - Facturas](https://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac) Y [JFAC - Facturas](https://docs.oasiscom.com/Operacion/scm/pos/jcajero/jfac#jfac---facturas) a nivel de facturación y se puede visualizar el XML, en la aplicación  [EBFFAC - Facturas](https://docs.oasiscom.com/Operacion/ebportal/ebprestador/ebffac), para verificar y monitorear el status de la DIAN.  Adicional se le agregaron en el tipo grilla los campos Fecha Inicial y Fecha Final. 
