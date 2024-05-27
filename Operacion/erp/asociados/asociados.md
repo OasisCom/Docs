@@ -18,7 +18,7 @@ Este módulo comprende los siguientes submódulos:
 * [**Reportes**](http://docs.oasiscom.com/Operacion/erp/asociados/zreporte/)  
 * [**Aportes**](#aportes)
 * [**Préstamos**](#préstamos) 
-* [**FZMOV-Formulario de asociados**](#fzmov)
+* [**FZMOV Formulario de asociados**](#fzmov-formulario-de-asociados)
 
 Su objetivo principal es el control de los aportes hechos por los asociados y de los préstamos hechos a estos mismos. Este objetivo se logra manteniendo en línea los estados de cuenta, que son afectados por los diferentes movimientos originados en el propio módulo o en los demás subsistemas. La característica principal del módulo es que los aportes y los préstamos están en cabeza del asociado y por tanto es posible realizar en cualquier momento las consultas comparativas para tomar decisiones en cuanto a la aprobación de los préstamos y sus características. 
 
@@ -58,9 +58,9 @@ Permite imprimir el plan de amortización del préstamo.
 Permite la consulta de los préstamos pendientes en línea, con los abonos hechos históricamente. Así mismo conserva los saldos periódicos de los préstamos para la elaboración de los estados de cuenta y para la conciliación con los auxiliares de contabilidad.
 Permite generar los estados de cuenta o cuentas de cobro recordatorias para cada uno de los asociados, incluyendo la información del préstamo.
 
-## [**FZMOV-Formulario de asociados**](#fzmov) 
+## [**FZMOV Formulario de asociados**](#fzmov-formulario-de-asociados)
 
-El **FZMOV - Formulario de Asociados**, es un programa que permite crear y modificar información de asociados en una presentación tipo formulario  
+Es un programa que permite crear y modificar información de asociados en una presentación tipo formulario  
 	 
 Se ingresa a la aplicación **FZMOV – Formulario de Asociados**
  
