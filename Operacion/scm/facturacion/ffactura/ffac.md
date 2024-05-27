@@ -309,7 +309,7 @@ Posteriormente, se puede validar en la aplicación **Saldos por Localización - 
 
 ## [Facturas Electronicas Tipo Transporte](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac#facturas-electronicas-tipo-transporte)
 
-Se ingresa a la aplicación [**FFAC - Facturas**](https://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac)FFAC – Facturas y se crea la factura.
+Se ingresa a la aplicación [**FFAC - Facturas**](https://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac) y se crea la factura.
 
 **Maestro de la Factura**
 
