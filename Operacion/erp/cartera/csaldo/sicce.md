@@ -5,7 +5,7 @@ permalink: /Operacion/erp/cartera/csaldo/sicce
 editable: si
 ---
 
-# REPORTE DE SALDOS DE CREDITO
+# REPORTE DE SALDOS DE CREDITO - SICCE 
 
 Este reporte trae un detallado sobre los créditos vigentes hasta el periodo y año diligenciado.
 
