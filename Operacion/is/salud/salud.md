@@ -30,3 +30,4 @@ Todos estos procesos se integran con consultorios médicos, hospitales, centros 
 - [Aplicación de Solicitud de Referencia - EERCF](http://docs.oasiscom.com/Operacion/crm/portal/proveedor/eercf)
 - [Aplicación de Conciliación de Glosas – EEACO](http://docs.oasiscom.com/Operacion/is/salud/efactura/movaud/eeaco)
 - [Pagos - ETRPF](http://docs.oasiscom.com/Operacion/erp/tesoreria/tmovimient/etrpf)
+- [EEMOS Y EMOS](http://docs.oasiscom.com/Operacion/is/salud/eemosyemos)
