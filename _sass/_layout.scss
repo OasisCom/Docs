@@ -59,6 +59,51 @@ blockquote {
     border-left: 6px solid $main;
 	font-size: 1rem;
 }
+
+
+table {
+	font-size: 12px;
+	color: #333333;
+	width: 100%;
+	border-width: 1px;
+	border-color: #7EA23A;
+	border-collapse: collapse;
+}
+
+table th {
+	font-size: 17px;
+	background-color: #7EA23A;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7EA23A;
+	text-align: left;
+	padding: 12px 30px 12px 30px;
+	color: white;
+}
+
+table tr {
+	background-color: #ffffff;
+}
+table thead tr th {
+	text-align: center;
+}
+
+table td {
+	font-size: 14px;
+	font-family: $font-style;
+	border-width: 1px;
+	padding: 7px 20px 7px 25px;
+	border-style: solid;
+	border-color: #7EA23A;
+}
+
+table td img{
+	text-align: center;
+}
+
+// table tr:hover {
+// 	background-color: #E3F9BB;
+// }
 //------------------ Fin Estilos Generales
 
 
