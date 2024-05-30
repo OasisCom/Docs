@@ -71,7 +71,7 @@ Al abrir la aplicación, en la pestaña **_Detalle_** el sistema habrá creado u
 
 ![](gcon2.png)
 
- ## [Firma](#firma)
+ # [Firma](#firma)
 
 Se agrega una nueva funcionalidad para poder crear firmas como archivos adjuntos.
 Para poder validar el correcto funcionamiento se deben seguir las siguientes configuraciones.
