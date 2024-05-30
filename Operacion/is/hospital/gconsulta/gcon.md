@@ -29,29 +29,30 @@ La aplicación **GCON** permite visualizar y crear consultas médicas, donde se 
 
 Botones a visualizar en la barra del Maestro:
 
-![](botones.png)
 
 | **Botones** | **Descripción** |
 | --- | ----------- |
-| **Botón 1** | Agregar nueva fila. |
-| **Botón 2** | Modificar fila seleccionada. | 
-| **Boton 3** | Actualiza_Evolución_Paciente, este botón es para actualizar información de la consulta que ya se encuentra realizada. Pueden ejecutar este botón y se puede alterar la información de un campo que se encuentre por defecto de acuerdo a la parametrización ya establecida. |
-| **Botón 4** | Actualizar_Fecha - Modificar fecha del reporte solo (altera la fecha de la aplicación **GCON - Consultas**).|
-| **Botón 5:**| Evolución_Paciente - Verificación de información que se habia diligenciado anteriormente. |
-| **Botón 6**  | Dibujar la firma -  Se realiza la firma del paciente. |
-| **Botón 7** | Ultima_Consulta -  Aparece todas las consultas con el paciente, pero solo los registros de los documentos, no de la información. |
-| **Botón 8**| Procesar -  Se ejecuta para procesar el registro diligenciado. |
-| **Botón 9**| Reversar - Se ejecuta para reversar el registro.|  
-| **Botón 10** | Anular - Se ejecuta para anular el registro.|  
-|  **Botón 13** | Presentación Preliminar - Al momento de ejecutar este botón, se muestra de manera grafica el reporte que resume la consulta y da la opción si quieren imprimir en formato Excel, PDF y WORD.|  
-| **Botón 14** | Multipreview - Se pueden visualizar todos los documentos que requiera revisar y aparecen como en vista preliminar.|  
-| **Botón 15**| Impresión - Da la opción de imprimir el formato. |  
-| **Botón 16**| Botón de ayuda - donde al ejecutar este botón automaticamente el sistema se dirige a la pagina de DOCS, donde se encuentra documentado todos los procesos de OasisCom. |  
-| **Botón 17** | Refrescar Datos.| 
-| **Botón 18** | Filtro Avanzado - Poder consultar los registros que se requiera.  | 
-| **Botón 19**| Limpiar Filtros - Limpiar cualquier filtro que haya hecho y dejara en blanco para que pueda hacer nuevamente la consulta.  | 
-| **Botón 20** | Comentarios - Si requiere dejar algun comentario en un registro.| 
-| - **Botón 21** | Adjuntos - Si desea adjuntar archivos a tener en conocimiento del paciente o del proceso.| 
+| ![](boton1.png) | Agregar nueva fila. |
+| ![](boton2.png)| Modificar fila seleccionada. | 
+| ![](boton3.png)| Actualiza_Evolución_Paciente, este botón es para actualizar información de la consulta que ya se encuentra realizada. Pueden ejecutar este botón y se puede alterar la información de un campo que se encuentre por defecto de acuerdo a la parametrización ya establecida. |
+| ![](boton4.png) | Actualizar_Fecha - Modificar fecha del reporte solo (altera la fecha de la aplicación **GCON - Consultas**).|
+| ![](boton5.png)| Evolución_Paciente - Verificación de información que se habia diligenciado anteriormente. |
+| ![](boton6.png)  | Dibujar la firma -  Se realiza la firma del paciente. |
+| ![](boton7.png) | Ultima_Consulta -  Aparece todas las consultas con el paciente, pero solo los registros de los documentos, no de la información. |
+| ![](boton8.png)| Procesar -  Se ejecuta para procesar el registro diligenciado. |
+| ![](boton9.png)| Reversar - Se ejecuta para reversar el registro.|  
+| ![](boton10.png) | Anular - Se ejecuta para anular el registro.|  
+|  ![](boton11.png) | Presentación Preliminar - Al momento de ejecutar este botón, se muestra de manera grafica el reporte que resume la consulta y da la opción si quieren imprimir en formato Excel, PDF y WORD.|  
+| ![](boton12.png) | Multipreview - Se pueden visualizar todos los documentos que requiera revisar y aparecen como en vista preliminar.|  
+| ![](boton13.png)| Impresión - Da la opción de imprimir el formato. |  
+| ![](boton14.png)| Botón de ayuda - donde al ejecutar este botón automaticamente el sistema se dirige a la pagina de DOCS, donde se encuentra documentado todos los procesos de OasisCom. |  
+| ![](boton15.png)| Refrescar Datos.| 
+| ![](boton16.png) | Filtro Avanzado - Poder consultar los registros que se requiera.  | 
+| ![](boton17.png)| Limpiar Filtros - Limpiar cualquier filtro que haya hecho y dejara en blanco para que pueda hacer nuevamente la consulta.  | 
+| ![](boton18.png) | Comentarios - Si requiere dejar algun comentario en un registro.| 
+| ![](boton19.png) | Adjuntos - Si desea adjuntar archivos a tener en conocimiento del paciente o del proceso.| 
+| ![](boton20.png)| EMAIL - Si requiere enviar un correo al paciente.|
+| ![](boton21.png)| Duplicar registro.|
 
 Se visualiza la aplicación **GCON - Consultas** en donde se registran los datos. 
 
