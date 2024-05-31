@@ -19,7 +19,7 @@ La aplicación **GCON** permite visualizar y crear consultas médicas, donde se 
 
 * [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
 * [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
-* [Firma](#firma)
+* [Firmas](#firmas)
 
 
 ## [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
@@ -71,7 +71,7 @@ Al abrir la aplicación, en la pestaña **_Detalle_** el sistema habrá creado u
 
 ![](gcon2.png)
 
- ## [Firma](#firma)
+ ## [Firmas](#firmas)
 
 Se agrega una nueva funcionalidad para poder crear firmas como archivos adjuntos.
 Para poder validar el correcto funcionamiento se deben seguir las siguientes configuraciones.

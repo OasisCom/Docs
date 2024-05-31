@@ -50,5 +50,5 @@ Está integrado por las aplicaciones:
 
 * [**GREX**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/grex) - Examen Laboratorio.  
 
-
+* [**FGCON**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/fgcon) - Formulario Salud   
 

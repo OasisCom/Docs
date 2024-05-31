@@ -64,49 +64,22 @@ Es un programa que permite crear y modificar información de asociados en una pr
 	 
 Se ingresa a la aplicación **FZMOV – Formulario de Asociados**
  
-Botones a visualizar en la aplicación.
+Botones a visualizar en la aplicación:
 
-![](fzmov1.png) 
+| **Botones** | **Descripción** |
+| --- | ----------- |
+| ![](fzmov1.png)  | Guardar información y regresa a la anterior pestaña.  |
+| ![](fzmov2.png)  | Guardar información y continua a la siguiente pestaña. |
+| ![](fzmov3.png)  | Botón para finalizar el proceso..|
+| ![](fzmov4.png)| Crear Asociado: Se visualiza el formulario con datos básicos para crear consulta.|
+| ![](buscar.png) | Buscar Asociados: Busca consultas en estado Activo.|
+| ![](fzmov5.png) | Visualización de Formato: Muestra el formato de manera grafica.|
+| ![](fzmov6.png) | Impresión: Genera ventana de impresión del navegador.|
+| ![](fzmov7.png) | Refrescar formulario: Recarga formulario en caso de realizar modificaciones en la parametrización.|
+| ![](fzmov8.png) | Adjuntos: Muestra ventana para poder adjuntas archivos.|
+| ![](fzmov9.png)  | Modificar consulta: Ventana con formulario para poder editar datos del encabezado de la consulta.|
+| ![](fzmov10.png)| Firma: Ventana de escritura para realizar un firmado digital.|
 
-Guardar información y continua a la siguiente pestaña. 
-
-![](fzmov2.png) 
-
-Botón para finalizar el proceso.
-
-![](fzmov3.png) 
-
-Crear Asociado: Se visualiza el formulario con datos básicos para crear consulta.
-
-![](fzmov4.png) 
-
-Buscar Asociados: Busca consultas en estado Activo.
-
-![](buscar.png) 
-
-Visualización de Formato: Muestra el formato de manera grafica.
-
-![](fzmov5.png) 
-
-Impresión: Genera ventana de impresión del navegador.
-
-![](fzmov6.png) 
-
-Refrescar formulario: Recarga formulario en caso de realizar modificaciones en la parametrización.
-
-![](fzmov7.png) 
-
-Adjuntos: Muestra ventana para poder adjuntas archivos.
-
-![](fzmov8.png) 
-
-Modificar consulta: Ventana con formulario para poder editar datos del encabezado de la consulta.
-
-![](fzmov9.png) 
-
-Firma: Ventana de escritura para realizar un firmado digital.
-
-![](fzmov10.png) 
 
 >**Nota:** El cambio de pestañas sin ejecutar el botón NEXT es permitido, pero se debe tener en cuenta que para guardar la información diligenciada es necesario ejecutar el botón de **Next** o **Previous**.  
 
