@@ -10,19 +10,20 @@ editable: si
 La opción **GCAL - Calendario**, muestra la planeación actual de los recursos. 
 
 
-* [Agendamiento de citas por rango de fechas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#agendamiento-de-citas-por-rango-de-fechas)
-* [Creación de citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-citas-médicas)
-* [Creación de pacientes](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-pacientes)
-* [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
-* [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
-* [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
-* [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
-* [Actualización Campos de Sesiones](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#actualización-campos-de-sesiones)
-* [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integracion-oasiscom)
+* [Agendamiento de citas por rango de fechas](#agendamiento-de-citas-por-rango-de-fechas)
+* [Creación de citas Médicas](#creación-de-citas-médicas)
+* [Creación de pacientes](#creación-de-pacientes)
+* [Cancelación de Citas Médicas](#cancelación-de-citas-médicas)
+* [Pagar Cita](#pagar-cita)
+* [Generación de producto facturado](#generación-de-producto-facturado)
+* [Generación de producto mediante COPAGO](#generación-de-producto-mediante-copago)
+* [Generación de Encuestas](#generación-de-encuestas)
+* [Actualización Campos de Sesiones](#actualización-campos-de-sesiones)
+* [MICROSOFT GRAPH INTEGRACION OASISCOM](#microsoft-graph-integracion-oasiscom)
 
 
 
-## [Agendamiento de citas por rango de fechas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#agendamiento-de-citas-por-rango-de-fechas)
+## [Agendamiento de citas por rango de fechas](#agendamiento-de-citas-por-rango-de-fechas)
 
 
 Este proceso permite tener la posibilidad de agendar múltiples espacios para un rango de fechas y tiempos.
@@ -42,7 +43,7 @@ Por último, ingresar el Id del Afiliado y dar clic al botón de **‘Guardar’
 
 ![](gcal38.png)
 
-## [Creación de citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-citas-médicas)
+## [Creación de citas Médicas](#creación-de-citas-médicas)
 
 Cada registro corresponde a la disponibilidad del doctor, dependiendo la hora y el día. 
 
@@ -99,7 +100,7 @@ El paciente debe estar previamente creado en la aplicación **BTER - Terceros**,
 
 ![](gl1.png)
 
-### [Creación de pacientes](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#creación-de-pacientes)
+### [Creación de pacientes](#creación-de-pacientes)
 
 Dado el caso que el afiliado no se encuentre se creara el tercero dando clic en crear tercero.
 
@@ -166,7 +167,7 @@ Regresamos a la aplicación **GCAL** damos clic en el botón ![](cambio.png) y r
 ![](go4.png)
 
 
-## [Cancelación de Citas Médicas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#cancelación-de-citas-médicas)
+## [Cancelación de Citas Médicas](#cancelación-de-citas-médicas)
 
 En caso de que un paciente cancele una cita médica seleccionamos el paciente que va a cancelar la cita y luego damos clic ![](seleccionar.png)
 
@@ -185,7 +186,7 @@ Nos dirigimos a la aplicación **GCIT** consultamos por número de documento del
 ![](cancelar3.png) 
 
 
-## [Pagar Cita](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#pagar-cita)
+## [Pagar Cita](#pagar-cita)
 
 
 ### Opcion 1.  
@@ -217,7 +218,7 @@ Al ejecutar el botón **Copago** desplegar una ventana, donde editara el **Valor
 
 
 
-## [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-producto-facturado)
+## [Generación de producto facturado](#generación-de-producto-facturado)
 
 En la aplicación **GCAL** al momento de crear una nueva consulta mediante el botón ![](consulta.png), el sistema validará si dicho registro tiene una factura procesada por concepto del pago de la cita (cuota moredadora) en la aplicación [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) para posteriormente, crear la consulta en la aplicación [**GCON - Consultas**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado).  
 
@@ -250,8 +251,23 @@ El texto se guarda en el campo:  **observación**.
 ![](gcal22_04.png)  
 
 * Aca finaliza la funcionalidad del boton: **Procedimiento no realizado**   
+## [Generación de producto mediante COPAGO](#generación-de-producto-mediante-copago)
+Por medio de este ZOOM se podrá seleccionar el CUPS del producto de acuerdo al contrato seleccionado, para esto es necesario:
 
-## [Generación de Encuestas](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#generación-de-encuestas)
+-	Ingresar al aplicativo GCAL.
+![](gcal43.png)
+
+-	Al dar click al botón con el nombre de COPAGO se abrirá una ventana.
+![](gcal44.png)
+
+- En la ventana aparecerá un campo con el nombre de ‘código de servicio (CUPS)’.
+![](gcal45.png)
+
+- Sobre el campo **código de servicio (CUPS)** se da doble click para que el ZOOM se abra y puedan escoger el producto que necesiten.
+![](gcal46.png)
+![](gcal47.png)
+
+## [Generación de Encuestas](#generación-de-encuestas)
 
 Para poder visualizar el botón de **Generar Encuesta** en la aplicación **GCAL - Calendario**, se debe llevar a cabo la parametrización desde la aplicación [**SCAM - Campos**](https://docs.oasiscom.com/Operacion/system/sconfig/scam). Para ejecutar el proceso de generación de encuestas se ingresa al **GCAL – Calendario** donde el sistema permite la generación, es importante que la cita se encuentre es estatus diferente a **libre**.
 
@@ -277,7 +293,7 @@ Cuando el paciente diligencia la encuesta enviada al correo electrónico, esta q
 
 ![](gcal34.png)
 
-## [Actualización Campos de Sesiones](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#actualización-campos-de-sesiones)
+## [Actualización Campos de Sesiones](#actualización-campos-de-sesiones)
 
 Se selecciona un registro y al dar click en el botón Actualizar_campos genera un zoom donde permite modificar la Fecha de sesión y Cantidad de sesión de acuerdo a la indicación del profesional.
 
@@ -288,7 +304,7 @@ Se selecciona un registro y al dar click en el botón Actualizar_campos genera u
 Estos campos son usados en los procesos de generación de facturas, generación de admisiones, generación de consultas entre otros.
 
 
-## [MICROSOFT GRAPH INTEGRACION OASISCOM](http://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal#microsoft-graph-integracion-oasiscom)
+## [MICROSOFT GRAPH INTEGRACION OASISCOM](#microsoft-graph-integracion-oasiscom)
 
 Es una API de Microsoft, la cual realiza todos los procesos de sincronización de :
 
