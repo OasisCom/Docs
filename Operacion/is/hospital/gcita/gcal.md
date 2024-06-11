@@ -20,6 +20,7 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 * [Generación de Encuestas](#generación-de-encuestas)
 * [Actualización Campos de Sesiones](#actualización-campos-de-sesiones)
 * [MICROSOFT GRAPH INTEGRACION OASISCOM](#microsoft-graph-integracion-oasiscom)
+* [Creación de Consentimientos Informados](#creación-de-consentimientos-informados)
 
 
 
@@ -27,28 +28,65 @@ La opción **GCAL - Calendario**, muestra la planeación actual de los recursos.
 
 
 Este proceso permite tener la posibilidad de agendar múltiples espacios para un rango de fechas y tiempos.
-Para esto se debe ingresar a la aplicación **Calendario – GCAL**, buscar por fecha agenda deseada o previamente generada **Generar Calendario – GPGA**.
-
-![](gcal35.png)
+Para esto se debe ingresar a la aplicación **Calendario – GCAL**, buscar por fecha agenda deseada o previamente generada [**GPGA- Generar Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpga).
 
 Luego se debe tomar una de las opciones y se debe dar clic al botón con el nombre de **‘Crear Cita’**.
 
-![](gcal36.png)
+![](gcal35.png)
+
 
 Al realizar este procedimiento se encontrará un cuadro en el cual se debe ingresar la fecha final, dar clic en el recuadro con el nombre de **‘Recurrente’**, ingresar la información entidad, tipo de consulta y motivo consulta.
 
 ![](gcal37.png)
 
-Por último, ingresar el Id del Afiliado y dar clic al botón de **‘Guardar’**.
+En el campo **Entidad**, se indica la entidad por la cual se prestara el servicio al paciente:  
 
-![](gcal38.png)
+![](gcalentidad.png)
+
+Tipo de Consulta: se selecciona la opción según corresponda. 
+
+- Control
+- Consulta
+- Tipo de procedimiento que requiere el paciente
+
+![](gcalconsulta.png)
+
+**Motivo de Consulta:** se selecciona la información según corresponda de acuerdo con el tipo de consulta seleccionado.
+
+![](gcalmov.png)
+
+Datos Afiliado: se debe indicar el número de documento del paciente.
+
+![](gcalid.png)
+
+En caso de que el paciente no se encuentre creado en la base de datos de la aplicación, se puede generar la creación dentro de la opción Id Afiliado, clic derecho y selecciona la opción **“Crear Afiliado”**
+
+![](gcalcrear.png)
+
+El sistema mostrara una ventana emergente. 
+
+![](gcalfor.png)
+
+En el primer campo de consulta se puede buscar al paciente para confirmar si está creado o no. Se puede realizar digitando nombre del paciente o número de documento.
+
+Si el paciente no se está creado, en la ventana que se visualiza se encuentra un botón verde nombrado **Nuevo Cliente** ![](gcalbotonverde.png)  que al seleccionarlo se habilitan todos los campos, donde se debe ingresar la información correspondiente.
+
+**Campos:** Tipo de cliente, código cliente, tercero, Primer nombre, celular y correo electrónico son campos obligatorios, ya que es información que solicita el sistema que deben tener los pacientes.
+
+ Una vez diligenciada la información se selecciona la opción “Guardar cliente”.
+
+![](gcalguardar.png)
+
+Una vez realizado este proceso, le dan en el botón cerrar y volverán a la ventana anterior. 
+
+>**Nota:** Se tiene la opción de indicar una observación en el campo correspondiente (si se requiere) y se finaliza dando clic en la opción Guardar.
+
+![](gcalobs.png)
+
 
 ## [Creación de citas Médicas](#creación-de-citas-médicas)
 
 Cada registro corresponde a la disponibilidad del doctor, dependiendo la hora y el día. 
-
-![](gcal1.png)
-
 
 Cada registro corresponde a la disponibilidad en una hora y fecha determinada para un recurso. Estos registros pueden estar en cuatro diferentes status:  
 
@@ -322,3 +360,30 @@ Ingresamos a la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Oper
 Una vez se da click en el botón, se sincronizará con la aplicación TEAMS, la cita que se tiene programada para la fecha indicada, y así llevar un mejor control.
 
 ![](gcal40.png)
+
+## [Creación de consentimientos Informados](#creación-de-consentimientos-informados)
+
+Para la creación de los consentimientos informados, se debe realizar la ejecución del botón generar certificados ![](gcalgen.png)  en la aplicación **GCAL - Calendario**. Al realizar la ejecución del botón, el sistema les mostrara una nueva ventana en la cual aparecerán todos los conceptos asociados al documento asociado en la aplicación programa [GCER - Certificados de Hospital](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcer). Es importante tener en cuenta en que estado se encuentra el paciente, ya que ese botón no permite ejecutarse, hasta que el paciente se encuentre “Asignado”. 
+
+Al momento de que se abre la ventana emergente, aparece una lista de despliegue el cual corresponde al nombre del profesional que va a prestar el servicio.
+
+![](gcalcer.png) 
+
+Se debe seleccionar los Consentimientos a generar para el paciente y luego dar clic al botón **GUARDAR** lo cual activara el botón **ACEPTAR**. 
+
+![](gcalcer1.png) 
+
+Si se presenta el caso que falto seleccionar un consentimiento a generar o se seleccionó uno que no corresponde, se puede seleccionar otros consentimientos y esto lo que hara es que inactivara el botón **ACEPTAR** y activara el botón **GUARDAR** y dar nuevamente el Botón **GUARDAR**. 
+
+Se debe tener en cuenta que sobre el [GCER - Certificados de Hospital](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcer) se podrá buscar ya sea por el concepto del consentimiento seleccionado, por la fecha, el número del paciente, o por los campos que hacen referencia a la cita. 
+
+![](gcalmen.png) 
+
+Accedemos al [GCER - Certificados de Hospital](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcer) en el registro observamos el campo Numero el cual cuenta con el numero que genero al crear el consentimiento.
+
+![](gcalgcer.png) 
+
+Con este número de referencia se puede consultar en la aplicación [GCER - Certificados de Hospital](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcer).
+
+![](gcalgcer1.png) 
+
