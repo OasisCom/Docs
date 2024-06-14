@@ -9,5 +9,6 @@ editable: si
 
 Está integrado por los módulos:
 
-* [**DFLC**](http://docs.oasiscom.com/Operacion/scm/distribucion/ddespacho/dflc) - Fletes por Compañía
-* [**DFLE**](http://docs.oasiscom.com/Operacion/scm/distribucion/ddespacho/dfle) - Fletes
+* [**DFLC**](http://docs.oasiscom.com/Operacion/scm/distribucion/ddespacho/dflc) - Fletes por Compañía.
+* [**DFLE**](http://docs.oasiscom.com/Operacion/scm/distribucion/ddespacho/dfle) - Fletes.
+* [**EDRVE**](http://docs.oasiscom.com/Operacion/scm/distribucion/ddespacho/edrve) - Registro de Vehículos.

@@ -11,18 +11,18 @@ editable: si
 Esta aplicación contiene una pantalla maestra que sirve para adicionar, consultar y modificar los pedidos que hacen los clientes a la empresa.
 
 
-- [**Consultas dinámicas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas)
-- [**Verificación de Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#verificación-de-pedidos)
-- [**Itemchanged campos Precio y Porcentaje de Descuento**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#itemchanged-campos-precio-y-porcentaje-de-descuento)
-- [**Botón Info Ventas**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#botón-info-ventas)
-- [**Ver Saldo Por Ubicación**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#ver-saldo-por-ubicación)    
-- [**Cómo relacionar un pedido a una cotización**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-cotización)  
-- [**Cómo relacionar un pedido a una factura**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#cómo-relacionar-un-pedido-a-una-factura)  
-- [**Pedidos con separada**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#pedidos-con-separada)  
-- [**Monto mínimo en un pedido**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#monto-mínimo-en-un-pedido)  
-- [**Actualizar Datos de Cliente**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#actualizar-datos-de-cliente) 
-- [**Pestaña detalle de Formularios**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#Pestaña-detalle-de-Formularios)  
-
+- [**Consultas dinámicas**](#consultas-dinámicas)
+- [**Verificación de Pedidos**](#verificación-de-pedidos)
+- [**Itemchanged campos Precio y Porcentaje de Descuento**](#itemchanged-campos-precio-y-porcentaje-de-descuento)
+- [**Botón Info Ventas**](#botón-info-ventas)
+- [**Ver Saldo Por Ubicación**](#ver-saldo-por-ubicación)    
+- [**Cómo relacionar un pedido a una cotización**](#cómo-relacionar-un-pedido-a-una-cotización)  
+- [**Cómo relacionar un pedido a una factura**](#cómo-relacionar-un-pedido-a-una-factura)  
+- [**Pedidos con separada**](#pedidos-con-separada)  
+- [**Monto mínimo en un pedido**](#monto-mínimo-en-un-pedido)  
+- [**Actualizar Datos de Cliente**](#actualizar-datos-de-cliente) 
+- [**Pestaña detalle de Formularios**](#pestaña-detalle-de-formularios)  
+- [**Registro de Similares**](#registro-de-similares) 
 ---
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
@@ -325,3 +325,38 @@ Por último el campo de Tipo, con la opción de Model View (MV)
 > **Nota:** Tener presente las siguientes recomendaciones:
 1. Si no se configura alguno de los campos de FieldId o Descripción, la pestaña configurada no se mostrara.
 2. Cerrar sesion e ingresar para que la configuración sea tomada. Si no se visualiza una vez iniciada la sesion, esperar un tiempo o limpiar cache, para que funcione de manera correcta.
+
+## [**Registro de Similares**](#registro-de-similares)
+
+Se hace la integración para la aplicación [BPRO - Productos](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) con un nuevo campo nombrado **Tipo**, con el fin de identificar los productos **sustitutos**, **complementarios** y **equivalentes**. 
+
+![](registro1.png)
+
+Se ingresa al programa **VPED-Pedidos**, donde podemos validar que el producto principal y tiene productos complementarios.
+
+![](registro2.png)
+
+Se tiene configurada en la columna **Opciones**. 
+Si tiene sustituto, la aplicación activará el botón **SCE** para seguir con el proceso.
+
+**SCE: Sustituto Complementario y Equivalente**.
+
+![](registro3.png)
+
+>**Nota**: Este botón únicamente se activará si ejecutan el TAB sobre el campo Producto.
+
+Al dar clic en ese botón, se abrirá una ventana emergente, esta ventana es una parametrización de los múltiples **zooms** separados por los **TABS**.
+
+>**Nota**: El proceso actual dentro del zoom, puede agregarse múltiples registros o se pueden reemplazar. 
+ 
+ ![](registro4.png)
+
+En este recuadro, en la pestaña **Sustituto** aparece el producto que fue seleccionado y en la pestaña **Complementarios** se ven los demás productos que lo complementan.
+
+ ![](registro5.png)
+
+ Al dar clic al botón **Aceptar** la aplicación tomara los registros seleccionados y los agrega o reemplaza según lo requerido.
+
+  ![](registro6.png)
+
+  
