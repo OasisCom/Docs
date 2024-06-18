@@ -7,39 +7,40 @@ editable: si
 
 # Admisiones - GADM
 
-Eta aplicación permite realizar Control y seguimiento de sesiones
+Esta aplicación permite realizar Control y seguimiento de sesiones
 
-* [Creación de Sesiones Manual](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-manual)
-* [Creación de Sesiones Automaticas GCAL](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-automaticas-gcal)
-* [Facturación Parcial](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturación-parcial)
-* [Producto Padre y Subproductos](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#producto-padre-y-subproductos)
+* [Creación de Sesiones Manual](#creación-de-sesiones-manual)
+* [Creación de Sesiones Automaticas GCAL](#creación-de-sesiones-automaticas-gcal)
+* [Facturación Parcial](#facturación-parcial)
+* [Producto Padre y Subproductos](#producto-padre-y-subproductos)
+    * [Procesos que tiene la facturación por admisión](#procesos-que-tiene-la-facturación-por-admisión)
 
 La aplicación **GADM - Admisiones** permite registrar la información para admisiones para fondo de hospital y los servicios por los cuales puede pasar el paciente.  
 
+Se ingresa a la aplicación **GADM - Admisiones**, y se observa los paquetes que se tienen configurados para este proceso.
+
 ![](gadm.png)
 
-En el maestro, al crear un nuevo registro, ingresaremos información como concepto de la admisión, el paciente asociado, la causa de la admisión, el servicio que requiere la admisión, entre otros datos.  
+En el maestro, al crear un nuevo registro, se ingresa información como concepto de la admisión, el paciente asociado, la causa de la admisión, el servicio que requiere la admisión, entre otros datos.  
 
-Damos clic en el botón _Guardar_ para que el registro sea creado en el maestro.  
+Damos clic en el botón **_Guardar_** para que el registro sea creado en el maestro.  
 
 ![](gadm1.png)
 
-En el detalle, se deberá especificar los servicios a los cuales tendrá disponibilidad el paciente.  
+En el detalle, se debe especificar los servicios a los cuales tendrá disponibilidad el paciente.  
 
 ![](gadm2.png)
 
-Se debe tener en cuenta que si se desmarca el check de Factura, el producto no se insertará en la opción **JFAC - Facturas** y por lo tanto no se factuará.  
+Se debe tener en cuenta que si se desmarca el check de Factura, el producto no se insertará en la opción [**GFAC - Facturas**](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) y por lo tanto no se factuará.  
 
 ![](gadm3.png)
 
-Ingresa la información procesamos el documento dando click en el botón _Procesar_ ![](procesar.png).  
+Ingresada la información se procesa el documento dando click en el botón _Procesar_ ![](procesar.png).  
 
 # [Creación de Sesiones Manual](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#creación-de-sesiones-manual)
 
 
-En la aplicación **GADM - Admisiones** es donde se realiza el conteo de las sesiones de los paquetes que va a adquirir el paciente
-
-![](gadm12.png)
+En la aplicación **GADM - Admisiones** es donde se realiza el conteo de las sesiones de los paquetes que va a adquirir el paciente.
 
 Para crear una sesión, se da click en la pestaña de **+** 
 
@@ -49,17 +50,13 @@ Este documento, se debe crear con concepto **AD - Admisiones**
 
 ![](gadm5.png)
 
-La ubicación depende de cuantas se vayan a crear, El concepto debe agregarse cómo **CP - Paquetes** el cual se parametrizo en la aplicación [BDOC – DOCUMENTOS](https://docs.oasiscom.com/Capacitacion/Empower/parametrizacionbdoc)
-
-
+La ubicación depende de cuantas se vayan a crear. El concepto debe agregarse cómo **PQ - Paquetes** el cual se parametrizo en la aplicación [BDOC – DOCUMENTOS](https://docs.oasiscom.com/Capacitacion/Empower/parametrizacionbdoc)
 
 ![](gadm6.png)
 
-El número del tercero es importante, ya que con ese se va a descontar el número de sesiones del paciente
+>**Nota:** El número del tercero es importante, ya que con ese se va a descontar el número de sesiones del paciente
 
-![](gadm8.png)
-
-Luego, se asocia la cita que se creo en la aplicación **[MGCAL – Calendario de Usuario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal)** con el tipo de documento, numero y ubicacion y se procede a guardar la sesión
+Luego se asocia la cita que se creo en la aplicación [GCAL - Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal) o [MGCAL – Calendario de Usuario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/mgcal)  con el tipo de documento, numero y ubicacion y se procede a guardar la sesión.
 
 ![](gadm13.png)
 
@@ -73,7 +70,6 @@ Una vez se procese la sesión, automáticamente va a realizar el número de sesi
 
 Si se requiere una factura para esta sesión, se activa el flag de factura, donde luego de procesar la sesión, se verá reflejada en la aplicación [GFAC – FACTURAS](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac)
 
-![](gadm12.png)
 
 Una vez ya se tenga todos los datos requeridos de la sesión, se procesa donde luego se deben realizar todos los procesos de creación de citas en la aplicación [GCAL – Calendario](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal)
 
@@ -111,8 +107,6 @@ Al dar clic en botón Factura parcial el sistema genera una la factura parcial e
 
 > **Nota:** Es importante que la admisión este en estado activo si aun se encuentra vigente, de lo contrario el sistema no lo tendrá en cuenta.
 
-![](gadm19.png)
-
 # [Producto Padre y Subproductos](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#producto-padre-y-subproductos)
 
 Se realiza un ajuste para que, al momento de facturar, traiga el producto padre de acuerdo con los componentes que construyen este producto. Esto se hace con el fin de traer únicamente el combo y que en él se encuentren todos los componentes que este combo contenga. 
@@ -137,31 +131,23 @@ En el [GCON - Consultas](https://docs.oasiscom.com/Operacion/is/hospital/gconsul
 
 ![](gadm22.png)
 
-Luego de realizar ese proceso, se hace la factura (se puede validar en la aplicación **GADM - Admisiones**, las sesiones ya terminadas).
+Luego de realizar ese proceso, se hace la factura, se puede validar en la aplicación **GADM - Admisiones**, las sesiones ya terminadas.
 
-## Procesos que tiene la facturación por admisión
+### [Procesos que tiene la facturación por admisión](#procesos-que-tiene-la-facturación-por-admisión)
 
-- Cuando es por **ENTIDAD**, el sistema lo que realiza es, sumar las sesiones y colocar la factura con el producto unicamente con el **PADRE**.
+Actualmente se cuentan con dos escenarios por el proceso que se tiene en facturación por Entidades.
 
-- El segundo proceso es por positivo, en donde se suma todas las sesiones.
+- Cuando es por **ENTIDAD**, el sistema lo que realiza es, sumar las sesiones, lo que se tiene en el Campo **#Sesiones**  y lo factura a producto  **PADRE**.
 
-- Cuando es por **SURA**, el sistema solamente toma una sesión del producto **PADRE** y lo que realiza es multiplicar el número de sesiones por el valor que está en el contrato y eso se integra a la factura. 
+- Cuando es por la **Segunda Entidad**, el sistema solamente toma una sesión del producto **PADRE** y lo que realiza es multiplicar el número de sesiones por el valor que está en el contrato y eso se integra a la factura. 
 
 - Cuando no son componentes, ni productos **PADRES** el sistema realiza la generación de la factura con los componentes que se establecen desde la consulta. 
 
-![](gadm23.png)
 
-Con esto en conclusión, se obtienen tres pasos: 
 
-1. Se ejecuta el botón de [Facturación Parcial](https://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturaci%C3%B3n-parcial) 
 
-![](gadm24.png)
 
-Y el sistema hace la multiplicación y lleva la cantidad a la factura. 
-
-2. El segundo proceso, solo lleva cantidad 1 para los subproductos. 
-
-3. El tercero solo factura las sesiones que se encuentren en el servicio.  
+  
 
 
 
