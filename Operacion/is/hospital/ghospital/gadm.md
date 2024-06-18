@@ -62,9 +62,7 @@ Luego se asocia la cita que se creo en la aplicación [GCAL - Calendario](https:
 
 Después de creada la sesión, se asocian los productos que va a tener el paquete en el detalle, estos productos se encuentran parametrizados en la aplicación **[BMOT – MOTIVOS](https://docs.oasiscom.com/Capacitacion/Empower/parametrizacionbdoc)**
 
-![](gadm9.png)
-
-Una vez se procese la sesión, automáticamente va a realizar el número de sesiones que se van culminando en la parte del detalle
+>**Nota:**Una vez se procese la sesión, automáticamente va a realizar el número de sesiones que se van culminando en la parte del detalle.
 
 ![](gadm10.png)
 
