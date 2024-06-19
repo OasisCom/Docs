@@ -7,14 +7,14 @@ editable: si
 
 # Registro de Vehículos - EDRVE
 
+Esta aplicación cumple con su función de formulario para tener control de lo que ingresa a la empresa o sale de esta misma. 
+
 * [Crear Pestaña de Empaque](#crear-pestaña-de-empaque)
 * [Destare ](#destare)
 * [Ocultar Campos](#ocultar-campos)
 
 
 ## [Crear Pestaña de Empaque](#crear-pestaña-de-empaque)
-
-Esta aplicación cumple con su función de formulario para tener control de lo que ingresa a la empresa o sale de esta misma. 
 
 Botones a visualizar en la aplicación:
 
@@ -60,16 +60,15 @@ Al ejecutar el botón **Insertar.**
 
 | Campos | Descripción |
 | --- | ----------- |
-| Renglón | Este campo no se modifica, ya que cuando se ingrese el registro, esto automáticamente hace el consecutivo. |
-| Dirección | Por defecto se encuentra el 0. Sin embargo, se ingresa el que corresponde. |
+| Renglón         | Este campo no se modifica, ya que cuando se ingrese el registro, esto automáticamente hace el consecutivo.      |
+| Dirección       | Por defecto se encuentra el 0. Sin embargo, se ingresa el que corresponde. |
 | Nombre Dirección| Se refleja el nombre de la dirección.|
-| Producto| Producto que se selecciona el cual se encuentra registrados en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro).|
+| Producto        | Producto que se selecciona el cual se encuentra registrados en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro).|
 | Nombre de Producto| Se visualiza el nombre del producto que fue seleccionado.|
-| Peso Inicial| Se ingresa el peso de la mercancía Ejemplo: 10000.|
-| Peso Final | Se ingresa el peso de la mercancía Ejemplo: 3000.
-El cual, para esto, el peso real es de 7000 (Todos los datos los pone el usuario). |
-| Destare| Este campo se explicará posteriormente.|
-| Lote| Por defecto se encuentra 0.|
+| Peso Inicial    | Se ingresa el peso de la mercancía Ejemplo: 10000.|
+| Peso Final      | Se ingresa el peso de la mercancía Ejemplo: 3000. El cual, para esto, el peso real es de 7000 (Todos los datos los pone el usuario). |
+| Destare         | Este campo se explicará posteriormente.|
+| Lote           | Por defecto se encuentra 0.|
 
 Al ingresar toda la información necesaria del producto, se puede ejecutar el botón para que se haga el calculo
 
@@ -85,7 +84,7 @@ Una vez registrado el producto, en la pestaña **Detalle Detalle** se ingresa ej
 | Producto | Se refleja el producto que seleccionaron en la pestaña Detalle. |
 | Nombre Producto| Nombre del producto.|
 | Cantidad| La cantidad de productos que ingresan.|
-| Tipo| Están las opciones - **FIQUE DE 7**, **FIQUE DE 8**, **TULA #2** y **TULA #4.* |
+| Tipo| Están las opciones - **FIQUE DE 7**, **FIQUE DE 8**, **TULA #2** y **TULA #4.** |
 
 ## [Destare](#destare)
 
@@ -108,4 +107,4 @@ Para este escenario, se ocultó el campo Cliente por lo cual en el **SROL** se r
 
 ![](edrve20.png)
 
-Como se puede visualizar en la imagen anterior el Campo Cliente esta oculto.
+Como se puede visualizar en la imagen anterior el Campo **Cliente** esta oculto.

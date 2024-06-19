@@ -23,7 +23,7 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 - [**Actualizar Datos de Cliente**](#actualizar-datos-de-cliente) 
 - [**Pestaña detalle de Formularios**](#pestaña-detalle-de-formularios)  
 - [**Registro de Similares**](#registro-de-similares) 
----
+
 Esta pantalla es fundamental para la captura de las órdenes de compra de los clientes ya que se encuentra integrada a los módulos de cartera e inventarios, con cartera en la validación del cupo y condiciones comerciales y con inventarios en la disponibilidad de los productos.  
 
 
