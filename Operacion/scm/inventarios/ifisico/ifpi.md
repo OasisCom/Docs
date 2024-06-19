@@ -74,7 +74,7 @@ A través del proceso [**IFAJ - Genera Ajustes**](https://docs.oasiscom.com/Oper
 ![](ifpi_07.png)
 
 Por último, se ingresa al [**IMOV - Movimiento de Inventario**](https://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) y consultar los documentos en estado activo donde encontraran los movimientos de ajuste, se debe editar el encabezado o maestro del documento y colocar el tercero.
-Se verifica la información del detalle y se procesa con el botón **procesar** ![](ifpi_procesar.png).
+Se verifica la información del detalle y se ejecuta el botón **procesar** ![](ifpi_procesar.png).
 
 ![](ifpi_08.png)
 
