@@ -15,7 +15,7 @@ Ingresar al programa **IFPI - Prepara Inventario Diario** e ingresar los datos.
 
 ![](ifpi_01.png)
 
-Para ejecutar el proceso de preparación de inventario periódico ingresamos los siguientes datos:  
+Para ejecutar el proceso de preparación de inventario periódico se ingresa los siguientes datos:  
 
 | Campos | Descripción |
 | --- | ----------- |
