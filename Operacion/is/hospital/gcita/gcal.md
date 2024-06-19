@@ -168,6 +168,9 @@ Al realizar este procedimiento se encontrará un cuadro en el cual se debe ingre
 
 ![](gcal37.png)
 
+>**Nota:** Tener presente que este proceso de **Recurrente** es para tomar varios espacios para diferentes citas que requieran a las citas adicionales que se soliciten.
+Ejemplo: Se tiene agendada una cita para hoy y una para pasado mañana, por lo cual la fecha seria del 17/06/2024 y la fecha final 19/06/2024. Por ende la cita sera recurrente en ese tiempo establecido. 
+
 En el campo **Entidad**, se indica la entidad por la cual se prestara el servicio al paciente:  
 
 ![](gcalentidad.png)
@@ -190,7 +193,7 @@ Datos Afiliado: se debe indicar el número de documento del paciente.
 
 ## [Procedimiento de Botones](#procedimiento-de-botones)
 
-Para esta sección, se explicara paso a paso la forma correcto en la que se debe realizar el proceso.
+Para esta sección, se explicara paso a paso la forma correcta en la que se debe realizar el proceso.
 
    ### [Pagar Cita](#pagar-cita)
 
