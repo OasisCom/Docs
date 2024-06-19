@@ -33,7 +33,7 @@ Para ejecutar el proceso de preparación de inventario periódico ingresamos los
 | Id Responsable| Este campo cuenta con el campo **Zoom** para buscar el número del Responsable. |
  
 
-Ingresados los datos, damos clic en el botón **_Generar_** ![](actualizar.png) y el sistema arroja un mensaje indicando que el proceso se realizó satisfactoriamente.  
+Una vez ingresados los datos, se ejecuta el clic en el botón **_Generar_** ![](actualizar.png) y el sistema arroja un mensaje indicando que el proceso se realizó satisfactoriamente.  
 
 ![](ifpi_02.png)
 
@@ -48,7 +48,7 @@ Generado el proceso anterior , se procede a realizar el inventario en la aplicac
 
 ![](ifpi_03.png)
 
-En esta opción se deben registrar las unidades encontradas de cada producto, aparecen tres columnas **“Cantidad1”**, **“Cantidad2”**, **“Cantidad3**”. 
+En esta opción se deben registrar las unidades encontradas de cada producto, aparecen tres columnas **“Cantidad 1”**, **“Cantidad 2”**, **“Cantidad 3**”. 
 
 ![](ifpi_04.png)
 
@@ -67,7 +67,7 @@ Luego se ingresa al programa [**IFDI - Diferencias**](https://docs.oasiscom.com/
 ![](ifpi_06.png)
 
 Si estas diferencias son reales pueden ingresar a la 
-opción ifaj, donde el sistema les va a crear movimientos de entrada o de salida por ajuste 
+opción [**IFAJ - Genera Ajustes**](https://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj), donde el sistema les va a crear movimientos de entrada o de salida por ajuste 
 en el programa [**IMOV - Movimiento de Inventario**](https://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov).
 A través del proceso [**IFAJ - Genera Ajustes**](https://docs.oasiscom.com/Operacion/scm/inventarios/ifisico/ifaj) el sistema va a crear movimientos por ajuste en el programa [**IMOV - Movimiento de Inventario**](https://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/imov) ya sea salidas o entradas por ajuste. Esto dependiendo si en el cálculo de diferencias se identifican sobrantes o faltantes.
 

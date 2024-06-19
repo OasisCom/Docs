@@ -16,7 +16,7 @@ Esta aplicación contiene una pantalla maestra que sirve para adicionar, consult
 - [**Itemchanged campos Precio y Porcentaje de Descuento**](#itemchanged-campos-precio-y-porcentaje-de-descuento)
 - [**Botón Info Ventas**](#botón-info-ventas)
 - [**Ver Saldo Por Ubicación**](#ver-saldo-por-ubicación)    
-- [**Cómo relacionar un pedido a una cotización**](#cómo-relacionar-un-pedido-a-una-cotización)  
+- [**Cómo relacionar un pedido a una cotización**](#cómo-relacionar-un-pedido-a-una-cotización) 
 - [**Cómo relacionar un pedido a una factura**](#cómo-relacionar-un-pedido-a-una-factura)  
 - [**Pedidos con separada**](#pedidos-con-separada)  
 - [**Monto mínimo en un pedido**](#monto-mínimo-en-un-pedido)  
