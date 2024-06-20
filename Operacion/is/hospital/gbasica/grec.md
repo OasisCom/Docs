@@ -8,7 +8,7 @@ editable: si
 # Recursos - GREC
 
 
-Esta aplicación es para realizar la administración de recursos de las empresas tipo IPS. En la aplicación **GREC – Recursos**, se realiza la creación de los mismos, así:  
+Esta aplicación es para realizar la administración de recursos tanto humanos como físicos de las empresas tipo IPS. En la aplicación **GREC – Recursos**, se realiza la creación de los mismos, así:  
 
 A partir del maestro:
 

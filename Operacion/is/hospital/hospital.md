@@ -15,6 +15,7 @@ El  módulo  de  hospital  está  conformado  por  una  serie  de  opciones,  la
 * [**Citas**](http://docs.oasiscom.com/Operacion/is/hospital/gcita/)
 * [**Servicios**](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/)
 * [**Hospitalización**](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/)
+* [**GENC - Encuestas**](http://docs.oasiscom.com/Operacion/is/hospital/gencencuestas/)
 * [**Farmacia**](http://docs.oasiscom.com/Operacion/is/hospital/ginventario/)
 * [**Facturación**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/)
 * [**Procesos Especiales**](http://docs.oasiscom.com/Operacion/is/hospital/gproceso/)
