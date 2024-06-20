@@ -7,8 +7,11 @@ editable: si
 
 # GENC - Encuestas 
 
-* [**Generar encuesta manual**](#generar-encuesta-manual)
+La aplicación **GENC - Encuestas** funciona como medio para saber la satisfacción de los pacientes con el servicio que se esta prestando. 
+
 * [**Botones del GENC**](#botones-del-genc)
+* [**Generar encuesta desde el GCAL**](#generar-encuesta-desde-el-gcal)
+* [**Generar encuesta manual**](#generar-encuesta-manual)
 
 ## [**Botones del GENC**](#botones-del-genc)
 
@@ -34,7 +37,7 @@ editable: si
 | ![](bgenc18.png)| Duplicar Registro|
 | ![](bgenc19.png)| Opciones de Columnas|
 
-La aplicación **GENC - Encuestas** funciona como medio para saber la satisfacción de los pacientes con el servicio que se esta prestando. 
+## [**Generar encuesta desde el GCAL**](#generar-encuesta-desde-el-gcal)
 
 Desde la aplicación [**GCAL - Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal) una vez seleccionando el movimiento de la cita del paciente al que se desea enviar la encuesta. 
 
@@ -58,7 +61,7 @@ El registro se creará automáticamente en la aplicación **GENC - Encuestas** c
 
 ![](genc3.png)
 
-Desde la aplicación **GENC - Encuestas** se realiza el seguimiento de la encuesta, cuando esta es diligenciada, el movimiento cambia al estatus **“Recibido”** y se valida la información diligenciada por el paciente desde el detalle
+Desde la aplicación **GENC - Encuestas** se realiza el seguimiento de la encuesta, cuando esta es diligenciada, el **Status** cambia de **Generado*** a **Recibido** y se valida la información diligenciada por el paciente en el detalle.
 
 ![](genc4.png)
 
@@ -85,7 +88,7 @@ Luego de diligenciar los datos, se ejecuta el botón ![](gencazul.png) para que 
 Dentro de la aplicación **GRES - Estadística** se puede visualizar la información gráficamente:
 
  ![](genc7.png)
-
+ 
 ## [**Generar encuesta manual**](#generar-encuesta-manual)
 
 Se ingresa a la aplicación **GENC - Encuestas**, se adiciona un nuevo registro por medio del botón **Agregar Nueva Fila**, en la ventana emergente se deben diligenciar los campos tipo zoom:
