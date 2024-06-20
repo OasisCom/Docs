@@ -9,33 +9,8 @@ editable: si
 
 La aplicación **GENC - Encuestas** funciona como medio para saber la satisfacción de los pacientes con el servicio que se esta prestando. 
 
-* [**Botones del GENC**](#botones-del-genc)
 * [**Generar encuesta desde el GCAL**](#generar-encuesta-desde-el-gcal)
 * [**Generar encuesta manual**](#generar-encuesta-manual)
-
-## [**Botones del GENC**](#botones-del-genc)
-
-| Botón | Descripción |
-| --- | ----------- |
-| ![](bgenc1.png) | Agregar nueva fila |
-| ![](bgenc2.png) | Modificar fila seleccionada      |
-| ![](bgenc3.png) | Procesar|
-| ![](bgenc4.png) | Reversar|
-| ![](bgenc5.png) | Anular|
-| ![](bgenc6.png) | Importar Datos|
-| ![](bgenc7.png) | Exportar Datos|
-| ![](bgenc8.png) | Presentación Preliminar |
-| ![](bgenc9.png) | Impresión|
-| ![](bgenc10.png)| Ayuda|
-| ![](bgenc11.png)| Refrescar Datos|
-| ![](bgenc12.png)| Filtro Avanzado|
-| ![](bgenc13.png)| Limpiar Filtros|
-| ![](bgenc14.png)| Comentarios|
-| ![](bgenc15.png)| Tareas Worflow|
-| ![](bgenc16.png)| Adjuntos|
-| ![](bgenc17.png)| Enviar Email|
-| ![](bgenc18.png)| Duplicar Registro|
-| ![](bgenc19.png)| Opciones de Columnas|
 
 ## [**Generar encuesta desde el GCAL**](#generar-encuesta-desde-el-gcal)
 
