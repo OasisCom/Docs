@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Facturas
-permalink: /Operacion/scm/pos/jcajero/mjfac
+permalink: /Operacion/scm/pos/jcajero/mjfac/
 editable: si
 ---
 
@@ -25,10 +25,11 @@ En la aplicación **BUBI - Ubicaciones Organización** donde se realiza el punto
 
 ![](mjfac2.png)
 
-En la pestaña **Productos** se indica los productos, donde se indica: 
+En la pestaña **Productos** se observan:
+
 - Ubicación, que es el punto de venta. 
 - Tipo: Debe ser POS
-- Producto: Los codigos que estan en esta aplicación, son los mismos que deben estar en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) 
+- Producto: Se diligencian los codigos que estan en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) 
 
 ![](mjfac3.png)
 
@@ -42,7 +43,7 @@ Cuando se habilite la factura, hay un Zoom el cual contiene los documentos que s
 
 ![](mjfac7.png)
 
-Al momento de ejecutar ese **Zoom**, saldra una ventana emergente donde se reflejan los documentos parametrizados. Los cuales son parametrizados en la aplicación [**BDOC - Documentos**](https://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
+Al momento de ejecutar ese **Zoom**, saldra una ventana emergente donde se reflejan los documentos parametrizados en la aplicación [**BDOC - Documentos**](https://docs.oasiscom.com/Operacion/common/bsistema/bdoc)
 
 ![](mjfac8.png)
 
@@ -52,21 +53,21 @@ Al ejecutar este botón
 
 ![](mjfac9.png)
 
-Saldra una venta el cual muestra donde se puede ver los **Tipos de Precios**, Lo cual esta parametrizado en la aplicación [**FBTP - Tipos de Precio**]( https://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtp).
+Saldra una venta el cual muestra donde se puede ver los **Tipos de Precios**, lo cual esta parametrizado en la aplicación [**FBTP - Tipos de Precio**]( https://docs.oasiscom.com/Operacion/scm/facturacion/fbasica/fbtp).
 
 ![](mjfac10.png)
 
-También se encuentra el campo **Condiciones de Pago** y se encuentra parametrizado en la aplicación 
+También se encuentra el campo **Condiciones de Pago** y se encuentra parametrizado en la aplicación [**BCND - Condición de Pago**](https://docs.oasiscom.com/Operacion/common/bcomer/bcnd) 
 
 ![](mjfac11.png)
 
-En la aplicación **MJFAC - Facturas** se tienen unas clasificaciones que se deben tener en cuenta para el proceso de busquedad de productos 
+En la aplicación **MJFAC - Facturas** se tienen unas clasificaciones que se deben tener en cuenta para el proceso de busquedad de productos.
 
 ![](mjfac12.png)
 
 # [Primer Nivel de Busqueda de Productos ](#primer-nivel-de-busquedad-de-productos)
 
-Todos los productos cuentan con una clasificación, lo cual esta en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) en el Campo **Clasificación** 
+Todos los productos cuentan con una clasificación configurada, lo cual esta en la aplicación [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) en el Campo **Clasificación** 
 
 ![](mjfac13.png)
 
@@ -82,12 +83,12 @@ Para este segundo método de busqueda para los productos
 
 ![](mjfac15.png)
 
-- Para el código de barras esto se parametriza por el [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) en el campo EanChar, que al momento de leer el producto con el producto, se vea reflejado en el sistema. 
+- Para el código de barras esto se parametriza por el [**BPRO - Productos**](https://docs.oasiscom.com/Operacion/common/bprodu/bpro) en el campo EanChar, que al momento de leer el producto con el código de barras, se vea reflejado en el sistema. 
 
 - Nombre de Producto: Cada nombre del producto se escribe en la barra de busquedad.
 - Código de Producto: Se digita el código correspondiente del producto.
 
->**Nota:** Los productos deben estar establecidos con los precios y eso se verifica y parametriza en la aplicación [**FPRE - Precios**](https://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre).
+>**Nota:** Los productos deben estar establecidos con los precios. Se puede verificar y parametriza en la aplicación [**FPRE - Precios**](https://docs.oasiscom.com/Operacion/scm/facturacion/fprecio/fpre).
 
 # [Creación de la Factura](#creación-de-la-factura)
 
@@ -133,13 +134,15 @@ Se selecciona el número **%0.00** y este al momento abrira una ventana
 
 Se ejecuta los datos y saldra **Usuario Valida** para que se pueda continuar el proceso. 
 
+![](mjfac26.png) 
+
 Al momento de ejecutar el botón **Aceptar** 
 
-[](mjfac27.png)
+![](mjfac27.png)
 
 Al momento de terminar el proceso, se efectura la factura 
 
-[](imagen.png)
+![](mjfac28.png)
 
 >**Recomendación** Para este proceso, deben tener en cuenta: La lista de precios, cuales son los precios de los productos, cuales son los documentos, que productos que se van a visualizar en la aplicación.
 
