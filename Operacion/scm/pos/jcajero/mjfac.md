@@ -141,6 +141,9 @@ Al momento de terminar el proceso, se efectura la factura
 
 [](imagen.png)
 
+>**Recomendación** Para este proceso, deben tener en cuenta: La lista de precios, cuales son los precios de los productos, cuales son los documentos, que productos que se van a visualizar en la aplicación.
+
+Con el fin de que todo el proceso sea correcto y exitoso. 
 
 
 
