@@ -7,3 +7,4 @@ editable: si
 
 # DATOS BASICOS
 
+* [**STRA - TRABAJOS**](http://docs.oasiscom.com/Operacion/utility/worflow/sbasica/stratrabajos)
