@@ -195,7 +195,8 @@ Datos Afiliado: se debe indicar el número de documento del paciente.
 
 Para esta sección, se explicara paso a paso la forma correcta en la que se debe realizar el proceso.
 
-   ### [Pagar Cita](#pagar-cita)
+### [Pagar Cita](#pagar-cita)
+
 
 Para facturar la cita programa, se tienen dos opciones configuradas para realizar este proceso.
 

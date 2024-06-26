@@ -7,18 +7,13 @@ editable: si
 
 ---
 
-
-
 # GCON - Consultas
-
-
 
 La aplicación **GCON** permite visualizar y crear consultas médicas, donde se registran los datos generales de la consulta como son: nombre del paciente, diagnóstico, fecha de la consulta, entre otros.   Proceso creado con la finalidad de poder registrar y tener seguimiento de la hora en la que es aplicado un medicamento a un paciente.  
 
 
-
-* [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
-* [Generación de producto facturado](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#generación-de-producto-facturado)
+* [Consulta](#consulta)
+* [Generación de producto facturado](#generación-de-producto-facturado)
 * [Firmas](#firmas)
 
 
@@ -79,12 +74,13 @@ Para poder validar el correcto funcionamiento se deben seguir las siguientes con
 Este es un paso a paso del proceso de creación y verificación de firmas como adjuntos:
 Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacion/system/sconfig/scam) donde se han agregado  validaciones en el  para las aplicaciones del **GCON - Consultas**. 
 
-![](firma2.png)
+![](firma2.png) 
 
 Una vez validado la configuración, se dirigen nuevamente a la aplicación **GCON - Consultas**.
 Al abrir el icono de la firma, se visualiza la ventana emergente para ingresar la firma del paciente. Se realiza con el cursos del Mouse.
 
 Al guardar sale un mensaje de control que se guardo con exito.
+
 ![](firma4.png)
 
 Se puede validar el guardado de la firma, en adjuntos, que se encuentra como un archivo donde queda como evidencia del proceso.
@@ -97,4 +93,4 @@ Botones de la Firma:
 | --- | ----------- |
 | ![](imagenlimpiar.png) | El botón cumple su funcionalidad para eliminar la firma que se encuentra en el recuadro y poder volver a repetirla |
 | ![](imagenguardar.png) | Al momento de elaborar la firma, con este botón se guarda la firma ya diligenciada. |
-| ![](imagendeshacer.png)  | Su función es para eliminar cada trazo que consecutivamente se hizo para la firma| 
+| ![](imagendeshacer.png)| Su función es para eliminar cada trazo que consecutivamente se hizo para la firma| 

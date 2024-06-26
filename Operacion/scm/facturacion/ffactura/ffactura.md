@@ -12,7 +12,7 @@ Esta categoría permite el registro de todos los documentos comerciales que cons
 Las aplicaciones que utiliza son:  
 
 * [**FFCV**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffcv) - Consulta de ventas
-* [**FFCSF**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffcf) - Consulta de facturas
+* [**FFCSF**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffcf)- Consulta de facturas
 * [**FPPF**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/fppf) - Prefactura genera factura
 * [**FPVP**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/fpvp) - Prefacturación de validación de actualización
 * [**FFAC**](http://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac) - Facturación

@@ -43,6 +43,7 @@ Luego de haber diligenciado el registro del maestro, se pasa al detalle en donde
 
 ![](grec4.png)
 
+>**Nota:** La aplicación **GREC - Recursos** contiene una configuración a nivel del aplicativo [**GCAL - Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal). Esto se puede validar en el Campo **Cantidad** en la aplicación **GREC - Recursos** y al momento de asignar un número específico, este hace referencia a la cantidad de espacios que se agendaran a la misma hora.   
 
 | Campo | Descripción |
 | --- | ----------- |
