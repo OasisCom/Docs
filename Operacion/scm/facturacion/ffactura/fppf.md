@@ -7,7 +7,7 @@ editable: si
 
 # FPPF - Prefactura genera factura  
 
-La aplicación **FPPF - Prefactura Genera Factura** tiene como fnción.......
+La aplicación **FPPF - Prefactura Genera Factura** tiene como función el sistema genera Pre-Facturas mes a mes. 
 
 Para este escenario, se crea una cita en la aplicación [**GCAL - Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal). 
 
@@ -21,13 +21,17 @@ Una vez que se haya **procesado** el registro en la aplicación [**GCON - Consul
 
 >**Nota:** Esta aplicación para las **IPS** solo es para validación de las **Pre-Facturas**.
 
-En el Campo Suma/Resta, en la aplicación **FPPF - Prefactura Genera Factura** se encuentran dos letras **S** y **N**. Lo cual la letra **S** es de Suma y la letra **N** es de Resta**.
+Se debe tener en cuenta que las consultas se procesaran si tienen el check **Activo** y en el campo **Cobrar a** se tiene indicado **SEGURO/EPS** en la aplicación [**GCON - Consultas**](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon). 
+
+A nivel de contrato en la aplicación [**GCNT - Contratos**](https://docs.oasiscom.com/Operacion/is/hospital/gcontrato/gcnt) se debe tener asignado en el campo **RemisiónFactura** como **PRE-FACTURA** y el sistema realizara una acumulación del proximo mes.     
+
+En el Campo Suma/Resta, en la aplicación **FPPF - Prefactura Genera Factura** se encuentran dos letras **S** y **N**. Lo cual la letra **S** es de **Suma** y la letra **N** es de **Resta**.
 
 Una vez asignado la letra, se ejecuta el botón **Guardar** 
 
 ![](fppf2.png)
 
-Al momento de generar, el sistema crea la factura en la aplicación [**GFAC - Facturas**](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac). 
+Al momento de generar, el sistema crea la factura en la aplicación [**GFAC - Facturas**](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac). Se verifican los datos, la forma de pago y se procesa el registro.
 
 Hecho este proceso, se ingresa a la aplicación [**FFAC - Facturas**](https://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac) para validar que el estado del registro haya cambiado a **Terminado** 
 
@@ -35,3 +39,4 @@ En la aplicación [**GFAC - Facturas**](https://docs.oasiscom.com/Operacion/is/h
 
 >**Importante:** Si alguna consulta no se encuentra en la aplicación [**GFAC - Facturas**](https://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac) es porque no se ejecuto el botón de **Crear Consulta**. Si se requiere ingresar la información Manual, se puede realizar. Sin embargo, cuando se procese, el sistema compara el registro de la Pre-Factura con la factura que se encuentra en la aplicación [**FFAC - Facturas**](https://docs.oasiscom.com/Operacion/scm/facturacion/ffactura/ffac). 
 
+ 
