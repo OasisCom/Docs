@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Hospital
-permalink: /Operacion/is/hospital/gencencuestas
+permalink: /Operacion/is/hospital/encuestas/
 editable: si
 ---
 
-# GENC - Encuestas 
+# Encuestas
+
+**GENC - Encuestas** 
 
 La aplicación **GENC - Encuestas** funciona como medio para saber la satisfacción de los pacientes con el servicio que se esta prestando. 
 
