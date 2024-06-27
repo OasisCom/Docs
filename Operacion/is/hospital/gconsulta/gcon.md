@@ -110,9 +110,10 @@ Al momento de ingresar a la aplicación [FGCON - Formulario de Salud](https://do
 
  Para realizar la búsqueda respectiva de la consulta al dar clic el sistema mostrara una ventana emergente donde se debe quitar los filtros de la fecha y se debe filtrar por el número de documento del paciente.  
 
-![](gcon4.png)
+![](gconr.png)
 
+Se selecciona la consulta a editar y por último **clic** en retornar registro, allí se podra realizar la modificación de la información. Por último dar clic en **SUBMIT**  para que la consulta se vuelva almacenar y a cerrar. 
 
-selecciona la consulta a editar y por último clic en retornar registro, allí podrán realizar la modificación de la información y por último dar clic en SUBMIT para que la consulta se vuelva almacenar y a cerrar.  
+![](gconra.png)
 
  
