@@ -43,6 +43,7 @@ Luego de haber diligenciado el registro del maestro, se pasa al detalle en donde
 
 ![](grec4.png)
 
+>**Nota:** La aplicación **GREC - Recursos** contiene una configuración a nivel del aplicativo [**GCAL - Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gcita/gcal). Esto se puede validar en el Campo **Cantidad** en la aplicación **GREC - Recursos** y al momento de asignar un número específico, este hace referencia a la cantidad de espacios que se agendaran a la misma hora.   
 
 | Campo | Descripción |
 | --- | ----------- |
@@ -82,7 +83,7 @@ Y luego se selecciona el icono de ejecutar ![](grec7.png)
 
 En el campo Ubicación, se ingresa el mismo que se diligencio en la creación del Profesional y el campo Id Recurso, se diligencia el numero del documento del Profesional. (Deben ser los mismos datos que se registró en la aplicación **GREC - Recursos**).
 
->**Nota:** Si se tuvo un error en la generación del calendario por fecha, intervalo u horas y en el momento de generarlo desde la aplicación [**GPGA- Generar Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpga)., no se ha realizado la asignación ninguna cita al calendario generado, se puede realizar la corrección en la aplicación GREC-Recursos y nuevamente ejecutar la generación del calendario y el sistema lo que hará es borrar el calendario anteriormente creado y crear un calendario uno nuevo. 
+>**Nota:** Si se tuvo un error en la generación del calendario por fecha, intervalo u horas y en el momento de generarlo desde la aplicación [**GPGA- Generar Calendario**](https://docs.oasiscom.com/Operacion/is/hospital/gproceso/gpga) y no se ha realizado la asignación de ninguna cita al calendario generado, se puede realizar la corrección en la aplicación **GREC-Recursos** y nuevamente ejecutar la generación del calendario y el sistema lo que hará es borrar el calendario anteriormente creado y crear un calendario nuevo. 
 
 
 
