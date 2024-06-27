@@ -15,6 +15,7 @@ La aplicación **GCON** permite visualizar y crear consultas médicas, donde se 
 * [Consulta](#consulta)
 * [Generación de producto facturado](#generación-de-producto-facturado)
 * [Firmas](#firmas)
+* [Revisión o Modificación](#revisión-o-modificación)
 
 
 ## [Consulta](http://docs.oasiscom.com/Operacion/is/hospital/gconsulta/gcon#consulta)
@@ -94,3 +95,24 @@ Botones de la Firma:
 | ![](imagenlimpiar.png) | El botón cumple su funcionalidad para eliminar la firma que se encuentra en el recuadro y poder volver a repetirla |
 | ![](imagenguardar.png) | Al momento de elaborar la firma, con este botón se guarda la firma ya diligenciada. |
 | ![](imagendeshacer.png)| Su función es para eliminar cada trazo que consecutivamente se hizo para la firma| 
+
+## [Revisión o Modificación](#revisión-o-modificación)
+
+Para realizar la modificación de una consulta cerrada en días o meses anteriores, se ingresa a la aplicación **GCON - Consultas**, en esta aplicación realiza el filtro por el número de documento del paciente o por el profesional.
+
+![](gcon3.png)
+
+Se selecciona la consulta y ejecutan con el botón **Reversar** para que la consulta se vuelva a mostrar en la aplicación [FGCON - Formulario de Salud](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/fgcon). 
+
+Al momento de ingresar a la aplicación [FGCON - Formulario de Salud](https://docs.oasiscom.com/Operacion/is/hospital/gconsulta/fgcon) se ejecuta el clic en el botón **Buscar Consultas**
+
+![](gconbuscarconsulta.png)
+
+ Para realizar la búsqueda respectiva de la consulta al dar clic el sistema mostrara una ventana emergente donde se debe quitar los filtros de la fecha y se debe filtrar por el número de documento del paciente.  
+
+![](gcon4.png)
+
+
+selecciona la consulta a editar y por último clic en retornar registro, allí podrán realizar la modificación de la información y por último dar clic en SUBMIT para que la consulta se vuelva almacenar y a cerrar.  
+
+ 
