@@ -9,11 +9,12 @@ editable: si
 
 Terminado el proceso de Selección, se procede a crear el Contrato por Nómina para la persona seleccionada.  En esta opción se ingresan datos importantes de los empleados para la empresa. Se debe adicionar un nuevo registro en el maestro con los datos requeridos.  
 
-- [Terceros BTER](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#terceros-bter)  
-- [Novedades NNOV](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#novedades-nnov)  
-- [Contratos NCNT](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#contratos-ncnt)  
-- [Empleados NBEM](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#empleados-nbem)  
-- [Control de acceso a la aplicación por turnos](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)  
+- [Terceros BTER](#terceros-bter)  
+- [Novedades NNOV](#novedades-nnov)  
+- [Pre-novedades FNNOE](#pre-novedades-fnnoe) 
+- [Contratos NCNT](#contratos-ncnt)  
+- [Empleados NBEM](#empleados-nbem)  
+- [Control de acceso a la aplicación por turnos](#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)  
 
 El proceso de ingreso de empleados inicia desde el registro del tercero, continua con la creación de la novedad de INGRESO y termina definiendo los detalles del contrato y entidades del empleado.  
 
@@ -22,29 +23,48 @@ El proceso de ingreso de empleados inicia desde el registro del tercero, continu
 En esta aplicación parametrizamos o registramos todos los terceros que podemos tener, para el sistema Oasis la palabra terceros se hace referencia a: empleados, clientes, proveedores, afiliados, vendedores, asociados, entre otros. Es decir, todas las personas que interactÚan o se relacionan con nuestro negocio.  
 
 1.	Registrar Tercero través de **TERCEROS (bter)**  
-  a)	Abrir el programa bter  
-  b)	Dar clic en agregar (+), ingresar los datos correspondientes al empleado y marcar el check  de (empleado)  
-  c)	Guardar.  
+  a.	Abrir el programa bter  
+  b.	Dar clic en agregar (+), ingresar los datos correspondientes al empleado y marcar el check  de (empleado)  
+  c.	Guardar.  
 
-![](Contrato.png)
+![](Contrato.jpg)
 
 ## [Novedades NNOV](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#novedades-nnov)  
 
 En esta aplicación se ingresan los conceptos que han sido creados como novedades, es importante diferenciar los tipos de novedades (recordemos que los conceptos ya se mencionaron en datos básicos en la opción NBCO - Conceptos).  
 
-2.	Registrar novedad a través de Novedades (nnov)  
-  a)	Abrir el programa nnov  
-  b)	Dar clic en agregar (+), en la sección “basic” ingresar los campos Documento (NV), Ubicación (1), Concepto (ING), Fecha (día de ingreso), Fecha final (dejar en blanco).  
+ Se debe registrar novedad a través de Novedades
+
+ ![](Contrato0.1.png)
+
+  Luego se da clic en el botón agregar en la barra de botones de maestro en la sección “basic” ingresar los campos Documento (NV), Ubicación (1), Concepto (ING), Fecha (día de ingreso), Fecha final (dejar en blanco).  
 
 ![](Contrato1.png)
 
-  c)	En la sección “Employeer” ingresar los campos Tercero (Identificación del empleado)  
-  d)	En la sección “Transfers/Promotions” adicional la información correspondiente a la Ubicación Laboral, PosicionId, Salario y Cargo.  
-  e)	Guardar documento y procesar novedad.  
+  c.	En la sección “Employeer” ingresar los campos Tercero (Identificación del empleado)  
+  d.	En la sección “Transfers/Promotions” adicional la información correspondiente a la Ubicación Laboral, PosicionId, Salario y Cargo.  
+  e.	Guardar documento y procesar novedad.  
   
   ![](Contrato2.png)
   
 Al procesar la novedad se creará automáticamente el contrato en la opción NCNT.
+
+## [Pre-novedades FNNOE](#pre-novedades-fnnoe) 
+
+Está aplicación tiene como funcionalidad crear novedades para el empleado. 
+
+| Campos | Descripción |
+| --- | ----------- |
+| Documento | Title |
+| Número | Text |
+| Ubicación| |
+| Concepto| |
+| Nombre Concepto| |
+| Tercero| |
+| Fecha| |
+| Final| |
+| Cantidad| Este campo es valido unicamente para ingresar la cantidad de días cuando se requieren vacaciones.|
+| Observación| |
 
 ## [Contratos NCNT](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#contratos-ncnt)  
 
@@ -55,15 +75,15 @@ Ubicación: nÚmero de ubicación de la empresa que registra el contrato.
 Tercero: nÚmero de identificación del empleado a quien se le realiza el contrato.   
 Tipo de nómina: seleccionar del zoom el tipo de nómina correspondiente.  
 
-![](Contrato3.png)
+![](Contrato3.jpg)
 
 3.	Registrar información adicional del contrato a través de Contratos (ncnt)    
-  a)	Abrir el programa ncnt  
-  b)	Buscar con la identificación del Tercero el nÚmero de contrato creado.  
-  c)	En la sección “Detalle” asignar la información de Tipo Salario, TariffRisk (tarifa de riesgo) y Deducible Salud (Valor pagado por el empleado y que debe ser descontado al momento de calcular retención en la fuente).  
-  d)	Guardar Cambios  
+  a.	Abrir el programa ncnt  
+  b. Buscar con la identificación del Tercero el nÚmero de contrato creado.  
+  c.	En la sección “Detalle” asignar la información de Tipo Salario, TariffRisk (tarifa de riesgo) y Deducible Salud (Valor pagado por el empleado y que debe ser descontado al momento de calcular retención en la fuente).  
+  d.	Guardar Cambios  
   
-  ![](Contrato4.png)
+  ![](Contrato4.jpg)
   
 ## [Empleados NBEM](http://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/ncnt#empleados-nbem)  
 
@@ -75,7 +95,7 @@ a)	Abrir el programa nbem
 b)	Buscar con la identificación del Empleado.  
 c)	En la sección “Maestro” asignar la información de Tipo de cuenta y Numero (En caso de usarse)  
 
- ![](Contrato5.png)
+ ![](Contrato5.jpg)
  
 En la sección “Detalle” ingresar la información correspondiente a las entidades a las cuales está afiliado el empleado, teniendo en cuenta el Tipo de Entidad, NIT Entidad y Fecha inicial, NO se debe ingresar fecha final.  
 
