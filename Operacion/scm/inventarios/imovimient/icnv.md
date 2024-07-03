@@ -9,21 +9,21 @@ editable: si
 
 La aplicación **ICNV** permite armar los kit que emplearan en la producción de un producto.  En donde se registran entradas, las cuales harán referencia a los componentes del producto y se registran así mismo las salidas, que son el producto final.  
 
-* [**Proceso de Conversiones**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#proceso-de-conversiones)
-- [**Armado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#armado)
-- [**Desarmado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#desarmado)
-* [**Pestaña Contabilización Resumida**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#pestaña-contabilización-resumida)
-* [**Vista previa**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#vista-previa)
+- [Proceso de Conversiones](#proceso-de-conversiones)
+- [Armado](#armado)
+- [Desarmado](#desarmado)
+* [Pestaña Contabilización Resumida](#pestaña-contabilización-resumida)
+- [Vista previa](#vista-previa)
 
 
-## [**Proceso de Conversiones**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#proceso-de-conversiones)
+## [Proceso de Conversiones](v#proceso-de-conversiones)
 
 
 Antes de relizar este proceso se debe ingresar a la aplicación [**BDOC - Documento**](http://docs.oasiscom.com/Operacion/common/bsistema/bdoc) se debe filtrar por el número de documento **CN** de *conversiones* de inventario y se valida que el campo contabilidad esté en la opción suma y el campo inventario esté en resta. 
 
 ![](conversion.png)
 
-### [**Armado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#armado)
+## [Armado](#armado)
 
 A continuación, vemos un ejemplo de un kit compuesto por tela y botones representando las entradas, dejando como salida una camisa sencilla.
 
@@ -76,7 +76,15 @@ El costo unitario de todos los productos está en cero, procesamos ![](procesar.
 
 Nos dirigimos a la aplicación [**ISPL**](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl) refrescamos, verificamos cantidades del producto final y materia prima que se utilizo para verificar si estas cantidades variaron al momento de realzar el producto final.
 
-### [**Desarmado**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#desarmado)
+Para este proceso, también se tiene en cuenta la creación del campo **Factor**
+
+**// imagen donde muestra el campo //**
+
+Este campo cuenta con una configuración el cual permite modificarse ahí mismo en el detalle dado caso que entren conversiones nuevas.
+
+Este campo toma el promedio de los productos de acuerdo a la ubicación. 
+
+## [Desarmado](#desarmado)
 
 Ingresamos a la aplicación **ICNV** crear un nuevo registro **+.**
 
@@ -115,13 +123,13 @@ Luego de verificar el producto en esta aplicación, en la aplicación **ICNV** n
 Volvemos a la aplicación [**ISPL**](http://docs.oasiscom.com/Operacion/scm/inventarios/isaldo/ispl) allí se validan los saldos de los productos que se hayan afectado correctamente.  
 
 
-## [**Pestaña Contabilización Resumida**](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#pestaña-contabilización-resumida)
+## [**Pestaña Contabilización Resumida**](#pestaña-contabilización-resumida)
 
 Se crea la pestaña “contabilización resumida” donde se **totalizan** los valores de las cuentas parametrizadas.  
  ![](icnv5.png)
 
 
-## [Vista previa](http://docs.oasiscom.com/Operacion/scm/inventarios/imovimient/icnv#vista-previa)
+## [Vista previa](#vista-previa)
 
 La aplicación ICNV cuenta con una vista previa que permite ver las entradas y salidas de la conversión de producto. Para acceder a ella, seleccionamos un registro del maestro y damos click en el botón ![](lupa.png).  
 

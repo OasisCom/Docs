@@ -91,6 +91,8 @@ Cuando se cree una consulta, el sistema relacionará la admisión a esta consult
 
 y al momento de procesar esta consulta, el sistema modifica automaticamente el número de la sesión en la admisión, para identificar cuantas sesiones hacen falta.
 
+>**Nota:** OasisCom tiene un proceso que es cuando se lleva la autorización, hay un control que el sistema no permite ingresar a un paciente si la autorización esta creada o ya fue creada, por ende no la deja crear porque el sistema valida la información antes de continuar con el proceso.
+
 # [Facturación Parcial](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/gadm#facturación-parcial)
 
 El botón **Factura parcial** de las admisiones es un cobro en donde no se paga toda la factura, si no la cantidad que se tiene en el campo de **# sesiones** en la parte del detalle.
