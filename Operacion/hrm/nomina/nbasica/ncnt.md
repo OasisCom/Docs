@@ -146,21 +146,24 @@ En el detalle de la aplicación se encuentra el campo _TurnId_ que indica cual e
 Para los turnos rotativos, es necesario realizar la programación que se explica en la aplicación.  
 [**NPRT - Rotación de Turnos**](http://docs.oasiscom.com//Operacion/hrm/asistencia/nasistenci/nprt).  
  
-El sistema controla que si se ejecuta **NLIT** para un tercero empleado, coincida el tipo de nomina **NBTN** ingresado con el asociado al tercero en el contrato de nómina **NCNT**. Si se corre para todos los terceros se valida que la forma de pago coincida con la periocidad del tipo de nomina.  
-Para el escenario donde los empleados (guardas) en **NBEM** se le parametriza la periocidad de forma de pago, si es mensual o quincenal; dependiendo del cliente donde esté prestando el servicio.  
+El sistema controla que si se ejecuta **NLIT - Liquidaciones** para un tercero empleado, coincida el tipo de nomina [**NBTN - Tipos de Nómina**]( https://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbtn).  
+
+Ingresado con el asociado al tercero en el contrato de nómina [Contratos NCNT](#contratos-ncnt). Si se corre para todos los terceros se valida que la forma de pago coincida con la periocidad del tipo de nomina.  
+
+
+Para el escenario donde los empleados [**NBTN - Tipos de Nómina**](https://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbem) se le parametriza la periocidad de forma de pago, si es mensual o quincenal; dependiendo del cliente donde esté prestando el servicio.  
 
 ![](ncnt11.png)  
 
 Y en el contrato de nómina **NCNT** tiene asociado un tipo de nómina que indica, si es quincenal o mensual.  
+
 ![](ncnt12.png)  
 
 El sistema realiza la siguiente validación:  
 
 * Contrato de nómina VS periocidad de pago según donde preste el servicio.  
 
-![](ncnt11.png)  
-
-Desde la pre_liquidación [NLIT], ingresa turnos adicionales a los guardas que se paga la nómina por programación (valor fijo modelo turno).  
+Desde la aplicación **NLIT - Liquidaciones** , ingresa turnos adicionales a los guardas que se paga la nómina por programación (valor fijo modelo turno).  
 
 
 
