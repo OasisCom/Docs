@@ -7,7 +7,7 @@ editable: si
 
 # Referencia y Contrareferencia - GRCF
 
-Esta aplicación e sunicamente de referencia cuando se presenta una emergencia médica.
+Esta aplicación es únicamente de referencia cuando se presenta una emergencia médica.
 
 Se agrega un registro 
 

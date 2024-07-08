@@ -9,13 +9,13 @@ editable: si
 
 Terminado el proceso de Selección, se procede a crear el Contrato por Nómina para la persona seleccionada.  En esta opción se ingresan datos importantes de los empleados para la empresa. Se debe adicionar un nuevo registro en el maestro con los datos requeridos.  
 
-- [Terceros BTER](#terceros-bter)  
-- [Pre-novedades FNNOE](#pre-novedades-fnnoe) 
+- [Terceros - BTER](#terceros-bter)  
+- [Pre-novedades - FNNOE](#pre-novedades-fnnoe) 
 - [Pre-Novedades - NNOE](#pre-novedades-nnoe) 
-- [Pre-Novedades - ENNOP](#pre-novedades-ennop)
-- [Novedades NNOV](#novedades-nnov)   
-- [Contratos NCNT](#contratos-ncnt)  
-- [Empleados NBEM](#empleados-nbem)  
+- [Pre-Novedades - NNOP](#pre-novedades-nnop)
+- [Novedades - NNOV](#novedades-nnov)   
+- [Contratos - NCNT](#contratos-ncnt)  
+- [Empleados - NBEM](#empleados-nbem)  
 - [Control de acceso a la aplicación por turnos](#control-de-acceso-a-la-aplicaci%C3%B3n-por-turnos)  
 
 El proceso de ingreso de empleados inicia desde el registro del tercero, continua con la creación de la novedad de INGRESO y termina definiendo los detalles del contrato y entidades del empleado.  
@@ -39,7 +39,7 @@ Y por último se guarda el registro.
 
 ## [Pre-novedades FNNOE](#pre-novedades-fnnoe) 
 
-Está aplicación tiene como funcionalidad para crear novedades del empleado. 
+Está aplicación tiene como funcionalidad de crear registro de Pre-novedades por parte del empleado.
 
 ![](Contratofnnoe.png)
 
@@ -48,28 +48,44 @@ Está aplicación tiene como funcionalidad para crear novedades del empleado.
 | Documento | De acuerdo a la parametrización que se tiene, se veran reflejados en el Zoom de este campo. |
 | Número | Automatico por el sistema |
 | Ubicación| Ubicación donde se encuentren |
-| Concepto| Se elige los conceptos parametrizados en la aplicación [**NBCO - Conceptos**](https://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbco)|
-| Nombre Concepto| Se coloca automaticamente el nombre del concepto que hayan asignado|
-| Tercero| Número de la persona que esta diligenciado la pre-novedad|
+| Concepto| Se elige el concepto requerido según la pre-novedade parametrizado en la aplicación [**NBCO - Conceptos**](https://docs.oasiscom.com/Operacion/hrm/nomina/nbasica/nbco)|
+| Nombre Concepto| El sistema trae automaticamente el nombre del concepto que se haya seleccionado.|
+| Tercero| Número de documento del empleado que diligencia la pre-novedad|
 | Fecha| Fecha inicial que se toma la novedad|
 | Final| Fecha final de la novedad|
-| Cantidad| Este campo es valido unicamente para ingresar la cantidad de días cuando se requieren vacaciones.|
-| Observación| Se especifica clara y directamente el motivo de la novedad.
+| Cantidad| Este campo es valido unicamente para ingresar la cantidad en días. |
+| Observación| Se especifica  el motivo de la novedad de ser necesario y cantidad de tiempo. |
 
-Cuando se ejecuta el botón de **Guardar** una vez realizado el registro, la novedad llega por medio del correo electrónico indicando el número de registro de la novedad.
+Una vez se guarda el registro, el sitema notifica por medio de correo electrónico al empleado y al rol que aprueba la Pre-Novedad.
 
 ![](Contratofnnoe1.png)
 
 
 ## [Pre-Novedades - NNOE](#pre-novedades-nnoe)
 
-Una vez realizada la creación de la novedad en la aplicación [**Pre-novedades FNNOE**](#pre-novedades-fnnoe) se vera visualizada la novedad. Lo cual esta aplicación es para Validación del Jefe inmediato. 
+Una vez creada la Pre-novedad en la aplicación [**Pre-novedades FNNOE**](#pre-novedades-fnnoe) el rol que aprueba la Pre-Novedad, podrá visualizar el registro en la aplicación **Pre-Novedades - NNOE**. Esta aplicación es para realizar una prea-aprobación de la Pre-novedad.
 
 ![](Contratonnoe.png)
 
-## [Pre-Novedades - ENNOP](#pre-novedades-ennop) 
+En caso de aprobar o rechazar se dirige al botón **Botones de Proceso** en donde se visualiza las opciones **Pre aprobar novedad** y **Rechazar novedad** y seleccionar la que corresponda. 
 
-Una vez aprobada la novedad que el tercero registro y el Jefe inmediato aprobo en la aplicación [Pre-Novedades - NNOE](#pre-novedades-nnoe) esta aplicación la menaje la **Gestión de Recursos Humanos** lo cual es la ultima aprobación que realizan.
+![](Contratoregis.png)
+
+En caso de ser rechazada la **Pre-Novedad**, no se visualizará en la aplicación y de ser aprobada se vera el registro en la aplicación **Pre-Novedades - NNOP**.
+
+Una vez pre-aprobada la **Pre-novedad** en la aplicación **Pre-Novedades - NNOE**  el sistema automáticamente envía un correo electronico, indicando que la Pre-novedad se **pre-aprobó**
+
+![](Contratopre.png)
+
+## [Pre-Novedades - NNOP](#pre-novedades-ennop) 
+
+En la aplicación [Pre-Novedades - ENNOP](#pre-novedades-ennop) este como ultimo paso es verificado por el rol encargado de las Pre-novedades y es la ultima verificación que realizan.
+
+![](Contratonnop.png)
+
+Una vez realizado este procedimiento se enviara nuevamente un correo notificando que la Pre-novedad ya ha sido aprobada oficialmente. 
+
+![](Contratoapro.png)
 
 ## [Novedades NNOV](#novedades-nnov)  
 

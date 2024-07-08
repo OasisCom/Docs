@@ -505,7 +505,7 @@ y luego al validar en la aplicación se evidencia a la imagen cargada
 
 ## [**Bint Para Supersalud**](#bint-para-supersalud)
 
-Este **Bint** es para es un reporte de facturación radicada por IPS a entidades de aseguramiento en Salud.
+Este **Bint** genera un reporte de facturación radicada por IPS a entidades de aseguramiento en Salud.
 
 Este reporte se descarga y se reporta a la Supersalud.
 
