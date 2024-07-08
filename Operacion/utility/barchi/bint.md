@@ -15,28 +15,27 @@ BINT permite subir multiples archivos _XML_ comprimidos en formato **ZIP** por m
 
 ## **Menú**
 
-1. [**Medios Magnéticos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#medios-magnéticos)  
-2. [**Parametrización XML**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parametrización-xml)  
-3. [**Archivos planos de Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-planos-de-salud) 
-- [**Publicación 101 Super FT001**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-101-super-ft001)   
-- [**Publicación 103 Super FT003**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-103-super-ft003)    
-- [**Publicación 104 Super FT004**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#publicación-104-super-ft004)    
-4. [**Archivos Conciliación Salud**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#archivos-conciliación-salud)  
-5. [**Parámetros en Mensajes de Error**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#parámetros-en-mensajes-de-error)  
-6. [**Subir productos al Marketplace**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subir-productos-al-marketplace)  
-7. [**Carga de imágenes al MarketPlace**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#carga-de-imágenes-al-marketplace)  
-8. [**Envío de facturas a la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#envío-de-facturas-a-la-dian)  
-9. [**Formatos reportes FT006 - FT010 - FT011**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#formatos-reportes-ft006---ft010---ft011)  
-10. [**Certificado de Ingresos y Retenciones**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#certificado-de-ingresos-y-retenciones)  
-11. [**Exportación de archivos .ZIP**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#exportación-de-archivos-zip)  
-12. [**Consulta de Resolución de la DIAN**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#consulta-de-resolución-de-la-dian)  
-13. [**Cargue de RIPS**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#cargue-de-rips)
-14. [**Dia sin Iva**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#dia-sin-iva)
-15. [**Hipertensos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#hipertensos)
+1. [**Medios Magnéticos**](#medios-magnéticos)  
+2. [**Parametrización XML**](#parametrización-xml)  
+3. [**Archivos planos de Salud**](#archivos-planos-de-salud) 
+- [**Publicación 101 Super FT001**](#publicación-101-super-ft001)   
+- [**Publicación 103 Super FT003**](t#publicación-103-super-ft003)    
+- [**Publicación 104 Super FT004**](#publicación-104-super-ft004)    
+4. [**Archivos Conciliación Salud**](#archivos-conciliación-salud)  
+5. [**Parámetros en Mensajes de Error**](#parámetros-en-mensajes-de-error)  
+6. [**Subir productos al Marketplace**](#subir-productos-al-marketplace)  
+7. [**Carga de imágenes al MarketPlace**](#carga-de-imágenes-al-marketplace)  
+8. [**Envío de facturas a la DIAN**](#envío-de-facturas-a-la-dian)  
+9. [**Formatos reportes FT006 - FT010 - FT011**](#formatos-reportes-ft006---ft010---ft011)  
+10. [**Certificado de Ingresos y Retenciones**](#certificado-de-ingresos-y-retenciones)  
+11. [**Exportación de archivos .ZIP**](#exportación-de-archivos-zip)  
+12. [**Consulta de Resolución de la DIAN**](#consulta-de-resolución-de-la-dian)  
+13. [**Cargue de RIPS**](#cargue-de-rips)
+14. [**Dia sin Iva**](#dia-sin-iva)
+15. [**Hipertensos**](#hipertensos)
 16. [**Archivos Tipo PT (descarga)**](http://docs.oasiscom.com/Operacion/utility/barchi/archivos-tipo-pt.pdf)
-
-16. [**Subida de imagenes de productos**](http://docs.oasiscom.com/Operacion/utility/barchi/bint#subida-de-imagenes-de-productos)
-
+17. [**Subida de imagenes de productos**](#subida-de-imagenes-de-productos)
+18. [**Bint Para Supersalud**](#bint-para-supersalud)
 
 Existe la funcionalidad para listas de parámetros en **[BINT]**, ahora se puede definir como argumentos, listas de parámetros las cuales pueden traer la información desde el **[BCRC]** Características o por una consulta SQL.  
 * ![](bcrc1.png)  
@@ -503,3 +502,12 @@ y luego se debe realizar el cargue por medio de la interfaz
 y luego al validar en la aplicación se evidencia a la imagen cargada
 
 ![](bint-feet6.png) 
+
+## [**Bint Para Supersalud**](#bint-para-supersalud)
+
+Este **Bint** genera un reporte de facturación radicada por IPS a entidades de aseguramiento en Salud.
+
+Este reporte se descarga y se reporta a la Supersalud.
+
+![](025.png)  
+

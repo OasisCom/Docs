@@ -13,3 +13,4 @@ Está integrado por las aplicaciones:
 * [**GHOS**](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/ghos) - Hospitalización
 * [**GENF**](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/genf) - Enfermeria
 * [**GRCF**](http://docs.oasiscom.com/Operacion/is/hospital/ghospital/grcf) - Referencia y Contrareferencia
+
