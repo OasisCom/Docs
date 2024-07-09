@@ -58,34 +58,34 @@ Está aplicación tiene como funcionalidad de crear registro de Pre-novedades po
 
 Una vez se guarda el registro, el sitema notifica por medio de correo electrónico al empleado y al rol que aprueba la Pre-Novedad.
 
-![](Contratofnnoe1.png)
+![](contratofnnoe1.png)
 
 
 ## [Pre-Novedades - NNOE](#pre-novedades-nnoe)
 
 Una vez creada la Pre-novedad en la aplicación [**Pre-novedades FNNOE**](#pre-novedades-fnnoe) el rol que aprueba la Pre-Novedad, podrá visualizar el registro en la aplicación **Pre-Novedades - NNOE**. Esta aplicación es para realizar una prea-aprobación de la Pre-novedad.
 
-![](Contratonnoe.png)
+![](contratonnoe.png)
 
 En caso de aprobar o rechazar se dirige al botón **Botones de Proceso** en donde se visualiza las opciones **Pre aprobar novedad** y **Rechazar novedad** y seleccionar la que corresponda. 
 
-![](Contratoregis.png)
+![](contratoregis.png)
 
 En caso de ser rechazada la **Pre-Novedad**, no se visualizará en la aplicación y de ser aprobada se vera el registro en la aplicación **Pre-Novedades - NNOP**.
 
 Una vez pre-aprobada la **Pre-novedad** en la aplicación **Pre-Novedades - NNOE**  el sistema automáticamente envía un correo electronico, indicando que la Pre-novedad se **pre-aprobó**
 
-![](Contratopre.png)
+![](contratopre.png)
 
 ## [Pre-Novedades - NNOP](#pre-novedades-ennop) 
 
 En la aplicación [Pre-Novedades - ENNOP](#pre-novedades-ennop) este como ultimo paso es verificado por el rol encargado de las Pre-novedades y es la ultima verificación que realizan.
 
-![](Contratonnop.png)
+![](contratonnop.png)
 
 Una vez realizado este procedimiento se enviara nuevamente un correo notificando que la Pre-novedad ya ha sido aprobada oficialmente. 
 
-![](Contratoapro.png)
+![](contratoapro.png)
 
 ## [Novedades NNOV](#novedades-nnov)  
 
@@ -99,7 +99,7 @@ En caso de que alguna novedad, no se encuentre registrado la novedad que tuvo el
 
 Ejecutan el clic de **Adicionar** para crear el registro
 
- ![](Contrato0.1.png)
+ ![](contrato0.1.png)
 
 Saldra el formulario a llenar, el cual debe ir la información correspondiente a la novedad.
 

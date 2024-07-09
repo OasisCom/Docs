@@ -14,7 +14,7 @@ La aplicación **GCON** permite visualizar y crear consultas médicas, donde se 
 
 * [Consulta](#consulta)
 * [Generación de producto facturado](#generación-de-producto-facturado)
-* [Firmas](#firmas)
+* [Firmas Consulta](#firmas-consulta)
 * [Revisión o Modificación](#revisión-o-modificación)
 
 
@@ -67,7 +67,7 @@ Al abrir la aplicación, en la pestaña **_Detalle_** el sistema habrá creado u
 
 ![](gcon2.png)
 
- ## [Firmas](#firmas)
+ ## [Firmas Consulta](#firmas-consulta)
 
 Se agrega una nueva funcionalidad para poder crear firmas como archivos adjuntos.
 Para poder validar el correcto funcionamiento se deben seguir las siguientes configuraciones.
@@ -75,18 +75,18 @@ Para poder validar el correcto funcionamiento se deben seguir las siguientes con
 Este es un paso a paso del proceso de creación y verificación de firmas como adjuntos:
 Se ingresa a la aplicativo [**SCAM - Campos**](http://docs.oasiscom.com/Operacion/system/sconfig/scam) donde se han agregado  validaciones en el  para las aplicaciones del **GCON - Consultas**. 
 
-![](firma2.png) 
+![](Firma2.png) 
 
 Una vez validado la configuración, se dirigen nuevamente a la aplicación **GCON - Consultas**.
 Al abrir el icono de la firma, se visualiza la ventana emergente para ingresar la firma del paciente. Se realiza con el cursos del Mouse.
 
 Al guardar sale un mensaje de control que se guardo con exito.
 
-![](firma4.png)
+![](Firma4.png)
 
 Se puede validar el guardado de la firma, en adjuntos, que se encuentra como un archivo donde queda como evidencia del proceso.
 
-![](firma7.png)
+![](Firma7.png)
 
 Botones de la Firma: 
 
