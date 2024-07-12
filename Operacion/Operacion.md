@@ -13,89 +13,89 @@ A continuación se realizará la explicación de la operatividad básica del sis
 
 ## Menú
 
-1. [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)  
-2. [Menú OasisCom](http://docs.oasiscom.com/Operacion/#men%C3%BA-oasiscom)  
-2.1 [Configuración del perfil](http://docs.oasiscom.com/Operacion/#configuraci%C3%B3n-del-perfil)  
-2.2 [Crear empresa - Suscripción](http://docs.oasiscom.com/Operacion/#crear-empresa---suscripci%C3%B3n)  
-2.3 [Cambiar empresa](http://docs.oasiscom.com/Operacion/#cambiar-empresa)  
-2.4 [Soporte](http://docs.oasiscom.com/Operacion/#soporte)  
-2.5 [Comentarios](http://docs.oasiscom.com/Operacion/#comentarios)  
-2.6 [Ayuda](http://docs.oasiscom.com/Operacion/#ayuda)  
-2.7 [Facturas](http://docs.oasiscom.com/Operacion/#facturas)  
-3. [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)  
-4. [Traducción de login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#traducci%C3%B3n-de-login-de-acuerdo-al-navegador)  
-5. [Caducidad de contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contrase%C3%B1as)  
-6. [Reconocimiento de voz](http://docs.oasiscom.com/Operacion/#reconocimiento-de-voz)
-7. [Acceso a programas de navegación](http://docs.oasiscom.com/Operacion/#acceso-a-programas-de-navegaci%C3%B3n)  
-8. [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-b%C3%BAsqueda)  
-9. [Maestro - detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)  
-10. [Filtros](http://docs.oasiscom.com/Operacion/#filtros)  
-11. [Filtros avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)  
-12. [Ordenamiento](http://docs.oasiscom.com/Operacion/#ordenamiento)  
-13. [Opciones de documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)  
-13.1 [Eliminar](http://docs.oasiscom.com/Operacion/#eliminar)  
-13.2 [Agregar](http://docs.oasiscom.com/Operacion/#agregar)  
-13.3 [Guardar](http://docs.oasiscom.com/Operacion/#guardar)  
-13.4 [Cancelar](http://docs.oasiscom.com/Operacion/#cancelar)  
-13.5 [Confirmar o Procesar](http://docs.oasiscom.com/Operacion/#confirmar-o-procesar)  
-13.6 [Reversar](http://docs.oasiscom.com/Operacion/#reversar)  
-13.7 [Anular](http://docs.oasiscom.com/Operacion/#anular)  
-13.8 [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)  
-13.9 [Impresión directa](http://docs.oasiscom.com/Operacion/#impresi%C3%B3n-directa)  
-13.10 [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)  
-13.11 [Imprimir reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)  
-13.12 [Vista preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)  
-13.12_01 [Vista previa múltiple](http://docs.oasiscom.com/Operacion/#vista-previa-múltiple)  
-13.13 [Importar](http://docs.oasiscom.com/Operacion/#importar)  
-13.14 [Exportar](http://docs.oasiscom.com/Operacion/#exportar)  
-14. [Restricción exportación reporte](http://docs.oasiscom.com/Operacion/#restricci%C3%B3n-exportaci%C3%B3n-reporte)  
-15. [Refrescar o actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)  
-16. [Archivo imágenes](http://docs.oasiscom.com/Operacion/#archivo-imágenes)  
-17. [Borrado masivo](http://docs.oasiscom.com/Operacion/#borrado-masivo)  
-18. [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)  
-19. [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)  
-20. [Visualización de adjuntos](http://docs.oasiscom.com/Operacion/#visualizaci%C3%B3n-de-adjuntos)  
-21. [Control de Adjuntos](http://docs.oasiscom.com/Operacion/#control-de-adjuntos)  
-22. [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)  
-23. [Vista zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)  
-24. [Creación de cliente mediante zoom](http://docs.oasiscom.com/Operacion/#creaci%C3%B3n-de-cliente-mediante-un-zoom)  
-25. [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)  
-26. [Vista formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)  
-27. [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)  
-28. [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)  
-29. [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-autom%C3%A1ticos)  
-30. [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)  
-31. [Envío de correo electrónico OasisCom](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-correo-electr%C3%B3nico-oasiscom)  
-32. [Envío de reportes por correo electrónico](http://docs.oasiscom.com/Operacion/#env%C3%ADo-de-reportes-por-correo-electr%C3%B3nico)  
-33. [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)  
-34. [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)  
-35. [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)  
-36. [Fijar pestañas](http://docs.oasiscom.com/Operacion/#fijar-pesta%C3%B1as)  
-37. [Foro](http://docs.oasiscom.com/Operacion/#foro)  
-38. [Temas](http://docs.oasiscom.com/Operacion/#temas)  
-39. [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)  
-40. [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)  
-40.1. [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilizaci%C3%B3n-de-columnas)  
-40.2 [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)  
-40.3 [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)  
-40.4 [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)  
-40.5 [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opci%C3%B3n)  
-40.6 [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opci%C3%B3n)  
-41. [Formularios dinámicos](http://docs.oasiscom.com/Operacion/#formularios-din%C3%A1micos)  
-42. [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
-43. [Adjuntos y comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)  
-44. [Peso dinámico](http://docs.oasiscom.com/Operacion/#peso-din%C3%A1mico)  
-45. [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)  
-46. [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)  
-47. [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
-48. [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
-49. [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
-50. [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)
-51. [POWER - BI](http://docs.oasiscom.com/Operacion/#power-bi)
+1. [Registro OasisCom](#registro-oasiscom)  
+2. [Menú OasisCom](#men%C3%BA-oasiscom)  
+2.1 [Configuración del perfil](#configuraci%C3%B3n-del-perfil)  
+2.2 [Crear empresa - Suscripción](#crear-empresa---suscripci%C3%B3n)  
+2.3 [Cambiar empresa](#cambiar-empresa)  
+2.4 [Soporte](#soporte)  
+2.5 [Comentarios](#comentarios)  
+2.6 [Ayuda](#ayuda)  
+2.7 [Facturas](#facturas)  
+3. [Consultas dinámicas](#consultas-din%C3%A1micas)  
+4. [Traducción de login de acuerdo al navegador](#traducci%C3%B3n-de-login-de-acuerdo-al-navegador)  
+5. [Caducidad de contraseñas](#caducidad-de-contrase%C3%B1as)  
+6. [Reconocimiento de voz](#reconocimiento-de-voz)
+7. [Acceso a programas de navegación](#acceso-a-programas-de-navegaci%C3%B3n)  
+8. [Filtro de búsqueda](#filtro-de-b%C3%BAsqueda)  
+9. [Maestro - detalle de los programas](#maestro---detalle-de-los-programas)  
+10. [Filtros](#filtros)  
+11. [Filtros avanzados](#filtros-avanzados)  
+12. [Ordenamiento](#ordenamiento)  
+13. [Opciones de documentos](#opciones-de-documentos)  
+13.1 [Eliminar](#eliminar)  
+13.2 [Agregar](#agregar)  
+13.3 [Guardar](#guardar)  
+13.4 [Cancelar](#cancelar)  
+13.5 [Confirmar o Procesar](#confirmar-o-procesar)  
+13.6 [Reversar](#reversar)  
+13.7 [Anular](#anular)  
+13.8 [Imprimir](#imprimir)  
+13.9 [Impresión directa](#impresi%C3%B3n-directa)  
+13.10 [Imprimir en lote](#imprimir-en-lote)  
+13.11 [Imprimir reportes](#imprimir-reportes)  
+13.12 [Vista preliminar](#vista-preliminar)  
+13.12_01 [Vista previa múltiple](#vista-previa-múltiple)  
+13.13 [Importar](#importar)  
+13.14 [Exportar](#exportar)  
+14. [Restricción exportación reporte](#restricci%C3%B3n-exportaci%C3%B3n-reporte)  
+15. [Refrescar o actualizar](#refrescar-o-actualizar)  
+16. [Archivo imágenes](#archivo-imágenes)  
+17. [Borrado masivo](#borrado-masivo)  
+18. [Limpiar consulta](#limpiar-consulta)  
+19. [Adjuntos](#adjuntos)  
+20. [Visualización de adjuntos](#visualizaci%C3%B3n-de-adjuntos)  
+21. [Control de Adjuntos](#control-de-adjuntos)  
+22. [Mensajes](#mensajes)  
+23. [Vista zoom](#vista-zoom)  
+24. [Creación de cliente mediante zoom](#creaci%C3%B3n-de-cliente-mediante-un-zoom)  
+25. [Multiadicionar](#multiadicionar)  
+26. [Vista formulario](#vista-formulario)  
+27. [Copy-Paste](#copy-paste)  
+28. [Totales en detalles por consulta general](#totales-en-detalles-por-consulta-general)  
+29. [Workflow para procesos automáticos](#workflow-para-procesos-autom%C3%A1ticos)  
+30. [Duplicar registro](#duplicar-registro)  
+31. [Envío de correo electrónico OasisCom](#env%C3%ADo-de-correo-electr%C3%B3nico-oasiscom)  
+32. [Envío de reportes por correo electrónico](#env%C3%ADo-de-reportes-por-correo-electr%C3%B3nico)  
+33. [Comentarios o notas](h#comentarios-o-notas)  
+34. [Notificaciones](#notificaciones)  
+35. [Favoritos](#favoritos)  
+36. [Fijar pestañas](#fijar-pesta%C3%B1as)  
+37. [Foro](#foro)  
+38. [Temas](#temas)  
+39. [TaskWorkFlow](#taskworkflow)  
+40. [Acciones sobre columnas](#acciones-sobre-columnas)  
+40.1. [Inmovilización de columnas](#inmovilizaci%C3%B3n-de-columnas)  
+40.2 [Agrupamiento de columnas](#agrupamiento-de-columnas)  
+40.3 [Ocultar columnas](#ocultar-columnas)  
+40.4 [Mover columnas](#mover-columnas)  
+40.5 [Guardar ajustes de opción](#guardar-ajustes-de-opci%C3%B3n)  
+40.6 [Restaurar ajustes de opción](#restaurar-ajustes-de-opci%C3%B3n)  
+41. [Formularios dinámicos](#formularios-din%C3%A1micos)  
+42. [Colores en el detalle de acuerdo con la condición](#colores-en-el-detalle-de-acuerdo-con-la-condici%C3%B3n)  
+43. [Adjuntos y comentarios](#adjuntos-y-comentarios)  
+44. [Peso dinámico](#peso-din%C3%A1mico)  
+45. [Restricciones en reportes](#restricciones-en-reportes)  
+46. [Tipos de alertas](#tipos-de-alertas)  
+47. [Consulta rapida productos](#consulta-rapida-productos)  
+48. [Personalizacion de zoom](#personalizacion-de-zoom)  
+49. [Parámetros iniciales exportador dinámicos](#parámetros-iniciales-exportador-dinámicos)  
+50. [Vistas previas opciones tipo A, B en SCAM](#vistas-previas-opciones-tipo-a-b-en-scam)
+51. [Power BI](#power-bi)
   
 
 
-## [Registro OasisCom](http://docs.oasiscom.com/Operacion/#registro-oasiscom)
+## [Registro OasisCom](#registro-oasiscom)
 
 En el explorador de internet se debe ingresar al siguiente link http://app.oasiscom.com/ para acceder a OasisCom
 
@@ -138,7 +138,7 @@ En la parte superior derecha encontrarás los datos de inicio de sesión a la ap
 
 Al ingresar tu usuario y contraseña el sistema te enviará al menú principal del sistema de información.
 
-## [Menú OasisCom](http://docs.oasiscom.com/Operacion/#menú-oasiscom)
+## [Menú OasisCom](#menú-oasiscom)
 
 
 OasisCom cuenta con un menú que permite configurar el perfil, crear empresa, cambiar de empresa, solicitar soporte técnico, enviar comentarios, buscar ayuda documental y audiovisual o salir del sistema. Dicho menú se puede ver al dar click en el botón ![](menu1.png) que seencuentra junto al nombre del usuario.  
@@ -149,7 +149,7 @@ La opción _Perfil_ y _Cerrar Sesión_ se podrán ver al dar click en el nombre 
 
 ![](menu3.png)
 
-#### [**Configuración del perfil**](http://docs.oasiscom.com/Operacion/#configuración-del-perfil)  
+#### [**Configuración del perfil**](#configuración-del-perfil)  
 
 Al dar click en la opción _Perfil_, el sistema arrojará una ventana en donde se podrá cambiar de idioma, agregar información personal, adjuntar una imagen de perfil y cambiar de contraseña. Por cada cambio realizado se debe dar click en _Guardar_, puesto que, no se permite guardar cambios de manera masiva.  
 
@@ -180,7 +180,7 @@ En editar perfil.
 ![](perfil5.png)
 
 
-#### [**Crear empresa - Suscripción**](http://docs.oasiscom.com/Operacion/#crear-empresa---suscripción)
+#### [**Crear empresa - Suscripción**](#crear-empresa---suscripción)
 
 Al dar click en la opción _Crear empresa_, se desplegará un formulario que se deberá diligenciar para crear una nueva empresa.  
 
@@ -216,7 +216,7 @@ Cuando el servidor retorne datos, estos se mostrarán en una tabla como la sigui
 
 ![](crear7.png)
 
-#### [**Cambiar empresa**](http://docs.oasiscom.com/Operacion/#cambiar-empresa) 
+#### [**Cambiar empresa**](#cambiar-empresa) 
 
 Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana con todas las empresas que tiene asignadas a su usuario, en dicha ventana se podrá seleccionar la empresa que requiere consultar y el sistema lo trasladará a la misma. En caso de conocer el nombre de la empresa existe un filtro avanzado en la parte superior el cual facilita al usuario la consulta de la empresa, esto se puede realizar por una palabra clave o por el nombre completo de la empresa:
 
@@ -236,14 +236,14 @@ Al dar click en la opción _Cambiar Empresa_, el sistema arrojará una ventana c
 
 
 
-#### [**Soporte**](http://docs.oasiscom.com/Operacion/#soporte)  
+#### [**Soporte**](#soporte)  
 
 Al dar click en el botón ![](menu1.png) se podrán ver las opciones _Soporte_ y _Seguimiento_, en la opción _Soporte_ se podrán cargar los casos de las incidencias o consultas presentadas en el sistema, para entender su funcionamiento ingresar a [**Soporte - ASOP**](http://docs.oasiscom.com/Operacion/system/sacceso/asop). En la opción _Seguimiento_, se podrá consultar la etapa en la que se encuentra el caso cargado anteriormente en ASOP, para consultar su funcionamiento, ingresar a [**Monitoring Cases - ASEG**](http://docs.oasiscom.com/Operacion/system/sacceso/aseg).  
 
 ![](SOPORTE.png)
 
 
-#### [**Comentarios**](http://docs.oasiscom.com/Operacion/#comentarios)  
+#### [**Comentarios**](#comentarios)  
 
 
 Al dar click en la opción _Comentarios_ se abrirá la aplicación [**Comentarios - APQR**](http://docs.oasiscom.com/Operacion/system/sacceso/apqr), la cual permite enviar comentarios relacionados al sistema o a los servicios prestados por Oasis.  
@@ -251,7 +251,7 @@ Al dar click en la opción _Comentarios_ se abrirá la aplicación [**Comentario
 ![](COMENTARIOS.png)
 
 
-#### [**Ayuda**](http://docs.oasiscom.com/Operacion/#ayuda)  
+#### [**Ayuda**](#ayuda)  
 
 Al dar click en la opción _Ayuda_, el sistema arrojará un buscador en el cual se puede consultar el tema de inquitud o una aplicación en específico. 
 
@@ -272,7 +272,7 @@ Al consultar, se abrirá una nueva ventana en el navegador con el enlace [http:/
 * **Desarrollo:** Características técnicas, metodología a utilizar, creación de reportes.  
 
 
-#### [**Facturas**](http://docs.oasiscom.com/Operacion/#facturas)  
+#### [**Facturas**](#facturas)  
 
 El sistema permite realizar los pagos de las facturas pendientes por cancelar a OasisCom.  
 
@@ -285,14 +285,14 @@ Al dar click nos arrojará una ventana con las facturas pendientes de pago. Sele
 ![](facturas1.png)
 
 
-## [Consultas dinámicas](http://docs.oasiscom.com/Operacion/#consultas-din%C3%A1micas)
+## [Consultas dinámicas](#consultas-din%C3%A1micas)
 
 El botón de _Consultas Dinámicas_ se puede observar en diferentes aplicaciones, este se encuentra en la parte superior o maestro, la apariencia del botón puede variar de acuerdo a las aplicaciones, se puede visualizar así ![](boton1.png) o ![](boton2.png).  
 
 Este botón nos permite realizar consultas detalladas sobre el registro seleccionado, se debe seleccionar el registro y dar click en el botón de _consulta dinámica_ y el sistema arrojará un recuadro con la consulta de algunos campos. Para validar algunos ejemplos remitirse a las siguientes aplicaciones [**COPR - Pedidos Retenidos**](http://docs.oasiscom.com/Operacion/erp/cartera/coperacion/copr#consultas-dinámicas), [**VPED - Pedidos**](http://docs.oasiscom.com/Operacion/scm/ventas/vpedido/vped#consultas-dinámicas) y [**GFAC - Facturas**](http://docs.oasiscom.com/Operacion/is/hospital/gfacturacion/gfac#consultas-dinámicas).
 
 
-## [Traducción de Login de acuerdo al navegador](http://docs.oasiscom.com/Operacion/#traducción-de-login-de-acuerdo-al-navegador)
+## [Traducción de Login de acuerdo al navegador](#traducción-de-login-de-acuerdo-al-navegador)
 
 De acuerdo al idioma que se tenga definido en el navegador de preferencia, al ingresar a OasisCom se mostrará la página de inicio con el idioma correspondiente.  
 
@@ -306,12 +306,12 @@ Se debe tener en cuenta que si el navegador tiene un lenguaje diferente a _Espa�
 ![](mozilla2.png)
 
 
-## [Caducidad de Contraseñas](http://docs.oasiscom.com/Operacion/#caducidad-de-contraseñas)
+## [Caducidad de Contraseñas](#caducidad-de-contraseñas)
 
 El sistema OASISCOM, solicitará a los usuarios realizar el cambio de sus contraseñas cada cierto tiempo de acuerdo a como se haya definido en las aplicaciones [**SDOM - Dominios**](http://docs.oasiscom.com/Operacion/cloud/sbasica/sdom) y [**SUSU - Usuarios**](http://docs.oasiscom.com/Operacion/system/sacceso/susu).
 
 
-## [Reconocimiento de Voz](http://docs.oasiscom.com/Operacion/#reconocimiento-de-voz)
+## [Reconocimiento de Voz](#reconocimiento-de-voz)
 
 En el filtro de búsqueda de aplicaciones se encuentra el icono ![](voz.png), el cual permite realizar la búsqueda de diferentes aplicaciones por reconocimiento de voz.  
 
@@ -328,7 +328,7 @@ Una vez habilitado, el micrófono se tornará rojo indicando que está activado 
 ![](voz3.png)
 
 
-##  [Acceso a programas de Navegación](http://docs.oasiscom.com/Operacion/#acceso-a-programas-de-navegación)
+##  [Acceso a programas de Navegación](#acceso-a-programas-de-navegación)
 
 En la parte superior de la aplicación se encuentra el cuadro de texto para ingresar o escribir el nemotécnico del programa al que se desea acceder.  
 
@@ -374,7 +374,7 @@ Existen cuatro tipos de ventana, movimientos, básicos, reporte y procesos espec
 
 -	Procesos Especiales: para un nemotécnico de una ventana de un proceso especial, inicia con la letra representativa del módulo seguida de la letra (P) y por último el nombre de la aplicación. Ejemplo: KPCR Cierre de resultados.  
 
-## [Filtro de búsqueda](http://docs.oasiscom.com/Operacion/#filtro-de-b%C3%BAsqueda)
+## [Filtro de búsqueda](#filtro-de-b%C3%BAsqueda)
 
 El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada mediante el nemotécnico, el nombre de la aplicación o alguna palabra clave.  
 
@@ -395,13 +395,13 @@ El _Filtro de búsqueda_ permite al usuario consultar la aplicación deseada med
 
 Como sea que haya consultado el usuario de acuerdo a las opciones explicadas anteriormente, se ingresará a la opción normalmente, conservando la misma funcionalidad del filtro anterior.  
 
-##  [Maestro - Detalle de los programas](http://docs.oasiscom.com/Operacion/#maestro---detalle-de-los-programas)
+##  [Maestro - Detalle de los programas](#maestro---detalle-de-los-programas)
 
 Al ingresar a un programa se verán en la parte superior e inferior el maestro y detalle del mismo.  
 
 ![](maestrodetalle1.png)
 
-## [Filtros](http://docs.oasiscom.com/Operacion/#filtros)
+## [Filtros](#filtros)
 
 Para poder realizar filtros en la aplicación solo debes ubicarte en una de las casillas del maestro y filtras por el campo que necesites.  
 
@@ -413,7 +413,7 @@ En el detalle de las aplicaciones, es posible filtrar la información contenida 
 
 ![](filtros3.png)
 
-## [Filtros Avanzados](http://docs.oasiscom.com/Operacion/#filtros-avanzados)
+## [Filtros Avanzados](#filtros-avanzados)
 
 La función de Filtros Avanzados, permite acceder a la información de manera más específica de acuerdo a la necesidad. Esta opción está representada por el botón ![](filtrosavanzados1.png)  
 
@@ -437,7 +437,7 @@ Si adicional a la fecha, deseamos también filtrar por ubicación, agregamos un 
 
 ![](filtrosavanzados7.png)
 
-## [Ordenamiento](http://docs.oasiscom.com/Operacion/#ordenamiento)
+## [Ordenamiento](#ordenamiento)
 
 En el sistema se puede realizar el ordenamiento en diferentes campos de forma ascendente o descendente, para esto se requiere seleccionar el nombre del campo, cabe resaltar que los campos que son calculados no se pueden ordenar:
 
@@ -450,7 +450,7 @@ En el sistema se puede realizar el ordenamiento en diferentes campos de forma as
 ![](ordendescendente.png)
 
 
-## [Opciones de Documentos](http://docs.oasiscom.com/Operacion/#opciones-de-documentos)
+## [Opciones de Documentos](#opciones-de-documentos)
 
 En las ventanas de los programas hay varias opciones para los documentos como son (crear, consultar, editar, eliminar, refrescar, guardar, etc…).  
 
@@ -459,7 +459,7 @@ En las ventanas de los programas hay varias opciones para los documentos como so
 El funcionamiento de cada botón es:  
 
 
-### [Eliminar](http://docs.oasiscom.com/Operacion/#eliminar)
+### [Eliminar](#eliminar)
 
 Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detalle en la aplicación, el registro en el maestro no podrá ser eliminado, puesto que, ya generó un consecutivo según la aplicación. Pero en aplicaciones de tipo de ventana de básicos si permite eliminar el maestro.  
 
@@ -468,7 +468,7 @@ Cuando la ventana es tipo movimiento, el sistema solo permite eliminar el detall
 ![](eliminar2.png)
 
 
-### [Agregar](http://docs.oasiscom.com/Operacion/#agregar)
+### [Agregar](#agregar)
 
 La funcionalidad permite agregar un nuevo registro en la aplicación.  
 
@@ -478,7 +478,7 @@ Luego de hacer clic en la opción agregar, el sistema nos solicitará toda la in
 
 ![](agregar2.png)
 
-### [Guardar](http://docs.oasiscom.com/Operacion/#guardar)
+### [Guardar](#guardar)
 
 Cuando realicemos una creación o edición de documentos, con éste botón salvamos todos los cambios realizados.  
 
@@ -488,14 +488,14 @@ Al guardar, los documentos quedarán en estado _Activo_ sin ningún color en esp
 
 ![](agregar3.png)
 
-### [Cancelar](http://docs.oasiscom.com/Operacion/#cancelar)
+### [Cancelar](#cancelar)
 
 Esta opción la utilizamos cuando por algún motivo NO deseamos guardar un documento o registro en el sistema.  
 
 ![](cancelar1.png)
 
 
-### [Confirmar o Procesar](http://docs.oasiscom.com/Operacion/#confirmar-o-procesar)
+### [Confirmar o Procesar](#confirmar-o-procesar)
 
 La confirmación de movimientos implica el cambio en el estado del movimiento o comprobante de activo, ha procesado, este cambio de estado realizará las operaciones que dicho movimiento implica, afectación de saldos en: Inventarios, Cuentas por pagar, cartera, entre otras.  
 
@@ -506,14 +506,14 @@ Cuando un documento se encuentre en estado _Procesado_, este se verá de color *
 ![](confirmarprocesar2.png)
 
 
-### [Reversar](http://docs.oasiscom.com/Operacion/#reversar)
+### [Reversar](#reversar)
 
 
 Esta opción permite la corrección de errores en la inclusión de datos, su ejecución vuelve al comprobante o movimiento a estado ACTIVO en el cual se corrigen los errores cometidos para después volver a confirmar dicho comprobante o movimiento.  
 
 ![](reversar1.png)
 
-### [Anular](http://docs.oasiscom.com/Operacion/#anular)
+### [Anular](#anular)
 
 La opción de anulación permite la cesación de vigencia de un comprobante o movimiento. Un comprobante o movimiento anulado no permite su activación nuevamente, de ser necesario este debe ser elaborado nuevamente a lo cual el sistema le asignará un nuevo consecutivo o número.  
 
@@ -532,13 +532,13 @@ Cuando un documento esté en estado _Anulado_, este se verá de color **rojo**.
 ![](anular4.png)
 
 
-### [Imprimir](http://docs.oasiscom.com/Operacion/#imprimir)
+### [Imprimir](#imprimir)
 
 Esta opción permite imprimir la información que se está consultando en el momento.  
 
 ![](imprimir1.png)
 
-### [Impresión Directa](http://docs.oasiscom.com/Operacion/#impresión-directa)
+### [Impresión Directa](#impresión-directa)
 
 
 La funcionalidad de impresión directa permite la visualización de formatos de impresión una vez se procese cualquier movimiento en una ubicación específica.  
@@ -554,7 +554,7 @@ Hecho esto, cada vez que se procese un movimiento que tenga asignada la ubicaci�
 ![](imprimir9.png)
 
 
-### [Imprimir en lote](http://docs.oasiscom.com/Operacion/#imprimir-en-lote)
+### [Imprimir en lote](#imprimir-en-lote)
 
 
 La función permite seleccionar varios registros e imprimirlos según la parametrización del formato pertinente. Esto también aplica para las opciones que contienen formatos asociados, especialmente para las opciones tipo movimiento (Ventana tipo C).  
@@ -572,7 +572,7 @@ La función permite seleccionar varios registros e imprimirlos según la paramet
 
 Se puede observar que el sistema adjuntó los registros seleccionados con el detalle correspondiente para realizar la impresión.  
 
-### [Imprimir Reportes](http://docs.oasiscom.com/Operacion/#imprimir-reportes)
+### [Imprimir Reportes](#imprimir-reportes)
 
 
 OasisCom cuenta con la función de imprimir los reportes del sistema directamente desde la aplicación mediante el botón ![](imprimir2.png) sin importar el navegador en uso. Dicho botón se encuentra restringido de acuerdo a los permisos de impresión definidos en la aplicación [**SROL - Roles**](http://docs.oasiscom.com/Operacion/system/sacceso/srol).  
@@ -596,13 +596,13 @@ Al hacer click en el botón de impresión, se desplegará una ventana con el rep
 ![](imprimir6.png)
 
 
-### [Vista Preliminar](http://docs.oasiscom.com/Operacion/#vista-preliminar)
+### [Vista Preliminar](#vista-preliminar)
 
 Esta opción permite observar el informe de forma preliminar.  
 
 ![](vistapreliminar1.png)
 
-### [Vista previa múltiple](http://docs.oasiscom.com/Operacion/#vista-previa-múltiple)
+### [Vista previa múltiple](#vista-previa-múltiple)
 
 Este botón es parametrizable, donde se relaciona una lista desplegable con cada una de las plantillas que se deseen imprimir. En este caso se realiza para la facturación en JFAC.  
 
@@ -618,14 +618,14 @@ En el campo Argumento se coloca el nombre del reporte y en el campo defecto se d
 
 
 
-### [Importar](http://docs.oasiscom.com/Operacion/#importar)
+### [Importar](#importar)
 
 Esta opción permite importar datos generados.  
 
 ![](importar1.png)
 
 
-### [Exportar](http://docs.oasiscom.com/Operacion/#exportar)
+### [Exportar](#exportar)
 
 Esta opción permite exportar datos a diferentes tipos de archivos.  
 
@@ -641,7 +641,7 @@ Solo se permitirá la exportación en los  formatos TXT y CSV, esto con la final
 
 Se debe tener en cuenta que la restricción de la cantidad de registros a exportar dependerá del dominio, es decir, la cantidad de registros variará.  
 
-## [Restricción Exportación Reporte](http://docs.oasiscom.com/Operacion/#restricción-exportación-reporte)
+## [Restricción Exportación Reporte](#restricción-exportación-reporte)
 
 Cuando se pretende exportar una cantidad demasiado grande de registros de un reporte, el sistema enseña el siguiente mensaje y adicionalmente, el botón de exportar no se muestra.  
 
@@ -652,13 +652,13 @@ Cuando la cantidad de registros es pequeña, el botón de exportar si se muestra
 ![](restricción1.png)
 
 
-## [Refrescar o Actualizar](http://docs.oasiscom.com/Operacion/#refrescar-o-actualizar)
+## [Refrescar o Actualizar](#refrescar-o-actualizar)
 
 Esta opción permite actualizar la información reflejada en la pantalla con base a lo que esté siendo actualizada y ésta cambia en el momento de la consulta.  
 
 ![](refrescaractualizar1.png)
 
-## [Archivo imágenes](http://docs.oasiscom.com/Operacion/#archivo-imágenes)
+## [Archivo imágenes](#archivo-imágenes)
 
 OasisCom permite almacenar en algunas aplicaciones imágenes según la naturaleza de la aplicación y la necesidad de los registros, esta opción se encuentra en la columna imagen.  
 
@@ -668,7 +668,7 @@ Al dar clic en “enviar” se abrirá una ventana emergente en la cual se podr�
 
 ![](archivoimagenes2.png)
 
-## [Borrado masivo](http://docs.oasiscom.com/Operacion/#borrado-masivo)
+## [Borrado masivo](#borrado-masivo)
 
 En OasisCom podrá encontrar la opción de realizar un borrado masivo en algunas aplicaciones, esta opción varía dependiendo de la funcionalidad de cada aplicación lo cual permitirá o no realizar el borrado masivo.  
 
@@ -690,7 +690,7 @@ Una vez se da clic en eliminar, aparece una ventana emergente en el cual se conf
 Después de confirmar la acción los registros se eliminaran.  
 
 
-## [Limpiar consulta](http://docs.oasiscom.com/Operacion/#limpiar-consulta)
+## [Limpiar consulta](#limpiar-consulta)
 
 Esta función permite limpiar los filtros realizados en las diferentes columnas de la grilla.  
 
@@ -699,7 +699,7 @@ Esta función permite limpiar los filtros realizados en las diferentes columnas 
 Al  utilizar la  función de limpieza de filtros en el maestro en opciones que contienen Maestro-Detalle, se limpiarán los campos de consulta de este y adicionalmente se limpiaran los registros del detalle. 
 
 
-## [Adjuntos](http://docs.oasiscom.com/Operacion/#adjuntos)
+## [Adjuntos](#adjuntos)
 
 Esta Función facilita el cargue de archivos para el registro seleccionado.  
 
@@ -738,7 +738,7 @@ Y se procede a guardar los cambios, de esta manera el archivo queda adjunto y as
 
 Nota: El archivo se almacenará con nombre de documento, número de registro y el nombre del archivo.  
 
-## [Visualización de adjuntos](http://docs.oasiscom.com/Operacion/#visualización-de-adjuntos)
+## [Visualización de adjuntos](#visualización-de-adjuntos)
 
 Para visualizar un documento adjunto, ingresamos a la aplicación correspondiente y seleccionamos el registro al cual consultaremos los archivos adjuntos, seguidamente, damos click en el botón ![](adj.png) (_Adjuntos_).  
 
@@ -752,7 +752,7 @@ Finalmente, se abrirá otra página mostrando la información del archivo selecc
 
 ![](adj3.png)
 
-## [Control de Adjuntos](http://docs.oasiscom.com/Operacion/#control-de-adjuntos)
+## [Control de Adjuntos](#control-de-adjuntos)
 
 OasisCom tiene la funcionalidad de controlar los adjuntos relacionados a los diferentes documentos, esto por medio de la restricción de roles en donde se puede ocultar el botón _eliminar_ de la pestaña de adjuntos.  
 
@@ -784,7 +784,7 @@ En JFAC.
 
 
 
-## [Mensajes](http://docs.oasiscom.com/Operacion/#mensajes)
+## [Mensajes](#mensajes)
 
 La función Mensajes permite enviar mensajes internos entre usuarios del sistema y visualizar los mensajes no leídos con la aplicación SMEU.  
 
@@ -823,7 +823,7 @@ Para visualizar los mensajes no leídos:
 
 La aplicación nos describe la fecha y hora de llegada del mensaje, el origen, destino, asunto, cuerpo del mensaje y en Read nos indica si el mensaje ya fue leído o no.  
 
-## [Vista Zoom](http://docs.oasiscom.com/Operacion/#vista-zoom)
+## [Vista Zoom](#vista-zoom)
 
 La función del Zoom muestra una segunda ventana que permite seleccionar un registro de manera más fácil filtrando la búsqueda. Esta función está activa en todas las aplicaciones que contengan campos color azul ya sea en el maestro o en el detalle.  
 
@@ -843,7 +843,7 @@ Para visualizar un Zoom:
 
 La función permite realizar un filtro para que la búsqueda sea más rápida.  
 
-## [Creación de cliente mediante un zoom](http://docs.oasiscom.com/Operacion/#creación-de-cliente-mediante-un-zoom)
+## [Creación de cliente mediante un zoom](#creación-de-cliente-mediante-un-zoom)
 
 El sistema permite crear un tercero en el mismo momento en que se realiza un documento sin necesidad de ingresar previamente a la opción BTER - Terceros, como por ejemplo al crear una factura.  
 
@@ -872,7 +872,7 @@ Al intentar crear el tercero en la opción JFAC, traerá automáticamente estos 
 ![](jfac3.png)
 
 
-## [Multiadicionar](http://docs.oasiscom.com/Operacion/#multiadicionar)
+## [Multiadicionar](#multiadicionar)
 
 
 
@@ -892,7 +892,7 @@ Para visualizar la función Multiadicionar:
 
 ![](multiadicionar2.png)
 
-## [Vista Formulario](http://docs.oasiscom.com/Operacion/#vista-formulario)
+## [Vista Formulario](#vista-formulario)
 
 La vista Formulario permite agregar un nuevo registro en el maestro de las aplicaciones. Esta función facilita el ingreso de la información, puesto que, se diligencian todos los campos en una sola ventana como un formulario.  
 
@@ -916,7 +916,7 @@ Para agregar un nuevo registro:
 
 
 
-## [Copy-Paste](http://docs.oasiscom.com/Operacion/#copy-paste)
+## [Copy-Paste](#copy-paste)
 
 
 
@@ -927,7 +927,7 @@ La función Copy – Paste permite duplicar los renglones seleccionados, asignan
 ![](copypaste2.png)
 
 
-## [Totales en detalles por consulta general](http://docs.oasiscom.com/Operacion/#totales-en-detalles-por-consulta-general)
+## [Totales en detalles por consulta general](#totales-en-detalles-por-consulta-general)
 
 
 La función total en detalles por consulta general permite visualizar la sumatoria de los campos parametrizados para dicha función.  
@@ -939,13 +939,13 @@ La función total en detalles por consulta general permite visualizar la sumator
 La función se divide en dos sumatorias. La sumatoria en **Negrita** muestra el valor total por número de cuenta contable y la sumatoria del recuadro, arroja el valor total de todas las cuentas contables anteriormente marcadas con **Negrita**.  
 
 
-## [Workflow para procesos automáticos](http://docs.oasiscom.com/Operacion/#workflow-para-procesos-automáticos)
+## [Workflow para procesos automáticos](#workflow-para-procesos-automáticos)
 
 
 La funcionalidad permite realizar workflow en los procesos de forma automática. Un ejemplo es en la aplicación VPED – Pedidos, se define un flujo (por medio de status) por los cuales debe pasar el pedido según el proceso, esto permite no solo controlar los tiempos sobre cada etapa sino informar a los usuarios vía correo electrónico o por medio de tareas pendientes las acciones que requerían de su intervención.  
 
 
-## [Duplicar registro](http://docs.oasiscom.com/Operacion/#duplicar-registro)
+## [Duplicar registro](#duplicar-registro)
 
 
 La función duplicar registro, permite al seleccionar un registro y dar clic en el botón  , crear otro renglón exactamente igual al seleccionado, evitando volver a digitar toda la información.  
@@ -962,7 +962,7 @@ La función Duplicar Registro de igual manera se encuentra disponible en el deta
 
 ![](duplicar3.png)
 
-## [Envío de correo electrónico OasisCom](http://docs.oasiscom.com/Operacion/#envío-de-correo-electrónico-oasiscom)
+## [Envío de correo electrónico OasisCom](#envío-de-correo-electrónico-oasiscom)
 
 #### **Parametrización**
 
@@ -1040,7 +1040,7 @@ Podemos confirmar el envío de la orden de compra y del documento adjunto en el 
 
 ![](envioemail13.png)  
 
-## [Envío de Reportes por Correo Electrónico](http://docs.oasiscom.com/Operacion/#envío-de-reportes-por-correo-electrónico)
+## [Envío de Reportes por Correo Electrónico](#envío-de-reportes-por-correo-electrónico)
 
 Esta funcionalidad permite enviar por correo electrónico un reporte exportado en formato **.txt** o **.csv** cuando la cantidad de registros excede el límite establecido.  
 
@@ -1067,7 +1067,7 @@ Por el contrario, si el archivo cumple con las especificaciones será enviado al
 
 
 
-## [Comentarios o notas](http://docs.oasiscom.com/Operacion/#comentarios-o-notas)
+## [Comentarios o notas](#comentarios-o-notas)
 
 
 En algunas opciones del sistema se podrán ingresar notas o comentarios a los documentos mediante el icono de chat o mensaje que se muestra a continuación, al seleccionar dicho icono se desplegará la siguiente ventana en donde permite ingresar las notas que el usuario desee:
@@ -1081,7 +1081,7 @@ De las misma manera varios usarios podrán realizar diferentes notas sobre el mi
 ![](notas2.png)
 
 
-## [Notificaciones](http://docs.oasiscom.com/Operacion/#notificaciones)
+## [Notificaciones](#notificaciones)
 
 La funcionalidad _Notificaciones_ permite visualizar las notificaciones leídas o no leídas del usuario al igual que en el ícono se verá la cantidad de notificaciones sin leer.  
 
@@ -1106,7 +1106,7 @@ Para enviar un nuevo mensaje, damos click en la opción _Send new nofitication_,
 ![](notificacion4.png)
 
 
-## [Favoritos](http://docs.oasiscom.com/Operacion/#favoritos)
+## [Favoritos](#favoritos)
 
 La funcionalidad _Favoritos_ permite guardar las aplicaciones que el usuario utiliza con mayor frecuencia con le fin de acceder fácilmente.  
 
@@ -1124,7 +1124,7 @@ Para quitar alguna aplicación de la sección de Favoritos, bastará con dar cli
 
 ![](favoritos2.png)
 
-## [Fijar Pestañas](http://docs.oasiscom.com/Operacion/#fijar-pestañas)
+## [Fijar Pestañas](#fijar-pestañas)
 
 Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio, así cuando el usuario vuelva a iniciar sesión la aplicación se abrirá automáticamente.  
 
@@ -1132,7 +1132,7 @@ Esta funcionalidad del sistema permite fijar una pestaña a la ventana de inicio
 
 Para quitar alguna aplicación que se haya fijado daremos click en la opción _Quitar pestaña fija_.  
 
-## [Foro](http://docs.oasiscom.com/Operacion/#foro)
+## [Foro](#foro)
 
 En este foro se encuentran diferentes temas de discusión en los cuales se podrán obtener respuesta a varios interrogantes y en caso de dar un aporte al foro también tiene la posibilidad ya sea para plantear una pregunta o dar respuesta de un tema en específico.  
 
@@ -1140,7 +1140,7 @@ Para ingresar al foro, accedemos al website de OasisCom con la URL [www.oasiscom
 
 ![](foro.png)
 
-## [Temas](http://docs.oasiscom.com/Operacion/#temas)
+## [Temas](#temas)
 
 OasisCom cuenta con diferentes temas de personalización de color de la pantalla inicial de la aplicación.  
 
@@ -1152,7 +1152,7 @@ Algunos ejemplos de los temas son:
 
 ![](temas2.png)
 
-## [TaskWorkFlow](http://docs.oasiscom.com/Operacion/#taskworkflow)
+## [TaskWorkFlow](#taskworkflow)
 
 La funcionalidad TaskWorkFlow permite ver las actividades pendientes por ejecutar relacionadas a una tarea y las actividades ya ejecutadas de dicha tarea.  
 
@@ -1180,7 +1180,7 @@ Por ejemplo, en la aplicación XEXP - Exportaciones vemos que las actividades qu
 
 ![](xexp.png)
 
-## [Acciones sobre columnas](http://docs.oasiscom.com/Operacion/#acciones-sobre-columnas)
+## [Acciones sobre columnas](#acciones-sobre-columnas)
 
 Los usuarios pueden realizar las siguientes operaciones sobre los campos que conforman las aplicaciones:
 
@@ -1199,7 +1199,7 @@ Los usuarios pueden realizar las siguientes operaciones sobre los campos que con
 Estas operaciones aplican tanto para encabezados como para el detalle de las aplicaciones.  
 
 
-#### [Inmovilización de columnas](http://docs.oasiscom.com/Operacion/#inmovilización-de-columnas)
+#### [Inmovilización de columnas](#inmovilización-de-columnas)
 
 Para inmovilizar una columna, el usuario debe hacer click derecho sobre la etiqueta (nombre) de la misma y seleccionar la opción _Inmovilizar_:  
 
@@ -1223,7 +1223,7 @@ Se inmoviliza la columna producto, se puede desplazar el cursor a la derecha y r
 
 ![](grilla.png)
 
-#### [Agrupamiento de columnas](http://docs.oasiscom.com/Operacion/#agrupamiento-de-columnas)
+#### [Agrupamiento de columnas](#agrupamiento-de-columnas)
 
 Para realizar agrupaciones por columnas se debe dar click derecho sobre la etiqueta (nombre) de la misma y seleccionar la opción _Agrupar Por_:  
 
@@ -1243,7 +1243,7 @@ Por ejemplo, al agrupar por la columna _Estado_, este mostrará la agrupación p
 
 ![](bter6.png)
 
-#### [Ocultar columnas](http://docs.oasiscom.com/Operacion/#ocultar-columnas)
+#### [Ocultar columnas](#ocultar-columnas)
 
 Para ocultar columnas, damos click en el botón _Opciones de columna_ ![](columna.png). Este mostrará todos los campos que la componen y las opciones de mover y ocultar los mismos.  
 
@@ -1257,7 +1257,7 @@ Para ocultar una columna se debe desactivar el flag del campo y este automática
 
 **Limitaciones:** No es posible ocultar una columna inmovilizada.  
 
-#### [Mover columnas](http://docs.oasiscom.com/Operacion/#mover-columnas)
+#### [Mover columnas](#mover-columnas)
 
 Para mover columnas, damos click en el botón ![](+.png) y arrastramos el campo hacia arriba o hacia abajo según se desee.  
 
@@ -1278,7 +1278,7 @@ Al mover la columna _Tercero_, las demás quedarán inmovilizadas.
 ![](bter14.png)
 
 
-#### [Guardar ajustes de opción](http://docs.oasiscom.com/Operacion/#guardar-ajustes-de-opción)
+#### [Guardar ajustes de opción](#guardar-ajustes-de-opción)
 
 Para guardar los cambios anteriormente mencionandos, se debe dar click derecho en el nombre de la aplicación y seleccionar del menú la opción _Guardar ajustes de opción_:  
 
@@ -1287,7 +1287,7 @@ Para guardar los cambios anteriormente mencionandos, se debe dar click derecho e
 Si se realiza alguna de las opciones anteriormente mencionadas y no se guardan dichos ajustes, al cerrar y abrir la opción o bien, la aplicación OasisCom, estas acciones no serán tenidas en cuenta y no se guardaran los cambios. Adicionalmente, para visualizar los cambios guardados se debe cerrar e ingresar nuevamente a la aplicación.  
 
 
-#### [Restaurar ajustes de opción](http://docs.oasiscom.com/Operacion/#restaurar-ajustes-de-opción)
+#### [Restaurar ajustes de opción](#restaurar-ajustes-de-opción)
 
 Para restaurar los ajustes realizados a una opción, se debe dar click derecho en el nombre de la misma y seleccionar _Restaurar ajustes de opción_:  
 
@@ -1296,7 +1296,7 @@ Para restaurar los ajustes realizados a una opción, se debe dar click derecho e
 Se debe cerrar e ingresar nuevamente a la aplicación OasisCom para evidenciar la restauración de la opción.  
 
 
-## [Formularios Dinámicos](http://docs.oasiscom.com/Operacion/#formularios-dinámicos)
+## [Formularios Dinámicos](#formularios-dinámicos)
 
 Los formularios dinámicos se encuentran en el detalle de algunas aplicaciones como por ejemplo, GCON - Consultas o AANA - Análisis de Calidad.  
 
@@ -1318,7 +1318,7 @@ Si se desea eliminar el bloque agregado, damos click en el botón _Borrar_.
 
 ![](dinamico3.png)
 
-## [Colores en el detalle de acuerdo con la condición](http://docs.oasiscom.com/Operacion/#colores-en-el-detalle-de-acuerdo-con-la-condición)
+## [Colores en el detalle de acuerdo con la condición](#colores-en-el-detalle-de-acuerdo-con-la-condición)
 
 Esta funcionalidad permite la visualización de los detalles de las opciones con colores de acuerdo a condiciones especiales.  
 
@@ -1329,7 +1329,7 @@ En el detalle de esta opción, los registros visualizados en color **Rojo**, ind
 ![](glab.png)
 
 
-## [Adjuntos y Comentarios](http://docs.oasiscom.com/Operacion/#adjuntos-y-comentarios)
+## [Adjuntos y Comentarios](#adjuntos-y-comentarios)
 
 Se permite la visualización de registros que contienen adjuntos y/o comentarios. En la botonera, cuando un registro tengan alguna de estas dos características (o ambas) los botones se verán resaltados con color azul.  
 
@@ -1345,7 +1345,7 @@ Se permite la visualización de registros que contienen adjuntos y/o comentarios
 
 ![](boton6.png)
 
-## [Peso Dinámico](http://docs.oasiscom.com/Operacion/#peso-dinámico)
+## [Peso Dinámico](#peso-dinámico)
 
 El sistema OasisCom cuenta con la función de Peso Dinámico para las aplicaciones _IMOV, GMOV, QMOVV, LORD y FFAC_. La cual consiste en realizar una parametrización que permita que al insertar algún producto con varias cantidades en las aplicaciones dichas, realice automáticamente el cálculo del peso de todas las unidades y muestre allí dicho número.  
 
@@ -1369,7 +1369,7 @@ Al insertar varias cantidades del producto.
 
 ![](imov1.png)
 
-## [Restricciones en reportes](http://docs.oasiscom.com/Operacion/#restricciones-en-reportes)
+## [Restricciones en reportes](#restricciones-en-reportes)
 
 Es posible agregar restricciones en los reportes por _tercero_, _compañía_ y _ubicación_ en las opciones de tipo reporte, esto con previa parametrización en la opción **SROL - Roles**.  
 
@@ -1413,7 +1413,7 @@ Para obtener dicha funcionalidad debemos parametrizar lo siguiente:
          {datasetname:'ConjuntoDatos2',table:'Client', fields:['ClientId']}]  
 
 
-## [Tipos de alertas](http://docs.oasiscom.com/Operacion/#tipos-de-alertas)
+## [Tipos de alertas](#tipos-de-alertas)
 
 El sistema genera 3 tipos de alertas:
 
@@ -1430,7 +1430,7 @@ El sistema genera 3 tipos de alertas:
 
 ![](roja.png)
 
-## [Consulta rapida productos](http://docs.oasiscom.com/Operacion/#consulta-rapida-productos)  
+## [Consulta rapida productos](#consulta-rapida-productos)  
 
 Para las opciones de movimiento que involucre en el detalle el campo producto. Ejemplo: **OFAC, FFAC, JFAC, GFAC, IMOV** entre otras, se parametriza el botón **“consulta rápida de productos”** en el maestro del documento.  
 Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta por:  
@@ -1449,7 +1449,7 @@ Esta consulta extrae los datos pricipales del **[BPRO]**, realiza la consulta po
     
     ![](jfac13.png)
     
-## [Personalizacion de zoom](http://docs.oasiscom.com/Operacion/#personalizacion-de-zoom)  
+## [Personalizacion de zoom](#personalizacion-de-zoom)  
 
 Se requiere que la configuración presente en las grillas para personalización también esté presente en los zooms, sin afectar el funcionamiento de los mismos. La personalización tiene la misma función que en las grillas, de ocultar y mover los campos de la misma.  
 Los botones resaltados guardan o borran la personalización de cada uno de los zoom, por usuario.  
@@ -1466,7 +1466,7 @@ Ocultar y mover los campos de la misma grilla.
 
 Al entrar con otro usuario no muestra la personalización, ya que aplica unicamente por usuario.  
 
-## [Parámetros iniciales exportador dinámicos](http://docs.oasiscom.com/Operacion/#parámetros-iniciales-exportador-dinámicos)  
+## [Parámetros iniciales exportador dinámicos](#parámetros-iniciales-exportador-dinámicos)  
 
 Para colocar los filtros tipo argument en exportadores dinámicos: el filtro funciona únicamente al realizar la consulta final del proceso de exportación dinámica, es decir al presionar el botón de aceptar en el **BINT**, al realizar la vista previa del exportador no se verá reflejado la aplicación del filtro; sino únicamente al exportar la información final.  
 
@@ -1505,7 +1505,7 @@ Se crea nueva interface BINT 23, para el proceso de cartera financiera, tomando 
 Formato aseguradora, para el proceso de cartera financiera.  
 
 
-## [Vistas previas opciones tipo A, B en SCAM](http://docs.oasiscom.com/Operacion/#vistas-previas-opciones-tipo-a-b-en-scam)  
+## [Vistas previas opciones tipo A, B en SCAM](#vistas-previas-opciones-tipo-a-b-en-scam)  
 
 Validamos la parametrizacion, para estos casos practicos, realizamos  y verificamos la parametrizacion de **BBAN** para las tipo A.  
 Ingresamos al programa  **SCAM**.  
@@ -1552,7 +1552,7 @@ Para levantar el reporte rdlc , deshabilitamos el check.
 
 
 
-## [POWER - BI](http://docs.oasiscom.com/Operacion/#power-bi) 
+## [Power BI](#power-bi) 
 
 
 Es un servicio de análisis empresarial proporcionado por Microsoft que permite a los usuarios conectar, analizar y visualizar datos de una amplia variedad de fuentes. 
