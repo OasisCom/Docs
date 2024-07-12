@@ -16,6 +16,8 @@ editable: si
 
 #### Entérate de todas nuestras actualizaciones, seleccionando cada enlace:
 
+##### [Versiones OasisCom Mayo 2024](https://mailchi.mp/oasiscom/nuevas-actualizaciones-de-oasiscom-17330016?e=1c88a5183f)
+
 ##### [Versiones OasisCom Abril 2024](https://mailchi.mp/oasiscom/nuevas-actualizaciones-de-oasiscom-16065199?e=1c88a5183f)
 
 ##### [Versiones OasisCom Marzo 2024](https://mailchi.mp/oasiscom/nuevas-actualizaciones-de-oasiscom-15964063?e=1c88a5183f)
